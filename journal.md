@@ -354,17 +354,11 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* W drodze do “Różyczki”, gdzie umówiliśmy się wcześniej z [Kranmerami](#ellander_ellander_otto_kranmer) jako miejscem spotkania po zakończeniu zadania, znajdujemy sklep zielarski “[Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)”
 	* Właściciel “[Fiolki](#ellander_ellander_fiolka_zdrowia)”, [Viggo Regner](#ellander_ellander_viggo_regner), skłonny jest odkupić od nas głowę potwora którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](#ellander_ellander_otto_kranmer) jej nie zażądają
 	* [Kranmerowie](#ellander_ellander_otto_kranmer) wypłacają nagrodę - zobaczyli trofeum ale nie żądają aby je im zostawić
-2. [Viggo Regner](#ellander_ellander_viggo_wojciech) czekał na nas. Poszedł z nami do [Kuropatwy](#kuropatwa) na podgrodziu gdzie ufundował nam posiłek i nocleg
-3. Zakończenie zlecenia
-	* Wchodzimy do miasta. Strażnicy nie robią problemów na bramie
-	* W drodze do “Różyczki”, gdzie umówiliśmy się wcześniej z [Kranmerami](#okranmer) jako miejscem spotkania po zakończeniu zadania, znajdujemy sklep zielarski “[Fiolka Zdrowia](#fiolka)”
-	* Właściciel “[Fiolki](#fiolka)”, [Viggo Regner](#vregner), skłonny jest odkupić od nas głowę potwora którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](#okranmer) jej nie zażądają
-	* [Kranmerowie](#okranmer) wypłacają nagrodę - zobaczyli trofeum ale nie żądają aby je im zostawić
-4. [Viggo Regner](#vregner)
+2. [Viggo Regner](#ellander_ellander_viggo_regner)
 	* sprzedajemy głowę
 	* sklep jest obserwowany przez Łowców Czarownic
 	* **[Zadanie: Punkt Mocy pod Ellander](#q2)**
-5. [Eliza](#ellander_ellander_eliza)
+3. [Eliza](#ellander_ellander_eliza)
 	* Krawcowa jest bardzo zmęczona; [Ilana](#ilana) przekonuje ją że możemy pomóc pomimo że nie jesteśmy wiedźminami
 	* Jej dziecko, [Daria](#ellander_ellander_daria), mówi że widzi ojca zmarłego na wojnie z Czarnymi
 	* Przypadkiem w odbiciu w szybie zauważamy [Szaraka](#szarak) - udaje nam się go pokonać nie krzywdząc dziecka ani matki
@@ -381,7 +375,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Znajdujemy punkt który zdaje się być ogniskiem Mocy w okilicy - na ścianie i suficie znajduje się niekształtny kawał brudnozielonej galarety, powoli kapiący do ścieku
 3. Pozawymiarowa Jaskinia
 	* [Kajetan](#kajetan) próbuje umoczyć bełt w kapiącym, zwraca uwagę gluta na siebie
-	*  Udaje nam się część gluta wrobić w walkę z "rojem" szczurów
+	* Udaje nam się część gluta wrobić w walkę z "rojem" szczurów
 	* Pozbywamy się pozostałej galarety odsłaniając przejście/teleport do dużej jaskini z jeziorem i wysepką na jej środku. Widać dziwne kryształy
 	* [Kajetan](#kajetan) wchodzi do jaskini. Perspektywa załamuje się w dziwny sposób dla [Ilany](#ilana)
 	* Na wieży na wysepce widać z oddali coś błyszczącego - [Kajetan](#kajetan) znajduje obsydianowy topór w rękach ogromnego szkieletu
@@ -427,18 +421,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 5. "[Ziołowy Kufel](#ellander_ellander_ziolowy_kufelek)"
 	* Nie jest aż tak strasznie drogi
 	* Radzi sobie lepiej niż "[Różyczka](#ellander_ellander_iza)
-	* Kupno zimowych ubrań
-	* [Eliza](#eliza) zdaje sobie sprawę z iluzji wokół [Kajetana](#kajetan)
-	* [Dziecko](#daria) przejawia predyspozycje do użycia mocy ale nie ma kontroli nad efektem
-	* Kapłanki Melitele mogą nauczyć kontroli - skonsultować z [Viggo](#vregner), może on pomoże    
-	* Droga do [Świątyni Melitele](#smelitele) stosunkowo przejezdna ale nie całkiem bezpieczna
-4. "[Różyczka](#rozyczka)"
-	* atak budowlańców w drodze do karczmy, koło 8 chłopa - PC uciekają
-	* Podupadła, brakuje jadła i klienteli
-	* Karczmy nie radzą sobie dobrze w nowej sytuacji
-5. "[Ziołowy Kufel](#ziolowy)"
-	* Nie jest aż tak strasznie drogi
-	* Radzi sobie lepiej niż "[Różyczka](#rozyczka)"
 	* Problemy na drogach ubijają handel - mniej podróżnych i problem z zaopatrzeniem
 	* Glejty do miasta dla ludzi którzy nie handlują aby oszczędzać zasoby na przyjezdnych
 	* Parki przearanżowane w farmy
@@ -450,11 +432,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Podjudzacz robotników](#ellander_ellander_mlody_kaplan) pojawia się z ochroniarzem, wypytuje co można zamówić (robi wrażenie że wypytuje jak źle jest)
 	* [Podjudzacz jest kapłanem](#ellander_ellander_mlody_kaplan) który ostrzy zęby na pozycję [głównego kapłana](#ellander_ellander_kaplan_matias) (przemawiający staruszek z Rynku)
 	* Banda 8(?) robotników wchodzi, grozi, zostaje przepędzona przez [Kapłana](#ellander_ellander_mlody_kaplan). [Gospodarze](#ellander_ellander_maria) są wdzięczni, [Ilana](#ilana) widzi że to przedstawienie z użyciem magii i konfrontuje [Kapłana](#ellander_ellander_mlody_kaplan)
-	* [Kajetan](#kajetan) nie chce się mieszać i wychodzi do [Ziołowego Kufla](#ellander_ellander_ziolowy_kufelek). Odnosi wrażenie że [Różyczka](#ellander_ellander_Myszowór, który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej. Opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
-	* [Podjudzacz robotników](#mkaplan) pojawia się z ochroniarzem, wypytuje co można zamówić (robi wrażenie że wypytuje jak źle jest)
-	* [Podjudzacz jest kapłanem](#mkaplan) który ostrzy zęby na pozycję [głównego kapłana](#matias) (przemawiający staruszek z Rynku)
-	* Banda 8(?) robotników wchodzi, grozi, zostaje przepędzona przez [Kapłana](#mkaplan). [Gospodarze](#maria) są wdzięczni, [Ilana](#ilana) widzi że to przedstawienie z użyciem magii i konfrontuje [Kapłana](#mkaplan)
-	* [Kajetan](#kajetan) nie chce się mieszać i wychodzi do [Ziołowego Kufla](#ziolowy). Odnosi wrażenie że [Różyczka](#rozyczka) skazana jest na zagładę, a jakiekolwiek akcje mogą tylko pogorszyć sytuację
+	* [Kajetan](#kajetan) nie chce się mieszać i wychodzi do [Ziołowego Kufla](#ellander_ellander_ziolowy_kufelek). Odnosi wrażenie że [Różyczka](#ellander_ellander_rozyczka) skazana jest na zagładę, a jakiekolwiek akcje mogą tylko pogorszyć sytuację
 	* [Ilana](#ilana) kończy konfrontację i wychodzi za [Kajetanem](#kajetan) po drodze spotykając szczury
 7. "[Ziołowy Kufel](#ellander_ellander_ziolowy_kufelekziolowy)"
 	* Strażnik ugryziony przez szczura - potrzebuje pomocy medyka - kapłanek Melitele?
@@ -475,16 +453,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* wypożyczamy wóz od Łowców Potworów
 3. Droga
 	* wyruszamy z miasta zabierając chorego strażnika, [Toma](#ellander_ellander_tom), [Elizę](#ellander_ellander_eliza) i [Darię](#ellander_ellander_vregner)
-	* Ochroniarz Janush to asystentka [Lukrecja](#lukrecja) ukryta w iluzji (tworzonej przez amulet)
-	* [Kajetan](#kajetan) zna testy na predyspozycje z elfich szkół magii
-	* [Dziecko](#daria) definitywnie ma predyspozycje
-	* [Viggo](#vregner) nie chce/może wziąć jej na naukę i zgadza się że kapłanki Melitele to dobry pomysł
-2. Przygotowania
-	* w mieście krąży nasze złoto które straciliśmy gdy nas porwano
-	* [Ilana](#ilana) uprzedza i uspakaja [Elizę](#eliza) nt. towarzystwa w którym będziemy podróżować
-	* wypożyczamy wóz od Łowców Potworów
-3. Droga
-	* wyruszamy z miasta zabierając chorego strażnika, [Toma](#tom), [Elizę](#eliza) i [Darię](#daria)
 	* po drodze widzimy rozbity wóz i ślady walki
 	* nocujemy w stosunkowo niewidocznym miejscu
 	* po Dwójksiężycowej Nocy konstelacje na niebie są te same, jednak poprzesuwane
