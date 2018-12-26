@@ -1,6 +1,7 @@
 <a id='bialezimno'></a>_Zaprawdę, powiadam wam, oto nadchodzi wiek miecza i topora, wiek wilczej zamieci. Nadchodzi Czas Białego Zimna i Białego Światła, Czas Szaleństwa i Czas Pogardy, Tedd Deireadh, Czas Końca. Świat umrze wśród mrozu, a odrodzi się wraz z nowym słońcem. Odrodzi się ze Starszej Krwi, z Hen Ichaer, z zasianego ziarna. Ziarna, które nie wykiełkuje, lecz wybuchnie płomieniem.
 Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę wam - wprzód spłynie ziemia krwią Aen Seidhe, Krwią Elfów..._
 
+
 ## Spis treści
 * [Postaci](#postaci)
 * [Lokacje](#lokacje)
@@ -20,7 +21,9 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Sesja 7](#sesja-7)
 	* [Sesja 8](#sesja-8)
 	* [Sesja 9](#sesja-9)
+	* [Sesja 10](#sesja-10)
 <hr />
+
 
 ## Postaci:
 * PC - Ilana<a id='ilana'></a> - człowiek, druidka, krzepka, gęste włosy, potrafi zamieniać się w zwierzęta
@@ -137,17 +140,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		rządzi w [Wyzimie](#temeria_wyzima) twardą ręką; grał kluczową rolę w podboju Temerii
 		zakładał obozy pracy dla Scoia'tael
 	* ✝Menge<a id='redania_menge'></a> - ; przywódca zakonu Łowców
-		[Lord Slyz Myrton](#ellander_ellander_lord_myrton) podwładny
+		[Lord Slyz Myrton](#ellander_ellander_lord_myrton): podwładny
 
-## Lokacje:
-* Aedirn 
-	* <a id='aedirn'></a>[Kasimir](#kasimir): podwładny
-* [Świątynia Melitele](#ellander_smelitele):
-	* Matka Iola<a id='ellander_smelitele_matka_iola'></a> - ; kapłanka;
-* [Kaedwen](#kaedwen)
-	* ✝? Król Henselt<a id='kaedwen_krol_henselt'></a>
-* [Rediania](#redania)
-	* Król Radowid<a id='redania_krol_radowid'>
 
 ## Lokacje:
 * Brokilion<a id='brokilion'></a>
@@ -155,14 +149,10 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Cidaris<a id='cidaris'></a>
 	* Cidaris<a id='cidaris_cidaris'></a>
 	* Bremervoord<a id='cidaris_bremervoord'></a>
-	* Kerack<a id='cidaris_kerack'></a>
+    * Kerack<a id='cidaris_kerack'></a>
 * Ellander<a id='ellander'></a>
 	* Ellander<a id='ellander_ellander'></a>
-	Iola - ; kapłanka;
-
-## Lokacje:
-* Ellander<a id='ellander'></a>
-	* Karczmy
+	    * Karczmy
 			* Kuropatwa<a id='ellander_ellander_kuropatwa'></a> - smacznie ale drogo
 			* Ziołowy kufelek<a id='ellander_ellander_ziolowy_kufelekziolowy'></a> - nieco wyższe ceny dla nieludzi
 			* Różyczka<a id='ellander_ellander_rozyczka'></a> - prowadzona przez i przychylna nieludziom
@@ -176,8 +166,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 			* Prawa Tarcza<a id='ellander_ellander_prawa_tarcza'></a>; handlarz bronią i pancerzem, ma spory ale w granicach rozsądku narzut (~33%);
 		* Lokacje
 	* Świątynia Melitele<a id='ellander_smelitele'></a>
-	
-	* Obóz Redańczyków
+	    * Obóz Redańczyków
 		* Świątynia
 	* Ysgyth<a id='ellander_ysgyth'></a>
 		* Starożytny cmentarz elfiej szlachty, obłożony klątwami
@@ -189,8 +178,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Nilfgaard<a id='nilfgaard'></a>
 * Redania<a id='redania'></a>
 	* Novigrad<a id='redania_novigrad'></a>
-	
-	* Stolica wyznawców wiecznego Ognia
+	    * Stolica wyznawców wiecznego Ognia
 	* Oxenfurt<a id='redania_oxenfurt'></a>
 		* Viggo [Regner](#ellander_ellander_viggo_vregner) - miejsce nauki
 	* Rinbe<a id='redania_rinbe'></a>Brokilion<a id='brokilion'>
@@ -199,19 +187,16 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Temeria<a id='temeria'></a>
 	* Wyzima<a id='temeria_wyzima'></a>
 		* stolica Temerii
-	rozrósł się po Dwójksiężycowej Nocy
-* Maribor<a id='temeria_maribor'></a>
-	
-	* znikł się po Dwójksiężycowej Nocy
     * Gros Velen<a id='temeria_gros_velen'></a>
 	    * Wyspa Thanedd<a id='gros_velentemeria_wyspa_thanedd'></a>
             zniszczona szkoła czarownic
     * Dorian<a id='temeria_dorian'></a>
+* Maribor<a id='temeria_maribor'></a>
+	* zniknął się po Dwójksiężycowej Nocy
 * Wyspy Skellige<a id='wyspy_skellige'></a>
 * Zerrikania<a id='zerrikania'></a>
-* Wyzima<a id='wyzima'>
-	* stolica Temerii
-   >
+
+
 ## Ogłoszenia
 * Nagroda za oczyszczenie traktu łączącego [Wyzimę](#temeria_wyzima) z [Mariborem](#temeria_maribor) z trupojadów - Zarządca [Wyzimy](#temeria_wyzima)
 * Nagroda za oczyszczenie traktów w okolicy [Ellander](#ellander_ellander) z bandytów - Wójt Podgrodzia [Ellander](#ellander_ellander); **[Zadanie: Bandyci wokół Ellander](#q3a)**
@@ -308,10 +293,10 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Viggo Regner](#ellander_ellander_viggo_regner)
 - [ ] Śladami [Vilgeforza](#vilgeforz)<a id='q9'></a>
 - [ ] Gdzie jest [Myszowór](#myszowor)?<a id='q10'></a>
-- [ ] Zaczarowany flet
+- [ ] Zaczarowany flet<a id='q11'></a>
 	* Podczas polowania na szczury okazuje się, że te są kontrolowane przez osobę grającą konkretną melodią na flecie(?)
 	* Jest opcja, że ta osoba "użycza" sobie zmysłów szczurów
-	* O: pomoc ze strony Skowika i jego braci w złapaniu/zabiciu grajka
+	* O: pomoc ze strony [Skowika](#skovik) i jego braci w złapaniu/zabiciu grajka
 
 
 ## Różne
@@ -320,6 +305,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 - Goecja<a id="goecja"></a> - szkoła magi skupiająca się na kontrolowaniu dusz i sił życiowych
 
 ## Dziennik
+
+
 ### Sesja 0
 ##### Przed Aequinoctium jesiennym
 1. Dwójksiężycowa Noc
@@ -328,7 +315,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Łowcy giną (dowódca podczas nieudanego przesłuchania), wóz zostaje zniszczony, [Ilana](#ilana) i [Kajetan](#kajetan) są wolni, jednak ich dobytek nie był transportowany z nimi
 
 
-### Sesja 
+### Sesja 1
 1. Do Pontaru i z powrotem
 	* wyruszamy na północ od obozowiska, z dala od niepokojących odgłosów lasu
 	* obserwujemy atak na wóz (Łowców czarownic?) przez bandytów (Specjalne Służby Temerskie?)
@@ -343,65 +330,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Wejście do miasta - łapówka
 	* Znalezienie karczmy przyjaznej nieludziom, "[Różyczki](#ellander_ellander_rozyczka)"
 	* Bracia [Kranmer](#ellander_ellander_otto_kranmer) potrzebują kogoś do pomocy drwalom; **[Zadanie: Zlecenie na Kota Migota](#q1)**
-	* [Kajetan](#kajetan) wyzywa chamskich budowlańców na pojedynek na rękę żeby pozbyć się ich z Karczmy; **[Zadanie: Rasiści w Ellander](#q2)**
-### Sesja 
-1. [Ellander](#ellander_ellander) i okilice
-	* wyruszamy z powrotem na porębę
-	* Zwłoki 3 drwali są chowane; Majster [Wojciech](#okranmer); Hans [Kranmer](#hkranmer)
-- [x] Punkt Mocy pod [Ellander](#ellander)<a id='q2'>
-	* 100GP za dowód działania Mocy w kanałach
-	* 3 wejścia
-	* przy parku miejskim; strzeżone
-	* na prywatnej posesji
-	* za miastem
-- [ ] Rasiści w [Ellander](#ellander)<a id='q3'>
-	* Ulubionym celem rasistów podburzanych przez kapłanów zdaje się być karczma “[Różyczka](#rozyczka)”
-- [ ] Bandyci wokół Ellander<a id='q3a'>
-	* Dowiedzieć się szczegółów u Wujta Podgrodzia [Ellander](#ellander) i/lub w Ratuszu [Ellander](#ellander)
-- [x] Tato wrócił z wojny<a id='q4'>
-	* Charytatywnie/ubrania
-	* Córka krawcowej [Elizy](#eliza) widzi zmarłego ojca
-	* “Ojciec” to potwór żywiący się tęsknotą dziecka, widoczny dla dorosłych tylko w lustrach, został zabity przez PC
-	* Dziecko przejawia predyspozycje do użycia Mocy; nie ma kontroli; potrzebuje nauk zanim podpadnie Łowcom Czarownic
-	* Krawcowa [Eliza](#eliza)
-- [ ] Dziedzic rodu Harevard<a id='q5'>
-	* Czy ktoś przetrwał najazd Niilfgaardczyków?
-- [ ] Szczury uciekające z kanałów<a id='q6'>
-	* ?
-	* Są duże, niektóre większe nawet od psa
-	* Mają żółte ślepia przypominające bardziej gada niż ssaka
-	* Wychodzą na ulice i są agresywne, odpowiadają za kilka śmierci
-	* Lord [Myrton](#mytron) (?)
-- [x] Ku Świątyni!<a id='q7'>
-	* Glejt do miasta, nieustalona ilość złota
-	* O: Zabierzcie ze sobą [Elizę](#eliza) i [Darię](#daria)
-	* O: Zabierzcie ze sobą strażnika [Toma](#tom) pogryzionego przez chorego szczura
-	* Zdobądźcie zapas leków / wsparcie kapłanek Melitele dla miasta [Ellander](#ellander)
-	* Lord [Myrton](#mytron)
-
-## Dziennik
-### Sesja 0
-1. Dwójksiężycowa Noc
-	* [Ilana](#ilana) i [Kajetan](#kajetan) budzą się w wozie Łowców Czarownic, skuci w samych gaciach, gdy wóz zatrzymuje się na nocny postój
-	* Plany ucieczki przerwane przez dziwne zjawisko na niebie i atak [gryfa](#gryf)
-	* Łowcy giną (dowódca podczas nieudanego przesłuchania), wóz zostaje zniszczony, [Ilana](#ilana) i [Kajetan](#kajetan) są wolni, jednak ich dobytek nie był transportowany z nimi
-
-
-### Sesja 1
-1. Do Pontaru i z powrotem
-	* PC wyruszają na północ od obozowiska, z dala od niepokojących odgłosów lasu
-	* PC są świadkami ataku na wóz (Łowców czarownic?) przez bandytów (Specjalne Służby Temerskie?)
-	* PC igrają z utopcami w próżnej próbie przeszukania zwłok pozostawionych przez bandytów
-	* PC podążają za bandytami
-2. Kryjówka bandytów
-	* PC zostają zauważeni i przegonieni przez bandytów u wejścia do jaskini służącej im za kryjówkę
-3. Poręba
-	* Podążając na południe napotykają drwali. Dwóch z nich zginęło ostatniej nocy, coś złego chodzi po lecie - bohaterowie są zmęczeni i ranni, wyruszają do niedalekiego już miasta odpocząć i poszukać pracy; **[Zadanie: Zlecenie na Kota Migota](#q1)**
-4. [Ellander](#ellander)
-	* Tablica z ogłoszeniami przed [Kuropatwą](#kuropatwa)
-	* Wejście do miasta - łapówka
-	* Znalezienie karczmy przyjaznej nieludziom, "[Różyczki](#rozyczka)"
-	* Bracia [Kranmer](#okranmer) potrzebują kogoś do pomocy drwalom; **[Zadanie: Zlecenie na Kota Migota](#q1)**
 	* [Kajetan](#kajetan) wyzywa chamskich budowlańców na pojedynek na rękę żeby pozbyć się ich z Karczmy; **[Zadanie: Rasiści w Ellander](#q2)**
 	* PC wyruszają z powrotem na porębę
 	* Zwłoki 3 drwali są palone; Majster [Wojciech](#ellander_ellander_wojciech) opowiada nam o wycinkach które powinniśmy sprawdzić
@@ -579,7 +507,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* w szklarni/sadzie jakieś złe pnącza obrosły prastary dąb rosnący w Punkcie Mocy - usuńcie je, a pomożemy miastu i wam
 	* pnącza zostały usunięte. [Kasimir](#kasimir) zdaje się nie przejmować zasadami tak długo jak jego możliwość awansu korzysta, jednak powinniśmy być ostrożni jeśli wrócimy do Ellander
 
-### Sesja 7
+
+### Sesja 8
 1. [Świątynia](#ellander_smelitele)
 	- [Ilana](#ilana) rzeźbi nowy kostur z gałęzi dębu który uratowaliśmy
 	- czytamy księgi, rozmawiamy z [Matką Iolą](#ellander_smelitele_matka_iola):
@@ -600,7 +529,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	- [Viggo](#ellander_ellander_viggo_regner) obiecał znaleźć dla nas pracę jeśli zdecydujemy się zimować w Ellander **[Zadanie: Szczurołapa zatrudnię od zaraz](#q8)**
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Podchoroąży zawsze zdąży</i></div>
 
-### Sesja 8
+
+### Sesja 9
 1. [Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)
 	* [Viggo](#ellander_ellander_viggo_regner) dał nam pismo umożliwiające wejście do kanałów
 2. Kanały
@@ -627,7 +557,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Kajetana](#kajetan) wyzwali na rękę. Wygrywa z [Skovikiem](#skovik) i jednym z jego braci, z drugim i [Ilaną](#ilana) przegrywa
 	* [Skovik](#skovik) pochodzi z [Wysp Skellige](#wyspy_skellige), dzieli się informacjami jak najlepiej tam dotrzeć, faktem że [Myszowór](#myszowor) przebywa na [Wyspach Skellige](#wyspy_skellige)
 
-### Sesja 9
+
+### Sesja 10
 1. [Różyczka](#ellander_ellander_rozyczka)
 	* Grupa Skovika podróżowała z [Dorian](#temeria_dorian) do [Wyzimy](#temeria_wyzima), potem do [Ellander](#ellander_ellander), gdzie eskortowali wóz z ptakami (kruki)
 	* [Emhmyr](#niifgaard_emhmyr) [Nilfgaard](#nilfgaard) został zabity przez szlachtę po trzecim najeździe na północ - najazdy nie przynosiły konkretnych korzyści dla ich kraju
