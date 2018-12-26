@@ -329,40 +329,43 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Tablica z ogłoszeniami przed [Kuropatwą](#ellander_ellander_kuropatwa)
 	* Wejście do miasta - łapówka
 	* Znalezienie karczmy przyjaznej nieludziom, "[Różyczki](#ellander_ellander_rozyczka)"
-	* Bracia [Kranmer](#ellander_ellander_otto_kranmer) potrzebują kogoś do pomocy drwalom; **[Zadanie: Zlecenie na Kota Migota](#q1)**
-	* [Kajetan](#kajetan) wyzywa chamskich budowlańców na pojedynek na rękę żeby pozbyć się ich z Karczmy; **[Zadanie: Rasiści w Ellander](#q2)**
-	* PC wyruszają z powrotem na porębę
-	* Zwłoki 3 drwali są palone; Majster [Wojciech](#ellander_ellander_wojciech) opowiada nam o wycinkach które powinniśmy sprawdzić
-	* Znajdujemy śpiącego [Kota Migota](#migot), dzięki przewadze niespodziewanego ataku udaje nam się pozbyć bestii
 
 
 ### Sesja 2
-1. Powrót z [Wojciechem](#ellander_ellander_wojciech)
+1. W Różyczce
+	* Bracia [Kranmer](#ellander_ellander_otto_kranmer) potrzebują kogoś do pomocy drwalom; **[Zadanie: Zlecenie na Kota Migota](#q1)**
+	* [Kajetan](#kajetan) wyzywa chamskich budowlańców na pojedynek na rękę żeby pozbyć się ich z Karczmy; **[Zadanie: Rasiści w Ellander](#q2)**
+2. Polowanie na bestię
+	* PC wyruszają z powrotem na porębę
+	* Zwłoki 3 drwali są palone; Majster [Wojciech](#ellander_ellander_wojciech) opowiada nam o wycinkach które powinniśmy sprawdzić
+	* Znajdujemy śpiącego [Kota Migota](#migot), dzięki przewadze niespodziewanego ataku udaje nam się pozbyć bestii
+3. Powrót z [Wojciechem](#ellander_ellander_wojciech)
 	* wszyscy drwale poza majstrem rozeszli się do domów - nie zamierzają pracować póki nie będzie bezpiecznie
 	* [Wojciech](#ellander_ellander_wojciech) czekał na nas. Poszedł z nami do [Kuropatwy](#ellander_ellander_kuropatwa) na podgrodziu gdzie ufundował nam posiłek i nocleg
-2. Zakończenie zlecenia
+	
+### Sesja 3
+1. Zakończenie zlecenia
 	* Wchodzimy do miasta. Strażnicy nie robią problemów na bramie
 	* W drodze do “Różyczki”, gdzie umówiliśmy się wcześniej z [Kranmerami](#ellander_ellander_otto_kranmer) jako miejscem spotkania po zakończeniu zadania, znajdujemy sklep zielarski “[Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)”
 	* Właściciel “[Fiolki](#ellander_ellander_fiolka_zdrowia)”, [Viggo Regner](#ellander_ellander_viggo_regner), skłonny jest odkupić od nas głowę potwora którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](#ellander_ellander_otto_kranmer) jej nie zażądają
 	* [Kranmerowie](#ellander_ellander_otto_kranmer) wypłacają nagrodę - zobaczyli trofeum ale nie żądają aby je im zostawić
-3. [Viggo Regner](#ellander_ellander_viggo_wojciech) czekał na nas. Poszedł z nami do [Kuropatwy](#kuropatwa) na podgrodziu gdzie ufundował nam posiłek i nocleg
-2. Zakończenie zlecenia
+2. [Viggo Regner](#ellander_ellander_viggo_wojciech) czekał na nas. Poszedł z nami do [Kuropatwy](#kuropatwa) na podgrodziu gdzie ufundował nam posiłek i nocleg
+3. Zakończenie zlecenia
 	* Wchodzimy do miasta. Strażnicy nie robią problemów na bramie
 	* W drodze do “Różyczki”, gdzie umówiliśmy się wcześniej z [Kranmerami](#okranmer) jako miejscem spotkania po zakończeniu zadania, znajdujemy sklep zielarski “[Fiolka Zdrowia](#fiolka)”
 	* Właściciel “[Fiolki](#fiolka)”, [Viggo Regner](#vregner), skłonny jest odkupić od nas głowę potwora którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](#okranmer) jej nie zażądają
 	* [Kranmerowie](#okranmer) wypłacają nagrodę - zobaczyli trofeum ale nie żądają aby je im zostawić
-3. [Viggo Regner](#vregner)
+4. [Viggo Regner](#vregner)
 	* sprzedajemy głowę
 	* sklep jest obserwowany przez Łowców Czarownic
 	* **[Zadanie: Punkt Mocy pod Ellander](#q2)**
-4. [Eliza](#ellander_ellander_eliza)
+5. [Eliza](#ellander_ellander_eliza)
 	* Krawcowa jest bardzo zmęczona; [Ilana](#ilana) przekonuje ją że możemy pomóc pomimo że nie jesteśmy wiedźminami
 	* Jej dziecko, [Daria](#ellander_ellander_daria), mówi że widzi ojca zmarłego na wojnie z Czarnymi
 	* Przypadkiem w odbiciu w szybie zauważamy [Szaraka](#szarak) - udaje nam się go pokonać nie krzywdząc dziecka ani matki
 	* Odmawiamy nagrody pod postacią zbroi po ojcu, prosząc o naprawienie ubrań [Kajetana](#kajetan)
 
-
-### Sesja 3
+### Sesja 4
 1. Wejście do Kanałów
 	* decydujemy się wejść do kanałów najbardziej oddalonym wejściem, za bramami miasta na południe
 	* Wieś dalej na południe wydaje się być zupełnie opustoszała
@@ -384,7 +387,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Strażnicy odprowadzają nas do "[Fioliki Zdrowia](#ellander_ellander_fiolka_zdrowia)
 
 
-### Sesja 4
+### Sesja 5
 ##### Pomiędzy Aequinoctuim jesiennym Solistitium zimowym
 1. [Viggo Regner](#ellander_ellander_viggo_regner)
 	* [Viggo](#ellander_ellander_viggo_regner) jest teraz w lepszej sytuacji, zaproszono go nawet do rady
@@ -394,16 +397,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Był/jest magiem, [żona](#ellander_ellander_pani_regner) też
 	* Ma asystentkę gnomkę, [Lukrecję](#ellander_ellander_lukrecja_schattenwortvregner)
 	* Strażnicy odprowadzają nas do "[Fioliki Zdrowia](#fiolka)
-
-
-### Sesja 5
-1. [Viggo Regner](#vregner)
-	* [Viggo](#vregner) jest teraz w lepszej sytuacji, zaproszono go nawet do rady
-	* Możliwe że będzie miał więcej pracy
-	* Nie zna/nie dzieli się prywatną drogą do/z miasta
-	* [Żona](#pregner) jest katatoniczna
-	* Był/jest magiem, [żona](#pregner) też
-	* Ma asystentkę gnomkę, [Lukrecję](#lukrecja)
 	* [Brokilion](#brokilion) rośnie, drzewa chodzą, Driady mają się świetnie
 	* [Maribor](#temeria_maribor) zniknął
 	* Trakty są niebezpieczne
@@ -481,12 +474,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Kajetan](#kajetan) zna testy na predyspozycje z elfich szkół magii
 	* [Dziecko](#daria) definitywnie ma predyspozycje
 	* [Viggo](#vregner) nie chce/może wziąć jej na naukę i zgadza się że kapłanki Melitele to dobry pomysł
-
-
-### Sesja 7
-1. [Viggo Regner](#vregner)
-	* w sklepie spotyka nas [Lord Myrton](#mytron)
-	* dostaniemy glejt jeśli eskortujemy jednego z Łowców Potworów ([Kasimira](#kasimir)) do [Świątyni Melitele](#smelitele); **[Zadanie: Ku Świątyni!](#q7)**
 2. Przygotowania
 	* w mieście krąży nasze złoto które straciliśmy gdy nas porwano
 	* [Ilana](#ilana) uprzedza i uspakaja [Elizę](#eliza) nt. towarzystwa w którym będziemy podróżować
@@ -508,7 +495,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* pnącza zostały usunięte. [Kasimir](#kasimir) zdaje się nie przejmować zasadami tak długo jak jego możliwość awansu korzysta, jednak powinniśmy być ostrożni jeśli wrócimy do Ellander
 
 
-### Sesja 8
+### Sesja 7
 1. [Świątynia](#ellander_smelitele)
 	- [Ilana](#ilana) rzeźbi nowy kostur z gałęzi dębu który uratowaliśmy
 	- czytamy księgi, rozmawiamy z [Matką Iolą](#ellander_smelitele_matka_iola):
@@ -530,7 +517,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Podchoroąży zawsze zdąży</i></div>
 
 
-### Sesja 9
+### Sesja 8
 1. [Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)
 	* [Viggo](#ellander_ellander_viggo_regner) dał nam pismo umożliwiające wejście do kanałów
 2. Kanały
@@ -558,7 +545,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Skovik](#wbs_skovik) pochodzi z [Wysp Skellige](#wyspy_skellige), dzieli się informacjami jak najlepiej tam dotrzeć, faktem że [Myszowór](#myszowor) przebywa na [Wyspach Skellige](#wyspy_skellige)
 
 
-### Sesja 10
+### Sesja 9
 1. [Różyczka](#ellander_ellander_rozyczka)
 	* [Grupa Skovika](#wedrowna_banda_skovika) podróżowała z [Dorian](#temeria_dorian) do [Wyzimy](#temeria_wyzima), potem do [Ellander](#ellander_ellander), gdzie eskortowali wóz z ptakami (kruki)
 	* [Emhmyr](#niifgaard_emhmyr) [Nilfgaard](#nilfgaard) został zabity przez szlachtę po trzecim najeździe na północ - najazdy nie przynosiły konkretnych korzyści dla ich kraju
