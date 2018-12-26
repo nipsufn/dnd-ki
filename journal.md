@@ -140,6 +140,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		zakładał obozy pracy dla Scoia'tael
 	* ✝Menge<a id='redania_menge'></a> - ; przywódca zakonu Łowców
 		[Lord Slyz Myrton](#ellander_ellander_lord_myrton): podwładny
+* [Temeria](#temeria)
+    * ✝Król Foltest<a id='temeria_krol_foltest'></a> - ; król [Temerii](#temeria)
 * [Wyspy Skellige](#wyspy_skellige)
     * Jarl Cerys<a id='wyspy_skellige_cerys'></a> - ; jarl
 
@@ -194,6 +196,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Maribor<a id='temeria_maribor'></a>
 	* zniknął się po Dwójksiężycowej Nocy
 * Wyspy Skellige<a id='wyspy_skellige'></a>
+    * Ard Skellig<a id='wyspy_skellige_ard_skellig'></a>
+        * największa wyspa na Skellige
 * Zerrikania<a id='zerrikania'></a>
 
 
@@ -244,12 +248,13 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* zostawia za sobą ślad z czarnego śluzu zawierającego opiłki jakiegoś metalu
      
 ## Heraldyka:
-* Orzeł biały w polu czerwonym - Redania
-* Lilie złote w polu niebieskim - Temeria
+* Orzeł biały w polu czerwonym - [Redania](#redania)
+* Lilie złote w polu niebieskim - [Temeria](#temeria)
 * Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - Łowcy Czarownic/Potworów / Zakon Wiecznego Ognia
 * trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas łowców i na znalezionej w kanałach bransoletce
-* Dwa groty (>>), górny żółty, dolny czerwony - herb Aedirn;
+* Dwa groty (>>), górny żółty, dolny czerwony - [Aedirn](#aedirn)
 * Fioletowe U z przedłużonymi ramionami - symbol klanu Drunmond (Wyspiarze ze Skellige)
+* Czarny niedźwiedź - [Wyspy Skellige](#wyspy_skellige)
 
 
 ## Zadania:
@@ -572,4 +577,14 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Kajetan gra z [Yariim](#wbs_yarii) w szachy, a Ilana wciąga się w grę w karty ze [Skovikiem](#wbs_skovik); stawką jest szczera odpowiedź na zadane pytanie
 	* [Ilanie](#ilana) nie idzie zbyt dobrze, w efekcie czego jest winna Skovikowi kieł niedźwiedzia do jego naszyjnika. Kajetanowi za to udaje się, po przegranej w szachy, wygrać w karty ze Skovikiem i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#wyspy_skellige)
         * na wyspach jest 7 klanów
-		* klan Craight zamieszkuje tę samą wysepkę na Skellige, co klan Drunmond, w dodatku jarlem na Skellige została kobieta z rodu Craight, [Cerys](#wyspy_skellige_cerys)
+        * [Skovik](#wbs_skovik) z braćmi należą do klanu Drunmond
+        * jarlem na Skellige została kobieta z klanu Craight, [Cerys](#wyspy_skellige_cerys)
+        * starsi klanów nie są zadowoleni z polityki [Cerys](#wyspy_skellige_cerys)
+        * Klany Drunmond i Craight dzielą jedną z wysp, są skłócone
+        * z klanu Drunmond ponoć pochodzą najlepsi żeglarze
+        * na wyspach znajdowała się jedna ze szkół wiedźminów
+        * klan Craight gościł kiedyś jednego z wiedźminów
+        * [Leiv](#wbs_leiv) widział kiedyś wiedźmina na [Ard Skellig](#wyspy_skellige_ard_skellig)
+    * driady gościły keidyś wiedźmina Gwymleita ([Kajen](#kajetan) kojarzy elfickie miano z [Geraltem](#geralt))
+    * według [Aedirnczyków](#wbs_yarii) wiedźmini są "psami [Foltesta](temeria_foltest)", któryś z nich zabił [Demawenda](#aedirn_demawend) za pieniądze
+
