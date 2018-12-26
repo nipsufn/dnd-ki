@@ -66,7 +66,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* ✝Król Demawend<a id='aedirn_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
 	* Stennis<a id='aedirn_stennis'></a> - ; książę
 		[Demawend](#aedirn_demawend): ojciec
-* [Ellander](#ellander_[Ellander](#ellander))
+* [Ellander](#ellander_ellander)
 	* R. Harevard<a id='ellander_ellander_rodzina_harevard'></a> - ; n/a;
 		rodzina władająca [Ellander](#ellander_ellander) przed Niilfgaardczykami
 	* Viggo Regner<a id='ellander_ellander_viggo_vregner'></a> - ; alchemik/mag;
@@ -97,8 +97,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
     * Jarna Kranmer<a id='ellander_ellander_jarna_kranmer'></a> - krasnolud; żona Hansa?;
 		[Hans Kranmer](#ellander_ellander_hans_kranmer): mąż
 	* R. Ruprecht<a id='ellander_ellander_rodzina_okranmer'></a>: brat
-	* Gianfanelli<a id='gianfanelli'></a> - ?;
-		właściciel banków;
 	* R. Ruprecht<a id='ruprecht'></a> - gnom; jubiler;
 		interes rodzinny;
 	* Wojciech<a id='ellander_ellander_wojciech'></a> - ; majster drwali;
@@ -161,7 +159,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Sklepy
 			* Fiolka Zdrowia<a id='ellander_ellander_fiolka_zdrowifiolka'></a> - alchemik; Viggo [Regner](#ellander_ellander_viggo_vregner)
 			* Krawcowa - ; [Eliza](#ellander_ellander_eliza)
-			* Bank [Gianfanelli](#giananelli) - ;
+			* Bank [Gianfanelli](#gianfanelli) - ;
 			* Jubiler<a id='ellander_ellander_jubiler'></a> - ; R. [Ruprecht](#ellander_ellander_rodzina_ruprecht)
 			* Prawa Tarcza<a id='ellander_ellander_prawa_tarcza'></a>; handlarz bronią i pancerzem, ma spory ale w granicach rozsądku narzut (~33%);
 		* Lokacje
