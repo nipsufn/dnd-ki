@@ -31,21 +31,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * PC - Kasimir<a id='kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
 * Giananelli<a id='gianfanelli'></a> - ?;
     właściciel banków;
-* Skovik<a id='skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige
-    [Ivar](#ivan): brat
-    [Leif](#leiv): brat
-* Ivar<a id='ivan'></a> - człowiek, krótkie włosy, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige
-    [Skovik](#skovik): brat
-    [Leif](#leiv): brat (bliźniak)
-* Leif<a id='leiv'></a> - człowiek, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerzk, pochodzi z Wysp Skellige
-    [Skovik](#skovik): brat
-    [Ivar](#ivan): brat (bliźniak)
-* Ebba<a id='ebba'></a> - człowiek, pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
-    [Chida](#chida): siostra
-* Chida<a id='chida'></a> - człowiek, pochodzi z Zerrikani
-    [Ebba](#ebba): siostra
-* Yarii<a id='yarii'></a> - człowiek z Aedirn, dezerter; ma tatuaż z symbolem Aedirn na ramieniu
-* Varn<a id='varn'></a> - człowiek z Aedirn, dezerter; razem z Yariim dołączyli do Skowika i reszty w celach zarobkowych
 * ✝ Vilgeforz<a id='vilgeforz'></a> - człowiek, mag, członek [Kapituły](#kapitula)
     - miał immunitet od [Dwimerytu](#dwimeryt)
     - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
@@ -62,6 +47,22 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Myszowór<a id='myszowor'></a> - człowiek, druid
 	- potężny druid, poważany nawet przez magów
 	- przebywa na Skellige
+* Wędrowna Banda Skovika<a id='wedrowna_banda_skovika'></a>
+    * Skovik<a id='wbs_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige
+        [Ivar](#wbs_ivan): brat
+        [Leif](#wbs_leiv): brat
+    * Ivar<a id='wbs_ivan'></a> - człowiek, krótkie włosy, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige
+        [Skovik](#wbs_skovik): brat
+        [Leif](#wbs_leiv): brat (bliźniak)
+    * Leif<a id='wbs_leiv'></a> - człowiek, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerzk, pochodzi z Wysp Skellige
+        [Skovik](#wbs_skovik): brat
+        [Ivar](#wbs_ivan): brat (bliźniak)
+    * Ebba<a id='wbs_ebba'></a> - człowiek, pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
+        [Chida](#wbs_chida): siostra
+    * Chida<a id='wbs_chida'></a> - człowiek, pochodzi z Zerrikani
+        [Ebba](#wbs_ebba): siostra
+    * Yarii<a id='wbs_yarii'></a> - człowiek z Aedirn, dezerter; ma tatuaż z symbolem Aedirn na ramieniu
+    * Varn<a id='wbs_varn'></a> - człowiek z Aedirn, dezerter; razem z Yariim dołączyli do Skowika i reszty w celach zarobkowych
 * [Aedirn](#aedirn)
 	* ✝Król Demawend<a id='aedirn_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
 	* Stennis<a id='aedirn_stennis'></a> - ; książę
@@ -139,7 +140,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		zakładał obozy pracy dla Scoia'tael
 	* ✝Menge<a id='redania_menge'></a> - ; przywódca zakonu Łowców
 		[Lord Slyz Myrton](#ellander_ellander_lord_myrton): podwładny
-
+* [Wyspy Skellige](#wyspy_skellige)
+    * Jarl Cerys<a id='wyspy_skellige_cerys'></a> - ; jarl
 
 ## Lokacje:
 * Brokilion<a id='brokilion'></a>
@@ -548,17 +550,17 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 4. Na mieście
 	* udajemy się do łaźni po przygodzie w kanałach
 	* [Ilana](#ilana) zauważa jakąś dziewczynę z bliznami na plecach
-	* Po wyjściu z łaźni w drodze do karczmy spotykamy Wędrowną Bandę [Skovika](#skovik)
+	* Po wyjściu z łaźni w drodze do karczmy spotykamy [Wędrowną Bandę [Skovika](#wedrowna_banda_skovika)
 	* Glejt jest potrzebny nie tylko do wejścia ale i do wyjścia
 	* Banda jest stosunkowo przyjazna, idzemy razem do karczmy
 5. [Różyczka](#ellander_ellander_rozyczka)
 	* [Kajetana](#kajetan) wyzwali na rękę. Wygrywa z [Skovikiem](#skovik) i jednym z jego braci, z drugim i [Ilaną](#ilana) przegrywa
-	* [Skovik](#skovik) pochodzi z [Wysp Skellige](#wyspy_skellige), dzieli się informacjami jak najlepiej tam dotrzeć, faktem że [Myszowór](#myszowor) przebywa na [Wyspach Skellige](#wyspy_skellige)
+	* [Skovik](#wbs_skovik) pochodzi z [Wysp Skellige](#wyspy_skellige), dzieli się informacjami jak najlepiej tam dotrzeć, faktem że [Myszowór](#myszowor) przebywa na [Wyspach Skellige](#wyspy_skellige)
 
 
 ### Sesja 10
 1. [Różyczka](#ellander_ellander_rozyczka)
-	* Grupa Skovika podróżowała z [Dorian](#temeria_dorian) do [Wyzimy](#temeria_wyzima), potem do [Ellander](#ellander_ellander), gdzie eskortowali wóz z ptakami (kruki)
+	* [Grupa Skovika](#wedrowna_banda_skovika) podróżowała z [Dorian](#temeria_dorian) do [Wyzimy](#temeria_wyzima), potem do [Ellander](#ellander_ellander), gdzie eskortowali wóz z ptakami (kruki)
 	* [Emhmyr](#niifgaard_emhmyr) [Nilfgaard](#nilfgaard) został zabity przez szlachtę po trzecim najeździe na północ - najazdy nie przynosiły konkretnych korzyści dla ich kraju
 	* [Aedirn](#aedirn) rządzi rada lokalnych szlachciów (którzy zabili [Demawenda](#aedirn_krol_demawend)) na rzecz Nilfgaardu
 2. [Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)
@@ -570,16 +572,17 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		Cerecas -> Maribor -> Brugge -> Verden
 		Cerecas -> Wyzima -> Gros Velen
 		Gros Velen (bezpośrednio)
-	Lepiej przeprawiać się statkiem zimą, bo morze jest spokojniejsze
+	* Lepiej przeprawiać się statkiem zimą, bo morze jest spokojniejsze
 3. Krawcowa
 	* Wygląda lepiej
 	* W [Świątyni Melitele](#ellander_smelitele) po naszym wyjeździe pojawiła się elfka, zdaje się czarodziejka - szukała kogoś i pokłóciła się z [Matką Iolą](#ellander_smelitele_matka_iola) twierdząc że wie gdzie delikwent się znajduje i zatrzymuje wiedzę dla siebie
 	* [Ilana](#ilana) zauważa że [Eliza](#ellander_ellander_eliza) pali raczka sprzedając ubrania na zimę [Kajetanowi](#kajetan)
 4. [Różyczka](#ellander_ellander_rozyczka)
-	* Zachodząc do karczmy na nocleg, trafiamy na obu [Aedirnczyków](#yarii) zajętych dyskusją i piciem piwa
-	* Dosiadamy się do nich i Kajetan nawiązuje dyskusję, pytając [Yariiego](#yarii) o tatuaż na jego ramieniu
-	* W niedługim czasie do Różyczki wchodzą [Zerrikanki](#chiba), wyraźnie lekko poturbowane. Ilana dowiaduje się od nich, że jacyś miejscy chłystkowie próbowali je zaatakować z powodu koloru ich skóry
-	* Po chwili rozmowy Ebba i Chiba przesiadają się do osobnego stolika, a do grupy dołącza [Skovik](#skovik) z braćmi
-	* Kajetan gra z [Yariim](@yarii) w szachy, a Ilana wciąga się w grę w karty ze [Skovikiem](#skovik); stawką jest prawdziwa odpowiedź na zadane pytanie
-	* Ilanie nie idzie zbyt dobrze, w efekcie czego jest winna Skovikowi kieł niedźwiedzia do jego naszyjnika. Kajetanowi za to udaje się, po przegranej w szachy, wygrać w karty ze Skovikiem i dowiedzieć nieco więcej o relacjach między klanami na Skellige
-		* ród Craight zamieszkuje tę samą wysepkę na Skellige, co ród Drunmond, w dodatku jarlem na Skellige została kobieta z rodu Craight, Cerys
+	* Zachodząc do karczmy na nocleg, trafiamy na obu [Aedirnczyków](#wbs_yarii) zajętych dyskusją i piciem piwa
+	* Dosiadamy się do nich i Kajetan nawiązuje dyskusję, pytając [Yariiego](#wbs_yarii) o tatuaż na jego ramieniu
+	* W niedługim czasie do Różyczki wchodzą [Zerrikanki](#wbs_chiba), wyraźnie lekko poturbowane. [Ilana](#ilana) dowiaduje się od nich, że jacyś miejscy chłystkowie próbowali je zaatakować z powodu koloru ich skóry
+	* Po chwili rozmowy [Ebba](#wbs_ebba) i [Chiba](#wbs_chiba) przesiadają się do osobnego stolika, a do grupy dołącza [Skovik](#wbs_skovik) z braćmi
+	* Kajetan gra z [Yariim](#wbs_yarii) w szachy, a Ilana wciąga się w grę w karty ze [Skovikiem](#wbs_skovik); stawką jest szczera odpowiedź na zadane pytanie
+	* [Ilanie](#ilana) nie idzie zbyt dobrze, w efekcie czego jest winna Skovikowi kieł niedźwiedzia do jego naszyjnika. Kajetanowi za to udaje się, po przegranej w szachy, wygrać w karty ze Skovikiem i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#wyspy_skellige)
+        * na wyspach jest 7 klanów
+		* klan Craight zamieszkuje tę samą wysepkę na Skellige, co klan Drunmond, w dodatku jarlem na Skellige została kobieta z rodu Craight, [Cerys](#wyspy_skellige_cerys)
