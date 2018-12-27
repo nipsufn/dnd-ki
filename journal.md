@@ -300,13 +300,13 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Wychodzą na ulice i są agresywne, odpowiadają za kilka śmierci
 	* Podczas polowania na szczury okazuje się, że te są kontrolowane przez osobę grającą konkretną melodią na flecie(?)
 	* Jest opcja, że ta osoba "użycza" sobie zmysłów szczurów
-	* O: pomoc ze strony [Skowika](#skovik) i jego braci w złapaniu/zabiciu grajka
+	- [x] pomoc ze strony [Skowika](#skovik) i jego braci w złapaniu/zabiciu grajka
 	* Rada Miejska
 - [x] Ku Świątyni!<a id='q7'></a>
 	* Glejt do miasta, 100GP
 	* Zabierzcie ze sobą [Kasimira](#kasimir)
-	* O: Zabierzcie ze sobą [Elizę](#ellander_ellander_eliza) i [Darię](#ellander_ellander_daria)
-	* O: Zabierzcie ze sobą strażnika [Toma](#ellander_ellander_tom) pogryzionego przez chorego szczura
+	- [x] Zabierzcie ze sobą [Elizę](#ellander_ellander_eliza) i [Darię](#ellander_ellander_daria)
+	- [x] Zabierzcie ze sobą strażnika [Toma](#ellander_ellander_tom) pogryzionego przez chorego szczura
 	* Zdobądźcie zapas leków / wsparcie kapłanek Melitele dla miasta [Ellander](#ellander_ellander)
 	* [Lord Myrton](#ellander_ellander_lord_myrton)
 - [x] Szczurołapa zatrudnię od zaraz<a id='q8'></a>
@@ -321,7 +321,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 - Kapituła<a id="kapitula"></a> - rada magów która motała w polityce zanim Redańczycy i Kapłani Wiecznego Ognia zaprowadzili swój porządek
 - Dwimeryt<a id="dwimeryt"></a> - metal wydobywany pod [górą Carbon](#mahakam_gora_carbon) w [Mahakamie](#mahakam), uniemożliwia magom kożystanie z Mocy
 - Goecja<a id="goecja"></a> - szkoła magi skupiająca się na kontrolowaniu dusz i sił życiowych
-- Lwiogłowy Pająk (Coram Agh Terra)<a id="lwioglowy_pajak"></a>bóg, zły. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów [Foltesta](temeria_foltest) na terenach [Temerii](#temeria)
+- Lwiogłowy Pająk (Coram Agh Terra)<a id="lwioglowy_pajak"></a>bóg, zły. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów [Foltesta](temeria_foltest) na terenach [Temerii](#temeria). Po śmierci [Foltesta](temeria_foltest) wiernych przybywa
 
 ## Dziennik
 
@@ -417,7 +417,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Łowcy skupiają się teraz na **Potworach**, nie **Czarownicach**
 2. Rynek
 	* Egzekucja wiedźmy
-	* Ofiara przerywa modły kapłana - wygłasza przepowiednię o [Białym Zimnie](#bialezimno) zapowiedzianym przez Lwiogłowego Pająka
+	* Ofiara przerywa modły kapłana - wygłasza przepowiednię o [Białym Zimnie](#bialezimno) zapowiedzianym przez [Lwiogłowego Pająka](#lwioglowy_pajak)
 	* Przepowiednia ogłusza obecnych na rynku
 	* [Mistrz Łowców](#myrton) Czarownic/Potworów ubiją ją
 	* Część motłochu stratowana podczas wydarzenia
@@ -527,17 +527,17 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Po wyjściu z łaźni w drodze do karczmy spotykamy [Wędrowną Bandę [Skovika](#wedrowna_banda_skovika)
 	* Glejt jest potrzebny nie tylko do wejścia ale i do wyjścia
 	* Banda jest stosunkowo przyjazna, idzemy razem do karczmy
-5. [Różyczka](#ellander_ellander_rozyczka)
+5. "[Różyczka](#ellander_ellander_rozyczka)"
 	* [Kajetana](#kajetan) wyzwali na rękę. Wygrywa z [Skovikiem](#skovik) i jednym z jego braci, z drugim i [Ilaną](#ilana) przegrywa
 	* [Skovik](#wbs_skovik) pochodzi z [Wysp Skellige](#wyspy_skellige), dzieli się informacjami jak najlepiej tam dotrzeć, faktem że [Myszowór](#myszowor) przebywa na [Wyspach Skellige](#wyspy_skellige)
 
 
 ### Sesja 9
-1. [Różyczka](#ellander_ellander_rozyczka)
+1. "[Różyczka](#ellander_ellander_rozyczka)"
 	* [Grupa Skovika](#wedrowna_banda_skovika) podróżowała z [Dorian](#temeria_dorian) do [Wyzimy](#temeria_wyzima), potem do [Ellander](#ellander_ellander), gdzie eskortowali wóz z ptakami (kruki)
 	* [Emhmyr](#niifgaard_emhmyr) [Nilfgaard](#nilfgaard) został zabity przez szlachtę po trzecim najeździe na północ - najazdy nie przynosiły konkretnych korzyści dla ich kraju
 	* [Aedirn](#aedirn) rządzi rada lokalnych szlachciów (którzy zabili [Demawenda](#aedirn_krol_demawend)) na rzecz Nilfgaardu
-2. [Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)
+2. "[Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)"
 	* Widzimy [Ignę](#igna) wychodzącą z jakimiś papierami
 	* Dowiadujemy się o [Dijsktrze](#redania_dijsktra)
 	* [Novigrad](#redania_novigrad) został puszczony prawie cały z dymem przez magów miesiąc - dwa przed Dwujksiężycową Nocą; w pożarze umarł przywódca Łowców, [Menge](#redania_menge)
@@ -547,11 +547,11 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		Cerecas -> Wyzima -> Gros Velen
 		Gros Velen (bezpośrednio)
 	* Lepiej przeprawiać się statkiem zimą, bo morze jest spokojniejsze
-3. Krawcowa
+3. [Krawcowa](#ellander_ellander_eliza)
 	* Wygląda lepiej
 	* W [Świątyni Melitele](#ellander_smelitele) po naszym wyjeździe pojawiła się elfka, zdaje się czarodziejka - szukała kogoś i pokłóciła się z [Matką Iolą](#ellander_smelitele_matka_iola) twierdząc że wie gdzie delikwent się znajduje i zatrzymuje wiedzę dla siebie
 	* [Ilana](#ilana) zauważa że [Eliza](#ellander_ellander_eliza) pali raczka sprzedając ubrania na zimę [Kajetanowi](#kajetan)
-4. [Różyczka](#ellander_ellander_rozyczka)
+4. "[Różyczka](#ellander_ellander_rozyczka)"
 	* Zachodząc do karczmy na nocleg, trafiamy na obu [Aedirnczyków](#wbs_yarii) zajętych dyskusją i piciem piwa
 	* Dosiadamy się do nich i Kajetan nawiązuje dyskusję, pytając [Yariiego](#wbs_yarii) o tatuaż na jego ramieniu
 	* W niedługim czasie do Różyczki wchodzą [Zerrikanki](#wbs_chiba), wyraźnie lekko poturbowane. [Ilana](#ilana) dowiaduje się od nich, że jacyś miejscy chłystkowie próbowali je zaatakować z powodu koloru ich skóry
@@ -571,9 +571,9 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
     * według [Aedirnczyków](#wbs_yarii) wiedźmini są "psami [Foltesta](temeria_foltest)", któryś z nich zabił [Demawenda](#aedirn_demawend) za pieniądze
 
 ### Sesja 10
-1. [Różyczka](#ellander_ellander_rozyczka)
+1. "[Różyczka](#ellander_ellander_rozyczka)"
 	* Zbieramy się i ruszami z Skovikiem i braćmi do ratusza
-2. Ratudsz w [Ellander](#ellander_ellander)
+2. Ratusz w [Ellander](#ellander_ellander)
 	* [Kajetan](#kajetan) kupuje bombonierkę dla sekretarek - dowiaduje się że nagrody za szczurołapa obecnie nie ma, ale mamy pojawić się po południu przed radą miejską, może uda nam się z nimi dogadać
 	* [Skovik](#wbs_skovik) i bracia wybierają się do balwierza, [Kajetan](#kajetan) do rzemieślnika po opakowanie na topór
 	* Rada składa się z 7 miesc:
@@ -586,7 +586,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Puste miejsce (po [Kapłanie Matiasie](#ellander_ellander_kaplan_matias)?)
 	* Rada zupełnie nie kryje swojej niezgody
 		* Są podzieleni na dwa obozy, religijny (Myrton, Viggo, młody mężczyzna) i świecki (Kapitan, Kupiec Mendrej, starsza pani)
-		* chętnie używają petentów i informacji które przynoszą do publicznej rozgrywki politycznej
+		* chętnie używają petentów i informacji które przynoszą do niekrytej rozgrywki politycznej
 		* żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego i dostarczenie dowodów podpierających nasze twierdzenia - [Igna](#ellander_ellander_igna) ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#q6)**
 3. Na mieście
 	* ruszamy w stonę magazynu gdzie złapaliśmy poprzednio szczura; [Ivar](#wbs_ivar) zakuwa się w zbroję w [Różyczce](#ellander_ellander_rozyczka)
@@ -601,9 +601,10 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 4. Siedziba Łowców
 	* Szczurołap zostaje zamknięty w lochach, skuty srebrem
 	* [Lord Myrton](#ellander_ellander_lord_myrton) nie wydaje się być rozwścieczony faktem że pytaliśmy o nagrodę Radę zamiast niego (potencjalnie nadwyrężając jego pozycję polityczną)
+	* Częstuje nas winem z drewnianych kielichów
 	* Zdajemy relację z wyprawy
 	* Mamy stawić się przed radą Miejską następnego dnia po odbiór nagrody
-5. [Różyczka](#ellander_ellander_rozyczka)
+5. "[Różyczka](#ellander_ellander_rozyczka)"
 	* świętujemy sukcess dużą ilością alkoholu
 	* [Skovik](#wbs_skovik) opowiada:
 		* Svalblod jednym z bogów na Skellige
@@ -614,13 +615,13 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Druidzi na Wyspach cieszą się wielkim szacunkiem
 		* na wyspach jest bardzo niewielu nieludzi
 	* Mentorem [Ilany](#ilana) był [Druid Finanin](#brokilion_druid_finanin) w [Brokilionie](#Brokilion)
-6. [Różyczka](#ellander_ellander_rozyczka)
+6. "[Różyczka](#ellander_ellander_rozyczka)"
 	* [Ilana](#ilana) budzi [Kajetana](#kajetan), rozmawiają o planach podróży na Skellige - zostawiając [Skovika](#wbs_skovik) z braćmi w [Brokilionie](#Brokilion) po drodze
 	* wczesnym popołudniem [Skovik](#wbs_skovik) i bracia zostają obudzeni. Bracia jeszcze nie są trzeźwi ale już mają kaca, [Skovik](#wbs_skovik) nie spał w swoim pokoju i nie ma kaca, choć jest niewyspany
 7. Ratusz w [Ellander](#ellander_ellander)
 	* wyruszamy na widzenie z radą. Biorąc pod uwagę stan drużyny, audiencja była krótka. Odebraliśmy nagrodę (5 diamentów, wartych po 80 - 150GP)
 	* [Lord Myrton](#ellander_ellander_lord_myrton) wyglądał jakby zamierzał nas wciągnąć w dalszą pracę dla miasta lub polityczne rozgrywki, jednak zrezygnował widząc jak świętowaliśmy ukończone zlecenie. [Kajetan](#kajetan) jest zadowolony, nie chce mieć nic wspólnego z [Myrtonem](#ellander_ellander_lord_myrton)]
-6. [Różyczka](#ellander_ellander_rozyczka)
+6. "[Różyczka](#ellander_ellander_rozyczka)"
 	* Bracia [Skovika](#wbs_skovik) zostają odstawieni do łóżek
 	* [Ilana](#ilana) i [Skovik](#wbs_skovik) przygotowywyją wyjazd z [Ellander](#ellander) od strony technicznej - zapasy i ekwipunek
-	* [Kajetan](#kajetan) odwiedza krawcową za namową [Ilany](#ilana) nie wiedząc czego się spodziewać. Wraca z nową czapką.
+	* [Kajetan](#kajetan) odwiedza [krawcową](#ellander_ellander_eliza) za namową [Ilany](#ilana) nie wiedząc czego się spodziewać. Wraca z nową czapką.
