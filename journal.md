@@ -73,7 +73,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * [Ellander](#ellander_ellander)
 	* R. Harevard<a id='ellander_ellander_rodzina_harevard'></a> - ; n/a;
 		rodzina władająca [Ellander](#ellander_ellander) przed Niilfgaardczykami
-	* Viggo Regner<a id='ellander_ellander_viggo_vregner'></a> - ; alchemik/mag;
+	* Viggo Regner<a id='ellander_ellander_viggo_regner'></a> - ; alchemik/mag;
 		Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowifiolka)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
 		? [Regner](#ellander_ellander_viggo_vregner): żona; [Lukrecja](#ellander_ellander_lukrecja_schattenwortlukrecja) Janus Schattenwort: podwładny, uczeń
 	* [Lukrecja](#ellander_ellander_lukrecja_schattenwort) Janus Schattenwort<a id='ellander_ellander_lukrecja_schattenwortlukrecja'></a> <a id='lukrecja'></a> - gnom; alchemik;
@@ -166,7 +166,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 			* Zielony kufelek<a id='ellander_ellander_zielony_kufelekzielony'></a> - bar w alejce; bez jedzenia i noclegu
 			* Speluna na Południu<a id='ellander_ellander_speluna'></a> - bar w alejce; podły; strach pić co podają
 		* Sklepy
-			* Fiolka Zdrowia<a id='ellander_ellander_fiolka_zdrowifiolka'></a> - alchemik; Viggo [Regner](#ellander_ellander_viggo_vregner)
+			* Fiolka Zdrowia<a id='ellander_ellander_fiolka_zdrowia'></a> - alchemik; Viggo [Regner](#ellander_ellander_viggo_vregner)
 			* Krawcowa - ; [Eliza](#ellander_ellander_eliza)
 			* Bank [Gianfanelli](#gianfanelli) - ;
 			* Jubiler<a id='ellander_ellander_jubiler'></a> - ; R. [Ruprecht](#ellander_ellander_rodzina_ruprecht)
