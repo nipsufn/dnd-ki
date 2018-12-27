@@ -125,6 +125,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		[Igna](#ellander_ellander_igna): prawa ręka
 	* Igna<a id='ellander_ellander_igna'></a> - ; ?
 		Prawa ręka [Myrtona](#ellander_ellander_lord_myrton)
+		Walczy długim mieczem, który płonie jeśli zatnie się nim
 		[Lord Slyz Myrton](#ellander_ellander_lord_myrton): przełożony; [Kasimir](#kasimir): podwładny
 * [Świątynia Melitele](#ellander_smelitele):
 	* Matka Iola<a id='ellander_smelitele_matka_iola'></a> - ; kapłanka;
@@ -279,12 +280,15 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Krawcowa [Eliza](#ellander_ellander_eliza)
 - [ ] Dziedzic rodu Harevard<a id='q5'></a>
 	* Czy ktoś przetrwał najazd Niilfgaardczyków?
-- [ ] Szczury uciekające z kanałów<a id='q6'></a>
-	* ?
+- [x] Szczury uciekające z kanałów<a id='q6'></a>
+	* 500GP
 	* Są duże, niektóre większe nawet od psa
 	* Mają żółte ślepia przypominające bardziej gada niż ssaka
 	* Wychodzą na ulice i są agresywne, odpowiadają za kilka śmierci
-	* [Lord Myrton](#ellander_ellander_lord_myrton) (?)
+	* Podczas polowania na szczury okazuje się, że te są kontrolowane przez osobę grającą konkretną melodią na flecie(?)
+	* Jest opcja, że ta osoba "użycza" sobie zmysłów szczurów
+	* O: pomoc ze strony [Skowika](#skovik) i jego braci w złapaniu/zabiciu grajka
+	* Rada Miejska
 - [x] Ku Świątyni!<a id='q7'></a>
 	* Glejt do miasta, 100GP
 	* Zabierzcie ze sobą [Kasimira](#kasimir)
@@ -299,9 +303,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 - [ ] Śladami [Vilgeforza](#vilgeforz)<a id='q9'></a>
 - [ ] Gdzie jest [Myszowór](#myszowor)?<a id='q10'></a>
 - [ ] Zaczarowany flet<a id='q11'></a>
-	* Podczas polowania na szczury okazuje się, że te są kontrolowane przez osobę grającą konkretną melodią na flecie(?)
-	* Jest opcja, że ta osoba "użycza" sobie zmysłów szczurów
-	* O: pomoc ze strony [Skowika](#skovik) i jego braci w złapaniu/zabiciu grajka
 
 
 ## Różne
@@ -556,3 +557,31 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
     * driady gościły keidyś wiedźmina Gwymleita ([Kajen](#kajetan) kojarzy elfickie miano z [Geraltem](#geralt))
     * według [Aedirnczyków](#wbs_yarii) wiedźmini są "psami [Foltesta](temeria_foltest)", któryś z nich zabił [Demawenda](#aedirn_demawend) za pieniądze
 
+### Sesja 10
+1. [Różyczka](#ellander_ellander_rozyczka)
+	* Zbieramy się i ruszami z Skovikiem i braćmi do ratusza
+2. Ratudsz w [Ellander](#ellander_ellander)
+	* [Kajetan](#kajetan) kupuje bombonierkę dla sekretarek - dowiaduje się że nagrody za szczurołapa obecnie nie ma, ale mamy pojawić się po południu przed radą miejską, może uda nam się z nimi dogadać
+	* [Skovik](#wbs_skovik) i bracia wybierają się do balwierza, [Kajetan](#kajetan) do rzemieślnika po opakowanie na topór
+	* Rada składa się z 7 miesc:
+		* [Lord Myrton](#ellander_ellander_lord_myrton)
+		* [Viggo Regner](#ellander_ellander_viggo_regner)
+		* Młody, szczupły mężczyzna wyglądający na czyjegoś przedstawiciela z przymusu
+		* Kapitan straży miejskiej
+		* [Kupiec Mandrej](#ellander_ellander_kupiec_mandrej)
+		* Nieco starsza pani
+		* Puste miejsce (po [Kapłanie Matiasie](#ellander_ellander_kaplan_matias)?)
+	* Rada zupełnie nie kryje swojej niezgody
+		* Są podzieleni na dwa obozy, religijny (Myrton, Viggo, młody mężczyzna) i świecki (Kapitan, Kupiec Mendrej, starsza pani)
+		* chętnie używają petentów i informacji które przynoszą do publicznej rozgrywki politycznej
+		* żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego i dostarczenie dowodów podpierających nasze twierdzenia - [Igna](#ellander_ellander_igna) ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#q6)**
+3. Na mieście
+	* ruszamy w stonę magazynu gdzie złapaliśmy poprzednio szczura; [Ivar](#wbs_ivar) zakuwa się w zbroję w [Różyczce](#ellander_ellander_rozyczka)
+	* [Ilana](#ilana) i [Leiv](#wbs_leiv) idą osobno aby "otoczyć lokacją" - [Ilana](#ilana) parzy oczami jakiegoś losowo złapanego szczura (nie mogła tego zrobić przy [Ignie](#ellander_ellander_igna)), odnajduje kryjówkę Szczurołapa
+	* Drużyna spotyka się pod magazynem, razem biegniemy do budynku wskazanego przez [Ilanę](#ilana)
+	* Odkrywamy stary pokój z zakrwawionym ołtażem na końcu tunelu który znaleźliśmy w piwnicy. W pokoju widać wiele wejść do tuneli o różnych rozmiarach
+	* Dostrzegamy Szczurołapa, pokonujemy go i obezwładniamy
+		* Szczury zaczęły zachowywać się normalnie gdy stracił przytomność
+		* Stracił rękę którą grał na flecie wykonanym z szczątków elfiego niemowlęcia
+	* [Skovik](#wbs_skovik) niszczy ołtarz na prośbę [Kajetana](#kajetan), [Igna](#ellander_ellander_igna) zauważa na ołtażu znak Lwiogłowego Pająka
+	
