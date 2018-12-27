@@ -574,7 +574,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 1. "[Różyczka](#ellander_ellander_rozyczka)"
 	* Zbieramy się i ruszami ze Skovikiem i braćmi do ratusza.
 2. Ratusz w [Ellander](#ellander_ellander)
-	* [Kajetan](#kajetan) kupuje bombonierkę dla sekretarek - dowiaduje się że nagrody za szczurołapa obecnie nie ma, ale mamy pojawić się po południu przed radą miejską, może uda nam się z nimi dogadać.
+	* [Kajetan](#kajetan) kupuje bombonierkę dla sekretarek - dowiaduje się że nagrody za Szczurołapa obecnie nie ma, ale mamy pojawić się po południu przed radą miejską, może uda nam się z nimi dogadać.
 	* [Skovik](#wbs_skovik) i bracia wybierają się do balwierza, [Kajetan](#kajetan) do rzemieślnika po pokrowiec na topór.
 	* Rada składa się z 7 osób:
 		* [Lord Myrton](#ellander_ellander_lord_myrton) (ku naszemu zdziwieniu!)
@@ -604,7 +604,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Częstuje nas winem z drewnianych kielichów.
 	* Zdajemy relację z wyprawy.
 	* Mamy stawić się przed radą miejską następnego dnia po odbiór nagrody.
-5. "[Różyczka](#ellander_ellander_rozyczka) wieczorem, po polowaniu"
+5. "[Różyczka](#ellander_ellander_rozyczka)" wieczorem, po polowaniu
 	* Świętujemy sukcess dużą ilością mocnego alkoholu.
 	* [Skovik](#wbs_skovik) opowiada:
 		* Svalblod jest jednym z bogów na Skellige.
@@ -616,13 +616,13 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Druidzi na wyspach cieszą się wielkim szacunkiem.
 		* Na wyspach jest bardzo niewielu nieludzi.
 	* Mentorem [Ilany](#ilana) był [Druid Finarrin](#brokilon_druid_finarrin) w [Brokilonie](#Brokilon).
-	* [Ilana](#ilana) zabiera [Skovika](#wbs_skovik) na sparring celem zdobycia przez Skovika obiecanego mu przez Ilanę kła niedźwiedzia do jego naszyjnika. Znajdują niewielki plac na tyłach różyczki i tam toczą "walkę".
+	* [Ilana](#ilana) zabiera [Skovika](#wbs_skovik) na sparring dać sobie wybić obiecany kieł w postaci niedźwiedzia do jego naszyjnika. Znajdują niewielki plac na tyłach [Różyczki](#ellander_ellander_rozyczka) i tam toczą "walkę".
 	* [Kajetan](#kajetan) w tym czasie upija do nieprzytomnośći [Leifa](#wbs_leif) i kontynuuje opróżnianie drugiej butelki z [Ivarem](wbs_ivar).
 	* wieczór kończy się odwleczeniem się do pokoju trójki pijących, zaś [Skovik](#wbs_skovik) i [Ilana](#ilana) biorą dla siebie osobny pokój.
-6. "[Różyczka](#ellander_ellander_rozyczka) nad ranem"
-	* [Ilana](#ilana) korzystając z faktu, że [Skovik](wbs_skovik) śpi jak zarżnięty, bada jego magiczną figurkę, której użył poprzedniego wieczora do wzmocnienia się przed walką (są na niej runy w języku Skellige, a sama figurka emanuje magią).
-	* Ubrawszy się, [Ilana](#ilana) opuszcza pokój Skovika i budzi [Kajetana](#kajetan); rozmawiają o planach podróży na Skellige - eskortując po drodze [Skovika](#wbs_skovik) z braćmi do [Brokilonu](#Brokilon).
-	* Wczesnym popołudniem [Skovik](#wbs_skovik) i bracia zostają obudzeni. Bracia jeszcze nie są trzeźwi ale już mają kaca, [Skovik](#wbs_skovik) nie ma w pokoju braci.
+6. "[Różyczka](#ellander_ellander_rozyczka)" nad ranem
+	* [Ilana](#ilana) korzystając z faktu, że [Skovik](wbs_skovik) śpi jak zarżnięty, bada jego magiczną figurkę, której użył poprzedniego wieczora do wzmocnienia się przed walką (są na niej runy w języku [Skellige](#wyspy_skellige), a sama figurka emanuje magią).
+	* Ubrawszy się, [Ilana](#ilana) opuszcza pokój [Skovika](wbs_skovik) i budzi [Kajetana](#kajetan); rozmawiają o planach podróży na [Skellige](#wyspy_skellige) - eskortując po drodze [Skovika](#wbs_skovik) z braćmi do [Brokilonu](#Brokilon).
+	* Wczesnym popołudniem [Skovik](#wbs_skovik) i bracia zostają obudzeni. Bracia jeszcze nie są trzeźwi ale już mają kaca, [Skovika](#wbs_skovik) nie ma w pokoju braci.
 	* [Ilana](#ilana) idzie po [Skovika](#wbs_skovik), ten zdaje się nie mieć kaca, ale jest mocno zmęczony.
 7. Ratusz w [Ellander](#ellander_ellander)
 	* Wyruszamy na widzenie z radą. Biorąc pod uwagę stan drużyny, audiencja była krótka. Odebraliśmy nagrodę (5 diamentów, wartych po 80 - 150GP).
