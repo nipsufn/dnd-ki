@@ -268,6 +268,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Dwa groty (>>), górny żółty, dolny czerwony - [Aedirn](#aedirn)
 * Fioletowe U z przedłużonymi ramionami - symbol klanu Drunmond (Wyspiarze ze Skellige)
 * Czarny niedźwiedź - [Wyspy Skellige](#wyspy_skellige)
+* Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - [Ellander](#ellander)
 
 
 ## Zadania:
@@ -314,13 +315,13 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Viggo Regner](#ellander_ellander_viggo_regner)
 - [ ] Śladami [Vilgeforza](#vilgeforz)<a id='q9'></a>
 - [ ] Gdzie jest [Myszowór](#myszowor)?<a id='q10'></a>
-- [ ] Zaczarowany flet<a id='q11'></a>
 
 
 ## Różne
 - Kapituła<a id="kapitula"></a> - rada magów która motała w polityce zanim Redańczycy i Kapłani Wiecznego Ognia zaprowadzili swój porządek
 - Dwimeryt<a id="dwimeryt"></a> - metal wydobywany pod [górą Carbon](#mahakam_gora_carbon) w [Mahakamie](#mahakam), uniemożliwia magom kożystanie z Mocy
 - Goecja<a id="goecja"></a> - szkoła magi skupiająca się na kontrolowaniu dusz i sił życiowych
+- Lwiogłowy Pająk (Coram Agh Terra)<a id="lwioglowy_pajak"></a>bóg, zły. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów [Foltesta](temeria_foltest) na terenach [Temerii](#temeria)
 
 ## Dziennik
 
@@ -576,7 +577,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Kajetan](#kajetan) kupuje bombonierkę dla sekretarek - dowiaduje się że nagrody za szczurołapa obecnie nie ma, ale mamy pojawić się po południu przed radą miejską, może uda nam się z nimi dogadać
 	* [Skovik](#wbs_skovik) i bracia wybierają się do balwierza, [Kajetan](#kajetan) do rzemieślnika po opakowanie na topór
 	* Rada składa się z 7 miesc:
-		* [Lord Myrton](#ellander_ellander_lord_myrton)
+		* [Lord Myrton](#ellander_ellander_lord_myrton) (ku naszemu zdziwieniu!)
 		* [Viggo Regner](#ellander_ellander_viggo_regner)
 		* Młody, szczupły mężczyzna wyglądający na czyjegoś przedstawiciela z przymusu
 		* Kapitan straży miejskiej
@@ -595,7 +596,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Dostrzegamy Szczurołapa, pokonujemy go i obezwładniamy
 		* Szczury zaczęły zachowywać się normalnie gdy stracił przytomność
 		* Stracił rękę którą grał na flecie wykonanym z szczątków elfiego niemowlęcia
-	* [Skovik](#wbs_skovik) niszczy ołtarz na prośbę [Kajetana](#kajetan), [Igna](#ellander_ellander_igna) zauważa na ołtażu znak Lwiogłowego Pająka
+	* [Skovik](#wbs_skovik) niszczy ołtarz na prośbę [Kajetana](#kajetan), [Igna](#ellander_ellander_igna) zauważa na ołtażu znak [Lwiogłowego Pająka](#lwioglowy_pajak)
 	* Uciekamy z podziemi gonieni przez [Banshee](#banshee) uwolnione z ołtarza
 4. Siedziba Łowców
 	* Szczurołap zostaje zamknięty w lochach, skuty srebrem
@@ -613,3 +614,13 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Druidzi na Wyspach cieszą się wielkim szacunkiem
 		* na wyspach jest bardzo niewielu nieludzi
 	* Mentorem [Ilany](#ilana) był [Druid Finanin](#brokilion_druid_finanin) w [Brokilionie](#Brokilion)
+6. [Różyczka](#ellander_ellander_rozyczka)
+	* [Ilana](#ilana) budzi [Kajetana](#kajetan), rozmawiają o planach podróży na Skellige - zostawiając [Skovika](#wbs_skovik) z braćmi w [Brokilionie](#Brokilion) po drodze
+	* wczesnym popołudniem [Skovik](#wbs_skovik) i bracia zostają obudzeni. Bracia jeszcze nie są trzeźwi ale już mają kaca, [Skovik](#wbs_skovik) nie spał w swoim pokoju i nie ma kaca, choć jest niewyspany
+7. Ratusz w [Ellander](#ellander_ellander)
+	* wyruszamy na widzenie z radą. Biorąc pod uwagę stan drużyny, audiencja była krótka. Odebraliśmy nagrodę (5 diamentów, wartych po 80 - 150GP)
+	* [Lord Myrton](#ellander_ellander_lord_myrton) wyglądał jakby zamierzał nas wciągnąć w dalszą pracę dla miasta lub polityczne rozgrywki, jednak zrezygnował widząc jak świętowaliśmy ukończone zlecenie. [Kajetan](#kajetan) jest zadowolony, nie chce mieć nic wspólnego z [Myrtonem](#ellander_ellander_lord_myrton)]
+6. [Różyczka](#ellander_ellander_rozyczka)
+	* Bracia [Skovika](#wbs_skovik) zostają odstawieni do łóżek
+	* [Ilana](#ilana) i [Skovik](#wbs_skovik) przygotowywyją wyjazd z [Ellander](#ellander) od strony technicznej - zapasy i ekwipunek
+	* [Kajetan](#kajetan) odwiedza krawcową za namową [Ilany](#ilana) nie wiedząc czego się spodziewać. Wraca z nową czapką.
