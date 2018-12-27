@@ -25,7 +25,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 <hr />
 
 
-## Postaci:
+## Postaci
 * PC - Ilana<a id='ilana'></a> - człowiek, druidka, krzepka, gęste włosy, potrafi zamieniać się w zwierzęta
 * PC - Kajetan ab Extremis (z Krańca)<a id='kajetan'></a> - elf, barbarzyńca, wysoki, delikatny, w miarę elegancko odziany
 * PC - Kasimir<a id='kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
@@ -150,7 +150,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
     * Jarl Cerys<a id='wyspy_skellige_cerys'></a> - ; jarl
 	* Druid Artis<a id='wyspy_skellige_druid_artis'></a> - ; druid
 
-## Lokacje:
+## Lokacje
 * Brokilion<a id='brokilion'></a>
 	* rozrósł się po Dwójksiężycowej Nocy
 * Cidaris<a id='cidaris'></a>
@@ -260,7 +260,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* może zabić wzrokiem
 	* można spróbować go uspokoić/odpędzić przepraszając w Starszej Mowie
      
-## Heraldyka:
+## Heraldyka
 * Orzeł biały w polu czerwonym - [Redania](#redania)
 * Lilie złote w polu niebieskim - [Temeria](#temeria)
 * Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - Łowcy Czarownic/Potworów / Zakon Wiecznego Ognia
@@ -271,7 +271,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - [Ellander](#ellander)
 
 
-## Zadania:
+## Zadania
 - [x] Zlecenie na Kota Migota (aka Drwalskie Bebechy)<a id='q1'></a>
 	* 40GP za pozbycie się potwora atakującego drwali lub 5GP/noc za ochronę drwali bez polowania
 	* Otto [Kranmer](#ellander_ellander_otto_kranmer); Hans [Kranmer](#ellander_ellander_hans_kranmer)
