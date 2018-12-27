@@ -67,6 +67,9 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* ✝Król Demawend<a id='aedirn_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
 	* Stennis<a id='aedirn_stennis'></a> - ; książę
 		[Demawend](#aedirn_demawend): ojciec
+* [Brokilion](#brokilion)
+	* Druid Finanin<a id='brokilion_druid_finanin'></a> - ; druid
+		Uczył [Ilanę](#ilana)
 * [Ellander](#ellander_ellander)
 	* R. Harevard<a id='ellander_ellander_rodzina_harevard'></a> - ; n/a;
 		rodzina władająca [Ellander](#ellander_ellander) przed Niilfgaardczykami
@@ -145,6 +148,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
     * ✝Król Foltest<a id='temeria_krol_foltest'></a> - ; król [Temerii](#temeria)
 * [Wyspy Skellige](#wyspy_skellige)
     * Jarl Cerys<a id='wyspy_skellige_cerys'></a> - ; jarl
+	* Druid Artis<a id='wyspy_skellige_druid_artis'></a> - ; druid
 
 ## Lokacje:
 * Brokilion<a id='brokilion'></a>
@@ -199,6 +203,9 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Wyspy Skellige<a id='wyspy_skellige'></a>
     * Ard Skellig<a id='wyspy_skellige_ard_skellig'></a>
         * największa wyspa na Skellige
+	*Vornhala<a id='wyspy_skellige_vornhala'></a>
+		* jedna z osad na Wyspach
+		* siedziba Vildcaarlów
 * Zerrikania<a id='zerrikania'></a>
 
 
@@ -247,6 +254,11 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* przy gębie ma macki z igłami na końcu - ukłucie może sparaliżować - którymi unieruchamia ofiarę/przeciwnika pomagając sobie w posiłku
 * Ślimok<a id='slimok'></a>
 	* zostawia za sobą ślad z czarnego śluzu zawierającego opiłki jakiegoś metalu
+* Banshee<a id='banshee'></a>
+	* niespokojny duch elfa
+	* wysysa życie ze wszystkiego w pewnym promieniu od miejsca zamordowania/pochówku
+	* może zabić wzrokiem
+	* można spróbować go uspokoić/odpędzić przepraszając w Starszej Mowie
      
 ## Heraldyka:
 * Orzeł biały w polu czerwonym - [Redania](#redania)
@@ -584,4 +596,20 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Szczury zaczęły zachowywać się normalnie gdy stracił przytomność
 		* Stracił rękę którą grał na flecie wykonanym z szczątków elfiego niemowlęcia
 	* [Skovik](#wbs_skovik) niszczy ołtarz na prośbę [Kajetana](#kajetan), [Igna](#ellander_ellander_igna) zauważa na ołtażu znak Lwiogłowego Pająka
-	
+	* Uciekamy z podziemi gonieni przez [Banshee](#banshee) uwolnione z ołtarza
+4. Siedziba Łowców
+	* Szczurołap zostaje zamknięty w lochach, skuty srebrem
+	* [Lord Myrton](#ellander_ellander_lord_myrton) nie wydaje się być rozwścieczony faktem że pytaliśmy o nagrodę Radę zamiast niego (potencjalnie nadwyrężając jego pozycję polityczną)
+	* Zdajemy relację z wyprawy
+	* Mamy stawić się przed radą Miejską następnego dnia po odbiór nagrody
+5. [Różyczka](#ellander_ellander_rozyczka)
+	* świętujemy sukcess dużą ilością alkoholu
+	* [Skovik](#wbs_skovik) opowiada:
+		* Svalblod jednym z bogów na Skellige
+		* Vildcaarlowie - wojownicy potrafiący przemieniać się w zwierzęta podobnie jak [Ilana](#ilana); ich siedzibą jest [Vornhala](#wyspy_skellige_vornhala)
+		* [Druid Artis](#wyspy_skellige_druid_artis) uczył kandydatów na Vildcaarla kontrolować przemianę
+		* siedział w więzieniu za przełożenie lojalności wobec Klanu nad lojalność wobec obecjej [władczyni Skellige](#wyspy_skellige_cerys)
+		* na wyspach nie ma wyznawców Wiecznego ognia ani Łowców, jednak o ile magów się nie zabija, nie są też lubiani
+		* Druidzi na Wyspach cieszą się wielkim szacunkiem
+		* na wyspach jest bardzo niewielu nieludzi
+	* Mentorem [Ilany](#ilana) był [Druid Finanin](#brokilion_druid_finanin) w [Brokilionie](#Brokilion)
