@@ -62,7 +62,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
     * Chida<a id='wbs_chida'></a> - człowiek, pochodzi z Zerrikani
         [Ebba](#wbs_ebba): siostra
     * Yarii<a id='wbs_yarii'></a> - człowiek z Aedirn, dezerter; ma tatuaż z symbolem Aedirn na ramieniu
-    * Varn<a id='wbs_varn'></a> - człowiek z Aedirn, dezerter; razem z Yariim dołączyli do Skowika i reszty w celach zarobkowych
+    * Varn<a id='wbs_varn'></a> - człowiek z Aedirn, dezerter; razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
 * [Aedirn](#aedirn)
 	* ✝Król Demawend<a id='aedirn_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
 	* Stennis<a id='aedirn_stennis'></a> - ; książę
@@ -300,7 +300,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Wychodzą na ulice i są agresywne, odpowiadają za kilka śmierci
 	* Podczas polowania na szczury okazuje się, że te są kontrolowane przez osobę grającą konkretną melodią na flecie(?)
 	* Jest opcja, że ta osoba "użycza" sobie zmysłów szczurów
-	- [x] pomoc ze strony [Skowika](#skovik) i jego braci w złapaniu/zabiciu grajka
+	- [x] pomoc ze strony [Skovika](#skovik) i jego braci w złapaniu/zabiciu grajka
 	* Rada Miejska
 - [x] Ku Świątyni!<a id='q7'></a>
 	* Glejt do miasta, 100GP
