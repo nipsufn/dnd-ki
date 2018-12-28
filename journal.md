@@ -67,8 +67,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* ✝Król Demawend<a id='aedirn_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
 	* Stennis<a id='aedirn_stennis'></a> - ; książę
 		[Demawend](#aedirn_demawend): ojciec
-* [Brokilion](#brokilion)
-	* Druid Finanin<a id='brokilion_druid_finanin'></a> - ; druid
+* [Brokilon](#brokilon)
+	* Druid Finarrin<a id='brokilon_druid_finarrin'></a> - ; druid
 		Uczył [Ilanę](#ilana)
 * [Ellander](#ellander_ellander)
 	* R. Harevard<a id='ellander_ellander_rodzina_harevard'></a> - ; n/a;
@@ -151,7 +151,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Druid Artis<a id='wyspy_skellige_druid_artis'></a> - ; druid
 
 ## Lokacje
-* Brokilion<a id='brokilion'></a>
+* Brokilon<a id='brokilon'></a>
 	* rozrósł się po Dwójksiężycowej Nocy
 * Cidaris<a id='cidaris'></a>
 	* Cidaris<a id='cidaris_cidaris'></a>
@@ -188,7 +188,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	    * Stolica wyznawców wiecznego Ognia
 	* Oxenfurt<a id='redania_oxenfurt'></a>
 		* Viggo [Regner](#ellander_ellander_viggo_vregner) - miejsce nauki
-	* Rinbe<a id='redania_rinbe'></a>Brokilion<a id='brokilion'>
+	* Rinbe<a id='redania_rinbe'></a>Brokilon<a id='brokilon'>
 		* Położone nad północym brzegiem Pontaru
 		* Lokacja jednego z laboratoriów [Vilgeforza](#vilgeforz)
 * Temeria<a id='temeria'></a>
@@ -410,7 +410,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Był/jest magiem, [żona](#ellander_ellander_pani_regner) też
 	* Ma asystentkę gnomkę, [Lukrecję](#ellander_ellander_lukrecja_schattenwortvregner)
 	* Strażnicy odprowadzają nas do "[Fioliki Zdrowia](#fiolka)
-	* [Brokilion](#brokilion) rośnie, drzewa chodzą, Driady mają się świetnie
+	* [Brokilon](#brokilon) rośnie, drzewa chodzą, Driady mają się świetnie
 	* [Maribor](#temeria_maribor) zniknął
 	* Trakty są niebezpieczne
 	* Wieś na południe od miasta którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycowa Noc
