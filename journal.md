@@ -48,6 +48,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Myszowór<a id='myszowor'></a> - człowiek, druid
 	- potężny druid, poważany nawet przez magów
 	- przebywa na Skellige
+* Arcydruida Ivryna<a id='arcydruid_ivryn'></a> - ?, druid
+	- skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#ellander_carreras) i wypaczyć okoliczne miejsce mocy
 * Wędrowna Banda Skovika<a id='wedrowna_banda_skovika'></a>
     * Skovik<a id='wbs_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige
         [Ivar](#wbs_ivan): brat
@@ -693,5 +695,11 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* po drodze nie atakuje nas trzeci żaboludź którego się spodziewaliśmy
 	* w połowie Menhiru zatrzymujemy się - zaczyna się robić grząsko, słyszymy płacz dziecka i widzimy wrony krążące nad nami
 	* [Ilana](#ilana) żąda "audiencji", otwiera się przed nami tunel prowadzący w głąb rytualnego wzgórza
+	* [Zielarka](ellander_carreras_zielarka) okazuje się aparycją duszy dziecka przybitego do właściwego Menhiru, kamienia w środku kurhanu, przeklętego przez [Arcydruida Ivryna](#arcydruid_ivryn), skazaną na nawiedzanie [Carreras](#ellander_carreras), miasta które zaczęło osuszać bagna, polować na okoliczną zwierzynę i zanieczyszczać wodę w rzece
+	* [Zielarka](ellander_carreras_zielarka) błaga aby ją uwolnić zanim klątwa zmusi ją aby zaatakować
+	* Sytuacja zdaje się beznadziejna, [Kajetan](#kajetan) decyduje się zacząc czerpać Moc, ryzykując życie, aby zniszczyć przeklęty Menhir. Częściowo mu się to udaje, przy czym przełamuje swoją blokadę, znacząco się wyniszczając
+	* [Ilana](#ilana) ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarka](ellander_carreras_zielarka) od klątwy; zabiera kryształ który znajdował się wewnątrz obelisku
+	* Docieramy z powrotem do miasta, po zmroku. Mgły ustąpiły. Kierujemy się do karczmy na noc
+
 
 <br /><br /><br />
