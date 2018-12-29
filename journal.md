@@ -666,24 +666,24 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Zaraz przed bramami miasta, krótko po zachodzie słońca, otacza nas mgła, wyrządzając nam sporą krzywdę. Udaje nam się dobiec do bram w ostatniej chwili
 2. [Carreras](#ellander_carreras) - przybycie
 	* Strażnicy kończą zamykać bramę i odprowadzają nas do karczmy. Miasteczko jest oświetlone niesamowitą ilością pochodni - jest to jedynym sposobem by odgonić mgłę i panoszące się w niej ogniki - [Mglaki](#mglak)
-	* Na rynku handluje [Zielarka](ellander_carreras_zielarka) która podobno jest w stanie pomóc z obrażeniami zadawanymi przez mglaki
+	* Na rynku handluje [Zielarka](#ellander_carreras_zielarka) która podobno jest w stanie pomóc z obrażeniami zadawanymi przez mglaki
 	* W mieście niedawno była elfka - możliwe że ta sama która odwiedziła [Świątynię Melitele](#ellanter_smelitele). Dobrze odziana, blond warkocz zawinięty z tyłu głowy, konno, chciała rozmawiać z Kapitanem straży Johanesem, odwiedziła bagna i wyruszyła w dalszą drogę
 2. [Carreras](#ellander_carreras) - dzień pierwszy
-	* [Zielarka](ellander_carreras_zielarka)
+	* [Zielarka](#ellander_carreras_zielarka)
 		* przyznaje, że zioła które sprzedaje ludziom którzy mieli nieszczęście iść przez mgłę to placebo, pomaga im dobty, długi sen
 		* opowiada że niebezpieczna mgła na bagnach panuje od dawna, zaczęła pokrywać coraz większy teren po Dwójksiężycowej Nocy
 		* w samych widłach rzek znajdują się ruiny - druidzki Menhir, punkt Mocy
 		* dawniej od czasu do czasu [Carreras](#ellander_carreras) od czasu do czasu odwiedzał [zielarz z Dillingen](#brugge_dillingen_zielarz), destylował nalewkę z Mandragory
 	* Strażnicy nie wiedzą aby była jakaś nagroda za rozwiązanie problemu z Mgłą
 	* Kupujemy zapasy na drogę - wymagają przygotowania
-	* [Ilana](#ilana) wraca do [Zielarki](ellander_carreras_zielarka), starając się wykryć magię. Dochodzi do krótkiej konfrontacji, stragan kończy zapadnięty na głowie bohaterki a [Zielarki](ellander_carreras_zielarka) ani widu, ani słychu
+	* [Ilana](#ilana) wraca do [Zielarki](#ellander_carreras_zielarka), starając się wykryć magię. Dochodzi do krótkiej konfrontacji, stragan kończy zapadnięty na głowie bohaterki a [Zielarki](#ellander_carreras_zielarka) ani widu, ani słychu
 	* [Ilana](#ilana) i [Leiv](#wbs_leiv) wybierają się na polowanie na gigantyczne żaby
 	* Reszta drużyny zaczyna przygotowywać zapasy
 	* [Ilana](#ilana) suszy zakupione jedzenie na drogę
-	* [Ilana](#ilana) orientuje się że [Zielarki](ellander_carreras_zielarka) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym [Kajetanowi](#kajetan)
+	* [Ilana](#ilana) orientuje się że [Zielarki](#ellander_carreras_zielarka) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym [Kajetanowi](#kajetan)
 2. [Carreras](#ellander_carreras) - dzień drugi
-	* [Kajetanowi](#kajetan) zdaje się że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](ellander_carreras_zielarka), odzyskać pukiel i potencjalnie skrócić babę o głowę
-	* Drużyna wyrusza w poszukiwaniu [Zielarki](ellander_carreras_zielarka), kierując się w stronę Menhiru - mamy podejrzenia że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy
+	* [Kajetanowi](#kajetan) zdaje się że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](#ellander_carreras_zielarka), odzyskać pukiel i potencjalnie skrócić babę o głowę
+	* Drużyna wyrusza w poszukiwaniu [Zielarki](#ellander_carreras_zielarka), kierując się w stronę Menhiru - mamy podejrzenia że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy
 	* [Ilana](#ilana) używa magii aby odszukać swoje włosy, wyczuwa je w trzech punktach
 	* W pół drogi do Menhiru atakuje nas dwóch żaboludzi, próbując porwać [Ilanę](#ilana)
 	* Drużyna jest zmęczona, wracamy na noc do miasta planując zakończyć sprawę następnego dnia
@@ -695,10 +695,10 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* po drodze nie atakuje nas trzeci żaboludź którego się spodziewaliśmy
 	* w połowie Menhiru zatrzymujemy się - zaczyna się robić grząsko, słyszymy płacz dziecka i widzimy wrony krążące nad nami
 	* [Ilana](#ilana) żąda "audiencji", otwiera się przed nami tunel prowadzący w głąb rytualnego wzgórza
-	* [Zielarka](ellander_carreras_zielarka) okazuje się aparycją duszy dziecka przybitego do właściwego Menhiru, kamienia w środku kurhanu, przeklętego przez [Arcydruida Ivryna](#arcydruid_ivryn), skazaną na nawiedzanie [Carreras](#ellander_carreras), miasta które zaczęło osuszać bagna, polować na okoliczną zwierzynę i zanieczyszczać wodę w rzece
-	* [Zielarka](ellander_carreras_zielarka) błaga aby ją uwolnić zanim klątwa zmusi ją aby zaatakować
+	* [Zielarka](#ellander_carreras_zielarka) okazuje się aparycją duszy dziecka przybitego do właściwego Menhiru, kamienia w środku kurhanu, przeklętego przez [Arcydruida Ivryna](#arcydruid_ivryn), skazaną na nawiedzanie [Carreras](#ellander_carreras), miasta które zaczęło osuszać bagna, polować na okoliczną zwierzynę i zanieczyszczać wodę w rzece
+	* [Zielarka](#ellander_carreras_zielarka) błaga aby ją uwolnić zanim klątwa zmusi ją aby zaatakować
 	* Sytuacja zdaje się beznadziejna, [Kajetan](#kajetan) decyduje się zacząc czerpać Moc, ryzykując życie, aby zniszczyć przeklęty Menhir. Częściowo mu się to udaje, przy czym przełamuje swoją blokadę, znacząco się wyniszczając
-	* [Ilana](#ilana) ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarka](ellander_carreras_zielarka) od klątwy; zabiera kryształ który znajdował się wewnątrz obelisku
+	* [Ilana](#ilana) ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarka](#ellander_carreras_zielarka) od klątwy; zabiera kryształ który znajdował się wewnątrz obelisku
 	* Docieramy z powrotem do miasta, po zmroku. Mgły ustąpiły. Kierujemy się do karczmy na noc
 
 
