@@ -100,7 +100,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		[Eliza](#ellander_ellander_eliza): żona; [Daria](#ellander_ellander_daria): córka
 	* Otto Kranmer<a id='ellander_ellander_otto_okranmer'></a> - krasnolud; artysta;
 		rzeźbiarz;
-		[Hans [Kranmer](#ellander_ellander_hans_hkranmer): brat
+		[Hans Kranmer](#ellander_ellander_hans_hkranmer): brat
 	* Hans Kranmer<a id='ellander_ellander_hans_hkranmer'></a> - krasnolud; cieśla;
 		cieśla;
         [Jarna Kranmer](#ellander_ellander_jarna_kranmer): żona
