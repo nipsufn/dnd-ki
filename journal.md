@@ -139,6 +139,9 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		[Lord Slyz Myrton](#ellander_ellander_lord_myrton): przełożony; [Kasimir](#kasimir): podwładny
 * [Świątynia Melitele](#ellander_smelitele):
 	* Matka Iola<a id='ellander_smelitele_matka_iola'></a> - ; kapłanka;
+* [Carreras](#ellander_carreras)
+	* Zielarka<a id='ellander_carreras_zielarka'></a> - ; wiedźma;
+		dziecko przybite do pobliskego Menhiru, uwięzione jako wykonawca klątwy rzuconej przez druidów
 * [Kaedwen](#kaedwen)
 	* ✝? Król Henselt<a id='kaedwen_krol_henselt'></a>
 * [Nilfgaard](#nilfgaard)
