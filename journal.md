@@ -48,7 +48,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Myszowór<a id='myszowor'></a> - człowiek, druid
 	- potężny druid, poważany nawet przez magów
 	- przebywa na Skellige
-* Arcydruida Ivryna<a id='arcydruid_ivryn'></a> - ?, druid
+* Arcydruid Ivryn<a id='arcydruid_ivryn'></a> - ?, druid
 	- skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#ellander_carreras) i wypaczyć okoliczne miejsce mocy
 * Wędrowna Banda Skovika<a id='wedrowna_banda_skovika'></a>
     * Skovik<a id='wbs_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige
