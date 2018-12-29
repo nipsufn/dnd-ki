@@ -70,6 +70,10 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * [Brokilon](#brokilon)
 	* Druid Finarrin<a id='brokilon_druid_finarrin'></a> - ; druid
 		Uczył [Ilanę](#ilana)
+* [Dillingen](#brugge_dillingen)
+	* Zielarz z Dillingen<a id='brugge_dillingen_zielarz'></a> - ?; zielarz;
+		Destylował nalewkę z Mandragory
+		Nie pojawił się w [Carreras](#ellander_carreras) od kilku lat
 * [Ellander](#ellander_ellander)
 	* R. Harevard<a id='ellander_ellander_rodzina_harevard'></a> - ; n/a;
 		rodzina władająca [Ellander](#ellander_ellander) przed Niilfgaardczykami
@@ -153,6 +157,9 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 ## Lokacje
 * Brokilon<a id='brokilon'></a>
 	* rozrósł się po Dwójksiężycowej Nocy
+* Brugge<a id='brugge'></a>
+	* Brugge<a id='brugge_brugge'></a>
+	* Dillingen<a id='brugge_dillingen'></a>
 * Cidaris<a id='cidaris'></a>
 	* Cidaris<a id='cidaris_cidaris'></a>
 	* Bremervoord<a id='cidaris_bremervoord'></a>
@@ -177,6 +184,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Świątynia
 	* Ysgyth<a id='ellander_ysgyth'></a>
 		* Starożytny cmentarz elfiej szlachty, obłożony klątwami
+	* Carreras<a id='ellander_carreras'></a>
+		* Leży na osuszonym fragmencie bagna przy widłach Ismeny i Iny, ostanie miasto [Temerii](#temeria) i [Ellander](#ellander) na szlakach kupieckich do [Mahakamu](#mahakam)
 * Kaedwen<a id='kaedwen'></a>
     * Ban Ard<a id='kaedwen_ban_ard'></a>
         siedziba szkoły magów zniszczonej(?) przez Redańczyków
@@ -198,6 +207,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	    * Wyspa Thanedd<a id='gros_velentemeria_wyspa_thanedd'></a>
             zniszczona szkoła czarownic
     * Dorian<a id='temeria_dorian'></a>
+	* Maribor<a id='temeria_maribor'></a>
 * Maribor<a id='temeria_maribor'></a>
 	* zniknął się po Dwójksiężycowej Nocy
 * Wyspy Skellige<a id='wyspy_skellige'></a>
@@ -206,8 +216,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	*Vornhala<a id='wyspy_skellige_vornhala'></a>
 		* jedna z osad na Wyspach
 		* siedziba Vildcaarlów
+* Verden<a id='verden'></a>
 * Zerrikania<a id='zerrikania'></a>
-
 
 ## Ogłoszenia
 * Nagroda za oczyszczenie traktu łączącego [Wyzimę](#temeria_wyzima) z [Mariborem](#temeria_maribor) z trupojadów - Zarządca [Wyzimy](#temeria_wyzima)
@@ -259,6 +269,16 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* wysysa życie ze wszystkiego w pewnym promieniu od miejsca zamordowania/pochówku
 	* może zabić wzrokiem
 	* można spróbować go uspokoić/odpędzić przepraszając w Starszej Mowie
+* Troll<a id='troll'></a>
+	* szybko się regeneruje, dużo większy od człowieka
+	* zwykle postrzega się je jako pożyteczne - budują i naprawiają mosty, żądając od podróżnych "myta" - upominku, niekoniecznie złota
+* Mglak<a id='mglak'></a>
+	* ognik, trupojad, nie wzgardzi żywym
+	* zadaje obrażenia które leczy tylko dłuższy odpoczynek
+	* zwykle porusza się we mgle
+	* bardzo unikają światła dziennego i latarni
+	* możliwe że ignorują żywych którzy w ogóle się nie ruszają
+
      
 ## Heraldyka
 * Orzeł biały w polu czerwonym - [Redania](#redania)
@@ -321,7 +341,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 - Kapituła<a id="kapitula"></a> - rada magów która motała w polityce zanim Redańczycy i Kapłani Wiecznego Ognia zaprowadzili swój porządek
 - Dwimeryt<a id="dwimeryt"></a> - metal wydobywany pod [górą Carbon](#mahakam_gora_carbon) w [Mahakamie](#mahakam), uniemożliwia magom kożystanie z Mocy
 - Goecja<a id="goecja"></a> - szkoła magi skupiająca się na kontrolowaniu dusz i sił życiowych
-- Lwiogłowy Pająk (Coram Agh Terra)<a id="lwioglowy_pajak"></a>bóg, zły. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów [Foltesta](temeria_foltest) na terenach [Temerii](#temeria). Po śmierci [Foltesta](temeria_foltest) wiernych przybywa
+- Lwiogłowy Pająk (Coram Agh Terra)<a id="lwioglowy_pajak"></a> - bóg, zły. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów [Foltesta](temeria_foltest) na terenach [Temerii](#temeria). Po śmierci [Foltesta](temeria_foltest) wiernych przybywa
 
 ## Dziennik
 
@@ -401,7 +421,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 
 
 ### Sesja 5
-##### Pomiędzy Aequinoctuim jesiennym Solistitium zimowym
+##### Pomiędzy Aequinoctuim jesiennym a Solistitium zimowym
 1. [Viggo Regner](#ellander_ellander_viggo_regner)
 	* [Viggo](#ellander_ellander_viggo_regner) jest teraz w lepszej sytuacji, zaproszono go nawet do rady
 	* Możliwe że będzie miał więcej pracy
@@ -540,12 +560,12 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 2. "[Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)"
 	* Widzimy [Ignę](#igna) wychodzącą z jakimiś papierami
 	* Dowiadujemy się o [Dijsktrze](#redania_dijsktra)
-	* [Novigrad](#redania_novigrad) został puszczony prawie cały z dymem przez magów miesiąc - dwa przed Dwujksiężycową Nocą; w pożarze umarł przywódca Łowców, [Menge](#redania_menge)
+	* [Novigrad](#redania_novigrad) został puszczony prawie cały z dymem przez magów miesiąc - dwa przed Dwójksiężycową Nocą; w pożarze umarł przywódca Łowców, [Menge](#redania_menge)
 	* [Menge](#redania_menge) odesłał [Lorda Myrtona](#ellander_ellander_lord_myrton), swoją prawą rękę, z bliżej niewyjaśniych powodów (ambicja?) do [Ellander](#ellander) jakiś czas temu
 	* Typowe trasy do portów z których można dopłynąć na Skellige ([Gdzie jest Myszowór?](#q10)):
-		Cerecas -> Maribor -> Brugge -> Verden
-		Cerecas -> Wyzima -> Gros Velen
-		Gros Velen (bezpośrednio)
+		[Carreras](#ellander_carreras) -> [Maribor](#temeria_maribor) -> [Brugge](#brugge_brugge) -> [Verden](#verden)
+		[Carreras](#ellander_carreras) -> [Wyzima](#temeria_wyzima) -> [Gros Velen](#temeria_gros_velen)
+		[Gros Velen](#temeria_gros_velen) (bezpośrednio)
 	* Lepiej przeprawiać się statkiem zimą, bo morze jest spokojniejsze
 3. [Krawcowa](#ellander_ellander_eliza)
 	* Wygląda lepiej
@@ -631,3 +651,44 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Bracia [Skovika](#wbs_skovik) zostają odstawieni do łóżek.
 	* [Ilana](#ilana) i [Skovik](#wbs_skovik) przygotowują wyjazd z [Ellander](#ellander) od strony technicznej - zapasy i ekwipunek. Następnie udają się do banku [Gianfanellich](#gianfanelli) wycenić diamenty oraz do łaźni, by odświeżyć się przed podróżą i uprać ubrania na drogę.
 	* [Kajetan](#kajetan) w tym czasie idzie do łaźni, kuźni, a także za namową [Ilany](#ilana) odwiedza [krawcową](#ellander_ellander_eliza), nie wiedząc czego się spodziewać. Wraca z nową czapką.
+
+### Sesja 11
+#### 2 tygodnie przed Solistitium zimowym
+1. Do [Carreras](#ellander_carreras)
+	* [Kajetan](#kajetan) przypomina sobie że elfy też świętują Solistitium zimowe, Midivern - w tym czasie granica między płaszczyznami magicznymi jest najsłabsza
+	* robimy ostatnie zakupy na drogę (między innymi ostatnie butelki nalewki z Mandragory)
+	* w drodze, już za [Świątynią Melitele](#ellanter_smelitele), mija nas silnie strzerzony transport wojska [Redańskiego](#redania) - 8 wozów podróżujących na północ
+	* zbliżając się do [Carreras](#ellander_carreras) przeprawiamy się przez most utrzymywany przez [Trolle](#troll) żądające myta. Większość drużyny ucieka, [Ilana](#ilana) i [Ivar](#wbs_ivar) są zbyt wolni - rozmawiają z potworami, przekonując jednego z nich by ich puścić. Wktótce drużyna rusza dalej
+	* Na rozstaju dróg widać zerwane ogłoszenie nt. rekrutacji kapłanek i pomocy do [Świątyni Melitele](#ellanter_smelitele). Zawieszamy nowe ogłoszenie, [Kajetan](#kajetan) dodatkowo wiesza groźbę do kogokolwiek zrywającego ogłoszenia
+	* Zaraz przed bramami miasta, krótko po zachodzie słońca, otacza nas mgła, wyrządzając nam sporą krzywdę. Udaje nam się dobiec do bram w ostatniej chwili
+2. [Carreras](#ellander_carreras) - przybycie
+	* Strażnicy kończą zamykać bramę i odprowadzają nas do karczmy. Miasteczko jest oświetlone niesamowitą ilością pochodni - jest to jedynym sposobem by odgonić mgłę i panoszące się w niej ogniki - [Mglaki](#mglak)
+	* Na rynku handluje [Zielarka](ellander_carreras_zielarka) która podobno jest w stanie pomóc z obrażeniami zadawanymi przez mglaki
+	* W mieście niedawno była elfka - możliwe że ta sama która odwiedziła [Świątynię Melitele](#ellanter_smelitele). Dobrze odziana, blond warkocz zawinięty z tyłu głowy, konno, chciała rozmawiać z Kapitanem straży Johanesem, odwiedziła bagna i wyruszyła w dalszą drogę
+2. [Carreras](#ellander_carreras) - dzień pierwszy
+	* [Zielarka](ellander_carreras_zielarka)
+		* przyznaje, że zioła które sprzedaje ludziom którzy mieli nieszczęście iść przez mgłę to placebo, pomaga im dobty, długi sen
+		* opowiada że niebezpieczna mgła na bagnach panuje od dawna, zaczęła pokrywać coraz większy teren po Dwójksiężycowej Nocy
+		* w samych widłach rzek znajdują się ruiny - druidzki Menhir, punkt Mocy
+		* dawniej od czasu do czasu [Carreras](#ellander_carreras) od czasu do czasu odwiedzał [zielarz z Dillingen](#brugge_dillingen_zielarz), destylował nalewkę z Mandragory
+	* Strażnicy nie wiedzą aby była jakaś nagroda za rozwiązanie problemu z Mgłą
+	* Kupujemy zapasy na drogę - wymagają przygotowania
+	* [Ilana](#ilana) wraca do [Zielarki](ellander_carreras_zielarka), starając się wykryć magię. Dochodzi do krótkiej konfrontacji, stragan kończy zapadnięty na głowie bohaterki a [Zielarki](ellander_carreras_zielarka) ani widu, ani słychu
+	* [Ilana](#ilana) i [Leiv](#wbs_leiv) wybierają się na polowanie na gigantyczne żaby
+	* Reszta drużyny zaczyna przygotowywać zapasy
+	* [Ilana](#ilana) suszy zakupione jedzenie na drogę
+	* [Ilana](#ilana) orientuje się że [Zielarki](ellander_carreras_zielarka) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym [Kajetanowi](#kajetan)
+2. [Carreras](#ellander_carreras) - dzień drugi
+	* [Kajetanowi](#kajetan) zdaje się że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](ellander_carreras_zielarka), odzyskać pukiel i potencjalnie skrócić babę o głowę
+	* Drużyna wyrusza w poszukiwaniu [Zielarki](ellander_carreras_zielarka), kierując się w stronę Menhiru - mamy podejrzenia że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy
+	* [Ilana](#ilana) używa magii aby odszukać swoje włosy, wyczuwa je w trzech punktach
+	* W pół drogi do Menhiru atakuje nas dwóch żaboludzi, próbując porwać [Ilanę](#ilana)
+	* Drużyna jest zmęczona, wracamy na noc do miasta planując zakończyć sprawę następnego dnia
+	* Zaniepokojeni próbą porwania (spodziewaliśmy się walki do ostatiej krwi), pomimo nocowania w karczmie wystawiamy warty
+	* [Kajetan](#kajetan) zauważa przez okno nad ranem wielką ilość rechoczących żab, zdających się obserwować okno naszego pokoju.
+2. [Carreras](#ellander_carreras) - dzień trzeci
+	* Wszyscy w mieście źle spali, ulice wydają się opustoszałe
+	* wyruszamy tą samą drogą co poprzedniego dnia
+	* po drodze nie atakuje nas trzeci żaboludź którego się spodziewaliśmy
+	* w połowie Menhiru zatrzymujemy się - zaczyna się robić grząsko, słyszymy płacz dziecka i widzimy wrony krążące nad nami
+	* [Ilana](#ilana) żąda "audiencji", otwiera się przed nami tunel prowadzący w głąb rytualnego wzgórza
