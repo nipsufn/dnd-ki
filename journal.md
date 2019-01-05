@@ -47,6 +47,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
     - odczarował chłopa zamienionego w kormorana w Kerak
     - miał okazję rozmawiać z pokojowo nastawionym wilołakiem w [Wyzimie](#temeria_wyzima)
     - nielubiany w Aedirn (plotka głosi, że na zlecenie zabił króla Demawenda)
+* Lambert<a id='lambert'></a> - człowiek, wiedźmin
 * Myszowór<a id='myszowor'></a> - człowiek, druid
 	- potężny druid, poważany nawet przez magów
 	- przebywa na Skellige
@@ -749,5 +750,5 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Kajetan](#kajetan) zamknie portal zaklęciem zapisanym przez [Keirę Metz](#keira_metz), w zamian czarodziejka podleczy wyniszczonego elfa
 	* Portal udaje się zamknąć, potworu które zdołały się przedostać zabić (jednego przez [Lamberta](#lambert) na wyższym poziomie, drugiego przez naszą drużynę)
 	* zdrowie [Kajetana](#kajetan) zostaje nieco podreperowanie, jednak dalej ma dwimeryt w organiźmie i nie może rzucać zaklęć całkiem bezkarnie
-	
+
 <br /><br /><br />
