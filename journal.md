@@ -705,7 +705,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Ilana](#ilana) ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarka](#ellander_carreras_zielarka) od klątwy; zabiera kryształ który znajdował się wewnątrz obelisku
 	* Docieramy z powrotem do miasta, po zmroku. Mgły ustąpiły. Kierujemy się do karczmy na noc
 
-### Sesja 11
+### Sesja 12
 #### Tydzień przed Solistitium zimowym
 1. [Carreras](#ellander_carreras) - dzień czwarty
 	* Rozmawia z nami Komendant straży. Dwie noce temu (noc z żabami) w mieście umarł w sumie tuzin ludzi. Nie ma żadnych dowodów że mamy coś z tym wspólnego, wysłuchując naszej opowieści o wiedźmach, Menhirach i tym podobnym, każe nam się wynosić z miasta przed zachodem słońca
