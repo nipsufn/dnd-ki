@@ -23,6 +23,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Sesja 9](#sesja-9)
 	* [Sesja 10](#sesja-10)
 	* [Sesja 11](#sesja-11)
+	* [Sesja 12](#sesja-12)
 <hr />
 
 
@@ -671,7 +672,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Strażnicy kończą zamykać bramę i odprowadzają nas do karczmy. Miasteczko jest oświetlone niesamowitą ilością pochodni - jest to jedynym sposobem by odgonić mgłę i panoszące się w niej ogniki - [Mglaki](#mglak)
 	* Na rynku handluje [Zielarka](#ellander_carreras_zielarka) która podobno jest w stanie pomóc z obrażeniami zadawanymi przez mglaki
 	* W mieście niedawno była elfka - możliwe że ta sama która odwiedziła [Świątynię Melitele](#ellanter_smelitele). Dobrze odziana, blond warkocz zawinięty z tyłu głowy, konno, chciała rozmawiać z Kapitanem straży Johanesem, odwiedziła bagna i wyruszyła w dalszą drogę
-2. [Carreras](#ellander_carreras) - dzień pierwszy
+3. [Carreras](#ellander_carreras) - dzień pierwszy
 	* [Zielarka](#ellander_carreras_zielarka)
 		* przyznaje, że zioła które sprzedaje ludziom którzy mieli nieszczęście iść przez mgłę to placebo, pomaga im dobty, długi sen
 		* opowiada że niebezpieczna mgła na bagnach panuje od dawna, zaczęła pokrywać coraz większy teren po Dwójksiężycowej Nocy
@@ -684,7 +685,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Reszta drużyny zaczyna przygotowywać zapasy
 	* [Ilana](#ilana) suszy zakupione jedzenie na drogę
 	* [Ilana](#ilana) orientuje się że [Zielarki](#ellander_carreras_zielarka) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym [Kajetanowi](#kajetan)
-2. [Carreras](#ellander_carreras) - dzień drugi
+4. [Carreras](#ellander_carreras) - dzień drugi
 	* [Kajetanowi](#kajetan) zdaje się że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](#ellander_carreras_zielarka), odzyskać pukiel i potencjalnie skrócić babę o głowę
 	* Drużyna wyrusza w poszukiwaniu [Zielarki](#ellander_carreras_zielarka), kierując się w stronę Menhiru - mamy podejrzenia że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy
 	* [Ilana](#ilana) używa magii aby odszukać swoje włosy, wyczuwa je w trzech punktach
@@ -692,7 +693,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Drużyna jest zmęczona, wracamy na noc do miasta planując zakończyć sprawę następnego dnia
 	* Zaniepokojeni próbą porwania (spodziewaliśmy się walki do ostatiej krwi), pomimo nocowania w karczmie wystawiamy warty
 	* [Kajetan](#kajetan) zauważa przez okno nad ranem wielką ilość rechoczących żab, zdających się obserwować okno naszego pokoju.
-2. [Carreras](#ellander_carreras) - dzień trzeci
+5. [Carreras](#ellander_carreras) - dzień trzeci
 	* Wszyscy w mieście źle spali, ulice wydają się opustoszałe
 	* wyruszamy tą samą drogą co poprzedniego dnia
 	* po drodze nie atakuje nas trzeci żaboludź którego się spodziewaliśmy
@@ -704,5 +705,40 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Ilana](#ilana) ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarka](#ellander_carreras_zielarka) od klątwy; zabiera kryształ który znajdował się wewnątrz obelisku
 	* Docieramy z powrotem do miasta, po zmroku. Mgły ustąpiły. Kierujemy się do karczmy na noc
 
+### Sesja 11
+#### Tydzień przed Solistitium zimowym
+1. [Carreras](#ellander_carreras) - dzień czwarty
+	* Rozmawia z nami Komendant straży. Dwie noce temu (noc z żabami) w mieście umarł w sumie tuzin ludzi. Nie ma żadnych dowodów że mamy coś z tym wspólnego, wysłuchując naszej opowieści o wiedźmach, Menhirach i tym podobnym, każe nam się wynosić z miasta przed zachodem słońca
+	* [Kajetan](#kajetan) pomimo wyczerpania odzyskuje kontrolę nad Mocą - może czarować
+	* [Kajetan](#kajetan) robi ostatnie zakupy na drogę, sprzedaje topór do którego stracił zaufanie
+	* [Ilana](#ilana) dowiaduje się więcej o histori Carreras:
+		* Miasto powstało po tym jak za zgodą lokalnych druidów zbudowano trakt
+		* Druidzi nie chcieli śmierdzącego miasta i mieszkającym w nich myśliwych w okolicy
+		* Druidzi zniknęli mniej więcej w tym samym czasie w którym zaginęła córka Carrerasów, [Esma](#ellander_carreras_esma_carreras)
+		* Wspomniane wydarzenia działy się jakieś 3 ludzkie pokolenia temu
+	* wyruszamy z miasta
+2. W drodze do [Mariboru](#temeria_maribor)
+	* przy drogowskazie ogłoszenia dalej wiszą, jakiś kapłan opowiada przed grupą chłopów i podróżnych pierdoły o Wiecznym Ogniu - omijamy zbiegowisko
+	* mijamy wozy wyładowane kilofami i łopatami ciągnące od [Mariboru](#temeria_maribor)
+		* miasto rzeczywiście zniknęło
+		* ludzie szukają cennych przedmiotów które pozostały w piwnicach
+	* spotykamy jakąś latającą jaszczurkę rzucającą iluzje na co popadnie. [Kajetan](#kajetan) sprał ją aż odpuściła iluzje, [Ilana](#ilana) próbowała ją oswoić
+3. [Maribor](#temeria_maribor) - wieczór
+	* [Maribor](#temeria_maribor) to jeden wielki obóz, do którego ktoś co chwila albo przybywa albo wyjeżdża
+	* Wygląda na to że całe wzgórze na którym stało miasto zostało magicznie ścięte na idealny poziom, wszystko powyżej zniknęło
+	* Drużyna zatrzymuje się na noc w jednej z opuszczonych piwnic
+	* [Ilana](#ilana) próbuje skupić się na ogniskach magii w okolicy, kończy się to wielkim krwotokiem z nosa i prawie że zasłabnięciem
+	* [Ilana](#ilana) i [Skovik](#wbs_skovik) wychodzą rozjerzeć się po okolicy, oglądają bójkę pięciu chłopa na jednego, dającego im radę bez najmniejszego problemu
+	* Okazuje się że mężczyzna chroni jednych z fundamentów, jest mrukliwy i nie udziela informacji ani o mieście ani o fundamentach których broni
+	* Na odchodnym [Ilana](#ilana) zauważa jak gość rozmawia z kobietą wystawiającą głowę z namiotu, nosi ślady krwotoku podobnego do tego który jej się przydarzył
+4. [Maribor](#temeria_maribor) - dzień
+	* Pomimo planów natychmiastowego wyruszenia z [Mariboru](#temeria_maribor), [Ilana](#ilana) namawia drużynę na ostatnią przechadzkę w okolicy dobrze chronionych fundamentów
+	* [Kajetan](#kajetan) zauważa i opowiada, nieco za głośno, o fundamentach
+		* elfie
+		* prwdopodobnie zbudowanie na miejscu mocy i kotwiczące je - są na planie siedmiokąta foremnego
+		* jeseśmy z trzy kondygnacje pod oryginalnym poziomem ziemi
+		* przypuszczalnie w okolicy jednego z większych placów w mieście, może ratusza
+	* Głośna opowieść przykuwa uwagę kobiety z namiotu, wysyła za nami swojego ochroniarza jako że odwracamy się i powoli zaczynamy wychodzić z miasta
+	* Ochraniarz, małomównie i niechętnie zaprasza nas do obozu
 
 <br /><br /><br />
