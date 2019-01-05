@@ -42,6 +42,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* potencjalna winowajczyni nienawiści [Radowida](#redania_krol_radowid) do Mocy i magów
 * Keira Metz<a id='keira_metz'></a> - ?, mag
 	* była/jest magiem specjalizującym się w leczeniu
+* Triss Merigold<a id='triss_merigold'></a> - ?, mag
 * Greralt z Rivii<a id='geralt'></a> - człowiek, wiedźmin
     - odczarował chłopa zamienionego w kormorana w Kerak
     - miał okazję rozmawiać z pokojowo nastawionym wilołakiem w [Wyzimie](#temeria_wyzima)
@@ -740,5 +741,13 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* przypuszczalnie w okolicy jednego z większych placów w mieście, może ratusza
 	* Głośna opowieść przykuwa uwagę kobiety z namiotu, wysyła za nami swojego ochroniarza jako że odwracamy się i powoli zaczynamy wychodzić z miasta
 	* Ochraniarz, małomównie i niechętnie zaprasza nas do obozu
-
+	* Kobieta w namiocie to [Keira Metz](#keira_metz), czarodziejka specjalizująca się w lecznictwie.
+	* Fundamenty to ruiny wieży [Triss Merigold](#triss_merigold)
+	* Ochroniarz to wiedźmin, [Lambert](#lambert), jego oczy wyglądały normalnie dzięki iluzji
+	* W labolatoruim, 3 poziomy piętra poniżej obecnej powierzchni cały czas aktywny jest portal z którego wyłażą różnorakie monstra
+	* Czarodziejce i ochroniażowi trzeba pomóc - czarodziejka podniesie gruzy, ochroniaż upewni się że nic jej się nie stanie - my oczyścimy niższe piętra
+	* [Kajetan](#kajetan) zamknie portal zaklęciem zapisanym przez [Keirę Metz](#keira_metz), w zamian czarodziejka podleczy wyniszczonego elfa
+	* Portal udaje się zamknąć, potworu które zdołały się przedostać zabić (jednego przez [Lamberta](#lambert) na wyższym poziomie, drugiego przez naszą drużynę)
+	* zdrowie [Kajetana](#kajetan) zostaje nieco podreperowanie, jednak dalej ma dwimeryt w organiźmie i nie może rzucać zaklęć całkiem bezkarnie
+	
 <br /><br /><br />
