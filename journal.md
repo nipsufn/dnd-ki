@@ -3,6 +3,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 
 
 ## Spis treści
+## Spis treści
 * [Postaci](#postaci)
 * [Lokacje](#lokacje)
 * [Ogłoszenia](#ogłoszenia)
@@ -24,6 +25,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Sesja 10](#sesja-10)
 	* [Sesja 11](#sesja-11)
 	* [Sesja 12](#sesja-12)
+	* [Sesja 13](#sesja-13)
 <hr />
 
 
@@ -32,10 +34,10 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * PC - Kajetan ab Extremis (z Krańca)<a id='kajetan'></a> - elf, barbarzyńca, wysoki, delikatny, w miarę elegancko odziany
 * PC - Kasimir<a id='kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
 * Giananelli<a id='gianfanelli'></a> - ?;
-    właściciel banków;
+	właściciel banków;
 * ✝ Vilgeforz<a id='vilgeforz'></a> - człowiek, mag, członek [Kapituły](#kapitula)
-    - miał immunitet od [Dwimerytu](#dwimeryt)
-    - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
+	- miał immunitet od [Dwimerytu](#dwimeryt)
+	- jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
 * Philippa Eihart<a id='philippa_eihart'></a> - człowiek, mag, członek [Kapituły](#kapitula)
 	* potrafi się zamieniać w sowę, możliwe inne zwierzęta
 	* oślepiona przez [Radowida](#redania_krol_radowid) gdy przejął od niej władzę nad Redanią (była regentką)
@@ -43,10 +45,13 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Keira Metz<a id='keira_metz'></a> - ?, mag
 	* była/jest magiem specjalizującym się w leczeniu
 * Triss Merigold<a id='triss_merigold'></a> - ?, mag
+	* członek Kapituły, zajmowała się intrygami politycznymi
+	* była doradczynią [Króla Foltesta](#temeria_krol_foltest) w Temerii
+	* miała siedzibę w [Mariborze](#temeria_maribor)
 * Greralt z Rivii<a id='geralt'></a> - człowiek, wiedźmin
-    - odczarował chłopa zamienionego w kormorana w Kerak
-    - miał okazję rozmawiać z pokojowo nastawionym wilołakiem w [Wyzimie](#temeria_wyzima)
-    - nielubiany w Aedirn (plotka głosi, że na zlecenie zabił króla Demawenda)
+	- odczarował chłopa zamienionego w kormorana w Kerak
+	- miał okazję rozmawiać z pokojowo nastawionym wilołakiem w [Wyzimie](#temeria_wyzima)
+	- nielubiany w Aedirn (plotka głosi, że na zlecenie zabił króla Demawenda)
 * Lambert<a id='lambert'></a> - człowiek, wiedźmin
 * Myszowór<a id='myszowor'></a> - człowiek, druid
 	- potężny druid, poważany nawet przez magów
@@ -54,21 +59,21 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Arcydruid Ivryn<a id='arcydruid_ivryn'></a> - ?, druid
 	- skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#ellander_carreras) i wypaczyć okoliczne miejsce mocy
 * Wędrowna Banda Skovika<a id='wedrowna_banda_skovika'></a>
-    * Skovik<a id='wbs_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige
-        [Ivar](#wbs_ivan): brat
-        [Leif](#wbs_leiv): brat
-    * Ivar<a id='wbs_ivan'></a> - człowiek, krótkie włosy, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige
-        [Skovik](#wbs_skovik): brat
-        [Leif](#wbs_leiv): brat (bliźniak)
-    * Leif<a id='wbs_leiv'></a> - człowiek, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige
-        [Skovik](#wbs_skovik): brat
-        [Ivar](#wbs_ivan): brat (bliźniak)
-    * Ebba<a id='wbs_ebba'></a> - człowiek, pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
-        [Chida](#wbs_chida): siostra
-    * Chida<a id='wbs_chida'></a> - człowiek, pochodzi z Zerrikani
-        [Ebba](#wbs_ebba): siostra
-    * Yarii<a id='wbs_yarii'></a> - człowiek z Aedirn, dezerter; ma tatuaż z symbolem Aedirn na ramieniu
-    * Varn<a id='wbs_varn'></a> - człowiek z Aedirn, dezerter; razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
+	* Skovik<a id='wbs_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige
+		[Ivar](#wbs_ivan): brat
+		[Leiv](#wbs_leiv): brat
+	* Ivar<a id='wbs_ivan'></a> - człowiek, krótkie włosy, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige
+		[Skovik](#wbs_skovik): brat
+		[Leiv](#wbs_leiv): brat (bliźniak)
+	* Leiv<a id='wbs_leiv'></a> - człowiek, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige
+		[Skovik](#wbs_skovik): brat
+		[Ivar](#wbs_ivan): brat (bliźniak)
+	* Ebba<a id='wbs_ebba'></a> - człowiek, pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
+		[Chida](#wbs_chida): siostra
+	* Chida<a id='wbs_chida'></a> - człowiek, pochodzi z Zerrikani
+		[Ebba](#wbs_ebba): siostra
+	* Yarii<a id='wbs_yarii'></a> - człowiek z Aedirn, dezerter; ma tatuaż z symbolem Aedirn na ramieniu
+	* Varn<a id='wbs_varn'></a> - człowiek z Aedirn, dezerter; razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
 * [Aedirn](#aedirn)
 	* ✝Król Demawend<a id='aedirn_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
 	* Stennis<a id='aedirn_stennis'></a> - ; książę
@@ -76,10 +81,17 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * [Brokilon](#brokilon)
 	* Druid Finarrin<a id='brokilon_druid_finarrin'></a> - ; druid
 		Uczył [Ilanę](#ilana)
-* [Dillingen](#brugge_dillingen)
-	* Zielarz z Dillingen<a id='brugge_dillingen_zielarz'></a> - ?; zielarz;
-		Destylował nalewkę z Mandragory
-		Nie pojawił się w [Carreras](#ellander_carreras) od kilku lat
+* [Brugge](#brugge)
+	* [Brugge](#brugge_brugge)
+		* ✝Król Wenzlaw I<a id='brugge_krol_wenzlaw_i'></a> - ; król [Brugge](#brugge)
+			Przychylny Driadom
+		* Król Wenzlaw II<a id='brugge_krol_wenzlaw_ii'></a> - ; król [Brugge](#brugge)
+			Podpisał umowy z Nilfgaarderm
+		* Magister Florian Vicovarno<a id='brugge_brugge_florian_vicovarno'></a> - ; mag
+	* [Dillingen](#brugge_dillingen)
+		* Zielarz z Dillingen<a id='brugge_dillingen_zielarz'></a> - ?; zielarz;
+			Destylował nalewkę z Mandragory
+			Nie pojawił się w [Carreras](#ellander_carreras) od kilku lat
 * [Ellander](#ellander_ellander)
 	* R. Harevard<a id='ellander_ellander_rodzina_harevard'></a> - ; n/a;
 		rodzina władająca [Ellander](#ellander_ellander) przed Niilfgaardczykami
@@ -106,9 +118,9 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		[Hans Kranmer](#ellander_ellander_hans_hkranmer): brat
 	* Hans Kranmer<a id='ellander_ellander_hans_hkranmer'></a> - krasnolud; cieśla;
 		cieśla;
-        [Jarna Kranmer](#ellander_ellander_jarna_kranmer): żona
+		[Jarna Kranmer](#ellander_ellander_jarna_kranmer): żona
 		[Otto Kranmer](#ellander_ellander_otto_kranmer): brat
-    * Jarna Kranmer<a id='ellander_ellander_jarna_kranmer'></a> - krasnolud; żona Hansa?;
+	* Jarna Kranmer<a id='ellander_ellander_jarna_kranmer'></a> - krasnolud; żona Hansa?;
 		[Hans Kranmer](#ellander_ellander_hans_kranmer): mąż
 	* R. Ruprecht<a id='ellander_ellander_rodzina_okranmer'></a>: brat
 	* R. Ruprecht<a id='ruprecht'></a> - gnom; jubiler;
@@ -159,24 +171,36 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* ✝Menge<a id='redania_menge'></a> - ; przywódca zakonu Łowców
 		[Lord Slyz Myrton](#ellander_ellander_lord_myrton): podwładny
 * [Temeria](#temeria)
-    * ✝Król Foltest<a id='temeria_krol_foltest'></a> - ; król [Temerii](#temeria)
+	* ✝Król Foltest<a id='temeria_krol_foltest'></a> - ; król [Temerii](#temeria)
 * [Wyspy Skellige](#wyspy_skellige)
-    * Jarl Cerys<a id='wyspy_skellige_cerys'></a> - ; jarl
+	* Jarl Cerys<a id='wyspy_skellige_cerys'></a> - ; jarl
 	* Druid Artis<a id='wyspy_skellige_druid_artis'></a> - ; druid
 
 ## Lokacje
 * Brokilon<a id='brokilon'></a>
 	* rozrósł się po Dwójksiężycowej Nocy
 * Brugge<a id='brugge'></a>
+	Granicę wyznaczają od wschodu rzeki Hotla i Ina, od południa Jaruga, od zachodu Wstążka, od północy las [Brokilon](#brokilon)
 	* Brugge<a id='brugge_brugge'></a>
+		* Karczma Pod Głową Dzika<a id='brugge_brugge_glowa_dzika'></a>
+		* Karczma Pod Zieloną Świeczką<a id='brugge_brugge_zielona_swieczka'></a>
+		* Karczma Ostoja<a id='brugge_brugge_ostoja'></a>
+		* Biblioteka<a id='brugge_brugge_biblioteka'></a>
+		* Rezydencja Czarodzieja<a id='brugge_brugge_rezydencja_czarodzieja'></a>
 	* Dillingen<a id='brugge_dillingen'></a>
+	* Miechunowe Uroczyska<a id='brugge_miechunowe_uroczyska'></a>
+		* Brychna<a id='brugge_brychna'></a>
+		* Próchnowa<a id='brugge_prochnowa'></a>
+		* Fen Carn<a id='brugge_fen_carn'></a>
+			jedno z najstarszych istniejących elfich nekropoliów, po drugiej stronie Hotli, na przeciwko [Próchnowej](#brugge_prochnowa)
+	* Medowna<a id='brugge_medowna'></a>
 * Cidaris<a id='cidaris'></a>
 	* Cidaris<a id='cidaris_cidaris'></a>
 	* Bremervoord<a id='cidaris_bremervoord'></a>
-    * Kerack<a id='cidaris_kerack'></a>
+	* Kerack<a id='cidaris_kerack'></a>
 * Ellander<a id='ellander'></a>
 	* Ellander<a id='ellander_ellander'></a>
-	    * Karczmy
+		* Karczmy
 			* Kuropatwa<a id='ellander_ellander_kuropatwa'></a> - smacznie ale drogo
 			* Ziołowy kufelek<a id='ellander_ellander_ziolowy_kufelekziolowy'></a> - nieco wyższe ceny dla nieludzi
 			* Różyczka<a id='ellander_ellander_rozyczka'></a> - prowadzona przez i przychylna nieludziom
@@ -190,39 +214,39 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 			* Prawa Tarcza<a id='ellander_ellander_prawa_tarcza'></a>; handlarz bronią i pancerzem, ma spory ale w granicach rozsądku narzut (~33%);
 		* Lokacje
 	* Świątynia Melitele<a id='ellander_smelitele'></a>
-	    * Obóz Redańczyków
+		* Obóz Redańczyków
 		* Świątynia
 	* Ysgyth<a id='ellander_ysgyth'></a>
 		* Starożytny cmentarz elfiej szlachty, obłożony klątwami
 	* Carreras<a id='ellander_carreras'></a>
 		* Leży na osuszonym fragmencie bagna przy widłach Ismeny i Iny, ostanie miasto [Temerii](#temeria) i [Ellander](#ellander) na szlakach kupieckich do [Mahakamu](#mahakam)
 * Kaedwen<a id='kaedwen'></a>
-    * Ban Ard<a id='kaedwen_ban_ard'></a>
-        siedziba szkoły magów zniszczonej(?) przez Redańczyków
+	* Ban Ard<a id='kaedwen_ban_ard'></a>
+		siedziba szkoły magów zniszczonej(?) przez Redańczyków
 * Mahakam<a id='mahakam'></a>
 	* Góra Carbon<a id='mahakam_gora_carbon'></a>
 * Nilfgaard<a id='nilfgaard'></a>
 * Redania<a id='redania'></a>
 	* Novigrad<a id='redania_novigrad'></a>
-	    * Stolica wyznawców wiecznego Ognia
+		* Stolica wyznawców wiecznego Ognia
 	* Oxenfurt<a id='redania_oxenfurt'></a>
 		* Viggo [Regner](#ellander_ellander_viggo_vregner) - miejsce nauki
-	* Rinbe<a id='redania_rinbe'></a>Brokilon<a id='brokilon'>
+	* Rinbe<a id='redania_rinbe'></a>
 		* Położone nad północym brzegiem Pontaru
 		* Lokacja jednego z laboratoriów [Vilgeforza](#vilgeforz)
 * Temeria<a id='temeria'></a>
 	* Wyzima<a id='temeria_wyzima'></a>
 		* stolica Temerii
-    * Gros Velen<a id='temeria_gros_velen'></a>
-	    * Wyspa Thanedd<a id='gros_velentemeria_wyspa_thanedd'></a>
-            zniszczona szkoła czarownic
-    * Dorian<a id='temeria_dorian'></a>
+	* Gros Velen<a id='temeria_gros_velen'></a>
+		* Wyspa Thanedd<a id='gros_velentemeria_wyspa_thanedd'></a>
+			zniszczona szkoła czarownic
+	* Dorian<a id='temeria_dorian'></a>
 	* Maribor<a id='temeria_maribor'></a>
 * Maribor<a id='temeria_maribor'></a>
 	* zniknął się po Dwójksiężycowej Nocy
 * Wyspy Skellige<a id='wyspy_skellige'></a>
-    * Ard Skellig<a id='wyspy_skellige_ard_skellig'></a>
-        * największa wyspa na Skellige
+	* Ard Skellig<a id='wyspy_skellige_ard_skellig'></a>
+		* największa wyspa na Skellige
 	*Vornhala<a id='wyspy_skellige_vornhala'></a>
 		* jedna z osad na Wyspach
 		* siedziba Vildcaarlów
@@ -238,7 +262,6 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Nagroda za informacje o bandytach grasujących w okół [Ellander](#ellander_ellander) - więcej informacji w Ratuszu; **[Zadanie: Bandyci wokół Ellander](#q3a)**
 * Pismo Okręgowe 38A - ze względu na trudny sezon dla żyta, odpowiedni podatek obniża się o 3,5%
 * "Na pochybel Redańczykom!"
-
 
 ## Stworzenia
 * Gryf<a id='gryf'></a>
@@ -288,8 +311,14 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* zwykle porusza się we mgle
 	* bardzo unikają światła dziennego i latarni
 	* możliwe że ignorują żywych którzy w ogóle się nie ruszają
+* Berghest<a id='berghest'></a>
+	* nocny
+	* wielki pies-zombie
+	* w ciemności nie da się go dotknąć/zaatakować/spętać niemagicznymi przedmiotami
+	* jest w stanie przerazić skowytem
+	* potrafi przeskakiwać, teleportować się pomiędzy nieoświetlonymi miejscami
 
-     
+	 
 ## Heraldyka
 * Orzeł biały w polu czerwonym - [Redania](#redania)
 * Lilie złote w polu niebieskim - [Temeria](#temeria)
@@ -345,6 +374,14 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Viggo Regner](#ellander_ellander_viggo_regner)
 - [ ] Śladami [Vilgeforza](#vilgeforz)<a id='q9'></a>
 - [ ] Gdzie jest [Myszowór](#myszowor)?<a id='q10'></a>
+- [ ] Paczki "Towarzystwa"
+	* 600GP płatne przy dostarczeniu obydwóch
+	* Odnaleźć i sprowadzić dwie paczki, jedną z [Próchnowa](#brugge_prochnowa), drugą z [Medownej](#brugge_medowna).
+	* Właścicielka [Pod Zieloną Świeczką](#brugge_zielona_swieczka); "Towarzystwo"
+- [ ] Raport z Frontu
+	* 150GP
+	* Znaleźć jakiegoś sierżanta na froncie pod [Brokilonem](#brokilon) i dostarczyć jego raport.
+	* Właścicielka [Pod Zieloną Świeczką](#brugge_zielona_swieczka); "Towarzystwo"
 
 
 ## Różne
@@ -588,17 +625,17 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Po chwili rozmowy [Ebba](#wbs_ebba) i [Chiba](#wbs_chiba) przesiadają się do osobnego stolika, a do grupy dołącza [Skovik](#wbs_skovik) z braćmi
 	* Kajetan gra z [Yariim](#wbs_yarii) w szachy, a Ilana wciąga się w grę w karty ze [Skovikiem](#wbs_skovik); stawką jest szczera odpowiedź na zadane pytanie
 	* [Ilanie](#ilana) nie idzie zbyt dobrze, w efekcie czego jest winna Skovikowi kieł niedźwiedzia do jego naszyjnika. Kajetanowi za to udaje się, po przegranej w szachy, wygrać w karty ze Skovikiem i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#wyspy_skellige)
-        * na wyspach jest 7 klanów
-        * [Skovik](#wbs_skovik) z braćmi należą do klanu Drunmond
-        * jarlem na Skellige została kobieta z klanu Craight, [Cerys](#wyspy_skellige_cerys)
-        * starsi klanów nie są zadowoleni z polityki [Cerys](#wyspy_skellige_cerys)
-        * Klany Drunmond i Craight dzielą jedną z wysp, są skłócone
-        * z klanu Drunmond ponoć pochodzą najlepsi żeglarze
-        * na wyspach znajdowała się jedna ze szkół wiedźminów
-        * klan Craight gościł kiedyś jednego z wiedźminów
-        * [Leiv](#wbs_leiv) widział kiedyś wiedźmina na [Ard Skellig](#wyspy_skellige_ard_skellig)
-    * driady gościły keidyś wiedźmina Gwymleita ([Kajen](#kajetan) kojarzy elfickie miano z [Geraltem](#geralt))
-    * według [Aedirnczyków](#wbs_yarii) wiedźmini są "psami [Foltesta](temeria_foltest)", któryś z nich zabił [Demawenda](#aedirn_demawend) za pieniądze
+		* na wyspach jest 7 klanów
+		* [Skovik](#wbs_skovik) z braćmi należą do klanu Drunmond
+		* jarlem na Skellige została kobieta z klanu Craight, [Cerys](#wyspy_skellige_cerys)
+		* starsi klanów nie są zadowoleni z polityki [Cerys](#wyspy_skellige_cerys)
+		* Klany Drunmond i Craight dzielą jedną z wysp, są skłócone
+		* z klanu Drunmond ponoć pochodzą najlepsi żeglarze
+		* na wyspach znajdowała się jedna ze szkół wiedźminów
+		* klan Craight gościł kiedyś jednego z wiedźminów
+		* [Leiv](#wbs_leiv) widział kiedyś wiedźmina na [Ard Skellig](#wyspy_skellige_ard_skellig)
+	* driady gościły keidyś wiedźmina Gwymleita ([Kajen](#kajetan) kojarzy elfickie miano z [Geraltem](#geralt))
+	* według [Aedirnczyków](#wbs_yarii) wiedźmini są "psami [Foltesta](temeria_foltest)", któryś z nich zabił [Demawenda](#aedirn_demawend) za pieniądze
 
 ### Sesja 10
 1. "[Różyczka](#ellander_ellander_rozyczka)"
@@ -620,7 +657,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego lub dostarczenie dowodów jednoznacznie potwierdzających nasze podejżenia - [Igna](#ellander_ellander_igna) ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#q6)**.
 3. Na mieście
 	* Ruszamy w stonę magazynu gdzie złapaliśmy poprzednio szczura; [Ivar](#wbs_ivar) zakuwa się w zbroję w [Różyczce](#ellander_ellander_rozyczka).
-	* [Ilana](#ilana) i [Leif](#wbs_leif) idą osobno aby "otoczyć lokację" - [Ilana](#ilana) patrzy oczami jakiegoś losowo złapanego szczura (nie mogła tego zrobić przy [Ignie](#ellander_ellander_igna)), odnajduje kryjówkę Szczurołapa.
+	* [Ilana](#ilana) i [Leiv](#wbs_leiv) idą osobno aby "otoczyć lokację" - [Ilana](#ilana) patrzy oczami jakiegoś losowo złapanego szczura (nie mogła tego zrobić przy [Ignie](#ellander_ellander_igna)), odnajduje kryjówkę Szczurołapa.
 	* Drużyna spotyka się pod magazynem, razem biegniemy do budynku wskazanego przez [Ilanę](#ilana).
 	* Odkrywamy stary pokój z zakrwawionym ołtażem na końcu tunelu który znaleźliśmy w piwnicy. W pokoju widać wiele wejść do tuneli o różnych rozmiarach.
 	* Dostrzegamy Szczurołapa, pokonujemy go i obezwładniamy.
@@ -647,7 +684,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Na wyspach jest bardzo niewielu nieludzi.
 	* Mentorem [Ilany](#ilana) był [Druid Finarrin](#brokilon_druid_finarrin) w [Brokilonie](#Brokilon).
 	* [Ilana](#ilana) zabiera [Skovika](#wbs_skovik) na sparring dać sobie wybić obiecany kieł w postaci niedźwiedzia do jego naszyjnika. Znajdują niewielki plac na tyłach [Różyczki](#ellander_ellander_rozyczka) i tam toczą "walkę".
-	* [Kajetan](#kajetan) w tym czasie upija do nieprzytomnośći [Leifa](#wbs_leif) i kontynuuje opróżnianie drugiej butelki z [Ivarem](wbs_ivar).
+	* [Kajetan](#kajetan) w tym czasie upija do nieprzytomnośći [Leiva](#wbs_leiv) i kontynuuje opróżnianie drugiej butelki z [Ivarem](wbs_ivar).
 	* wieczór kończy się odwleczeniem się do pokoju trójki pijących, zaś [Skovik](#wbs_skovik) i [Ilana](#ilana) biorą dla siebie osobny pokój.
 6. "[Różyczka](#ellander_ellander_rozyczka)" nad ranem
 	* [Ilana](#ilana) korzystając z faktu, że [Skovik](wbs_skovik) śpi jak zarżnięty, bada jego magiczną figurkę, której użył poprzedniego wieczora do wzmocnienia się przed walką (są na niej runy w języku [Skellige](#wyspy_skellige), a sama figurka emanuje magią).
@@ -684,7 +721,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Strażnicy nie wiedzą aby była jakaś nagroda za rozwiązanie problemu z Mgłą.
 	* Kupujemy zapasy mięsa na drogę - wymagają przygotowania.
 	* [Ilana](#ilana) wraca do [Zielarki](#ellander_carreras_zielarka), starając się wykryć magię. Dochodzi do krótkiej konfrontacji, stragan kończy zapadnięty na głowie bohaterki a [Zielarki](#ellander_carreras_zielarka) ani widu, ani słychu.
-	* [Ilana](#ilana) i [Leif](#wbs_leif) wybierają się na polowanie na gigantyczne żaby.
+	* [Ilana](#ilana) i [Leiv](#wbs_leiv) wybierają się na polowanie na gigantyczne żaby.
 	* Reszta drużyny zaczyna przygotowywać zapasy.
 	* [Ilana](#ilana) suszy zakupione jedzenie na drogę.
 	* [Ilana](#ilana) orientuje się że [Zielarka](#ellander_carreras_zielarka) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym [Kajetanowi](#kajetan).
@@ -762,5 +799,81 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* w rozmowie z [Keirą](#keira_metz) wspominamy o magu z Ellander, prosząc, żeby się z nimi skontaktowała i być może pomogła wyleczyć żonę Viga, jeśli będzie miała chwilę
 	* zdrowie [Kajetana](#kajetan) zostaje nieco podreperowanie kosztem kilku diamentów (dokładnie 4), jednak dalej ma dwimeryt w organiźmie i nie może rzucać zaklęć całkiem bezkarnie
 	* [Keira](#keira_metz) zgadza się też opłacić naszych kompanów (czyli w zasadzie spłacić ich diamenty użyte do wyleczenia Kajetana) w zamian za wyświadczoną jej pomoc.
+
+### Sesja 13
+1. [Maribor](#temeria_maribor) - dzień
+	* [Kajetan](#kajetan) poddaje się procesowi leczenia, nie będzie w stanie się ruszyć do kolejnego poranka
+	* W krótkim momencie przytomności słyszy rozmowę [Keiry Metz](#keira_metz) z [Triss Merigold](#triss_merigold) za pomocą kamienia komunikacyjnego:
+		* [Triss Merigold](#triss_merigold) przebywa w [Poviss](#poviss) z kimś o imieniu [Eskel](#eskel)
+		* szczątki wieży mają zostać zniszczone
+	* [Ilana](#ilana) z resztą drużyny zwiedzają pozostałości po [Mariborze](#temeria_maribor), oglądają co ludzie mają na sprzedarz
+	* Okazuje się że broń którą [Skovik](#wbs_skovik) i [Ivar](#wbs_ivar) dostali od kupca [Trotta](#trott) w [Carreras](#ellander_carreras) - dzień czwarty jest złej jakości, zdaje się przerastać rdzą
+	* Nad ranem [Kajetan](#kajetan) odzyskuje świadomość i z trudem może się poruszać. Przeszukuje bibliotekę i znajduje dwa zaklęcia
+	* O świtaniu drużyna zbiera się do podróży w stronę [Brugge](#brugge)
+	* Czarodziejka z Wiedźminem wyruszają w świat za pomocą portalu, zostawiając ruiny zaminowane zwojami, które zostaną zdetonowane za jakiś czas lub gdy do ruin wejdzie nieproszony gość
+	* drużyna opuszczając fundamenty wieży staje przed tuzinem kopaczy, którzy wydają się być zdeterminowani żeby dostać się do ruin
+	* wiedząc że ruiny zostały zabezpieczone, uciekają ile sił w nogach aby wydostać się z promienia eksplozji zanim motłoch wlezie w pułapkę
+	* na południe, w stronę [Majeny](#brugge_majena), kłębią się koncentrycznie ułożone chmury, drogowskaz jest przekreślony czerwoną linią
+	* decydujemy się iść do [Brugge](#brugge) na przełaj, wg tymczasowego drogowskazu i śladów wozów
+	* przedzieramy się przez nienaturalnie gęsty las, mijając źródła Hotli, dopływu Iny
+2. [Brugge](#brugge)
+	* na granicy okazuje się że [Brugge](#brugge) jest teraz lennem [Nilfgaardu](#nilfgaard), w trakcie otwartej wojny z Driadami z [Brokilonu](#brkilon). Przekraczamy granicę uiszczjąc opłatę celną.
+	* W drodze do miasta [Brugge](#brugge_brugge) dyskutujemy o sytuacji politycznej, niekoniecznie się zgadzając
+	* Późnym wieczorem docieramy do miasta, zatrzymujemy się w karczmie [Pod Głową Dzika](#brugge_brugge_glowa_dzika), która wygląda jakby była ponad nasz stan
+	* rankiem dowiadujemy się od Karczmarki:
+		* nieludzie nie są obywatelami drugiej klasy pod Nilfgaardczykami
+		* magowie nie są prześladowani, ale magia jest prawnie kontrolowana
+		* Poprzednim władcą [Brugge](#brugge_brugge) był [Wenzlaw I](#brugge_krol_wenzlaw_i), starał się utrzymywać dobre stosunki z Driadami
+		* Obecny władca, [Wenzlaw II](#brugge_krol_wenzlaw_ii), dla bezpieczeństwa państwa na mocy traktatu został lennikiem Czarnych
+		* To z jednej strony przyniosło stabilność, z drugiej - Nilfgaard domagał się zasobów, zmuszając [Brugge](#brugge) do intensywniejszej eksploatacji zasobów przy granicy z [Brokilonem](#brokilon), co wzowiło konflikt z Driadami, które posuwają się do otwarych ataków na ludzkie osady
+		* Verden to pobojowisko, tam Driadom nie ma kto stawiać oporu i robią jak uważają za stosowne
+		* [Majena](#brugge_majena) to przeklęta przez druidów ruina miasta. Zanim zostało przeklęte, miejsce nieustających potyczek z [Nilfgaardem](#nilfgaard), co potencjalnie skłoniło (ponoć mało ekstremistycznych) druidów z tamtej okolicy do podjęcia działania
+		* Najemnicy najczęściej osłaniają karawany i transporty, noszą też wiadomiści. Dla cywilów i dla Księstwa.
+	* Bardziej adekwatnym miejscem do poszukiwania pracy i pobytu dla nas będzie karczma [Zielona Świeczka](#brugge_brugge_zielona_swieczka) niedaleko za murami miasta
+
+### Sesja 14
+####Solistitium zimowe
+1. [Brugge](#brugge)
+	* [Zielona Świeczka](#brugge_brugge_zielona_swieczka) to praktycznie speluna. Tania. Śpi się na "hali". Siedzą w niej jakcyś menele po nocce w manufakturze, poza tym jest pusta.
+	* [Leiv](#wbs_leiv) zauważa znaki gildi złodziei. Rozmawia z szefową przybytku gdy reszta drużyny wypija piwo i planuje. Ciecie przy stole wyglądają na niezadowolonych z naszej obecności, udaje nam się usłyszeć niepochlebne wypowiedzi na temat "przybłąd z [Wysp](#wyspy_skellige)
+	* Gildia, zwana lokalnie "Towarzystwem", ma dwa zadania:
+		* Odnaleźć i sprowadzić dwie paczki, jedną z [Próchnowa](#brugge_prochnowa), drugą z [Medownej](#brugge_medowna). 600GP płatne przy dostarczeniu obydwóch
+		* Znaleźć jakiegoś sierżanta na froncie pod [Brokilonem](#brokilon) i dostarczyć jego raport. 150GP
+	* Decydujemy się odnaleźć i przynieść paczki. "Towarzystwo" rząda w zastaw 20% procent nagrody do zwrotnego razem z nagrodą, [Leivowi](#wbs_leiv) udaje się utargować do 10%
+	* Do miasta zbliża się karawana cyrkowa, na jednym z wozów wiozą spętanego, dorosłego [Sowołaka](#sowołak). Domyślamy się że prędzej czy później [Ilana](#ilana) będzie chciała go uwolnić
+	* Gdy wychodziliśmy, kmiotkowie pozwolili sobie na chamski komentarz. [Skovik](#wbs_skovik) dał sobie wyperswadować mordobicie - [Kajetan](#kajetan) na odchodne sprawił że ich wódka i zagryzka stały się obrzydliwe
+		* Jeden z kmiotków, kosztując zepsutej wódki rzucił za nami flaszką po czym stwierdził że to on nam mordy obije
+		* [Skovik](#wbs_skovik) podstawił mu nogę, kmiotek wyrżnął prosto pod zaprzęg wjeżdżającego do miasta cyrku, mało nie został stratowany
+		* [Kajetan](#kajetan) korzystając z sytuacji (kmiotek nagle wybiegł, blady jak trup po bliskim spotkaniu z karawaną) przekonał pobliskiego strażnika że należy go dać w kwarantannę coby chorób nie szerzył
+	* Kompania wyrusza na południowy wschod, Starą Drogą, w kierunku przejścia granicznego którym weszli do [Brugge](#brugge), odbijając w stronę [Miechunowych Uroczysk](#brugge_miechunowe_uroczyska) niedaleko Hotli
+2. [Miechunowe Uroczyska](#brugge_miechunowe_uroczyska)
+	* Dwa wieczory później, w przesilenie zimowe, chwilę po zmierzchu, docieramy do [Brychnej](#brugge_brychna), scigani ślepiami [Berghestów](#berhest)
+	* [Ilana](#ilana), chcąc wziąć na grzbiet wolniejszych z nas, zamienia się w wilka. Zdaje się zezwierzęcieć i po krótkiej konfrontacji z [Skovikiem](#wbs_skovik) ucieka w inną stronę w las
+	* Na środku [Brychnej](#brugge_brychna) stoi oświetlony ze wszystkich stron pochodniami dom. Pozostałe domy są pootwierane, noszą ślady brutalnej walki
+	* Ścigające nas trzy [Berghesty](#berhest) zatrzymują się na kraju światła. Bełt kuszy zdaje się ich nie imać.
+	* W chacie mieszka rybak z rodziną, Roud. Są ostatnimi, którym udało się przetrwać oblężenie bestii, reszta wsi została wyrżnięta do nogi w ciągu ostatnich kilku tygodni.
+	* Pochodnie nie wzbudzają naszego zaufania - przygotowujemy się do walki. Nacieramy linę srebrnymi opiłkami, obklejamy nimi dłonie
+	* Chwytamy, pętamy i zabijamy największą bestię
+	* Mniej więcej w tym czasie [Ilana](#ilana) odzyskuje nad sobą kontrolę wracając do formy człowieka. Jest po pas w rzecie, Hotli lub Inie, w okolicy w szuwarach zaplątany jest porzucony koń, który jeszcze chwilę temu mógł zostać jej posiłkiem
+	* Dwa pozostałe [Berghesty](#berhest) zdaje się uciekają od Drużyny
+	* [Ilana](#ilana) uwalnia konia, krótko z nim rozmawia - nie wiedząc gdzie znajduje się jej Drużyna, decyduje się na sprint w górę rzeki, do granicznej strażnicy, którą zna też koń
+	* Wkrótce zaczynają ją gonić dwa [Berghesty](#berhest) z [Brychnej](#brugge_brychna)
+	* [Kajetan](#kajetan) z Roudem szybko przeszukują inne chaty - potrzeba więcej zasobów do podtrzymania ognia i dalszej walki, Drużyna spodziewa się że bestie wkrótce wrócą
+	* [Ilana](#ilana) ucieka bestiom
+	* Bestie wracają, nie chcą jednak opuścić cienia aby nie dać się złapać.
+	* [Kajetan](#kajetan) bardzo skutecznie je prowokuje. Oba [Berghesty](#berhest) atakują go, złe tak bardzo że nie przejmują się światłem.
+	* [Kajetan](#kajetan) zostaje ciężko ranny, traci przytomność. [Skovik](#wbs_skovik) z braćmi zabijają jedną z bestii, ostatnia ucieka i już nie wraca.
+	* [Ilana](#ilana) dociera do strażnicy granicznej. Opowiada swoją historię strażnikom (jednen z nich ją rozpoznaje jako że niedawno przekraczaliśmy granicę). Zaufanie wzbudza też fakt że koń, z nieobrabowaynymi jukami należał do zwiadowcy wysłanego do [Miechunowych Uroczysk](#brugge_miechunowe_uroczyska), co potwierdza słowa druidki
+	* O świtaniu mały oddział strażników z [Ilaną](#ilana) wyrusza do [Brychnej](#brugge_brychna). [Kajetan](#kajetan) zostaje wyleczony. Strażnicy biorą jedną z czaszek po bestii na dowód i rodzinę Rouda do miasta, zostawiają nam list polecający do [miejskiego maga](#brugge_florian_vicovarno)
+	* Drużyna decyduje się kuć żelazo póki gorące, wyruszamy do pobliskiej już [Próchnowej](#brugge_prochnowo)
+	* Do [Próchnowej](#brugge_prochnowo) docieramy po południu. Znajdujemy paczkę w nadbrzeżnym warsztacie szkutniczym.
+	* [Próchnowa](#brugge_prochnowa) wygląda jak [Brychnej](#brugge_brychna). Co ciekawe bestie nie zdają się tykać zwierząt gospodarczych - mordują tylko ludzi
+	* Barykadujemy się na noc w jednym z domów, z zapasem drewna. Decydujemy się jednak nie rozpalać ognia; siedzimy skuleni cicho przez noc, [Kajetan](#kajetan) próbą ogrzania siebie i towarzyszy mało nie sprowadza na Drużynę pałęczących się po wsi [Berghestów](#berhest)
+	* Bestie zdają się przynosić dusze(?) unoszącej się nad rzeką, od strony [Fen Carn](#brugge_fen_carn), [Banshee](#banshee)
+	* Po długiej, nieprzespanej nocy wracamy do [Brychnej](#brugge_brychna). Rozpalamy wielki ogień w domu Rouda, trochę śpimy. W okół domu pełnego światła krąży co najmniej tuzin [Berghestów](#berhest)
+3. [Brugge](#brugge)
+	* Rankiem wyruszamy do [Brugge](#brugge_brugge), bez przerwy, nie zatrzymując się na noc
+	* Pomimo wyczerpania, decydujemy od razu udać się do Maga
+	* Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną karczmę w porównaniu do tych w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem Florianem Vicovarno](#brugge_florian_vicovarno)
 
 <br /><br /><br />
