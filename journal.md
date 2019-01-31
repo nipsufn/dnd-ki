@@ -92,6 +92,10 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Zielarz z Dillingen<a id='brugge_dillingen_zielarz'></a> - ?; zielarz;
 			Destylował nalewkę z Mandragory
 			Nie pojawił się w [Carreras](#ellander_carreras) od kilku lat
+	* [Brychna](#brugge_brychna)
+		* Rund<a id='brugge_brychna_rund'></a> - ; rybak;
+			z rodziną; żona i dwójka dzieci
+			odeskortowani z [Brychnej](#brugge_brychna) do [Brugge](#brugge_brugge) po ataku [Barghestów](#barghest)
 * [Ellander](#ellander_ellander)
 	* R. Harevard<a id='ellander_ellander_rodzina_harevard'></a> - ; n/a;
 		rodzina władająca [Ellander](#ellander_ellander) przed Niilfgaardczykami
@@ -166,21 +170,27 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Król Radowid<a id='redania_krol_radowid'></a> - ; król [Redianii](#redania)
 	* Dijsktra<a id='redania_dijsktra'></a> - ; szef redańskiego wywiadu, obecnie hrabia [Redianii](#redania) na [Temerię](#temeria)
 		przez jakiś czas rządził [Novigradem](#rediania_novigrad)
-		rządzi w [Wyzimie](#temeria_wyzima) twardą ręką; grał kluczową rolę w podboju Temerii
+		rządzi w [Wyzimie](#temeria_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#temeria)
 		zakładał obozy pracy dla Scoia'tael
 	* ✝Menge<a id='redania_menge'></a> - ; przywódca zakonu Łowców
 		[Lord Slyz Myrton](#ellander_ellander_lord_myrton): podwładny
 * [Temeria](#temeria)
 	* ✝Król Foltest<a id='temeria_krol_foltest'></a> - ; król [Temerii](#temeria)
+	* [Lord Dijsktra](#redania_dijsktra) - ; władca [Temerii](#temeria) pod [Redanią](#redania)
 * [Wyspy Skellige](#wyspy_skellige)
 	* Jarl Cerys<a id='wyspy_skellige_cerys'></a> - ; jarl
 	* Druid Artis<a id='wyspy_skellige_druid_artis'></a> - ; druid
 
 ## Lokacje
 * Brokilon<a id='brokilon'></a>
-	* rozrósł się po Dwójksiężycowej Nocy
+	- las kawałek na południe od środkowego biegu Jarugi, od północy ograniczony pasmem górskim
+	- dom Driad i w mniejszym stopniu Druidów
+	- w stanie wojny z [Brugge](#brugge)
+	- rozrósł się po Dwójksiężycowej Nocy
 * Brugge<a id='brugge'></a>
-	Granicę wyznaczają od wschodu rzeki Hotla i Ina, od południa Jaruga, od zachodu Wstążka, od północy las [Brokilon](#brokilon)
+	- Granicę wyznaczają od wschodu rzeki Hotla i Ina, od południa Jaruga, od zachodu Wstążka, od północy las [Brokilon](#brokilon)
+	- Jako lenno [Nilfgaardu](#nilfgaard) nie toleruje rasizmu wśród poddanych
+	- W stanie wojny z [Brokilonem](#brokilon)
 	* Brugge<a id='brugge_brugge'></a>
 		* Karczma Pod Głową Dzika<a id='brugge_brugge_glowa_dzika'></a>
 		* Karczma Pod Zieloną Świeczką<a id='brugge_brugge_zielona_swieczka'></a>
@@ -195,10 +205,12 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 			jedno z najstarszych istniejących elfich nekropoliów, po drugiej stronie Hotli, na przeciwko [Próchnowej](#brugge_prochnowa)
 	* Medowna<a id='brugge_medowna'></a>
 * Cidaris<a id='cidaris'></a>
+	- leży nad morzem, między ujściem Jarugi a [Temerią](#temeria), od wschodu graniczy z [Verden](#verden)
 	* Cidaris<a id='cidaris_cidaris'></a>
 	* Bremervoord<a id='cidaris_bremervoord'></a>
 	* Kerack<a id='cidaris_kerack'></a>
 * Ellander<a id='ellander'></a>
+	- Lenno [Temerii](#temeria), a więc i [Redianii](#redania)
 	* Ellander<a id='ellander_ellander'></a>
 		* Karczmy
 			* Kuropatwa<a id='ellander_ellander_kuropatwa'></a> - smacznie ale drogo
@@ -247,21 +259,27 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Wyspy Skellige<a id='wyspy_skellige'></a>
 	* Ard Skellig<a id='wyspy_skellige_ard_skellig'></a>
 		* największa wyspa na Skellige
-	*Vornhala<a id='wyspy_skellige_vornhala'></a>
+	* Vornhala<a id='wyspy_skellige_vornhala'></a>
 		* jedna z osad na Wyspach
 		* siedziba Vildcaarlów
 * Verden<a id='verden'></a>
+	- nad Jarugą; od zachodu graniczy z [Cidaris](#cidaris), od północy z [Brokilonem](#brokilon), od wschodu z [Brugge](#brugge) na wysokości Wstążki
+	- toczyły się tu liczne bitwy z [Nilfgaardem](#nilfgaard), kraj jest rozbity i nie stawia oporu rozrastającemu się [Brokilonowi](#brokilon)
 * Zerrikania<a id='zerrikania'></a>
+	- daleko
 
 ## Ogłoszenia
-* Nagroda za oczyszczenie traktu łączącego [Wyzimę](#temeria_wyzima) z [Mariborem](#temeria_maribor) z trupojadów - Zarządca [Wyzimy](#temeria_wyzima)
-* Nagroda za oczyszczenie traktów w okolicy [Ellander](#ellander_ellander) z bandytów - Wójt Podgrodzia [Ellander](#ellander_ellander); **[Zadanie: Bandyci wokół Ellander](#q3a)**
-* Wiedźmina do egzorcyzmu dziecka i domu - Krawcowa [Eliza](#ellander_ellander_eliza) z [Ellander](#ellander_ellander)
-* Nabór do wojska - koszary [Ellander](#ellander_ellander); **[Zadanie: Tato wrócił z wojny](#q4)**
-* "Tylko wiara w Wieczny Ogień może cię uratować! Przyjmij Kapłana jeślli odwiedzi cię z pergaminkami..." - Zakon Wiecznego Ognia
-* Nagroda za informacje o bandytach grasujących w okół [Ellander](#ellander_ellander) - więcej informacji w Ratuszu; **[Zadanie: Bandyci wokół Ellander](#q3a)**
-* Pismo Okręgowe 38A - ze względu na trudny sezon dla żyta, odpowiedni podatek obniża się o 3,5%
-* "Na pochybel Redańczykom!"
+* [Ellander](#ellander_ellander)
+	* Nagroda za oczyszczenie traktu łączącego [Wyzimę](#temeria_wyzima) z [Mariborem](#temeria_maribor) z trupojadów - Zarządca [Wyzimy](#temeria_wyzima)
+	* Nagroda za oczyszczenie traktów w okolicy [Ellander](#ellander_ellander) z bandytów - Wójt Podgrodzia [Ellander](#ellander_ellander); **[Zadanie: Bandyci wokół Ellander](#q3a)**
+	* Wiedźmina do egzorcyzmu dziecka i domu - Krawcowa [Eliza](#ellander_ellander_eliza) z [Ellander](#ellander_ellander)
+	* Nabór do wojska - koszary [Ellander](#ellander_ellander); **[Zadanie: Tato wrócił z wojny](#q4)**
+	* "Tylko wiara w Wieczny Ogień może cię uratować! Przyjmij Kapłana jeślli odwiedzi cię z pergaminkami..." - Zakon Wiecznego Ognia
+	* Nagroda za informacje o bandytach grasujących w okół [Ellander](#ellander_ellander) - więcej informacji w Ratuszu; **[Zadanie: Bandyci wokół Ellander](#q3a)**
+	* Pismo Okręgowe 38A - ze względu na trudny sezon dla żyta, odpowiedni podatek obniża się o 3,5%
+	* "Na pochybel Redańczykom!"
+* [Brugge](#brugge_brugge)
+	* Ochroniaży karawany do [Dillingen](#brugge_dillingen) zartudnię - Artur Comry
 
 ## Stworzenia
 * Gryf<a id='gryf'></a>
@@ -278,7 +296,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Kwas-galareta<a id='galareta'></a>
 	* poszatkowana traci konsystencję
 	* żrąca
-* Sowiołak<a id='sowiołak'></a> (red. Owlbear)
+* Sowiołak<a id='sowiolak'></a> (red. Owlbear)
 	* Centaur, ale zrobiony z sowy i cały w piórach
 	* Rozumie ogólne znaczenie Starszej Mowy
 	* jest jeszcze młody, szuka swojej rodziny
@@ -328,7 +346,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Fioletowe U z przedłużonymi ramionami - symbol klanu Drunmond (Wyspiarze ze Skellige)
 * Czarny niedźwiedź - [Wyspy Skellige](#wyspy_skellige)
 * Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - [Ellander](#ellander)
-
+* Krzyż biały w polu zielonym - [Brugge](#brugge)
+* Słońce złote w polu czarnym - [Nilfgaard](#nilfgaard)
 
 ## Zadania
 - [x] Zlecenie na Kota Migota (aka Drwalskie Bebechy)<a id='q1'></a>
@@ -538,7 +557,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* nocujemy w stosunkowo niewidocznym miejscu
 	* po Dwójksiężycowej Nocy konstelacje na niebie są te same, jednak poprzesuwane
 	* warta [Ilany](#ilana)
-		* obóz odwiedzają Scoia'tel, [Ilana](#ilana) rozmawia z [sowołakiem](#sowolak) - elfy są pod wrażeniem, decydują się nie atakować. Kapłanki Melitele mają jakiś problem i odcięły się od świata w świątyni
+		* obóz odwiedzają Scoia'tel, [Ilana](#ilana) rozmawia z [sowiołakiem](#sowiolak) - elfy są pod wrażeniem, decydują się nie atakować. Kapłanki Melitele mają jakiś problem i odcięły się od świata w świątyni
 		* lekkie uszkodzenie wozu naprawione
 		* [strażnik](#ellander_ellander_tom) wyleczony magią
 	* ucieczka przed gigantycznymi stonogami które zauważyły nas nad ranem
@@ -840,7 +859,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* Odnaleźć i sprowadzić dwie paczki, jedną z [Próchnowa](#brugge_prochnowa), drugą z [Medownej](#brugge_medowna). 600GP płatne przy dostarczeniu obydwóch
 		* Znaleźć jakiegoś sierżanta na froncie pod [Brokilonem](#brokilon) i dostarczyć jego raport. 150GP
 	* Decydujemy się odnaleźć i przynieść paczki. "Towarzystwo" rząda w zastaw 20% procent nagrody do zwrotnego razem z nagrodą, [Leivowi](#wbs_leiv) udaje się utargować do 10%
-	* Do miasta zbliża się karawana cyrkowa, na jednym z wozów wiozą spętanego, dorosłego [Sowołaka](#sowołak). Domyślamy się że prędzej czy później [Ilana](#ilana) będzie chciała go uwolnić
+	* Do miasta zbliża się karawana cyrkowa, na jednym z wozów wiozą spętanego, dorosłego [Sowiołaka](#sowiolak). Domyślamy się że prędzej czy później [Ilana](#ilana) będzie chciała go uwolnić
 	* Gdy wychodziliśmy, kmiotkowie pozwolili sobie na chamski komentarz. [Skovik](#wbs_skovik) dał sobie wyperswadować mordobicie - [Kajetan](#kajetan) na odchodne sprawił że ich wódka i zagryzka stały się obrzydliwe
 		* Jeden z kmiotków, kosztując zepsutej wódki rzucił za nami flaszką po czym stwierdził że to on nam mordy obije
 		* [Skovik](#wbs_skovik) podstawił mu nogę, kmiotek wyrżnął prosto pod zaprzęg wjeżdżającego do miasta cyrku, mało nie został stratowany
@@ -851,7 +870,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Ilana](#ilana), chcąc wziąć na grzbiet wolniejszych z nas, zamienia się w wilka. Zdaje się zezwierzęcieć i po krótkiej konfrontacji z [Skovikiem](#wbs_skovik) ucieka w inną stronę w las
 	* Na środku [Brychnej](#brugge_brychna) stoi oświetlony ze wszystkich stron pochodniami dom. Pozostałe domy są pootwierane, noszą ślady brutalnej walki
 	* Ścigające nas trzy [Berghesty](#berhest) zatrzymują się na kraju światła. Bełt kuszy zdaje się ich nie imać.
-	* W chacie mieszka rybak z rodziną, Roud. Są ostatnimi, którym udało się przetrwać oblężenie bestii, reszta wsi została wyrżnięta do nogi w ciągu ostatnich kilku tygodni.
+	* W chacie mieszka rybak z rodziną, [Rund](#brugge_brychna_rund). Są ostatnimi, którym udało się przetrwać oblężenie bestii, reszta wsi została wyrżnięta do nogi w ciągu ostatnich kilku tygodni.
 	* Pochodnie nie wzbudzają naszego zaufania - przygotowujemy się do walki. Nacieramy linę srebrnymi opiłkami, obklejamy nimi dłonie
 	* Chwytamy, pętamy i zabijamy największą bestię
 	* Mniej więcej w tym czasie [Ilana](#ilana) odzyskuje nad sobą kontrolę wracając do formy człowieka. Jest po pas w rzecie, Hotli lub Inie, w okolicy w szuwarach zaplątany jest porzucony koń, który jeszcze chwilę temu mógł zostać jej posiłkiem
@@ -863,17 +882,17 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Bestie wracają, nie chcą jednak opuścić cienia aby nie dać się złapać.
 	* [Kajetan](#kajetan) bardzo skutecznie je prowokuje. Oba [Berghesty](#berhest) atakują go, złe tak bardzo że nie przejmują się światłem.
 	* [Kajetan](#kajetan) zostaje ciężko ranny, traci przytomność. [Skovik](#wbs_skovik) z braćmi zabijają jedną z bestii, ostatnia ucieka i już nie wraca.
-	* [Ilana](#ilana) dociera do strażnicy granicznej. Opowiada swoją historię strażnikom (jednen z nich ją rozpoznaje jako że niedawno przekraczaliśmy granicę). Zaufanie wzbudza też fakt że koń, z nieobrabowaynymi jukami należał do zwiadowcy wysłanego do [Miechunowych Uroczysk](#brugge_miechunowe_uroczyska), co potwierdza słowa druidki
-	* O świtaniu mały oddział strażników z [Ilaną](#ilana) wyrusza do [Brychnej](#brugge_brychna). [Kajetan](#kajetan) zostaje wyleczony. Strażnicy biorą jedną z czaszek po bestii na dowód i rodzinę Rouda do miasta, zostawiają nam list polecający do [miejskiego maga](#brugge_florian_vicovarno)
+	* [Ilana](#ilana) dociera do strażnicy granicznej. Opowiada swoją historię strażnikom (jednen z nich ją rozpoznaje jako że niedawno przekraczaliśmy granicę. Zaufanie wzbudza też fakt że koń, z nieobrabowaynymi jukami należał do zwiadowcy wysłanego do [Miechunowych Uroczysk](#brugge_miechunowe_uroczyska), co potwierdza słowa druidki
+	* O świtaniu mały oddział strażników z [Ilaną](#ilana) wyrusza do [Brychnej](#brugge_brychna). [Kajetan](#kajetan) zostaje wyleczony. Strażnicy biorą jedną z czaszek po bestii na dowód i rodzinę [Runda](#brugge_brychna_rund) do miasta, zostawiają nam list polecający do [miejskiego maga](#brugge_florian_vicovarno)
 	* Drużyna decyduje się kuć żelazo póki gorące, wyruszamy do pobliskiej już [Próchnowej](#brugge_prochnowo)
 	* Do [Próchnowej](#brugge_prochnowo) docieramy po południu. Znajdujemy paczkę w nadbrzeżnym warsztacie szkutniczym.
 	* [Próchnowa](#brugge_prochnowa) wygląda jak [Brychnej](#brugge_brychna). Co ciekawe bestie nie zdają się tykać zwierząt gospodarczych - mordują tylko ludzi
 	* Barykadujemy się na noc w jednym z domów, z zapasem drewna. Decydujemy się jednak nie rozpalać ognia; siedzimy skuleni cicho przez noc, [Kajetan](#kajetan) próbą ogrzania siebie i towarzyszy mało nie sprowadza na Drużynę pałęczących się po wsi [Berghestów](#berhest)
 	* Bestie zdają się przynosić dusze(?) unoszącej się nad rzeką, od strony [Fen Carn](#brugge_fen_carn), [Banshee](#banshee)
-	* Po długiej, nieprzespanej nocy wracamy do [Brychnej](#brugge_brychna). Rozpalamy wielki ogień w domu Rouda, trochę śpimy. W okół domu pełnego światła krąży co najmniej tuzin [Berghestów](#berhest)
+	* Po długiej, nieprzespanej nocy wracamy do [Brychnej](#brugge_brychna). Rozpalamy wielki ogień w domu [Runda](#brugge_brychna_rund), trochę śpimy. W okół domu pełnego światła krąży co najmniej tuzin [Berghestów](#berhest)
 3. [Brugge](#brugge)
 	* Rankiem wyruszamy do [Brugge](#brugge_brugge), bez przerwy, nie zatrzymując się na noc
 	* Pomimo wyczerpania, decydujemy od razu udać się do Maga
-	* Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną karczmę w porównaniu do tych w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem Florianem Vicovarno](#brugge_florian_vicovarno)
+	* Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną [karczmę](#brugge_brugge_ostoja) w porównaniu do tych w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem Florianem Vicovarno](#brugge_florian_vicovarno)
 
 <br /><br /><br />
