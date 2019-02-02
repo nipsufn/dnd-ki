@@ -26,6 +26,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Sesja 11](#sesja-11)
 	* [Sesja 12](#sesja-12)
 	* [Sesja 13](#sesja-13)
+	* [Sesja 14](#sesja-14)
+	* [Sesja 15](#sesja-15)
 <hr />
 
 
@@ -852,7 +854,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 
 ### Sesja 14
 ####Solistitium zimowe
-1. [Brugge](#brugge)
+1. [Brugge](#brugge_brugge)
 	* [Zielona Świeczka](#brugge_brugge_zielona_swieczka) to praktycznie speluna. Tania. Śpi się na "hali". Siedzą w niej jakcyś menele po nocce w manufakturze, poza tym jest pusta.
 	* [Leiv](#wbs_leiv) zauważa znaki gildi złodziei. Rozmawia z szefową przybytku gdy reszta drużyny wypija piwo i planuje. Ciecie przy stole wyglądają na niezadowolonych z naszej obecności, udaje nam się usłyszeć niepochlebne wypowiedzi na temat "przybłąd z [Wysp](#wyspy_skellige)
 	* Gildia, zwana lokalnie "Towarzystwem", ma dwa zadania:
@@ -890,9 +892,54 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Barykadujemy się na noc w jednym z domów, z zapasem drewna. Decydujemy się jednak nie rozpalać ognia; siedzimy skuleni cicho przez noc, [Kajetan](#kajetan) próbą ogrzania siebie i towarzyszy mało nie sprowadza na Drużynę pałęczących się po wsi [Berghestów](#berhest)
 	* Bestie zdają się przynosić dusze(?) unoszącej się nad rzeką, od strony [Fen Carn](#brugge_fen_carn), [Banshee](#banshee)
 	* Po długiej, nieprzespanej nocy wracamy do [Brychnej](#brugge_brychna). Rozpalamy wielki ogień w domu [Runda](#brugge_brychna_rund), trochę śpimy. W okół domu pełnego światła krąży co najmniej tuzin [Berghestów](#berhest)
-3. [Brugge](#brugge)
+3. [Brugge](#brugge_brugge)
 	* Rankiem wyruszamy do [Brugge](#brugge_brugge), bez przerwy, nie zatrzymując się na noc
 	* Pomimo wyczerpania, decydujemy od razu udać się do Maga
 	* Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną [karczmę](#brugge_brugge_ostoja) w porównaniu do tych w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem Florianem Vicovarno](#brugge_florian_vicovarno)
+
+### Sesja 15
+1. [Brugge](#brugge_brugge)
+	* po całodziennym odpoczynku [Kajetan](#kajetan) z braćmi [Skovika](#wbs_skovik) wybierają się na spacer na rynek
+		* Sprawdzają potencjalne drogi ucieczki, spodziewając się że [Ilana](#ilana) może zrobić coś impulsywnie aby pomóc [Sowiołakowi](#sowiołak)
+		* Zauważają jakichś pijaków wałęsających się po rynku, jeden z nich przypomina ciecia z [Zielonej Świeczki](#brugge_zielona_świeczka)
+		* [Leiv](#wbs_leiv) wstępuje do sklepu z łukami i temu podobnymi
+		* W drodze powrotnej mijają [Ilanę](#ilana) i [Skovika](#wbs_skovik) którzy wpadli na ten sam pomysł
+		* [Kajetan](#kajetan) uczy się od [Leiva](#wbs_leiv) nieco narzecza [Skellige](#wyspy_skellige)
+	* [Ilana](#ilana) i [Skovik](#wbs_skovik) nie zastają na sali kompanów, decydują się na spacer
+		* w drodze na rynek mijają resztę drużyny wracającą do [Ostoji](#brugge_brugge_ostoja)
+		* [Ilana](#ilana) ogląda [Sowiołaka](#sowiołak) - jest ranny i w kagańcu, robi sobie krzywdę próbując wydrapać wystające z ran bełty
+		* Udaje jej się namówić opiekunkę potwora aby wpuściła ją do klatki, zająć się ranami
+		* Leczy i uspokaja nieco stworzenie, pobliscy strażnicy zdają się zauważać jej druidycznych/magicznych umiejętności, jednak nie reagują
+		* w drodze powrotnej pijacy których zauważyła poprzednia grupa atakuje [Ilanę](#ilana) i [Skovika](#wbs_skovik) z jakiegoś zaułka
+		* [Ilana](#ilana) odnosi nieznaczną ranę, jeden z napastników znaczną po czym odwołuje atak
+	* rankiem wybieramy się do maga. Zostajemy zaproszeni o zachodzie słońca - mając dzień dla siebie decydujemy się obejrzeć cyrk który najwyraźniej zostaje w mieście na dłużej
+		* siłacz podnoszący niesamowite cieżary intryguje węszącego szwindel [Kajetana](#kajetan). [Skovikowi](#wbs_skovik) dwa razy nie udaje się podnieść ciężarów
+		* [Ilana](#ilana) zauważa że siłacz regularnie popija jakiś napój z bukłaka - ma nieznany jej ziołowy aromat
+		* [Kajetan](#kajetan) proponuje siłaczowi łyk nalewki z mandragory za łyk jego napoju. Napotyka stosunkowo uprzejmą odmowę, dalej nie ma pewności że haczykiem jest nalewka
+		* [Ilana](#ilana) wybiera się do wróżki
+		* Rozsierdzony [Kajetan](#kajetan) również do niej zagląda. Zadaje pytania o siłacza potwierdzające jego podejrzenia oraz przepowiednię że [Philippa Eirhart](#philippa_eihart) może nie być mu w stanie pomóc ale powinien ją spotkać
+	* o zachodzie wybieramy się do [Magistra Floriana Vicovarno](#brugge_brugge_florian_vicovarno)
+		* mag bardzo nieelegancko zagląda pod iluzję [Kajetana](#kajetan)
+		* uważnie notuje nasze sprawozdanie
+		* wypłaca 100GP za czaszkę [Barghesta](#barghest)
+		* proponuje zapłacić po 100GP za okazy/próbki flory i fauny z obrzeży [Brokilonu](#brokilon)
+	* kolejnego ranka wyruszamy do [Medownej](#brugge_medowna)
+1. [Medowna](#brugge_medowna)
+	* wieś całkowicie zarośnięta
+	* śpimy zabarykadowani w chacie
+	* Ilana widzi driady na wachcie
+	* rano tracimy przytomność, ucieka nam pół dnia którego nie pamiętamy
+	* przeszukujemy chaty, drzewa w krztałcie ludzi oglądają się za nami powoli
+	* znajdujemy chatę pszczelarza z paczkami
+	* wyciągamy paczki z uli
+	* drzewo-ludzie przyspieszają i zaczynają zachowywać się trochę jak anioły z dr who
+	* uciekamy z 4 paczkami
+1. [Brugge](#brugge_brugge)
+	* bez przerwy do zielonej świeczki
+	* zdajemy paczki, 1 z pruchnej, 2 z medownej
+	* Lars siedzi przy kontuarze (rządzi/jest wysoko postawiony w Towarzystwie?)
+		* deeskaluje sytuację z cieciami
+		* odkupuje 2 księgi z jednej z pozostałych paczek, sugeruje że w mieście powinien być kupiec na pozostałe dwie
+		* jest czarodziejem lepszym lub gorszym (iluzja)
 
 <br /><br /><br />
