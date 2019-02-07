@@ -1,7 +1,7 @@
 <a id='bialezimno'></a>_Zaprawdę, powiadam wam, oto nadchodzi wiek miecza i topora, wiek wilczej zamieci. Nadchodzi Czas Białego Zimna i Białego Światła, Czas Szaleństwa i Czas Pogardy, Tedd Deireadh, Czas Końca. Świat umrze wśród mrozu, a odrodzi się wraz z nowym słońcem. Odrodzi się ze Starszej Krwi, z Hen Ichaer, z zasianego ziarna. Ziarna, które nie wykiełkuje, lecz wybuchnie płomieniem.
 Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę wam - wprzód spłynie ziemia krwią Aen Seidhe, Krwią Elfów..._
 
-
+<a id='spis_tresci'></a>
 ## Spis treści
 ## Spis treści
 * [Postaci](#postaci)
@@ -40,7 +40,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * ✝ Vilgeforz<a id='vilgeforz'></a> - człowiek, mag, członek [Kapituły](#kapitula)
 	- miał immunitet od [Dwimerytu](#dwimeryt)
 	- jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
-* Philippa Eihart<a id='philippa_eihart'></a> - człowiek, mag, członek [Kapituły](#kapitula)
+* Filippa Eilhart<a id='filippa_elihart'></a> - człowiek, mag, członek [Kapituły](#kapitula)
 	* potrafi się zamieniać w sowę, możliwe inne zwierzęta
 	* oślepiona przez [Radowida](#redania_krol_radowid) gdy przejął od niej władzę nad Redanią (była regentką)
 	* potencjalna winowajczyni nienawiści [Radowida](#redania_krol_radowid) do Mocy i magów
@@ -89,7 +89,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 			Przychylny Driadom
 		* Król Wenzlaw II<a id='brugge_krol_wenzlaw_ii'></a> - ; król [Brugge](#brugge)
 			Podpisał umowy z Nilfgaarderm
-		* Magister Florian Vicovarno<a id='brugge_brugge_florian_vicovarno'></a> - ; mag
+		* Magister Florian z Vicovaro<a id='brugge_brugge_florian_z_vicovaro'></a> - ; mag
+		* Lars<a id='brugge_lars'></a> - ; domniemany przywódca szajki najemnych złoczyńców w Brugge
 	* [Dillingen](#brugge_dillingen)
 		* Zielarz z Dillingen<a id='brugge_dillingen_zielarz'></a> - ?; zielarz;
 			Destylował nalewkę z Mandragory
@@ -183,6 +184,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Jarl Cerys<a id='wyspy_skellige_cerys'></a> - ; jarl
 	* Druid Artis<a id='wyspy_skellige_druid_artis'></a> - ; druid
 
+#### [Do góry](#spis_tresci)
+
 ## Lokacje
 * Brokilon<a id='brokilon'></a>
 	- las kawałek na południe od środkowego biegu Jarugi, od północy ograniczony pasmem górskim
@@ -270,6 +273,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Zerrikania<a id='zerrikania'></a>
 	- daleko
 
+#### [Do góry](#spis_tresci)
+
 ## Ogłoszenia
 * [Ellander](#ellander_ellander)
 	* Nagroda za oczyszczenie traktu łączącego [Wyzimę](#temeria_wyzima) z [Mariborem](#temeria_maribor) z trupojadów - Zarządca [Wyzimy](#temeria_wyzima)
@@ -282,6 +287,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* "Na pochybel Redańczykom!"
 * [Brugge](#brugge_brugge)
 	* Ochroniaży karawany do [Dillingen](#brugge_dillingen) zartudnię - Artur Comry
+
+#### [Do góry](#spis_tresci)
 
 ## Stworzenia
 * Gryf<a id='gryf'></a>
@@ -338,6 +345,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* jest w stanie przerazić skowytem
 	* potrafi przeskakiwać, teleportować się pomiędzy nieoświetlonymi miejscami
 
+#### [Do góry](#spis_tresci)
 	 
 ## Heraldyka
 * Orzeł biały w polu czerwonym - [Redania](#redania)
@@ -350,6 +358,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 * Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - [Ellander](#ellander)
 * Krzyż biały w polu zielonym - [Brugge](#brugge)
 * Słońce złote w polu czarnym - [Nilfgaard](#nilfgaard)
+
+#### [Do góry](#spis_tresci)
 
 ## Zadania
 - [x] Zlecenie na Kota Migota (aka Drwalskie Bebechy)<a id='q1'></a>
@@ -404,6 +414,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Znaleźć jakiegoś sierżanta na froncie pod [Brokilonem](#brokilon) i dostarczyć jego raport.
 	* Właścicielka [Pod Zieloną Świeczką](#brugge_zielona_swieczka); "Towarzystwo"
 
+#### [Do góry](#spis_tresci)
 
 ## Różne
 - Kapituła<a id="kapitula"></a> - rada magów która motała w polityce zanim Redańczycy i Kapłani Wiecznego Ognia zaprowadzili swój porządek
@@ -421,6 +432,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Plany ucieczki przerwane przez dziwne zjawisko na niebie i atak [gryfa](#gryf)
 	* Łowcy giną (dowódca podczas nieudanego przesłuchania), wóz zostaje zniszczony, [Ilana](#ilana) i [Kajetan](#kajetan) są wolni, jednak ich dobytek nie był transportowany z nimi
 
+#### [Do góry](#spis_tresci)
 
 ### Sesja 1
 1. Do Pontaru i z powrotem
@@ -437,6 +449,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Wejście do miasta - łapówka
 	* Znalezienie karczmy przyjaznej nieludziom, "[Różyczki](#ellander_ellander_rozyczka)"
 
+#### [Do góry](#spis_tresci)
 
 ### Sesja 2
 1. W Różyczce
@@ -450,6 +463,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* wszyscy drwale poza majstrem rozeszli się do domów - nie zamierzają pracować póki nie będzie bezpiecznie
 	* [Wojciech](#ellander_ellander_wojciech) czekał na nas. Poszedł z nami do [Kuropatwy](#ellander_ellander_kuropatwa) na podgrodziu gdzie ufundował nam posiłek i nocleg
 	
+#### [Do góry](#spis_tresci)	
+
 ### Sesja 3
 1. Zakończenie zlecenia
 	* Wchodzimy do miasta. Strażnicy nie robią problemów na bramie
@@ -465,6 +480,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Jej dziecko, [Daria](#ellander_ellander_daria), mówi że widzi ojca zmarłego na wojnie z Czarnymi
 	* Przypadkiem w odbiciu w szybie zauważamy [Szaraka](#szarak) - udaje nam się go pokonać nie krzywdząc dziecka ani matki
 	* Odmawiamy nagrody pod postacią zbroi po ojcu, prosząc o naprawienie ubrań [Kajetana](#kajetan)
+
+#### [Do góry](#spis_tresci)
 
 ### Sesja 4
 1. Wejście do Kanałów
@@ -487,6 +504,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Zostajemy zatrzymani na bramie - zwykle potrzebny jest glejt. Prezentujemy trofeum - ogromną czaszkę - i powołujemy się na [Vigga](#ellander_ellander_viggo_regner)
 	* Strażnicy odprowadzają nas do "[Fioliki Zdrowia](#ellander_ellander_fiolka_zdrowia)
 
+#### [Do góry](#spis_tresci)
 
 ### Sesja 5
 ##### Pomiędzy Aequinoctuim jesiennym a Solistitium zimowym
@@ -544,6 +562,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Dziecko](#ellander_ellander_daria) definitywnie ma predyspozycje
 	* [Viggo](#ellander_ellander_viggo_regner) nie chce/może wziąć jej na naukę i zgadza się że kapłanki Melitele to dobry pomysł
 
+#### [Do góry](#spis_tresci)
 
 ### Sesja 6
 1. [Viggo Regner](#ellander_ellander_viggo_regner)
@@ -569,6 +588,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* w szklarni/sadzie jakieś złe pnącza obrosły prastary dąb rosnący w Punkcie Mocy - usuńcie je, a pomożemy miastu i wam
 	* pnącza zostały usunięte. [Kasimir](#kasimir) zdaje się nie przejmować zasadami tak długo jak jego możliwość awansu korzysta, jednak powinniśmy być ostrożni jeśli wrócimy do Ellander
 
+#### [Do góry](#spis_tresci)
 
 ### Sesja 7
 1. [Świątynia](#ellander_smelitele)
@@ -591,6 +611,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	- [Viggo](#ellander_ellander_viggo_regner) obiecał znaleźć dla nas pracę jeśli zdecydujemy się zimować w Ellander **[Zadanie: Szczurołapa zatrudnię od zaraz](#q8)**
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Podchoroąży zawsze zdąży</i></div>
 
+#### [Do góry](#spis_tresci)
 
 ### Sesja 8
 1. [Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)
@@ -604,7 +625,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 3. [Fiolka Zdrowia](#ellander_ellander_fiolka_zdrowia)
 	* [Viggo](#ellander_ellander_viggo_regner) jest zawiedziony brakiem szczura, jednak [Zeulg](#zeulg) też jest interesujący - paraliżującą toksynę da się pozyskać do różnych celów
 	* [Zeulga](#zeulg) ktoś chodował na toksynę i pobierał ją nie zabijając potwora
-	* [Viggo](#ellander_ellander_viggo_regner) opowiada nam co wie o [Vilgeforzu](#vilgeforz) i [Philippie Eilhart](#philippa_eilhart)
+	* [Viggo](#ellander_ellander_viggo_regner) opowiada nam co wie o [Vilgeforzu](#vilgeforz) i [Filippie Eilhart](#filippa_eilhart)
 	* [Kaedwen](#kaedwen), uprzednio pod władzą [Henselta](#kaedwen_krol_henselt), nie jest zadowolone z rządów Redanii, może dojść do wojny domowej
 	* [Keira Metz](#keira_metz) była/jest magiem specjalizującym się w leczeniu
 	* Przypadłość [Ilany](#ilana) może być formą lycantropii za czym zdaje się przemawiać jej epizod w Świątyni Melitele (to zdarzyło się w czasie pełni księżyca)
@@ -619,6 +640,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Kajetana](#kajetan) wyzwali na rękę. Wygrywa z [Skovikiem](#skovik) i jednym z jego braci, z drugim i [Ilaną](#ilana) przegrywa
 	* [Skovik](#wbs_skovik) pochodzi z [Wysp Skellige](#wyspy_skellige), dzieli się informacjami jak najlepiej tam dotrzeć, faktem że [Myszowór](#myszowor) przebywa na [Wyspach Skellige](#wyspy_skellige)
 
+#### [Do góry](#spis_tresci)
 
 ### Sesja 9
 1. "[Różyczka](#ellander_ellander_rozyczka)"
@@ -657,6 +679,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* [Leiv](#wbs_leiv) widział kiedyś wiedźmina na [Ard Skellig](#wyspy_skellige_ard_skellig)
 	* driady gościły keidyś wiedźmina Gwymleita ([Kajen](#kajetan) kojarzy elfickie miano z [Geraltem](#geralt))
 	* według [Aedirnczyków](#wbs_yarii) wiedźmini są "psami [Foltesta](temeria_foltest)", któryś z nich zabił [Demawenda](#aedirn_demawend) za pieniądze
+
+#### [Do góry](#spis_tresci)
 
 ### Sesja 10
 1. "[Różyczka](#ellander_ellander_rozyczka)"
@@ -720,6 +744,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Ilana](#ilana) i [Skovik](#wbs_skovik) przygotowują wyjazd z [Ellander](#ellander) od strony technicznej - zapasy i ekwipunek. Następnie udają się do banku [Gianfanellich](#gianfanelli) wycenić diamenty oraz do łaźni, by odświeżyć się przed podróżą i uprać ubrania na drogę.
 	* [Kajetan](#kajetan) w tym czasie idzie do łaźni, kuźni, a także za namową [Ilany](#ilana) odwiedza [krawcową](#ellander_ellander_eliza), nie wiedząc czego się spodziewać. Wraca z nową czapką.
 
+#### [Do góry](#spis_tresci)
+
 ### Sesja 11
 #### 2 tygodnie przed Solistitium zimowym
 1. Do [Carreras](#ellander_carreras)
@@ -765,6 +791,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Sytuacja zdaje się beznadziejna, [Kajetan](#kajetan) decyduje się zaczerpnąć spore ilości Mocy, ryzykując życie, aby zniszczyć przeklęty Menhir. Częściowo mu się to udaje, przy czym przełamuje swoją blokadę, znacząco się wyniszczając.
 	* [Ilana](#ilana) ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarkę](#ellander_carreras_zielarka) od klątwy; zabiera kryształ który znajdował się wewnątrz obelisku
 	* Docieramy z powrotem do miasta, po zmroku. Mgły ustąpiły. Kierujemy się do karczmy na noc
+
+#### [Do góry](#spis_tresci)
 
 ### Sesja 12
 #### Tydzień przed Solistitium zimowym
@@ -821,6 +849,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* zdrowie [Kajetana](#kajetan) zostaje nieco podreperowanie kosztem kilku diamentów (dokładnie 4), jednak dalej ma dwimeryt w organiźmie i nie może rzucać zaklęć całkiem bezkarnie
 	* [Keira](#keira_metz) zgadza się też opłacić naszych kompanów (czyli w zasadzie spłacić ich diamenty użyte do wyleczenia Kajetana) w zamian za wyświadczoną jej pomoc.
 
+#### [Do góry](#spis_tresci)
+
 ### Sesja 13
 1. [Maribor](#temeria_maribor) - dzień
 	* [Kajetan](#kajetan) poddaje się procesowi leczenia, nie będzie w stanie się ruszyć do kolejnego poranka
@@ -851,6 +881,8 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* [Majena](#brugge_majena) to przeklęta przez druidów ruina miasta. Zanim zostało przeklęte, miejsce nieustających potyczek z [Nilfgaardem](#nilfgaard), co potencjalnie skłoniło (ponoć mało ekstremistycznych) druidów z tamtej okolicy do podjęcia działania
 		* Najemnicy najczęściej osłaniają karawany i transporty, noszą też wiadomiści. Dla cywilów i dla Księstwa.
 	* Bardziej adekwatnym miejscem do poszukiwania pracy i pobytu dla nas będzie karczma [Zielona Świeczka](#brugge_brugge_zielona_swieczka) niedaleko za murami miasta
+
+#### [Do góry](#spis_tresci)
 
 ### Sesja 14
 ####Solistitium zimowe
@@ -885,7 +917,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Kajetan](#kajetan) bardzo skutecznie je prowokuje. Oba [Berghesty](#berhest) atakują go, złe tak bardzo że nie przejmują się światłem.
 	* [Kajetan](#kajetan) zostaje ciężko ranny, traci przytomność. [Skovik](#wbs_skovik) z braćmi zabijają jedną z bestii, ostatnia ucieka i już nie wraca.
 	* [Ilana](#ilana) dociera do strażnicy granicznej. Opowiada swoją historię strażnikom (jednen z nich ją rozpoznaje jako że niedawno przekraczaliśmy granicę. Zaufanie wzbudza też fakt że koń, z nieobrabowaynymi jukami należał do zwiadowcy wysłanego do [Miechunowych Uroczysk](#brugge_miechunowe_uroczyska), co potwierdza słowa druidki
-	* O świtaniu mały oddział strażników z [Ilaną](#ilana) wyrusza do [Brychnej](#brugge_brychna). [Kajetan](#kajetan) zostaje wyleczony. Strażnicy biorą jedną z czaszek po bestii na dowód i rodzinę [Runda](#brugge_brychna_rund) do miasta, zostawiają nam list polecający do [miejskiego maga](#brugge_florian_vicovarno)
+	* O świtaniu mały oddział strażników z [Ilaną](#ilana) wyrusza do [Brychnej](#brugge_brychna). [Kajetan](#kajetan) zostaje wyleczony. Strażnicy biorą jedną z czaszek po bestii na dowód i rodzinę [Runda](#brugge_brychna_rund) do miasta, zostawiają nam list polecający do [miejskiego maga](#brugge_florian_z_vicovaro)
 	* Drużyna decyduje się kuć żelazo póki gorące, wyruszamy do pobliskiej już [Próchnowej](#brugge_prochnowo)
 	* Do [Próchnowej](#brugge_prochnowo) docieramy po południu. Znajdujemy paczkę w nadbrzeżnym warsztacie szkutniczym.
 	* [Próchnowa](#brugge_prochnowa) wygląda jak [Brychnej](#brugge_brychna). Co ciekawe bestie nie zdają się tykać zwierząt gospodarczych - mordują tylko ludzi
@@ -895,7 +927,9 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 3. [Brugge](#brugge_brugge)
 	* Rankiem wyruszamy do [Brugge](#brugge_brugge), bez przerwy, nie zatrzymując się na noc
 	* Pomimo wyczerpania, decydujemy od razu udać się do Maga
-	* Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną [karczmę](#brugge_brugge_ostoja) w porównaniu do tych w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem Florianem Vicovarno](#brugge_florian_vicovarno)
+	* Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną [karczmę](#brugge_brugge_ostoja) w porównaniu do tych w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem Florianem z Vicovaro](#brugge_florian_z_vicovaro)
+
+#### [Do góry](#spis_tresci)
 
 ### Sesja 15
 1. [Brugge](#brugge_brugge)
@@ -909,37 +943,42 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* w drodze na rynek mijają resztę drużyny wracającą do [Ostoji](#brugge_brugge_ostoja)
 		* [Ilana](#ilana) ogląda [Sowiołaka](#sowiołak) - jest ranny i w kagańcu, robi sobie krzywdę próbując wydrapać wystające z ran bełty
 		* Udaje jej się namówić opiekunkę potwora aby wpuściła ją do klatki, zająć się ranami
-		* Leczy i uspokaja nieco stworzenie, pobliscy strażnicy zdają się zauważać jej druidycznych/magicznych umiejętności, jednak nie reagują
-		* w drodze powrotnej pijacy których zauważyła poprzednia grupa atakuje [Ilanę](#ilana) i [Skovika](#wbs_skovik) z jakiegoś zaułka
-		* [Ilana](#ilana) odnosi nieznaczną ranę, jeden z napastników znaczną po czym odwołuje atak
+		* Leczy i uspokaja nieco stworzenie, pobliscy strażnicy zdają się zauważać jej druidyczne/magiczne umiejętności, jednak nie reagują
+		* w drodze powrotnej "pijacy" których zauważyła poprzednia grupa atakują [Ilanę](#ilana) i [Skovika](#wbs_skovik) z jakiegoś zaułka. Dodają przy tym, że przesyłają pozdrownienia od niejakiego [Larsa](#brugge_lars).
+		* [Ilana](#ilana) odnosi nieznaczną ranę, odwdzięczając się jednemu z napastników dużo poważniejszą, po czym banda odwołuje atak
 	* rankiem wybieramy się do maga. Zostajemy zaproszeni o zachodzie słońca - mając dzień dla siebie decydujemy się obejrzeć cyrk który najwyraźniej zostaje w mieście na dłużej
 		* siłacz podnoszący niesamowite cieżary intryguje węszącego szwindel [Kajetana](#kajetan). [Skovikowi](#wbs_skovik) dwa razy nie udaje się podnieść ciężarów
 		* [Ilana](#ilana) zauważa że siłacz regularnie popija jakiś napój z bukłaka - ma nieznany jej ziołowy aromat
 		* [Kajetan](#kajetan) proponuje siłaczowi łyk nalewki z mandragory za łyk jego napoju. Napotyka stosunkowo uprzejmą odmowę, dalej nie ma pewności że haczykiem jest nalewka
-		* [Ilana](#ilana) wybiera się do wróżki
-		* Rozsierdzony [Kajetan](#kajetan) również do niej zagląda. Zadaje pytania o siłacza potwierdzające jego podejrzenia oraz przepowiednię że [Philippa Eirhart](#philippa_eihart) może nie być mu w stanie pomóc ale powinien ją spotkać
-	* o zachodzie wybieramy się do [Magistra Floriana Vicovarno](#brugge_brugge_florian_vicovarno)
-		* mag bardzo nieelegancko zagląda pod iluzję [Kajetana](#kajetan)
+		* [Ilana](#ilana) wybiera się do wróżki. Dowiaduje się, że zmierzając dalej na Skellige, oddala się od [Filippy](#filippa_eilhart) oraz że kobieta z jej snów najprawdopodobniej nadal żyje
+		* Rozsierdzony [Kajetan](#kajetan) również do niej zagląda. Zadaje pytania o siłacza potwierdzające jego podejrzenia. Otrzymuje też przepowiednię, że [Filippa Eilhart](#filippa_eilhart) może nie być mu w stanie pomóc ale powinien ją spotkać
+	* o zachodzie wybieramy się do [Magistra Floriana z Vicovaro](#brugge_brugge_florian_z_vicovaro)
+		* mag bardzo nieelegancko zagląda pod iluzję [Kajetana](#kajetan) tłumacząc to względami bezpieczeństwa
 		* uważnie notuje nasze sprawozdanie
 		* wypłaca 100GP za czaszkę [Barghesta](#barghest)
 		* proponuje zapłacić po 100GP za okazy/próbki flory i fauny z obrzeży [Brokilonu](#brokilon)
-	* kolejnego ranka wyruszamy do [Medownej](#brugge_medowna)
+	* po wizycie u maga wracamy do [Ostoji](#brugge_brugge_ostoja) na nocleg. W swoim pokoju [Ilana](#ilana) zauważa kawałek pergaminu leżący na łóżku. W liście tym napisano "Kobieto. Wiesz, że czarowanie bez zezwolenia to przestępstwo?", a podpisał go nikt inny, a [Lars](#brugge_lars). Zastanawia się czy odpowiedzieć, a jeśli tak to co napisać
+	* [Ilana](#ilana) wypytuje karczmarkę o ten liścik. Ta opowiada jej jak rzekomo wróciła do karczmy i poszła na chwilę po coś do pokoju w czasie, gdy cała grupa była w cyrku
+	* kolejnego ranka wyruszamy do [Medownej](#brugge_medowna). [Kajetan](#kajetan) w drodze rozmyśla nad czymś intensywnie - pisze niewybredny, dość złośliwy limeryk o [Larsie](#brugge_lars)
 1. [Medowna](#brugge_medowna)
-	* wieś całkowicie zarośnięta
-	* śpimy zabarykadowani w chacie
-	* Ilana widzi driady na wachcie
-	* rano tracimy przytomność, ucieka nam pół dnia którego nie pamiętamy
-	* przeszukujemy chaty, drzewa w krztałcie ludzi oglądają się za nami powoli
-	* znajdujemy chatę pszczelarza z paczkami
-	* wyciągamy paczki z uli
-	* drzewo-ludzie przyspieszają i zaczynają zachowywać się trochę jak anioły z dr who
-	* uciekamy z 4 paczkami
+	* Wieś jest całkowicie zarośnięta, zamiast ludzi pełno tam postaci splecionych z gałęzi
+	* Docieramy tam o zmroku, decydujemy się spędzić noc zabarykadowani w jednej z chat
+	* Pierwszą wartę bierze [Ilana](#ilana). W nocy słyszy śpiew driad, które zdają się oddalać od wioski w stronę 
+	* Drugą wartę bierze [Kajetan](#kajetan). Pozornie nic się nie dzieje, aż w pewnym momencie już blisko ranka przysypia mu się
+	* Wszyscy budzą się nie nad ranem, a w okolicach południa, ucieka nam pół dnia którego nie pamiętamy, a nasze rzeczy leżą rozrzucone w chacie - zupełnie jakby ktoś w nich grzebał
+	* Od razu, bez zbędnej zwłoki przeszukujemy chaty. Drzewo-ludzie oglądają się za nami powoli. Na środku wioski stoi bardzo stary, rozłożysty dąb, którego widok przysparza gęsiej skórki
+	* Po kilku bezowocnych włamach do chat, znajdujemy tę właściwą - chatę pszczelarza, a w niej list przewozowy ze wszystkimi szmuglowanymi paczkami, które są schowane... w ulach
+	* [Ilana](#ilana) rozmawia z pszczołami, aby ułatwić pokojowe wyjęcie paczek z uli. Dowiaduje się przy okazji, co robili rano - podobno chodzili po wiosce, szukając tak jak teraz paczek
+	* drzewo-ludzie podchodzą bliżej nas, zacieśniając wokół nas krąg w czasie, kiedy wyjmujemy paczki. [Ilana](#ilana) wpada na pewien pomysł i zaczyna nucić melodię, którą słyszała w nocy w wykonaniu driad. Mówi też to wielkiego dębu, który stał się lekko nadaktywny i poddenerwowany, aby puścił ich wolno i nie robił problemów. Drzewo na dźwięk melodii nieco się uspokaja i rozluźnia szeregi drzewo-ludzi.
+	* [Kajetan](#kajetan) siłuje się z jedną z paczek uwięzionych w witkach jednego z drzewo-ludzi. Nie pomagają prośby ani groźby, więc wraz ze [Skovikiem](#wbs_skovik) przemocą wydzierają ostatni pakunek drzewu i uciekają ile sił w nogach
 1. [Brugge](#brugge_brugge)
-	* bez przerwy do zielonej świeczki
-	* zdajemy paczki, 1 z pruchnej, 2 z medownej
-	* Lars siedzi przy kontuarze (rządzi/jest wysoko postawiony w Towarzystwie?)
+	* Pędzimy na złamanie karku bez chwili przerwy do [Zielonej Świeczki](#brugge_zielona_świeczka)
+	* Zdajemy paczki - 1 z [Pruchnej](#brugge_prochnowo) i 2 z [Medownej](#brugge_medowna)
+	* Przy piwie [Ilana](#ilana) słysząc limeryk [Kajetana](#kajetan) prosi go o kartkę z wierszykiem i zawija ją w otrzymany wcześniej pergamin z wiadomością. Podchodzi do karczmarki i pyta wprost o [Larsa](#brugge_lars)
+	* [Lars](#brugge_lars) siedzi przy kontuarze i z miejsca zabiera list, przedstawiając się przy tym bez zbędnych ceregieli (rządzi/jest wysoko postawiony w Towarzystwie?)
 		* deeskaluje sytuację z cieciami
-		* odkupuje 2 księgi z jednej z pozostałych paczek, sugeruje że w mieście powinien być kupiec na pozostałe dwie
-		* jest czarodziejem lepszym lub gorszym (iluzja)
+		* odkupuje 2 księgi z jednej z pozostałych paczek, które grupa zatrzymała. Sugeruje przy tym, że w mieście powinien być kupiec na pozostałe dwie
+		* jest czarodziejem lepszym lub gorszym (iluzja, której użył żeby dostać się do pokoju Ilany)
+		* na odchodnym zmienia swoją twarz demonstrując magiczne zdolności i wychodzi
 
 <br /><br /><br />
