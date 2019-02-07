@@ -961,11 +961,12 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Ilana](#ilana) wypytuje karczmarkę o ten liścik. Ta opowiada jej jak rzekomo wróciła do karczmy i poszła na chwilę po coś do pokoju w czasie, gdy cała grupa była w cyrku
 	* kolejnego ranka wyruszamy do [Medownej](#brugge_medowna). [Kajetan](#kajetan) w drodze rozmyśla nad czymś intensywnie - pisze niewybredny, dość złośliwy limeryk o [Larsie](#brugge_lars)
 1. [Medowna](#brugge_medowna)
-	* Wieś jest całkowicie zarośnięta, zamiast ludzi pełno tam postaci splecionych z gałęzi
+	* Wieś jest całkowicie zarośnięta, zamiast ludzi pełno tam postaci splecionych z gałęzi. Co dziwne, w całej wiosce nie ma śniegu, choć w okolicy zaległa go już spora warstwa
 	* Docieramy tam o zmroku, decydujemy się spędzić noc zabarykadowani w jednej z chat
-	* Pierwszą wartę bierze [Ilana](#ilana). W nocy słyszy śpiew driad, które zdają się oddalać od wioski w stronę 
+	* Pierwszą wartę bierze [Ilana](#ilana). W nocy słyszy śpiew driad, które zdają się oddalać od wioski w stronę Południa
 	* Drugą wartę bierze [Kajetan](#kajetan). Pozornie nic się nie dzieje, aż w pewnym momencie już blisko ranka przysypia mu się
-	* Wszyscy budzą się nie nad ranem, a w okolicach południa, ucieka nam pół dnia którego nie pamiętamy, a nasze rzeczy leżą rozrzucone w chacie - zupełnie jakby ktoś w nich grzebał
+	* Wszyscy budzą się nie nad ranem, a w okolicach południa, ucieka nam pół dnia którego nie pamiętamy, a nasze rzeczy leżą rozrzucone w chacie - zupełnie jakby ktoś w nich grzebał. Brakuje nam jednego dnia racji żywności
+	* Przed chatą stoi kilku drzewo-ludzi ustawionych w szpaler - rosną na nich kwiaty (na jednym osobniku kilka kwiatów różnych gatunków - dziwne i niecodzienne)
 	* Od razu, bez zbędnej zwłoki przeszukujemy chaty. Drzewo-ludzie oglądają się za nami powoli. Na środku wioski stoi bardzo stary, rozłożysty dąb, którego widok przysparza gęsiej skórki
 	* Po kilku bezowocnych włamach do chat, znajdujemy tę właściwą - chatę pszczelarza, a w niej list przewozowy ze wszystkimi szmuglowanymi paczkami, które są schowane... w ulach
 	* [Ilana](#ilana) rozmawia z pszczołami, aby ułatwić pokojowe wyjęcie paczek z uli. Dowiaduje się przy okazji, co robili rano - podobno chodzili po wiosce, szukając tak jak teraz paczek
