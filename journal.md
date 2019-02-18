@@ -28,6 +28,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Sesja 13](#sesja-13)
 	* [Sesja 14](#sesja-14)
 	* [Sesja 15](#sesja-15)
+	* [Sesja 16](#sesja-16)
 <hr />
 
 
@@ -981,5 +982,21 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 		* odkupuje 2 księgi z jednej z pozostałych paczek, które grupa zatrzymała. Sugeruje przy tym, że w mieście powinien być kupiec na pozostałe dwie
 		* jest czarodziejem lepszym lub gorszym (iluzja, której użył żeby dostać się do pokoju Ilany)
 		* na odchodnym zmienia swoją twarz demonstrując magiczne zdolności i wychodzi
+
+### Sesja 16
+1. [Brugge](#brugge_brugge)
+	* zakupy
+	* biblioteka
+	* zostajemy napadnięci na dziwnie opustoszałej ulicy, jakaś baba żąda żeby oddać jej książki które nosi [Kajetan](#kajetan). Nie jest skłonna realistycznie wycenić naszego zaangażowania i wypłacić rekompensaty
+	* decydujemy się uciekać. puszczamy pół miasta z dymem używając zaklętego kamienia którym zapłacił nam [Lars](#brugge_lars)
+2. W drodze
+	* ucieczka i nocowanie (kretołaki)
+	* ominięcie bitwy
+	* spotkanie z patrolem
+3. [Dillingen](#brugge_dillingen)
+	* list gończy za Skovikiem
+	* [Kajetan](#kajetan) rozpytuje o statki
+	* spotkanie w karczmie, naigrywanie ze Skovika, brak zgody co do dalszych planów
+
 
 <br /><br /><br />
