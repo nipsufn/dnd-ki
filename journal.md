@@ -310,7 +310,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* Centaur, ale zrobiony z sowy i cały w piórach
 	* Rozumie ogólne znaczenie Starszej Mowy
 	* jest jeszcze młody, szuka swojej rodziny
-* Gigantyczne stonoga<a id='stonoga'></a>
+* Gigantyczna stonoga<a id='stonoga'></a>
 	* reaguje na ruch
 	* atakuje jadem paraliżującym
 * Pnącze Bluszczopodobne<a id='bluscz'></a>
@@ -985,18 +985,45 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 
 ### Sesja 16
 1. [Brugge](#brugge_brugge)
-	* zakupy
-	* biblioteka
-	* zostajemy napadnięci na dziwnie opustoszałej ulicy, jakaś baba żąda żeby oddać jej książki które nosi [Kajetan](#kajetan). Nie jest skłonna realistycznie wycenić naszego zaangażowania i wypłacić rekompensaty
-	* decydujemy się uciekać. puszczamy pół miasta z dymem używając zaklętego kamienia którym zapłacił nam [Lars](#brugge_lars)
+	* nocujemy w [Ostoi](#brugge_brugge_ostoja)
+	* [Ilana](#ilana) i [Kajetan](#kajetan) wybierają się do [biblioteki](#brugge_brugge_biblioteka), [Skovik](#wbs_skovik) z braćmi na zakupy:
+		* interesujące lokacje w okolicy:
+			* [Krag An](#brokilon_krag_an) - nietknęte ruiny dużeko elfickeigo miasta w środku [Brokilonu](#brokilon)
+			* [Sowie Wzgórza](brugge_sowie_wzgorza) - kopalnie węgla
+			* [Świątynia Kreve](#brugge_swiatynia_kreve) - opuszczona świątynia Kreve, boginii sprawiedliwości, w [Sowich Wzgórzach](brugge_sowie_wzgorza) na południe od [Brugge](#brugge_brugge)
+		* żadne z miejsc opisanych w księgach nie wydaje się być bezpiecznym miejscem do zwiedzania/eksploracji, decydujemy się wyruszać w dalszą drogę, do [Dillingen](#brugge_dillingen)
+	* w dordze do bramy zostajemy napadnięci na dziwnie opustoszałej ulicy, otaczają nas łucznicy na dachach i różnej budowy rzezimieszkowie na ziemi
+	* jakaś baba żąda żeby oddać jej książki które nosi [Kajetan](#kajetan). Zdaje się zgodzić wypłacić pieniężną rekompensatę, nie oddającą jednak wartości naszej inwestycji ([Kajetan](#kajetan) oszacował 800GP bazując na wartości ksiąg sprzedanych [Larsowi](#brugge_lars), zawartości tych o których mowa oraz inwestycji w pergamin i inkaust do transkrypcji czarów)
+	* jako że kobieta nie zamierza negocjować [Kajetan](#kajetan) zdecydował się uciekać nie zostawiając wyboru drużynie. Detonuje zaklęty kamień podarowany nam przez [Larsa](#brugge_lars) którego nie udało nam się spienięrzyć za plecami konfrontatorki
+	* kamień roztrzaskuje się powodując potężną eksplozję i uwalnia [D'jinni](#djinni) ognia. Baba okazuje się być iluzją.
+	* korzystając z zamieszania, używając czarów ogłuszamy pozostałych rzezimieszków, przeciskamy się w stronę rynku i dalej do bramy
+	* przed rynkiem doprowadzamy się do względnego porządku. [Leiv](#wbs_leiv) decyduje się zostać w mieście, nam udaje się przekonać strażników bramy aby nas wypuścili
 2. W drodze
-	* ucieczka i nocowanie (kretołaki)
-	* ominięcie bitwy
-	* spotkanie z patrolem
+	* obchodzimy miasto od północy w promieniu kilku kilometrów jako że wyszliśmy południowo-wschodnią bramą a droga nam na pónocny zachód.
+	* widzimy jak [D'jinni](#djinni) podpala znaczącą część miasta, po czym jakaś latająca postać, zdaje się nam [Magister Florivan z Vicovaro](##brugge_brugge_florian_z_vicovaro), pokonuje go i sprowadza nad miasto śnieżycę aby opanować pożar
+	* rozmawiamy o istotach mieszkających w [Brokilonie](#brokilon):
+		* Wilki
+		* Niedźwiedzie
+		* [Gigantyczne Stonogi](#stonoga)
+		* [Kikimory](#kikimora)
+		* [Krabopająki](#krabopajaki)
+	* docieramy do jakiejś opustoszałej wsi na północ od miasta. Jest opustoszała i nosi ślady napaści jakichś zwierząt/potworów
+	* decydujemy się nocować na pięrze jednego z bogatszych domów.
+	* w nocy po wsi grasują [Kretołaki](#kretolak), nad ranem zdają się zorientować gdzie się ukrywamy jako że [Kajetan](#kajetan) używał magii by ogrzać towarzyszy - jednak zanim dochodzi do walki, wracają pod ziemię gdy wschodzi słońce
+	* wyruszamy w dalszą drogę. Słyszymy odgłosy walki - [Ilana](#ilana) decyduje się przyjrzeć z ukrycia a reszta drużyny omija pole walki szerokim łukiem
+	* wieczorem, gdy szykujemy się do przeczekania kolejnej nocy, zaczepia nas patrol militarny:
+		* zalecają opuścić okolicę tak szybko jak to możliwe
+		* w [Verden](#verden) [Bodrog](#verden_bodrog) i [Rozrog](#verden_rozrog) upadły w czasie walk z [Nilfgaardem](#nilgaard), [Nastrog](#verden_nastrog) ocalał, rządzony bezprawiem i organizacjami przestępczymi
 3. [Dillingen](#brugge_dillingen)
 	* list gończy za Skovikiem
-	* [Kajetan](#kajetan) rozpytuje o statki
-	* spotkanie w karczmie, naigrywanie ze Skovika, brak zgody co do dalszych planów
-
+	* [Kajetan](#kajetan) rozpytuje o statki:
+		* tego samego wieczora do [Cinitry](#cinitra_cinitra): 60GP za rejs, 20GP jeśli będziemy pomagać w ochronie, 100GP za dodatkowy postój
+		* 1 - 2 dni do [Cinitry](#cinitra_cinitra): 10 - 30GP zależnie jakie inne zlecenia znajdą na transport towaru
+	* spotkanie w ["Perełce"]:
+		* [Skovik](#wbs_skovik) był głównym organizatorem puczu przeciw obecnej władczyni [Wysp](#wyspy_skellige), dlatego nie tylko nie może tam wrócić ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny
+		* brak zgody co do dalszych planów:
+			* [Ilana](#ilana) uważa że należy podróżować dalej na zachód lądem, przekroczyć Wstążkę i na wysokości [Bodrogu](#verden_bodrog) wkroczyć do [Brokilonu](#brokilon) całą drużyną; wierzy że Driady znają ją na tyle że przepuszczą druidzkiego kręgu w którym się wychowała wraz z nieznajomymi
+			* [Kajetan](#kajetan) zaczyna myśleć że wejście do [Brokilonu](#brokilon) to samobójstwo, a szczególnie od strony [Bodrogu](#verden_bodrog). Uważa że należało by rzeką i morzem dopłynąć do Kerrak i wejśc w las od tamtej strony nadkładając drogi
+		* udajemy się na spoczynek nie ustalając co dalej
 
 <br /><br /><br />
