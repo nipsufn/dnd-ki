@@ -1060,7 +1060,7 @@ Ess'tuath esse! Tak będzie! Wypatrujcie znaków! Jakie to będą znaki, rzeknę
 	* [Kajetan](#kajetan) odłącza się od grupy i rozpytuje o statki:
 		* tego samego wieczora do [Cinitry](#cinitra_cinitra): 60GP za rejs, 20GP jeśli będziemy pomagać w ochronie, 100GP za dodatkowy postój
 		* 1 - 2 dni do [Cinitry](#cinitra_cinitra): 10 - 30GP zależnie jakie inne zlecenia znajdą na transport towaru
-	*[Ilana](#ilana) wraca do urzędu ze "zniszczonym" glejtem, prosząc o wystawienie nowych, tym razem już oddzielnych dokumentów dla każdego. I tak [Ivar](wbs_ivar) zostaje Civrilem Regner, a [Skovik](#wbs_skovik) - Jonasem Skaggs
+	* [Ilana](#ilana) wraca do urzędu ze "zniszczonym" glejtem, prosząc o wystawienie nowych, tym razem już oddzielnych dokumentów dla każdego. I tak [Ivar](wbs_ivar) zostaje Civrilem Regner, a [Skovik](#wbs_skovik) - Jonasem Skaggs
 	* spotykamy się grupą w ["Perełce"](#brugge_dillingen_perelka) - przybytku poleconym jako lokalną atrakcję przez jednego ze strażników na moście (który nawiasem okazuje się być portowym, dość eksluzywnym burdelem):
 		* [Skovik](#wbs_skovik) był głównym organizatorem puczu przeciw obecnej władczyni, [Wysp](#wyspy_skellige) osobiście targnął się na życie [Cerys](#wyspy_skellige_cerys) i jej brata próbując pomścić zamordowanego ojca, dlatego nie tylko nie może tam wrócić ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny
 		* w drużynie następuje brak zgody co do dalszych planów:
