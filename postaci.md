@@ -4,7 +4,7 @@
 * PC - Kasimir<a id='p_kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
 * Giananelli<a id='p_gianfanelli'></a> - ?;
 	właściciel banków;
-* ✝ Vilgeforz<a id='p_vilgeforz'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
+* ✝&#xFE0E; Vilgeforz<a id='p_vilgeforz'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
 	- miał immunitet od [Dwimerytu](#r_dwimeryt)
 	- jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
 * Filippa Eilhart<a id='p_filippa_elihart'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
