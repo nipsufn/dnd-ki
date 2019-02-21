@@ -46,7 +46,7 @@
 			* Zielony kufelek<a id='l_zielony_kufelekzielony'></a> - bar w alejce; bez jedzenia i noclegu
 			* Speluna na Południu<a id='l_speluna'></a> - bar w alejce; podły; strach pić co podają
 		* Sklepy
-			* Fiolka Zdrowia<a id='l_fiolka_zdrowia'></a> - alchemik; Viggo [Regner](#p_viggo_vregner)
+			* Fiolka Zdrowia<a id='l_fiolka_zdrowia'></a> - alchemik; Viggo [Regner](#p_viggo_regner)
 			* Krawcowa - ; [Eliza](#p_eliza)
 			* Bank [Gianfanelli](#p_gianfanelli) - ;
 			* Jubiler<a id='l_jubiler'></a> - ; R. [Ruprecht](#p_rodzina_ruprecht)
