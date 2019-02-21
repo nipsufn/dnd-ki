@@ -1,6 +1,6 @@
 ## Postaci
 * PC - Ilana<a id='p_ilana'></a> - człowiek, druidka, krzepka, gęste włosy, potrafi zamieniać się w zwierzęta
-* PC - Kajetan ab Extremis (z Krańca)<a id='p_kajetan'></a> - elf, barbarzyńca, wysoki, delikatny, w miarę elegancko odziany
+* PC - Kajetan ab Extremis (z Krańca)<a id='p_kajetan'></a> - elf, mag, wysoki, delikatny, w miarę elegancko odziany
 * PC - Kasimir<a id='p_kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
 * Giananelli<a id='p_gianfanelli'></a> - ?;
 	właściciel banków;
