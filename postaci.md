@@ -4,7 +4,7 @@
 * PC - Kasimir<a id='p_kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
 * Giananelli<a id='p_gianfanelli'></a> - ?;
 	właściciel banków;
-* ✝&#xFE0E; Vilgeforz<a id='p_vilgeforz'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
+* ✝ Vilgeforz<a id='p_vilgeforz'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
 	- miał immunitet od [Dwimerytu](#r_dwimeryt)
 	- jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
 * Filippa Eilhart<a id='p_filippa_elihart'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
@@ -44,7 +44,7 @@
 	* Yarii<a id='p_yarii'></a> - człowiek z Aedirn, dezerter; ma tatuaż z symbolem Aedirn na ramieniu
 	* Varn<a id='p_varn'></a> - człowiek z Aedirn, dezerter; razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
 * [Aedirn](#l_aedirn)
-	* ✝Król Demawend<a id='p_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
+	* ✝ Król Demawend<a id='p_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
 	* Stennis<a id='p_stennis'></a> - ; książę
 		[Demawend](#aedirn_demawend): ojciec
 * [Brokilon](#l_brokilon)
@@ -54,7 +54,7 @@
 		Włada puszczą i Driadami
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
-		* ✝Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
+		* ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
 			Przychylny Driadom
 		* Król Wenzlaw II<a id='p_krol_wenzlaw_ii'></a> - ; król [Brugge](#l_brugge)
 			Podpisał umowy z Nilfgaarderm
@@ -144,10 +144,10 @@
 		przez jakiś czas rządził [Novigradem](#l_novigrad)
 		rządzi w [Wyzimie](#l_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#l_temeria)
 		zakładał obozy pracy dla Scoia'tael
-	* ✝Menge<a id='p_menge'></a> - ; przywódca zakonu Łowców
+	* ✝ Menge<a id='p_menge'></a> - ; przywódca zakonu Łowców
 		[Lord Slyz Myrton](#p_lord_myrton): podwładny
 * [Temeria](#l_temeria)
-	* ✝Król Foltest<a id='p_krol_foltest'></a> - ; król [Temerii](#l_temeria)
+	* ✝ Król Foltest<a id='p_krol_foltest'></a> - ; król [Temerii](#l_temeria)
 	* [Lord Dijsktra](#p_dijsktra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
 * [Wyspy Skellige](#l_wyspy_skellige)
 	* Jarl Cerys<a id='p_cerys'></a> - ; jarl
