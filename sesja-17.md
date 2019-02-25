@@ -11,20 +11,20 @@
 	* Docieramy tam o zachodzie słońca. Nad mostem, po stronie [Brugge](#l_brugge) rozstawiony jest obóz wojskowy, a na jego drugim końcu koczują cywile z [Verden](#l_verden). Zostajemy zatrzymani do kontroli i dowiadujemy się, że o pozwolenie na przejście trzeba prosić sierżanta. 
 	* Wojacy wskazują nam miejsce na nocleg. W nocy Ilana słyszy, jak żołnierze oddają strzały do ludzi po drugiej stronie, którzy siłą próbują sforsować most. Ich ciała, spadłszy do rzeki, są niemal od razu porywane przez utopce.
 	* Nad ranem od sierżanta dowiadujemy się kilku rzeczy
-		*przejście przez most jest pilnie strzeżone od czasu, gdy na jego drugim końcu poswtała strefa objęta kwarantanną
-		* ludzie tłumnie przybywający z [Verden](#l_verden) są zarażeni dziwną chorobą, która rozwija się wolno, ale jest śmiertelna
-		*zarażeni po kilku dniach wpadają w śpiączkę, a gdy się z niej budzą, atakują wszystko co się rusza - wyglądają jakby byli żywcem obdarci ze skóry 
-		* rzekomym ogniskiem choroby ma być zbiorowa mogiła, którą postawiono w [Verden](#l_verden).
-	* Sierżant prosi nas, żebyśmy spalili tą mogiłę jeśli uda nam się przejść przez most i przeżyć, ale zgodnie ustalamy, że przeprawimy się przez Wstążkę inną drogą.
+		* przejście przez most jest pilnie strzeżone od czasu, gdy na jego drugim końcu poswtała strefa objęta kwarantanną
+		* ludzie tłumnie przybywający z [Verden](#l_verden) są zarażeni dziwną chorobą, którą [Ilana](#p_ilana) identyfikuje jako flesh rot - rozwija się wolno, ale jest śmiertelna
+		* zarażeni po kilku dniach wpadają w śpiączkę, a gdy się z niej budzą, atakują wszystko co się rusza, wyglądają przy tym jakby byli żywcem obdarci ze skóry 
+		* rzekomym ogniskiem choroby ma być zbiorowa mogiła, którą postawiono w [Verden](#l_verden)
+	* Sierżant prosi nas żebyśmy spalili tą mogiłę jeśli uda nam się przejść przez most i przeżyć, ale zgodnie ustalamy, że przeprawimy się przez Wstążkę inną drogą.
 	* Nie marnując czasu oddalamy się od mostu i po kilku kilometrach odbijamy w stronę rzeki. Widzimy przed nami koniec kolumny wojska, które idzie na front. Podążamy chwilę ich śladem, szukając dobrego miejsca do przejścia rzeki na stronę [Brokilonu](#l_brokilon).
-	* Po długiej wędrówce w górę Wstążki udaje nam się znaleźć dogodne miejsce na przeprawę. Rzeka jest w tym miejscu głęboka, ale drugi brzeg bliski. 
-	*[Kajetan](#p_kajetan) wpada na pomysł, by przesunąć większe głazy i zwalone drzewo na brzeg rzeki robiąc z nich kładke do skoku. Pod jednym z kamieni tworzy się osuwisko, z którego łeb wystawia nekker.
+	* Po długiej wędrówce w górę Wstążki udaje nam się znaleźć dogodne miejsce na przeprawę. Rzeka jest na tym odcinku głęboka, ale drugi brzeg bliski. 
+	* [Kajetan](#p_kajetan) wpada na pomysł by przesunąć większe głazy i zwalone drzewo na brzeg rzeki robiąc z nich kładke do skoku. Pod jednym z kamieni tworzy się osuwisko, z którego łeb wystawia nekker.
 	* Wszyscy, po za [Kajetanem](#p_kajetan) lądują bezpiecznie na drugim brzegu. Elf w ostatniej chwili pomaga sobie magią żeby nie skończyć w rzece z utopcami.
 	* [Ilana](#p_ilana) wyciąga kupioną w [Dillingen](#l_dillingen) kościaną piszczałkę i zaczyna grać melodię, którą kojarzy z driadami. [Kajetan](#p_kajetan) rozpoznaje melodię i dołącza się, pogwizdując.
 	* Z lasu na spotkanie wyskakują nam nie driady, a grupka nekkerów. Nawiązuje się walka, w której [Kajetan](#p_kajetan) traci sporo krwi, a [Ivar](#p_ivar) ledwo uchodzi z życiem.
-	* Jeden z hałaśliwych, ale skutecznych czarów [Kajetana](#p_kajetan) zaalarmował Czarnych i ujawnił nasze położenie, ale kiedy próbujemy umykać w las, naprzeciw wychodzą nam driady ze strzałami wycelowanymi między nasze oczy.
+	* Jeden z hałaśliwych, ale skutecznych czarów [Kajetana](#p_kajetan) zaalarmował Czarnych i ujawnił nasze położenie, ale kiedy próbujemy umykać w las, naprzeciw wychodzą nam driady ze strzałami wycelowanymi prosto między nasze oczy.
 	* [Ilana](#p_ilana) przekonuje je, żeby wpuściły nas do lasu. Driady niechętnie patrzą na dwóch dh'oine, ale pozwalają nam schować się przed pogonią.
 	* [Ilana](#p_ilana) nawiązuje rozmowę z jedną z driad, z której wynika, że 
 		* druidzi wcale nie są zbyt bezpieczni - nie jest to najlepszy czas na naukę dla [Skovika](#p_skovik)
 		* pani Eithne 2 miesiące temu wezwała na pomoc elfy (jakie? z naszego świata?) i od tego czasu leży w śpiączce w [Col Serrai](#l_col_serrai), a rządy nad [Brokilonem](#l_brokilon) objęła niejaka królowa [Tytania](#p_tytania)
-		* Finarin przebywa razem z Eithne w [Col Serrai](#l_col_serrai)
+		* [Finarin](#p_druid_finarrin) przebywa razem z Eithne w [Col Serrai](#l_col_serrai)

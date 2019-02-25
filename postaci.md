@@ -31,10 +31,10 @@
 	* Skovik Drummond<a id='p_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
 		[Ivar](#p_ivar): brat
 		[Leiv](#p_leiv): brat
-	* Ivar<a id='p_ivar'></a> - człowiek, krótkie włosy, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige
+	* Ivar<a id='p_ivar'></a> - człowiek, krótkie włosy, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige z klanu Drummond
 		[Skovik](#p_skovik): brat
 		[Leiv](#p_leiv): brat (bliźniak)
-	* Leiv<a id='p_leiv'></a> - człowiek, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige
+	* Leiv<a id='p_leiv'></a> - człowiek, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige z klanu Drummond
 		[Skovik](#p_skovik): brat
 		[Ivar](#p_ivar): brat (bliźniak)
 	* Ebba<a id='p_ebba'></a> - człowiek, pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
@@ -152,4 +152,4 @@
 * [Wyspy Skellige](#l_wyspy_skellige)
 	* Cerys an Craite<a id='p_cerys'></a> - ; obecna jarl wysp Skellige, córka Crach an Craite'a; pierwsza kobieta na tronie Wysp
 	* Druid Artis<a id='p_druid_artis'></a> - ; druid przewodzący Vildkaarlom
-	* Lugos Drummond<a id='p_lugos'> - ; zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>; ma na pieńku z klanem an Craite, wraz z rodziną zostaje zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni Wysp, [Cerys](#p_cerys) an Craite
+	* Lugos Drummond<a id='p_lugos'> - ; zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>; ma na pieńku z klanem an Craite, wraz z rodziną zostaje zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni Wysp, [Cerys an Craite](#p_cerys)
