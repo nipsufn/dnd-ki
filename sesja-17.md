@@ -26,5 +26,5 @@
 	* [Ilana](#p_ilana) przekonuje je, żeby wpuściły nas do lasu. Driady niechętnie patrzą na dwóch dh'oine, ale pozwalają nam schować się przed pogonią.
 	* [Ilana](#p_ilana) nawiązuje rozmowę z jedną z driad, z której wynika, że 
 		* druidzi wcale nie są zbyt bezpieczni - nie jest to najlepszy czas na naukę dla [Skovika](#p_skovik)
-		* pani Eithne 2 miesiące temu wezwała na pomoc elfy (jakie? z naszego świata?) i od tego czasu leży w śpiączce w [Col Serrai](#l_col_serrai), a rządy nad [Brokilonem](#l_brokilon) objęła niejaka królowa [Tytania](#p_tytania)
-		* [Finarin](#p_druid_finarrin) przebywa razem z Eithne w [Col Serrai](#l_col_serrai)
+		* Pani [Eithne](#p_eithne) 2 miesiące temu wezwała na pomoc elfy (jakie? z naszego świata?) i od tego czasu leży w śpiączce w [Col Serrai](#l_col_serrai), a rządy nad [Brokilonem](#l_brokilon) objęła niejaka królowa [Tytania](#p_tytania)
+		* [Finarin](#p_druid_finarrin) przebywa razem z [Eithne](#p_eithne) w [Col Serrai](#l_col_serrai)

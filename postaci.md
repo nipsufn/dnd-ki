@@ -51,7 +51,7 @@
 	* Druid Finarrin<a id='p_druid_finarrin'></a> - ; druid
 		Uczył [Ilanę](#ilana)
 	* Eithne<a id='p_eithne'></a> - ; driada
-		Włada puszczą i Driadami
+		Włada lasem Brokilon i Driadami
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
 		* ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
