@@ -50,8 +50,11 @@
 * [Brokilon](#l_brokilon)
 	* Druid Finarrin<a id='p_druid_finarrin'></a> - ; druid
 		Uczył [Ilanę](#ilana)
-	* Eithne<a id='p_eithne'></a> - ; driada
-		Włada lasem Brokilon i Driadami
+	* Eithne<a id='p_eithne'></a> - driada; driada
+		Do dwuksiężycowej nocy władała lasem Brokilon i Driadami; w śpiączce
+	* Tytania<a id='p_tytania'> - elf; 
+		Włada lasem Brokilon i Driadami w czasie niemocy [Eithne](#p_eithne)
+
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
 		* ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
@@ -152,4 +155,4 @@
 * [Wyspy Skellige](#l_wyspy_skellige)
 	* Cerys an Craite<a id='p_cerys'></a> - ; obecna jarl wysp Skellige, córka Crach an Craite'a; pierwsza kobieta na tronie Wysp
 	* Druid Artis<a id='p_druid_artis'></a> - ; druid przewodzący Vildkaarlom
-	* Lugos Drummond<a id='p_lugos'> - ; zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>; ma na pieńku z klanem an Craite, wraz z rodziną zostaje zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni Wysp, [Cerys an Craite](#p_cerys)
+	* ✝ Lugos Drummond<a id='p_lugos'> - ; zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>; ma na pieńku z klanem an Craite, wraz z rodziną zostaje zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni Wysp, [Cerys an Craite](#p_cerys)
