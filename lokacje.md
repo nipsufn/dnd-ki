@@ -89,7 +89,7 @@
 		* jedna z osad na Wyspach
 		* siedziba Vildcaarlów
 * Verden<a id='l_verden'></a>
-	- nad Jarugą; od zachodu graniczy z [Cidaris](#l_cidaris), od północy z [Brokilonem](#l_brokilon), od wschodu z [Brugge](#l_brugge) na wysokości Wstążki
+	- nad Jarugą; od zachodu graniczy z [Cidaris](#l_cidaris), od północy z [Brokilonem](#l_brokilon), od wschodu z [Brugge](#l_brugge) na wysokości Wstążki (miasto [Dillingen](#l_dillingen))
 	- toczyły się tu liczne bitwy z [Nilfgaardem](#l_nilfgaard), kraj jest rozbity i nie stawia oporu rozrastającemu się [Brokilonowi](#l_brokilon)
 	* Bodrog<a id='l_bodrog'></a>
 	* Rozrog<a id='l_rozrog'></a>

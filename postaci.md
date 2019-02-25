@@ -2,8 +2,8 @@
 * PC - Ilana<a id='p_ilana'></a> - człowiek, druidka, krzepka, gęste włosy, potrafi zamieniać się w zwierzęta
 * PC - Kajetan ab Extremis (z Krańca)<a id='p_kajetan'></a> - elf, mag, wysoki, delikatny, w miarę elegancko odziany
 * PC - Kasimir<a id='p_kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
-* Giananelli<a id='p_gianfanelli'></a> - ?;
-	właściciel banków;
+* Cianfanelli<a id='p_cianfanelli'></a> - ?;
+	krasnolud, właściciel banków;
 * ✝ Vilgeforz<a id='p_vilgeforz'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
 	- miał immunitet od [Dwimerytu](#r_dwimeryt)
 	- jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
@@ -28,7 +28,7 @@
 * Arcydruid Ivryn<a id='p_arcydruid_ivryn'></a> - ?, druid
 	- skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
 * Wędrowna Banda Skovika<a id='p_wedrowna_banda_skovika'></a>
-	* Skovik<a id='p_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige
+	* Skovik Drummond<a id='p_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
 		[Ivar](#p_ivar): brat
 		[Leiv](#p_leiv): brat
 	* Ivar<a id='p_ivar'></a> - człowiek, krótkie włosy, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige
@@ -150,5 +150,6 @@
 	* ✝ Król Foltest<a id='p_krol_foltest'></a> - ; król [Temerii](#l_temeria)
 	* [Lord Dijsktra](#p_dijsktra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
 * [Wyspy Skellige](#l_wyspy_skellige)
-	* Jarl Cerys<a id='p_cerys'></a> - ; jarl
-	* Druid Artis<a id='p_druid_artis'></a> - ; druid
+	* Cerys an Craite<a id='p_cerys'></a> - ; obecna jarl wysp Skellige, córka Crach an Craite'a; pierwsza kobieta na tronie Wysp
+	* Druid Artis<a id='p_druid_artis'></a> - ; druid przewodzący Vildkaarlom
+	* Lugos Drummond<a id='p_lugos'> - ; zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>; ma na pieńku z klanem an Craite, wraz z rodziną zostaje zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni Wysp, [Cerys](#p_cerys) an Craite
