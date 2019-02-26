@@ -1,5 +1,6 @@
 ### Sesja 17
 1. [Dillingen](#l_dillingen)
+	* W dordze do pokoju [Ilana](#p_ilana) podchwytuje rozmowę kilku marynarzy w korytarzu. Mówią, że od ostatniego odpływu w [Bremervoord](#l_bremervoord) morze wypluło dziwne rzeczy na brzeg, a kilka statkó zatonęło.
 	* Wieczorem, po wejściu do pokoju, [Ilana](#p_ilana) organizuje się: odlicza pieniądze na mapę i flaszkę bimbru z mandragory. Resztę złota i swoje graty zostawia w pokoju, a sama wychodzi.
 	* Na dole w głównej sali [Perełki](#l_perelka) z całej drużyny został tylko [Skovik](#p_skovik), bo zarówno [Kajetan](#p_kajetan) jak i [Ivar](#p_ivar) udali się na spoczynek w żeńskim towarzystwie. Siedzi osowiały i maże coś palcem w rozlanym na stole piwie. Jest dyskretnie obserwowany przez kilku innych gości tawerny.
 	* [Ilana](#p_ilana) wypytuje bajzelmame o [zielarza z Dillingen](#p_zielarz) (tego od bimbru z mandragory) i dowiaduje się, że facet wyprowadził się już jakiś czas temu z miasta wraz ze swoją kobietą. Ma jednak na stanie jedną butelkę tegoż bimbru, którą [Ilana](#p_ilana) ochoczo kupuje. Pyta też, gdzie może kupić mapę [Dillingen](#l_dillingen) i okolic. Otrzymawszy jako-takie wskazówki, zagaja [Skowika](#p_skovik) i zabiera go do swojego pokoju widząc, że grupka bywalców darzy go nadmiernym zainteresowaniem (najprawdopodobniej rozpoznali go już z listu gończego).
