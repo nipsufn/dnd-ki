@@ -56,7 +56,7 @@
 		Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](r_aen_eldrin)
 	* Verenestra "Księżna Dębu"<a id='p_verenestra'>
 		Jedna z 4 [Aen Eldrin](r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
-	* Avril "Pan Lodowego Ogrodu"<a id='p_avril'>
+	* Auril "Pan Lodowego Ogrodu"<a id='p_auril'>
 		* Jeden z 4 [Aen Eldrin](r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
 		* Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
 * [Brugge](#l_brugge)
