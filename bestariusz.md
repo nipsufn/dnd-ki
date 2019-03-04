@@ -17,7 +17,7 @@
 	* Centaur, ale zrobiony z sowy i niedźwiedzia, cały w piórach
 	* Rozumie ogólne znaczenie Starszej Mowy
 	* jest jeszcze młody, szuka swojej rodziny
-* Gigantyczna stonoga<a id='b_stonoga'></a>
+* Skolopendr<a id='b_stonoga'></a>
 	* reaguje na ruch
 	* atakuje jadem paraliżującym
 * Pnącze Bluszczopodobne<a id='b_bluscz'></a>

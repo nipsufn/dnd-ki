@@ -1,29 +1,54 @@
 ### Sesja 18
 1. [Brokilon](#l_brokilon)
-	* Driady pozwalają nam przejść brzegiem rzeki do Wioski. [Ilana](#p_ilana) upiera się jednak, że pójdziemy brzegiem lasu z racji na patrole wojska stale krążące przy rzece. Driady godzą się finalnie na taką opcję, oferują się też poprowadzić nas na obóz żeby bezpiecznie przenocować do rana. 
+	* Driady pozwalają nam przejść brzegiem rzeki do Wioski. [Ilana](#p_ilana) upiera się jednak, że pójdziemy brzegiem lasu z racji na patrole wojska stale krążące przy Wstążce. Driady godzą się finalnie na taką opcję, oferują się też poprowadzić nas na obóz żeby bezpiecznie przenocować do rana. 
 	* W drodze [Kajetan](#p_kajetan) i [Ilana](#p_ilana) próbują wypytać driady o nieco więcej szczegółów na temat dziwnych elfów-przybyszów i ogólnej sytuacji w Brokilonie. Dowiadują się, że:
-		* [Finarrin](#p_finarrin), jako wysłannik starszyzny przybył do Eithne po radę
-		* dziwne elfy pochodzą z Aen Eldrin, przybyła ich w sumie czwórka
-		* Protektor został przebudzony przez jednego z tych elfów
+		* [Finarrin](#p_druid_finarrin), jako wysłannik starszyzny przybył do [Eithne](#p_eithne) po radę
+		* dziwne elfy pochodzą z [Aen Eldrin](#r_aen_eldrin), przybyła ich w sumie czwórka
+		* [Protektor](#b_bizoktor) został przebudzony przez jednego z tych elfów
+		* Driady nazywają [Kajetan](#p_kajetan), czy też może wszystkie elfy mieszkające na kontynencie, udawanymi. Bohater z trudem połyka dumę by uniknąć konfrontacji
 	* Rozbijamy obóz nieco bardziej na północ od Wioski, w opuszczonej altance, w której [Kajetan](#p_kajetan) dostrzega elfią architekturę. Im głębiej w las tym lepiej widać zupełnie inną pogodę - drzewa w większości nie mają już liści, ziemia jest nimi grubo wysłana, ale jest dość ciepło.
-	* [Ilana](#p_ilana) prosi jedną z driad, żeby przekazała [Finarrinowi](#p_finarrin) jej wiadomość kiedy będzie wracać do [Col Serrai](#l_col_serrai). Ta wysyła ją poprzez kruka. Mówi też, że jeśli elfy im pomogą, nie będą musiały już wracać na front.
-	* W nocy wokół obozowiska krążą zwierzęta (głównie kruki). Czujemy się non-stop obserwowani, a w nocy [Kajetan](#p_kajetan) dostrzega cztery ogromne wilki otaczające wzgórze, na którym stoi altanka. Na szczęście zdają się tylko patrolować okolicę, bo nie podchodzą do obozu.
-	* Rankiem budzimy się sami, driad nie ma już w pobliżu. Wszyscy są wypoczęci i wyspani, jedynie [Ivar](#p_ivar) zdaje się nie do końca pamiętać wydarzenia dnia wczorajszego. Bez zbędnego mitrężenia ruszamy w drogę do Wioski. Widząc przy wzgórzu ślady łap, decydujemy się iść ich tropem.
+	* [Ilana](#p_ilana) prosi jedną z driad, żeby przekazała [Finarrinowi](#p_druid_finarrin) jej wiadomość kiedy będzie wracać do [Col Serrai](#l_col_serrai). Ta wysyła ją poprzez kruka. Mówi też, że jeśli elfy im pomogą, nie będą musiały już wracać na front.
+	* W nocy wokół obozowiska krążą zwierzęta (głównie kruki). Czujemy się bez przerwy obserwowani, a w nocy [Kajetan](#p_kajetan) dostrzega cztery ogromne wilki otaczające wzgórze, na którym stoi altanka. Na szczęście zdają się tylko patrolować okolicę, bo nie podchodzą do obozu.
+	* Rankiem budzimy się sami, driad nie ma już w pobliżu. Wszyscy są wypoczęci i wyspani, jedynie [Ivar](#p_ivar) zdaje się nie do końca pamiętać wydarzenia dnia wczorajszego. Bez zbędnego mitrężenia ruszamy w drogę do [Wioski](#l_wioska). Widząc przy wzgórzu ślady łap, decydujemy się iść ich tropem.
 	* Po drodze natykamy się na dwa dziwne miejsca:
 		* pierwszym jest dół w ziemi, w którym piętrzą się ciała Nilfgaardzkich żołnierzy. Ich zbroje są pokryte podobną rdzą, jak broń, którą [Kajetna](#p_kajetan) z [Ivarem](#p_ivar) kupili od krasnoludów w [Carreras](#l_carreras)
 		* drugie miejsce do odsłonięta polana, na której stoi kamienny obelisk. Przy bliższej inspekcji [Ilana](#p_ilana) rozpoznaje, że to totem poświęcony Protektorowi. Na jego szczycie znajduje się spora czaszka z łosimi łopatami i trzema oczodołami, a w miejscu stołu ofiarnego widać odciśkany przez kolejne pokolenia krwawy ślad dłoni. Runy wyryte w kamieniu symbolizują słowo **pakt**
 	* Kiedy [Ilana](#p_ilana) odwraca się z zamiarem odejścia, wielki kruk ląduje na menhirze i łopocząc skrzydłami mówi jej *To nie twój czas na powiernictwo przysięgi*. Całe zajście obserwują z lasu 4 olbrzymie wilki - dwa z nich otaczają resztę grupy czekającą na skraju linii drzew, a dwa śledzą ruchy [Ilany](#p_ilana).
-	* Wilki, zapytane przez [Ilanę](#p_ilana) o znaczenie słów kruka mówią, że pakt odnowił druid (nie elf z Aen Eldrin? czy tym druidem był Finarrin?), a jej czas przyjdzie, kiedy tamten wypełni swoje zadanie. Następnie wilki oddalają się w las.
-	* Musząc zatrzymać się na noc, szukamy bezpiecznego miejsca. [Ilana](#p_ilana) znajduje dwie potencjalne miejscówki:
-		* lekko podmokłą wyrwę w ziemi, przy której leży przewrócone drzewo. Na drzewie widać ślady szponów identycznych, jak na wojskowych wozach w [Brugge](#l_brugge), a ziemię znaczą ślady kopyt najprawdopodobniej należących do [Bizoktora](#b_bizoktor) (sic). Oba ślady wiodą z północy na południe
+	* Wilki zdają się rozumieć Starszą Mowę, niemniej jednak uspakajające przemowy [Kajetna](#p_kajetan) 
+	* Wilki zapytane przez [Ilanę](#p_ilana) o znaczenie słów kruka mówią, że pakt odnowił druid (nie elf z [Aen Eldrin](#r_aen_eldrin)? czy tym druidem był [Finarrin](#p_druid_finarrin)?), a jej czas przyjdzie, kiedy tamten wypełni swoje zadanie. Następnie bestie oddalają się w las.
+	* Musząc zatrzymać się na noc, szukamy bezpiecznego miejsca. [Ilana](#p_ilana) znajduje dwa potencjalne miejsca:
+		* lekko podmokłą wyrwę w ziemi, przy której leży przewrócone drzewo. Na drzewie widać ślady szponów identycznych, jak na wojskowych wozach w [Brugge](#l_m_brugge), a ziemię znaczą ślady kopyt najprawdopodobniej należących do [Bizoktora](#b_bizoktor) (sic). Oba ślady wiodą z północy na południe
 		* niewielki prześwit wśród drzew przypominający miejsce po powalonym drzewie.
-	* Ostatecznie [Ilana](#p_ilana) namawia grupę na pierwszą miejscówkę. W nocy w ich rzeczach myszkują dziwne robaki - fioletowo niebieskawe czerwie. Podczas swojej warty [Ilana](#p_ilana) zauważa dziurę w swoim plecaku i braki w zapasach jedzenia. Zabiera plecak ze sobą na drzewo i stamtąd przygląda się poczwarom, kiedy do obozu podchodzą [kikimory](#b_kikimora). Na szczęście są to tylko robotnice, które obszukują biwak nie krzywdząc nikogo z drużyny, a następnie odchodzą, zabierając ze sobą też czerwie.
+	* Ostatecznie [Ilana](#p_ilana) namawia grupę na nocowanie w dole po korzeniach wywróconego drzewa. W nocy w ich rzeczach myszkują dziwne robaki - fioletowo niebieskawe czerwie. Podczas swojej warty [Ilana](#p_ilana) zauważa dziurę w swoim plecaku i braki w zapasach jedzenia. Zabiera plecak ze sobą na drzewo i stamtąd przygląda się poczwarkom, kiedy do obozu podchodzą [kikimory](#b_kikimora). Na szczęście są to tylko robotnice, które obszukują biwak nie krzywdząc nikogo z drużyny, a następnie odchodzą, zabierając ze sobą też czerwie.
 	* [Kikimory](#b_kikimora) oddalają się w stronę polanki, którą rozważaliśmy jako drugą opcję noclegu, po czym znikają w tunelu pod ziemią.
-2. Wioska druidów
 	* Nad ranem [Kajetan](#p_kajetan) wydaje się być najbardziej zmiesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używajac magii) z drzewa na drzewo aż mu zabraknie sił. Tak się gorączkuje, że nie zwraca uwagi na drganie podłoża.
-	* [Ilana](#p_ilana) komenderuje natychmiastową ewakuację na drzewa, ale [Kajetan](#p_kajetan) obrażony na Brokilon i na cały świat, odmawia, przez co pada ofiarą ogromnych [skolopendrów](#b_stonoga), które spotkali już kiedyś w [Ellander](#l_ellander) w drodze do świątyni. Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
-	* O zmierzchu docieramy do Wioski, która jest dziwnie opustoszała. Przy ognisku dostrzegamy 4 osoby - trzy w tradycyjnym, codziennym odzieniu druidów i jedną inną, o długich włosach, odzianą w cynobrowo-rudą szatę. Ta okazuje się być elfką o imieniu [Verenestra](#p_verenestra), jedną z Aen Eldrin. Wśród pozostałych osób [Ilana](#p_ilana) rozpoznaje swoją przyjaciółkę, [Mirnę](#p_mirna), siedzącą w towarzystwie dwóch młodszych druidów. 
-	*[Mirna](#p_mirna) opowiada, że ich trójka to jedyni druidzi w Wiosce. Podczas święta Równonocy nastąpił wybóch dzikiej magii i cała starszyzna zmieniła się nieodwracalnie w dzikie zwierzęta. Jedynym ocalałym jest [Finarrin](#p_finarrin). Reszta młodzieży ruszyła do [Verden](#l_verden) nieść pomoc ludziom, których dotknęła zaraza. Żaden z nich jak dotąd nie wrócił. Zaraz po tym wypadku, [Finarrin](#p_finarrin) wyruszył do Cae Dhu, szukać pomocy u Eithne, zostawiając po sobie bałagan w księgach i zwojach - wszystkie traktowały o koniunkcji sfer.
+	* [Ilana](#p_ilana) komenderuje natychmiastową ewakuację na drzewa, ale [Kajetan](#p_kajetan) obrażony na [Brokilon](#l_brokilion) i na cały świat, odmawia, przez co pada ofiarą ogromnych [skolopendrów](#b_stonoga), które spotkali już kiedyś w [Ellander](#l_ellander) w drodze do świątyni. Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
+2. Wioska druidów
+	* O zmierzchu docieramy do [Wioski](#l_wioski), która jest dziwnie opustoszała. Przy ognisku dostrzegamy 4 osoby - trzy w tradycyjnym, codziennym odzieniu druidów i jedną inną, elfkę o długich włosach, odzianą w cynobrowo-rudą szatę. Wśród pozostałych osób [Ilana](#p_ilana) rozpoznaje swoją przyjaciółkę, [Mirnę](#p_mirna), siedzącą w towarzystwie dwóch młodszych druidów.
+	* Dziwna elfka zachowuje się jakby jej obecność nie była niczym dziwnym, posługuje się magią telepatyczną mówiąc, rzuca uspakajający/oczarowywujący urok, nie przedstawia się - [Kajetan](#p_kajetan) rówine butnie jak jej zachowanie zwraca uwagę na brak manier
+	* Elfka, niezbyt skonsternowana przedstawia się jako [Verenestra, "Księżna Dębu"](#p_verenestra), jedna z [Aen Eldrin](r_aen_eldrin) "zaproszonych" do [Brokilonu](#l_brokilon)
+	* [Mirna](#p_mirna) opowiada, że ich trójka to jedyni druidzi w Wiosce. Podczas święta Równonocy:
+		* Druidzi zaczęli odprawiać przygotowany uprzednio rytuał zakorzeniony w magii Poznania[<sup>1</sup>](#ad1)
+		* nastąpił wybuch dzikiej magii i większość starszyzny (wszyscy poza jednym) zmieniła się nieodwracalnie w dzikie zwierzęta
+		* [Finarrin](#p_druid_finarrin) ocalał.
+		* Druidzka młodzież ruszyła do [Verden](#l_verden) nieść pomoc ludziom, których dotknęła zaraza. Żaden z nich jak dotąd nie wrócił.
+		* Zaraz po tym wypadku, [Finarrin](#p_druid_finarrin) wyruszył do [Duen Canel](#l_duen_canel), szukać pomocy u [Eithne](#p_eithne), zostawiając po sobie bałagan w księgach i zwojach - wszystkie traktowały o koniunkcji sfer.
 	* [Mirna](#p_mirna) powadzi nas na nocleg do wolnych chat.
-3. Down time w wiosce
-	* *To be continued* 
+3. Kilka dni odpoczynku w wiosce
+	* [Ilana](#p_ilana):
+		* przeszukuje zwoje w chatkach po starszyźnie
+		* wypytuje [Mirnę](#p_mirna) o szczegóły zajścia podczas rytuału
+		* rozmawia z [Verenestrą](#p_verenestra) - chce odwiedzić [Finarrina](#p_druid_finarrin) w [Col Serrai](#l_col_serrai)
+	* [Kajetan](#p_kajetan):
+		* przeszukuje zwoje w chatce [Finarrina](#p_druid_finarrin),
+		* pomaga druidom w wiosce (tak długo jak nie musi zadawać się ze zwierzętami)
+		* wieczorami przepisuje czary do swojej księgi
+		* dowiaduje się że [Finarrin](#p_druid_finarrin) zna [Zielarza z Dillingen](#p_zielarz)
+		* [Mirna](#p_mirna) pomoże mu wyprodukować eliksiry leczące, łagodniejsze niż "Jaskółka" [Vigga](#p_viggo_regner), jeśli poszuka z nią ziół
+		* Uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku że [Verenestra](#p_verenestra) jest rzeczywiście gościem i nie zna powszsechnie stosowanych obyczajów, postaniawia ją przeprosić i z nią porozmawiać:
+			* elfka nie widziała afrontu w fakcie zwrócenia uwagi
+			* wywiązuje się pseudofilozoficzna debata, zdaje się że [Aen Eldrin](#r_aen_eldrin) albo nie odczuwają czasu albo niesamowicie długowieczni. Tak czy inaczej zdaje się że kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
+			* czterej [Aen Eldrin](#r_aen_eldrin) dostali się do [Brokilonu](#l_brokilon) przez portal otwarty przez [Eithne](#p_eithne), która to zapadła w śpiączke próbując powiększyć portal aby umożliwić przejście większej ilości "gości"
+			[Aen Eldrin](#r_aen_eldrin) społecznie dzielą się na cztery frakcje, Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role". [Kajetanowi](#p_kajetan) wydaje się że jest to spowodowane ich długowiecznością i znudzeniem "odgrywania tej samej roli", bycia tą samą osobą. Ich byt zdaje się być teatrem który zatracił znaczenie metaforyczne i staje się faktem (czy istnieje jakaś sztuka którą odgrywają? czy ta sztuka "sama się pisze" w miare jak istnieją?)
+			* elfka przychodzi do wioski aby pomagać leczyć ludzi z [Verden](#l_verden) którzy dotarli do [Wioski](#l_wioska). [Kajetanowi](#p_kajetan), zachęcony jej rozmownością i chęcią pomocy, decyduje się zapytać o wyleczenie z jego przypadłości. [Verenestra](#p_verenestra) stwierdza że to wykracza poza jej możliwości, ale [Avril](#p_avril), przebywający w [Col Serrai](#l_col_serrai), może być skłonny pomóc w zamian za samo doświadczenie leczenia dolegliwości na którą jeszcze się nie natknął (czyli za bycie królikiem doświadczalnym mówiąc dosadnie). Sama prosi o rozwiązanie problemu zarazy w [Verden](#l_verden), jej zdaniem definitywnie nienaturalnego pochodzenia.
+<div align="right"><i><a id='ad1'></a><sup>1</sup>Przyp. tłumacza: z Starszej Mowy _Divination_</i></div>

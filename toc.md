@@ -26,3 +26,4 @@
 	* [Sesja 15](#sesja-15)
 	* [Sesja 16](#sesja-16)
 	* [Sesja 17](#sesja-17)
+	* [Sesja 18](#sesja-18)

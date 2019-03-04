@@ -51,10 +51,14 @@
 	* Druid Finarrin<a id='p_druid_finarrin'></a> - ; druid
 		Uczył [Ilanę](#ilana)
 	* Eithne<a id='p_eithne'></a> - driada; driada
-		Do dwuksiężycowej nocy władała lasem Brokilon i Driadami; w śpiączce
-	* Tytania<a id='p_tytania'> - elf; 
-		Włada lasem Brokilon i Driadami w czasie niemocy [Eithne](#p_eithne)
-
+		Do dwuksiężycowej nocy władała lasem [Brokilon](#l_brokilon) i Driadami; w śpiączce
+	* Tytania "Królowa Słońca"<a id='p_tytania'> - elf; 
+		Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](r_aen_eldrin)
+	* Verenestra "Księżna Dębu"<a id='p_verenestra'>
+		Jedna z 4 [Aen Eldrin](r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
+	* Avril "Pan Lodowego Ogrodu"<a id='p_avril'>
+		* Jeden z 4 [Aen Eldrin](r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
+		* Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
 		* ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)

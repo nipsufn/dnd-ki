@@ -10,6 +10,8 @@
 		* osada/miasto/stolica Driad
 	* Col Serrai<a id='l_col_serrai'></a>
 		* naturalne źródła; miejsce leczenia
+	* Wioska<a id='l_wioska'></a>
+		* Wioska Druidów, nie ma nazwy
 * Brugge<a id='l_brugge'></a>
 	- Granicę wyznaczają od wschodu rzeki Hotla i Ina, od południa Jaruga, od zachodu Wstążka, od północy las [Brokilon](#l_brokilon)
 	- Jako lenno [Nilfgaardu](#l_nilfgaard) nie toleruje rasizmu wśród poddanych

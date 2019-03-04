@@ -3,3 +3,8 @@
 - Dwimeryt<a id="r_dwimeryt"></a> - metal wydobywany pod [górą Carbon](#l_gora_carbon) w [Mahakamie](#l_mahakam), uniemożliwia magom kożystanie z Mocy
 - Goecja<a id="r_goecja"></a> - szkoła magi skupiająca się na kontrolowaniu dusz i sił życiowych
 - Lwiogłowy Pająk (Coram Agh Terra)<a id="r_lwioglowy_pajak"></a> - bóg, zły. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów [Foltesta](#p_krol_foltest) na terenach [Temerii](#l_temeria). Po śmierci [Foltesta](#p_krol_foltest) wiernych przybywa
+- Aen Eldrin<a id='r_aen_eldrin'></a>
+    - podgatunek elfów
+	- "Lud Lasu", cztery elfy "pomagające" [Brokilonowi](#l_brokilon) i [Eithne](#p_eithne) zaliczają się do nich
+	- prawdopodobie pochodzą z innej płaszczyzny magicznej
+    - społecznie dzielą się na cztery frakcje, Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role" od których zależy ich zachowanie i umiejętności
