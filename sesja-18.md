@@ -24,7 +24,7 @@
 	* Nad ranem [Kajetan](#p_kajetan) wydaje się być najbardziej zmiesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używajac magii) z drzewa na drzewo aż mu zabraknie sił. W swoim stuporze i rozsierdzeniu nie zwraca uwagi na nagłe drżenie podłoża.
 	* [Ilana](#p_ilana) komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony [Kajetan](#p_kajetan) obrażony na [Brokilon](#l_brokilion) i na cały świat, odmawia, przez co pada ofiarą ogromnych [skolopendrów](#b_stonoga), które spotkali już kiedyś w [Ellander](#l_ellander) w drodze do świątyni. Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
 2. Wioska druidów
-	* O zmierzchu docieramy do [Wioski](#l_wioski), która jest dziwnie opustoszała. W samej wiosce panuje pogoda późno letnia lub wczesno jesienna:
+	* O zmierzchu docieramy do [Wioski](#l_wioska), która jest dziwnie opustoszała. W samej wiosce panuje pogoda późno letnia lub wczesno jesienna:
 		* drzewa nadal mają liście
 		* temperatura jest jeszcze wyższa niż w samym Brokilonie 
 	* Przy ognisku dostrzegamy 4 osoby - trzy w charakterystycznym, codziennym odzieniu druidów i jedną obcą - elfkę o długich włosach, odzianą w cynobrowo-rudą szatę. Wśród pozostałych osób [Ilana](#p_ilana) rozpoznaje swoją przyjaciółkę, [Mirnę](#p_mirna), siedzącą w towarzystwie dwóch młodszych druidów.
@@ -36,7 +36,7 @@
 		* [Finarrin](#p_druid_finarrin) ocalał jako jedyny ze starszyzny.
 		* Druidzka młodzież ruszyła do [Verden](#l_verden) nieść pomoc ludziom, których dotknęła zaraza. Żaden z nich jak dotąd nie powrócił.
 		* Zaraz po tym wypadku, [Finarrin](#p_druid_finarrin) wyruszył do [Duen Canel](#l_duen_canel), szukać pomocy u [Eithne](#p_eithne), zostawiając po sobie bałagan w księgach i zwojach - wszystkie traktowały o koniunkcji sfer.
-	* [Mirna](#p_mirna) prowadzi nas na nocleg do wolnych chat. Jak się dowiadujemy, kilka z nich zajmują ludzie z Verdem, którzy przybyli tu po pomoc.
+	* [Mirna](#p_mirna) prowadzi nas na nocleg do wolnych chat. Jak się dowiadujemy, kilka z nich zajmują ludzie z [Verden](#l_verden), którzy przybyli tu po pomoc.
 3. Kilka dni odpoczynku w wiosce
 	* [Ilana](#p_ilana):
 		* razem z [Kajetanem](#p_kajetan)przeszukuje zwoje w chatkach po starszyźnie
