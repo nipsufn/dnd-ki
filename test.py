@@ -54,7 +54,6 @@ for n, x in enumerate(tags):
         + ", position: " + str(y[2])
         + ", file: " + y[3])
 
-#TODO: Compare tags and refs
 for n, x in enumerate(refs):
   for o, y in enumerate(tags):
     if x[0] == y[0]:
