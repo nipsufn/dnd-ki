@@ -7,7 +7,7 @@
 	* [Żona](#p_pani_regner) jest katatoniczna
 	* Był/jest magiem, [żona](#p_pani_regner) też
 	* Ma asystentkę gnomkę, [Lukrecję](#p_lukrecja_schattenwort)
-	* Strażnicy odprowadzają nas do "[Fioliki Zdrowia](#l_fiolka_zdrowia)
+	* Strażnicy odprowadzają nas do "[Fioliki Zdrowia](#l_fiolka_zdrowia)"
 	* [Brokilon](#l_brokilon) rośnie, drzewa chodzą, Driady mają się świetnie
 	* [Maribor](#l_maribor) zniknął
 	* Trakty są niebezpieczne
@@ -32,7 +32,7 @@
 	* Karczmy nie radzą sobie dobrze w nowej sytuacji
 5. "[Ziołowy Kufel](#l_ziolowy_kufelek)"
 	* Nie jest aż tak strasznie drogi
-	* Radzi sobie lepiej niż "[Różyczka](l_rozyczka)"
+	* Radzi sobie lepiej niż "[Różyczka](#l_rozyczka)"
 	* Problemy na drogach ubijają handel - mniej podróżnych i problem z zaopatrzeniem
 	* Glejty do miasta dla ludzi którzy nie handlują aby oszczędzać zasoby na przyjezdnych
 	* Parki przearanżowane w farmy

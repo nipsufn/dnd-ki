@@ -57,5 +57,5 @@
 	* [Lord Myrton](#p_lord_myrton) wyglądał jakby zamierzał nas wciągnąć w dalszą pracę dla miasta lub polityczne rozgrywki, jednak zrezygnował widząc jak świętowaliśmy ukończone zlecenie. [Kajetan](#p_kajetan) jest zadowolony, nie chce mieć nic wspólnego z [Myrtonem](#p_lord_myrton).
 6. "[Różyczka](#l_rozyczka)"
 	* Bracia [Skovika](#p_skovik) zostają odstawieni do łóżek.
-	* [Ilana](#p_ilana) i [Skovik](#p_skovik) przygotowują wyjazd z [Ellander](#l_ellander) od strony technicznej - zapasy i ekwipunek. Następnie udają się do banku [Gianfanellich](#p_gianfanelli) wycenić diamenty oraz do łaźni, by odświeżyć się przed podróżą i uprać ubrania na drogę.
+	* [Ilana](#p_ilana) i [Skovik](#p_skovik) przygotowują wyjazd z [Ellander](#l_ellander) od strony technicznej - zapasy i ekwipunek. Następnie udają się do banku [Cianfanellich](#p_cianfanelli) wycenić diamenty oraz do łaźni, by odświeżyć się przed podróżą i uprać ubrania na drogę.
 	* [Kajetan](#p_kajetan) w tym czasie idzie do łaźni, kuźni, a także za namową [Ilany](#p_ilana) odwiedza [krawcową](#p_eliza), nie wiedząc czego się spodziewać. Wraca z nową czapką.

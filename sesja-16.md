@@ -28,14 +28,14 @@
 		* Niedźwiedzie
 		* [Gigantyczne Stonogi](#b_stonoga)
 		* [Kikimory](#b_kikimora)
-		* [Krabopająki](#b_krabopajaki)
+		* [Krabopająki](#b_krabopajak)
 	* docieramy do jakiejś wsi na północ od miasta. Jest opustoszała i nosi ślady napaści jakichś zwierząt/potworów. Dookoła pachnie świerzo zrytą ziemią i widać duże ilości kretowisk
 	* decydujemy się nocować na pięrze jednego z bogatszych domów i barykadujemy drzwi.
 	* w nocy po wsi grasują [Kretołaki](#b_nekker), nad ranem zdają się zorientować gdzie się ukrywamy jako że [Kajetan](#p_kajetan) używał magii by ogrzać towarzyszy - jednak zanim dochodzi do walki, wracają pod ziemię gdy wschodzi słońce. [Ilana](#p_ilana) poznaje te stworzenia - są to [Nekkery](#b_nekker)
 	* wyruszamy w dalszą drogę. Słyszymy odgłosy walki - [Ilana](#p_ilana) decyduje się przyjrzeć z ukrycia a reszta drużyny omija pole walki szerokim łukiem. Na skraju lasu widzi wojaków taranowanych przez zwierzę, [które przypomina bizona, ale z jakby jelenimi rogami](#b_bizoktor). Zwierz jest spory i zdaje się zupełnie nie zważać na strzały, którymi go solidnie naszpikowano
 	* wieczorem, gdy szykujemy się do przeczekania kolejnej nocy, zaczepia nas patrol militarny:
 		* zalecają opuścić okolicę tak szybko jak to możliwe
-		* w [Verden](#l_verden), [Bodrog](#l_bodrog) i [Rozrog](#l_rozrog) upadły w czasie walk z [Nilfgaardem](#l_nilgaard), [Nastrog](#l_nastrog) ocalał, rządzony bezprawiem i organizacjami przestępczymi
+		* w [Verden](#l_verden), [Bodrog](#l_bodrog) i [Rozrog](#l_rozrog) upadły w czasie walk z [Nilfgaardem](#l_nilfgaard), [Nastrog](#l_nastrog) ocalał, rządzony bezprawiem i organizacjami przestępczymi
 3. [Dillingen](#l_dillingen)
 	* po dotarciu do miasta kierujemy się do miejscowego urzędu aby rospisać glejty. Rzucamy też okiem na miejska tablicę ogłoszeń, na której [Ilana](#p_ilana) zauważa list gończy z podobizną [Skovika](#p_skovik). Wyciąga nieświadomego [Kajetana](#p_kajetan) niemal siłą z urzędu i już na zewnątrz prosi o glejt. Mówi o liście gończym i topi dokument w kałuży, pozorując tym samym zniszczenie. Szczególnie stara się zatrzeć nazwiska obu braci
 	* [Kajetan](#p_kajetan) odłącza się od grupy i rozpytuje o statki:
@@ -43,7 +43,7 @@
 		* 1 - 2 dni do [Cinitry](#l_cinitra): 10 - 30GP zależnie jakie inne zlecenia znajdą na transport towaru
 	* [Ilana](#p_ilana) wraca do urzędu ze "zniszczonym" glejtem, prosząc o wystawienie nowych, tym razem już oddzielnych dokumentów dla każdego. I tak [Ivar](p_ivar) zostaje Civrilem Regner, a [Skovik](#p_skovik) - Jonasem Skaggs
 	* spotykamy się grupą w ["Perełce"](#l_perelka) - przybytku poleconym jako lokalną atrakcję przez jednego ze strażników na moście (który nawiasem okazuje się być portowym, dość eksluzywnym burdelem):
-		* [Skovik](#p_skovik) był głównym organizatorem puczu przeciw obecnej władczyni, [Wysp](#l_wyspy_skellige) osobiście targnął się na życie [Cerys](#l_cerys) i jej brata próbując pomścić zamordowanego ojca, dlatego nie tylko nie może tam wrócić ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny
+		* [Skovik](#p_skovik) był głównym organizatorem puczu przeciw obecnej władczyni, [Wysp](#l_wyspy_skellige) osobiście targnął się na życie [Cerys](#p_cerys) i jej brata próbując pomścić zamordowanego ojca, dlatego nie tylko nie może tam wrócić ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny
 		* w drużynie następuje brak zgody co do dalszych planów:
 			* [Ilana](#p_ilana) uważa że należy podróżować dalej na zachód lądem, przekroczyć Wstążkę i na wysokości [Bodrogu](#l_bodrog) wkroczyć do [Brokilonu](#l_brokilon) całą drużyną; wierzy, że Driady znają ją i ufają jej na tyle, by przepuścić ją wraz z nieznajomymi dalej do druidzkiego kręgu, w którym się wychowała
 			* [Kajetan](#p_kajetan) zaczyna myśleć że wejście do [Brokilonu](#l_brokilon) to samobójstwo, a już szczególnie od strony [Bodrogu](#l_bodrog). Uważa że należało by rzeką i morzem dopłynąć do Kerrak i wejść w las od tamtej strony, nadkładając znacząco drogi

@@ -1,4 +1,5 @@
 ## Lokacje
+* Aedirn<a id='l_aedirn'></a>
 * Brokilon<a id='l_brokilon'></a>
 	- las kawałek na południe od środkowego biegu Jarugi, od północy ograniczony pasmem górskim
 	- dom Driad i w mniejszym stopniu Druidów
@@ -45,15 +46,15 @@
 	* Ellander<a id='l_m_ellander'></a>
 		* Karczmy
 			* Kuropatwa<a id='l_kuropatwa'></a> - smacznie ale drogo
-			* Ziołowy kufelek<a id='l_ziolowy_kufelekziolowy'></a> - nieco wyższe ceny dla nieludzi
+			* Ziołowy kufelek<a id='l_ziolowy_kufelek'></a> - nieco wyższe ceny dla nieludzi
 			* Różyczka<a id='l_rozyczka'></a> - prowadzona przez i przychylna nieludziom
 			* Zielony kufelek<a id='l_zielony_kufelekzielony'></a> - bar w alejce; bez jedzenia i noclegu
 			* Speluna na Południu<a id='l_speluna'></a> - bar w alejce; podły; strach pić co podają
 		* Sklepy
 			* Fiolka Zdrowia<a id='l_fiolka_zdrowia'></a> - alchemik; Viggo [Regner](#p_viggo_regner)
 			* Krawcowa - ; [Eliza](#p_eliza)
-			* Bank [Gianfanelli](#p_gianfanelli) - ;
-			* Jubiler<a id='l_jubiler'></a> - ; R. [Ruprecht](#p_rodzina_ruprecht)
+			* Bank [Cianfanelli](#p_cianfanelli) - ;
+			* Jubiler<a id='l_jubiler'></a> - ; R. [Ruprecht](#p_ruprecht)
 			* Prawa Tarcza<a id='l_prawa_tarcza'></a>; handlarz bronią i pancerzem, ma spory ale w granicach rozsądku narzut (~33%);
 		* Lokacje
 	* Świątynia Melitele<a id='l_smelitele'></a>
@@ -69,11 +70,12 @@
 * Mahakam<a id='l_mahakam'></a>
 	* Góra Carbon<a id='l_gora_carbon'></a>
 * Nilfgaard<a id='l_nilfgaard'></a>
+* Poviss<a id='l_poviss'></a>
 * Redania<a id='l_redania'></a>
 	* Novigrad<a id='l_novigrad'></a>
 		* Stolica wyznawców wiecznego Ognia
 	* Oxenfurt<a id='l_oxenfurt'></a>
-		* Viggo [Regner](#p_viggo_vregner) - miejsce nauki
+		* Viggo [Regner](#p_viggo_regner) - miejsce nauki
 	* Rinbe<a id='l_rinbe'></a>
 		* Położone nad północym brzegiem Pontaru
 		* Lokacja jednego z laboratoriów [Vilgeforza](#p_vilgeforz)
@@ -86,6 +88,7 @@
 	* Dorian<a id='l_dorian'></a>
 	* Maribor<a id='l_maribor'></a>
 		* zniknął się po Dwójksiężycowej Nocy
+	* Majena<a id='l_majena'></a>
 * Wyspy Skellige<a id='l_wyspy_skellige'></a>
 	* Ard Skellig<a id='l_ard_skellig'></a>
 		* największa wyspa na Skellige

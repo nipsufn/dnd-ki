@@ -7,14 +7,14 @@
 	* [Ilana](#p_ilana) uprzedza i uspakaja [Elizę](#p_eliza) nt. towarzystwa w którym będziemy podróżować
 	* wypożyczamy wóz od Łowców Potworów
 3. Droga
-	* wyruszamy z miasta zabierając chorego strażnika, [Toma](p_tom), [Elizę](#p_eliza) i [Darię](p_daria)
+	* wyruszamy z miasta zabierając chorego strażnika, [Toma](#p_tom), [Elizę](#p_eliza) i [Darię](p_daria)
 	* po drodze widzimy rozbity wóz i ślady walki
 	* nocujemy w stosunkowo niewidocznym miejscu
 	* po Dwójksiężycowej Nocy konstelacje na niebie są te same, jednak poprzesuwane
 	* warta [Ilany](#p_ilana)
 		* obóz odwiedzają Scoia'tel, [Ilana](#p_ilana) rozmawia z [sowiołakiem](#b_sowiolak) - elfy są pod wrażeniem, decydują się nie atakować. Kapłanki Melitele mają jakiś problem i odcięły się od świata w świątyni
 		* lekkie uszkodzenie wozu naprawione
-		* [strażnik](p_tom) wyleczony magią
+		* [strażnik](#p_tom) wyleczony magią
 	* ucieczka przed gigantycznymi stonogami które zauważyły nas nad ranem
 4. [Świątynia](#l_smelitele)
 	* Komendant obozu Redańczyków pozwala nam odwiedzić Świątynię życząc szczęścia

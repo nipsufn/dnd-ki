@@ -17,4 +17,4 @@
 4. Powrót
 	* Jest inna pora roku niż kiedy weszliśmy do kanałów. Mury zostały prawie całkiem odbudowane.
 	* Zostajemy zatrzymani na bramie - zwykle potrzebny jest glejt. Prezentujemy trofeum - ogromną czaszkę - i powołujemy się na [Vigga](#p_viggo_regner)
-	* Strażnicy odprowadzają nas do "[Fioliki Zdrowia](#l_fiolka_zdrowia)
+	* Strażnicy odprowadzają nas do "[Fioliki Zdrowia](#l_fiolka_zdrowia)"

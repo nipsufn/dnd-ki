@@ -1,4 +1,3 @@
-<a id='spis_tresci'></a>
 ## Spis treści
 * [Postaci](#p_)
 * [Lokacje](#l_)

@@ -22,6 +22,7 @@
 	- miał okazję rozmawiać z pokojowo nastawionym wilołakiem w [Wyzimie](#l_wyzima)
 	- nielubiany w Aedirn (plotka głosi, że na zlecenie zabił króla Demawenda)
 * Lambert<a id='p_lambert'></a> - człowiek, wiedźmin
+* Eskel<a id='p_eskel'></a> - towarzyszy [Triss Merigold](#p_triss_merigold)
 * Myszowór<a id='p_myszowor'></a> - człowiek, druid
 	- potężny druid, poważany nawet przez magów
 	- przebywa na Skellige
@@ -46,19 +47,21 @@
 * [Aedirn](#l_aedirn)
 	* ✝ Król Demawend<a id='p_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
 	* Stennis<a id='p_stennis'></a> - ; książę
-		[Demawend](#aedirn_demawend): ojciec
+		[Demawend](#p_krol_demawend): ojciec
 * [Brokilon](#l_brokilon)
 	* Druid Finarrin<a id='p_druid_finarrin'></a> - ; druid
 		Uczył [Ilanę](#ilana)
 	* Eithne<a id='p_eithne'></a> - driada; driada
 		Do dwuksiężycowej nocy władała lasem [Brokilon](#l_brokilon) i Driadami; w śpiączce
-	* Tytania "Królowa Słońca"<a id='p_tytania'> - elf; 
-		Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](r_aen_eldrin)
-	* Verenestra "Księżna Dębu"<a id='p_verenestra'>
-		Jedna z 4 [Aen Eldrin](r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
-	* Auril "Pan Lodowego Ogrodu"<a id='p_auril'>
-		* Jeden z 4 [Aen Eldrin](r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
+	* Tytania "Królowa Słońca"<a id='p_tytania'></a> - elf; 
+		Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](#r_aen_eldrin)
+	* Verenestra "Księżna Dębu"<a id='p_verenestra'></a>
+		Jedna z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
+	* Avril "Pan Lodowego Ogrodu"<a id='p_avril'></a>
+		* Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
 		* Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
+	* Mirna<a id='p_mirna'></a> - człowiek; druid
+		* przyjaciółka [Ilany](#p_ilana)
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
 		* ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
@@ -79,14 +82,14 @@
 	* R. Harevard<a id='p_rodzina_harevard'></a> - ; n/a;
 		rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami
 	* Viggo Regner<a id='p_viggo_regner'></a> - ; alchemik/mag;
-		Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowifiolka)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
-		? [Regner](#p_viggo_vregner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
+		Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
+		? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
 	* [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort<a id='p_lukrecja_schattenwort'></a> - gnom; alchemik;
-		[Viggo Regner](#p_viggo_vregner): przełożony, nauczyciel;
+		[Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
 	* ? Regner<a id='p_pani_regner'></a> - ; mag;
 		w śpiączce wg [Lukrecja](#p_lukrecja_schattenwort) (?);
 		śpiączka spowodowana klątwą uruchomioną w czasie prac archeologicznych w [Ysgyth](#l_ysgyth)
-		[Viggo Regner](#p_viggo_vregner): mąż
+		[Viggo Regner](#p_viggo_regner): mąż
 	* Eliza<a id='p_eliza'></a> - ; krawcowa;
 		dziecko widziało zmarłego ojca (potwór żywiący się tęsknotą, ubity przez PC), dziecko przejawia predyspozycje do użycia Mocy, wyrusza z PC do Świątyni Melitele;
 		[Ethar](#p_ethar): mąż; [Daria](#p_daria): córka
@@ -96,35 +99,36 @@
 	* ✝ Ethar<a id='p_ethar'></a> - ; żołnież;
 		zmarł na wojnie;
 		[Eliza](#p_eliza): żona; [Daria](#p_daria): córka
-	* Otto Kranmer<a id='p_otto_okranmer'></a> - krasnolud; artysta;
+	* Otto Kranmer<a id='p_otto_kranmer'></a> - krasnolud; artysta;
 		rzeźbiarz;
-		[Hans Kranmer](#p_hans_hkranmer): brat
-	* Hans Kranmer<a id='p_hans_hkranmer'></a> - krasnolud; cieśla;
+		[Hans Kranmer](#p_hans_kranmer): brat
+	* Hans Kranmer<a id='p_hans_kranmer'></a> - krasnolud; cieśla;
 		cieśla;
 		[Jarna Kranmer](#p_jarna_kranmer): żona
 		[Otto Kranmer](#p_otto_kranmer): brat
 	* Jarna Kranmer<a id='p_jarna_kranmer'></a> - krasnolud; żona Hansa?;
 		[Hans Kranmer](#p_hans_kranmer): mąż
-	* R. Ruprecht<a id='p_rodzina_okranmer'></a>: brat
 	* R. Ruprecht<a id='p_ruprecht'></a> - gnom; jubiler;
 		interes rodzinny;
 	* Wojciech<a id='p_wojciech'></a> - ; majster drwali;
 		mieszka na podgrodziu;
-		Otto [Kranmer](#p_otto_okranmer): pracodawca; Hans [Kranmer](#p_otto_okranmer): pracodawca
+		Otto [Kranmer](#p_otto_kranmer): pracodawca; Hans [Kranmer](#p_otto_kranmer): pracodawca
 	* Maria<a id='p_maria'></a> - półelf; gospodarz;
 		prowadzi gospodę "[Różyczka](#l_rozyczka)" z mężem;
 		[Walerian](#p_walerian): mąż, partner
 	* Walerian<a id='p_walerian'></a> - półelf; gospodarz;
 		prowadzi gospodę "[Różyczka](#l_rozyczka)" z żoną;
 		[Maria](#p_maria): żona, partner
-	* Młody Kapłan<a id='p_mlody_mkaplan'></a> - ; kapłan;
+	* Młody Kapłan<a id='p_mlody_kaplan'></a> - ; kapłan;
 		kapłan Wiecznego Ognia, chce zastąpić głównego kapłana [Ellander](#l_m_ellander), kombinuje przeciwko nieludziom (podburzanie robotników, przedstawienie w "[Różyczce](#l_rozyczka)");
-		Kapłan [Matias](#_kaplan_matias): przełożony
+		Kapłan [Matias](#p_kaplan_matias): przełożony
 	* ✝ Kapłan Matias<a id='p_kaplan_matias'></a> - ; kapłan;
-		główny kapłan Wiecznego Ognia w [Ellander](l_ellander#), mocno starszy; umarł przed Solstitum zimowym pierwszego roku po Zetknięciu Sfer
+		główny kapłan Wiecznego Ognia w [Ellander](#l_ellander), mocno starszy; umarł przed Solstitum zimowym pierwszego roku po Zetknięciu Sfer
 		Młody Kapłan: podwładny
 	* Tom<a id='p_tom'></a> - ; strażnik;
 		ugryziony przez szczura, przewieziony do Świątyni Melitele przez PC;
+	* Kupiec Mandrej<a id='p_mandrej'></a> - ; ?;
+		zasiada w radzie miejskiej
 	* Lord Slyz Myrton<a id='p_lord_myrton'></a> - ; dowódca;
 		rządzi zakonem Łowców Czarownic/Potworów w [Ellander](#l_ellander), nie ma wody z mózgu, da się z nim dogadać;
 		Możlwe że po niedawnej śmierci Przywódcy [Menge](#p_menge) rządzi całym zakonem.
@@ -141,6 +145,8 @@
 	* Zielarka<a id='p_zielarka'></a> - ; wiedźma;
 		dziecko przybite do pobliskego Menhiru, uwięzione jako wykonawca klątwy rzuconej przez druidów
 		są podejrzenia, że była nią córka Carrerasów, Esme<a id='p_esme_carreras'></a>
+	* Trott<a id='p_trott'></a> - krasonlud ; ?;
+		* sprzedaje broń z ukrytymi wadami, zrobił na szaro [Skovika](#p_skovik) i [Ivara](#p_ivar)
 * [Kaedwen](#l_kaedwen)
 	* ✝? Król Henselt<a id='p_krol_henselt'></a>
 * [Nilfgaard](#l_nilfgaard)
@@ -159,4 +165,4 @@
 * [Wyspy Skellige](#l_wyspy_skellige)
 	* Cerys an Craite<a id='p_cerys'></a> - ; obecna jarl wysp Skellige, córka Crach an Craite'a; pierwsza kobieta na tronie Wysp
 	* Druid Artis<a id='p_druid_artis'></a> - ; druid przewodzący Vildkaarlom
-	* ✝ Lugos Drummond<a id='p_lugos'> - ; zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>; ma na pieńku z klanem an Craite, wraz z rodziną zostaje zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni Wysp, [Cerys an Craite](#p_cerys)
+	* ✝ Lugos Drummond<a id='p_lugos'></a> - ; zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>; ma na pieńku z klanem an Craite, wraz z rodziną zostaje zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni Wysp, [Cerys an Craite](#p_cerys)

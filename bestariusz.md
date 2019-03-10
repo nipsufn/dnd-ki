@@ -46,7 +46,7 @@
 	* zwykle porusza się we mgle
 	* bardzo unikają światła dziennego i latarni
 	* możliwe że ignorują żywych którzy w ogóle się nie ruszają
-* Berghest<a id='b_berghest'></a>
+* Barghest<a id='b_barghest'></a>
 	* nocny
 	* wielki pies-zombie
 	* w ciemności nie da się go dotknąć/zaatakować/spętać niemagicznymi przedmiotami
@@ -73,3 +73,7 @@
 * Bizoktor<a id='b_bizoktor'></a>
 	* Legendarny Brolkilonu protektor
 	* pół jeleń pół bizon, giczały ma szponiaste i poniekąd chwytne
+* Djinni<a id='b_djinni'></a>
+	* personifikacja siły natury, np ognia
+	* może zostać zmuszony do spełnienia życzenia
+	* też: anortach, żywiołak, dżinn
