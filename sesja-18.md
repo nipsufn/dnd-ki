@@ -35,7 +35,7 @@
 		* nastąpił wybuch dzikiej magii i większość starszyzny (wszyscy poza jednym) zmieniła się nieodwracalnie w dzikie zwierzęta
 		* [Finarrin](#p_druid_finarrin) ocalał jako jedyny ze starszyzny.
 		* Druidzka młodzież ruszyła do [Verden](#l_verden) nieść pomoc ludziom, których dotknęła zaraza. Żaden z nich jak dotąd nie powrócił.
-		* Zaraz po tym wypadku, [Finarrin](#p_druid_finarrin) wyruszył do [Duen Canel](#l_duen_canel), szukać pomocy u [Eithne](#p_eithne), zostawiając po sobie bałagan w księgach i zwojach - wszystkie traktowały o koniunkcji sfer.
+		* Zaraz po tym wypadku, [Finarrin](#p_druid_finarrin) wyruszył do [Col Serrai](#l_col_serrai), szukać pomocy u [Eithne](#p_eithne), zostawiając po sobie bałagan w księgach i zwojach - wszystkie traktowały o koniunkcji sfer.
 	* [Mirna](#p_mirna) prowadzi nas na nocleg do wolnych chat. Jak się dowiadujemy, kilka z nich zajmują ludzie z [Verden](#l_verden), którzy przybyli tu po pomoc.
 3. Kilka dni odpoczynku w wiosce
 	* [Ilana](#p_ilana):
