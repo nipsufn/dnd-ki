@@ -29,13 +29,13 @@
 * Arcydruid Ivryn<a id='p_arcydruid_ivryn'></a> - ?, druid
 	- skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
 * Wędrowna Banda Skovika<a id='p_wedrowna_banda_skovika'></a>
-	* Skovik Drummond<a id='p_skovik'></a> - człowiek, barbarzyńca (?), łysy z tatuażem niedźwiedzia na klatce, najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
+	* Skovik Drummond<a id='p_skovik'></a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
 		[Ivar](#p_ivar): brat
 		[Leiv](#p_leiv): brat
-	* Ivar<a id='p_ivar'></a> - człowiek, krótkie włosy, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige z klanu Drummond
+	* Ivar<a id='p_ivar'></a> - człowiek, lat około 20 paru, krótkie blond włosy lekko wypłowiałe od słońca, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige z klanu Drummond
 		[Skovik](#p_skovik): brat
 		[Leiv](#p_leiv): brat (bliźniak)
-	* Leiv<a id='p_leiv'></a> - człowiek, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige z klanu Drummond
+	* Leiv<a id='p_leiv'></a> - człowiek, lat około 20 paru, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige z klanu Drummond
 		[Skovik](#p_skovik): brat
 		[Ivar](#p_ivar): brat (bliźniak)
 	* Ebba<a id='p_ebba'></a> - człowiek, pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
@@ -62,6 +62,7 @@
 		* Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
 	* Mirna<a id='p_mirna'></a> - człowiek; druid
 		* przyjaciółka [Ilany](#p_ilana)
+	* Jupiter <a id='p_jupiter'> - driada pochodzenia ludzkiego, poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
 		* ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)

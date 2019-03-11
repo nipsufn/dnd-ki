@@ -22,7 +22,7 @@
 2. W drodze
 	* obchodzimy miasto od północy w promieniu kilku kilometrów jako że wyszliśmy południowo-wschodnią bramą a droga nam na pónocny zachód.
 	* widzimy jak [D'jinni](#b_djinni) podpala znaczącą część miasta, po czym jakaś latająca postać, zdaje się nam [Magister Florian z Vicovaro](#p_florian_z_vicovaro), pokonuje go i sprowadza nad miasto śnieżycę aby opanować pożar
-	* w biegu [Ilana](#p_ilana) zauważa, że coś frunie na niebie naszym śladem, mimo szalejącej śnieżycy. Kształt ten wygląda jak szara sowa ([Filippa Eilhart](#p_filippa_elihart)?), ale finalnie nas nie dogania, bo znajdujemy kryjówkę
+	* w biegu [Ilana](#p_ilana) zauważa, że coś frunie na niebie naszym śladem, mimo szalejącej śnieżycy. Kształt ten wygląda jak szara sowa ([Filippa Eilhart](#p_filippa_eilhart)?), ale finalnie nas nie dogania, bo znajdujemy kryjówkę
 	* po drodze rozmawiamy o istotach mieszkających w [Brokilonie](#l_brokilon):
 		* Wilki
 		* Niedźwiedzie

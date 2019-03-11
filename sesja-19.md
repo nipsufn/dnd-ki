@@ -10,8 +10,9 @@
 		* [Avril](#p_avril) jest nieco zaintrygowany przypadłością [Kajetana](#p_kajetan), ale driady nie są skłonne przyjąć elfa w gościnę w [Col Serrai](#l_col_serrai)
 		* tak właściwie to driady nie życzą sobie żadnych gości po za starszyzną druidów
 	* [Ivar](#p_ivar) pyta [Ilanę](#p_ilana) jak może pomóc w wiosce, wyraźnie nie mogąc sobie znaleźć miejsca. Wychodzi z propozycją naostrzenia narzędzi, które zalegają w składziku. [Ilana](#p_ilana) intuicyjnie odgaduje, że tak naprawdę chodzi mu o zaimponowanie [Mirnie](#p_mirna).
-	* Informujemy braci, że z wyprawy do [Col Serrai](#l_col_serrai) nici i zostajemy w wiosce czekając na [Finarrina](#p_druid_finarrin). [Skovik](#p_skovik), [Ivar](#p_ivar) i [Ilana](#p_ilana) wybierają się więc na ryby żeby uzupełnić nieco uszczuploną spiżarnię druida. W tym czasie [Kajetna](#p_kajetan) przepisuje swoje czary.
+	* Informujemy braci, że z wyprawy do [Col Serrai](#l_col_serrai) nici i zostajemy w wiosce czekając na [Finarrina](#p_druid_finarrin). [Skovik](#p_skovik), [Ivar](#p_ivar) i [Ilana](#p_ilana) wybierają się więc na ryby żeby uzupełnić nieco uszczuploną spiżarnię druida. W tym czasie [Kajetan](#p_kajetan) przepisuje swoje czary.
 	* Podczas połowu w rzece znajdujemy nie tylko ryby, ale też sporo grotów.
+	* [Ilana](#p_ilana), zamieniwszy się na czas połowu w niedźwiedzia, odczuwa problem z powrotem do swojej ludzkiej postaci.
 	* Złowionych ryb jest sporo. [Ilana](#p_ilana) razem z Drummondami są w trakcie czyszczenia ich do kolacji, kiedy do wioski przybywają trzy driady. Jedna z nich jest nieprzytomna, niesiona na noszach przez dwie pozostałe. Szukają [Verenestry](#p_verenestra). 
 	* [Ilana](#p_ilana) zaprasza je do jednej z opuszczonych chat. Mówi, że na [Aen Eldrin](#r_aen_eldrin) muszą poczekać do następnego dnia i stara się pomóc rannej, co wykracza jednak poza jej umiejętności. W boku driady tkwi spora drzazga, która wydaje się być uczepiona jej trzewii.
 	* Ze złowionych ryb zrobiona zostaje kolacja na modłę [Wysp Skellige](#l_wyspy_skellige), do której zapraszamy [Mirnę](#p_mirna). Oprócz reszty miodu odkorkowana zostaje nalewka z mandragory, rozpoczynają się opowieści z mchu i paproci. [Ivar](#p_ivar) i [Kajetan](#p_kajetan) starają się na wyprzódki zrobić wrażenie na przyjaciółce [Ilany](#p_ilana).
@@ -20,7 +21,7 @@
 	* Posiłek przerywa krzyk z pobliskiej chatki, z której brocząc krwią wybiega jedna z driad, widocznie przerażona. Za nią, w drzwiach chatki majaczy postać drugiej driady.
 	* Druga driada okazuje się być człowiekiem już tylko w części, a w części drzewem. Z jej drewnianych szponów stanowiących prawą rękę wytacza się głowa trzeciej driady.
 	* Wywiązuje się walka. Najwyraźniej choroba pochodząca z rany w ciągu kilku godzin zamieniła większość ciała driady w drewno i zawładnęła jej umysłem.
-	* W walce większość z nas odnosi rany, [Ilana](#p_ilana) traci przytomność. [Mirna](#p_mirna) nie jest w stanie jej uzdrowić dopóki [Kajetan](#p_kajetan) nie podaje jej antytoksyny użwyanej zwykle z Jaskółką.
+	* W walce większość z nas odnosi rany, [Ilana](#p_ilana) traci przytomność. [Mirna](#p_mirna) nie jest w stanie jej uzdrowić dopóki [Kajetan](#p_kajetan) nie podaje jej antytoksyny używanej zwykle z Jaskółką.
 	* Ocalała driada, po wyciągnięciu spod stołu, zostaje opatrzona. [Ilana](#p_ilana) zajmuje się nią, daje kubek nalewki, żeby ta się uspokoiła i przestała płakać. Dziewczyna ma ludzkie uszy i na oko mniej niż 17 lat, a na imię jej [Juniper](#p_juniper).
 	* [Ilana](#p_ilana) pyta [Juniper](#p_juniper) o szczegóły zranienia jej siostry: 
 		* podczas patrolu okolicznych ludzkich wiosek (najprawdopodobniej pod [Brugge](#l_brugge) - [Medowna](#l_medowna) i okolice) driady znalazły spore drzewo rosnące na polu. 
