@@ -23,8 +23,8 @@
 	* [Kikimory](#b_kikimora) oddalają się w stronę polanki, którą rozważaliśmy jako drugą opcję noclegu, po czym znikają w tunelu pod ziemią.
 	* Nad ranem [Kajetan](#p_kajetan) wydaje się być najbardziej zmiesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używajac magii) z drzewa na drzewo aż mu zabraknie sił. W swoim stuporze i rozsierdzeniu nie zwraca uwagi na nagłe drżenie podłoża.
 	* [Ilana](#p_ilana) komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony [Kajetan](#p_kajetan) obrażony na [Brokilon](#l_brokilon) i na cały świat, odmawia, przez co pada ofiarą ogromnych [skolopendrów](#b_stonoga), które spotkali już kiedyś w [Ellander](#l_ellander) w drodze do świątyni. Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
-2. Wioska druidów
-	* O zmierzchu docieramy do [Wioski](#l_wioska), która jest dziwnie opustoszała. W samej wiosce panuje pogoda późno letnia lub wczesno jesienna:
+2. [Wioska druidów](#l_wioska)
+	* O zmierzchu docieramy do [Wioski](#l_wioska), która jest dziwnie opustoszała. W samej wiosce panuje pogoda późno-letnia lub wczesno-jesienna:
 		* drzewa nadal mają liście
 		* temperatura jest jeszcze wyższa niż w samym Brokilonie 
 	* Przy ognisku dostrzegamy 4 osoby - trzy w charakterystycznym, codziennym odzieniu druidów i jedną obcą - elfkę o długich włosach, odzianą w cynobrowo-rudą szatę. Wśród pozostałych osób [Ilana](#p_ilana) rozpoznaje swoją przyjaciółkę, [Mirnę](#p_mirna), siedzącą w towarzystwie dwóch młodszych druidów.
@@ -32,14 +32,14 @@
 	* Elfka, niezbyt skonsternowana, przedstawia się jako [Verenestra, "Księżna Dębu"](#p_verenestra), jedna z [Aen Eldrin](r_aen_eldrin) "zaproszonych" do [Brokilonu](#l_brokilon)
 	* [Mirna](#p_mirna) opowiada, że ich trójka to jedyni druidzi w Wiosce. Podczas święta Równonocy:
 		* Druidzi zaczęli odprawiać przygotowany uprzednio rytuał zakorzeniony w magii Poznania[<sup>1</sup>](#ad1)
-		* nastąpił wybuch dzikiej magii i większość starszyzny (wszyscy poza jednym) zmieniła się nieodwracalnie w dzikie zwierzęta
-		* [Finarrin](#p_druid_finarrin) ocalał jako jedyny ze starszyzny.
-		* Druidzka młodzież ruszyła do [Verden](#l_verden) nieść pomoc ludziom, których dotknęła zaraza. Żaden z nich jak dotąd nie powrócił.
+		* nastąpił wybuch dzikiej magii i większość starszyzny zmieniła się nieodwracalnie w dzikie zwierzęta
+		* [Finarrin](#p_druid_finarrin) ocalał jako nieliczny ze starszyzny.
+		* Druidzka młodzież prowadzona przez kilku ocalałych członków starszyzny ruszyła do [Verden](#l_verden) nieść pomoc ludziom, których dotknęła zaraza. Nikt jak dotąd nie powrócił.
 		* Zaraz po tym wypadku, [Finarrin](#p_druid_finarrin) wyruszył do [Col Serrai](#l_col_serrai), szukać pomocy u [Eithne](#p_eithne), zostawiając po sobie bałagan w księgach i zwojach - wszystkie traktowały o koniunkcji sfer.
 	* [Mirna](#p_mirna) prowadzi nas na nocleg do wolnych chat. Jak się dowiadujemy, kilka z nich zajmują ludzie z [Verden](#l_verden), którzy przybyli tu po pomoc.
 3. Kilka dni odpoczynku w wiosce
 	* [Ilana](#p_ilana):
-		* razem z [Kajetanem](#p_kajetan)przeszukuje zwoje w chatkach po starszyźnie
+		* razem z [Kajetanem](#p_kajetan) przeszukuje zwoje w chatkach po starszyźnie. Szuka głównie czegoś, co traktowałoby o tajemniczym rytuale [Skovika](#p_skovik) albo czymś zbliżonym, w tematyce przemiany w zwierzęta
 		* wypytuje [Mirnę](#p_mirna) o szczegóły zajścia podczas rytuału
 		* rozmawia z [Verenestrą](#p_verenestra) - chce odwiedzić [Finarrina](#p_druid_finarrin) w [Col Serrai](#l_col_serrai) albo chociaż przekazać mu wiadomość
 	* [Kajetan](#p_kajetan):
@@ -53,5 +53,5 @@
 			* wywiązuje się pseudofilozoficzna debata, zdaje się że [Aen Eldrin](#r_aen_eldrin) albo nie odczuwają czasu albo są niesamowicie długowieczni. Tak czy inaczej zdaje się że kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
 			* czterej [Aen Eldrin](#r_aen_eldrin) dostali się do [Brokilonu](#l_brokilon) przez portal otwarty przez [Eithne](#p_eithne), która to zapadła w śpiączke próbując powiększyć portal aby umożliwić przejście większej ilości "gości"
 			* [Aen Eldrin](#r_aen_eldrin) społecznie dzielą się na cztery frakcje: Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role". [Kajetanowi](#p_kajetan) wydaje się że jest to spowodowane ich długowiecznością i znudzeniem "odgrywania tej samej roli", bycia tą samą osobą. Ich byt zdaje się być teatrem który zatracił znaczenie metaforyczne i staje się faktem (czy istnieje jakaś sztuka którą odgrywają? czy ta sztuka "sama się pisze" w miare jak istnieją?)
-			* elfka przychodzi do wioski aby pomagać leczyć ludzi z [Verden](#l_verden) którzy dotarli do [Wioski](#l_wioska). [Kajetan](#p_kajetan), zachęcony jej rozmownością i chęcią pomocy, decyduje się zapytać o wyleczenie z jego przypadłości. [Verenestra](#p_verenestra) stwierdza że to wykracza poza jej możliwości, ale [Avril](#p_avril), przebywający w [Col Serrai](#l_col_serrai), może być skłonny pomóc w zamian za samo doświadczenie leczenia dolegliwości na którą jeszcze się nie natknął (czyli za bycie królikiem doświadczalnym mówiąc dosadnie). Sama prosi o rozwiązanie problemu zarazy w [Verden](#l_verden), jej zdaniem definitywnie nienaturalnego pochodzenia.
+			* elfka przychodzi do wioski aby pomagać leczyć ludzi z [Verden](#l_verden) którzy dotarli do [Wioski](#l_wioska). [Kajetan](#p_kajetan), zachęcony jej rozmownością i chęcią pomocy, decyduje się zapytać o wyleczenie z jego przypadłości. [Verenestra](#p_verenestra) stwierdza że to wykracza poza jej możliwości, ale [Avril](#p_avril) (tytułujący się też jako Pan Lodowego Ogrodu), przebywający w [Col Serrai](#l_col_serrai), może być skłonny pomóc w zamian za samo doświadczenie leczenia dolegliwości na którą jeszcze się nie natknął (czyli za bycie królikiem doświadczalnym mówiąc dosadnie). Sama prosi o rozwiązanie problemu zarazy w [Verden](#l_verden), jej zdaniem definitywnie nienaturalnego pochodzenia.
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Przyp. tłumacza: z Starszej Mowy <b>Divination</b></i></div>

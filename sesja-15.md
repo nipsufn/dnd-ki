@@ -17,8 +17,8 @@
 		* siłacz podnoszący niesamowite cieżary intryguje węszącego szwindel [Kajetana](#p_kajetan). [Skovikowi](#p_skovik) dwa razy nie udaje się podnieść ciężarów
 		* [Ilana](#p_ilana) zauważa że siłacz regularnie popija jakiś napój z bukłaka - ma nieznany jej ziołowy aromat
 		* [Kajetan](#p_kajetan) proponuje siłaczowi łyk nalewki z mandragory za łyk jego napoju. Napotyka stosunkowo uprzejmą odmowę, dalej nie ma pewności że haczykiem jest nalewka
-		* [Ilana](#p_ilana) wybiera się do wróżki. Dowiaduje się, że zmierzając dalej na [Skellige](#l_wyspy_skellige), oddala się od [Filippy](#p_filippa_elihart) oraz że kobieta z jej snów najprawdopodobniej nadal żyje
-		* Rozsierdzony [Kajetan](#p_kajetan) również do niej zagląda. Zadaje pytania o siłacza potwierdzające jego podejrzenia. Otrzymuje też przepowiednię, że [Filippa Eilhart](#p_filippa_elihart) może nie być mu w stanie pomóc ale powinien ją spotkać
+		* [Ilana](#p_ilana) wybiera się do wróżki. Dowiaduje się, że zmierzając dalej na [Skellige](#l_wyspy_skellige), oddala się od [Filippy](#p_filippa_eilhart) oraz że kobieta z jej snów najprawdopodobniej nadal żyje
+		* Rozsierdzony [Kajetan](#p_kajetan) również do niej zagląda. Zadaje pytania o siłacza potwierdzające jego podejrzenia. Otrzymuje też przepowiednię, że [Filippa Eilhart](#p_filippa_eilhart) może nie być mu w stanie pomóc ale powinien ją spotkać
 	* o zachodzie wybieramy się do [Magistra Floriana z Vicovaro](#p_florian_z_vicovaro)
 		* mag bardzo nieelegancko zagląda pod iluzję [Kajetana](#p_kajetan) tłumacząc to względami bezpieczeństwa
 		* uważnie notuje nasze sprawozdanie

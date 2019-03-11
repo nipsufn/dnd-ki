@@ -7,7 +7,7 @@
 * ✝ Vilgeforz<a id='p_vilgeforz'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
 	- miał immunitet od [Dwimerytu](#r_dwimeryt)
 	- jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
-* Filippa Eilhart<a id='p_filippa_elihart'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
+* Filippa Eilhart<a id='p_filippa_eilhart'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
 	* potrafi się zamieniać w sowę, możliwe inne zwierzęta
 	* oślepiona przez [Radowida](#p_krol_radowid) gdy przejął od niej władzę nad Redanią (była regentką)
 	* potencjalna winowajczyni nienawiści [Radowida](#p_krol_radowid) do Mocy i magów
