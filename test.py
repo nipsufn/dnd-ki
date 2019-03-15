@@ -52,14 +52,13 @@ for n, x in enumerate(tags):
         + ", file: " + x[3]
         + "; subsequent: line: " + str(y[1]+1)
         + ", position: " + str(y[2])
-        + ", file: " + y[3])
-
-for n, x in enumerate(refs):
-  for o, y in enumerate(tags):
-    if x[0] == y[0]:
-      x[4] = True
+        + ", file: " + y[3]
+        )
 
 for ref in refs:
+  for tag in tags:
+    if ref[0] == tag[0]:
+      ref[4] = True
   if not ref[4]:
     print("Reference malformed: " + ref[0]
       + "; line: " + str(ref[1]+1)
