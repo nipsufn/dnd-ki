@@ -88,7 +88,7 @@
 	* Dorian<a id='l_dorian'></a>
 	* Maribor<a id='l_maribor'></a>
 		* zniknął się po Dwójksiężycowej Nocy
-	* Majena<a id='l_majena'></a>
+	* Mayena<a id='l_mayena'></a>
 * Wyspy Skellige<a id='l_wyspy_skellige'></a>
 	* Ard Skellig<a id='l_ard_skellig'></a>
 		* największa wyspa na Skellige

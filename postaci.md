@@ -62,7 +62,8 @@
 		* Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
 	* Mirna<a id='p_mirna'></a> - człowiek; druid
 		* przyjaciółka [Ilany](#p_ilana)
-	* Jupiter<a id='p_juniper'></a> - driada pochodzenia ludzkiego, poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
+	* Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego, poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
+	* Enid<a id="p_enid"></a> - człowiek z niewielką domieszką krwi elfa; druidka, partnerka [Finarrina](#p_finarrin); podczas rytuału Równonocy zamieniła się w szopa pracza, od tego czasu ukrywała się w domu druida
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
 		* ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)

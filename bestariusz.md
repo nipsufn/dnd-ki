@@ -20,7 +20,7 @@
 * Skolopendr<a id='b_stonoga'></a>
 	* reaguje na ruch
 	* atakuje jadem paraliżującym
-* Pnącze Bluszczopodobne<a id='b_bluscz'></a>
+* Pnącze Bluszczopodobne<a id='b_bluszcz'></a>
 	* Stosunkowo słabe, strzela kolcami
 * Pnącze Orchideopodobne<a id='b_orchidea'></a>
 	* Jest w stanie zasiać zarodniki w żywym organiźmie i kontrolować go jak długo jest z nim połączony cienkimi kłączami

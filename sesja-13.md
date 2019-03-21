@@ -11,7 +11,7 @@
 	* Czarodziejka z Wiedźminem wyruszają w świat za pomocą portalu, zostawiając ruiny zaminowane zwojami, które zostaną zdetonowane za jakiś czas lub gdy do ruin wejdzie nieproszony gość
 	* drużyna opuszczając fundamenty wieży staje przed tuzinem kopaczy, którzy wydają się być zdeterminowani żeby dostać się do ruin
 	* wiedząc że ruiny zostały zabezpieczone, uciekają ile sił w nogach aby wydostać się z promienia eksplozji zanim motłoch wlezie w pułapkę
-	* na południe, w stronę [Majeny](#l_majena), kłębią się koncentrycznie ułożone chmury, drogowskaz jest przekreślony czerwoną linią
+	* na południe, w stronę [Mayeny](#l_mayena), kłębią się koncentrycznie ułożone chmury, drogowskaz jest przekreślony czerwoną linią
 	* decydujemy się iść do [Brugge](#l_brugge) na przełaj, wg tymczasowego drogowskazu i śladów wozów
 	* przedzieramy się przez nienaturalnie gęsty las, mijając źródła Hotli, dopływu Iny
 2. [Brugge](#l_brugge)
@@ -25,6 +25,6 @@
 		* Obecny władca, [Wenzlaw II](#p_krol_wenzlaw_ii), dla bezpieczeństwa państwa na mocy traktatu został lennikiem Czarnych
 		* To z jednej strony przyniosło stabilność, z drugiej - Nilfgaard domagał się zasobów, zmuszając [Brugge](#l_brugge) do intensywniejszej eksploatacji zasobów przy granicy z [Brokilonem](#l_brokilon), co wzowiło konflikt z Driadami, które posuwają się do otwarych ataków na ludzkie osady
 		* [Verden](#l_verden) to pobojowisko, tam Driadom nie ma kto stawiać oporu i robią jak uważają za stosowne
-		* [Majena](#l_majena) to przeklęta przez druidów ruina miasta. Zanim zostało przeklęte, miejsce nieustających potyczek z [Nilfgaardem](#l_nilfgaard), co potencjalnie skłoniło (ponoć mało ekstremistycznych) druidów z tamtej okolicy do podjęcia działania
+		* [Mayena](#l_mayena) to przeklęta przez druidów ruina miasta. Zanim zostało przeklęte, miejsce nieustających potyczek z [Nilfgaardem](#l_nilfgaard), co potencjalnie skłoniło (ponoć mało ekstremistycznych) druidów z tamtej okolicy do podjęcia działania
 		* Najemnicy najczęściej osłaniają karawany i transporty, noszą też wiadomiści. Dla cywilów i dla Księstwa.
 	* Bardziej adekwatnym miejscem do poszukiwania pracy i pobytu dla nas będzie karczma [Zielona Świeczka](#l_zielona_swieczka) niedaleko za murami miasta
