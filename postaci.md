@@ -73,13 +73,24 @@
 		* Magister Florian z Vicovaro<a id='p_florian_z_vicovaro'></a> - ; mag
 		* Lars<a id='p_lars'></a> - ; domniemany przywódca szajki najemnych złoczyńców w Brugge
 	* [Dillingen](#l_dillingen)
-		* Zielarz z Dillingen<a id='p_zielarz'></a> - ?; zielarz;
+		* Regis<a id='p_zielarz'></a><a id='p_regis'></a> - ?; zielarz;
 			Destylował nalewkę z Mandragory
 			Nie pojawił się w [Carreras](#l_carreras) od kilku lat
+		* Beaucler<a id='p_beaucler'></a> -?;
+			może wiedzieć coś o losach [Regisa](#p_regis)
 	* [Brychna](#l_brychna)
 		* Rund<a id='p_rund'></a> - ; rybak;
 			z rodziną; żona i dwójka dzieci
 			odeskortowani z [Brychnej](#l_brychna) do [Brugge](#l_m_brugge) po ataku [Barghestów](#b_barghest)
+* [Carreras](#l_carreras)
+	* Zielarka<a id='p_zielarka'></a> - ; wiedźma;
+		dziecko przybite do pobliskego Menhiru, uwięzione jako wykonawca klątwy rzuconej przez druidów
+		są podejrzenia, że była nią córka Carrerasów, Esme<a id='p_esme_carreras'></a>
+	* Trott<a id='p_trott'></a> - krasonlud ; ?;
+		* sprzedaje broń z ukrytymi wadami, zrobił na szaro [Skovika](#p_skovik) i [Ivara](#p_ivar)
+* [Cinitra](#l_cinitra)
+	* ✝ Calanthe<a id='p_calanthe'></a> - ; władczyni
+		znała [Myszowowra](#p_myszowor)
 * [Ellander](#l_ellander)
 	* R. Harevard<a id='p_rodzina_harevard'></a> - ; n/a;
 		rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami
@@ -141,14 +152,6 @@
 		Prawa ręka [Myrtona](#p_lord_myrton)
 		Walczy długim mieczem, który płonie jeśli zatnie się nim
 		[Lord Slyz Myrton](#p_lord_myrton): przełożony; [Kasimir](#p_kasimir): podwładny
-* [Świątynia Melitele](#l_smelitele):
-	* Matka Iola<a id='p_matka_iola'></a> - ; kapłanka;
-* [Carreras](#l_carreras)
-	* Zielarka<a id='p_zielarka'></a> - ; wiedźma;
-		dziecko przybite do pobliskego Menhiru, uwięzione jako wykonawca klątwy rzuconej przez druidów
-		są podejrzenia, że była nią córka Carrerasów, Esme<a id='p_esme_carreras'></a>
-	* Trott<a id='p_trott'></a> - krasonlud ; ?;
-		* sprzedaje broń z ukrytymi wadami, zrobił na szaro [Skovika](#p_skovik) i [Ivara](#p_ivar)
 * [Kaedwen](#l_kaedwen)
 	* ✝? Król Henselt<a id='p_krol_henselt'></a>
 * [Nilfgaard](#l_nilfgaard)
@@ -161,10 +164,18 @@
 		zakładał obozy pracy dla Scoia'tael
 	* ✝ Menge<a id='p_menge'></a> - ; przywódca zakonu Łowców
 		[Lord Slyz Myrton](#p_lord_myrton): podwładny
+* [Świątynia Melitele](#l_smelitele):
+	* Matka Iola<a id='p_matka_iola'></a> - ; kapłanka;
 * [Temeria](#l_temeria)
 	* ✝ Król Foltest<a id='p_krol_foltest'></a> - ; król [Temerii](#l_temeria)
 	* [Lord Dijsktra](#p_dijsktra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
 * [Wyspy Skellige](#l_wyspy_skellige)
-	* Cerys an Craite<a id='p_cerys'></a> - ; obecna jarl wysp Skellige, córka Crach an Craite'a; pierwsza kobieta na tronie Wysp
-	* Druid Artis<a id='p_druid_artis'></a> - ; druid przewodzący Vildkaarlom
-	* ✝ Lugos Drummond<a id='p_lugos'></a> - ; zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>; ma na pieńku z klanem an Craite, wraz z rodziną zostaje zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni Wysp, [Cerys an Craite](#p_cerys)
+	* Cerys an Craite<a id='p_cerys'></a> - ; jarl wysp Skellige
+		córka Crach an Craite'a
+		pierwsza kobieta na tronie Wysp
+	* Druid Artis<a id='p_druid_artis'></a> - ; druid
+		przewodzi Vildkaarlom
+	* ✝ Lugos Drummond<a id='p_lugos'></a> - ; 
+		zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>
+		ma na pieńku z klanem an Craite
+		wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](#l_wyspy_skellige), [Cerys an Craite](#p_cerys)

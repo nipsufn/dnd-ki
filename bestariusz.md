@@ -70,8 +70,8 @@
 	* żyją pod ziemią
 	* agresywne, terytorialne
 	* czasem walczą z [Kikimorami](#b_kikimora)
-* Bizoktor<a id='b_bizoktor'></a>
-	* Legendarny Brolkilonu protektor
+* Leszy<a id='b_bizoktor'></a>
+	* "Bizoktor", "Leszek"; Legendarny Brolkilonu protektor
 	* pół jeleń pół bizon, giczały ma szponiaste i poniekąd chwytne
 * Djinni<a id='b_djinni'></a>
 	* personifikacja siły natury, np ognia
