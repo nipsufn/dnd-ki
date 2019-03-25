@@ -7,7 +7,7 @@
 		* antidotum: "trupi grzyb" (rośnie pod ziemią, głównie w okolicach mogił; bardzo wrażliwy na światło dziennie), próbka jadu razem z gruczołem
 	* W międzyczasie [Verenestra](#p_verenestra) powraca do wioski z wizytą. Zauważamy, że jej wizyty następują w bardzo regularnych porach. Okazuje się że:
 		* [Finarrin](#p_druid_finarrin) otrzymał wiadomość [Ilany](#p_ilana) i jest już w drodze powrotnej do domu 
-		* [Avril](#p_avril) jest nieco zaintrygowany przypadłością [Kajetana](#p_kajetan), ale driady nie są skłonne przyjąć elfa w gościnę w [Col Serrai](#l_col_serrai)
+		* [Auril](#p_auril) jest nieco zaintrygowany przypadłością [Kajetana](#p_kajetan), ale driady nie są skłonne przyjąć elfa w gościnę w [Col Serrai](#l_col_serrai)
 		* tak właściwie to driady nie życzą sobie żadnych gości po za starszyzną druidów
 	* [Ivar](#p_ivar) pyta [Ilanę](#p_ilana) jak może pomóc w wiosce, wyraźnie nie mogąc sobie znaleźć miejsca. Wychodzi z propozycją naostrzenia narzędzi, które zalegają w składziku. [Ilana](#p_ilana) intuicyjnie odgaduje, że tak naprawdę chodzi mu o zaimponowanie [Mirnie](#p_mirna).
 	* Informujemy braci, że z wyprawy do [Col Serrai](#l_col_serrai) nici i zostajemy w wiosce czekając na [Finarrina](#p_druid_finarrin). [Skovik](#p_skovik), [Ivar](#p_ivar) i [Ilana](#p_ilana) wybierają się więc na ryby żeby uzupełnić nieco uszczuploną spiżarnię druida. W tym czasie [Kajetan](#p_kajetan) przepisuje swoje czary.
@@ -17,7 +17,7 @@
 	* [Ilana](#p_ilana) zaprasza je do jednej z opuszczonych chat. Mówi, że na [Aen Eldrin](#r_aen_eldrin) muszą poczekać do następnego dnia i stara się pomóc rannej, co wykracza jednak poza jej umiejętności. W boku driady tkwi spora drzazga, która wydaje się być uczepiona jej trzewii.
 	* Ze złowionych ryb zrobiona zostaje kolacja na modłę [Wysp Skellige](#l_wyspy_skellige), do której zapraszamy [Mirnę](#p_mirna). Oprócz reszty miodu odkorkowana zostaje nalewka z mandragory, rozpoczynają się opowieści z mchu i paproci. [Ivar](#p_ivar) i [Kajetan](#p_kajetan) starają się na wyprzódki zrobić wrażenie na przyjaciółce [Ilany](#p_ilana).
 	* W czasie kolacji na stole ląduje kruk-kurier. Zrzuca na kolana [Ilany](#p_ilana) przesyłkę: lodowy kwiat (tak dobrze oddany, że do złudzenia przypomina zwykły, ale nie ma na nim śladów dłuta), porywa rybę i odlatuje. 
-	* [Ilana](#p_ilana) oddaje kwiat [Mirnie](#p_mirna) uznając, że kruk musiał się pomylić i doręczył go jej zamiast [Kajetanowi](#p_kajetan) (który to próbował uzyskać pomoc od [Pana Lodowego Ogrodu](#p_avril)).
+	* [Ilana](#p_ilana) oddaje kwiat [Mirnie](#p_mirna) uznając, że kruk musiał się pomylić i doręczył go jej zamiast [Kajetanowi](#p_kajetan) (który to próbował uzyskać pomoc od [Pana Lodowego Ogrodu](#p_auril)).
 	* Posiłek przerywa krzyk z pobliskiej chatki, z której brocząc krwią wybiega jedna z driad, widocznie przerażona. Za nią, w drzwiach chatki majaczy postać drugiej driady.
 	* Druga driada okazuje się być człowiekiem już tylko w części, a w części drzewem. Z jej drewnianych szponów stanowiących prawą rękę wytacza się głowa trzeciej driady.
 	* Wywiązuje się walka. Najwyraźniej choroba pochodząca z rany w ciągu kilku godzin zamieniła większość ciała driady w drewno i zawładnęła jej umysłem.
