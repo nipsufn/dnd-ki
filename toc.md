@@ -1,6 +1,6 @@
 ## Spis treści
 * [Postaci](#p_)
-	[Postaci Graczy](#g_)
+	* [Postaci Graczy](#g_)
 * [Lokacje](#l_)
 * [Ogłoszenia](#o_)
 * [Bestariusz](#b_)
