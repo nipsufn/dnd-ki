@@ -5,14 +5,14 @@
 	* Wyłamujemy zamknięte kraty do kanałów - miały nową kłódę
 2. Eksploracja
 	* Zmierzamy kanałami na północny zachód, kanały wydają się często uczęszczane
-	* [Ilana](#p_ilana) dowiaduje się od jakiegoś szczura o "rojach" które okazują się zlepionymi gównem kulami oszalałych szczurów
+	* [Ilana](#g_ilana) dowiaduje się od jakiegoś szczura o "rojach" które okazują się zlepionymi gównem kulami oszalałych szczurów
 	* Znajdujemy punkt który zdaje się być ogniskiem Mocy w okilicy - na ścianie i suficie znajduje się niekształtny kawał brudnozielonej galarety, powoli kapiący do ścieku
 3. Pozawymiarowa Jaskinia
-	* [Kajetan](#p_kajetan) próbuje umoczyć bełt w kapiącym, zwraca uwagę gluta na siebie
+	* [Kajetan](#g_kajetan) próbuje umoczyć bełt w kapiącym, zwraca uwagę gluta na siebie
 	* Udaje nam się część gluta wrobić w walkę z "rojem" szczurów
 	* Pozbywamy się pozostałej galarety odsłaniając przejście/teleport do dużej jaskini z jeziorem i wysepką na jej środku. Widać dziwne kryształy
-	* [Kajetan](#p_kajetan) wchodzi do jaskini. Perspektywa załamuje się w dziwny sposób dla [Ilany](#p_ilana)
-	* Na wieży na wysepce widać z oddali coś błyszczącego - [Kajetan](#p_kajetan) znajduje obsydianowy topór w rękach ogromnego szkieletu
+	* [Kajetan](#g_kajetan) wchodzi do jaskini. Perspektywa załamuje się w dziwny sposób dla [Ilany](#g_ilana)
+	* Na wieży na wysepce widać z oddali coś błyszczącego - [Kajetan](#g_kajetan) znajduje obsydianowy topór w rękach ogromnego szkieletu
 	* Drużyna ucieka z jaskini, destabilizując i dalej niszcząc portal
 4. Powrót
 	* Jest inna pora roku niż kiedy weszliśmy do kanałów. Mury zostały prawie całkiem odbudowane.

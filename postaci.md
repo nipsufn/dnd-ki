@@ -1,7 +1,4 @@
 ## Postaci
-* PC - Ilana<a id='p_ilana'></a> - człowiek, druidka, krzepka, gęste włosy, potrafi zamieniać się w zwierzęta
-* PC - Kajetan ab Extremis (z Krańca)<a id='p_kajetan'></a> - elf, mag, wysoki, delikatny, w miarę elegancko odziany
-* PC - Kasimir<a id='p_kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
 * Cianfanelli<a id='p_cianfanelli'></a> - ?;
 	krasnolud, właściciel banków;
 * ✝ Vilgeforz<a id='p_vilgeforz'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
@@ -61,7 +58,7 @@
 		* Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
 		* Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
 	* Mirna<a id='p_mirna'></a> - człowiek; druid
-		* przyjaciółka [Ilany](#p_ilana)
+		* przyjaciółka [Ilany](#g_ilana)
 	* Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego, poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
 	* Enid<a id="p_enid"></a> - człowiek z niewielką domieszką krwi elfa; druidka, partnerka [Finarrina](#p_druid_finarrin); podczas rytuału Równonocy zamieniła się w szopa pracza, od tego czasu ukrywała się w domu druida
 * [Brugge](#l_brugge)
@@ -146,12 +143,12 @@
 		rządzi zakonem Łowców Czarownic/Potworów w [Ellander](#l_ellander), nie ma wody z mózgu, da się z nim dogadać;
 		Możlwe że po niedawnej śmierci Przywódcy [Menge](#p_menge) rządzi całym zakonem.
 		[Menge](#p_menge): przełożony
-		[Kasimir](#p_kasimir): podwładny
+		[Kasimir](#g_kasimir): podwładny
 		[Igna](#p_igna): prawa ręka
 	* Igna<a id='p_igna'></a> - ; ?
 		Prawa ręka [Myrtona](#p_lord_myrton)
 		Walczy długim mieczem, który płonie jeśli zatnie się nim
-		[Lord Slyz Myrton](#p_lord_myrton): przełożony; [Kasimir](#p_kasimir): podwładny
+		[Lord Slyz Myrton](#p_lord_myrton): przełożony; [Kasimir](#g_kasimir): podwładny
 * [Kaedwen](#l_kaedwen)
 	* ✝? Król Henselt<a id='p_krol_henselt'></a>
 * [Nilfgaard](#l_nilfgaard)

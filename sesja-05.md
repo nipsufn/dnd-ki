@@ -22,7 +22,7 @@
 	* Wielkie szczury z żółtymi oczami wyszły z kanałów; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**
 3. [Eliza](#p_eliza)
 	* Kupno zimowych ubrań
-	* [Eliza](#p_eliza) zdaje sobie sprawę z iluzji wokół [Kajetana](#p_kajetan)
+	* [Eliza](#p_eliza) zdaje sobie sprawę z iluzji wokół [Kajetana](#g_kajetan)
 	* [Dziecko](#p_daria) przejawia predyspozycje do użycia mocy ale nie ma kontroli nad efektem
 	* Kapłanki Melitele mogą nauczyć kontroli - skonsultować z [Viggo](#p_viggo_regner), może on pomoże    
 	* Droga do [Świątyni Melitele](#l_smelitele) stosunkowo przejezdna ale nie całkiem bezpieczna
@@ -39,17 +39,17 @@
 	* W Wyzimie jest jeszcze gorzej niż w [Ellander](#l_m_ellander) - tamtejszy Lord rządzi twardą ręką w czasie głodu
 6. "[Różyczka](#l_rozyczka)" - konfrontacja
 	* Opowieści przy kuflu(?)
-		* [Kajetan](#p_kajetan) zmierzał do Vartburga licząc że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
-		* [Ilana](#p_ilana) poszukuje maga imieniem [Myszowór](#p_myszowor), który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej. Opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
+		* [Kajetan](#g_kajetan) zmierzał do Vartburga licząc że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
+		* [Ilana](#g_ilana) poszukuje maga imieniem [Myszowór](#p_myszowor), który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej. Opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
 	* [Podjudzacz robotników](#p_mlody_kaplan) pojawia się z ochroniarzem, wypytuje co można zamówić (robi wrażenie że wypytuje jak źle jest)
 	* [Podjudzacz jest kapłanem](#p_mlody_kaplan) który ostrzy zęby na pozycję [głównego kapłana](p_kaplan_matias) (przemawiający staruszek z Rynku)
-	* Banda 8(?) robotników wchodzi, grozi, zostaje przepędzona przez [Kapłana](#p_mlody_kaplan). [Gospodarze](p_maria) są wdzięczni, [Ilana](#p_ilana) widzi że to przedstawienie z użyciem magii i konfrontuje [Kapłana](#p_mlody_kaplan)
-	* [Kajetan](#p_kajetan) nie chce się mieszać i wychodzi do [Ziołowego Kufla](#l_ziolowy_kufelek). Odnosi wrażenie że [Różyczka](#l_rozyczka) skazana jest na zagładę, a jakiekolwiek akcje mogą tylko pogorszyć sytuację
-	* [Ilana](#p_ilana) kończy konfrontację i wychodzi za [Kajetanem](#p_kajetan) po drodze spotykając szczury
+	* Banda 8(?) robotników wchodzi, grozi, zostaje przepędzona przez [Kapłana](#p_mlody_kaplan). [Gospodarze](p_maria) są wdzięczni, [Ilana](#g_ilana) widzi że to przedstawienie z użyciem magii i konfrontuje [Kapłana](#p_mlody_kaplan)
+	* [Kajetan](#g_kajetan) nie chce się mieszać i wychodzi do [Ziołowego Kufla](#l_ziolowy_kufelek). Odnosi wrażenie że [Różyczka](#l_rozyczka) skazana jest na zagładę, a jakiekolwiek akcje mogą tylko pogorszyć sytuację
+	* [Ilana](#g_ilana) kończy konfrontację i wychodzi za [Kajetanem](#g_kajetan) po drodze spotykając szczury
 7. "[Ziołowy Kufel](#l_ziolowy_kufelek)"
 	* Strażnik ugryziony przez szczura - potrzebuje pomocy medyka - kapłanek Melitele?
 8. [Viggo Regner](#p_viggo_regner)
 	* Ochroniarz Janush to asystentka [Lukrecja](#p_lukrecja_schattenwort) ukryta w iluzji (tworzonej przez amulet)
-	* [Kajetan](#p_kajetan) zna testy na predyspozycje z elfich szkół magii
+	* [Kajetan](#g_kajetan) zna testy na predyspozycje z elfich szkół magii
 	* [Dziecko](#p_daria) definitywnie ma predyspozycje
 	* [Viggo](#p_viggo_regner) nie chce/może wziąć jej na naukę i zgadza się że kapłanki Melitele to dobry pomysł

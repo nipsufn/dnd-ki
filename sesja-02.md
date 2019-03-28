@@ -4,7 +4,7 @@
     * W [Różyczce](#l_rozyczka) poznajemy drugiego [Kranmera], [Hansa](#p_hans_kranmer), brata [Otta](#p_otto_kranmer). Zapraszają nas do swojego stolika.
     * Krasnoludy potrzebują kogoś do pomocy drwalom. To ich ogłoszenie widzieliśmy przed [Kuropatwą](#l_kuropatwa). **[Zadanie: Zlecenie na Kota Migota](#z_q1)**
     * Robotnicy przesiadujący w przybytku chamsko zaczepiają [Marię](#p_maria).
-	* [Kajetan](#p_kajetan) wyzywa chamskich budowlańców na pojedynek na rękę żeby pozbyć się ich z karczmy. Wygrywa bez większej trudności, w skutek czego niezadowoleni robole wychodzą. **[Zadanie: Rasiści w Ellander](#z_q2)**
+	* [Kajetan](#g_kajetan) wyzywa chamskich budowlańców na pojedynek na rękę żeby pozbyć się ich z karczmy. Wygrywa bez większej trudności, w skutek czego niezadowoleni robole wychodzą. **[Zadanie: Rasiści w Ellander](#z_q2)**
     * Zostajemy na noc, decydując się podjąć z rana zlecenia Kranmerów.
 2. Polowanie na bestię
 	* Wyruszamy z powrotem na porębę, dowiedzieć się więcej od drwali.

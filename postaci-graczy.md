@@ -1,0 +1,18 @@
+### Postaci Graczy
+* Ilana<a id='g_ilana'></a> - człowiek, druidka, krzepka, gęste włosy, potrafi zamieniać się w zwierzęta
+* Kajetan ab Extremis (z Krańca)<a id='g_kajetan'></a> - elf, mag, wysoki, delikatny, w miarę elegancko odziany
+    * Opis:
+        Wysoki, delikatny elf, dobrze ubrany, kołnież postawiony na sztorc, z jołomem na głowie. Na odzieniu zauważyć można gustowne zielone wstawki obrębione stokrotkami z złotymi środkami. Bez zarostu, proste włosy do ramion spięte w kuc.
+        Zdaje się mieć aurę wyższości, patrzy na przechodnów z góry.
+        Pod powłoką iluzjii skrywa się wyniszczona, zmęczona postać. Żyły i niewidocznie normalnie naczynia krwionośne, połyskujące czarno-zielonym kolorem przywodzącym na myśl dwimeryt kontrastują z trupiobladą skórą.
+        Pomimo wyniszczenia, jest zbudowana muskularnie - wystające gdzieniegdzie kości wydają się ledwie wystarczające by utrzymać ciało w jedym kawałku. Lewą stronę ciała pokrywają blizny o dużej powierzchni. Zagojona tkanka wygląda jak gdyby magia użyta do przywrócenia straconej skóry nie zadziałała tak jak powinna. Zniekształcony kawał policzka, wygląda jakby nie był powierzchowny a zastępował całą miękką tkankę w tej okolicy.
+    * Historia:
+        W kręgach magów wiadomo było o ruinach znalezionych w Dol Blatahanna, mówino także o wyprawie archeologicznej zorganizowanej przez elfy. O samej wyprawie niewiele było wiadomo, Starsza Krew nigdy nie dzieliła się chętnie swoją wiedzą. Co poniektórzy szeptali o immunitecie od dwimerytu, ale pewnikiem to pierdoły.
+        Po pół roku plotki zaczynały cichnąć, przymierając jak ognisko do którego nikt nie dokłada, a nawet najzarozumialsi elfi magowie udawali, jak gdyby ani ruin ani wyprawy nigdy nie było.
+        Do ruin wyruszyła spora drużyna - co najmniej z tuzin osób. Magów było czterech, kilku skautów, reszta silni wojacy. Nim oczyścili ruiny i zabezpieczyli labolatorium, stracili większość wojowników, a jeden z magów został ranny. Niemniej jednak zaczęli pracę aby odzyskać i skatalagować wiedzę zachowaną w tym miejscu, jak się okazało o dwimerycie i jego interakcjach z Mocą. Jak było zwyczajem, między innymi aby unikać dezinformacji i ślepych zaułków, opisane techniki i eksperymenty były powtarzane na miejscu.
+        Jeden z rzeczonych ekperymentów skończył się źle. Bardzo źle.
+        Kajetan i inny mag wracali do komnaty w której odbywały się prace gdy w ogromnym huku wszyscy znajdujący się w pomieszczeniu zgnięli na miejscu, rozerwani na strzępy. Kajetan, będący akurat na progu, odniósł okropne rany po prawej stronie całego ciała. Drugi mag, pół kroku za nim, stracił bębenki.
+        Z ruin powróciły 4 osoby. Mag, skaut, wojak i nieprzytomny Kajetan. Poszkodowanego udało się elfom uratować, jednak został okropnie okaleczony - magia lecznicza ledwie dała radę naprawić szkody wyrządzone przez incydent, wyglądało też na to że nie będzie w stanie więcej czarować. W niewyjaśniony sposób, jedyne zaklęcie które miał aktywne w czasie incydentu, zdawało się być nietknientym przez ten efekt.
+        Pozbawiony Mocy, definiującej całe jego dotychczasowe istnienie, zaczął trenować z wojownikami, pozwalając aby wściekłość, na partaczy z którymi pracował, na nieudolność magów-lekarzy, na organizatorów wyprawy - z jednej strony napędzała jego nowy fach - z drugiej zaś czyniąc osobę której na Krańcu nikt nie chciał.
+        W końcu wyruszył w świat, szukając miejsca dla siebie, a może i lekarstwa na blokadę.
+* Kasimir<a id='g_kasimir'></a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany

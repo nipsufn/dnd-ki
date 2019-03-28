@@ -31,7 +31,7 @@
 	* Rada Miejska
 - [x] Ku Świątyni!<a id='z_q7'></a>
 	* Glejt do miasta, 100GP
-	* Zabierzcie ze sobą [Kasimira](#p_kasimir)
+	* Zabierzcie ze sobą [Kasimira](#g_kasimir)
 	- [x] Zabierzcie ze sobą [Elizę](#p_eliza) i [Darię](#p_daria)
 	- [x] Zabierzcie ze sobą strażnika [Toma](#p_tom) pogryzionego przez chorego szczura
 	* Zdobądźcie zapas leków / wsparcie kapłanek Melitele dla miasta [Ellander](#l_m_ellander)
