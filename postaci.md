@@ -54,6 +54,8 @@
 		Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](#r_aen_eldrin)
 	* Verenestra "Księżna Dębu"<a id='p_verenestra'></a>
 		Jedna z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
+	* Oberon "Zieloby Lord", "Książęcy Bard"<a id='p_oberon'></a>
+		Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
 	* Auril "Pan Lodowego Ogrodu"<a id='p_auril'></a>
 		* Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
 		* Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
