@@ -13,7 +13,7 @@
 		* trakty są niebezpieczne
 		* wieś na południe od miasta którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycowa Noc
 		* Łowcy skupiają się teraz na **Potworach**, nie **Czarownicach** i stąd też przemianowali się na *Łowców Potworów*
-		* Kajetan prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini.
+		* Kajetan prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini, co nie udaje się całkowicie.
 2. Rynek
 	* Jesteśmy świadkami egzekucji wiedźmy. Udaje nam się podejść na tyle blisko aby zobaczyć całe zajście, ale na tyle ukradkiem, że nikt nam się nie przygląda.
 	* Ofiara przerywa modły kapłana. Wygłasza fragment przepowiedni o _Białym Zimnie_ ale w wersji głoszonej przez kult [Lwiogłowego Pająka](#r_lwioglowy_pajak), a jej oczy przedzielone pionowymi, gadzimi źrenicami jarzą się żółto.
@@ -26,7 +26,7 @@
 	* Krawcowa wspomina, że [Daria](#p_daria) przejawia predyspozycje do używania mocy ale nie ma kontroli nad efektem. Właśnie dlatego w jej pokoju od wczoraj jest potłuczone okno.
 	* Wpadamy na pomysł aby poprosić o pomoc kapłanki Melitele - one mogą nauczyć kontroli, ale pomysł ten należy najpierw skonsultować z [Viggo](#p_viggo_regner). Być może on pomoże na miejscu.    
 	* Droga do [Świątyni Melitele](#l_smelitele) jest stosunkowo przejezdna ale nie całkiem bezpieczna, więc potrzebna byłaby obstawa.
-4. W drodze do[Różyczki](#l_rozyczka)
+4. W drodze do [Różyczki](#l_rozyczka)
 	* Po wyjściu od [Elizy](#p_eliza) i przejściu kilku uliczek, drogę z obu stron uliczki odcina nam grupka około 8-9 chłopa. 
 	* Nie widząc innej możliwości rzucamy się do ucieczki w ślepy zaułek. [Ilana](#g_ilana) zmienia się w kota i wspina na dach, a [Kajetan](#g_kajetan) biegnie ile sił w nogach przeskakując wszystkie przeszkody na drodze.
 	* Elf dobiega do podwórka, na którym bawi się grupka dzieci. Rzuca im kilka monet i prosi, żeby zmyliły pościg dając w długą w stronę gwarnej ulicy.
@@ -45,7 +45,7 @@
 	* Opowieści przy kuflu(?)
 		* [Kajetan](#g_kajetan) zmierzał do Vartburga licząc że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
 		* [Ilana](#g_ilana) poszukuje druida imieniem [Myszowór](#p_myszowor), który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej. Opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
-	* [Podjudzacz robotników](#p_mlody_kaplan), którego widzieliśmy podczas egzekucji pojawia się z ochroniarzem. Niby-uprzejmie wypytuje [Marię](#p_maria) co można zamówić (sprawia wrażeniepytającego jak źle jest).
+	* [Podjudzacz robotników](#p_mlody_kaplan) pojawia się z ochroniarzem. Niby-uprzejmie wypytuje [Marię](#p_maria) co można zamówić (sprawia wrażenie pytającego jak źle jest).
 	* [Podjudzacz jest kapłanem](#p_mlody_kaplan) który ostrzy zęby na pozycję [głównego kapłana](p_kaplan_matias) (przemawiający staruszek z Rynku)
 	* Banda 8(?) robotników wchodzi, grozi, zostaje przepędzona przez [Kapłana](#p_mlody_kaplan). [Gospodarze](p_maria) są wdzięczni, [Ilana](#g_ilana) widzi że to przedstawienie z użyciem magii i konfrontuje [Kapłana](#p_mlody_kaplan)
 	* [Kajetan](#g_kajetan) nie chce się mieszać i wychodzi do [Ziołowego Kufla](#l_ziolowy_kufelek). Odnosi wrażenie że [Różyczka](#l_rozyczka) skazana jest na zagładę, a jakiekolwiek akcje mogą tylko pogorszyć sytuację

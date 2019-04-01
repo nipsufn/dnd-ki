@@ -26,7 +26,7 @@
 	* W kantorku, w rogu sklepu przesiaduje drugi jegomość, który wygląda na nas tylko zza okienka. Zwie się [Janus](#p_lukrecja_schattenwort) i pełni rolę ochroniarza.
 	* Właściciel [Fiolki](#l_fiolka_zdrowia) skłonny jest odkupić od nas głowę potwora którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](#p_otto_kranmer) jej nie zażądają.
 	* Tymczasem [Ilanie](#g_ilana) udaje się wynegocjować dobrą cenę za oba ogony i krew bestii. Zamiast pieniędzy decydujemy się na handel wymienny i tak otrzymujemy 3 *"jaskółki"* - eksperymentalne eliksiry, które [Viggo](#p_viggo_regner) stworzył zainspirowany wiedźmińskimi eliksirami.
-	* [Kajetan](#g_kajetan) przybija targ wymieniając uścisku dłoni z alchemikiem i prawie odskakuje jak kopnięty prądem. Okazuje się, że [Viggo](#p_viggo_regner) nosi na palcu obrączkę wykonaną z *dwimerytu*.
+	* [Kajetan](#g_kajetan) przybija targ wymieniając uścisku dłoni z alchemikiem i prawie odskakuje jak kopnięty prądem. Okazuje się, że [Viggo](#p_viggo_regner) nosi na palcu obrączkę wykonaną z [*dwimerytu*](#r_dwimeryt).
 5. Różyczka
 	* Wracamy do [Różyczki](#l_rozyczka) na umówione spotkanie z krasnoludami.
 	* [Kranmerowie](#p_otto_kranmer) wypłacają nagrodę w postaci 40GP. Zobaczyli trofeum ale nie żądają aby je im zostawić.
@@ -35,7 +35,7 @@
 	* [Vigo](#p_viggo_regner) mówi, że gdyby udało się nam przynieść nieuszkodzoną skórę bestii, byłby w stanie przerobić ją na płaszcz o podobnych właściwościach, co zdolność "migania" bestii.
 	* Sklep jest obserwowany przez Łowców Czarownic, częste wizyty składa tam niejaki [Lord Slyz Myrton](#p_lord_myrton) - głowa tutejszej filii zakonu Wiecznego Ognia.
 	* Otrzymujemy porpozycję kontraktu, ale jego szczegółów alchemik nie chce omawiać w swoim zakładzie. Proponuje nam wieczorne spotkanie w przybytku o nazwie "Zielony Kufelek".
-	* Na pożegnanie [Kajetan](#g_kajetan) wyciąga do alchemika - zapobiegliwie i celowo - lewą rękę żeby nie narazić się na ponowny kontakt z obrączką, czym nieco dziwi mężczyznę.
+	* Na pożegnanie [Kajetan](#g_kajetan) wyciąga do alchemika - zapobiegliwie i celowo - lewą rękę żeby nie narazić się na ponowny kontakt z obrączką, co spotyka się ze zrozumieniem alchemika.
 7. Wizyta u krawcowej [Eliza](#p_eliza)
 	* z [Fiolki](#l_fiolka_zdrowia) idziemy prosto do zakładu krawcowej z ogłoszenia, które zerwała [Ilana](#g_ilana).
 	* Krawcowa jest bardzo zmęczona; [Ilana](#g_ilana) przekonuje ją że możemy pomóc pomimo, że nie jesteśmy wiedźminami.
@@ -57,7 +57,7 @@
 		* druidka ma niejasne przeczucie, że ta kobieta może należeć do organizacji zbirów z lasu, których tak poszukują władze [Ellander](#l_ellander)
 		* zostawia wiadomość przed kryjówką zapraszając do rozmowy
 8. Zielony Kufelek
-	* Po rozdzieleniu się [Kajetan] sam udaje się na rozmowę z alchemikiem.
+	* Po rozdzieleniu się [Kajetan](#g_kajetan) sam udaje się na rozmowę z alchemikiem.
 	* [Viggo](#p_viggo_regner) wyjawia, że miałby dla nich ciche zlecenie; **[Zadanie: Punkt Mocy pod Ellander](#z_q2)**
 	* Elf i alchemik rozmawiają o tym, co zaszło kilka nocy temu i jaki to ma wpływ na obecną sytuację.
 	* [Kajetan](#g_kajetan) pyta o pierścień z dwimerytu, ale [Viggo](#p_viggo_regner) pozostaje tajemniczy i nie wyjawia zbyt wiele. Mówi jednak, że woli aby nazywać go zielarzem niż alchemikiem, bo to już brzmi niebezpiecznie podobnie do czarodzieja, a tego wolałby uniknąć.

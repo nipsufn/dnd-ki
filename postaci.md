@@ -63,6 +63,8 @@
 		* przyjaciółka [Ilany](#g_ilana)
 	* Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego, poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
 	* Enid<a id="p_enid"></a> - człowiek z niewielką domieszką krwi elfa; druidka, partnerka [Finarrina](#p_druid_finarrin); podczas rytuału Równonocy zamieniła się w szopa pracza, od tego czasu ukrywała się w domu druida
+	* Cederik<a id="p_cederik"></a> - elf; druid
+		Mentor [Mirny](#p_mirna)
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
 		* ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
@@ -96,7 +98,7 @@
 	* Viggo Regner<a id='p_viggo_regner'></a> - ; alchemik/mag;
 		Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
 		? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
-	* [Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort<a id='p_lukrecja_schattenwort'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
+	* [Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort<a id='p_lukrecja_schattenwort'></a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
 		[Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
 	* ? Regner<a id='p_pani_regner'></a> - ; mag;
 		w śpiączce wg [Lukrecja](#p_lukrecja_schattenwort) (?);
