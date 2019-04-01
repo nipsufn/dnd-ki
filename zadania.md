@@ -5,9 +5,9 @@
 - [x] Punkt Mocy pod [Ellander](#l_m_ellander)<a id='z_q2'></a>
 	* 100GP za dowód działania Mocy w kanałach
 	* 3 wejścia
-	* przy parku miejskim; strzeżone
-	* na prywatnej posesji
-	* za miastem
+		* przy parku miejskim; strzeżone
+		* na prywatnej posesji
+		* za miastem
 - [ ] Rasiści w [Ellander](#l_m_ellander)<a id='z_q3'></a>
 	* Ulubionym celem rasistów podburzanych przez kapłanów zdaje się być karczma “[Różyczka](#l_rozyczka)”
 - [ ] Bandyci wokół Ellander<a id='z_q3a'></a>

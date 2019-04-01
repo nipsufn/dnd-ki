@@ -25,13 +25,13 @@
 	* Kajetan gra z [Yariim](#p_yarii) w szachy, a Ilana wciąga się w grę w karty ze [Skovikiem](#p_skovik); stawką jest szczera odpowiedź na zadane pytanie
 	* [Ilanie](#g_ilana) nie idzie zbyt dobrze, w efekcie czego jest winna Skovikowi kieł niedźwiedzia do jego naszyjnika. Kajetanowi za to udaje się, po przegranej w szachy, wygrać w karty ze Skovikiem i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#l_wyspy_skellige)
 		* na wyspach jest 7 klanów
-		* [Skovik](#p_skovik) z braćmi należą do klanu Drunmmond
-		* jarlem na Skellige została kobieta z klanu Craight, [Cerys](#p_cerys)
+		* [Skovik](#p_skovik) z braćmi należą do klanu Drummond
+		* jarlem na Skellige została kobieta z klanu An Craite, [Cerys](#p_cerys)
 		* starsi klanów nie są zadowoleni z polityki [Cerys](#p_cerys)
-		* Klany Drunmond i Craight dzielą jedną z wysp, są skłócone
-		* z klanu Drunmond ponoć pochodzą najlepsi żeglarze
+		* Klany Drummond i An Crait dzielą jedną z wysp, są skłócone
+		* z klanu Drummond ponoć pochodzą najlepsi żeglarze
 		* na wyspach znajdowała się jedna ze szkół wiedźminów
-		* klan Craight gościł kiedyś jednego z wiedźminów
+		* klan An Crait gościł kiedyś jednego z wiedźminów
 		* [Leiv](#p_leiv) widział kiedyś wiedźmina na [Ard Skellig](#l_ard_skellig)
-	* driady gościły keidyś wiedźmina Gwymleita ([Kajen](#g_kajetan) kojarzy elfickie miano z [Geraltem](#p_geralt))
+	* driady gościły keidyś wiedźmina Gwymleita ([Kajetan](#g_kajetan) kojarzy elfickie miano z [Geraltem](#p_geralt))
 	* według [Aedirnczyków](#p_yarii) wiedźmini są "psami [Foltesta](#p_krol_foltest)", któryś z nich zabił [Demawenda](#p_krol_demawend) za pieniądze

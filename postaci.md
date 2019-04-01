@@ -96,7 +96,7 @@
 	* Viggo Regner<a id='p_viggo_regner'></a> - ; alchemik/mag;
 		Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
 		? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
-	* [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort<a id='p_lukrecja_schattenwort'></a> - gnom; alchemik;
+	* [Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort<a id='p_lukrecja_schattenwort'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
 		[Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
 	* ? Regner<a id='p_pani_regner'></a> - ; mag;
 		w śpiączce wg [Lukrecja](#p_lukrecja_schattenwort) (?);

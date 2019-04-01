@@ -23,4 +23,4 @@
 	* Banda jest stosunkowo przyjazna, idzemy razem do karczmy
 5. "[Różyczka](#l_rozyczka)"
 	* [Kajetana](#g_kajetan) wyzwali na rękę. Wygrywa z [Skovikiem](#p_skovik) i jednym z jego braci, z drugim i [Ilaną](#g_ilana) przegrywa
-	* [Skovik](#p_skovik) pochodzi z [Wysp Skellige](#l_wyspy_skellige), dzieli się informacjami jak najlepiej tam dotrzeć, faktem że [Myszowór](#p_myszowor) przebywa na [Wyspach Skellige](#l_wyspy_skellige)
+	* [Skovik](#p_skovik) pochodzi z [Wysp Skellige](#l_wyspy_skellige), dzieli się informacjami jak najlepiej tam dotrzeć i faktem że [Myszowór](#p_myszowor) przebywa na [Wyspach Skellige](#l_wyspy_skellige)

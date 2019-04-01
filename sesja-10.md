@@ -44,11 +44,11 @@
 		* Druidzi na wyspach cieszą się wielkim szacunkiem.
 		* Na wyspach jest bardzo niewielu nieludzi.
 	* Mentorem [Ilany](#g_ilana) był [Druid Finarrin](#p_druid_finarrin) w [Brokilonie](#l_brokilon).
-	* [Ilana](#g_ilana) zabiera [Skovika](#p_skovik) na sparring dać sobie wybić obiecany kieł w postaci niedźwiedzia do jego naszyjnika. Znajdują niewielki plac na tyłach [Różyczki](#l_rozyczka) i tam toczą "walkę".
+	* [Ilana](#g_ilana) zabiera [Skovika](#p_skovik) na sparring by jako niedźwiedź dać sobie wybić obiecany niedźwiedzi kieł do jego naszyjnika. Znajdują niewielki plac na tyłach [Różyczki](#l_rozyczka) i tam toczą "walkę".
 	* [Kajetan](#g_kajetan) w tym czasie upija do nieprzytomnośći [Leiva](#p_leiv) i kontynuuje opróżnianie drugiej butelki z [Ivarem](p_ivar).
 	* wieczór kończy się odwleczeniem się do pokoju trójki pijących, zaś [Skovik](#p_skovik) i [Ilana](#g_ilana) biorą dla siebie osobny pokój.
 6. "[Różyczka](#l_rozyczka)" nad ranem
-	* [Ilana](#g_ilana) korzystając z faktu, że [Skovik](p_skovik) śpi jak zarżnięty, bada jego magiczną figurkę, której użył poprzedniego wieczora do wzmocnienia się przed walką (są na niej runy w języku [Skellige](#l_wyspy_skellige), a sama figurka emanuje magią).
+	* [Ilana](#g_ilana) korzystając z faktu, że [Skovik](p_skovik) śpi jak zarżnięty, bada drewnianą figurkę niedźwiedzia, której użył poprzedniego wieczora do wzmocnienia się przed walką (są na niej runy w języku [Skellige](#l_wyspy_skellige), a sama figurka emanuje magią).
 	* Ubrawszy się, [Ilana](#g_ilana) opuszcza pokój [Skovika](p_skovik) i budzi [Kajetana](#g_kajetan); rozmawiają o planach podróży na [Skellige](#l_wyspy_skellige) - eskortując po drodze [Skovika](#p_skovik) z braćmi do [Brokilonu](#l_brokilon).
 	* Wczesnym popołudniem [Skovik](#p_skovik) i bracia zostają obudzeni. Bracia jeszcze nie są trzeźwi ale już mają kaca, [Skovika](#p_skovik) nie ma w pokoju braci.
 	* [Ilana](#g_ilana) idzie po [Skovika](#p_skovik), ten zdaje się nie mieć kaca, ale jest mocno zmęczony.
