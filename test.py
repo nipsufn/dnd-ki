@@ -75,19 +75,19 @@ for ref in refs:
       )
 
 if 'CI' in os.environ:
-  requests.post('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT']+'/comments',
+  r = requests.post('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT']+'/comments',
     json={"string": feedback},
     auth=requests.auth.HTTPBasicAuth(os.environ['github_user'], os.environ['github_token'])
     )
-  if feedback != "":
-    sys.exit(1)
-  else:
-    sys.exit(0)
+  print("requests debug");
+  print('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT']+'/comments')
+  print(r.text)
+  print(r.status_code)
+
+if feedback != "":
+  print(feedback)
+  print("Test completed")
+  sys.exit(1)
 else:
-  if feedback != "":
-    print(feedback)
-    print("Test completed")
-    sys.exit(1)
-  else:
-    print("Test completed")
-    sys.exit(0)
+  print("Test completed")
+  sys.exit(0)
