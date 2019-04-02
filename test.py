@@ -9,6 +9,12 @@ fileList = [f for f in os.listdir() if os.path.isfile(f)]
 tags = []
 refs = []
 
+whitelist = [
+  sys.argv[0][2:],
+  "requirements.txt",
+  ".travis.yml"
+  ]
+
 feedback = ""
 
 def write(text):
@@ -17,7 +23,7 @@ def write(text):
 
 
 for filePath in fileList:
-  if filePath == sys.argv[0][2:]:
+  if filePath in whitelist:
     continue
   with open(filePath, 'r', encoding='utf-8') as fileStream:
     balance = [0 for x in range(7)]
@@ -80,7 +86,7 @@ if 'CI' in os.environ:
     auth=requests.auth.HTTPBasicAuth(os.environ['github_user'], os.environ['github_token'])
     )
   print("requests debug");
-  print('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT']+'/comments')
+  print('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT'][:7]+'/comments')
   print(r.text)
   print(r.status_code)
 
