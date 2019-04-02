@@ -63,7 +63,7 @@
 		* przyjaciółka [Ilany](#g_ilana)
 	* Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego, poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
 	* Enid<a id="p_enid"></a> - człowiek z niewielką domieszką krwi elfa; druidka, partnerka [Finarrina](#p_druid_finarrin); podczas rytuału Równonocy zamieniła się w szopa pracza, od tego czasu ukrywała się w domu druida
-	* Cederik<a id="p_cederik"></a> - elf; druid
+	* Cedrik<a id="p_cedrik"></a> - elf; druid
 		Mentor [Mirny](#p_mirna)
 * [Brugge](#l_brugge)
 	* [Brugge](#l_m_brugge)
@@ -174,6 +174,8 @@
 	* Cerys an Craite<a id='p_cerys'></a> - ; jarl wysp Skellige
 		córka Crach an Craite'a
 		pierwsza kobieta na tronie Wysp
+	* Hjalmar an Craite<a id='p_hjalmar'></a> - ; kandydat do tronu Skellige
+		brat Cerys
 	* Druid Artis<a id='p_druid_artis'></a> - ; druid
 		przewodzi Vildkaarlom
 	* ✝ Lugos Drummond<a id='p_lugos'></a> - ; 
