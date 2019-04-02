@@ -10,7 +10,7 @@
     * Okoliczne pnączna zwijają się formując agresywne, humanoidalne postaci, przywodzące na myśl te z [Medownej](#l_medowna). Wywiązuje się walka.
     * Pozostała część drużyny z [Mirną](#p_mirna) (dotąd zamkniętą w pracowni z [Ivarem](#p_ivar) przy robieniu obiecanych odtrutek) włącznie, słysząc krzyk szybko kieruje się w stronę cmentarza.
     * [Aen Eldrin](#r_aen_eldrin) wyrywa z ziemi drewniane serce i spopiela je. Szybko radzimy sobie z pozostałymi pnączami. 
-    * Jedynie [Finarrin](#p_druid_finarrin) odnósł zauważalne rany, które oboje z [Ilaną](#g_ilana) łątają "na miejscu".
+    * Jedynie [Finarrin](#p_druid_finarrin) odnósł zauważalne rany, które oboje z [Ilaną](#g_ilana) łatają "na miejscu".
     * Przybyszka obcesowo wypytuje drużynę, żądając pomocy. Potraktowana własnym lekarstwem przez [Kajetana](#g_kajetan) szybko traci cierpliwość. 
     * Zanim jednak dochodzi do rękoczynów, elf odchodzi w stronę [Wioski](#l_wioska) nie czekając na resztę drużyny. 
     * Między mniej i bardziej zawoalowanymi obelgami (wiemy już gdzie młode Driady usłyszały o "gorszych" elfach) dowiadujemy się, że:
