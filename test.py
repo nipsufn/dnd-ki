@@ -80,9 +80,9 @@ if 'CI' in os.environ:
     auth=requests.auth.HTTPBasicAuth(os.environ['github_user'], os.environ['github_token'])
     )
   if feedback != "":
-    os.exit(1)
+    sys.exit(1)
   else:
-    os.exit(0)
+    sys.exit(0)
 else:
   if feedback != "":
     print(feedback)
