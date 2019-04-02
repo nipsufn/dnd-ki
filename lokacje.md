@@ -82,7 +82,7 @@
 * Temeria<a id='l_temeria'></a>
 	* Wyzima<a id='l_wyzima'></a>
 		* stolica Temerii
-	* Gros Velen<a id='l_gros_velen'></a>
+	* Gors Velen<a id='l_gors_velen'></a>
 		* Wyspa Thanedd<a id='l_wyspa_thanedd'></a>
 			zniszczona szkoła czarownic
 	* Dorian<a id='l_dorian'></a>

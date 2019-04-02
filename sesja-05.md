@@ -16,6 +16,7 @@
 		* trakty są niebezpieczne
 		* wieś na południe od miasta którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycowa Noc
 		* Łowcy skupiają się teraz na **Potworach**, nie **Czarownicach** i stąd też przemianowali się na *Łowców Potworów*
+		* w mieście znaleziono i spalono kryjówkę leśnych zbójów ( czyżby wrogiej kontrabandy Temerskiej?) - odkryto też tunel prowadzący z kryjówki do jaskini w lesie
 	* Kajetan prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini, co nie udaje się całkowicie.
 2. Rynek
 	* Wychodząc od [Vigga](#p_viggo_regner), zauważamy poruszenie wśród miejskiej gawiedzi. Są podekscytowani i tłoczą się w stronę rynku.
@@ -42,17 +43,17 @@
 6. [Różyczka](#l_rozyczka) - konfrontacja
 	* Karczma lekko podupadła, brakuje zarówno jadła jak i klienteli, a to w związku ze szczurami, które od dłuższego czasu niszczą zapasy jedzenia.
 	* Snują się opowieści przy kuflu:
-		* [Kajetan](#g_kajetan) zmierzał do Vartburga licząc że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
+		* [Kajetan](#g_kajetan) zmierzał do Vartburga licząc, że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
 		* [Ilana](#g_ilana) poszukuje druida imieniem [Myszowór](#p_myszowor), który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej. Opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
 	* [Podjudzacz robotników](#p_mlody_kaplan), którego [Ilana](#g_ilana) rozpoznaje niemal natychmiast, pojawia się z towarzyszem w karczmie nieludzi. Niby-uprzejmie wypytuje [Marię](#p_maria) co można zamówić (sprawia wrażenie pytającego jak źle jest).
 	* [Podjudzacz jest kapłanem](#p_mlody_kaplan) który ostrzy zęby na pozycję [głównego kapłana](p_kaplan_matias) (przemawiający staruszek z Rynku) - wnioskujemy to z jego rozmowy z kompanem.
-	* Do karczmy wchodzi (choć lepszym słowem byłoby wtargnięcie) znajoma już banda robotników. próbując nawiązać bójkę. Zostaje jednak spacyfikowana i przepędzona przez [Kapłana](#p_mlody_kaplan). 
+	* Do karczmy wchodzi (choć lepszym słowem byłoby wtargnięcie) znajoma już banda robotników i próbuje nawiązać bójkę. Zostaje jednak spacyfikowana i przepędzona przez [Kapłana](#p_mlody_kaplan). 
 	* Na zewnątrz niemal natychmiast zjawia się straż i aresztuje bojówkarzy.
-	* [Gospodarze](p_maria) są wdzięczni, [Ilana](#g_ilana) jednak dostrzega, że to przedstawienie z użyciem magii i konfrontuje [Kapłana](#p_mlody_kaplan).
+	* [Gospodarze](#p_maria) są wdzięczni, [Ilana](#g_ilana) jednak dostrzega, że to przedstawienie z użyciem magii i konfrontuje [Kapłana](#p_mlody_kaplan).
 	* [Kajetan](#g_kajetan) nie chce się mieszać i wychodzi do [Ziołowego Kufla](#l_ziolowy_kufelek). Odnosi wrażenie że [Różyczka](#l_rozyczka) skazana jest na zagładę, a jakiekolwiek akcje mogą tylko pogorszyć już i tak fatalną sytuację.
 	* [Kapłan](#p_mlody_kaplan) posiłkuje się magią żeby zakończyć starcie z [Ilaną](#g_ilana), co mu się o dziwo udaje.
 	* [Ilana](#g_ilana) poirytowana nie na żarty wychodzi za [Kajetanem](#g_kajetan) po chwili zmieniając się w kota.
-	* Po drodze spotyka szczury, które próują ją dopaść. Te także mają nienaturlanie zółte gadzie oczy.
+	* Po drodze spotyka szczury, które próbują ją dopaść. Te także mają nienaturlanie zółte gadzie oczy.
 7. [Ziołowy Kufel](#l_ziolowy_kufelek)
 	* Dowiadujemy się kilku ciekawych rzeczy:
 		* karczma ta okazuje się nie jest aż tak strasznie droga
@@ -68,5 +69,5 @@
 	* Polecamy mu udać się po doraźną pomoc do [Viggo](#p_viggo_regner).
 	* Zostajemy w Kufelku na noc, a nad ranem sami idziemy do [Vigga](#p_viggo_regner).
 8. [Viggo Regner](#p_viggo_regner)
-	* [Viggo](#p_viggo_regner) nie chce/nie może wziąć [Darii](#p_daria) na naukę i zgadza się że kapłanki Melitele to dobry pomysł.
+	* [Viggo](#p_viggo_regner) nie chce/nie może wziąć [Darii](#p_daria) na naukę i zgadza się, że kapłanki Melitele to dobry pomysł.
 	* Jesteśmy w trakcie rozmowy, kiedy rozlega się głośne pukanie do drzwi.
