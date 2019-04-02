@@ -82,11 +82,11 @@ for ref in refs:
 
 if 'CI' in os.environ:
   r = requests.post('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT']+'/comments',
-    json={"string": feedback},
+    json={"body": feedback},
     auth=requests.auth.HTTPBasicAuth(os.environ['github_user'], os.environ['github_token'])
     )
   print("requests debug");
-  print('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT'][:7]+'/comments')
+  print('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT']+'/comments')
   print(r.text)
   print(r.status_code)
 
