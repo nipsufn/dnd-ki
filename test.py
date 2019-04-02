@@ -50,8 +50,8 @@ for filePath in fileList:
             )
     if balance[0]%2 != 0:
       write("Unmatched \" in file: " + filePath)
-    if balance[1] != balance[2]:
-      write("Unmatched <> in file: " + filePath)
+    # if balance[1] != balance[2]:
+    #   write("Unmatched <> in file: " + filePath)
     if balance[3] != balance[4]:
       write("Unmatched () in file: " + filePath)
     if balance[5] != balance[6]:
