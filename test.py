@@ -77,7 +77,7 @@ for ref in refs:
 if 'CI' in os.environ:
   requests.post('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT']+'/comments',
     json={"string": feedback},
-    auth=requests.HTTPBasicAuth(os.environ['github_user'], os.environ['github_token'])
+    auth=requests.auth.HTTPBasicAuth(os.environ['github_user'], os.environ['github_token'])
     )
   if feedback != "":
     os.exit(1)
