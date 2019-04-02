@@ -21,7 +21,6 @@
         * [Aen Eldrin](#r_aen_eldrin) są uwięzieni w [Brokilonie](#l_brokilon) przez moc portalu, nie mogą wyjść po za granice lasu - dlatego właśnie próbują poszerzyć jego granice
     * [Ilana](#g_ilana) wspomina co widzieliśmy w [Medownej](#l_medowna), na prośbę [Tytanii](#p_tytania) tłumaczy gdzie leży wieś. 
     * [Tytania](#p_tytania) mówi na odchodne 
-
         > Opowieści to rola [Oberona](#p_oberon), ja muszę ścigać Galfiasa.
         
         następnie znika zostawiając wszystkich z setką pytań.
