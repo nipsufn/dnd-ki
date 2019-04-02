@@ -63,4 +63,4 @@
         * [Finarin](#p_druid_finarrin) musi wytłumaczyć nam dokładnie czego szukać, jako że raz już tam byliśmy i ogólne pojęcie co się dzieje mamy
     * Po kolacji rozchodzimy się do chatek. [Ilana](#g_ilana) oddaje swój pokój [Enid](#p_enid) na tak długo, jak tylko druidka będzie go potrzebowała.
     * Sama wprasza się do braci Drummond. [Ivar](#p_ivar) nie szczędząc uszczypliwości decyduje się znaleźć sobie tymczasowo inne lokum, robiąc miejsce dla tej dwójki.
-    * [Kajetan](#g_kajetan) odprowadza [Mirnę] i wręcza jej wreszcie znaleziony kwiat. Druidka opowiada mu co nieco o zastosowaniu jego odużających właściwości w produkcji fistechu, proponując lekcję praktyczną. 
+    * [Kajetan](#g_kajetan) odprowadza [Mirnę](#p_mirna) i wręcza jej wreszcie znaleziony kwiat. Druidka opowiada mu co nieco o zastosowaniu jego odużających właściwości w produkcji fistechu, proponując lekcję praktyczną. 
