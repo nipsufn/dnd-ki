@@ -3,10 +3,18 @@
 import os
 import sys
 import re
+import requests
 
 fileList = [f for f in os.listdir() if os.path.isfile(f)]
 tags = []
 refs = []
+
+feedback = ""
+
+def write(text):
+  global feedback
+  feedback += text + "\n"
+
 
 for filePath in fileList:
   if filePath == sys.argv[0][2:]:
@@ -29,24 +37,24 @@ for filePath in fileList:
         elif re.search(r"\[[^\[^\]]+?\]\(#\w(_\w+)+\)", lineText[0:match.end(0)+1]):
           refs.append([match.group(0), lineNo, match.start(0), filePath, False])
         else:
-          print("Tag or reference malformed: " + match.group(0)
+          write("Tag or reference malformed: " + match.group(0)
             + "; line: " + str(lineNo+1)
             + "; position: " + str(match.start(0))
             + "; file: " + filePath
             )
     if balance[0]%2 != 0:
-      print("Unmatched \" in file: " + filePath)
+      write("Unmatched \" in file: " + filePath)
     if balance[1] != balance[2]:
-      print("Unmatched <> in file: " + filePath)
+      write("Unmatched <> in file: " + filePath)
     if balance[3] != balance[4]:
-      print("Unmatched () in file: " + filePath)
+      write("Unmatched () in file: " + filePath)
     if balance[5] != balance[6]:
-      print("Unmatched [] in file: " + filePath)
+      write("Unmatched [] in file: " + filePath)
 
 for n, x in enumerate(tags):
   for o, y in enumerate(tags):
     if o > n and x[0] == y[0]:
-      print("Duplicate tag found: " + y[0]
+      write("Duplicate tag found: " + y[0]
         + "; first: line: " + str(x[1]+1)
         + ", position: " + str(x[2])
         + ", file: " + x[3]
@@ -60,8 +68,26 @@ for ref in refs:
     if ref[0] == tag[0]:
       ref[4] = True
   if not ref[4]:
-    print("Reference malformed: " + ref[0]
+    write("Reference malformed: " + ref[0]
       + "; line: " + str(ref[1]+1)
       + "; position: " + str(ref[2])
       + "; file: " + ref[3]
       )
+
+if 'CI' in os.environ:
+  requests.post('https://api.github.com/repos/'+os.environ['TRAVIS_REPO_SLUG']+'/commits/'+os.environ['TRAVIS_COMMIT']+'/comments',
+    json={"string": feedback},
+    auth=HTTPBasicAuth(os.environ['github_user'], os.environ['github_token'])
+    )
+  if feedback != "":
+    os.exit(1)
+  else:
+    os.exit(0)
+else:
+  if feedback != "":
+    print(feedback)
+    print("Test completed")
+    sys.exit(1)
+  else:
+    print("Test completed")
+    sys.exit(0)
