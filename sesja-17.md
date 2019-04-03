@@ -11,8 +11,9 @@
 		* [Leiv](#p_leiv) i [Ivar](#p_ivar) są jego przyrodnimi braćmi
 		* mają wspólną matkę, ale ojcem [Skovika](#p_skovik) jest [Lugos](#p_lugos) zwany Szalonym, jarl klanu [Drummond](p_drummond), a braci - inny mężczyzna z ich klanu 
 		* [Skovik](#p_skovik) jest nieślubnym, nieoficjalnym synem jarla [Lugosa](#p_lugos) i branki jednego z Drummondów z czasów rajzy, pozbawionym praw do sukcesji
-		* w czasie puczu, podczas którego próbował pomścić swojego ojca, obaj jego bracia byli na morzu
+		* w czasie puczu, podczas którego próbował pomścić swojego ojca, obaj jego bracia byli na morzu 
 	* Wysłuchawszy relacji [Skovika](#p_skovik), [Ilana](#g_ilana) wychodzi do miasta rozejrzeć się w poszukiwaniu mapy. O tak późnej godzinie zbyt wiele niestety nie znajduje, wraca więc na noc do [Perełki](#l_perelka).
+	* [Skovik](#p_skovik) zaskakuje [Ilanę](#g_ilana) wyznaniem, że bardzo chciałby aby popłynęła z nim na [Skellige](#l_wyspy_skellige). Nie chodzi bowiem o plany, które druidka powzięła już jakiś czas temu - jego wyznanie ma wydźwięk bardziej... romantyczny?
 	* Rankiem wszyscy spotykamy się przy śniadaniu. [Ilana](#g_ilana) w ramach przeprosin za swoje zachowanie poprzedniego wieczora oddaje [Kajetanowi](#g_kajetan) butelkę z mandragorą z chęcią omówienia dalszych planów podróży. 
 	* Ku jej zaskoczeniu, elf zmienił zdanie odnośnie wyprawy do Brokilonu. Zarówno on, jak i [Ivar](#p_ivar) zdają się być w wyśmienitych humorach po udanej nocy (to na pewno przez te wygodne łóżka).
 	* Teraz już w zgodzie, robimy zakupy niezbędne do dalszej wędrówki i ruszamy na zachód od miasta aby przeprawić się mostem granicznym do [Verden](#l_verden). 

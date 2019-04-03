@@ -11,7 +11,7 @@
 	* Elf próbuje "wtłoczyć" w niego nieco magii, w skutek czego rysa na kamieniu powiększa się.
 	* Po śniadaniu [Ilana](#g_ilana) i [Kajetan](#g_kajetan) wybierają się do [biblioteki](#l_biblioteka), a [Skovik](#p_skovik) z braćmi na zakupy:
 		* interesujące lokacje w okolicy:
-			* [Krag An](#l_krag_an) - nietknęte ruiny dużego elfickeigo miasta w środku [Brokilonu](#l_brokilon)
+			* [Craag An](#l_craag_an) - nietknęte ruiny dużego elfickeigo miasta w środku [Brokilonu](#l_brokilon)
 			* [Sowie Wzgórza](#l_sowie_wzgorza) - kopalnie węgla
 			* [Świątynia Kreve](#l_swiatynia_kreve) - opuszczona świątynia Kreve, boginii sprawiedliwości, w [Sowich Wzgórzach](#l_sowie_wzgorza) na południe od [Brugge](#l_m_brugge)
 		* żadne z miejsc opisanych w księgach nie wydaje się być bezpiecznym miejscem do zwiedzania/eksploracji, decydujemy się wyruszać w dalszą drogę, do [Dillingen](#l_dillingen)
