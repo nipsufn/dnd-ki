@@ -30,7 +30,7 @@
     * [Ilana](#g_ilana) uczy się władać ogniem. [Kajetan](#g_kajetan), nie chcąc być gorszy (i marnować okacji do głupich żartów), uczy się również, podglądając lekcje z ukosa
     * Drużyna udaje się na spoczynek
     * Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę
-2. Droga do [Medownej]
+2. Droga do [Medownej](#l_medowna)
     * udaje się nam przedostać przez terytorium [Krabopająków](#b_krabopajak) - widocznie się rozszerzyło od pradawnych czasów gdy druidzi wyznaczyli ścieżkę przez las
     * [Kajetan](#g_kajetan) i [Ilana](#g_ilana) rozmawiają o przysłości drużyny:
         * [Kajetan](#g_kajetan) zdaje się powoli zauważać że jego butność sprawia kłopoty, ale cały czas nie dostrzega że nie dopuszcza nikogo do słowa
