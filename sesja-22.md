@@ -27,7 +27,7 @@
         * driady są ledwie dziećmi, pod nieobecność [Eithne](#p_eithne) zdają się naturalnie słuchać zdecydowanej, pewnej siebie i władczej [Tytanii](#p_tytania), nie są też obojętne pieśniom barda, [Oberona](#p_oberon)
         * [Finarrin](#p_druid_finarrin) poleca nam ominąć szerokim łukiem [Craag An](#l_craag_an), [Duen Canell](#l_duen_canell) i [Col Serrai](#l_col_serrai)
     * podczas kolacji zapadają finalne plany wyprawy do [Medownej](#l_medowna)
-    * [Ilana](#g_ilana) uczy się władać ogniem. [Kajetan](#g_kajetan), nie chcąc być gorszy (i marnować okacji do głupich żartów), uczy się również, podglądając lekcje z ukosa
+    * [Ilana](#g_ilana) uczy się władać ogniem. [Kajetan](#g_kajetan), nie chcąc być gorszy (i marnować okazji do głupich żartów), uczy się również, podglądając lekcje z ukosa
     * Drużyna udaje się na spoczynek
     * Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę
 2. Droga do [Medownej](#l_medowna)
@@ -36,6 +36,8 @@
         * [Kajetan](#g_kajetan) zdaje się powoli zauważać że jego butność sprawia kłopoty, ale cały czas nie dostrzega że nie dopuszcza nikogo do słowa
         * [Ilanie](#g_ilana) udaje się wtrącić do elfiego monologu nieco o jej młodości i opuszczaniu trudnych lub denerwujących dyskusji, jako że w przyszłości zwykle kończyły się one rękoczynami. Podejście takie zostało jej wpojone różnymi sposobami przez opiekunów, [Enid](#p_enid) i [Finarrina](#p_druid_finarrin)
         * [Kajetan](#g_kajetan) dowiaduje się nieco o nienawiści [Enid](#p_enid) do elfów, domyśla się że jej metody wychowawcze sprowadzały się do kija wspomnianego przez [Ilanę](#g_ilana)
+        * [Ilana](#g_ilana) proponuje aby udać się do [Brugge](#l_brugge). [Kajetan](#g_kajetan) mało nie dostaje palpitacji na samą myśl, jednak pomysł poproszenia [Leiva](#p_leiv) o załatwienie sprawunków o których miśli młoda druidka nieco go uskpokaja
+        * [Ilana](#g_ilana) podejrzewa że sowa która próbowała za nami lecieć podczas naszej ucieczki to [Filippa Eilhart](#p_filippa_eilhart)
     * zwabione przez rzucane przez nas zaklęcia [nekkery](#b_nekker) atakują nas pod koniec naszej podróży. Dowodzi nimi humanoidalna postać, z jej klatki piersiowej wystaje gałąź, nieco kojarząca się z tą która zraniła draidę której musieliśmy się pozbyć w [Wiosce](#l_wioska). Ostatnim tchem woła:<br/><br/>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Królowo Cierni, ratuj!"*<br/><br/>
     * w czasie walki [Kajetan](#g_kajetan) próbuje przyzwać [Bizoktora](#b_bizoktor) (uderza zakrwawioną dłonią w drzewo powołując się w Starszej Mowie na dziedzictwo [Ilany](#g_ilana)), który rzeczywiście przybywa nam na odsiecz, nieco jednak spóźniony. Odprowadza nas do granicy lasu, znikając o wschodzie słońca
