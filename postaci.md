@@ -62,10 +62,10 @@
     * Mirna<a id='p_mirna'></a> - człowiek; druid
         * przyjaciółka [Ilany](#g_ilana)
     * Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego, poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
-    * Enid<a id="p_enid"></a> - człowiek z niewielką domieszką krwi elfa; druidka, partnerka [Finarrina](#p_druid_finarrin); podczas rytuału Równonocy zamieniła się w szopa pracza, od tego czasu ukrywała się w domu druida
+    * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub kwateronka); druidka, partnerka [Finarrina](#p_druid_finarrin); podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
     * Cedrik<a id="p_cedrik"></a> - elf; druid
         Mentor [Mirny](#p_mirna)
-    * Dum-dum<a id='p_dumdum'></a> - ; druid
+    * Doreein<a id='p_doreein'></a> - ; druid
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
