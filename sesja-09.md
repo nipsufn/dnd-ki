@@ -38,10 +38,10 @@
 		* [Skovik](#p_skovik) z braćmi należą do klanu Drummond
 		* jarlem na Skellige została kobieta z klanu An Craite, [Cerys](#p_cerys)
 		* starsi klanów nie są zadowoleni z polityki [Cerys](#p_cerys), która planuje ukrócić pirackie tradycje
-		* Klany Drummond i An Crait dzielą jedną z wysp, są skłócone
+		* klany Drummond i An Craite dzielą jedną z wysp, są skłócone
 		* z klanu Drummond ponoć pochodzą najlepsi żeglarze
 		* na wyspach znajdowała się jedna ze szkół wiedźminów
-		* klan An Crait gościł kiedyś jednego z wiedźminów
+		* klan An Craite gościł kiedyś jednego z wiedźminów
 		* [Leiv](#p_leiv) widział kiedyś wiedźmina na [Ard Skellig](#l_ard_skellig)
 	* Driady gościły kiedyś wiedźmina Gwymleita ([Kajetan](#g_kajetan) kojarzy elfickie miano z [Geraltem](#p_geralt)).
 	* Według [Aedirnczyków](#p_yarii) wiedźmini są "psami [Foltesta](#p_krol_foltest)", któryś z nich podobno zabił [Demawenda](#p_krol_demawend) za pieniądze.

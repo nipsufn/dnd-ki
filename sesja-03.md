@@ -5,7 +5,7 @@
 	* Wszyscy drwale poza majstrem rozeszli się już do domów - nie zamierzają pracować póki nie będzie bezpiecznie.
 	* [Wojciech](#p_wojciech) czeka na nas. W ramach podzięki za zniwelowanie problemu zaprasza nas na kolację do [Kuropatwy](#l_kuropatwa) na podgrodziu, oferując zapłacić też za nocleg.
 2. W [Kuropatwie](#l_kuropatwa)
-	* [Kajetan](#g_kajetan) z majstrem wchodzą do karczmy, kiedy Ilana idzie zanieść do stajni łeb ubitego stwora.
+	* [Kajetan](#g_kajetan) z majstrem wchodzą do karczmy, [Ilana](#g_ilana) idzie zanieść do stajni łeb ubitego stwora.
 	* Do gospody przyjeżdża starszy mężczyzna. Odprowadza konia do stajni i zabiera z juków skórzany tubus.
 		* [Ilana](#g_ilana) widzi jak człowiek ten przybija do tablicy ogłoszeń przed gospodą jakiś pergamin
 		* czeka, aż mężczyzna odejdzie i idzie przeczytać ogłoszenie
@@ -15,7 +15,7 @@
 3. Nad ranem po nocy w Kuropatwie
 	* Wychodząc z [Kuropatwy](#l_kuropatwa) [Ilana](#g_ilana) zauważa, że ktoś zerwał i celowo zniszczył ogłoszenie ze świątyni Melitele.
 	* Wchodzimy do miasta. Strażnicy nie robią problemów na bramie.
-	* Miejeski krzykacz ogłasza, że jest nagroda za informacje o bandytach grasujących w okolicznym lesie.
+	* Miejski krzykacz ogłasza, że jest nagroda za informacje o bandytach grasujących w okolicznym lesie.
 	* W drodze do [Różyczki](#l_rozyczka), gdzie umówiliśmy się wcześniej z [Kranmerami](#p_otto_kranmer) by odebrać pieniądze za wykonanie zlecenia, przechodzimy obok zakładu alchemicznego “[Fiolka Zdrowia](#l_fiolka_zdrowia)”.
 	* Przed sklepem stoi grupa łowców, najwyraźniej pilnują wejścia.
 	* Przystajemy na chwilę i obserwujemy z daleka. Widzimy jak ze środka po chwili wychodzi bogato odziany jegomość. Grupa Łowców wygląda na jego eskortę (podwładnych?).
