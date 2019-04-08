@@ -28,21 +28,21 @@
     * W [Świątyni Melitele](#l_smelitele) po naszym wyjeździe pojawiła się elfka, zdaje się czarodziejka - szukała kogoś i pokłóciła się z [Matką Iolą](#p_matka_iola) twierdząc że wie gdzie delikwent się znajduje i zatrzymuje wiedzę dla siebie. Relację o tym zdaje nam właśnie [Eliza](#p_eliza).
     * [Ilana](#g_ilana) zauważa że [Eliza](#p_eliza) pali raczka sprzedając ubrania na zimę [Kajetanowi](#g_kajetan) (czyżby coś miało być na rzeczy?).
 4. [Różyczka](#l_rozyczka)
-	* Zachodząc do karczmy na nocleg, trafiamy na obu [Aedirnczyków](#p_yarii) zajętych dyskusją i piciem piwa.
-	* Dosiadamy się do nich i Kajetan nawiązuje dyskusję, pytając [Yariiego](#p_yarii) o tatuaż na jego ramieniu. Mężczyzna opowiada, że jest to symbol Aedirn (patriota i dezerter?).
-	* W niedługim czasie do Różyczki wchodzą [Zerrikanki](#p_chida), wyraźnie lekko poturbowane. [Ilana](#g_ilana) dowiaduje się od nich, że jacyś miejscy chłystkowie próbowali je zaatakować z powodu koloru ich skóry.
-	* Po chwili rozmowy [Ebba](#p_ebba) i [Chida](#p_chida) przesiadają się do osobnego stolika, a do grupy dołącza [Skovik](#p_skovik) z braćmi.
-	* Kajetan gra z [Yariim](#p_yarii) w szachy, a Ilana wciąga się w grę w karty ze [Skovikiem](#p_skovik); stawką jest szczera odpowiedź na zadane pytanie.
-	* [Ilanie](#g_ilana) nie idzie zbyt dobrze, w efekcie czego jest winna Skovikowi nie tylko sporo faktów, o które pyta, ale też kieł niedźwiedzia do jego naszyjnika. [Kajetanowi](#g_kajetan) za to udaje się, po przegranej w szachy, wygrać w karty ze Skovikiem i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#l_wyspy_skellige).
-		* na wyspach jest 7 klanów
-		* [Skovik](#p_skovik) z braćmi należą do klanu Drummond
-		* jarlem na Skellige została kobieta z klanu An Craite, [Cerys](#p_cerys)
-		* starsi klanów nie są zadowoleni z polityki [Cerys](#p_cerys), która planuje ukrócić pirackie tradycje
-		* klany Drummond i An Craite dzielą jedną z wysp, są skłócone
-		* z klanu Drummond ponoć pochodzą najlepsi żeglarze
-		* na wyspach znajdowała się jedna ze szkół wiedźminów
-		* klan An Craite gościł kiedyś jednego z wiedźminów
-		* [Leiv](#p_leiv) widział kiedyś wiedźmina na [Ard Skellig](#l_ard_skellig)
-	* Driady gościły kiedyś wiedźmina Gwymleita ([Kajetan](#g_kajetan) kojarzy elfickie miano z [Geraltem](#p_geralt)).
-	* Według [Aedirnczyków](#p_yarii) wiedźmini są "psami [Foltesta](#p_krol_foltest)", któryś z nich podobno zabił [Demawenda](#p_krol_demawend) za pieniądze.
-	* Proponujemy naszym nowym kompanom wspólne, prawdopodobnie dość intratne zlecenie. Przystają na nie tylko bracia Drummond, bo reszta już coś sobie znalazła.
+    * Zachodząc do karczmy na nocleg, trafiamy na obu [Aedirnczyków](#p_yarii) zajętych dyskusją i piciem piwa.
+    * Dosiadamy się do nich i Kajetan nawiązuje dyskusję, pytając [Yariiego](#p_yarii) o tatuaż na jego ramieniu. Mężczyzna opowiada, że jest to symbol Aedirn (patriota i dezerter?).
+    * W niedługim czasie do Różyczki wchodzą [Zerrikanki](#p_chida), wyraźnie lekko poturbowane. [Ilana](#g_ilana) dowiaduje się od nich, że jacyś miejscy chłystkowie próbowali je zaatakować z powodu koloru ich skóry.
+    * Po chwili rozmowy [Ebba](#p_ebba) i [Chida](#p_chida) przesiadają się do osobnego stolika, a do grupy dołącza [Skovik](#p_skovik) z braćmi.
+    * Kajetan gra z [Yariim](#p_yarii) w szachy, a Ilana wciąga się w grę w karty ze [Skovikiem](#p_skovik); stawką jest szczera odpowiedź na zadane pytanie.
+    * [Ilanie](#g_ilana) nie idzie zbyt dobrze, w efekcie czego jest winna Skovikowi nie tylko sporo faktów, o które pyta, ale też kieł niedźwiedzia do jego naszyjnika. [Kajetanowi](#g_kajetan) za to udaje się, po przegranej w szachy, wygrać w karty ze Skovikiem i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#l_wyspy_skellige).
+        * na wyspach jest 7 klanów
+        * [Skovik](#p_skovik) z braćmi należą do klanu Drummond
+        * jarlem na Skellige została kobieta z klanu An Craite, [Cerys](#p_cerys)
+        * starsi klanów nie są zadowoleni z polityki [Cerys](#p_cerys), która planuje ukrócić pirackie tradycje
+        * klany Drummond i An Craite dzielą jedną z wysp, są skłócone
+        * z klanu Drummond ponoć pochodzą najlepsi żeglarze
+        * na wyspach znajdowała się jedna ze szkół wiedźminów
+        * klan An Craite gościł kiedyś jednego z wiedźminów
+        * [Leiv](#p_leiv) widział kiedyś wiedźmina na [Ard Skellig](#l_ard_skellig)
+    * Driady gościły kiedyś wiedźmina Gwymleita ([Kajetan](#g_kajetan) kojarzy elfickie miano z [Geraltem](#p_geralt)).
+    * Według [Aedirnczyków](#p_yarii) wiedźmini są "psami [Foltesta](#p_krol_foltest)", któryś z nich podobno zabił [Demawenda](#p_krol_demawend) za pieniądze.
+    * Proponujemy naszym nowym kompanom wspólne, prawdopodobnie dość intratne zlecenie. Przystają na nie tylko bracia Drummond, bo reszta już coś sobie znalazła.
