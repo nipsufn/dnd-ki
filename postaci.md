@@ -54,7 +54,7 @@
         Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](#r_aen_eldrin)
     * Verenestra "Księżna Dębu"<a id='p_verenestra'></a>
         Jedna z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
-    * Oberon "Zieloby Lord", "Książęcy Bard"<a id='p_oberon'></a>
+    * Oberon "Zielony Lord", "Książęcy Bard"<a id='p_oberon'></a>
         Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
     * Auril "Pan Lodowego Ogrodu"<a id='p_auril'></a>
         * Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
@@ -67,6 +67,8 @@
         Mentor [Mirny](#p_mirna)
     * Doreein<a id='p_doreein'></a> - ; druid
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
+    * Yeavin<a id='p_yeavin'></a> - elf;
+        Scoia'tael
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
         * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
