@@ -71,9 +71,10 @@
     * agresywne, terytorialne
     * czasem walczą z [Kikimorami](#b_kikimora)
 * Morvudd<a id='b_bizoktor'></a>
-    * "Bizoktor", "Leszek", "Leszy"; Legendarny Brolkilonu protektor
+    * "Bizoktor", "Leszek", "Leszy"; jedna z personifikacji Protektora
     * pół jeleń pół bizon, giczały ma szponiaste i poniekąd chwytne
     * rozumie starszą mowę, w jego trzech oczach czasem przebłyskuje niemal "ludzka" inteligencja
+    * jest olbrzymi, wysokości przeciętnego drzewa w Brokilonie
 * Djinni<a id='b_djinni'></a>
     * personifikacja siły natury, np ognia
     * może zostać zmuszony do spełnienia życzenia

@@ -65,10 +65,11 @@
     * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub kwateronka); druidka, partnerka [Finarrina](#p_druid_finarrin); podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
     * Cedrik<a id="p_cedrik"></a> - elf; druid
         Mentor [Mirny](#p_mirna)
-    * Doreein<a id='p_doreein'></a> - ; druid
+    * Doreein<a id='p_doreein'></a> - ; druid, potrafi zmieniać się w zwierzę,
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
-    * Yeavin<a id='p_yeavin'></a> - elf;
-        Scoia'tael
+    * Yaevin<a id='p_yaevin'></a> - elf;
+        Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
+    * Królowa Cierni<a id="p_krolowa_cierni"></a> - elfka; prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?); obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
         * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
