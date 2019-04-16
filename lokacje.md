@@ -92,7 +92,7 @@
 * Wyspy Skellige<a id='l_wyspy_skellige'></a>
     * Ard Skellig<a id='l_ard_skellig'></a>
         * największa wyspa na Skellige
-    * Vornhala<a id='l_vornhala'></a>
+    * Fornhala<a id='l_fornhala'></a>
         * jedna z osad na Wyspach
         * siedziba Vildcaarlów
 * Verden<a id='l_verden'></a>

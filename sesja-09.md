@@ -24,8 +24,8 @@
     * Lepiej przeprawiać się statkiem zimą, bo morze jest spokojniejsze.
 3. [Krawcowa](#p_eliza)
     * Przybyła do miasta dzień temu z transportem ludzi wyleczonych w świątyni.
-    * Wygląda lepiej, zdaje się być bardziej pogoda i wypoczęta.
-    * W [Świątyni Melitele](#l_smelitele) po naszym wyjeździe pojawiła się elfka, zdaje się czarodziejka - szukała kogoś i pokłóciła się z [Matką Iolą](#p_matka_iola) twierdząc że wie gdzie delikwent się znajduje i zatrzymuje wiedzę dla siebie. Relację o tym zdaje nam właśnie [Eliza](#p_eliza).
+    * Wygląda lepiej, zdaje się być bardziej pogodna i wypoczęta.
+    * W [Świątyni Melitele](#l_smelitele) po naszym wyjeździe pojawiła się elfka, zdaje się czarodziejka - szukała kogoś i pokłóciła się z [Matką Iolą](#p_matka_iola) twierdząc, że ta wie gdzie delikwent się znajduje i zatrzymuje wiedzę dla siebie. Relację o tym zdaje nam właśnie [Eliza](#p_eliza).
     * [Ilana](#g_ilana) zauważa że [Eliza](#p_eliza) pali raczka sprzedając ubrania na zimę [Kajetanowi](#g_kajetan) (czyżby coś miało być na rzeczy?).
 4. [Różyczka](#l_rozyczka)
     * Zachodząc do karczmy na nocleg, trafiamy na obu [Aedirnczyków](#p_yarii) zajętych dyskusją i piciem piwa.

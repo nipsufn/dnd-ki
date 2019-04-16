@@ -14,24 +14,24 @@
         * Puste miejsce (po [Kapłanie Matiasie](#p_kaplan_matias)?)
     * Rada zupełnie nie kryje swojej niezgody.
         * Są podzieleni na dwa obozy, religijny/mistyczny (Myrton, Viggo, młody mężczyzna) i świecki (Kapitan, Kupiec Mendrej, starsza pani).
-        * Chętnie używają petentów i informacji które przynoszą do niekrytej rozgrywki politycznej.
+        * Chętnie używają petentów i informacji, które ci przynoszą do niekrytej rozgrywki politycznej.
         * Żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego lub dostarczenie dowodów jednoznacznie potwierdzających nasze podejżenia - [Igna](#p_igna) ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**.
 3. Na mieście
     * Ruszamy w stronę magazynu gdzie złapaliśmy poprzednio szczura; [Ivar](#p_ivar) zakuwa się w zbroję w [Różyczce](#l_rozyczka).
     * [Ilana](#g_ilana) i [Leiv](#p_leiv) idą osobno aby "otoczyć lokację" - [Ilana](#g_ilana) patrzy oczami jakiegoś losowo złapanego szczura (nie mogła tego zrobić przy [Ignie](#p_igna)), odnajduje kryjówkę Szczurołapa.
     * Drużyna spotyka się pod magazynem, razem biegniemy do budynku wskazanego przez [Ilanę](#g_ilana).
-    * Odkrywamy stary pokój z zakrwawionym ołtażem na końcu tunelu który znaleźliśmy w piwnicy. W pokoju widać wiele wejść do tuneli o różnych rozmiarach.
+    * Odkrywamy stary pokój z zakrwawionym ołtażem na końcu tunelu, który znaleźliśmy w piwnicy. W pokoju widać wiele wejść do tuneli o różnych rozmiarach.
     * Dostrzegamy Szczurołapa, pokonujemy go i obezwładniamy.
-        * Szczury zaczęły zachowywać się normalnie gdy stracił przytomność.
-        * Stracił rękę którą grał na flecie wykonanym ze szczątków elfiego niemowlęcia.
+        * szczury zaczęły zachowywać się normalnie gdy stracił przytomność
+        * stracił rękę którą grał na flecie wykonanym ze szczątków elfiego niemowlęcia
     * [Skovik](#p_skovik) niszczy ołtarz na prośbę [Kajetana](#g_kajetan), [Igna](#p_igna) zauważa na ołtażu znak [Lwiogłowego Pająka](#r_lwioglowy_pajak).
     * Uciekamy z podziemi gonieni przez elfie [Banshee](#b_banshee) uwolnione z ołtarza.
     * [Ilana](#g_ilana) mając na uwadze dobro drużyny i potrzebę wyciągnięcia nas natychmiast z tunelu, ryzykuje przemianę w niedźwiedzia mimo obecności [Igny](#p_igna). 
-    * Chcąc nie chcąc druidka demaskuje się także niemal całkowicie przed [Skovikiem](#p_skovik), czego dotąd próbowała uniknąć po pytaniach jakie zadał jej podczas gry w karty.
+    * Chcąc nie chcąc druidka demaskuje się także przed [Skovikiem](#p_skovik), czego dotąd próbowała uniknąć po pytaniach jakie zadał jej podczas gry w karty.
     * Sam [Skovik](#p_skovik) wydaje się być zaś zaskoczony i zachwycony widząc, że mimo wymijających odpowiedzi [Ilany](#g_ilana) ta potwierdza jego przypuszczenia na temat druidów - potrafi zmienić się w niedźwiedzia.
 4. Siedziba Łowców
     * Szczurołap zostaje skuty srebrem i zamknięty w lochach.
-    * [Lord Myrton](#p_lord_myrton) nie wydaje się być rozwścieczony faktem że pytaliśmy o nagrodę Radę zamiast niego (potencjalnie nadwyrężając jego pozycję polityczną).
+    * [Lord Myrton](#p_lord_myrton) nie wydaje się być rozwścieczony faktem, że pytaliśmy o nagrodę Radę zamiast niego (potencjalnie nadwyrężając jego pozycję polityczną).
     * Częstuje nas winem, tym razem z drewnianych kielichów.
     * Zdajemy relację z wyprawy. Przez cały czas bracia Drummond próbują niemal wleźć w ściany jakby czując obawę przed zwróceniem na siebie zbytniej uwagi [Myrtona](#p_lord_myrton).
     * Mamy stawić się przed radą miejską następnego dnia po odbiór nagrody.
@@ -39,9 +39,9 @@
     * Świętujemy sukcess dużą ilością mocnego alkoholu.
     * [Skovik](#p_skovik) opowiada:
         * Svalblod jest jednym z bogów na Skellige
-        * Vildcaarlowie to wojownicy potrafiący przemieniać się w zwierzęta podobnie jak [Ilana](#g_ilana); ich siedzibą jest [Fornhala](#l_vornhala)
-        * [Druid Artis](#p_druid_artis) uczył kandydatów na Vildcaarla kontrolować przemianę
-        * Skovik siedział w więzieniu za przedłożenie lojalności wobec Klanu nad lojalność wobec obecjej [władczyni Skellige](#p_cerys)
+        * Vildcaarlowie to wojownicy potrafiący przemieniać się w zwierzęta podobnie jak [Ilana](#g_ilana); ich siedzibą jest [Fornhala](#l_fornhala)
+        * [druid Artis](#p_druid_artis) uczył kandydatów na Vildcaarla kontrolować przemianę
+        * Skovik siedział w więzieniu za przedłożenie lojalności wobec klanu nad lojalność wobec obecjej [władczyni Skellige](#p_cerys)
         * nie dokończył swojego treningu u druidów, do pełnej inicjacji brakuje mu "próby krwi"; żywi nadzieję, że druidzi z kontynentu będą w stanie mu pomóc dokończyć trening
         * chwali się innym tatuażem, który otrzymał na początku swojego treningu - wytatuowaną na klatce sporą głową niedźwiedzia; tatuaż zdaje się być magiczny
         * na wyspach nie ma wyznawców Wiecznego Ognia ani Łowców, jednak o ile magów się nie zabija, nie są też lubiani

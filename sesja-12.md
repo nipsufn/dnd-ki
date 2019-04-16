@@ -12,16 +12,16 @@
     * Elf robi ostatnie zakupy na drogę, sprzedaje topór, do którego stracił zaufanie.
     * [Ilana](#g_ilana) ze [Skovikiem](#p_skovik) odwiedzają na odchodne najstarszego mieszkańca miasta. Dowiadują się więcej o histori Carreras:
         * miasto powstało po tym jak za zgodą lokalnych druidów zbudowano trakt
-        * druidzi nie chcieli śmierdzącego miasta i mieszkających w nich myśliwych w okolicy
-        * druidzi zniknęli mniej więcej w tym samym czasie w którym zaginęła córka Carrerasów, [Esme](#p_esme_carreras)
-        * Wspomniane wydarzenia działy się jakieś 3 ludzkie pokolenia temu
+        * druidzi nie chcieli śmierdzącego miasta i mieszkających w nim myśliwych w okolicy
+        * druidzi zniknęli mniej więcej w tym samym czasie, w którym zaginęła córka Carrerasów, [Esme](#p_esme_carreras)
+        * wspomniane wydarzenia działy się jakieś 3 ludzkie pokolenia temu
     * Wyruszamy z miasta czym prędzej zanim komendant zmieni zdanie i każe kręcić stryczki.
 2. W drodze do [Mariboru](#l_maribor)
     * Przy drogowskazie ogłoszenia dalej wiszą. 
     * Obok jakiś kapłan opowiada przed grupą chłopów i podróżnych pierdoły o Wiecznym Ogniu - omijamy zbiegowisko.
     * Mijamy wozy wyładowane kilofami i łopatami ciągnące od [Mariboru](#l_maribor). Od ludzi na wozach słyszymy, że:
         * miasto rzeczywiście zniknęło
-        * ludzie szukają cennych przedmiotów które pozostały w piwnicach
+        * ludzie szukają cennych przedmiotów, które pozostały w piwnicach
     * Spotykamy jakąś latającą jaszczurkę rzucającą iluzje na co popadnie. [Kajetan](#g_kajetan) sprał ją aż odpuściła iluzje, [Ilana](#g_ilana) próbowała ją oswoić, co jej się poniekąd udało.
     * Jaszczurka dziwi się zachowaniu elfa, bo "w jej świecie elfów bawią takie zabawy".
     * [Ilana](#g_ilana) w tajemnicy przed resztą grupy obiecuje zabrać pseudo-smoka do druidów, żeby pomogli mu wrócić do jego świata; zabiera go do obozu. 
