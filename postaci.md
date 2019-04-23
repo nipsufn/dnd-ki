@@ -67,7 +67,7 @@
         Mentor [Mirny](#p_mirna)
     * Doreein<a id='p_doreein'></a> - ; druid, potrafi zmieniać się w zwierzę,
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
-    * Yaevin<a id='p_yaevin'></a> - elf;
+    * Yaevinn<a id='p_yaevinn'></a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
     * Królowa Cierni<a id="p_krolowa_cierni"></a> - elfka; prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?); obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
 * [Brugge](#l_brugge)

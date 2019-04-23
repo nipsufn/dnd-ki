@@ -41,11 +41,11 @@
     * W głowie [Ilany](#g_ilana) kołacze się kilka pomysłów. Druidka zostaje w dole i czeka aż wojacy się zbliżą, po cichu licząc na w miarę pokojową rozmowę, być może nawet z samym [Florianem](#p_florian_z_vicovaro).
     * Widząc agresywne nastawienie militarii, decyduje się w ostatniej chwili na ucieczkę, zamieniając się w borsuka i ryjąc mały tunel w ziemi. 
     * Po krótkiej podróży przez tunele [nekkerów](#b_nekker), [Ilanie](#g_ilana) udaje się dotrzeć do znajomego wzgórza, a stamtąd do rzeki. 
-    * Wyczerpany [Kajetan](#g_kajetan) przedostaje się przez rzekę nieco bardziej w górę jej biegu. Na linii drzew spotyka dwie driady, które rozprawiają się z jednym z czarnych deptających mu po piętach, oraz elfa, [Yaevina](#p_yaevin), wnioskując z ubioru Scoia'tael. Jedna z driad rozpoznaje bohatera, a i Wiewiór zdaje się być przychylny pobratymcowi.
+    * Wyczerpany [Kajetan](#g_kajetan) przedostaje się przez rzekę nieco bardziej w górę jej biegu. Na linii drzew spotyka dwie driady, które rozprawiają się z jednym z czarnych deptających mu po piętach, oraz elfa, [Yaevinna](#p_yaevinn), wnioskując z ubioru Scoia'tael. Jedna z driad rozpoznaje bohatera, a i Wiewiór zdaje się być przychylny pobratymcowi.
     * [Kajetan](#g_kajetan) nalega aby najpierw zaczekać, a później odszukać [Ilanę](#g_ilana). 
     * Nad rzeką druidka przyzywa [Protektora](#b_bizoktor), który pod postacią olbrzymiego kruka przybywa jej z pomocą. Przeprawiają się przez rzekę w tym samym miejscu, w którym uczyniliśmy to rankiem. 
     * [Protektor](#b_bizoktor) wydaje się być bardzo osłabiony. Przelatując nad lasem, kruk zostaje złapany w locie i zmiażdżony przez oplecionego ciernistymi pnączami [Morvudda](#b_bizoktor). 
     * [Ilana](#g_ilana) spada, na szczęście upadek amortyzują liczne gałęzie, w skutek czego udaje jej się nie doznać zbyt dużych obrażeń.
-    * [Kajetan](#g_kajetan) z [Yaevinem](#p_yaevin) słysząc dźwięki szamotaniny, biegną w tym kierunku. Znajdują [Ilanę](#g_ilana) i wszyscy w trójkę umykamy przed zbliżającym się, zawładniętym przez ciernie [Morvuddem](#b_bizoktor).
+    * [Kajetan](#g_kajetan) z [Yaevinnem](#p_yaevinn) słysząc dźwięki szamotaniny, biegną w tym kierunku. Znajdują [Ilanę](#g_ilana) i wszyscy w trójkę umykamy przed zbliżającym się, zawładniętym przez ciernie [Morvuddem](#b_bizoktor).
     * Las zdaje się robić bardziej niebezpieczny niż do tej pory, a my jesteśmy wyczerpani. Nasz nowy towarzysz decyduje, że najszybciej wypoczniemy w towarzystwie [Oberona](#p_oberon). Nie mając siły ani okoliczności aby się sprzeczać, podążamy za nim.
     
