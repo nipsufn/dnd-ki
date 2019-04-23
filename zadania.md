@@ -50,3 +50,6 @@
     * 150GP
     * Znaleźć jakiegoś sierżanta na froncie pod [Brokilonem](#l_brokilon) i dostarczyć jego raport.
     * Właścicielka [Pod Zieloną Świeczką](#l_zielona_swieczka); "Towarzystwo"
+- [x] Leśne igraszki<a id='z_q13'></a>
+    * Kryształowy koralik dla [Kajetana](#g_kajetan)
+    * Pomóc odszukać druha [Yeavinna](#p_yaevinn) na wschodzie [Brokilonu](#l_brokilon)

@@ -53,6 +53,6 @@
         * [Ilana](#g_ilana) podejrzewa, że sowa która próbowała za nami lecieć podczas naszej ucieczki to [Filippa Eilhart](#p_filippa_eilhart)
     * Zwabione rzucanymi przez nas zaklęciami [nekkery](#b_nekker) atakują nas w ostatni dzień podróży. Dowodzi nimi humanoidalna postać, z jej klatki piersiowej wystaje gałąź, nieco kojarząca się z tą, która zraniła draidę przybyłą do [Wioski](#l_wioska). 
     * Ostatnim tchem, pozbawione wsparcia nekkerów, stworzenie woła:<br/><br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Królowo Cierni, ratuj!"*<br/><br/>
+                *"Królowo Cierni, ratuj!"*<br/><br/>
     * W czasie walki [Kajetan](#g_kajetan) próbuje przyzwać [Bizoktora](#b_bizoktor) (uderza zakrwawioną dłonią w drzewo powołując się w Starszej Mowie na dziedzictwo [Ilany](#g_ilana)), który rzeczywiście przybywa nam na odsiecz, nieco jednak spóźniony. Odprowadza nas do granicy lasu, znikając o wschodzie słońca
     * Widzimy znajome nam wzgórza. Wiemy że [Medowna](#l_medowna) leży bardzo blisko. Słyszymy słowa pieśni niosące się od wsi.

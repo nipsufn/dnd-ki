@@ -69,6 +69,7 @@
     * większe, klasa rozmiarowa od niedźwiedzia do słonia
     * żyją pod ziemią
     * agresywne, terytorialne
+    * mogą się stać (prawie?) niewidzialne
     * czasem walczą z [Kikimorami](#b_kikimora)
 * Morvudd<a id='b_bizoktor'></a>
     * "Bizoktor", "Leszek", "Leszy"; jedna z personifikacji Protektora

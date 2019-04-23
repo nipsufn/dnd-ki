@@ -64,6 +64,7 @@
         * Starożytny cmentarz elfiej szlachty, obłożony klątwami
     * Carreras<a id='l_carreras'></a>
         * Leży na osuszonym fragmencie bagna przy widłach Ismeny i Iny, ostanie miasto [Temerii](#l_temeria) i [Ellander](#l_ellander) na szlakach kupieckich do [Mahakamu](#l_mahakam)
+* Góry Sine<a id='l_gory_sine'></a>
 * Kaedwen<a id='l_kaedwen'></a>
     * Ban Ard<a id='l_ban_ard'></a>
         siedziba szkoły magów zniszczonej(?) przez Redańczyków
