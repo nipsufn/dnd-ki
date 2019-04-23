@@ -10,7 +10,7 @@
     * [Ilana](#g_ilana) przez dłuższy moment nie potrafi zasnąć. Zmęczona i poirytowana w niewybrednych słowach pyta [Zielonego Pana](#p_oberon) czy byłby łaskaw zaprzestać muzykowania. Ten zsyła na nią magiczny sen, a razem z nim koszmar:
         * wioska jest zrujnowana, budynki powalone, a ziemia przeorana i pobrużdżona
         * [Ivara](#p_ivar) i [Mirnę](#p_mirna) ciasno oplatają ciernie; oboje są martwi
-        * [Skovik] leży blady z zakrwawioną, potrzaskaną głową i rozoraną klatką
+        * [Skovik](#p_skovik) leży blady z zakrwawioną, potrzaskaną głową i rozoraną klatką
         * [Finarrin](#p_druid_finarrin) i [Enid](#p_enid) także są spętani przez ciernie, a na głowach mają cierniowe korony
 2. Ranek następnego dnia
     * Druidka budzi się nad ranem przerażona. W przeciwieństwie do [Kajetana](#g_kajetan) pamięta dokładnie swój sen.
@@ -63,8 +63,9 @@
     * Wracamy znaną nam już trasą. Droga zajmuje nam w sumie dwa dni, podczas których [Ilana](#g_ilana) wysyła kilka wiadomości do domu - do [Skovika](#p_skovik) i [Finarrina](#p_druid_finarrin), każdorazowo prosząc o odpowiedź.
     * Podczas noclegu przy żerowisku krabopająków, nasz bezpieczny bąbel obchodzi grupa nekkerów. Mniejsze osobniki próbują podkopać się do środka, ale szkodniki zostaje szybko zneutralizowana przez polujące w tym miejscu bestie.
     * [Kajetan](#g_kajetan) chyba po raz pierwszy widzi krabopająka z bliska. [Ilana](#g_ilana) posiadała o nich dotąd jako-takie pojęcie, ale dopiero teraz miała okazję zobaczyć, jak działa ich maskujący pancerz, czyniąc je praktycznie niezauważalnymi.
-    * O świcie ruszamy dalej co tchu. Do wioski docieramy niemal o zmierzchu. 
-    * Wita nas głucha cisza, w momencie przerwana dzikim rykiem i dźwiękiem walących się desek.
+    * O świcie ruszamy dalej co tchu. W drodze [Kajetan](#g_kajetan) prosi druidkę, żeby pomogła mu wyklarować wracające wpsomnienia.
+    * [Ilana](#g_ilana) zauważa, że ona także o czymś zapomniała - zupełnie nie pamięta próby uratowania [Doreein](#p_doreein). 
+    * Do wioski docieramy niemal o zmierzchu. Wita nas głucha cisza, w momencie przerwana dzikim rykiem i dźwiękiem walących się desek.
     * [Ilana](#g_ilana) porywa się biegiem, a [Kajetan](#g_kajetan) rusza zaraz za nią. Naszym oczom ukazuje się widok nie pobojowiska, ale walki:
         * na środku Wioski leży ciało; drugie zwisa z poroża spętanego cierniami [Morvudda](#b_bizoktor), którym ten przed chwilą wyrżnął w jedną z chat.
         * [Finarrin](#p_druid_finarrin), lekko ranny, zagradza sobą drogę do swojej chatki.

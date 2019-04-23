@@ -61,11 +61,11 @@
         * Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
     * Mirna<a id='p_mirna'></a> - człowiek; druid
         * przyjaciółka [Ilany](#g_ilana)
-    * Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego, poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
+    * Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
     * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub kwateronka); druidka, partnerka [Finarrina](#p_druid_finarrin); podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
     * Cedrik<a id="p_cedrik"></a> - elf; druid
         Mentor [Mirny](#p_mirna)
-    * Doreein<a id='p_doreein'></a> - ; druid, potrafi zmieniać się w zwierzę,
+    * Doreein<a id='p_doreein'></a> - elf; druid, potrafi zmieniać się w zwierzę,
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
     * Yaevinn<a id='p_yaevinn'></a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
