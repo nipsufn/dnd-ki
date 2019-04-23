@@ -43,7 +43,7 @@
     * Na pomoc ginącym pająkąm z otworu u szczytu ruiny wychodzą znacznie większe, zdecydowanie przerośnięte osobniki.
     * Wywiązuje się walka, w trakcie której [Yaevinn](#p_yaevinn) zostaje przygwożdźony do drzewa pajęczyną, a [Kajetan](#g_kajetan) i [Ilana](#g_ilana) są notorycznie obłażeni przez roje małych pająków.
     * Wkrótce do walki dołącza coś, co wygląda jak skrzyżowanie człowieka i pająka. Pajęcza królowa rzuca się na [Ilanę](#g_ilana), niemal dusząc ją swoim lasso z pajęczyny.
-    * [Yaevinn](p_yaevinn), wyswobodziwszy się z pajęczyny pakuje pajęczej królowej serię strzał prosto w tors. Mocno raniona bestia wydaje dziki krzyk i próbuje pociągnąć druidkę za sobą do leża.
+    * [Yaevinn](#p_yaevinn), wyswobodziwszy się z pajęczyny pakuje pajęczej królowej serię strzał prosto w tors. Mocno raniona bestia wydaje dziki krzyk i próbuje pociągnąć druidkę za sobą do leża.
     * [Kajetan](#g_kajetan) ratuje Ilanę podając jej Jaskółkę. Następnie przy użyciu magii strąca królową w czeluście ruiny, sypiąc na łeb kamienie. Ta posiłkuje się ucieczką wgłąb leża.
     * Decydujemy się zbadać ruinę. Przy wejściu jest kilka kokonów - w nich znajdujemy zaginioną dwójkę. [Kajetan](#g_kajetan) podnosi z ziemi łuk należący niegdyś do driady porwanej przez pająki.
     * Schodzimy głębiej w poszukiwaniu uciekającej pajęczycy. Znajdujemy ją pożywiającą się jajami. Jaja te są ciasno oplecione przez cierniste pnącza, które jednak zdają się nie robić im krzywdy.
