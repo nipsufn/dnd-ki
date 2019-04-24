@@ -159,7 +159,7 @@
         Walczy długim mieczem, który płonie jeśli zatnie się nim
         [Lord Slyz Myrton](#p_lord_myrton): przełożony; [Kasimir](#g_kasimir): podwładny
 * [Góry Sine]
-    * Vilafordrel Aen Fidheil z Srebrnych Wież<a id='p_vilafordel'></a> - elf; mag
+    * Filavandrel Aen Fidhail ze Srebrnych Wież<a id='p_filavandrel'></a> - elf; mag
         potężny i stary elfi mag
         zorganizował wyprawę archeologiczną w której brał udział [Kajetan](#g_kajetan)
 * [Kaedwen](#l_kaedwen)
