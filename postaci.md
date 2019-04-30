@@ -63,7 +63,7 @@
     * Auril "Pan Lodowego Ogrodu"<a id='p_auril'></a>
         * Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
         * Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
-    * Formorin<a id='p_formorin'></a>
+    * Formorian<a id='p_formorian'></a>
         * Wypaczony [Aen Eldrin](#r_aen_eldrin), przybył do naszego świata przez ten sam portal przez który pojawiła się "zaproszona" czwórka
     * Mirna<a id='p_mirna'></a> - człowiek; druid
         * przyjaciółka [Ilany](#g_ilana)
@@ -80,8 +80,8 @@
     * Królowa Cierni<a id="p_krolowa_cierni"></a> - elfka;
         prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?);
         obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
-    * Galałejn<a id="p_galalejn"></a> - elf;
-        oryginalny załorzyciel paktu, który powołał do istnienia [Protektora Brokilonu](#b_bizoktor)
+    * Galawain<a id="p_galawain"></a> - duch lasu,
+        [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w Medownej
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
         * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
