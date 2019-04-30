@@ -35,12 +35,16 @@
     * Leiv<a id='p_leiv'></a> - człowiek, lat około 20 paru, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige z klanu Drummond
         [Skovik](#p_skovik): brat
         [Ivar](#p_ivar): brat (bliźniak)
-    * Ebba<a id='p_ebba'></a> - człowiek, pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
+    * Ebba<a id='p_ebba'></a> - człowiek,
+        pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
         [Chida](#p_chida): siostra
-    * Chida<a id='p_chida'></a> - człowiek, pochodzi z Zerrikani
+    * Chida<a id='p_chida'></a> - człowiek,
+        pochodzi z Zerrikani
         [Ebba](#p_ebba): siostra
-    * Yarii<a id='p_yarii'></a> - człowiek z Aedirn, dezerter; ma tatuaż z symbolem Aedirn na ramieniu
-    * Varn<a id='p_varn'></a> - człowiek z Aedirn, dezerter; razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
+    * Yarii<a id='p_yarii'></a> - człowiek z Aedirn, dezerter;
+        ma tatuaż z symbolem Aedirn na ramieniu
+    * Varn<a id='p_varn'></a> - człowiek z Aedirn, dezerter;
+        razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
 * [Aedirn](#l_aedirn)
     * ✝ Król Demawend<a id='p_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
     * Stennis<a id='p_stennis'></a> - ; książę
@@ -59,17 +63,25 @@
     * Auril "Pan Lodowego Ogrodu"<a id='p_auril'></a>
         * Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
         * Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
+    * Formorin<a id='p_formorin'></a>
+        * Wypaczony [Aen Eldrin](#r_aen_eldrin), przybył do naszego świata przez ten sam portal przez który pojawiła się "zaproszona" czwórka
     * Mirna<a id='p_mirna'></a> - człowiek; druid
         * przyjaciółka [Ilany](#g_ilana)
     * Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
-    * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub kwateronka); druidka, partnerka [Finarrina](#p_druid_finarrin); podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
+    * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub kwateronka); druidka
+        partnerka [Finarrina](#p_druid_finarrin);
+        podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
     * Cedrik<a id="p_cedrik"></a> - elf; druid
         Mentor [Mirny](#p_mirna)
     * Doreein<a id='p_doreein'></a> - elf; druid, potrafi zmieniać się w zwierzę,
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
     * Yaevinn<a id='p_yaevinn'></a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
-    * Królowa Cierni<a id="p_krolowa_cierni"></a> - elfka; prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?); obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
+    * Królowa Cierni<a id="p_krolowa_cierni"></a> - elfka;
+        prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?);
+        obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
+    * Galałejn<a id="p_galalejn"></a> - elf;
+        oryginalny załorzyciel paktu, który powołał do istnienia [Protektora Brokilonu](#b_bizoktor)
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
         * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
@@ -158,7 +170,7 @@
         Prawa ręka [Myrtona](#p_lord_myrton)
         Walczy długim mieczem, który płonie jeśli zatnie się nim
         [Lord Slyz Myrton](#p_lord_myrton): przełożony; [Kasimir](#g_kasimir): podwładny
-* [Góry Sine]
+* [Góry Sine](#l_gory_sine)
     * Filavandrel Aen Fidhail ze Srebrnych Wież<a id='p_filavandrel'></a> - elf; mag
         potężny i stary elfi mag
         zorganizował wyprawę archeologiczną w której brał udział [Kajetan](#g_kajetan)

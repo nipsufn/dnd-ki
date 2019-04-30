@@ -8,3 +8,7 @@
     - "Lud Lasu", cztery elfy "pomagające" [Brokilonowi](#l_brokilon) i [Eithne](#p_eithne) zaliczają się do nich
     - prawdopodobie pochodzą z innej płaszczyzny magicznej
     - społecznie dzielą się na cztery frakcje, Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role" od których zależy ich zachowanie i umiejętności
+- Tor Corax<a id='r_tor_corax'></a>
+    - portal do innego świata
+    - znajduje się w [Brokilonie](#l_brokilon)
+    - otwarty przez [Eithne](#p_eithne), niestabilny, przyczyna wydarzeń dwuksiężycowej nocy - domyślamy się że przynajmniej w okolicach [Brokilonu](#l_brokilon)

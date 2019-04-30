@@ -33,3 +33,4 @@
     * [Sesja 22](#sesja-22)
     * [Sesja 23](#sesja-23)
     * [Sesja 24](#sesja-24)
+    * [Sesja 25](#sesja-25)
