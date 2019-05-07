@@ -10,7 +10,7 @@
     * Podczas gdy [jesienna Aen Eldrin](#p_verenestra) przygląda się ciału [Ivara](#p_ivar), [Ilana](#g_ilana) i zmęczony [Finarrin](#p_druid_finarrin) zapraszają pozostałych elfów do dyskusji o dalszych planach.
     * W tym czasie [Kajetan](#g_kajetan) odprowadza przerażoną kolejnym atakiem na [Wioskę](#l_wioska) [Mirnę](#p_mirna). Czeka aż ta uśnie, a sam stara się uspokoić i przemyśleć sytuację.
     * [Kajetan](#g_kajetan) dołącza do "rady leśnych ludków":
-        * [Formorin](#p_formorin), wypaczony [Aen Eldrin](#r_aen_eldrin) wdał się (czy też raczej jego dusza, byt) w dąb, który stał w [Medownej](#l_medowna)
+        * [Formorian](#p_formorian), wypaczony [Aen Eldrin](#r_aen_eldrin) wdał się (czy też raczej jego dusza, byt) w dąb, który stał w [Medownej](#l_medowna)
         * kryształ (zdawało się nam, że cierń) wbity we wspomniany dąb zawiera ducha [Eithne](#p_eithne)
         * w miarę jak dąb z kryształem oddalają się od [Brokilonu](#l_brokilon), krawędzie niestablinego portalu [Tor Corax](r_tor_corax) oddalają się od swojego źródła pochodzenia, oznaczone magiczną aurą, którą pokonywaliśmy niedawno przekraczając Wstążkę.
         * [Aen Eldrin](#r_aen_eldrin) są uwięzieni wewnątrz granicy wyznaczonej przez mgłę
