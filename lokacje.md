@@ -9,6 +9,7 @@
         * nietknęte ruiny dużeko elfickeigo miasta
     * Duen Canell<a id='l_duen_canell'></a>
         * osada/miasto/stolica Driad
+        * _"Serce Brokilonu"_
     * Col Serrai<a id='l_col_serrai'></a>
         * naturalne źródła; miejsce leczenia
     * Wioska<a id='l_wioska'></a>
