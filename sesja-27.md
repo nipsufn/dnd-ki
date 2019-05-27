@@ -10,7 +10,7 @@
     * [Ilana](#g_ilana) nie do końca ufając swoim zdolnościom muzycznym waha się przed użyciem fletu. [Kajetan](#g_kajetan) korzysta z tego faktu i wygrywa szybką melodyjkę, która jednak zamiast wskazać nam kierunek, ulatuje w ślad za [Mirną](#p_mirna).
     * Lekko rozbawieni zajściem i nieco bardziej podniesieni na duchu wędrujemy za melodią wygrywaną przez [Ilanę](#g_ilana) na poszukiwanie legendarnych ruin [Craag An](#l_craag_an).
 2. Pierwszy dzień drogi
-    * [Enid](#p_enid) zapytana przez elfa wspomina że uważa Wiewiórki za rozpuszczoną smarkaterię i bandę morderców, co tłumaczy jej niechęć
+    * [Enid](#p_enid) zapytana przez elfa wspomina że uważa Wiewiórki za rozpuszczoną smarkaterię i bandę morderców, co tłumaczy jej niechęć.
     * Oddaliwszy się kawałek od wioski zauważamy, że zarówno las jak i ziemia po za jej granicami zdają się być bardziej mroczne, jakby pod wpływem czegoś złego, niedobrego.
     * W pewnym momencie drogę przysłania nam ciemna mgła zauważalna tylko przez magiczne szkiełka, która wypiera zielonkawą aurę Mocy. Wygląda to jakby coś powoli przejmowało kontrolę nad lasem ([Królowa Cierni](#p_krolowa_cierni)?).
     * Wszyscy czujemy niepokój, ale [Ivar](#p_ivar) zdaje się odbierać mgłę najmocniej, jakby jego nowe "ja" pozwalało mu widzieć rzeczy niewidzialne dla ludzkiego oka.
@@ -37,7 +37,7 @@
     * [Druidka](#g_ilana) i jej mentor decydują się wyswobodzić malca, ratując go od niehybnej śmierci.
     * [Ilana](#g_ilana), pod postacią niedźwiedzia uspokaja niedźwiedziątko, gdy [Finarrin](#p_druid_finarrin) ognistym ostrzem przecina zwyrodniałe pnącza. Cała trójka czym prędzej wraca do reszty grupy.
     * [Kajetan](#g_kajetan) i [Enid](#p_enid) wydają się być wyraźnie niezadowoleni z widoku druida wracającego w towarzystwie niedźwiedzia taszczącego w pysku malca.
-    * Niedźwiedziątka próbuje dać nogę, kiedy tylko [Ilana](#g_ilana), już w swojej normalnej postaci, spuszcza je na chwilę z oczu. Miś próbuje uciec.
+    * Niedźwiedziątka próbuje dać nogę, kiedy tylko [Ilana](#g_ilana), już w swojej normalnej postaci, spuszcza je na chwilę z oczu.
     * Z pomocą wyspiarzy druidka tworzy z liny prowizoryczną uprząż, którą oplata niedźwiadka chwilowo otumanionego magią [Finarrina](#p_druid_finarrin).
     * Opieka nad zwierzęciem zostaje podzielona między [Ilanę](#g_ilana), a [Skovika](#p_skovik). Druidka korzysta z każdej nadażającej się sposobności żeby nawiązać kontakt ze zwierzęciem i zbudować więź porozumienia.
     * Powoli wkraczamy w jedną ze starszych części lasu. Przesłankami do takiego stwierdzenia są wyraźnie sędziwe, strzeliste i bardzo wysokie drzewa gęsto porastające teren dookoła.

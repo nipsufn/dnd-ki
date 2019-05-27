@@ -17,16 +17,16 @@
     * Wchodzimy do miasta. Strażnicy nie robią problemów na bramie.
     * Miejski krzykacz ogłasza, że jest nagroda za informacje o bandytach grasujących w okolicznym lesie.
     * W drodze do [Różyczki](#l_rozyczka), gdzie umówiliśmy się wcześniej z [Kranmerami](#p_otto_kranmer) by odebrać pieniądze za wykonanie zlecenia, przechodzimy obok zakładu alchemicznego “[Fiolka Zdrowia](#l_fiolka_zdrowia)”.
-    * Przed sklepem stoi grupa łowców, najwyraźniej pilnują wejścia.
+    * Przed sklepem stoi grupa Łowców, najwyraźniej pilnują wejścia.
     * Przystajemy na chwilę i obserwujemy z daleka. Widzimy jak ze środka po chwili wychodzi bogato odziany jegomość. Grupa Łowców wygląda na jego eskortę (podwładnych?).
     * Upewniając się, że nikt nie obserwuje nas zza rogu, wchodzimy do sklepu.
 4. [Fiolka Zdrowia](#l_fiolka_zdrowia)
     * W sklepie wita nas tęgawy mężczyzna o szpakowatych, zaczesanych do tyłu włosach. Jest w fartuchu roboczym, ale pod nim ma ubranie wskazujące na dobre sytuowanie właściciela.
     * Człowiek ten jest właścicielem zakładu, nazywa się [Viggo Regner](#p_viggo_regner). 
     * W kantorku, w rogu sklepu przesiaduje drugi jegomość, który wygląda na nas tylko zza okienka. Zwie się [Janus](#p_lukrecja_schattenwort) i pełni rolę ochroniarza.
-    * Właściciel [Fiolki](#l_fiolka_zdrowia) skłonny jest odkupić od nas głowę potwora którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](#p_otto_kranmer) jej nie zażądają.
+    * Właściciel [Fiolki](#l_fiolka_zdrowia) skłonny jest odkupić od nas głowę potwora, którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](#p_otto_kranmer) jej nie zażądają.
     * Tymczasem [Ilanie](#g_ilana) udaje się wynegocjować dobrą cenę za oba ogony i krew bestii. Zamiast pieniędzy decydujemy się na handel wymienny i tak otrzymujemy 3 *"jaskółki"* - eksperymentalne eliksiry, które [Viggo](#p_viggo_regner) stworzył zainspirowany wiedźmińskimi eliksirami.
-    * [Kajetan](#g_kajetan) przybija targ wymieniając uścisku dłoni z alchemikiem i prawie odskakuje jak kopnięty prądem. Okazuje się, że [Viggo](#p_viggo_regner) nosi na palcu obrączkę wykonaną z [*dwimerytu*](#r_dwimeryt).
+    * [Kajetan](#g_kajetan) przybija targ wymieniając uścisk dłoni z alchemikiem i prawie odskakuje jak rażony prądem. Okazuje się, że [Viggo](#p_viggo_regner) nosi na palcu obrączkę wykonaną z [*dwimerytu*](#r_dwimeryt).
 5. Różyczka
     * Wracamy do [Różyczki](#l_rozyczka) na umówione spotkanie z krasnoludami.
     * [Kranmerowie](#p_otto_kranmer) wypłacają nagrodę w postaci 40GP. Zobaczyli trofeum ale nie żądają aby je im zostawić.
@@ -38,7 +38,7 @@
     * Na pożegnanie [Kajetan](#g_kajetan) wyciąga do alchemika - zapobiegliwie i celowo - lewą rękę żeby nie narazić się na ponowny kontakt z obrączką, co spotyka się ze zrozumieniem alchemika.
 7. Wizyta u krawcowej [Eliza](#p_eliza)
     * z [Fiolki](#l_fiolka_zdrowia) idziemy prosto do zakładu krawcowej z ogłoszenia, które zerwała [Ilana](#g_ilana).
-    * Krawcowa jest bardzo zmęczona; [Ilana](#g_ilana) przekonuje ją że możemy pomóc pomimo, że nie jesteśmy wiedźminami.
+    * Krawcowa jest bardzo zmęczona. [Ilana](#g_ilana) przekonuje ją, że możemy pomóc pomimo, że nie jesteśmy wiedźminami.
     * [Eliza](#p_eliza) opowiada nam, że od kilku nocy jej córka, [Daria](#p_daria), widzi zmarłego ojca, który nigdy nie powrócił z wojny.
     * Idziemy porozmawiać z [Darią](#p_daria), po drodze na schodach zauważamy popękane lustro ze śladem palców wbitych w szkło.
     * [Ilana](#g_ilana) próbuje kilku różnych sztuczek:
@@ -46,7 +46,7 @@
         * chcąc sprawdzić pewną teorię, zamienia się w kota, ale dalej nie jest w stanie zobaczyć rzekomo obecnego w pokoju ojca dziewczynki
     * Kajetan, rozmawiający na korytarzu z [Elizą](#p_eliza) w pewnym momencie dostrzega w odbiciu na szybie postać upiornego widziadła o wydłużonych palcach zakończonych szponami. 
     * Używając luster atakujemy [Szaraka](#b_szarak) - udaje nam się go pokonać nie krzywdząc dziecka ani matki, jednak [Ilana](#g_ilana) prawie wyciąga kopyta, bo potwór skupia niemal całą swą złość na niej.
-    * [Kajetan](#g_kajetan) odmawia nagrody w postaci zbroi po zmarłym mężu, którą oferuje nam [Eliza](#p_eliza) w podzięce za uratowanie córki. Zamiast tego prosi o naprawienie swoich ubrań w ramach zadośćuczynienia.
+    * [Kajetan](#g_kajetan) odmawia nagrody w postaci napierśnika po zmarłym mężu, którą oferuje nam [Eliza](#p_eliza) w podzięce za uratowanie córki. Zamiast tego prosi o naprawienie swoich ubrań w ramach zadośćuczynienia.
     * Żegnamy się z krawcową i ruszamy na spotkanie z [Viggo](#p_viggo_regner).
     * Po drodze [Ilana](#g_ilana) zauważa, że ktoś ich chyba śledzi. Proponuje, żeby się rozdzielić dla zmylenia uwagi, na co elf przystaje bez zbędnych pytań.
     * [Ilana](#g_ilana) wchodzi w zaułek, gdzie zmienia się w kota i w takiej postaci śledzi szpiega idącego ich śladem.
@@ -67,6 +67,6 @@
         * trop faktycznie prowadzi do baraków robotniczych pod uszkodzonym murem 
         * [Ilana](#g_ilana) widzi mężczyznę, który wygłasza do zebranych wokół niego robotników nienawistne, rasistowskie hasła podżegając do ataków na nieludzi
         * udaje jej się niemal niepostrzeżenie wrócić
-        * po drodze zauważają ją strażnicy i oferują się bezpiecznie odrpowadzić do domu, co przyjmuje z wdzięcznością.
+        * po drodze zauważają ją strażnicy i oferują się bezpiecznie odrpowadzić do domu, co przyjmuje z wdzięcznością
         * po powrocie dzieli się swoim odkryciem z [Kajetanem](#g_kajetan)
     
