@@ -81,4 +81,4 @@
     * personifikacja siły natury, np ognia
     * może zostać zmuszony do spełnienia życzenia
     * też: anortach, żywiołak, dżinn
-<div align="right"><i><a id='ad1'></a><sup>1</sup>[Druid Finarrin](#p_druid_finarrin), 1370 [PP](https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing)</i></div>
+<div align="right"><i><a id='ad1'></a><sup>1</sup><a href="https://nipsufn.github.io/journal.html?md=postaci#p_druid_finarrin">Druid Finarrin</a>, 1370 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing)">PP</a></i></div>
