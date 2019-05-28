@@ -82,5 +82,5 @@
     * może zostać zmuszony do spełnienia życzenia
     * też: anortach, żywiołak, dżinn
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
-[Druid Finarrin](#p_druid_finarrin), 1370 [PP](https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing
+<a href="https://nipsufn.github.io/journal.html#p_druid_finarrin">Druid Finarrin</a>, 1370 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing">PP</a>
 </i></div>
