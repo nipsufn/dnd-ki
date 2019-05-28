@@ -46,7 +46,7 @@
     * zwykle porusza się we mgle
     * bardzo unikają światła dziennego i latarni
     * możliwe że ignorują żywych którzy w ogóle się nie ruszają
-    * ponoć są wstanie nadać zwłokom "parodię życia"[<sup>1</sup>](#ad1)
+    * ponoć są wstanie nadać zwłokom _"parodię życia"_[<sup>1</sup>](#ad1)
 * Barghest<a id='b_barghest'></a>
     * nocny
     * wielki pies-zombie
