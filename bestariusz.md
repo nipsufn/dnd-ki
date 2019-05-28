@@ -46,6 +46,7 @@
     * zwykle porusza się we mgle
     * bardzo unikają światła dziennego i latarni
     * możliwe że ignorują żywych którzy w ogóle się nie ruszają
+    * ponoć są wstanie nadać zwłokom "parodię życia"[<sup>1</sup>](#ad1)
 * Barghest<a id='b_barghest'></a>
     * nocny
     * wielki pies-zombie
@@ -80,3 +81,4 @@
     * personifikacja siły natury, np ognia
     * może zostać zmuszony do spełnienia życzenia
     * też: anortach, żywiołak, dżinn
+<div align="right"><i><a id='ad1'></a><sup>1</sup>[Druid Finarrin](#p_druid_finarrin), 1370 [PP](https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing)</i></div>
