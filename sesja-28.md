@@ -36,5 +36,5 @@
     * Dla bezpieczeństwa [Finarrin](#p_druid_finarrin) usuwa z jego organizmu jakiekolwiek pozostałości grzybów.
     * Z każdym kolejnym krokiem drzewa starają się nam zagrodzić dalszą drogę, po kolei odcinając każdego od reszty drużyny.
     * [Kajetan](#g_kajetan) próbuje zastraszyć drzewa użyciem ognia jeśli nas nie przepuszczą. [Ilana](#g_ilana) persfaduje powołując się na [Protektora](#b_bizoktor), ale zostaje wyśmiana przez leciwe knieje.
-    * Z pomocą przychodzi nam[Finarrin](#p_druid_finarrin). Kolejny raz demonstruje swoją wiedzę o lesie, zmuszając drzewa do posłuszeństwa i ustąpienia.
+    * Z pomocą przychodzi nam [Finarrin](#p_druid_finarrin). Kolejny raz demonstruje swoją wiedzę o lesie, zmuszając drzewa do posłuszeństwa i ustąpienia.
     * Wchodzimy na polanę o łagoniejszym, cieplejszym klimacie i fioletowej trawie. Osłupiali, zaskoczeni tym widokiem zastanawiamy się jaki powinien być nasz kolejny krok.

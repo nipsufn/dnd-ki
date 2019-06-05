@@ -42,6 +42,8 @@ for filePath in fileList:
           tags.append([match.group(0), lineNo, match.start(0), filePath])
         elif re.search(r"\[[^\[^\]]+?\]\(#\w(_\w+)+\)", lineText[0:match.end(0)+1]):
           refs.append([match.group(0), lineNo, match.start(0), filePath, False])
+        elif re.search(r'<a href="[^"]+?(_\w+)+">.+?</a>', lineText):
+          continue
         else:
           write("Tag or reference malformed: " + match.group(0)
             + "; line: " + str(lineNo+1)
