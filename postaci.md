@@ -82,7 +82,8 @@
         obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
     * Galawain<a id="p_galawain"></a> - duch lasu,
         [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w Medownej
-    * Gebo - niedźwiadek uratowany przez [Ilanę](#g_ilana) i [Finarrina](#p_druid_finarrin) w czasie wędrówki do [Craag An](#l_craag_an)
+    * Gebo<a id="p_gebo"></a> - niedźwiadek;
+        uratowany przez [Ilanę](#g_ilana) i [Finarrina](#p_druid_finarrin) w czasie wędrówki do [Craag An](#l_craag_an)
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
         * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
