@@ -9,7 +9,7 @@
     * Znajdujemy nienajgorsze miejsce na nocleg, zaraz obok gruzowiska kamieni.
     * W nocy orientujemy się, że jest już po pełni (1 dzień). Możliwe, że wydarzenia poprzedniej nocy były spowodowane właśnie pełnią(?).
     * Przed snem oporządzamy upolowanego poprzedniego dnia stwora. Pozbywamy się resztek kawałek od obozowiska, w lesie.
-    * Podczas nocnej warty słychać zwierzynę, która najprawdopodobniej znalazła resztki i właśnie na nich żeruje.
+    * Podczas nocnej warty słychać zwierzynę, która najprawdopodobniej znalazła porzucone resztki i właśnie na nich żeruje.
     * Noc przebiega bez większych zakłóceń.
 2. Nazajutrz
     * Nad ranem uwagę [Kajetana](#g_kajetan) przyciąga rumowisko, obok którego rozbiliśmy obóz. [Ilana](#g_ilana) nie wyczuwa w nim nic magicznego, ale elf nie wydaje się tym przekonany.
