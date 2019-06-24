@@ -50,40 +50,44 @@
     * Stennis<a id='p_stennis'></a> - ; książę
         [Demawend](#p_krol_demawend): ojciec
 * [Brokilon](#l_brokilon)
-    * Druid Finarrin<a id='p_druid_finarrin'></a> - ; druid
-        Uczył [Ilanę](#ilana)
-    * Eithne<a id='p_eithne'></a> - driada; driada
-        Do dwuksiężycowej nocy władała lasem [Brokilon](#l_brokilon) i Driadami; w śpiączce
-    * Tytania "Królowa Słońca"<a id='p_tytania'></a> - elf; 
-        Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](#r_aen_eldrin)
-    * Verenestra "Księżna Dębu"<a id='p_verenestra'></a>
-        Jedna z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
-    * Oberon "Zielony Lord", "Książęcy Bard"<a id='p_oberon'></a>
-        Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
-    * Auril "Pan Lodowego Ogrodu"<a id='p_auril'></a>
-        * Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
-        * Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
-    * Formorian<a id='p_formorian'></a>
-        * Wypaczony [Aen Eldrin](#r_aen_eldrin), przybył do naszego świata przez ten sam portal przez który pojawiła się "zaproszona" czwórka
-    * Mirna<a id='p_mirna'></a> - człowiek; druid
-        * przyjaciółka [Ilany](#g_ilana)
-    * Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
-    * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub kwateronka); druidka
-        partnerka [Finarrina](#p_druid_finarrin);
-        podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
     * Cedrik<a id="p_cedrik"></a> - elf; druid
         Mentor [Mirny](#p_mirna)
     * Doreein<a id='p_doreein'></a> - elf; druid, potrafi zmieniać się w zwierzę,
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
-    * Yaevinn<a id='p_yaevinn'></a> - elf;
-        Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
-    * Królowa Cierni<a id="p_krolowa_cierni"></a> - elfka;
-        prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?);
-        obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
-    * Galawain<a id="p_galawain"></a> - duch lasu,
-        [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w Medownej
+    * Eithne<a id='p_eithne'></a> - driada; driada
+        Do dwuksiężycowej nocy władała lasem [Brokilon](#l_brokilon) i Driadami; w śpiączce
+    * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub kwateronka); druidka
+        partnerka [Finarrina](#p_druid_finarrin);
+        podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
+    * Druid Finarrin<a id='p_druid_finarrin'></a> - ; druid
+        Uczył [Ilanę](#ilana)
     * Gebo<a id="p_gebo"></a> - niedźwiadek;
         uratowany przez [Ilanę](#g_ilana) i [Finarrina](#p_druid_finarrin) w czasie wędrówki do [Craag An](#l_craag_an)
+    * Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
+    * Mirna<a id='p_mirna'></a> - człowiek; druid
+        * przyjaciółka [Ilany](#g_ilana)
+    * Sariel<a id="p_sariel"></a> - elf;
+        Flaminka, poprzedniczka [Finarrina](#p_druid_finarrin)
+    * Yaevinn<a id='p_yaevinn'></a> - elf;
+        Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
+    * [Aen Eldrin](#r_aen_eldrin)
+        * Tytania "Królowa Słońca"<a id='p_tytania'></a> - elf; 
+            Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](#r_aen_eldrin)
+        * Verenestra "Księżna Dębu"<a id='p_verenestra'></a>
+            Jedna z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
+        * Oberon "Zielony Lord", "Książęcy Bard"<a id='p_oberon'></a>
+            Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
+        * Auril "Pan Lodowego Ogrodu"<a id='p_auril'></a>
+            * Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
+            * Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
+        * Formorian<a id='p_formorian'></a>
+            * Wypaczony [Aen Eldrin](#r_aen_eldrin), przybył do naszego świata przez ten sam portal przez który pojawiła się "zaproszona" czwórka
+    * Postaci legendarne
+        * Królowa Cierni<a id="p_krolowa_cierni"></a> - elfka;
+            prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?);
+            obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
+        * Galawain<a id="p_galawain"></a> - duch lasu,
+            [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w Medownej
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
         * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
