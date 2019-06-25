@@ -1,13 +1,13 @@
 ### Sesja 31
 1. [Craag An](#l_craag_an)
-    * We wnętrzu ogromnej, wywiniętej Kopuły Leomunda panuje prawie absolutna ciemność. Powietrze jest tutaj zastałe, nie ma żadnego wiatru ani zróżnicowanej temperatury.
-    * Stojące niczym w parku zczerniałe, bezlistne drzewa opadają w bezwietrznej atmosferze jako popiół pod wpływem delikatnego dotyku. Na fragmentach ziemi niepoktytych sadzą i kamieniach rośnie nieco ciemnodlubnych grzybów i porostów.
+    * We wnętrzu Ogromnej, Wywiniętej Kopuły Leomunda panuje prawie absolutna ciemność. Powietrze jest tutaj zastałe, nie ma żadnego wiatru ani zmian w temperaturze.
+    * Stojące niczym w parku zczerniałe, bezlistne drzewa opadają w bezwietrznej atmosferze jako popiół pod wpływem delikatnego dotyku. Na fragmentach ziemi nie poktytych sadzą i kamieniach rośnie nieco ciemnodlubnych grzybów i porostów.
     * Podążamy wgłąb, wzdłuż szpaleru dawno martwych drzew, mijając czasem jakieś zabudowania. Cokolwiek stało się z drzewami, nie zdaje się wpływać na nieorganiczne materiały.
     * Odwiedzamy jeden ze stojących nieco na uboczu budynków z częściowo zapadniętym dachem. Udaje nam się odkopać częściowo zasypane drzwi i wyciągnąć je. Wewnątrz widzimy zasłonięte od elementów zapadniętym dachem zmumifikowane zwłoki elfa. Decydujemy się go zostawić w spokoju, widząc jakiś wydrapany napis w ścianie.
     * Podążamy dalej główną ścieżką wśród drzew. Kawałek dalej znajdujemy ścięty obelisk na kształt tablicy pamiątkowej, przy którym leży nieco większa kupa sadzy oraz nieco pleśni - zdaje się zwłoki. Sama tablica przedstawia mapę [Craag An](#l_craag_an), składającego się z 7 koncentrycznych kręgów.
     * Z mapy dowiadujemy się, że przybyliśmy z dzielnicy farmerskiej. Na mapie znajdują się różne oznaczenia symboliczne, w tym jedno, które natychmiast przyciąga uwagę [Ilany](#g_ilana) - rogaty hełm. [Kajetan](#g_kajetan) objaśnia, że symbol ten oznacza najprawdopodobniej zbrojownię.
     * Zmierzając dalej w stronę centrum miasta zabudowa powoli staje się nieco gęstrza. Na niektórych murach dostrzegamy wysmarowane napisy w Starszej Mowie, _"Precz z królem"_. Na innych widać blade cienie sylwetek.
-    * Przez magiczne szkiełka dostrzegamy cieężką, niemal nekrotyczną aurę emanującą martwym zimnem. Zjawisko zdaje się mieć epicentrum w samym sercu miasta.
+    * Przez magiczne szkiełka dostrzegamy ciężką, niemal nekrotyczną aurę emanującą martwym zimnem. Zjawisko zdaje się mieć epicentrum w samym sercu miasta.
     * [Ilana](#g_ilana), badając aurę Mocy, wyczuwa kilka innych skupisk magii. Prowadzi nas do jakiejś fontanny, przy której wyczuwa magię szkoły ewokacji.
     * Ławy i ściany w okolicy fontanny są pokryte znaczną ilością cieni. W pewnym momencie [Ilanie](#g_ilana) wydaje się, że cienie się lekko poruszyły.
     * [Druidka](#g_ilana) i jej [mentorka](#p_enid) rozdmuchują jedną z zasp sadzy i popiołu. Na odsłonięty bruk upada kamienny piesek, _"Pimpuś"_[<sup>1</sup>](#ad1), zaraz obok świeżo odsłoniętego kolejnego cienia.
@@ -21,7 +21,7 @@
     * Przechodzimy przez krąg stanowiący barierę ochronną. Obszar wydaje się być opuszczony, nikt nie odpowiada na pukanie do drzwi. 
     * [Kajetan](#g_kajetan) rozbija magiczny bąbel tak blisko kręgu (od wewnętrznej strony) jak to tylko możliwe. [Ilana](#g_ilana) nie czeka aż zaklęcie zostanie rzucone, pod postacią pająka ogląda wnętrze ruin.
     * Wewnątrz wieży pająk-[Ilana](#g_ilana) dostrzega ciemnie, wyschnięte plamy cieczy, możliwe, że krwi. Piętro budowli wypełniają klatki z kośćmi, definitywnie elfimi.
-    * Na jednej z klatek siedzi coś żywego - wychudłe, blade, łyse stworzenie o elfich uszach. Stwór łamiąc kości wysysa z nich długim językiem szpik. Zdaje się przez wyrwę w ścianie obserwować nasze schronienie, kiedy nagle dostrzega pająka.
+    * Na jednej z klatek siedzi coś żywego - wychudłe, blade, łyse stworzenie o elfich uszach. Stwór łamiąc kości wysysa z nich długim językiem resztki szpiku. Zdaje się przez wyrwę w ścianie obserwować nasze schronienie, kiedy nagle dostrzega pająka.
     * [Młoda druidka](#g_ilana) zauważona ucieka, jednak nie może dostać się do bąbla.
     * Kajetan niszczy istniejący bąbel, aby stworzyć nowy, w którym zmieszczą się wszyscy członkowie drużyny. Zajmie to jednak chwilę, a z wieży słychać już nadciągającego stwora.
 
