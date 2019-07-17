@@ -40,3 +40,5 @@
     * [Sesja 29](#sesja-29)
     * [Sesja 30](#sesja-30)
     * [Sesja 31](#sesja-31)
+    * [Sesja 32](#sesja-32)
+    * [Sesja 33](#sesja-33)
