@@ -18,12 +18,12 @@
     - [Kajetan](#g_kajetan), bez głębszego zastanowienia, podejmuje drugą próbę złamania szyfru. W tym celu dotyka po kolei każdego z symboli wymawiając w staroelfim słowo opowiadające danemu symbolowi.
     - Symbole znów się świecą, ale elf zostaje na moment sparaliżowany, a drzwi nie ustępują. Na szczęście nic złego po za tym się nie dzieje.
     - Analiza mapy pozwala nam ustalić, że 3 budynki: Warownia, Akademia i Pałac znjadują się, podobnie jak symbole na drzwiach, na planie celtyckiego krzyża.
-    - To oraz tekst na drzwiach nasuwa [Ilanie](#g_ilana) na myśl, że kluczem do rozwiązania mogą być rogate posągi.
+    - To oraz tekst na drzwiach nasuwa [Ilanie](#g_ilana) na myśl, że kluczem do rozwiązania mogą być rogate posągi, a raczej hasła które cytują ich opisy. [Mag](#g_kajetan) nie jest przekonany jako że na drzwiach nie ma symbolu miecza o dwóch ostrzach.
     - Udajemy się pod Pałac w celu odnalezienia kolejnego posągu. Przy okazji zauważamy, że drzewo, przed którym uciekliśmy i dziwna mozaika znajdują się w samym centrum [Craag An](#l_craag_an).
-    - W połowie wzniesienia znajdujemy trzeci posąg: smukłą kobietę w rogatym hełmie z tarczą wspartą o ziemię. Kamień ukryto w dłoniach kobiety opartych na tarczy. Tabliczka zaś głosi: "_Chroń swe światło_" - (tu wstaw imię i przydomek).
+    - W połowie wzniesienia znajdujemy trzeci posąg: smukłą kobietę w rogatym hełmie z tarczą wspartą o ziemię. Kamień ukryto w dłoniach kobiety opartych na tarczy. Tabliczka zaś głosi: "_Chroń swe światło_" - Alivara Obrończyni.
     - Pałac znajduje się na lekkim wzniesieniu, z którego (gdyby nie magiczna ciemność kopuły) roztacza się widok na resztę miasta. W nieprzebitej ciemności widzimy snop światła czwartego posągu, którego lokacja pokrywa się z Akademią.
-    - Nie marnując czasu udajemy się w stronę Akademii. Znajdujemy ostatni posąg: bezpłciową, smukłą postać odzianą w luźne, proste szaty. Na środku czoła posągu błyszczy wmontowany kamień. Na tabliczne napisano: "_Bądź światłem_" (tu wstaw i imię/przydomek).
-    - Sama Akademia wygląda na podrujnowaną - ostała się w całości jedna wieża i piętro.
+    - Nie marnując czasu udajemy się w stronę Akademii. Znajdujemy ostatni posąg: bezpłciową, smukłą postać odzianą w luźne, proste szaty. Na środku czoła posągu błyszczy wmontowany kamień. Na tabliczne napisano: "_Bądź światłem_" - Lernejos Noiosący Światło.
+    - Sama Akademia wygląda na dość zniszczoną - ostała się w całości jedna wieża i piętro.
     - Wyczerpani podróżą zatrzymujemy się na noc pod posągiem. W czasie nocnej warty [Ilana](#g_ilana) i [Enid](#p_enid) dostrzegają w oknie wieży pełgające światło. Z wnętrza budynku dochodzą też rytmiczne odgłosy szurania metalu o kamień.
     - Rankiem, nieco wypoczęci i podbudowani odkryciami dnia poprzedniego idziemy zbadać Akademię. Szybki rzut oka przez wyłamane drzwi pozwalają stwierdzić, że budynek jest pilnowany przez "automatyczne" zbroje. To ich kroki niosły się w nocnej ciszy.
     - Wszędzie zalega gruba warstwa popiołu, w której wyraźnie widać ślad stóp ([Ivryn](#p_arcydruid_ivryn) musiał tu być), a który urywa się nagle przy wejściu do klatki schodowej (teleportował się? zmienił w coś latającego?).
@@ -35,10 +35,11 @@
     - [Kajetan](#g_kajetan) testuje, czy kryształowe naszyjniki są "przepustką" - niestety zbroje nie reagują na nie i przeganiają intruza. 
     - [Ilana] podsuwa pomysł wspięcia się przez okno na piętro. Zmieniona w dużego kota pomaga elfowi wspiąć się na górę i razem przeszukujemy pomieszczenie:
         - pokój wygląda jak muzeum
-        - w szklanych gablotach leży kilka eksponatów - połamana broń itp.
+        - w szklanych gablotach zabezpieczonych magicznymi zamkami leży kilka eksponatów - połamana broń itp.
         - jedno z ostrzy emanuje magią
         - na pułkach widać ślady brakujących ksiąg
         - na stole ktoś przeglądał jakieś książki
-    - W pomieszczeniu znajdujemy medalion z głową jelenia. [Kajetan](#g_kajetan) przekazuje go [Finarrinowi](#p_druid_finarrin) żeby ten sprawdził czy to przepustka.
     - Druid, dzięki medalionowi, przechodzi nietknięty obok zbroi. Uradowany [Kajetan](#g_kajetan) zabiera wisiorek i idzie zwiedzać pozostałe pomieszczenia.
-    - W głębi Akademii natyka się na namiot, a wokół niego całą stertę książek. Znajduje też 4 kolejne medaliony. Wygląda na to, że [Ivryn](#p_arcydruid_ivryn) tu był i czegoś szukał.
+    - W głębi Akademii natyka się na namiot, a wokół niego całą stertę książek. Znajduje też 5 medalionów z symbolem głowy jelenia. Wygląda na to, że [Ivryn](#p_arcydruid_ivryn) tu był i czegoś szukał.
+    - [Kajetan](#g_kajetan) przekazuje go [Finarrinowi](#p_druid_finarrin) żeby ten sprawdził czy to przepustka, co zostaje potwierdzone
+    - Jako że medalionów nie ma dość dla wszystkich, dzielimy się na dwa zespoły: jeden pozostanie pod oświetlonym pomnikiem, drugi będzie przeszukiwał bibliotekę
