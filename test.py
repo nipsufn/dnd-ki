@@ -12,7 +12,8 @@ refs = []
 whitelist = [
   sys.argv[0][2:],
   "requirements.txt",
-  ".travis.yml"
+  ".travis.yml",
+  "test.py"
   ]
 
 feedback = ""
