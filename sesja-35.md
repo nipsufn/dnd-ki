@@ -25,3 +25,22 @@
 			- "_Jeśli to czytasz, nie roń za nami łez; sami sobie na to zasłużyliśmy; ten wybuch, ta moc; ci szaleńcy dopięli swego; Wieża Kruka została otwarta; Nie popełnijcie naszych błędów - Arkanistka Riv'yvre_"
 	- zwiedzamy schody prowadzące w górę, do nieoberwanej wieżyczki oraz do podziemi:
 		- przed drzwiami do wnętrza wieżyczki stoi zbroja, informująca iż "_Mistrza nie ma obecinie w gabinecie, proszę przyjść później_"; wewnątrz (co sprawdziła [Ilana](#g_ilana) i [Finarrin](#p_druid_finarrin)) wszystko leży na środku pokoju w nieregularnej kupie, jak gdyby nastąpiła jakaś impozja; po pokoju lata czaszka strzegąca gabinetu.
+		- piwnica - okrągły pokój o 8 ścianach, z 7 pięknymi freskami krajobrazów; na suficie nocne niebo, takie jakie widzieliśmy podczas Dwuksiężycowej Nocy. Na ziemi krąg teleportacyjny, onzaczony jako punk początkowy
+	- [Kajetan](#g_kajetan) zaczyna kaszleć i wyczuwać magię w rzeczach których dotyka
+	- na parterze znajdujemy prosektorium, inne pokoje oraz trzy posągi:
+		1. Corneiros - włócznia (przypominająca tą którą [Ivryn](#p_arcydruid_ivryn) spętał drzewo) i księgi na ręce; "_Pierwszy Zaklinacz, Ostatni z Rycerzy_"
+		2. Mordekeinen - stoicka poza, łysy; "_Założyciel Akademii, Prawa Ręka [Galawaina](#p_galawain)_"
+		3. Riv'yvre - przyjazne spojrzenie, warkocz; Arkanistka
+	- [Ilana](#g_ilana) kombinuje z zielonymi kryształami które znaleźliśmy - rozlewa zawartość jednego z nich na podłogę (okazuje się że żeczywiście zawierały ciecz). Kajetan dotyka jej małym palcem; ciecz prawie natychmiast wlewa się w jego ciało a on sam czuje się odświeżony. [Druidka](#g_ilana) jest zaszokowana jego lekkomyślnością
+	- Przyglądamy się pracom które zostawił za sobą [Ivryn](#p_arcydruid_ivryn). Pracował nad zaklęciem które pozwala otworzyć portal łączące dowolne dwa drzewa w naszym świecie; [Finarrin](#p_druid_finarrin) będzie w stanie go użyć, [Ilana](#g_ilana) - może w przyszłości
+	- wskrzeszamy spopielone zwłoki za pomocą zielonych kryształów; cień zostaje do nich wciągnięty
+	- postać nie wie co się stało; wygląda nieco inaczej niż [Aen Eldrin](#r_aen_eldrin) i Aen Seidhe - proporcje twarzy nieco bardziej "ludzkie", uszy zaś dłuższe, skierowane ku tyłowi głowy
+	- spędza dłuższą chwilę nad zwłokami Riv'yvre, zanim w ogóle chce się dowiedzieć czegoś więcej
+	- dowiadujemy się:
+		- zielona ciecz w kryształach to "_eter_", "_ambrozja_", "_woda życia_" - termin nie tłumaczy się dosłownie ze Starszej Mowy
+		- portale którymi jego lud przybył nagle zgasły, więżąc ich i odcinając od Mocy którą wtłaczali w ten świat
+		- stwierdza że Moc płynie w żyłach Elfów
+		- [Galawain](#p_galawain) miał ich ocalić, otwierając portal i przywracjąc magię
+		- otwarcie portalu spowodowało ogromną ekspozję Mocy. Ci, którzy nie obrócili się w popiół, wprawnie władali Mocą
+		- zmartwychwstały nie jest nam w stanie zdradzić imienia [Królowej Cierni](#p_krolowa_cierni) - rusza ustami, leczn nie słyszymy dźwięku, pióra i węgiel przestają pisać; Jest to klątwa którą obłożył jej imię sam [król](#p_galawain)
+		- zapytany o wojnę domową, ocalały nabiera wody w usta
