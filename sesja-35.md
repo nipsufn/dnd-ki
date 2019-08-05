@@ -24,4 +24,4 @@
 		7. Zwłoki kobiety w błękito-szarej szacie z srebrnym haftem przypominającym szron, ma sztylet, którym zadała sobie rany na rękach, medalion przypominający przepustki, ale bardziej zdobiony, oraz notatkę:
 			- "_Jeśli to czytasz, nie roń za nami łez; sami sobie na to zasłużyliśmy; ten wybuch, ta moc; ci szaleńcy dopięli swego; Wieża Kruka została otwarta; Nie popełnijcie naszych błędów - Arkanistka Riv'yvre_"
 	- zwiedzamy schody prowadzące w górę, do nieoberwanej wieżyczki oraz do podziemi:
-		- przed drzwiami do wnętrza wieżyczki stoi zbroja, informująca iż "_Mistrza nie ma obecinie w gabinecie, proszę przyjść później_"; wewnątrz (co sprawdziła [
+		- przed drzwiami do wnętrza wieżyczki stoi zbroja, informująca iż "_Mistrza nie ma obecinie w gabinecie, proszę przyjść później_"; wewnątrz (co sprawdziła [Ilana](#g_ilana) i [Finarrin](#p_druid_finarrin)) wszystko leży na środku pokoju w nieregularnej kupie, jak gdyby nastąpiła jakaś impozja; po pokoju lata czaszka strzegąca gabinetu.
