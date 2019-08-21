@@ -1,4 +1,4 @@
-### Sesja 34
+### Sesja 35
 1. Akademia
 	- [Kajetan](#g_kajetan), [Finarrin](#p_druid_finarrin) i [Enid](#p_enid) idą zbadać Akademię. Reszta drużyny czeka pod oświetlonym posągiem.
 	- Zaczynamy metodycznie przeszukiwać pokoje na pierwszym piętrze - jest ich siedem:
@@ -12,7 +12,7 @@
 			- rycina przedstawiająca bestię składającą się z unoszącej się nad ziemią głowy z jednym okiem, otoczoną mackami, przypominająca te, które spotkaliśmy w [Mariborze](#l_maribor)
 			- dwa metalowe stożkowate obiekty z jednym końcem ściętym
 			- Czaszka psowatej bestii, może wyrośnięty [Barghest](#b_barghest)
-		5. Zdobione, ciężko okute drzwi zabezpieczone fizycznym i magicznym zamkiem, które skrywają:
+		5. Zdobione, ciężko okute drzwi zabezpieczone magicznym zamkiem, które skrywają:
 			- salę treningową rycerzy [Galawaina](#p_galawain)
 			- stojak z wyborem broni białej, połyskującej w sposób kojarzący się z rtęcią, a na nim:
 				- 2 rapiery
@@ -34,11 +34,11 @@
 			- wszystkie postaci mają broń połyskującą rtęcią
 	- Zwiedzamy schody prowadzące w górę, do ostałej się wieżyczki oraz do podziemi:
 		- przed drzwiami do wnętrza wieżyczki stoi zbroja, która informuje nas, że "_Mistrza nie ma obecinie w gabinecie, proszę przyjść później_"
-		- wewnątrz (co sprawdziła [Ilana](#g_ilana) i [Finarrin](#p_druid_finarrin)) wszystko leży na środku pokoju w nieregularnej kupie, jak gdyby nastąpiła jakaś impozja; po pokoju lata czaszka strzegąca gabinetu
+		- wewnątrz (co sprawdzili [Ilana](#g_ilana) i [Finarrin](#p_druid_finarrin) zaglądając przez okno) wszystko leży na środku pokoju w nieregularnej kupie, jak gdyby nastąpiła jakaś impozja; po pokoju lata czaszka strzegąca gabinetu
 		- piwnica - okrągły pokój o 8 ścianach, z 7 pięknymi freskami krajobrazów; na suficie nocne niebo, takie jakie widzieliśmy podczas Dwuksiężycowej Nocy; na ziemi krąg teleportacyjny, onzaczony jako punkt początkowy (wygląda na to, że [Ivryn](#p_arcydruid_ivryn) coś tu kombinował)
 	- [Kajetan](#g_kajetan) zaczyna kaszleć i wyczuwać magię w rzeczach, których dotyka
-	- na parterze znajdujemy prosektorium, inne pokoje oraz trzy posągi:
-		1. Corneiros - włócznia (przypominająca tą którą [Ivryn](#p_arcydruid_ivryn) spętał drzewo) i księgi na ręce; "_Pierwszy Zaklinacz, Ostatni z Rycerzy_"
+	- na parterze znajdujemy prosektorium z ciałami zezwierzęconych elfów, inne pokoje oraz trzy posągi:
+		1. Corneiros - włócznia (przypominająca tą, którą [Ivryn](#p_arcydruid_ivryn) spętał drzewo) i księgi na ręce; "_Pierwszy Zaklinacz, Ostatni z Rycerzy_"
 		2. Mordekeinen - stoicka poza, łysy; "_Założyciel Akademii, Prawa Ręka [Galawaina](#p_galawain)_"
 		3. Riv'yvre - przyjazne spojrzenie, warkocz; Arkanistka
 	- [Ilana](#g_ilana) kombinuje z zielonymi kryształami które znaleźliśmy - rozlewa zawartość jednego z nich na podłogę (okazuje się, że rzeczywiście zawierały ciecz). 
@@ -50,8 +50,8 @@
 	- [Ilana](#g_ilana) nie bardzo wie co robić. Pyta [Finarrina](#p_druid_finarrin), ale ten uważa, że cień należy zostawić w spokoju.
 	- Pomimo obaw i lekkiego sprzeciwu mentora, [druidka](#g_ilana) decyduje się pomóc tej osobie, kimkolwiek była.
 	- Wskrzeszamy spopielone zwłoki za pomocą zielonych kryształów znalezionych wcześniej. Cień zostaje wciągnięty do ciała.
-	- Postać nie wie co się stało. Wygląda nieco inaczej niż [Aen Eldrin](#r_aen_eldrin) i Aen Seidhe - proporcje twarzy są nieco bardziej "ludzkie", uszy zaś dłuższe, skierowane ku tyłowi głowy.
-	- Mężczyzna spędza dłuższą chwilę nad zwłokami Riv'yvre, zanim w ogóle chce się dowiedzieć czegoś więcej.
+	- [Postać](#p_lanemin) nie wie co się stało. Wygląda nieco inaczej niż [Aen Eldrin](#r_aen_eldrin) i Aen Seidhe - proporcje twarzy są nieco bardziej "ludzkie", uszy zaś dłuższe, skierowane ku tyłowi głowy.
+	- [Mężczyzna](#p_lanemin) spędza dłuższą chwilę nad zwłokami Riv'yvre, zanim w ogóle chce się dowiedzieć czegoś więcej.
 	- Dowiadujemy się od niego, że:
 		- zielona ciecz w kryształach to "_eter_", "_ambrozja_", "_woda życia_" - termin nie tłumaczy się dosłownie ze Starszej Mowy
 		- portale, którymi jego lud przybył nagle zgasły, więżąc ich i odcinając od Mocy, którą wtłaczali w ten świat
@@ -60,3 +60,4 @@
 		- otwarcie portalu spowodowało ogromną ekspozję Mocy; ci, którzy nie obrócili się w popiół, wprawnie władali Mocą
 		- zmartwychwstały nie jest nam w stanie zdradzić imienia [Królowej Cierni](#p_krolowa_cierni) - rusza ustami, leczn nie słyszymy dźwięku, pióra i węgiel przestają pisać; jest to klątwa, którą obłożył jej imię sam [król](#p_galawain)
 		- zapytany o wojnę domową, ocalały nabiera wody w usta
+		- elf, oprócz starszej mowy, nie zna żadnego z języków, którymi posługuje się reszta drużyny
