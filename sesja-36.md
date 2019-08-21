@@ -27,7 +27,7 @@
     - [Kajetan](#g_kajetan) i [Finarrin](#p_druid_finarrin) do południa natykają się na kilka istotnych informacji w zgromadzonych księgach: __*plz insert content here*__
     - Nie znalazłszy żadnych wskazówek ani informacji odnośnie przysięgi Rycerzy [Galawaina](#p_galawain), decydujemy się udać z powrotem do Warowni i spróbować rozwikłać zagadkę z wiedzą, którą dysponujemy.
     - [Lanemin](#p_lanemin) nie chce nam towarzyszyć - ma kilka własnych spraw do załatwienia, ale obiecuje zjawić się pod Warownią jak tylko się z nimi upora.
-    3. Warownia
+3. Warownia
     - [Ilana](#g_ilana) próbuje swojego pomysłu na otwarcie drzwi Warowni: wypowiada hasła z tabliczek pod posągami w kolejności, w jakiej są rozrysowane na drzwiach tak, aby ostatnią częścią był cytat z Corneliusa. Niestety drzwi nie ustępują. 
     - [Ivar](#p_ivar) wpada na pomysł w jakiej kolejności powinny ułożyć się cytaty i odgaduje właściwą treść przysięgi. 
     - Wnętrze jest gęsto oświetlone magicznymi pochodniami. Widzimy przed sobą długi korytarz, a na jego końcu - rozwidlenie.
