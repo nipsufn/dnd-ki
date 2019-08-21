@@ -44,4 +44,4 @@
     * [Sesja 33](#sesja-33)
     * [Sesja 34](#sesja-34)
     * [Sesja 35](#sesja-35)
-    * [Sesja 35](#sesja-36)
+    * [Sesja 36](#sesja-36)
