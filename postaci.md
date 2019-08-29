@@ -25,6 +25,8 @@
     - przebywa na Skellige
 * Arcydruid Ivryn<a id='p_arcydruid_ivryn'></a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
+* Alzul<a id='p_alzul'></a>
+    - mag, "ojciec" Wiedźminów
 * Wędrowna Banda Skovika<a id='p_wedrowna_banda_skovika'></a>
     * Skovik Drummond<a id='p_skovik'></a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
         [Ivar](#p_ivar): brat
@@ -89,7 +91,7 @@
         * Galawain<a id="p_galawain"></a> - duch lasu,
             [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w Medownej
 * [Craag An](#l_craag_an)
-    * Lanemin Anef Aep<a id="p_lanemin"></a> - elf z Aen Drisichean ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
+    * Lanemin Anef Aep<a id="p_lanemin"></a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
         * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)

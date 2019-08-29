@@ -19,13 +19,13 @@
 3. Polana z wizji
     - Na ścianie, wbudowanej w skarpę, widać piękny fresk - mapę świata przecinaną wijącymi się, niewidocznymi dla zwykłęgo oka liniami:
         - jest 7 głównych miejsc przecięć:
-            - Skellige, uformowane aby przypominać sokolicę, pokryte skorupą (magicznego domyślamy się) lodu, trzymającego takie szkiełko jak nasze
-            - Wyspa Thanedd, przypominająca Mewę, z centralnym kamykiem fresku, który eksplodował - pozostałe okruchy nie pozostawiają wątpliwości że to też było szkiełko jakie znamy
-            - Brokilon, Kruk, bez szkiełka
+            - [Skellige](#l_wyspy_skellige), uformowane aby przypominać sokolicę, pokryte skorupą (magicznego domyślamy się) lodu, trzymającego takie szkiełko jak nasze
+            - [Wyspa Thanedd](#l_wyspa_thanedd), przypominająca Mewę, z centralnym kamykiem fresku, który eksplodował - pozostałe okruchy nie pozostawiają wątpliwości że to też było szkiełko jakie znamy
+            - [Brokilon](#l_brokilon), Kruk, bez szkiełka
             - Metinna, Jaskółka, bez szkiełka
             - Góry Smocze, Pardwa, bez szkiełka
             - Patelnia, Kukawka, bez szkiełka
-            - Środek Nilfgaardu, Bażant, bez szkiełka; zdaje się być najważniejszy
+            - Środek [Nilfgaardu](#l_nilfgaard), Bażant, bez szkiełka; zdaje się być najważniejszy
         - są też inne miejsca, gdzie linie się przecinają: Ellander, Maribor, Carreras, nie są jednak specjalnie zaznaczone
     - Na środku placu stoi drzewo. Jest gołe i obrośnięte krzakami, wydaje się być uschnięte, jednak nie zamieniło się w sadzę.
     - [Ilana](#g_ilana) i [Finarrin](#p_druid_finarrin) znajdują w krzakach słabnący z wieku druidzki krąg ochronny, w środku mały obóz i wbitą w drzewo zapartą o ziemię glewnię, zdobioną jak druidzki kostur elfa.
