@@ -42,7 +42,7 @@
         - po śmierci królowej [Galawain](#p_galawain) zakazał wymawiać jej imię, tak by nikt nie ważył się go bezcześcić mówiąc źle o zmarłej
         - od tego momentu król poświęcił się całkowicie próbom ponownego otwarcia portali; efektem była zagłada [Craag An](#l_craag_an)
         - [Lanemin](#p_lanemin) potrafi magicznie stworzyć jedzenie
-    - [Kajetan](#g_kajetan) i [Finarrin](#p_druid_finarrin) do południa natykają się na kilka istotnych informacji w zgromadzonych księgach: __*plz insert content here*__
+    - [Kajetan](#g_kajetan) i [Finarrin](#p_druid_finarrin) do południa natykają się na kilka istotnych informacji w zgromadzonych księgach: _patrz wyżej_
     - Nie znalazłszy żadnych wskazówek ani informacji odnośnie przysięgi Rycerzy [Galawaina](#p_galawain), decydujemy się udać z powrotem do Warowni i spróbować rozwikłać zagadkę z wiedzą, którą dysponujemy.
     - [Lanemin](#p_lanemin) nie chce nam towarzyszyć - ma kilka własnych spraw do załatwienia, ale obiecuje zjawić się pod Warownią jak tylko się z nimi upora.
 3. Warownia
@@ -51,7 +51,7 @@
     - Wnętrze jest gęsto oświetlone magicznymi pochodniami. Widzimy przed sobą długi korytarz, a na jego końcu - rozwidlenie.
     - [Ilana](#g_ilana) i [Kajetan](#g_kajetan) badają, czy w korytarzu nie ma żadnych pułapek zastawionych na nieproszonych gości, ale przejście wydaje się być bezpieczne.
     - Docieramy do rozwidlenia, pośrodku którego stoi sporych rozmiarów posąg odlany ze szlachetnych metali. 
-    - Statua przedstawia smukłego, acz muskularnego elfa w bogato zdobionym napierśniku. Z czoła rzeźby wystaje olbrzymie poroże, jednak drugi rzut oka ujawnia, że jest to tylko korona.
+    - Statua przedstawia smukłego, acz muskularnego elfa w bogato zdobionym napierśniku. Z czoła rzeźby wystaje olbrzymie poroże, jednak drugi rzut oka ujawnia, że jest to tylko korona. Nogę opiera na powalonym jednorożcu.
     - [Ilana](#g_ilana) przygląda się posągowi i zauważa magiczny napis - kolejną zagadkę broniącą dostępu do ukrytego przejścia.
     - Po odgadnięciu hasła za posągiem otwiera się trzeci korytarz. Nad dwoma pozostałymi [Kajetan](#g_kajetan) dostrzega napis _"Droga Pielgrzyma"_.
     - Nowoodkryty korytarz prowadzi nas do sali o 7 ścianach, na których wiszą witraże - po jednym na ścianę:
