@@ -24,7 +24,6 @@
 | III | Caemiris Artystka         | _Zachowaj swe światło_ | Heroes leave an epitaph,<br />They who pay the price           | evocation     |
 | IV  | Lernejos Noiosący Światło | _Bądź światłem_        | No graves filled on their behalf                               | necromantion  |
 
->>>>>>> parent of e3eb411... Update rozne.md
 - Wranowie<a id='r_wran'></a>
     - Rasa jaszczuroludzi, niegdyś zamieszkujących [Góry Sine](#l_gory_sine)
     - Byli znacząco więksi od ludzi i elfów, tak że przedmioty użytku codziennego były zauważalnie większe
