@@ -13,7 +13,7 @@
     - Wracamy do ostatniego miejsca gdzie widzieliśmy druidzkie znaki z mchu, aby za nimi podążać.
     - Docieramy do dwumetrowego pomnika wyobrażającego elfkę w rogatym hełmie zakrywającym twarz. 
     - W rękach postać trzyma łuk, a nad hełmem, między rogami, wisi kula światła. W promieniu jego padania pomnik otacza fioletowa trawa, taka sama jaką widzieliśmy w sercu Brokilonu. 
-    - Pamiątkowa plakietka rzecze "_Zachowaj swój blask_" - Caemiris, artystka. 
+    - Pamiątkowa plakietka rzecze "_Zachowaj swój blask_" - Caemiris, Artystka. 
     - Bliższy rzut oka ujawnia na ubiorze posągu plamy z farby, a w kołczanie obok strzał znajduje się kilka pędzli.
     - Kierujemy się dalej za strzałką mchu na piersi posągu.
 3. Polana z wizji

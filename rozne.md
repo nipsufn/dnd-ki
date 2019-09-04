@@ -15,3 +15,14 @@
 - Aen Drisichean<a id='r_aen_drisichean'></a>
     - lud krzaków, cierni
     - klan elfów który niegdyś zamieszkiwał [Craag An](#l_craag_an)
+- Rycerze [Galawaina](#p_galawain), ich wiersz i tytuły<a id='r_rycerze_galawaina'></a>
+	| I   | Rel'rion Sprawiedliwy     | _Podsycaj swe światło_ | The ugly truth is this my firends,<br />Written cold and plain | transmutation |
+	| II  | Alivara Obrończyni        | _Chroń swe światło_    | Cowards justify the ends<br />And run from their own pain      | enchantment   |
+	| III | Caemiris Artystka         | _Zachowaj swe światło_ | Heroes leave an epitaph,<br />They who pay the price           | evocation     |
+	| IV  | Lernejos Noiosący Światło | _Bądź światłem_        | No graves filled on their behalf                               | necromantion  |
+- Wranowie<a id='r_wran'></a>
+	- Rasa jaszczuroludzi, niegdyś zamieszkujących [Góry Sine](#l_gory_sine)
+	- Byli znacząco więksi od ludzi i elfów, tak że przedmioty użytku codziennego były zauważalnie większe
+	- Ich społeczeństwo było agresywne i rządziło się brutalnymi zasadami
+	- Potrafili obracać w niwecz wszelkie próby użycia Mocy na odległość
+	- [Aen Drisichean](#r_aen_drisichean) postanowili ich unikać za wszelką cenę
