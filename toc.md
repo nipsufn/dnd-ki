@@ -7,7 +7,7 @@
 * [Heraldyka](#h_)
 * [Zadania](#z_)
 * [Różne](#r_)
-* [Dziennik](#d_)
+* Dziennik
     * [Sesja 0](#sesja-00)
     * [Sesja 1](#sesja-01)
     * [Sesja 2](#sesja-02)
