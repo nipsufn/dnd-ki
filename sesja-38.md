@@ -1,0 +1,16 @@
+1. Warownia, podziemia
+    - Po nocnym odpoczynku w dla odmiany wygodnych łóżkach w bezpiecznej (jak narazie) przestrzeni, przymierzamy się do uruchomienia kuźni.
+    - [Kajetan](#g_kajetan) gorączkowo przeczesuje księgi w poszukiwaniu informacji na temat paliwa zasilającego piec i działania samej kuźni.
+    - [Elf](#g_kajetan) przypomina sobie o dziwnym posągu zbroi i dzieli się swoimi spostrzeżeniami z [Ilaną](#g_ilana).
+    - [Druidka](#g_ilana) oddaje mu dwie z trzech bursztynowych kulek. Pierwsza, ta z kawałkiem poroża, zostaje umieszczona w dłoni posągu przez [Kajetana](#g_kajetan). Kulka po chwili znika, a na pustym wieszaku materializuje się coś jakby koszulka kolcza. Na ziemi obok wieszaka ląduje za to pakunek.
+    - W pakunku tym znajdujemy komplet dobrej jakości ubrań przypominających uniform z wyhaftowanym na klatce rogatym hełmem i parę wysokich, porządnych skórzanych butów. Oprócz ubrań i butów znjadujemy także dziwny klocek z białego proszku.
+    - [Kajetan](#g_kajetan) uskutecznia próbę węchu, smaku i ognia na niewielkich rozmiarów odłupanym kawałku. Zapach jest niewyczuwalny, smak pozostawia wiele do życzenia, za to właściwości palne wydają się być zadowalające.
+    - [Ilana](#g_ilana), idąc za śladem elfa, aktywuje drugą, identyczną kulkę. Pojawia się taki sam zestaw, ale w rozmiarze druidki. Kolczuga zdaje się emanować lekką magiczną aurą i dopasowuje się do gabarytów użytkownika.
+    - Trzecia kulka, z czymś na kształt kości zatopionym w środku, materializuje nieco inny pakunek, w którym tym razem znajduje się urzędowa szata wraz z krótkimi, ale eleganckimi butami. W środku nie ma już dziwnej "cegiełki", zamiast tego jest bursztynowy medalion z wyrzeźbionym w nim jeleniem.
+    - [Kajetan](#g_kajetan) przebiera się w uniform, na górę narzuca szatę, a na szyi zawiesza sobie medalion. Tak wyekwipowany idzie zbadać dwie pary zamkniętych drzwi.
+    - Medalion pozwala elfowi dostać się za tylko za jedną z dwóch par drzwi. [Ilana](#g_ilana) towarzyszy mu w inwestygacji.
+    - Za drzwiami znajduje się długi korytarz z rzędem krzeseł pod jedną ścianą, zwróconych przodem do obrazu wiszącego na przeciwległej ścianie.
+    - Obraz przedstawia scenę pasowania pierwszego Zielonego Rycerza przez [Rycerzy Galawaina](#r_rycerze_galawaina). Pasowanie odbywa się na kolistym placu nieopodal niewielkiego drzewa, ale ciężko jest doszukać się jakichkolwiek detali zdradzających dokładny czas albo miejsce zobrazowanej sceny.
+    - Na końcu korytarza znajdują się kolejne drzwi, także strzeżone przez zbroje. Te jednak odmawiają wpuszczenia nas, ponieważ "kandydaci winni czekać aż zostaną wywołani. Jedynie ten, który przeszedł próby może prosić o audiencję u Mistrza".
+    - Odesłani z kwitkiem wracamy do planów rozpalenia pieca w kuźni. [Kajetan](#g_kajetan) umieszcza jeden z białych kloców w palenisku i próbuje tchnąć w piec magią, aby podpałka zajęła się ogniem. 
+    - Na skutek "przedobrzenia" z ilością magiczej energii wszyscy obecni w kuźni zostają mocno poturbowani, kiedy piec niczym mała supernowa dosłownie bucha mocą. Na szczęście paliwo działa i [Ivar](#p_ivar) może przystąpić do swojej drugiej próby, tj. kucia broni.
