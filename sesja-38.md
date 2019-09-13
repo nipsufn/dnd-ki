@@ -1,7 +1,7 @@
 1. Warownia, podziemia
     - Po nocnym odpoczynku w dla odmiany wygodnych łóżkach w bezpiecznej (jak narazie) przestrzeni, przymierzamy się do uruchomienia kuźni.
     - [Kajetan](#g_kajetan) gorączkowo przeczesuje księgi w poszukiwaniu informacji na temat paliwa zasilającego piec i działania samej kuźni.
-    - [Bracia Drummond](#p_ivar #p_skovik) w tym czasie zmieniają wszelkie drewniane meble w rozpałkę do pieca, nie cackając się przy tym za bardzo.
+    - Bracia Drummond w tym czasie zmieniają wszelkie drewniane meble w rozpałkę do pieca, nie cackając się przy tym za bardzo.
     - [Elf](#g_kajetan) przypomina sobie o dziwnym posągu-zbroi i dzieli się swoimi spostrzeżeniami z [Ilaną](#g_ilana).
     - [Druidka](#g_ilana) oddaje mu dwie z trzech bursztynowych kulek. Pierwsza, ta z kawałkiem poroża, zostaje umieszczona w dłoni posągu przez [Kajetana](#g_kajetan). Kulka po chwili znika, a na pustym wieszaku materializuje się coś jakby koszulka kolcza. Na ziemi obok wieszaka ląduje za to pakunek.
     - W pakunku tym znajdujemy komplet dobrej jakości ubrań przypominających uniform z wyhaftowanym na klatce rogatym hełmem i parę wysokich, porządnych skórzanych butów. Oprócz ubrań i butów znjadujemy także dziwny prostopadłościan z białego proszku.
@@ -24,7 +24,7 @@
     - Druidzi pomagają wytworzyć odpowiednio dużo wody i zimnego wiatru do schłodzenia sztaby. Kuźnia tymczasowo zamienia się w saunę. [Ilana](#g_ilana), pozbywszy się wcześniej nadmiaru ubrań, niezamierzenie staje się widowiskiem dla całej trójki kompanów, z których [Kajetan](#g_kajetan) zdaje się być najmniej ostentacyjny w radownaiu oka widokami.
     - Zmordowani zmaganiami w kuźni rozchodzimy się na krótki odpoczynek. [Kajetan](#g_kajetan) anektuje łaźnię wieszając na drzwiach karteczkę "zajęte, nie przeszkadzać". [Ivar](#p_ivar), umęczony setnie, pada na łóżko i zasypia. Pozostała dwójka, tj. [Ilana](#g_ilana) i [Skovik](#p_skovik), ignorując wiszącą na drzwiach łaźni kartę, idą zażyć kąpieli.
     - Nieco wypoczęci i na swój sposób odprężeni wracamy po czasie do kuźni celem przekucia sztaby w nową broń dla [Ivara](#p_ivar).
-    - Pada propozycja aby jako trzon do topora wykorzystać kostur [Ivryna](#p_ivryn), ale swój stanowczy sprzeciw wyraża [Kajetan](#g_kajetan). [Finarrin](#p_druid_finarrin) także nie jest do końca przekonany o słuszności tego pomysłu.
+    - Pada propozycja aby jako trzon do topora wykorzystać kostur [Ivryna](#p_arcydruid_ivryn), ale swój stanowczy sprzeciw wyraża [Kajetan](#g_kajetan). [Finarrin](#p_druid_finarrin) także nie jest do końca przekonany o słuszności tego pomysłu.
     - [Skovik](#p_skovik) zostaje oddelegowany do wyszukania kawałka drewna i zastrugania z niego trzonka, kiedy [Ivar](#p_ivar) przystępuje do kucia topora.
     - [Kajetan](#g_kajetan) dorzuca jeszcze trochę mocy do pieca, jednak z cegłą zaczyna się dziać coś dziwnego - w jej środku miga jakby jakiś cień, a sama bryła zaczyna pulsować i pękać.
     - Jeszcze jedna dawka mocy i bryła zupełnie się rozpada ujawniając owalny kształt. Kształt okazuje się być jajem, z którego na skutek dostarczonego ciepła i magii powoli, na naszych oczach, wykluwa się mały gad.
