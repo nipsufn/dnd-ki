@@ -1,3 +1,10 @@
-1. Kuźnia, druga próba Ivara
-    - Z jaja zamkniętego w bloku użytym jako opał wykluwa się coś pomiędzy smokie, jaszczurką, a wężem. Gad ma pionowe żrenice i skórę pokrytą łuską w kolorze gorejącego płomienia.
-    - Stworzenie rzuca się na nas, atakując kogo popadnie.
+1. Kuźnia, druga próba [Ivara](#p_ivar)
+    - Z jaja zamkniętego w bloku użytym jako opał wykluwa się coś pomiędzy smokiem, jaszczurką, a wężem. Gad ma pionowe żrenice i skórę pokrytą łuską w kolorze gorejącego płomienia.
+    - Stworzenie rzuca się na nas, atakując kogo popadnie. [Kajetan](#g_kajetan) próbuje coś kombinować magicznego, ale niezbyt mu idzie. Szybko wpadamy na pomysł aby płomiennego gada utopić w jak największej ilości wody.
+    - Kryształ, jedyne co pozostało po poczwarze, trzeba jakoś wprawić w konstruowany topór. [Kajetan](#g_kajetan) rozpala ponowie piec, tym razem nie używając bloku, a jedynie Mocy, której część pobiera wprost od [paladyna](#p_ivar)
+2. Przybycie [Lanemina](#p_lanemin)
+    - podczas nocnej warty, [Ilana](#g_ilana) zauważa kurz opadający z sklepienia. Wyciąga [elfa](#g_kajetan) z armarium po czym udają się do głównej sali, by zobaczyć [Aen Drisichean](#p_lanemin) schodzącego po schodach. Przybysz jest obdarty i ranny w rękę, nie chce jednak dać sobie pomóc z opatrunkiem, kwitując nazbyt nachalne oferty [dziewczyny](#g_ilana) lodowatym, poniżającym spojrzeniem
+    - [Kajetan](#g_kajetan) oferuje przybyszowi wygody jakie udało nam się tutaj przysposobić, [Ilana](#g_ilana) jest wyraźnie zaszokowana zmianą nastawienia [Lanemina](#p_lanemin), odchodzi. [Lanemin](#p_lanemin) przyznaje że gnębi go zaraza z którą walczył jego lud, i prosi [Kajetan](#g_kajetan) aby ten go zabił, kiedy choroba zacznie zaberać mu rozum
+    - gdy reszta drużyny budzi się, a [gość](#p_lanemin) wciąż śpi, dyskutujemy o jego przybyciu, rozmowa schodzi na dlasze plany i szerokopojęte światopoglądy. [Finarrin](#p_druid_finarrin) kwituje jedną z wypowiedzi [maga](#g_kajetan) stwierdzając że zawiódł jako ojciec. Obaj bohaterowie tej przygody stwierdzili że komentarz odnosi się do nich, po czym skoczyli sobie do gardeł, dowodząc, że pomimo długiej wspólnej podróży nie wiedzą o sobie nawzajem prawie nic
+    - [Ivar](#p_ivar) i [Kajetan](#g_kajetan) usuwają przeklętą część kostura [Ivryna](#p_arcydruid_ivryn), aby [Ivar](#p_ivar) mógł go użyć do konstruowanego przez siebie oręża
+    - Bohaterowie siadają i wyjaśniają sobie swoje motywacje oraz plany na najbliższą przyszłość; rozmowę przerywa im [Aen Drisichean](#p_lanemin), który chce dowiedzeć się więcej o tym co działo się w czasie jego wielowiekowej "niedyspozycji"
