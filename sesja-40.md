@@ -1,5 +1,5 @@
 1. Dyskusje [Lanemina](#p_lanemin) z [Finarrinem](#p_druid_finarrin)
-    - za czasów [Aen Drisichean](#r_aen_drisichean) [Brokilion](#l_brokilion) nie miał innych mieszkańców - ani Driad ani nikogo innego
+    - za czasów [Aen Drisichean](#r_aen_drisichean) [Brokilon](#l_brokilon) nie miał innych mieszkańców - ani Driad ani nikogo innego
     - [starożytny mag](#p_lanemin) podejrzewa że [Eithne](#p_eithne) zbudowała królestwo Driad na ruinach jego cywilicaji
     - możliwe, że otwarcie portalu przez [Galawaina](#p_galawain) umożliwiło przybycie do tego świata innym, może ludziom i Aen Seidhe
     - cienie które spotkaliśmy w ruinach to echa po elfach, których ciała zostały wyrwane z tej płaszczyzny
