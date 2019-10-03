@@ -3,7 +3,7 @@
     - [Starożytny mag](#p_lanemin) podejrzewa, że [Eithne](#p_eithne) zbudowała królestwo driad na ruinach jego cywilizacji. Możliwe, że natknęła się na posągi i rzeźby przedstawiające [Galawaina](#p_galawain) i uznając go za bóstwo mianowała protektorem [Brokilonu](#l_brokilon).
     - [Elf](#p_lanemin) wysuwa też teorię jakoby otwarcie portalu przez [Galawaina](#p_galawain), które unicestwiło jego cywilizację, umożliwiło przybycie do tego świata innym, być może właśnie ludziom, Aen Seidhe i driadom.
     - Cienie, które spotkaliśmy w ruinach to echa elfów, których świadomości zostały wyrwane z tej płaszczyzny.
-    - [Lanemin](#p_lanemin) oferuje swoją pomoc póki jeszcze jest przytomny na umyśle. [Kajetan] wręcza mu wykasłany przez siebie dwimeryt i prosi go aby zbadał odłamek podczas gdy my będziemy zaklinać broń [Ivara](#p_ivar).
+    - [Lanemin](#p_lanemin) oferuje swoją pomoc póki jeszcze jest przytomny na umyśle. [Kajetan](#g_kajetan) wręcza mu wykasłany przez siebie dwimeryt i prosi go aby zbadał odłamek podczas gdy my będziemy zaklinać broń [Ivara](#p_ivar).
 2. Wykończenie oręża [paladyna](#p_ivar)
     - Nowy topór [Ivara](#p_ivar) wygląda solidnie, ale potrzebuje jeszcze zaklęcia magią. Okazuje się, że stworzenie, którego serce - przeistoczywszy się w kamień - zostało zakute w broń to ognista salamandra. Jest to rodzaj ducha ognia.
     - Wraz z [Finarrinem](#p_druid_finarrin) pomagamy [Ivarowi](#p_ivar) zakląć jego topór. Udajemy się do głównej sali z sarkofagami, gdzie wspólnie poddajemy się transowi. 
