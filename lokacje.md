@@ -69,6 +69,8 @@
 * Kaedwen<a id='l_kaedwen'></a>
     * Ban Ard<a id='l_ban_ard'></a>
         siedziba szkoły magów zniszczonej(?) przez Redańczyków
+* Kovir<a id='l_kovir'></a>
+    * Port Vanis<a id='l_port_vanis'></a>
 * Mahakam<a id='l_mahakam'></a>
     * Góra Carbon<a id='l_gora_carbon'></a>
 * Nilfgaard<a id='l_nilfgaard'></a>
@@ -81,9 +83,6 @@
     * Rinbe<a id='l_rinbe'></a>
         * Położone nad północym brzegiem Pontaru
         * Lokacja jednego z laboratoriów [Vilgeforza](#p_vilgeforz)
-    * Łysa Góra<a id='l_lysa_gora'></a>
-        * Znajduje się nieopodal [Mayeny](#l_mayena)
-        * Stoi na nim samotne drzewo - dobry punkt do teleportacji
 * Temeria<a id='l_temeria'></a>
     * Wyzima<a id='l_wyzima'></a>
         * stolica Temerii
@@ -94,6 +93,9 @@
     * Maribor<a id='l_maribor'></a>
         * zniknął się po Dwójksiężycowej Nocy
     * Mayena<a id='l_mayena'></a>
+    * Łysa Góra<a id='l_lysa_gora'></a>
+        * Znajduje się nieopodal [Mayeny](#l_mayena)
+        * Stoi na nim samotne drzewo - dobry punkt do teleportacji
 * Wyspy Skellige<a id='l_wyspy_skellige'></a>
     * Ard Skellig<a id='l_ard_skellig'></a>
         * największa wyspa na Skellige

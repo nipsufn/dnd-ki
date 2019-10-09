@@ -81,6 +81,9 @@
     * personifikacja siły natury, np ognia
     * może zostać zmuszony do spełnienia życzenia
     * też: anortach, żywiołak, dżinn
+* Dybug<a id='b_dybug'></a>
+    * stworzony przez klątwę
+    * potrafi nadawać zwłokom karykaturę życia
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
 <a href="https://nipsufn.github.io/journal.html#p_druid_finarrin">Druid Finarrin</a>, 1370 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing">PP</a>
 </i></div>
