@@ -196,6 +196,7 @@
         zakładał obozy pracy dla Scoia'tael
     * ✝ Menge<a id='p_menge'></a> - ; przywódca zakonu Łowców
         [Lord Slyz Myrton](#p_lord_myrton): podwładny
+    * Gaetan<a id='p_gaetan'></a> - wiedźmin szkoły kota; polował w Mayenie na dybuga
 * [Świątynia Melitele](#l_smelitele):
     * Matka Iola<a id='p_matka_iola'></a> - ; kapłanka;
 * [Temeria](#l_temeria)
