@@ -84,6 +84,12 @@
 * Dybug<a id='b_dybug'></a>
     * stworzony przez klątwę
     * potrafi nadawać zwłokom karykaturę życia
+* Ghul<a id='b_ghul'></a>
+    * przypomina wychudzonego, częściowo obdartego ze skóry człowieka ze zniekształconą twarzą
+    * żywi się zwłokami
+    * kopie w ziemi głębokie tunele i tak się porusza
+    * często występuje na pobojowiskach
+    * zazwyczaj nie wychodzi za dnia po za swoje leże
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
 <a href="https://nipsufn.github.io/journal.html#p_druid_finarrin">Druid Finarrin</a>, 1370 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing">PP</a>
 </i></div>

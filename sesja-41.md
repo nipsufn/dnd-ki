@@ -26,17 +26,18 @@
         - w wykonaniu zlecenia przeszkodziło mu chodzące drzewo - wchłonęło w siebie dybuga i wszystkie inne zmory czające się w byłym punkcie mocy
         - wiedźmin ściągnął do obozu za [zmiennokształtną](#g_ilana), przed którą raczył przestrzec [elfa](#g_kajetan)
         - wiedźmin nie życzy sobie żeby go śledzono - jeszcze raz zauważy za sobą lekkomyślną [druidkę](#g_ilana) to zetnie jej łeb
+5. Rozmów ciąg dalszy
     - Nazajutrz [Kajetan](#g_kajetan) relacjonuje nocną pogawędkę reszcie drużyny. [Finarrin](p_druid_finarrin) postanawia zapytać naturę o minione wydarzenia w [Mayenie](#l_mayena).
     - W tym czasie [mag](#g_kajetan) wykonuje kilka kolejnych rozmów:
-        - [Verenestra](#p_verenestra) przyprawia go o ból głowy, z potoku słów które wlewają się do jego głowy na raz, udaje mu się zaledwie zrozumieć że mówi strasznie powoli oraz że czas w [lesie](#l_brokilon) płynie inaczej
+        - [Verenestra](#p_verenestra) przyprawia go o ból głowy, z potoku słów które wlewają się do jego głowy na raz, udaje mu się zaledwie zrozumieć, że mówi strasznie powoli oraz że czas w [lesie](#l_brokilon) płynie inaczej
         - [Keira](#p_keira_metz):
             - magów należy szukać na południu lub północy, tereny podległe [Redanii](#l_redania) zostawili same sobie
             - na [Skellige](#l_wyspy_skellige) siedzi jakiś mag z [Ban Ard](#l_ban_ard), przeniósł się tam razem ze swoją wieżą (był w niej uwięziony, [Lambert](#p_lambert) mu pomógł)
-            - w [Poviss](#l_poviss) zbierają się magowie, bardzo możliwe że zamierzają się zorganizować po pogromie [Radowida](#p_krol_radowid), jeśli komuś zależy na ugruntowaniu swojej pozycji, powinen się pojawić
+            - w [Poviss](#l_poviss) zbierają się magowie, bardzo możliwe, że zamierzają się zorganizować po pogromie [Radowida](#p_krol_radowid); jeśli komuś zależy na ugruntowaniu swojej pozycji, powinien się pojawić
             - [Filippa Eilhart](#p_filippa_eilhart) nie wydaje się być zainteresowana dolegającą [Kajetanowi](#g_kajetan) dolegliwością
         - [Viggo](#p_viggo_regner):
             - słyszał o [Wranach](#r_wran), prowadzili brutalne wojny z przodkami współczesnych elfów
-            - [Loch Muine] było największym polem bitewnych tamtych czasów
+            - [Loch Muine] było największym polem bitwy tamtych czasów
             - magowie z [Ban Ard](#l_ban_ard) mogą wiedzieć więcej
             - [Różyczka](#l_rozyczka) ma się dobrze
             - [Lord Myrton](#p_lord_myrton) to "kawał dobrego drania", cokolwiek miało by to znaczyć
