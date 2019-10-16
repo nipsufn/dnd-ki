@@ -1,3 +1,4 @@
+### Sesja 37
 1. Warownia, sala prób
     - [Ilana](#g_ilana) budzi się na środku sali z czymś kulistym w ręku. Kulisty obiekt przypomina bursztyn, w środku kamienia jest coś zatopione, jakby fragment rogu(?).
     - Oczekując na [Ivara](#p_ivar), stary [druid](#p_druid_finarrin) postanawia oddać się medytacji przed posągiem [Galawaina](#p_galawain). W transie, opleciony drobnymi pnączami, zaczyna coraz głośniej bełkotać nie do końca swoim głosem:
