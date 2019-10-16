@@ -33,7 +33,8 @@
         - za drzewem rosną i podążają humanoidalalne sploty korzeni i krzaków podobne jak te które widzieliśmy w [Medownej](#l_medowna) - [Krzaczaki](#b_krzaczak)
         - samo drzewo pokryte jest naroślami przypominającymi twarze, jest czarne niczym wszechobecna w [Craag An](#l_craag_an) sadza
         - w środku drzewa znajduje się fioletowy kryształ, serce [stwora](#p_formorian)
-        
+
+
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
 Zaprawdę, zaprawdę powiadam wam, oto jest odpowiedź na pytanie o życie, wszechświat i całą resztę! - Prorok Lebioda, ~1132
 </i></div>
