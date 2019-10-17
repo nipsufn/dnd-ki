@@ -15,8 +15,8 @@
     - Pokrzepiony łykiem bimbru z mandragory, [Kajetan](#g_kajetan) wraca do budynku szukać bóg wie czego jeszcze, bo gorzałę i guza już znalazł. W poszukiwaniach tym razem towarzyszą mu [Skovik](#p_skovik) i [Enid](#p_enid).
     - Poszukiwacze przetrzepują piętro i piwniczkę na wino. Znajdują kilka ogryzionych zwłok, więcej alkoholu i zwłoki karczmarza dzierżące klucz do sejfu. Znajdujący się w pustej beczce sejf skrywa dorobek karczmarza, który zostaje zainkasowany na poczet funduszy grupowych.
     - [Ilana](#g_ilana), zmieniwszy się w niedźwiedzia w trakcie starcia z [ghulem](#b_ghul), pozostaje w tej formie na czas dalszych poczynań w osadzie. Wraz z [Finarrinem](#p_druid_finarrin) i [Ivarem](#p_ivar) pilnuje wejścia do gospody na wypadek, gdyby tych maszkar było więcej w okolicy.
-    - Docieramy wreszcie do centrum osady, gdziena środku placu widzimy stary, martwy dąb. Z konara wystają strzały, kilka gałęzi jest także spalonych.
-    - Drzewo otacza krąg menhirów. Obok jednego z kamieni znajduje się zagłębienie - kilka regularnych bruz, z których jedna ciągnie się aż do pękniętego kamienia.
+    - Docieramy wreszcie do centrum osady, gdzie na środku placu widzimy stary, martwy dąb. Z konara wystają strzały, kilka gałęzi jest także spalonych.
+    - Drzewo otacza krąg menhirów. Obok jednego z kamieni znajduje się zagłębienie - kilka regularnych bruzd, z których jedna ciągnie się aż do pękniętego kamienia.
     - Na drzewie widnieje krwawy napis w języku druidów głoszący: _Niechaj deszcz, grzmot i grad zmyją znaki ludzkiej chciwości_. [Finarrin](#p_druid_finarrin) tłumaczy, że to słowa klątwy, którą druidzi z [Mayeny](#l_mayena) rzucili na to miejsce podczas walk z [Czarnymi](#l_nilfgaard).
 3. Nocleg na pobojowisku
     - Powoli zapada zmrok kiedy wędrujemy z powrotem do traktu. [Ivar](#p_ivar) nagle robi się blady twierdząc, że czuje, że coś się zbliża, coś niedobrego. 
@@ -25,14 +25,15 @@
     - Jeszcze przed świtaniem nasza podłoga zaczyna się ruszać, jakby ktoś próbował podnieść kamień od spodu. Wszyscy budzą się i z przerażeniem stwierdzają, że pod przewróconą ścianą znajduje się głęboki na kilkadziesiąt stóp tunel, a w nim - mrowie [ghuli](#b_ghul).
     - Bierzemy nogi za pas, wiejąc co sił na trakt, desperacko próbując zgubić pościg.
 4. Pościg za [Formorianem](#p_formorian)
-    - ślady w ziemi prowadzą na północny-północny-wschód, przez las
-    - nasz wróg podróżuje wyłącznie nocami
-    - po przemarszu [potwora](#p_formorian) została pozbawiona wszelkego życia trasa, przeorana niczym pługiem
-    - [Kajetan](#g_kajetan) próbuje sprowokować [poczwarę](#p_formorian) do zawrócenia i ataku, bez powodzenia. Zdaje się że to stworzenie prze bezmyślnie przed siebie, pędzone prymitywnymi uczuciami
-    - ostatniej nocy pościgu [mag](#g_kajetan) przeprowadza rekonesans przed zbliżającym się starciem, używając jednego z niedawno zdobytych artefaktów aby widzieć na odległość:
+    - Odnalezione w ziemi ślady prowadzą na północny-wschód, przez las.
+    - Wygląda na to, że nasz wróg podróżuje wyłącznie nocami. Czyżby nie był w stanie wykazywać aktywności za dnia?
+    - W miejscu przemarszu [potwora](#p_formorian) okolica została pozbawiona wszelkego życia, a sama trasa jest przeorana niczym pługiem.
+    - [Kajetan](#g_kajetan) próbuje sprowokować [poczwarę](#p_formorian) do zawrócenia i ataku, bez powodzenia. Zdaje się że to stworzenie prze bezmyślnie przed siebie, pędzone prymitywnymi uczuciami.
+    - Ostatniej nocy pościgu [mag](#g_kajetan) przeprowadza rekonesans przed zbliżającym się starciem, używając jednego z niedawno zdobytych artefaktów aby widzieć na odległość:
         - za drzewem rosną i podążają humanoidalalne sploty korzeni i krzaków podobne jak te które widzieliśmy w [Medownej](#l_medowna) - [Krzaczaki](#b_krzaczak)
         - samo drzewo pokryte jest naroślami przypominającymi twarze, jest czarne niczym wszechobecna w [Craag An](#l_craag_an) sadza
-        - w środku drzewa znajduje się fioletowy kryształ, serce [stwora](#p_formorian)
+        - w środku drzewa znajduje się fioletowy kryształ, serce [stwora](#p_formorian), do którego prowadzi niewielka dziupla
+        - od czasu naszego pierwszego spotkania drzewo trochę urosło - wydaje się większe i potężniejsze
 
 
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
