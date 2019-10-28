@@ -202,6 +202,9 @@
 * [Temeria](#l_temeria)
     * ✝ Król Foltest<a id='p_krol_foltest'></a> - ; król [Temerii](#l_temeria)
     * [Lord Dijsktra](#p_dijsktra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
+    * [Maribor](#l_maribor)
+        * _Tymczasowy Burmistrz Nowego [Mariboru](#l_maribor) Komendant_ Kaspar<a id='p_kaspar'></a>
+            współpracownik [Larsa](#p_lars)
 * [Wyspy Skellige](#l_wyspy_skellige)
     * Cerys an Craite<a id='p_cerys'></a> - ; jarl wysp Skellige
         córka Crach an Craite'a

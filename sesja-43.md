@@ -1,8 +1,8 @@
 ### Sesja 43
 1. W ślad za drzewem
-    - Budzimy się nad ranem i zgodnie z naszymi przewidywaniami, [formorian](#p_formorian) ruszył nocą w dalszą drogę.
+    - Budzimy się nad ranem i zgodnie z naszymi przewidywaniami, [Formorian](#p_formorian) ruszył nocą w dalszą drogę.
     - Podążając w ślad za drzewem trafiamy na trakt, na którym znajdujemy przewrócony wóz. Nieopodal wozu leżą rozkładające się zwłoki woła pociągowego. 
-    - Przystajemy na chwilę odpoczynku chcąc sprawdzić co wieziono na wozie i czy ktoś przypadkiem pod nim nie ocalał mimo konfrontacji z [formorianem](#p_formorian).
+    - Przystajemy na chwilę odpoczynku chcąc sprawdzić co wieziono na wozie i czy ktoś przypadkiem pod nim nie ocalał mimo konfrontacji z [Formorianem](#p_formorian).
     - [Kajetan](#g_kajetan) z braćmy Drummond odwraca wóz. Naszym oczom ukazują się gnijące zwłoki krasnoluda. Po bliższych oględzinach [mag](#g_kajetan) rozpoznaje w nich sprzedawcę z [Carreras](#l_carreras), który sprzedał nam przerdzewiałą broń.
     - Oprócz zwłok na wozie znajdowały się także 2 sporych rozmiarów skrzynie, solidnie zabezpieczone przed otwarciem linami zapieczętowanymi woskiem. [Kajetan](#g_kajetan) przeszukuje zwłoki, przy których znajduje mieszek, zestaw do skręcania papierosów i zapieczętowany list. Otwarliśmy go, niestety nikt z nas nie potrafi odszyfrować krasnoludzkiego pisma w którym został napisany.
     - Krasnolud miał też przy sobie weksel, imienny, na 450 sztuk złota do odbioru w wyzimskiej filii banku [Cianfanelli](#p_cianfanelli), w ciągu najbliższych 53 dni.
@@ -10,12 +10,12 @@
     - Ani [Finarrin](#p_druid_finarrin), ani [Ilana](#g_ilana) nie potrafią nawiązać kontaktu ze zwierzęciem w skrzyni. [Kajetan](#g_kajetan) próbuje Starszej Mowy, ale i to nie przynosi efektu. Cokolwiek znajduje się w obu skrzyniach, jest niekomunikatywne.
     - [Ilana](#g_ilana) decyduje się otworzyć skrzynię. [Kajetan](#g_kajetan) ubezpiecza ją z mieczem nad wiekiem. Wieko odskakuje, ukazując spętanego chrabąszcza o dziwnych kolorach. Ze skrzyni natychmiast wydobywa się woń rdzy i niszczejącego metalu.
     - Wygląda na to, że to stworzenie jest odpowiedzialne za "epidemię" ogarniającą w [Mahakamskie](#l_mahakam) metale. Możliwe, że krasnoludy wyłapały kilka osobników i postanowiły wywieźć je jak najdalej od gór. Być może nawet sprzedać lub powierzyć komuś do skonstruowania trutki na te owady?
-    - Debatujemy co zrobić ze stworzeniami w skrzyniach. Wypuszczenie ich mogłoby zaszkodzić okolicy, ale [Finarrin](#p_druid_finarrin) jest przeciwny zostawieniu ich spętanych na pewną śmierć głodową. Ostatecznie decydujemy się zostawić skrzynie jak je zastaliśmy i zapomnieć o sprawie, przynajmniej na czas pościgu za [formorianem](#p_formorian).
+    - Debatujemy co zrobić ze stworzeniami w skrzyniach. Wypuszczenie ich mogłoby zaszkodzić okolicy, ale [Finarrin](#p_druid_finarrin) jest przeciwny zostawieniu ich spętanych na pewną śmierć głodową. Ostatecznie decydujemy się zostawić skrzynie jak je zastaliśmy i zapomnieć o sprawie, przynajmniej na czas pościgu za [Formorianem](#p_formorian).
 2. Ostateczne starcie
     - Słońce zaczyna się chylić ku zachodowi kiedy dopadamy drzewo. Widok jest ponury i budzi niedobre skojarzenia: drzewo wspięło się na szczyt lekkiego wzniesienia - jego gałęzie, powykręcane, przypominają makabryczne ramiona wyciągnięte ku niebu. Nad drzewem kłębi się stado czarnych ptaków, zupełnie jak wtedy nad menhirem w [Carreras](#l_carreras).
     - Nie czekając, aż [Formorian](#p_formorian) się obudzi, pokonujemy drogę na górę i przyskakujemy, tnąc, drapiąc i smagając konar ogniem.
     - [Kajetan](#g_kajetan) odpala papierosa i używa jego żaru aby przyzwać djinny ognia - małe istotki, które - teraz wyzwolone z ich pierwotnego planu egzystencji - wyżywają się na drzewie.
-    - Jesteśmy już mocno pokiereszowani, kiedy [Ivar](#p_ivar) zadaje ostateczny cios swoim nowym orężem, spopielając drzewo. Po [formorianie](#p_formorian) zostaje jedynie kryształ, w którym nadal pełga fioletowe światło.
+    - Jesteśmy już mocno pokiereszowani, kiedy [Ivar](#p_ivar) zadaje ostateczny cios swoim nowym orężem, spopielając drzewo. Po [Formorianie](#p_formorian) zostaje jedynie kryształ, w którym nadal pełga fioletowe światło.
     - Strat w ludziach/elfach/mieszańcach na szczęście brak. [Skovik](#p_skovik) poświęcił swoją glewnię, która - jako niemagiczna broń - nie wytrzymała próby ognia. [Ilana](#g_ilana) postawiła na nogi tracącego przytomność [Ivara](#p_ivar), poświecając przy tym sporą część swojej siły witalnej. Najlepiej z całego towarzystwa wygląda [Kajetan](#g_kajetan) - mądrze trzymając się na dystans, zdołał uniknąć większości z ataków drzewa.
     - [mag](#g_kajetan) znajduje jedną, jedyną gałąź jaka została po [wrogu](#p_formorian), przepełnioną Mocą. Spędza kilka chwil zadumany nad nią po czym niszczy ją, uwalniając spętaną magię.
 3. Chwała bohaterom
