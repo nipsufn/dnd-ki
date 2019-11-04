@@ -96,6 +96,8 @@
     * Łysa Góra<a id='l_lysa_gora'></a>
         * Znajduje się nieopodal [Mayeny](#l_mayena)
         * Stoi na nim samotne drzewo - dobry punkt do teleportacji
+    * Cleves<a id='l_cleves'></a>
+        * fort wojskowy, niedaleko [Mariboru](#l_maribor)
 * Wyspy Skellige<a id='l_wyspy_skellige'></a>
     * Ard Skellig<a id='l_ard_skellig'></a>
         * największa wyspa na Skellige
