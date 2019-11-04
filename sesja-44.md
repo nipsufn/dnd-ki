@@ -12,8 +12,7 @@
     - Dowiadujemy się, że wycinka prowadzona jest na odbudowę [Mariboru](#l_maribor), który teraz zwą Nowym Mariborem.
     - [Cleves](#l_cleves) to fort, w którym może być ciężko o nocleg czy prowiant. Bliżej mamy do [Mariboru], do którego z resztą wiedzie trakt. 
     - [Kajetan](#g_kajetan) kreuje pozory sympatyzowania ze strażnikiem. Na odchodnym życzy mu zdrowia, bo mężczyzna co chwila dość mocno zanosi się kaszlem. Na szczęście strażnik nie drąży zbytnio i szybko oddala się do pracy.
-
-4. Nocleg:
+4. Nocleg
     - Rozbijamy obóz w lesie, niedaleko poręby, z dala od wścibskich oczu. Staramy się nie ściągać na siebie uwagi, bo drwale najwyraźniej pracują na kilka zmian do późnej nocy.
     - [Ilana](#g_ilana) idzie zapolować na kolację, kiedy [Kajetan](#g_kajetan) przygotowuje się do transu aby zorientować się w naszym położeniu.
     - Zwiad [Kajetana](#g_kajetan) przerywa jakiś ptak, który "zderza się z jego świadomością lewitującą nad drzewami.
