@@ -23,7 +23,7 @@
     - Udajemy się na nocleg. W nocy nasz obóz nawiedza gość - wiedźmin z mostu. [Kajetan](#g_kajetan), wdawszy się z nim w rozmowę, dowiaduje się, że:
         - wiedźmin ma na imię [Gaetan](#p_gaetan) i jest ze szkoły kota
         - na moście zjawił się po odebranie zapłaty za wykonane zlecenie
-        - zlecenie było na pozbycie się [dybuga](#b_dybug) z [Mayeny](#l_mayena)
+        - zlecenie było na pozbycie się [dybuga](#b_dybuk) z [Mayeny](#l_mayena)
         - w wykonaniu zlecenia przeszkodziło mu chodzące drzewo - wchłonęło w siebie dybuga i wszystkie inne zmory czające się w byłym punkcie mocy
         - wiedźmin ściągnął do obozu za [zmiennokształtną](#g_ilana), przed którą raczył przestrzec [elfa](#g_kajetan)
         - wiedźmin nie życzy sobie żeby go śledzono - jeszcze raz zauważy za sobą lekkomyślną [druidkę](#g_ilana) to zetnie jej łeb
