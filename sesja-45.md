@@ -1,7 +1,7 @@
 ### Sesja 45
 1. Chłodne pożegnanie z [Nowym Mariborem](#l_maribor)
     - Z samego rana robimy zakupy i sposobimy się do drogi. Na odchodnym [Kajetan](#g_kajetan) wypytuje o nazwisko [Kaspara](#p_kaspar). Dowiadujemy się jedynie, że przybył on tu razem z kolumną wojskową z [Wyzimy](#l_wyzima).
-    - Ruszamy w drogę. Za miastem zauważamy w oddali kolumnę wojska, zimerzającą do miasta od północy, ale nie chcąc zwracać na siebie już bardziej uwagi przyspieszamy kroku i ewakuujemy się czym prędzej.
+    - Ruszamy w drogę. Za miastem zauważamy w oddali kolumnę wojska, zmierzającą do miasta od północy, ale nie chcąc zwracać na siebie już bardziej uwagi przyspieszamy kroku i ewakuujemy się czym prędzej.
 2. W pół drogi do [Mayeny](#l_mayena)
     - W połowie traktu Maribor-Mayena trafiamy do budującego się dopiero zajazdu - postoju dla kupców i innych podróżnych. Właścicielem przybytku jest krasnolud z [Novigradu](#l_novigrad), [Morgan Guus](#p_morgan).
     - W karczmie robota wre. Robotnicy pracują nad składaniem pułek i wykańczaniem wnętrza, jednak do końca robót jeszcze daleko.
