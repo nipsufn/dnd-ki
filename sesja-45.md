@@ -29,5 +29,9 @@
     - Od samego [Floriana](#p_florian_z_vicovaro) dowiadujemy się dlaczego od odstatniego wieczora każda próba kontaktu z nim kończyła się fiaskiem - mag zamknął się w pracowni obarowany magicznymi ekranami. Ten zwój ma umożliwić bezpieczną metodę wymiany wiadomości w czasie rzeczywistym, bez ryzyka, że ktoś je przechwyci.
     - [Mag](#p_florian_z_vicovaro) prosi nas o nietyppową rzecz - mamy dostarczyć mu możliwie duży fragment menhiru z [Mayeny](#l_mayena). Ma on stanowić istotny komponent w rozprawie z [Larsem](#p_lars).
     - Odsyłamy kruka i udajemy się na spoczynek nieopodal mostu, z dala od mayeńskiego pola bitwy.
+    - Noc mija w miarę spokojnie. [Kajetan](#g_kajetan) zauważa kilku konnych ubranych na czarno. Konni rozglądają się zupełnie jakby czegoś lub kogoś szukali. Następnie idą w stronę [Mayeny](#l_mayena), zostawiając konie uwiązane przy moście.
+    - Po kilku godzinach z pobojowiska słychać krzyki. Dwóch z czterech konnych wraca biegiem, obaj są mocno poranieni. Odcinają wolno dwa pozostałe konie, a sami odjeżdżają galopem.
 5. Karkołomne zadanie
+    - Nad ranem [Kajetan](#g_kajetan) relacjonuje [Ilanie](#g_ilana) nocne zajście. Druidka rusza odszukać wypłoszone luzaki w nadziei, że na ich grzbiecie szybciej dotrą do [Brugge](#l_brugge).
+    - Znalazłszy konie
 6. Ku [Brugge](#l_brugge)
