@@ -81,7 +81,7 @@
     * personifikacja siły natury, np ognia
     * może zostać zmuszony do spełnienia życzenia
     * też: anortach, żywiołak, dżinn
-* Dybug<a id='b_dybug'></a>
+* Dybuk<a id='b_dybuk'></a>
     * stworzony przez klątwę
     * potrafi nadawać zwłokom karykaturę życia
 * Ghul<a id='b_ghul'></a>

@@ -34,5 +34,12 @@
     - Po kilku godzinach z pobojowiska słychać krzyki. Dwóch z czterech konnych wraca biegiem, obaj są mocno poranieni. Odcinają wolno dwa pozostałe konie, a sami odjeżdżają galopem.
 5. Karkołomne zadanie
     - Nad ranem [Kajetan](#g_kajetan) relacjonuje [Ilanie](#g_ilana) nocne zajście. Druidka rusza odszukać wypłoszone luzaki w nadziei, że na ich grzbiecie szybciej dotrą do [Brugge](#l_brugge).
-    - Znalazłszy konie
-6. Ku [Brugge](#l_brugge)
+    - [Ilana](#g_ilana) odnalazłszy konie stwierdza, że tylko jeden z nich nadaje się do jazdy. Próby uleczenia drugiego z połamanymi nogami kończy coś, co wyciąga swe macki z rzeki i wciąga konia do wody.
+    - Na końskim grzbiecie we dwójkę wieżdżamy do miasta. To, co rzuca się momentalnie w oczy to rozmaite, stosunkowo świeże rozmaite fragmenty ludzkie porozrzucane po okolicy. Widać, że po zniknięciu [dybuka](#b_dybuk) ludzie zaczęli częściej zaglądać do [Mayeny](#l_mayena), a [ghule](#b_ghul) wyraźnie mają z tego używanie.
+    - Koń stąpa niespokojnie, boczy się i trzeba go popędzać żeby kroczył do celu. Będąc już w centrum wspólnymi siłami wyszukujemy menhir na tyle uszkodzony, by odłupanie z niego kawałka nie stanowiło zbyt dużego wyzwania.
+    - Zamiast siegnąć po oczywiste, acz bardzo głośne rozwiązania jak zaklęcie [Kajetana](#g_kajetan), które potrafi roztrzaskać i skruszyć wszystko, co nieożywione, podchodzimy do problemu z głową i rozwagą. [Ilana](#g_ilana) używa swoich druidycznych zdolności, aby zachęcić rośliny do wyrastania ze szczelin kamienia. [Elf](#g_kajetan) zaś "podlewa" rośliny, tworząc wystarczające ciśnienie w szczelinach aby kawał menhiru zwyczajnie odpadł od reszty.
+    - Nasze starania zostają nagrodzone, ale kiedy pakujemy kamień do torby i już mamy dosiąść konia, dookoła robi się jakby niespokojniej. Nasze poczynania musiały zaalarmować [ghule](#b_ghul), bo jedna z poczwar zaczyna nas gonić.
+    - [Ilana](#g_ilana) zmienia się w dużego wilka, płosząc tym konia i zmuszając go do jeszcze szybszej ucieczki z [Kajetanem](#g_kajetan) na grzbiecie. Pędzimy na złamanie karku do mostu.
+    - Pod mostem [Kajetan](#g_kajetan) tworzy bezpieczne schronienie na noc. Koń zostaje z nami pod "kloszem" i okazuje się to być doskonałym wyborem, ponieważ w czasie odpoczynku do naszego obozu podchodzą [ghule](#b_ghul). Koń płoszy się, ale [Ilana](#g_ilana) szybko go uspokaja. [Kajetan](#g_kajetan), nie bawiąc się w kurtuazje, bezceremonialnie szyje z kuszy do niepokojących nas poczwar.
+    - Zdezorientowany [ghul](#b_ghul) nie będąc w stanie zlokalizować źródła ataku, ucieka w popłochu.
+    - Reszta nocy przegiega już bez dalszych zakłóceń. Przed snem [Ilana](#g_ilana) wysyła posłańca z wiadomością do [Finarrina](#p_druid_finarrin).
