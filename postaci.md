@@ -197,6 +197,7 @@
     * ✝ Menge<a id='p_menge'></a> - ; przywódca zakonu Łowców
         [Lord Slyz Myrton](#p_lord_myrton): podwładny
     * Gaetan<a id='p_gaetan'></a> - wiedźmin szkoły kota; polował w Mayenie na dybuga
+    * Hemmelfart<a id='p_hemmelfart'></a> - kapłan; Główny Kapłan kultu Wiecznego Ognia
 * [Świątynia Melitele](#l_smelitele):
     * Matka Iola<a id='p_matka_iola'></a> - ; kapłanka;
 * [Temeria](#l_temeria)
@@ -204,7 +205,11 @@
     * [Lord Dijsktra](#p_dijsktra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
     * [Maribor](#l_maribor)
         * _Tymczasowy Burmistrz Nowego [Mariboru](#l_maribor) Komendant_ Kaspar<a id='p_kaspar'></a>
-            współpracownik [Larsa](#p_lars)
+        * współpracownik [Larsa](#p_lars)
+    * Morgan Guus<a id='p_morgan'></a>
+        * karczmarz
+        * opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
+        * buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1370PP, możliwe że zostanie nazwana _"W pół drogi"_
 * [Wyspy Skellige](#l_wyspy_skellige)
     * Cerys an Craite<a id='p_cerys'></a> - ; jarl wysp Skellige
         córka Crach an Craite'a
