@@ -100,7 +100,9 @@
             Podpisał umowy z Nilfgaarderm
         * Magister Florian z Vicovaro<a id='p_florian_z_vicovaro'></a> - ; mag
         * Lars<a id='p_lars'></a> - ; domniemany przywódca szajki najemnych złoczyńców w Brugge; ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
-        * Gyf<a id='p_gyf'></a> - człowiek w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)  
+        * Gyf<a id='p_gyf'></a> - człowiek w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)
+        * Skaags<a id='p_skaags'></a> - człowiek, sierżant; pracuje dla [Larsa](#p_lars)
+        * ✝ Lloyd<a id='p_lloyd'></a> - człowiek, strażnik; uciekliśmy mu w [Medownej](#l_medowna), bezpodstawnie wierzy że wyrżnęliśmy całą wieś, nadużywał nadanego mu autorytetu.
     * [Dillingen](#l_dillingen)
         * Regis<a id='p_zielarz'></a><a id='p_regis'></a> - ?; zielarz;
             Destylował nalewkę z Mandragory
