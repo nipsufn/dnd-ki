@@ -7,7 +7,7 @@
 2. Eksploracja
     * Zmierzamy kanałami na północny zachód, kanały wydają się mocno uczęszczane (czyżby Łowcy Czarownic tu czegoś szukali?).
     * [Ilana](#g_ilana) dowiaduje się od jakiegoś szczura o "rojach" które okazują się zlepionymi gównem kulami oszalałych szczurów.
-    * Znajdujemy punkt, który zdaje się być ogniskiem Mocy w okilicy - na ścianie i suficie znajduje się niekształtny kawał brudnozielonej galarety, powoli kapiący do ścieku.
+    * Znajdujemy punkt, który zdaje się być ogniskiem Mocy w okolicy - na ścianie i suficie znajduje się niekształtny kawał brudnozielonej galarety, powoli kapiący do ścieku.
 3. Pozawymiarowa Jaskinia
     * [Kajetan](#g_kajetan) próbuje umoczyć bełt w kapiącej galarecie, czym zwraca na siebie uwagę *gluta*.
     * Udaje nam się część gluta wrobić w walkę z "rojem" szczurów.

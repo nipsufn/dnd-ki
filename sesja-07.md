@@ -1,8 +1,8 @@
 ### Sesja 7
 1. [Świątynia](#l_smelitele)
-    * Kasimir niemal od razu wyjeżdża do [Ellander](#l_ellander). My zaś spędzamy w światyni kilka dni. W tym czasie Daria rozpoczyna nauki.
+    * Kasimir prawie od razu wyjeżdża do [Ellander](#l_ellander). My zaś spędzamy w światyni kilka dni. W tym czasie Daria rozpoczyna nauki.
     * [Ilana](#g_ilana) w zasadzie przepada na całe dnie poza świątynią. Podczas jednego z tych wypadów szuka Wiewiórek.
-    * Przekazuje im dobre wieści o kapłankach, a także prosi o pomoc w wyrzeźbieniu nowego kostura z gałęzi dębu który uratowaliśmy.
+    * Przekazuje im dobre wieści o kapłankach, a także prosi o pomoc w wyrzeźbieniu nowego kostura z gałęzi dębu, który uratowaliśmy.
     * Wiewiórki obiecują pomóc, ale nie za darmo. Ilana w pełni świadoma tego pomaga im napaść na zbrojną karawanę transportującą żywność i sprzęt do [Ellander](#l_ellander).
     * W czasie pobytu w świątyni czytamy księgi i rozmawiamy z [Matką Iolą](#p_matka_iola):
         * [Myszowora](#p_myszowor) najlepiej szukać na wyspach Skellige

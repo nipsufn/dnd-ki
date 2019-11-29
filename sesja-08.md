@@ -8,7 +8,7 @@
     * Spadamy do podziemnego jeziora gdzie atakuje nas [Zeulg](#b_zeulg).
     * Zabijamy potwora, W jego leżu [Ilana](#g_ilana) znajduje nadjedzoną rękę z bransoletką. 
     * Bransoletka ma identyczny symbol, jak ten na opasce zerwanej z herszta Łowców transportujących nas podczas dwuksiężycowej nocy. Bibelot emanuje magią.
-    * Wracamy ze szczątami potwora do [Vigga](#p_viggo_regner), niszcząc kolejny raz bramę do kanałów i płacąc mandat za zepsucie rzeczonej bramy (10GP).
+    * Wracamy ze szczątkami potwora do [Vigga](#p_viggo_regner), niszcząc kolejny raz bramę do kanałów i płacąc mandat za zepsucie rzeczonej bramy (10GP).
 3. [Fiolka Zdrowia](#l_fiolka_zdrowia)
     * [Viggo](#p_viggo_regner) jest zawiedziony brakiem szczura, jednak [Zeulg](#b_zeulg) też jest interesujący - paraliżującą toksynę da się pozyskać do różnych celów.
     * [Zeulga](#b_zeulg) ktoś chodował na toksynę i pobierał ją nie zabijając potwora.
@@ -33,4 +33,4 @@
     * Cała kompania z nami włącznie zwala się na jadło i piwo do poleconej przez nas [Różyczki](#l_rozyczka).
     * [Kajetan](#g_kajetan) zostaje wyzwany na pojedynek na rękę. Wygrywa ze [Skovikiem](#p_skovik) i jednym z jego braci, z drugim (tym postawniejszym) i [Ilaną](#g_ilana) (szok i niedowierzanie) przegrywa.
     * [Skovik](#p_skovik) i jego bracia pochodzą z [Wysp Skellige](#l_wyspy_skellige). 
-    * Mężczyzna dzieli się informacjami jak najlepiej tam dotrzeć i faktem, że [Myszowór](#p_myszowor) przebywa na [Wyspach Skellige](#l_wyspy_skellige).
+    * Mężczyzna dzieli się informacjami jak najlepiej tam dotrzeć i potwierdza, że [Myszowór](#p_myszowor) przebywa na [Wyspach Skellige](#l_wyspy_skellige).

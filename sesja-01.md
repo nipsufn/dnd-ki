@@ -11,7 +11,7 @@
     * [Ilana](#g_ilana) przemieniona w ogromnego wilka próbuje razem z elfem podkraść się do bandytów niepostrzeżenie. Niestety zostajemy zauważeni i przegonieni u wejścia do jaskini służącej bandytom za kryjówkę.
 3. Poręba
     * Podążając na południe napotykamy drwali. Dwóch z nich zaginęło ostatniej nocy, coś złego chodzi po lesie.
-    * Jesteśmy zmęczeni i ranni, wyruszajmy do niedalekiego już miasta odpocząć i poszukać pracy. **[Zadanie: Zlecenie na Kota Migota](#z_q1)**
+    * Jesteśmy zmęczeni i ranni, wyruszamy do niedalekiego już miasta odpocząć i poszukać pracy. **[Zadanie: Zlecenie na Kota Migota](#z_q1)**
 4. [Ellander](#l_m_ellander)
     * Na podgrodziu przed knajpą o nazwie [Kuropatwa](#l_kuropatwa) natykamy się na tablicę z [ogłoszeniami](#o_ellander). Jest kilka zleceń, w tym jedno dla wiedźmina, jedno ogłoszenie o naborze do wojska i jeden regilijny pierd. 
     * [Ilana](#g_ilana) zrywa ogłoszenie o opętanym dziecku z postanowieniem, żeby zbadać tę sprawę.

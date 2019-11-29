@@ -30,7 +30,7 @@
     * Z rynku kierujemy się do zakładu krawieckiego. Zrobiło się chłodniej, więc potrzebujemy cieplejszych ubrań.
     * [Eliza](#p_eliza) zdejmując miarę zdaje sobie sprawę z iluzji wokół [Kajetana](#g_kajetan) i jego faktycznych rozmiarów.
     * Krawcowa wspomina, że [Daria](#p_daria) przejawia predyspozycje do używania mocy ale nie ma kontroli nad efektem. Właśnie dlatego w jej pokoju od wczoraj jest potłuczone okno.
-    * [Kajetan] przygotowuje prostą zagadkę używaną na uniwersytecie magicznym i potwierdza, że dziewczynka ma predyspozycje.
+    * [Kajetan](#g_kajetan) przygotowuje prostą zagadkę używaną na uniwersytecie magicznym i potwierdza, że dziewczynka ma predyspozycje.
     * Wpadamy na pomysł aby poprosić o pomoc kapłanki Melitele - one mogą nauczyć kontroli, ale pomysł ten należy najpierw skonsultować z [Viggo](#p_viggo_regner). Być może on pomoże na miejscu.    
     * Droga do [Świątyni Melitele](#l_smelitele) jest stosunkowo przejezdna ale nie całkiem bezpieczna, więc potrzebna byłaby obstawa.
 4. W drodze do [Różyczki](#l_rozyczka)
@@ -44,7 +44,7 @@
     * Karczma lekko podupadła, brakuje zarówno jadła jak i klienteli, a to w związku ze szczurami, które od dłuższego czasu niszczą zapasy jedzenia.
     * Snują się opowieści przy kuflu:
         * [Kajetan](#g_kajetan) zmierzał do Vartburga licząc, że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
-        * [Ilana](#g_ilana) poszukuje druida imieniem [Myszowór](#p_myszowor), który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej. Opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
+        * [Ilana](#g_ilana) poszukuje druida imieniem [Myszowór](#p_myszowor), który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej; opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
     * [Podjudzacz robotników](#p_mlody_kaplan), którego [Ilana](#g_ilana) rozpoznaje niemal natychmiast, pojawia się z towarzyszem w karczmie nieludzi. Niby-uprzejmie wypytuje [Marię](#p_maria) co można zamówić (sprawia wrażenie pytającego jak źle jest).
     * [Podjudzacz jest kapłanem](#p_mlody_kaplan) który ostrzy zęby na pozycję [głównego kapłana](p_kaplan_matias) (przemawiający staruszek z Rynku) - wnioskujemy to z jego rozmowy z kompanem.
     * Do karczmy wchodzi (choć lepszym słowem byłoby wtargnięcie) znajoma już banda robotników i próbuje nawiązać bójkę. Zostaje jednak spacyfikowana i przepędzona przez [Kapłana](#p_mlody_kaplan). 
@@ -53,11 +53,11 @@
     * [Kajetan](#g_kajetan) nie chce się mieszać i wychodzi do [Ziołowego Kufla](#l_ziolowy_kufelek). Odnosi wrażenie że [Różyczka](#l_rozyczka) skazana jest na zagładę, a jakiekolwiek akcje mogą tylko pogorszyć już i tak fatalną sytuację.
     * [Kapłan](#p_mlody_kaplan) posiłkuje się magią żeby zakończyć starcie z [Ilaną](#g_ilana), co mu się o dziwo udaje.
     * [Ilana](#g_ilana) poirytowana nie na żarty wychodzi za [Kajetanem](#g_kajetan) po chwili zmieniając się w kota.
-    * Po drodze spotyka szczury, które próbują ją dopaść. Te także mają nienaturlanie zółte gadzie oczy.
+    * Po drodze spotyka szczury, które próbują ją dopaść. Te także mają zółte gadzie oczy.
 7. [Ziołowy Kufel](#l_ziolowy_kufelek)
     * Dowiadujemy się kilku ciekawych rzeczy:
         * karczma ta okazuje się nie jest aż tak strasznie droga
-        * radzi sobie nienajgorzej - zdecydowanie lepiej niż [Różyczka](#l_rozyczka).
+        * radzi sobie nienajgorzej - zdecydowanie lepiej niż [Różyczka](#l_rozyczka)
         * miasto zdaje się być zamknięte i nikt bez glejtu nie wejdzie do ani nie wyjdzie z miasta
         * problemy na drogach ubijają handel - mniej podróżnych i problem z zaopatrzeniem
         * glejty do miasta wystawia się tylko dla ludzi którzy handlują aby oszczędzać pozostałe zasoby na przyjezdnych

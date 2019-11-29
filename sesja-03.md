@@ -36,7 +36,7 @@
     * Sklep jest obserwowany przez Łowców Czarownic, częste wizyty składa tam niejaki [Lord Slyz Myrton](#p_lord_myrton) - głowa tutejszej filii zakonu Wiecznego Ognia.
     * Otrzymujemy porpozycję kontraktu, ale jego szczegółów alchemik nie chce omawiać w swoim zakładzie. Proponuje nam wieczorne spotkanie w przybytku o nazwie "Zielony Kufelek".
     * Na pożegnanie [Kajetan](#g_kajetan) wyciąga do alchemika - zapobiegliwie i celowo - lewą rękę żeby nie narazić się na ponowny kontakt z obrączką, co spotyka się ze zrozumieniem alchemika.
-7. Wizyta u krawcowej [Eliza](#p_eliza)
+7. Wizyta u krawcowej [Elizy](#p_eliza)
     * z [Fiolki](#l_fiolka_zdrowia) idziemy prosto do zakładu krawcowej z ogłoszenia, które zerwała [Ilana](#g_ilana).
     * Krawcowa jest bardzo zmęczona. [Ilana](#g_ilana) przekonuje ją, że możemy pomóc pomimo, że nie jesteśmy wiedźminami.
     * [Eliza](#p_eliza) opowiada nam, że od kilku nocy jej córka, [Daria](#p_daria), widzi zmarłego ojca, który nigdy nie powrócił z wojny.
@@ -62,11 +62,11 @@
     * Elf i alchemik rozmawiają o tym, co zaszło kilka nocy temu i jaki to ma wpływ na obecną sytuację.
     * [Kajetan](#g_kajetan) pyta o pierścień z dwimerytu, ale [Viggo](#p_viggo_regner) pozostaje tajemniczy i nie wyjawia zbyt wiele. Mówi jednak, że woli aby nazywać go zielarzem niż alchemikiem, bo to już brzmi niebezpiecznie podobnie do czarodzieja, a tego wolałby uniknąć.
     * Ilana dociera wreszcie na spotkanie i oboje udajemy się na spoczynek do [Różyczki](#l_rozyczka).
-    * Siedząc przy wieczornym piwie w [Różyczce](#l_rozyczka) jesteśmy świadkami jak ktoś uszkadza szybę miotając w nią kamieniem. [Kajetan](#g_kajetan) zobowiązuje się pokryć straty i oddaje [Marii](#p_maria) 20GP na nową szybę. Podejżewamy, że to sprawka przegonionych murarzy, bo list z pogróżkami, którym kamień był owinięty nosi ślady murarskiej zaprawy.
+    * Siedząc przy wieczornym piwie w [Różyczce](#l_rozyczka) jesteśmy świadkami jak ktoś uszkadza szybę ciskając w nią kamieniem. [Kajetan](#g_kajetan) zobowiązuje się pokryć straty i oddaje [Marii](#p_maria) 20GP na nową szybę. Podejżewamy, że to sprawka przegonionych murarzy, bo list z pogróżkami, którym kamień był owinięty nosi ślady murarskiej zaprawy.
     * [Ilana](#g_ilana) mimo późnej pory decyduje się niepostrzeżenie opuścić karczmę i udać się na przeszpiegi.
         * trop faktycznie prowadzi do baraków robotniczych pod uszkodzonym murem 
         * [Ilana](#g_ilana) widzi mężczyznę, który wygłasza do zebranych wokół niego robotników nienawistne, rasistowskie hasła podżegając do ataków na nieludzi
         * udaje jej się niemal niepostrzeżenie wrócić
-        * po drodze zauważają ją strażnicy i oferują się bezpiecznie odrpowadzić do domu, co przyjmuje z wdzięcznością
+        * po drodze zauważają ją strażnicy i oferują się bezpiecznie odprowadzić do domu, co przyjmuje z wdzięcznością
         * po powrocie dzieli się swoim odkryciem z [Kajetanem](#g_kajetan)
     
