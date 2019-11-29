@@ -36,8 +36,6 @@
     * Sowie Wzgórza<a id='l_sowie_wzgorza'></a>
          - kopalnie węgla
         * Świątynia Kreve<a id='l_swiatynia_kreve'></a>
-* Beauclair<a id='l_beauclair'>
-    - robią tu jedno z najlepszych win
 * Cidaris<a id='l_cidaris'></a>
     - leży nad morzem, między ujściem Jarugi a [Temerią](#l_temeria), od wschodu graniczy z [Verden](#l_verden)
     * Cidaris<a id='l_m_cidaris'></a>
@@ -100,6 +98,9 @@
         * Stoi na nim samotne drzewo - dobry punkt do teleportacji
     * Cleves<a id='l_cleves'></a>
         * fort wojskowy, niedaleko [Mariboru](#l_maribor)
+* Toussaint<a id='l_toussaint'></a>
+    * Beauclair<a id='l_beauclair'></a>
+        - robią tu jedno z najlepszych win
 * Wyspy Skellige<a id='l_wyspy_skellige'></a>
     * Ard Skellig<a id='l_ard_skellig'></a>
         * największa wyspa na Skellige

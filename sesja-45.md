@@ -10,7 +10,7 @@
         - zwierzchnik duchowieństwa wziął się za magów i im podobnych
         - w mieście zakazana i tępiona z ramienia kościoła jest nie tylko magia, ale też alchemia, zielarstwo, a i cyrulików się przegania
         - będąc właściwie na granicy, z dala od [stolicy](#l_novigrad) i rozmawiając ze "swoim" - krasnoludem - żartujemy sobie z [pontyfikowanego](#p_hemmelfart)
-<        - krasnolud przytacza zabawną rymowankę o wielebnym: _"o wielebnym Hemmelfartcie, któremu w głowie tylko kurwy i żarcie"_.
+        - krasnolud przytacza zabawną rymowankę o wielebnym: _"o wielebnym Hemmelfartcie, któremu w głowie tylko kurwy i żarcie"_.
     - Układamy się na nocleg w jednej z dwóch powstających, wielkich izb póki-co-bezimiennej karczmy. Noc przebiega spokojnie i bez zakłóceń. W izbie oprócz nas nocują robotnicy. Sam właściciel zaś zajmuje drugą, równie przestronną izbę, zaadaptowawszy ją natenczas na swój tymczasowy pokój.
 3. Przydrożne atrakcje
     - Po śniadaniu bez zbędnego mitrężenia ruszamy w dalszą drogę. Jak dowiedzieliśmy się od [Morgana](#p_morgan), do [Mayeny](#l_mayena) powinniśmy trafić przed zmrokiem jeśli tylko będziemy trzymać się traktu. Od [Mayeny](#l_mayena) do [Brugge](#l_brugge) czekają nas kolejne 4 dni drogi.
