@@ -44,4 +44,4 @@
     - Kilka ze skrzyń emanuje magią. Ślady magii biją też od podłogi, a także od czegoś przy pasie fircyka.
     - Poszukiwania [Ilany](#g_ilana) są zainspirowane butelką wina z [Beauclair](#l_beauclair), którą [Kajetan](#g_kajetan) nonszalancko podnosi z jednej ze skrzyń i bezceremonialnie otwiera. Ten, którego bierzemy za [Larsa](#p_lars) rzuca w rozmowie, że butelki w skrzyni pochodzą z obrabowanej i splaonej pracowni [Floriana](#p_florian_z_vicovaro).
     - Informujemy [Larsa](#p_lars) o naszych skradzionych fantach. Ten wysyła po nie [Leiva](#p_leiv).
-    - [Lars](#p_lars) zdawkowo nakreśla dalszy plan działania. Mamy udać się wraz z kilkoma jego podwładnymi złożyć wizytę czarodziejowi w jego laboratorium w porzuconym szpitalu następnego dnia.
+    - [Lars](#p_lars) zdawkowo nakreśla dalszy plan działania. Mamy udać się wraz z kilkoma jego podwładnymi złożyć wizytę czarodziejowi w jego laboratorium w szpitalu następnego dnia.
