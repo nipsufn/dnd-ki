@@ -41,7 +41,7 @@
     * Cidaris<a id='l_m_cidaris'></a>
     * Bremervoord<a id='l_bremervoord'></a>
     * Kerack<a id='l_kerack'></a>
-* Cinitra<a id='l_cinitra'></a>
+* Cintra<a id='l_cintra'></a>
 * Ellander<a id='l_ellander'></a>
     - Lenno [Temerii](#l_temeria), a więc i [Redianii](#l_redania)
     * Ellander<a id='l_m_ellander'></a>

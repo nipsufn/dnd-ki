@@ -2,7 +2,7 @@
 1. [Różyczka](#l_rozyczka)
     * Po śniadaniu zbieramy się i ruszami ze Skovikiem i braćmi do ratusza omówić zlecenie na szczurzego grajka (roboczo nazwanego Szczurołapem).
 2. Ratusz w [Ellander](#l_m_ellander)
-    * [Kajetan](#g_kajetan) kupuje bombonierkę dla sekretarek - dowiaduje się że nagrody za Szczurołapa obecnie nie ma, ale mamy pojawić się po południu przed radą miejską, może uda nam się z nimi dogadać.
+    * [Kajetan](#g_kajetan) kupuje bombonierkę dla sekretarek - dowiaduje się, że nagrody za Szczurołapa obecnie nie ma, ale mamy pojawić się po południu przed radą miejską, może uda nam się z nimi dogadać.
     * [Skovik](#p_skovik) i bracia wybierają się do balwierza, a [Kajetan](#g_kajetan) do rzemieślnika po pokrowiec na topór.
     * Rada składa się z 7 osób:
         * [Lord Myrton](#p_lord_myrton) (ku naszemu zdziwieniu!)
@@ -12,12 +12,12 @@
         * [Kupiec Mandrej](#p_mandrej)
         * Nieco starsza pani
         * Puste miejsce (po [Kapłanie Matiasie](#p_kaplan_matias)?)
-    * Rada zupełnie nie kryje swojej niezgody.
-        * Są podzieleni na dwa obozy, religijny/mistyczny (Myrton, Viggo, młody mężczyzna) i świecki (Kapitan, Kupiec Mendrej, starsza pani).
-        * Chętnie używają petentów i informacji, które ci przynoszą do niekrytej rozgrywki politycznej.
-        * Żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego lub dostarczenie dowodów jednoznacznie potwierdzających nasze podejżenia - [Igna](#p_igna) ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**.
-3. Na mieście
-    * Ruszamy w stronę magazynu gdzie złapaliśmy poprzednio szczura; [Ivar](#p_ivar) zakuwa się w zbroję w [Różyczce](#l_rozyczka).
+    * Rada zupełnie nie kryje swojej niezgody:
+        * są podzieleni na dwa obozy, religijny/mistyczny (Myrton, Viggo, młody mężczyzna) i świecki (Kapitan, Kupiec Mendrej, starsza pani)
+        * chętnie używają petentów i informacji, które ci przynoszą do niekrytej rozgrywki politycznej
+        * żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego lub dostarczenie dowodów jednoznacznie potwierdzających nasze podejżenia - [Igna](#p_igna) ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**
+3. Polowanie na Sczurołapa
+    * Ruszamy w stronę magazynu gdzie złapaliśmy poprzednio szczura. [Ivar](#p_ivar) zakuwa się w zbroję w [Różyczce](#l_rozyczka).
     * [Ilana](#g_ilana) i [Leiv](#p_leiv) idą osobno aby "otoczyć lokację" - [Ilana](#g_ilana) patrzy oczami jakiegoś losowo złapanego szczura (nie mogła tego zrobić przy [Ignie](#p_igna)), odnajduje kryjówkę Szczurołapa.
     * Drużyna spotyka się pod magazynem, razem biegniemy do budynku wskazanego przez [Ilanę](#g_ilana).
     * Odkrywamy stary pokój z zakrwawionym ołtażem na końcu tunelu, który znaleźliśmy w piwnicy. W pokoju widać wiele wejść do tuneli o różnych rozmiarach.

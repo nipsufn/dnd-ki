@@ -20,10 +20,10 @@
 2. [Carreras](#l_carreras) - dzień pierwszy
     * Budzimy się dopiero koło południa, przesypiając porę śniadania.
     * Odwiedzamy [zielarkę](#p_zielarka), która:
-        * przyznaje, że zioła które sprzedaje ludziom którzy mieli nieszczęście iść przez mgłę to placebo, pomaga im dobry, długi sen.
-        * opowiada że niebezpieczna mgła na bagnach panuje od dawna, zaczęła pokrywać coraz większy teren po Dwójksiężycowej Nocy.
-        * w samych widłach rzek znajdują się ruiny - druidzki Menhir, punkt Mocy.
-        * dawniej od czasu do czasu [Carreras](#l_carreras) odwiedzał [zielarz z Dillingen](#p_zielarz), destylował nalewkę z Mandragory.
+        * przyznaje, że zioła sprzedawane ludziom, którzy mieli nieszczęście iść przez mgłę to placebo - pomaga im dobry, długi sen
+        * opowiada, że niebezpieczna mgła na bagnach panuje od dawna, zaczęła pokrywać coraz większy teren po Dwójksiężycowej Nocy
+        * w samych widłach rzek znajdują się ruiny - druidzki menhir, punkt Mocy
+        * dawniej od czasu do czasu [Carreras](#l_carreras) odwiedzał [zielarz z Dillingen](#p_zielarz), destylował nalewkę z Mandragory
     * Strażnicy nie wiedzą aby była jakaś nagroda za rozwiązanie problemu z Mgłą.
     * Kupujemy zapasy mięsa na drogę - wymagają jednak przygotowania, czym obiecuje zająć się [Ilana](#g_ilana).
     * [Ilana](#g_ilana) wraca do [Zielarki](#p_zielarka), starając się wykryć magię. Dochodzi do krótkiej konfrontacji, stragan kończy na głowie druidki, a [Zielarki](#p_zielarka) ani widu, ani słychu.
@@ -32,9 +32,9 @@
     * Druidka orientuje się że [Zielarka](#p_zielarka) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym [Kajetanowi](#g_kajetan).
 2. [Carreras](#l_carreras) - dzień drugi
     * [Kajetanowi](#g_kajetan) zdaje się że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](#p_zielarka), odzyskać pukiel i potencjalnie skrócić babę o głowę.
-    * Drużyna wyrusza w poszukiwaniu [Zielarki](#p_zielarka), kierując się w stronę Menhiru - mamy podejrzenia, że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy.
+    * Drużyna wyrusza w poszukiwaniu [Zielarki](#p_zielarka), kierując się w stronę menhiru - mamy podejrzenia, że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy.
     * [Ilana](#g_ilana) używa magii aby odszukać swoje włosy, wyczuwa je w trzech punktach
-    * W pół drogi do Menhiru atakuje nas dwóch żaboludzi, próbując porwać [Ilanę](#g_ilana).
+    * W pół drogi do menhiru atakuje nas dwóch żaboludzi, próbując porwać [Ilanę](#g_ilana).
     * Drużyna jest zmęczona, wracamy na noc do miasta planując zakończyć sprawę następnego dnia.
     * Zaniepokojeni próbą porwania (spodziewaliśmy się walki do ostatniej kropli krwi), pomimo nocowania w karczmie wystawiamy warty.
     * [Kajetan](#g_kajetan) zauważa przez okno nad ranem wielką ilość rechoczących żab, zdających się obserwować okno naszego pokoju.
@@ -44,8 +44,8 @@
     * Po drodze nie atakuje nas trzeci żaboludź którego się spodziewaliśmy.
     * Docieramy aż do samego Menhiru. W połowie drogi na jego szczyt zatrzymujemy się - zaczyna się robić grząsko, słyszymy płacz dziecka i widzimy wrony krążące nad nami.
     * [Ilana](#g_ilana) żąda "audiencji", otwiera się przed nami tunel prowadzący w głąb rytualnego wzgórza.
-    * [Zielarka](#p_zielarka) okazuje się być materializacją duszy dziecka przybitego do właściwego Menhiru, kamienia w środku kurhanu, przeklętego przez [Arcydruida Ivryna](#p_arcydruid_ivryn), skazaną na nawiedzanie [Carreras](#l_carreras) - miasta które zaczęło osuszać bagna, polować na okoliczną zwierzynę i zanieczyszczać wodę w rzece.
+    * [Zielarka](#p_zielarka) okazuje się być materializacją duszy dziecka przybitego do właściwego menhiru, kamienia w środku kurhanu, przeklętego przez [Arcydruida Ivryna](#p_arcydruid_ivryn), skazaną na nawiedzanie [Carreras](#l_carreras) - miasta które zaczęło osuszać bagna, polować na okoliczną zwierzynę i zanieczyszczać wodę w rzece.
     * [Zielarka](#p_zielarka) błaga aby ją uwolnić zanim klątwa zmusi ją aby zaatakować.
-    * Sytuacja zdaje się beznadziejna, [Kajetan](#g_kajetan) decyduje się zaczerpnąć spore ilości Mocy, ryzykując życie, aby zniszczyć przeklęty Menhir. Częściowo mu się to udaje, czym przełamuje swoją blokadę, znacząco się wyniszczając.
-    * [Ilana](#g_ilana) ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarkę](#p_zielarka) od klątwy; zabiera kryształ, który znajdował się wewnątrz obelisku.
+    * Sytuacja zdaje się beznadziejna. [Kajetan](#g_kajetan) decyduje się zaczerpnąć spore ilości Mocy, ryzykując życie, aby zniszczyć przeklęty menhir. Częściowo mu się to udaje, czym przełamuje swoją blokadę, znacząco się wyniszczając.
+    * [Ilana](#g_ilana) ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarkę](#p_zielarka) od klątwy. Druidka zabiera kryształ, który znajdował się wewnątrz obelisku.
     * Docieramy z powrotem do miasta, po zmroku. Mgły ustąpiły. Kierujemy się do karczmy na noc.

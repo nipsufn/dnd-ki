@@ -7,7 +7,7 @@
     * W karczmie zamawiamy piwo, które [Kajetan](#g_kajetan), korzystając ze swoich starych-nowych sztuczek schładza.
     * [Ilana](#g_ilana) w tym czasie opuszcza towarzyszy i idzie do pokoju z zamiarem zbadania kamienia zabranego z menhiru. Udaje jej się dowiedzieć, jaka magia jest w kamieniu i "wywołać" uwięzioną tam duszę.
 1. [Carreras](#l_carreras) - dzień czwarty
-    * Nad ranem rozmawia z nami komendant straży. Dwie noce temu (noc z żabami) w mieście umarł w sumie tuzin ludzi. Nie ma żadnych dowodów że mamy coś z tym wspólnego, ale po wysłuchaniu naszej opowieści o wiedźmach, Menhirach i tym podobnym, każe nam się wynosić z miasta przed zachodem słońca.
+    * Nad ranem rozmawia z nami komendant straży. Dwie noce temu (noc z żabami) w mieście umarł w sumie tuzin ludzi. Nie ma żadnych dowodów, że mamy coś z tym wspólnego, ale po wysłuchaniu naszej opowieści o wiedźmach, menhirach i tym podobnym, każe nam się wynosić z miasta przed zachodem słońca.
     * [Kajetan](#g_kajetan) pomimo wyczerpania odzyskuje kontrolę nad Mocą - może czarować.
     * Elf robi ostatnie zakupy na drogę, sprzedaje topór, do którego stracił zaufanie.
     * [Ilana](#g_ilana) ze [Skovikiem](#p_skovik) odwiedzają na odchodne najstarszego mieszkańca miasta. Dowiadują się więcej o histori Carreras:
@@ -31,10 +31,10 @@
     * [Maribor](#l_maribor) to jeden wielki obóz, do którego ktoś co chwila albo przybywa albo wyjeżdża.
     * Wygląda na to że całe wzgórze na którym stało miasto zostało magicznie ścięte na idealny poziom gruntu, wszystko powyżej zniknęło.
     * Drużyna zatrzymuje się na noc w jednej z opuszczonych piwnic.
-    * [Ilana](#g_ilana) próbuje skupić się na ogniskach magii w okolicy, kończy się to wielkim krwotokiem z nosa i prawie że zasłabnięciem.
+    * [Ilana](#g_ilana) próbuje skupić się na ogniskach magii w okolicy, kończy się to wielkim krwotokiem z nosa i prawie, że zasłabnięciem.
     * [Ilana](#g_ilana) i [Skovik](#p_skovik) wychodzą rozjerzeć się po okolicy, oglądają bójkę pięciu chłopa na jednego, dającego im radę bez najmniejszego problemu.
-    * Okazuje się że mężczyzna chroni jednych z fundamentów, jest mrukliwy i nie udziela informacji ani o mieście ani o fundamentach, których broni.
-    * Na odchodnym [Ilana](#g_ilana) zauważa jak gość rozmawia z kobietą wystawiającą głowę z namiotu, Kobieta nosi ślady krwotoku podobnego do tego który przydarzył się druidce.
+    * Okazuje się, że mężczyzna chroni jednych z fundamentów, jest mrukliwy i nie udziela informacji ani o mieście ani o fundamentach, których broni.
+    * Na odchodnym [Ilana](#g_ilana) zauważa jak gość rozmawia z kobietą wystawiającą głowę z namiotu, Kobieta nosi ślady krwotoku podobnego do tego, który przydarzył się druidce.
 4. [Maribor](#l_maribor) - dzień pierwszy
     * Pomimo planów natychmiastowego wyruszenia z [Mariboru](#l_maribor), [Ilana](#g_ilana) namawia drużynę na ostatnią przechadzkę w okolicy dobrze chronionych fundamentów.
     * [Kajetan](#g_kajetan) zauważa i opowiada, nieco za głośno, o fundamentach:

@@ -7,16 +7,16 @@
         * [Finarrin](#p_druid_finarrin), jako wysłannik starszyzny przybył do [Eithne](#p_eithne) po radę
         * dziwne elfy pochodzą z [Aen Eldrin](#r_aen_eldrin), przybyła ich w sumie czwórka
         * [Protektor](#b_bizoktor) został przebudzony przez jednego z tych elfów
-        * Driady nazywają [Kajetana](#g_kajetan), czy też może wszystkie elfy mieszkające na kontynencie, udawanymi; bohater z trudem połyka dumę by uniknąć konfrontacji
+        * driady nazywają [Kajetana](#g_kajetan), czy też może wszystkie elfy mieszkające na kontynencie, udawanymi; bohater z trudem połyka dumę by uniknąć konfrontacji
     * Rozbijamy obóz nieco bardziej na północ od Wioski, w opuszczonej altance, w której [Kajetan](#g_kajetan) dostrzega elfią architekturę. 
-    * Im głębiej w las tym lepiej widać zupełnie inną pogodę - drzewa w większości nie mają już liści, ziemia jest nimi grubo wysłana, ale jest dość ciepło.
+    * Im głębiej w las tym lepiej widać zupełnie inną pogodę - drzewa tu także w większości nie mają już liści, ziemia jest nimi grubo wysłana, ale mimo to jest dość ciepło.
     * [Ilana](#g_ilana) prosi jedną z driad, żeby przekazała [Finarrinowi](#p_druid_finarrin) jej wiadomość kiedy będzie wracać do [Col Serrai](#l_col_serrai). Ta wysyła ją poprzez kruka. Mówi też, że jeśli przyzwane elfy im pomogą, nie będą musiały już wracać na front.
     * W nocy wokół obozowiska krążą zwierzęta (głównie kruki). 
     * Czujemy się bez przerwy obserwowani, a w nocy [Kajetan](#g_kajetan) dostrzega cztery ogromne wilki otaczające wzgórze, na którym stoi altanka. Na szczęście zdają się tylko patrolować okolicę, bo nie podchodzą do obozu.
     * Rankiem budzimy się sami, driad nie ma już w pobliżu. 
-    * Wszyscy są wypoczęci i wyspani, jedynie [Ivar](#p_ivar) zdaje się nie do końca pamiętać wydarzeń dnia wczorajszego. 
+    * Wszyscy są wypoczęci i wyspani, jedynie [Ivar](#p_ivar) zdaje się nie do końca pamiętać wydarzenia dnia poprzedniego. 
     * Bez zbędnego mitrężenia ruszamy w drogę do [Wioski](#l_wioska). Widząc przy wzgórzu ślady łap, decydujemy się iść ich tropem.
-    * Po drodze natykamy się na dwa dziwne miejsca:
+    * Po drodze natykamy się na dwa dziwne znaleziska:
         * pierwszym jest dół w ziemi, w którym piętrzą się ciała Nilfgaardzkich żołnierzy; ich zbroje są pokryte podobną rdzą, jak broń, którą [Kajetna](#g_kajetan) z [Ivarem](#p_ivar) kupili od krasnoludów w [Carreras](#l_carreras)
         * drugie miejsce to odsłonięta polana, na której stoi kamienny obelisk; przy bliższej inspekcji [Ilana](#g_ilana) rozpoznaje, że to totem poświęcony Protektorowi - na jego szczycie znajduje się spora czaszka z łosimi łopatami i trzema oczodołami, a w miejscu stołu ofiarnego widać odciskany przez kolejne pokolenia krwawy ślad dłoni; runy wyryte w kamieniu symbolizują słowo **pakt**
     * Kiedy [Ilana](#g_ilana) odwraca się z zamiarem odejścia, wielki kruk ląduje na menhirze i łopocząc skrzydłami mówi jej *To nie twój czas na powiernictwo przysięgi*. 
