@@ -119,9 +119,9 @@
         są podejrzenia, że była nią córka Carrerasów, Esme<a id='p_esme_carreras'></a>
     * Trott<a id='p_trott'></a> - krasonlud ; ?;
         * sprzedaje broń z ukrytymi wadami, zrobił na szaro [Skovika](#p_skovik) i [Ivara](#p_ivar)
-* [Cinitra](#l_cinitra)
+* [Cintra](#l_cintra)
     * ✝ Calanthe<a id='p_calanthe'></a> - ; władczyni
-        znała [Myszowowra](#p_myszowor)
+        znała [Myszowora](#p_myszowor)
 * [Ellander](#l_ellander)
     * R. Harevard<a id='p_rodzina_harevard'></a> - ; n/a;
         rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami

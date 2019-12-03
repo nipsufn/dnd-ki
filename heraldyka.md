@@ -9,4 +9,4 @@
 * Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - [Ellander](#l_ellander)
 * Krzyż biały w polu zielonym - [Brugge](#l_brugge)
 * Słońce złote w polu czarnym - [Nilfgaard](#l_nilfgaard)
-* Lew złoty w polu niebieskim - [Cinitra](#l_cinitra)
+* Lew złoty w polu niebieskim - [Cintra](#l_cintra)
