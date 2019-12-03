@@ -72,6 +72,10 @@
         Flaminka, poprzedniczka [Finarrina](#p_druid_finarrin)
     * Yaevinn<a id='p_yaevinn'></a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
+    * Zeff<a id='p_zeff'></a>
+        - Jeden z młodszych druidów kręgu [Brokilońskiego](#l_brokilon)
+        - zginął/zachorował na plagę/został wykorzystany do eksperymentów próbując pogodzić Driady z mieszkańcami [Brugge](#l_brugge)
+        - zawinił [Ilanie](#g_ilana), potężnie
     * [Aen Eldrin](#r_aen_eldrin)
         * Tytania "Królowa Słońca"<a id='p_tytania'></a> - elf; 
             Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](#r_aen_eldrin)
