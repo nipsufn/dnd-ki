@@ -4,8 +4,8 @@
     * Zbieramy szczątki driad: tej przemienionej w drzewo i tej przez nią zabitej. Chowamy obie na cmentarzu druidów.
     * Sprzątamy bałagan po powalonej chatce. [Ilanie](#g_ilana) udaje się zebrać trochę jadu drzewo-driady, który od wczoraj zmienił się w coś na kształt kawałka bursztynu.
     * [Kajetan](#g_kajetan) z [Mirną](#p_mirna) idą szukać ziół na antytoksynę. Druidka obiecała przyrządzić 2 eliksiry jeżeli uda im się zebrać potrzebne składniki.
-    * [Ivar](#p_ivar) i [Skovik](#p_skovik) spędzają nadmiar wolnego czasu na braterskich zapasach i grze w karty. W obu tych zajęciach przewagę wykazuje ten starszy - to dzięki posturze i kantowaniu.
-    * około południa zjawia się [Verenestra](#p_verenestra). [Ilana](#g_ilana) opowiada jej co zaszło poprzedniego wieczora. Elfka, po inspekcji grobu drzewo-driady, nalega na rozmowę z [Juniper](#p_juniper). Mówi, że to, co zaatakowało driadę to jakaś zaraza i że wiele złych rzeczy przeszło przez portal, który otworzyła [Eithne](#p_eithne).
+    * [Ivar](#p_ivar) i [Skovik](#p_skovik) spędzają nadmiar wolnego czasu na braterskich zapasach i grze w karty. W obu tych zajęciach przewagę wykazuje ten starszy - to głównie dzięki posturze i kantowaniu.
+    * Około południa zjawia się [Verenestra](#p_verenestra). [Ilana](#g_ilana) opowiada jej co zaszło poprzedniego wieczora. Elfka, po inspekcji grobu drzewo-driady, nalega na rozmowę z [Juniper](#p_juniper). Mówi, że to, co zaatakowało driadę to jakaś zaraza i że wiele złych rzeczy przeszło przez portal, który otworzyła [Eithne](#p_eithne).
     * W rozmowie z driadą elfka wypowiada słowo *formoria*. Zapytany o wyjaśnienie [Kajetan](#g_kajetan) tłumaczy je później [Ilanie](#g_ilana) jako *zaraza*, *plugastwo*.
     * Po rozmowie z driadą [Verenestra](#p_verenestra) niemal od razu znika tłumacząc, że musi o tym wszystkim poinformować [Tytanię](#p_tytania) i goszczącego w uzdrowisku elfa.
     * Atmosfera trochę się poprawia - [Kajetan](#g_kajetan) i [Mirna](#p_mirna) wracają z lasu ubawieni po pachy. Ilana uświadamia elfa, że nie tylko on stara się o względy (i miejsce w łóżku) [Mirny](@p_mirna) - [Ivar](@p_ivar) też smali cholewki do jej przyjaciółki.
@@ -26,15 +26,15 @@
         * nastąpiło intensywne wyładowanie magii (najprawdopodobniej w tym samym momencie [Eithne](#p_eithne) otwierała portal w [Brokilonie](#l_brokilon))
         * część starszyzny przeskoczyła świadomością do pobliskich zwierząt - ich ciała padły pozbawione świadomości jak kukły
         * część druidów przemieniła się w dzikie zwierzęta i zaatakowała resztę
-        * serdeczna przyjaciółka (partnerka) [Finarrina](#p_druid_finarrin), [Enid](#p_enid) zmieniła się w szopa pracza - w ciągu ostatnich kilku dni, buszując po spiżarni [Finarrina](#p_druid_finarrin) została kilkukrotnie przepędzona miotłą/butem przez nieświadomą [Ilanę](#g_ilana)
+        * serdeczna przyjaciółka (partnerka) [Finarrina](#p_druid_finarrin), [Enid](#p_enid), zmieniła się w szopa pracza - w ciągu ostatnich kilku dni, buszując po spiżarni [Finarrina](#p_druid_finarrin) została kilkukrotnie przepędzona miotłą/butem przez nieświadomą [Ilanę](#g_ilana)
     * Razem z [Kajetanem](#g_kajetan) przygotowują śniadanie, na które schodzi się też reszta.
-    * [Kajetan](#g_kajetan) dowiaduje się że nalewkę z mandragory pędził niejaki [Pan Regis](#p_regis) z [Dillingen](#l_dillingen). Pan [Beaucler](#p_beaucler) z [Dillingen](#l_dillingen) może wiedzieć więcej.
-    * Brokoloński Krąg Druidów powstał w czasach gdy lokalne elfy i ludzie zawarli rozejm, ich zadaniem jest utrzymać status quo
-    * [Bizoktor](#b_bizoktor), zwany "Leszym" (wg [Kajetana](#g_kajetan) "Leszkiem") broni lasu na podstawie paktu zawieranego przez Hierofanta Druidów
-    * Hierofan wyznacza też swojego następce, który będzie dalej podtrzymywał pakt
+    * [Kajetan](#g_kajetan) dowiaduje się, że nalewkę z mandragory pędził niejaki [Pan Regis](#p_regis) z [Dillingen](#l_dillingen). Pan [Beaucler](#p_beaucler) z [Dillingen](#l_dillingen) może wiedzieć więcej.
+    * Brokoloński Krąg Druidów powstał w czasach gdy lokalne elfy i ludzie zawarli rozejm, ich zadaniem jest utrzymać status quo.
+    * [Bizoktor](#b_bizoktor), zwany "Leszym" (wg [Kajetana](#g_kajetan) "Leszkiem"), broni lasu na podstawie paktu zawieranego przez Hierofanta Druidów.
+    * Hierofant wyznacza też swojego następce, który będzie dalej podtrzymywał pakt.
     * [Ilana](#g_ilana) oficjalnie "przyznaje się" do [Skovika](#p_skovik), czym wprawia [Finarrina](#p_druid_finarrin) w lekką konsternację.
     * [Skovik](#p_skovik) prosi [Finarrina](#p_druid_finarrin) o pomoc w swoim treningu. Niestety druid nie jest w stanie dokończyć jego przemiany, bo nauki druidów ze [Skellige](#l_wyspy_skellige) różnią się znacząco od tradycji i metod druidycznych z kontynentu. Decydujemy, że w takim wypadku trzeba nam bezzwłocznie ruszać na [Skellige](#l_wyspy_skellige), szczególnie że kompania zdaje się skłaniać ku opinii iż [Aen Eldrin](#r_aen_eldrin) należy omijać szerokim łukiem.
-    * Po śniadaniu [Mirna](#p_mirna) ku niezadowoleniu [Kajetana](#g_kajetan) zaszywa się w swojej pracowni do końca dnia robiąc obiecane eliksiry. 
+    * Po śniadaniu [Mirna](#p_mirna), ku niezadowoleniu [Kajetana](#g_kajetan), zaszywa się w swojej pracowni do końca dnia robiąc obiecane eliksiry. 
     * [Ilana](#g_ilana) prosi [Finarrina](#p_druid_finarrin) na słowo. Idą na spacer:
         * [Ilana](#g_ilana) wyjawia druidowi swoje dziwne sny i pyta o kobietę, której twarzy nie jest w stanie zobaczyć 
         * [Finarrin](#p_druid_finarrin) widział ją po raz pierwszy kiedy był jeszcze młody, a było to w [Mayenie](#l_mayena), a potem jeszcze raz kiedy, nieco starszy, był tam przejazdem

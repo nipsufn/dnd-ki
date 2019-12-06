@@ -6,7 +6,7 @@
         * eliksir uzdrawiający (regular potion): serce zwierzęcia
         * antytoksyna: jad/trucizna, z której ma powstać odtrutka (im silniejsza toksyna, tym silniejszy sam eliksir)
         * antidotum: "trupi grzyb" (rośnie pod ziemią, głównie w okolicach mogił; bardzo wrażliwy na światło dziennie), próbka jadu razem z gruczołem
-    * W międzyczasie [Verenestra](#p_verenestra) powraca do wioski z wizytą. Zauważamy, że jej wizyty następują w bardzo regularnych porach. Okazuje się że:
+    * W międzyczasie [Verenestra](#p_verenestra) powraca do wioski z wizytą. Zauważamy, że jej wizyty następują w bardzo regularnych porach. Okazuje się, że:
         * [Finarrin](#p_druid_finarrin) otrzymał wiadomość [Ilany](#g_ilana) i jest już w drodze powrotnej do domu 
         * [Auril](#p_auril) jest nieco zaintrygowany przypadłością [Kajetana](#g_kajetan), ale driady nie są skłonne przyjąć elfa w gościnę w [Col Serrai](#l_col_serrai)
         * tak właściwie to driady nie życzą sobie żadnych gości po za starszyzną druidów
@@ -27,7 +27,7 @@
     * Druga driada okazuje się być człowiekiem już tylko w części, a w części drzewem. Z jej drewnianych szponów stanowiących prawą rękę wytacza się głowa trzeciej driady.
     * Wywiązuje się walka. Najwyraźniej choroba pochodząca z rany w ciągu kilku godzin zamieniła większość ciała driady w drewno i zawładnęła jej umysłem.
     * W walce większość z nas odnosi rany, [Ilana](#g_ilana) traci przytomność. 
-    * [Mirna](#p_mirna) nie jest w stanie jej uzdrowić dopóki [Kajetan](#g_kajetan) nie podaje jej antytoksyny używanej zwykle z Jaskółką.
+    * [Mirna](#p_mirna) nie jest w stanie jej uzdrowić dopóki [Kajetan](#g_kajetan) nie podaje jej antytoksyny używanej zwykle z jaskółką.
     * Ocalała driada, po wyciągnięciu spod stołu, zostaje opatrzona. 
     * [Ilana](#g_ilana) zajmuje się nią, daje kubek nalewki, żeby ta się uspokoiła i przestała płakać. Dziewczyna ma ludzkie uszy i na oko mniej niż 17 lat, a na imię jej [Juniper](#p_juniper).
     * [Ilana](#g_ilana) pyta [Juniper](#p_juniper) o szczegóły zranienia jej siostry: 

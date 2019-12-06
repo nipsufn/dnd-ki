@@ -1,13 +1,13 @@
 ### Sesja 18
 1. [Brokilon](#l_brokilon)
     * Driady wspaniałomyślnie pozwalają nam przejść brzegiem rzeki do Wioski. 
-    * [Ilana](#g_ilana) upiera by iść brzegiem lasu z racji na patrole wojska stale krążące przy Wstążce. 
+    * [Ilana](#g_ilana) upiera się by iść brzegiem lasu z racji na patrole wojska stale krążące przy Wstążce. 
     * Driady godzą się finalnie na taką opcję, oferują się też poprowadzić nas na obóz żeby bezpiecznie przenocować do rana. 
     * W drodze [Kajetan](#g_kajetan) i [Ilana](#g_ilana) próbują wypytać driady o nieco więcej szczegółów na temat dziwnych elfów-przybyszów i ogólnej sytuacji w Brokilonie. Dowiadują się, że:
         * [Finarrin](#p_druid_finarrin), jako wysłannik starszyzny przybył do [Eithne](#p_eithne) po radę
         * dziwne elfy pochodzą z [Aen Eldrin](#r_aen_eldrin), przybyła ich w sumie czwórka
         * [Protektor](#b_bizoktor) został przebudzony przez jednego z tych elfów
-        * driady nazywają [Kajetana](#g_kajetan), czy też może wszystkie elfy mieszkające na kontynencie, udawanymi; bohater z trudem połyka dumę by uniknąć konfrontacji
+        * driady nazywają [Kajetana](#g_kajetan), czy też może wszystkie elfy mieszkające na kontynencie, udawanymi; mag z trudem połyka dumę by uniknąć konfrontacji
     * Rozbijamy obóz nieco bardziej na północ od Wioski, w opuszczonej altance, w której [Kajetan](#g_kajetan) dostrzega elfią architekturę. 
     * Im głębiej w las tym lepiej widać zupełnie inną pogodę - drzewa tu także w większości nie mają już liści, ziemia jest nimi grubo wysłana, ale mimo to jest dość ciepło.
     * [Ilana](#g_ilana) prosi jedną z driad, żeby przekazała [Finarrinowi](#p_druid_finarrin) jej wiadomość kiedy będzie wracać do [Col Serrai](#l_col_serrai). Ta wysyła ją poprzez kruka. Mówi też, że jeśli przyzwane elfy im pomogą, nie będą musiały już wracać na front.
@@ -31,9 +31,9 @@
     * Podczas swojej warty [Ilana](#g_ilana) zauważa dziurę w swoim plecaku i braki w zapasach jedzenia. 
     * Zabiera plecak ze sobą na drzewo i stamtąd przygląda się poczwarkom, kiedy do obozu podchodzą [kikimory](#b_kikimora). Na szczęście są to tylko robotnice, które obszukują biwak nie krzywdząc nikogo z drużyny, a następnie odchodzą, zabierając ze sobą też czerwie.
     * [Kikimory](#b_kikimora) oddalają się w stronę polanki, którą rozważaliśmy jako drugą opcję noclegu, po czym znikają w tunelu pod ziemią.
-    * Nad ranem [Kajetan](#g_kajetan) wydaje się być najbardziej zmiesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używajac magii) z drzewa na drzewo aż mu zabraknie sił. 
+    * Nad ranem [Kajetan](#g_kajetan) wydaje się być najbardziej zmiesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używając magii) z drzewa na drzewo aż mu zabraknie sił. 
     * W swoim stuporze i rozsierdzeniu nie zwraca uwagi na nagłe drżenie podłoża.
-    * [Ilana](#g_ilana) komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony [Kajetan](#g_kajetan) obrażony na [Brokilon](#l_brokilon) i na cały świat, odmawia, przez co pada ofiarą ogromnych [skolopendrów](#b_stonoga), które spotkali już kiedyś w [Ellander](#l_ellander) w drodze do świątyni. Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
+    * [Ilana](#g_ilana) komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony [Kajetan](#g_kajetan) obrażony na [Brokilon](#l_brokilon) i na cały świat, odmawia, przez co niemal pada ofiarą ogromnych [skolopendrów](#b_stonoga)(które spotkali już kiedyś w [Ellander](#l_ellander) w drodze do świątyni). Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
 2. [Wioska druidów](#l_wioska)
     * O zmierzchu docieramy do [Wioski](#l_wioska), która jest dziwnie opustoszała. W samej wiosce panuje pogoda późno-letnia lub wczesno-jesienna:
         * drzewa nadal mają liście
@@ -58,17 +58,17 @@
         * przeszukuje zwoje w chatce [Finarrina](#p_druid_finarrin),
         * pomaga druidom w wiosce (tak długo jak nie musi zadawać się ze zwierzętami)
         * wieczorami przepisuje czary do swojej księgi
-        * dowiaduje się że [Finarrin](#p_druid_finarrin) zna [Zielarza z Dillingen](#p_zielarz)
-        * [Mirna](#p_mirna) pomoże mu wyprodukować eliksiry leczące, łagodniejsze niż "Jaskółka" [Vigga](#p_viggo_regner), jeśli poszuka z nią ziół
-    * Kajetan, uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku że [Verenestra](#p_verenestra) jest rzeczywiście gościem i nie zna powszsechnie stosowanych obyczajów. Postaniawia ją przeprosić i z nią porozmawiać:
-            * elfka nie widziała afrontu w fakcie zwrócenia uwagi
-            * wywiązuje się pseudofilozoficzna debata, zdaje się że [Aen Eldrin](#r_aen_eldrin) albo nie odczuwają czasu albo są niesamowicie długowieczni; tak czy inaczej zdaje się że kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
-            * czterej [Aen Eldrin](#r_aen_eldrin) dostali się do [Brokilonu](#l_brokilon) przez portal otwarty przez [Eithne](#p_eithne), która to zapadła w śpiączke próbując powiększyć portal aby umożliwić przejście większej ilości "gości"
-            * [Aen Eldrin](#r_aen_eldrin) społecznie dzielą się na cztery frakcje: Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role" 
-            * [Kajetanowi](#g_kajetan) wydaje się że jest to spowodowane ich długowiecznością i znudzeniem "odgrywania tej samej roli", bycia tą samą osobą
-            * ich byt zdaje się być teatrem który zatracił znaczenie metaforyczne i staje się faktem (czy istnieje jakaś sztuka którą odgrywają? czy ta sztuka "sama się pisze" w miare jak istnieją?)
-            * elfka przychodzi do wioski aby pomagać leczyć ludzi z [Verden](#l_verden) którzy dotarli do [Wioski](#l_wioska) 
-            * [Kajetan](#g_kajetan), zachęcony jej rozmownością i chęcią pomocy, decyduje się zapytać o wyleczenie z jego przypadłości 
-            * [Verenestra](#p_verenestra) stwierdza że to wykracza poza jej możliwości, ale [Auril](#p_auril) (tytułujący się też jako Pan Lodowego Ogrodu), przebywający w [Col Serrai](#l_col_serrai), może być skłonny pomóc w zamian za samo doświadczenie leczenia dolegliwości na którą jeszcze się nie natknął (czyli za bycie królikiem doświadczalnym mówiąc dosadnie) 
-            * Sama prosi o rozwiązanie problemu zarazy w [Verden](#l_verden), jej zdaniem definitywnie nienaturalnego pochodzenia.
+        * dowiaduje się, że [Finarrin](#p_druid_finarrin) zna [Zielarza z Dillingen](#p_zielarz)
+        * [Mirna](#p_mirna) pomoże mu wyprodukować eliksiry leczące, łagodniejsze niż "jaskółka" [Vigga](#p_viggo_regner), jeśli poszuka z nią ziół
+    * Kajetan, uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku, że [Verenestra](#p_verenestra) jest rzeczywiście gościem i nie zna powszechnie stosowanych obyczajów. Postaniawia ją przeprosić i z nią porozmawiać:
+        * elfka nie widziała afrontu w fakcie zwrócenia uwagi
+        * wywiązuje się pseudofilozoficzna debata, zdaje się, że [Aen Eldrin](#r_aen_eldrin) albo nie odczuwają czasu albo są niesamowicie długowieczni; tak czy inaczej zdaje się, że kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
+        * czterej [Aen Eldrin](#r_aen_eldrin) dostali się do [Brokilonu](#l_brokilon) przez portal otwarty przez [Eithne](#p_eithne), która to zapadła w śpiączke próbując powiększyć portal aby umożliwić przejście większej ilości "gości"
+        * [Aen Eldrin](#r_aen_eldrin) społecznie dzielą się na cztery grupy: Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role" 
+        * [Kajetanowi](#g_kajetan) wydaje się, że jest to spowodowane ich długowiecznością i znudzeniem "odgrywania tej samej roli", bycia tą samą osobą
+        * ich byt zdaje się być teatrem, który zatracił znaczenie metaforyczne i staje się faktem (czy istnieje jakaś sztuka, którą odgrywają? czy ta sztuka "sama się pisze" w miarę jak istnieją?)
+        * elfka przychodzi do wioski aby pomagać leczyć ludzi z [Verden](#l_verden), którzy dotarli do [Wioski](#l_wioska) 
+        * [Kajetan](#g_kajetan), zachęcony jej rozmownością i chęcią pomocy, decyduje się zapytać o wyleczenie z jego przypadłości 
+        * [Verenestra](#p_verenestra) stwierdza, że to wykracza poza jej możliwości, ale [Auril](#p_auril) (tytułujący się też jako Pan Lodowego Ogrodu), przebywający w [Col Serrai](#l_col_serrai), może być skłonny pomóc w zamian za samo doświadczenie leczenia dolegliwości, na którą jeszcze się nie natknął (czyli za bycie królikiem doświadczalnym mówiąc dosadnie) 
+        * sama elfka prosi o rozwiązanie problemu zarazy w [Verden](#l_verden), jej zdaniem definitywnie nienaturalnego pochodzenia
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Przyp. tłumacza: z Starszej Mowy <b>Divination</b></i></div>

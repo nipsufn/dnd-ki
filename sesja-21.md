@@ -1,10 +1,10 @@
 ### Sesja 21
 1. Pierwszy dzień po powrocie [Finarrina](#p_druid_finarrin) - po południu
-    * [Tytania](#p_tytania) zauważa gotującego [Kajetana](#g_kajetan). Nie przedstawiając się, władczo i nieuprzejmie żąda aby zaprowadzić ją do grobu niedawno zmarłych Driad.
+    * [Tytania](#p_tytania) zauważa gotującego [Kajetana](#g_kajetan). Nie przedstawiając się, władczo i nieuprzejmie żąda aby zaprowadzić ją do grobu niedawno zmarłych driad.
     * Zanim [Kajetan](#g_kajetan) zdążył sobie napytać biedy równie nieuprzejmą odpowiedzą, pojawia się [Ilana](#g_ilana). 
     * Druidka prowadzi [Aen Eldrin](#r_aen_eldrin) na cmentarz. 
     * [Finarrin](#p_druid_finarrin) zdaje się mieć co najmniej mieszane uczucia w stosunku do nieproszonego gościa, ale podąża za nimi obiema.
-    * Elfka klnie na stan cmentarza druidów, [Finarrin](#p_druid_finarrin) również wydaje się być zaszokowany - okoliczne drzewa zaczynają porastać kolczastymi pnączami, przypominającymi nieco te, które usunęliśmy ze szklarni [Świątyni Melitele](#l_smelitele).
+    * Elfka klnie na stan cmentarza druidów, [Finarrin](#p_druid_finarrin) również wydaje się być zaszokowany - okoliczne drzewa zaczynają obrastać kolczastymi pnączami, przypominającymi nieco te, które usunęliśmy ze szklarni [Świątyni Melitele](#l_smelitele).
     * [Tytania](#p_tytania) przebija grób zdrewniałej driady płomiennym mieczem - rozlega się przeszywający krzyk. 
     * Po chwili krzyk ustaje, a elfka zaczyna wyrywać coś z ziemi. 
     * Okoliczne pnączna zwijają się formując agresywne, humanoidalne postaci, przywodzące na myśl te z [Medownej](#l_medowna). Wywiązuje się walka.
@@ -24,9 +24,9 @@
                 *"Opowieści to rola [Oberona](#p_oberon), ja muszę ścigać Galfiasa."*<br/><br/>
         następnie znika zostawiając wszystkich z setką pytań.
 2. Pierwszy dzień po powrocie [Finarrina](#p_druid_finarrin) - wieczorem
-    * [Finarin](#p_druid_finarrin) też chce zobaczyć co się stało w [Medownej](#l_medowna) ale nie chce zostawiać wioski, zdaje się być rozdarty.
+    * [Finarin](#p_druid_finarrin) też chce zobaczyć co się stało w [Medownej](#l_medowna), ale nie chce zostawiać wioski, zdaje się być rozdarty.
     * Między [Ilaną](#g_ilana) i [Kajetanem](#g_kajetan) dochodzi do burzliwej wymiany zdań.
-        * Elf uważa, że powinniśmy czym prędzej ruszyć na [Skellige](#l_wyspy_skellige) i zostawić problemy obcych elfów za sobą
+        * elf uważa, że powinniśmy czym prędzej ruszyć na [Skellige](#l_wyspy_skellige) i zostawić problemy obcych elfów za sobą
         * [Ilana](#g_ilana) jednak nie zgadza się z tym - nie chce zostawiać [Finarrina](#p_druid_finarrin) samego z problemem portalu i [Aen Eldrin](#r_aen_eldrin), które dotyczą jej jako użytkownika magii w tym samym stopniu, co zresztą [Kajetana](#g_kajetan)
     * Druidka ucina dyskusję wstając od stołu i znika w cieniu lasu. Wspina się na drzewo wciąż podsłuchując o czym toczy się dalsza rozmowa.
     * Pod drzewo przychodzi [Skovik](#p_skovik). 
@@ -45,7 +45,7 @@
     * [Ilana](#g_ilana) nareszcie znajduje sposobność żeby powiedzieć [Finarrinowi](#p_druid_finarrin) o opustoszałej, antymagicznej polanie i zwłokach, na które wczoraj się natknęła. Zabierają ze sobą [Mirnę](#p_mirna) i w trójkę idą to sprawdzić:
         * na polanie stał kiedyś menhir, podobny do tego poświęconego Protektorowi, który mijaliśmy w lesie
         * to miejsce jest raną lasu, a może nawet sięga tkaniny Mocy - wysysa wszelką magię z okolicy
-        * zwłoki na środku to jeden z druidów, [Cedrik](#p_cedrik), mentor [Mirny](#p_mirna). Zamieniał się zwykle w ptaka, musiał przelecieć nad tym obszarem po niefortunnym druidzkim obrzędzie i spadł z dużej wysokości łamiąc sobie kark.
+        * zwłoki na środku to jeden z druidów, [Cedrik](#p_cedrik), mentor [Mirny](#p_mirna); zamieniał się zwykle w ptaka, musiał przelecieć nad tym obszarem po niefortunnym druidzkim obrzędzie i spadł z dużej wysokości łamiąc sobie kark
         * [Ilana](#g_ilana) wpada na pomysł - antymagiczne pole można wykorzystać aby odwrócić czar więżący umysł [Enid](#p_enid) w ciele szopa
         * druidka pyta [Mirnę](#p_mirna) gdzie jest ciało [Enid](#p_enid)
         * [Mirna](#p_mirna) przechowała je w piwnicy, więc wracamy po nie i po szopa, planując zaryzykować eksperyment
