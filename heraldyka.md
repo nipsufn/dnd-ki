@@ -10,3 +10,4 @@
 * Krzyż biały w polu zielonym - [Brugge](#l_brugge)
 * Słońce złote w polu czarnym - [Nilfgaard](#l_nilfgaard)
 * Lew złoty w polu niebieskim - [Cintra](#l_cintra)
+* Szachownica pól złotych i czarnych - [Verden](#l_verden)

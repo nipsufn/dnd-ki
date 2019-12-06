@@ -36,14 +36,14 @@ for filePath in fileList:
       balance[4] += lineText.count(')')
       balance[5] += lineText.count('[')
       balance[6] += lineText.count(']')
-      for match in re.finditer(r"\w(_\w+)+", lineText):
-        if re.search(r"<a id='\w(_\w+)+'></a>", lineText[match.start(0)-7:match.end(0)+6]):
+      for match in re.finditer(r"[a-zA-Z0-9](_[a-zA-Z0-9]+)+", lineText):
+        if re.search(r"<a id='[a-zA-Z0-9](_[a-zA-Z0-9]+)+'></a>", lineText[match.start(0)-7:match.end(0)+6]):
           tags.append([match.group(0), lineNo, match.start(0), filePath])
-        elif re.search(r"<a id=\"\w(_\w+)+\"></a>", lineText[match.start(0)-7:match.end(0)+6]):
+        elif re.search(r"<a id=\"[a-zA-Z0-9](_[a-zA-Z0-9]+)+\"></a>", lineText[match.start(0)-7:match.end(0)+6]):
           tags.append([match.group(0), lineNo, match.start(0), filePath])
-        elif re.search(r"\[[^\[^\]]+?\]\(#\w(_\w+)+\)", lineText[0:match.end(0)+1]):
+        elif re.search(r"\[[^\[^\]]+?\]\(#[a-zA-Z0-9](_[a-zA-Z0-9]+)+\)", lineText[0:match.end(0)+1]):
           refs.append([match.group(0), lineNo, match.start(0), filePath, False])
-        elif re.search(r'<a href="[^"]+?(_\w+)+">.+?</a>', lineText):
+        elif re.search(r'<a href="[^"]+?(_[a-zA-Z0-9]+)+">.+?</a>', lineText):
           continue
         else:
           write("Tag or reference malformed: " + match.group(0)
