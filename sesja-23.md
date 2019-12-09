@@ -3,10 +3,10 @@
     * Docieramy nad rzekę w miejscu, gdzie bród jest dość szeroki i niezbyt głęboki, a nurt nieco spowolniony pływającymi w rzece grudami śniegu.
     * [Kajetan](#g_kajetan) bada, czy da się rzekę przebrodzić bez potrzeby instalowania liny łączącej brzegi i tym podobnych. 
     * Woda jest lodowata, a im bliżej przeciwnego brzegu tym większe wrażenie przedzierania się przez kisiel. Zarówno woda jak i powietrze gęstnieją bliżej przeciwnego brzegu.
-    * [Ilana](#g_ilana) otwiera oczy na magię i zauważa, że nad rzeką wisi gęsta, świecąca na zielonkawo magiczna mgła, która przyprawia ją o krwotok z nosa (podobnie jak w Mariborze).
+    * [Ilana](#g_ilana) otwiera oczy na magię i zauważa, że nad rzeką wisi gęsta, opalizująca na zielonkawo magiczna mgła, która przyprawia ją o krwotok z nosa (podobnie jak w Mariborze).
     * [Kajetan](#g_kajetan) używa magii do przedostania się na drugi brzeg, następnie pomaga [Ilanie](#g_ilana) zamontować linę, żeby i ona mogła się przedostać przez rzekę. 
-    * Przechodząc przez magiczną mgłę elf doznaje dziwnej amnezji - zapomina wydarzenia z ostatnich 2 tygodni. Jest sfrustrowany i nie ma pojęcia, co się dzieje, [Ilana](#g_ilana) podejrzewa go o nowy głupi żart.
-    * Rozbijamy obóz nad brzegiem, nie chcąc dalej maszerować po starciu z magiczną mgłą. [Ilana](#g_ilana) dochodzi do wniosku że nawet jej niezbyt rozgarnięty towarzysz nie ciągnął by mało śmiesznego żartu tak długo - wierzy że po odpoczynku będzie mu w stanie pomóc.
+    * Przechodząc przez magiczną mgłę elf doznaje dziwnej amnezji - zapomina wydarzenia z ostatnich 2 tygodni. Jest sfrustrowany i nie ma pojęcia, co się dzieje. [Ilana](#g_ilana) podejrzewa go o nowy głupi żart.
+    * Rozbijamy obóz nad brzegiem, nie chcąc dalej maszerować po starciu z mgłą. [Ilana](#g_ilana) dochodzi do wniosku, że nawet jej niezbyt rozgarnięty towarzysz nie ciągnął by mało śmiesznego żartu tak długo - wierzy, że po odpoczynku będzie mu w stanie pomóc.
     * Nad ranem [Kajetan](#g_kajetan) czuje się trochę lepiej - wpsomnienia zaczynają powoli wracać, być może ze względu na odporność elfów na uroki(?).
 2. [Medowna](#l_medowna)
     * Zbliżając się do wioski, słyszymy podniesione głosy - kilka swojskich i kilka z wyraźnym nilfgaardzkim akcentem. Głosy należą do wojskowych, którzy panoszą się po wiosce z taczkami i łopatami.
