@@ -1,4 +1,4 @@
-### Sesja 46
+### Sesja 47
 1. Żmijowisko
     - Kiedy tak siedzimy i pijemy, [Ilana](#g_ilana) zauważa, że bandziory z Towarzystwa noszą znak rozpoznawczy - chustę w czarno złotą szachownicę. Niektórzy wiążą ją sobie u szyi i zasłaniają twarz, inny obwiązują nią ramię.
     - W kryjówce nagle pojawia się goniec, zupełnie jakby wyrósł spod ziemi. Jego wieści są nienajlepsze - informuje on [Larsa](#p_lars), że "_chłopaki nie wróciły_", padają w tym kontekście też słowa "_podziemia_" i "_szpital_". Domyślamy się, że musi chodzić o jakiś zwiad, który nie wrócił z przeszpiegów.

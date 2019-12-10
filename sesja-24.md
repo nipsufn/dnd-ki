@@ -22,7 +22,7 @@
         * wspomina, że kiedyś bywał częstym gościem w [Brokilonie](#l_brokilon), także u [druidów](#l_wioska); uważał las za bezpieczne schronienie
         * jedna z driad przytulonych do jego boku ma jego rysy twarzy i urodę (córka?)
         * elf mówi nam o swoim kompanie, który poprzedniego dnia oddalił się z inną driadą i do tej pory nie wrócił
-        * posiada łuk z [Gór Sinych](#l_gory_sine), zwany Zefharem (od runy o identycznym kształcie); konstrukcja i zdobienia świadczą że broń jest równie funcjonalna jak ozdobna, zwykle używana przez elficką elitę
+        * posiada łuk z [Gór Sinych](#l_gory_sine), zwany Zefharem (od runy o identycznym kształcie); konstrukcja i zdobienia świadczą, że broń jest równie funcjonalna jak ozdobna, zwykle używana przez elficką elitę
     * Zarówno driady jak i [Wiewiórka](#p_yaevinn) są nieobecni i dziwnie się zachowują, jak gdyby ktoś wpływał na ich rozumowanie albo wydawał im nieme polecenia.
     * [Kajetan](#g_kajetan) pyta [Yaevinna](#p_yaevinn) czy ten nie ma przypadkiem szklanego koralika. Zdziwiony Scoia'teal obiecuje oddać mu jeden ze swojego naszyjnika - pamiątki z rodzinnych stron - jeśli pomożemy odnaleźć jego kompana. **[Zadanie: Leśne igraszki](#z_q13)**
     * Jedna z driad zdradza, gdzie powinniśmy szukać zaginionej dwójki. Za jej wskazówkami udajemy się z [Yaevinnem](#p_yaevinn) aż do znajomej nam altanki na wzgórzu.
