@@ -25,10 +25,10 @@
         * posiada łuk z [Gór Sinych](#l_gory_sine), zwany Zefharem (od runy o identycznym kształcie); konstrukcja i zdobienia świadczą, że broń jest równie funcjonalna jak ozdobna, zwykle używana przez elficką elitę
     * Zarówno driady jak i [Wiewiórka](#p_yaevinn) są nieobecni i dziwnie się zachowują, jak gdyby ktoś wpływał na ich rozumowanie albo wydawał im nieme polecenia.
     * [Kajetan](#g_kajetan) pyta [Yaevinna](#p_yaevinn) czy ten nie ma przypadkiem szklanego koralika. Zdziwiony Scoia'teal obiecuje oddać mu jeden ze swojego naszyjnika - pamiątki z rodzinnych stron - jeśli pomożemy odnaleźć jego kompana. **[Zadanie: Leśne igraszki](#z_q13)**
-    * Jedna z driad zdradza, gdzie powinniśmy szukać zaginionej dwójki. Za jej wskazówkami udajemy się z [Yaevinnem](#p_yaevinn) aż do znajomej nam altanki na wzgórzu.
+    * Jedna z driad zdradza gdzie powinniśmy szukać zaginionej dwójki. Za jej wskazówkami udajemy się z [Yaevinnem](#p_yaevinn) aż do znajomej nam altanki na wzgórzu.
     * W drodze [Kajetan](#g_kajetan) i [Yaevinn](#p_yaevinn) dyskutują o:
         * [Filavandrelu Aen Fidhail ze Srebrnych Wież](#p_filavandrel), potężnym magu z [Gór Sinych](#l_gory_sine); to on zorganizował wyprawę, w której brał udział [Kajetan](#g_kajetan)
-        * niemożliwości powrotu do miejsca pochodzenia obu postaci
+        * niemożliwości powrotu do miejsca pochodzenia obu elfów
     * Mijamy kilka drzew powalonych prawdopodobnie przez [Morvudda](#b_bizoktor)
     * [Ilana](#g_ilana) znajduje na ziemi ślady stóp wskazujące, że ktoś dotarł do altanki i trochę kręcił się wokół niej, ale to wszystko - nie ma śladów sugerujących dalszą wędrówkę.
     * Świetlik w altanie gęsto pokrywa pajęczyna, która ciągnie się aż do pobliskich drzew.
@@ -51,10 +51,10 @@
     * Profilaktycznie odsuwamy się, kiedy zarówno z wyrwy przy ziemi, jak i z otworu u góry ruiny wypełza chmara pająków.
     * Druidka przypieka małe stawonogi płomieniem. Piskowi ginących pająków wtóruje inny, dużo głośniejszy i bardziej żałosny ryk dochodzący z wnętrza ruiny.
     * Na pomoc ginącym pająkom z otworu u szczytu ruiny wychodzą znacznie większe, zdecydowanie przerośnięte osobniki.
-    * Wywiązuje się walka, w trakcie której [Yaevinn](#p_yaevinn) zostaje przygwożdźony do drzewa pajęczyną, a [Kajetan](#g_kajetan) i [Ilana](#g_ilana) są notorycznie obłażeni przez roje małych pająków.
+    * Wywiązuje się walka, w trakcie której [Yaevinn](#p_yaevinn) zostaje przygwożdżony do drzewa pajęczyną, a [Kajetan](#g_kajetan) i [Ilana](#g_ilana) są notorycznie obłażeni przez roje małych pająków.
     * Wkrótce do walki dołącza coś, co wygląda jak skrzyżowanie człowieka i pająka. Pajęcza królowa rzuca się na [Ilanę](#g_ilana), niemal dusząc ją swoim lasso z pajęczyny.
     * [Yaevinn](#p_yaevinn), wyswobodziwszy się z pajęczyny pakuje pajęczej królowej serię strzał prosto w tors. Mocno raniona bestia wydaje dziki krzyk i próbuje pociągnąć druidkę za sobą do leża.
-    * [Kajetan](#g_kajetan) odcina lasso i cuci Ilanę podając jej Jaskółkę. Następnie przy użyciu magii strąca królową w czeluście ruiny, sypiąc na łeb kamienie. Ta ratuje się ucieczką w głąb leża.
+    * [Kajetan](#g_kajetan) odcina lasso i cuci Ilanę podając jej jaskółkę. Następnie przy użyciu magii strąca królową w czeluście ruiny, sypiąc na łeb kamienie. Ta ratuje się ucieczką w głąb leża.
     * Decydujemy się zbadać ruinę. Przy wejściu jest kilka kokonów - w nich znajdujemy zaginioną dwójkę. [Kajetan](#g_kajetan) podnosi z ziemi łuk należący niegdyś do driady porwanej przez pająki. Poza tym nie zachowało się nic poza gruzami i butwem.
     * Schodzimy głębiej w poszukiwaniu uciekającej pajęczycy. Znajdujemy ją pożywiającą się własnymi jajami. Jaja te są ciasno oplecione przez cierniste pnącza, które jednak zdają się nie robić im krzywdy.
     * [Yaevinn](#p_yaevinn) z rządzą mordu wypisaną w oczach bez słowa rzuca się na pajęczycę i kończy jej żywot kilkoma szybkimi cięciami elfich mieczy.

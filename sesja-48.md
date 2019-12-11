@@ -11,7 +11,7 @@
     - Następnie [Ilana](#g_ilana) wraca do pokoju żeby odbić się od klamki. Zza drzwi słyszy głośny, pijacki śpiew [Kajetana](#g_kajetan) i chlupot wody. Dobijanie się do drzwi skutkuje jedynie kilkoma zaciekawionymi głowami wysuniętymi z sąsiednich pokojów. 
     - Druidka odczekuje chwilę, zmienia się w kącie w mysz i przechodzi pod drzwiami, gdzie wraca do swojej zwyczajnej formy. [Kajetan](#g_kajetan) trochę się boczy, ale dokańcza flaszkę i kąpiel, po czym wychodzi nagi na korytarz. Twierdzi, że słyszał pod drzwiami gęś.
     - [Ilana](#g_ilana) sama sposobi się do kąpieli. W międzyczasie zdaje [Kajetanowi](#g_kajetan) krótką relację z tego, czego się dowiedziała.
-    - Wygoniony z pokoju [Elf], na szczęście już ubrany, schodzi do karczmy. Zamawia u karczmarza kilka rzeczy potrzebnych do rytuału stworzenia przyzwańca i zajmuje miejsce za jedną z licznych kotar. Mag spodziewa się, że chowaniec może przydać się w walce.
+    - Wygoniony z pokoju [Elf](#g_kajetan), na szczęście już ubrany, schodzi do karczmy. Zamawia u karczmarza kilka rzeczy potrzebnych do rytuału stworzenia przyzwańca i zajmuje miejsce za jedną z licznych kotar. Mag spodziewa się, że chowaniec może przydać się w walce.
     - W tym czasie [Ilana](#g_ilana) bierze długą kąpiel i robi wielkie pranie. Przyglądając się krytycznym okiem swoim ubraniom dochodzi do wniosku, że chyba pora postarać się o nowe - na obecnych zaczyna brakować niezacerowanych miejsc.
     - [Ilana](#g_ilana) już śpi kiedy do pokoju wraca [Kajetan](#g_kajetan). Elf przynosi ze sobą swojego nowego podopiecznego - małą sówkę podobną do tych, które widzieli podczas dziwnego załamania czasu w drodze do Brugge. Sam mag także setnie zmęczony kładzie się spać.
 2. Plany i pożegnania

@@ -25,7 +25,7 @@
     - przebywa na Skellige
 * Arcydruid Ivryn<a id='p_arcydruid_ivryn'></a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
-* Alzul<a id='p_alzul'></a>
+* Alzur<a id='p_alzur'></a>
     - mag, "ojciec" Wiedźminów
 * Wędrowna Banda Skovika<a id='p_wedrowna_banda_skovika'></a>
     * Skovik Drummond<a id='p_skovik'></a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
