@@ -40,7 +40,7 @@
         * można spróbować zaprosić Myszowora do fortecy Drummondów
         * do Fornhali można dostać się na dwa sposoby, ale jedynie przez góry - od strony portu Holmstein lub od wsi nieco bardziej na wschodzie
     * Drużyna udaje się na spoczynek.
-    * Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę.
+    * Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę. [Ilana](#g_ilana) na odchodne otrzymuje od [Skovika](#p_skovik) prezent: wystruganą przez niego figurkę wilczycy z młodymi - symbol ochrony, jaką druidka roztacza nad drużyną.
 2. Droga do [Medownej](#l_medowna)
     * Udaje się nam przedostać przez terytorium [Krabopająków](#b_krabopajak) - widocznie się rozszerzyło od pradawnych czasów gdy druidzi wyznaczyli ścieżkę przez las.
     * Ich terytorium jest oznakowane uschniętymi ciernistymi pnączami.

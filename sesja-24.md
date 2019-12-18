@@ -61,23 +61,23 @@
     * Rozglądając się po leżu [Kajetan](#g_kajetan) natyka się na drewnianą skrzynię. W przeciwieństwie do reszty rzeczy, które rozpadają się pod dotknięciem palców, skrzynia jest mocna i solidna.
     * [Ilana](#g_ilana) rozbraja magiczny zamek. Wewnątrz skrzyni znajdujemy 5 identycznych kawałków bezbarwnego szkła. Szkiełka mają kształt lekko wypukłych deltoidów, są rozmiarów dużej monety, a kiedy patrzeć na nie pod światło, zmieniają kolor na zielony.
     * Podkładamy ogień pod resztę jaj czekając, aż leże porządnie zajmie się ogniem. [Yaevinn](#p_yaevinn) zabiera ciała elfa i driady, wracamy razem do altanki.
-    * U stóp wzgórza, na którym stoi altanka, [Kajetan](#g_kajetan) używa koralika podarowanego przez [Yaevinn](#p_yaevinn) aby wyczarować bezpieczne schronienie na noc.
-    * [Ilana](#g_ilana), widząc [Wiewiórkę](#p_yaevinn) kopiącego dwa groby, bez słowa dołącza sie i pomaga mu.
-    * [Yaevinn](#p_yaevinn) przerywa milczenie i wspomina kompana. [Druidka](#g_ilana) ciągnie rozmowę, pytając o jego ostatnią wizytę w wiosce. Okazuje się, że elf miał (nie)przyjemność poznać [Enid](#p_enid), ale nie mówi tego otwarcie.
+    * U stóp wzgórza, na którym stoi altanka, [Kajetan](#g_kajetan) używa koralika podarowanego przez [Yaevinna](#p_yaevinn) aby wyczarować bezpieczne schronienie na noc.
+    * [Ilana](#g_ilana), widząc [Wiewiórkę](#p_yaevinn) kopiącego dwa groby, bez słowa dołącza się i pomaga mu.
+    * [Yaevinn](#p_yaevinn) przerywa milczenie i wspomina kompana. [Druidka](#g_ilana) ciągnie rozmowę pytając o jego ostatnią wizytę w wiosce. Okazuje się, że elf miał (nie)przyjemność poznać [Enid](#p_enid), ale nie mówi tego otwarcie.
     * Udajemy się na spoczynek do magicznego bąbla [Kajetana](#g_kajetan).
 3. Ranek przy altance
     * Budzimy się o świcie, jednak [Yaevinna](#p_yaevinn) z nami nie ma. Zniknęło też 12 racji żywnościowych.
     * Wbity w ziemi tkwi jeden z mieczów elfa, najwyraźniej rekompensata za "pożyczone" jedzenie.
-    * [Ilana](#g_ilana) mówi [Kajetanowi](#g_kajetan), że miała zły sen i powinni czym prędzej zmierzać do wioski. Dodaje też, że nie jest pewna, co zastaną na miejscu, ale ma złe przeczucie.
+    * [Ilana](#g_ilana) mówi [Kajetanowi](#g_kajetan), że miała zły sen i powinni czym prędzej zmierzać do wioski. Dodaje też, że nie jest pewna co dokładnie zastaną na miejscu, ale ma złe przeczucie.
 4. W drodze do Wioski
     * Wracamy znaną nam już trasą. Droga zajmuje nam w sumie dwa dni, podczas których [Ilana](#g_ilana) wysyła kilka wiadomości do domu - do [Skovika](#p_skovik) i [Finarrina](#p_druid_finarrin), każdorazowo prosząc o odpowiedź.
     * Podczas noclegu przy żerowisku [krabopająków](#b_krabopajak), nasz bezpieczny bąbel obchodzi grupa [nekkerów](#b_nekker). Mniejsze osobniki próbują podkopać się do środka, ale szkodniki zostają szybko zneutralizowane przez polujące na swoim terytorium [bestie](#b_krabopajak).
     * [Kajetan](#g_kajetan) chyba po raz pierwszy widzi [krabopająka](#b_krabopajak) z bliska. [Ilana](#g_ilana) posiadała o nich dotąd jako takie pojęcie, ale dopiero teraz widzi, jak działa ich maskujący pancerz, czyniąc je praktycznie niezauważalnymi.
     * O świcie ruszamy dalej co tchu. W drodze [Kajetan](#g_kajetan) prosi [druidkę](#g_ilana), żeby pomogła mu wyklarować wracające wspomnienia.
-    * [Ilana](#g_ilana) zauważa, że ona także o czymś zapomniała - zupełnie nie pamięta próby uratowania [Doreein](#p_doreein). Początkowo zdaje się sądzić że to nie brakujące wspomnienie a kolejny głupi żart [Kajetana](#g_kajetan), jednak szybko okazuje się, że elf mówi prawdę.
+    * [Ilana](#g_ilana) zauważa, że ona także o czymś zapomniała - zupełnie nie pamięta próby uratowania [Doreein](#p_doreein). Początkowo zdaje się sądzić, że to nie brakujące wspomnienie, a kolejny głupi żart [Kajetana](#g_kajetan), jednak szybko okazuje się, że elf mówi prawdę.
     * Do wioski docieramy niemal o zmierzchu. Wita nas nienaturalna cisza, w momencie przerwana dzikim rykiem i dźwiękiem walących się desek.
     * [Ilana](#g_ilana) porywa się biegiem, a [Kajetan](#g_kajetan) rusza zaraz za nią. Naszym oczom ukazuje się widok nie pobojowiska, ale walki:
         * na środku wioski leży ciało młodego druida; drugie zwisa z poroża spętanego cierniami [Morvudda](#b_bizoktor), którym ten przed chwilą wyrżnął w jedną z chat
         * [Finarrin](#p_druid_finarrin), lekko ranny, zagradza sobą drogę do swojej chatki.
         * [Skovik](#p_skovik), poraniony i potłuczony, stoi obok bestii, próbując ściągnąć na siebie uwagę stwora
-        * [Ivar](#p_ivar), z tarczą roztrzaskaną na ręcę flankuje bestię, będąc jednocześnie opatrywanym na prędce przez [Mirnę](#p_mirna)
+        * [Ivar](#p_ivar), z tarczą roztrzaskaną na ręcę flankuje bestię, będąc jednocześnie opatrywanym naprędce przez [Mirnę](#p_mirna)

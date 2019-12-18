@@ -51,7 +51,7 @@
     * Korzystając z ogólnego rozweselenia i podpicia, [Ilana](#g_ilana) zabiera [Skovika](#p_skovik) na sparring by jako niedźwiedź dać mu okazję wybić sobie obiecany niedźwiedzi kieł do jego naszyjnika. Znajdują niewielki plac na tyłach [Różyczki](#l_rozyczka) i tam toczą "walkę".
     * [Kajetan](#g_kajetan) w tym czasie upija do nieprzytomnośći [Leiva](#p_leiv) i kontynuuje opróżnianie drugiej butelki z [Ivarem](p_ivar).
     * Wieczór kończy się odwleczeniem się do pokoju trójki pijących. 
-    * [Skovik](#p_skovik) z [Ilaną](#g_ilana) biorą dla siebie osobny pokój i spędzają razem noc (biorąc sobie do serca skargi mieszczana, którego obudzili sparringiem, przenoszą zapasy w zacisze pokoju i łóżka).
+    * [Skovik](#p_skovik) z [Ilaną](#g_ilana) biorą dla siebie osobny pokój i spędzają razem noc (biorąc sobie do serca skargi mieszczanina, którego obudzili sparringiem, przenoszą zapasy w zacisze pokoju i łóżka).
 6. [Różyczka](#l_rozyczka) nad ranem
     * [Ilana](#g_ilana) korzystając z faktu, że [Skovik](p_skovik) śpi jak ~~zerżnięty~~ zarżnięty, bada drewnianą figurkę niedźwiedzia, której użył poprzedniego wieczora do wzmocnienia się przed walką. 
     * Są na niej runy w języku [Skellige](#l_wyspy_skellige), a sama figurka emanuje magią. Ma też specyficzny, ziołowy zapach, który druidce kojarzy się trochę z krwią.
