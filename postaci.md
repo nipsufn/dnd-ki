@@ -58,10 +58,11 @@
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
     * Eithne<a id='p_eithne'></a> - driada; driada
         Do dwuksiężycowej nocy władała lasem [Brokilon](#l_brokilon) i Driadami; w śpiączce
-    * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub kwateronka); druidka
+    * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub <a title="⁵/₇">kwateronka</a>); druidka
         partnerka [Finarrina](#p_druid_finarrin);
         podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
     * Druid Finarrin<a id='p_druid_finarrin'></a> - ; druid
+        [Hierofanta](https://en.wikipedia.org/wiki/Heffalump) [Brokilońskiego](#l_brokilon) kręgu druidzkiego
         Uczył [Ilanę](#ilana)
     * Gebo<a id="p_gebo"></a> - niedźwiadek;
         uratowany przez [Ilanę](#g_ilana) i [Finarrina](#p_druid_finarrin) w czasie wędrówki do [Craag An](#l_craag_an)
@@ -211,7 +212,7 @@
     * ✝ Król Foltest<a id='p_krol_foltest'></a> - ; król [Temerii](#l_temeria)
     * [Lord Dijsktra](#p_dijsktra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
     * [Maribor](#l_maribor)
-        * _Tymczasowy Burmistrz Nowego [Mariboru](#l_maribor) Komendant_ Kaspar<a id='p_kaspar'></a>
+        * _Tymaczasowy Burmistrz Nowobudowanego [Mariboru](#l_maribor) Z Łaski Regenta [Dijsktry](#p_dijsktra) Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](#p_krol_radowid) Błogisławiony Imć Komendant_ Kaspar<a id='p_kaspar'></a>
         * współpracownik [Larsa](#p_lars)
     * Morgan Guus<a id='p_morgan'></a>
         * karczmarz
