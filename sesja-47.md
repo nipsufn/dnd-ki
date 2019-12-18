@@ -42,7 +42,7 @@
     - Oprychy zaatakowały resztę drużyny - [ten sukinsyn](#p_lars) nie ma na nas już "haka", a jesteśmy mu potrzebni. Rozpoczynamy długie i żmudne negocjacje aby wyjść z patowej sytuacji.
     - W międzyczasie otrzymujemy nasze przedmioty oraz palce złodziei, zdaje się dla demonstracji, iż sprawcy kłopotu zostali ukarani.
     - Dowiadujemy się od [Larsa](#p_lars), że:
-        - [Kaspar](#p_kaspar) pracuje z [tą kanalią](#p_lars) dorywczo, kiedy zgadza się to z szeroko pojętym inetesem sił specjalnych [Redanii](#l_redania); ten kutas, podobnie jak wieprz [Kaspar](#p_kaspar) jest tylko jego marionetką i tańczy tak jak wielki [Dijkstra](#p_dijsktra) mu zagra
+        - [Kaspar](#p_kaspar) pracuje z [tą kanalią](#p_lars) dorywczo, kiedy zgadza się to z szeroko pojętym inetesem sił specjalnych [Redanii](#l_redania); ten kutas, podobnie jak wieprz [Kaspar](#p_kaspar) jest tylko jego marionetką i tańczy tak jak wielki [Dijkstra](#p_dijkstra) mu zagra
         - [ten gagatek](#p_lars) uczył się w [Ban Ard](#l_ban_ard), pochodzi z [Verden](#l_verden)
         - magowie z Verden i Nilfgaardu są również w patowej sytuacji, a my - pionkami które mogą przeważyć szale tego konfliktu na którąś ze stron
         - nie mogliśmy wykryć iluzji [tej mendy](#p_lars), bo chroni go amulet, który tłumi wszelką magiczną aurę właściciela
@@ -54,7 +54,7 @@
         - [Leiv](#p_leiv) odchodzi wolny i bez "ogona", natychmiast; jeśli mimo wszystko będzie chciał zostać, jego sprawa, ale robi to na własne ryzyko i więcej nas nim nie zaszantażują
         - dodatkowo otrzymamy udział w przedmiotach należących do [Vicovaro](#p_florian_z_vicovaro)
         - nie jesteśmy zainteresowani tytułem "nadwornego maga Verden" dla [Kajetana](#g_kajetan) (wątpimy czy [ten szmaciarz](#p_lars) w ogóle ma lub będzie miał możliwość wywiązać się z takiej obietnicy) ani statkiem na własność
-    - Jeśli [Lars](#p_lars) będzie miał okazję, może przekazać szefowi Redańskich sił specjalnych, [Dijsktrze](#p_dijsktra) że jeśli zamierza nas wykorzystywać w swoich rozrywkach, powinien stosować więcej marchwi, a zdecydowanie mniej kija.
+    - Jeśli [Lars](#p_lars) będzie miał okazję, może przekazać szefowi Redańskich sił specjalnych, [Dijkstrze](#p_dijkstra) że jeśli zamierza nas wykorzystywać w swoich rozrywkach, powinien stosować więcej marchwi, a zdecydowanie mniej kija.
     - [ta kanalia](#p_lars) jest zaniepokojona kamieniem, który przywlekliśmy z [Majeny](#l_mayena), bredzi coś o golemach. [Vicovaro](#p_florian_z_vicovaro) miałby użyć menhiru do zamknięcia w nim [ifryta](#b_djinni) pochwyconego podczas wywołanego przez nas pożaru.
     - Prowokujemy [Floriana](#p_florian_z_vicovaro) do opuszczenia szpitala przygotowanego do obrony, kusząc go informacją o pięknie wykonanej broni [tej gnidy](#p_lars) o dwimerytowym ostrzu, które rzekomo ukrywa w spelunie, w której właśnie się znajdujemy (na prawdę nosi je przy sobie). Mag przybędzie tu gdy powiemy mu, że zaczynamy akcję myśląc, że wszyscy wyruszymy do szpitala. W rzeczywistości przygotujemy tu na niego zasadzkę.
     - Tymczasem przenosimy się do innego przybytku. Zostajemy ugoszczeni na noc w pokojach z łóżkiem i balią. Mamy trochę czasu na własne przygotowania.

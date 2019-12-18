@@ -56,7 +56,7 @@
         - wszyscy są cali
         - [Eithne](#p_eithne) żyje i jest przytomna 
         - portal kruka został ustabilizowany 
-        - [Aen Eldrin](#p_aen_eldrin) wrócili już do domu
+        - [Aen Eldrin](#r_aen_eldrin) wrócili już do domu
         - na koniec pada pytanie o [Ilanę](#g_ilana)
     - Natychmiast podejmujemy decyzję: wracamy do Brokilonu. Tylko tam możemy się tymczasowo uchronić przed oboma stronami tego dziwnego konfliktu Verdeńskiego - magiem z [Nilfgaardu](#l_nilfgaard) oraz [Dijkstrą](#p_dijkstra) i jego szpiegami.
     - Pytamy druida gdzie możemy się spotkać, czy mogą wyjść nam na przeciw żeby pomóc dostać się do lasu i czy mamy zabrać ze sobą coś czego potrzebują w Wiosce. Otrzymujemy odpowiedź, że spotkamy się w [Medownej](#l_medowna), a jedyne czego w tej chwili potrzeba to rzeczy na odbudowę Wioski.

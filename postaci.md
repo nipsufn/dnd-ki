@@ -198,7 +198,7 @@
     * ✝ Emhyr<a id='p_emhyr'></a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
 * [Rediania](#l_redania)
     * Król Radowid<a id='p_krol_radowid'></a> - ; król [Redianii](#l_redania)
-    * Dijsktra<a id='p_dijsktra'></a> - ; szef redańskiego wywiadu, obecnie hrabia [Redianii](#l_redania) na [Temerię](#l_temeria)
+    * Dijkstra<a id='p_dijkstra'></a> - ; szef redańskiego wywiadu, obecnie hrabia [Redianii](#l_redania) na [Temerię](#l_temeria)
         przez jakiś czas rządził [Novigradem](#l_novigrad)
         rządzi w [Wyzimie](#l_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#l_temeria)
         zakładał obozy pracy dla Scoia'tael
@@ -210,9 +210,9 @@
     * Matka Iola<a id='p_matka_iola'></a> - ; kapłanka;
 * [Temeria](#l_temeria)
     * ✝ Król Foltest<a id='p_krol_foltest'></a> - ; król [Temerii](#l_temeria)
-    * [Lord Dijsktra](#p_dijsktra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
+    * [Lord Dijkstra](#p_dijkstra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
     * [Maribor](#l_maribor)
-        * _Tymaczasowy Burmistrz Nowobudowanego [Mariboru](#l_maribor) Z Łaski Regenta [Dijsktry](#p_dijsktra) Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](#p_krol_radowid) Błogisławiony Imć Komendant_ Kaspar<a id='p_kaspar'></a>
+        * _Tymaczasowy Burmistrz Nowobudowanego [Mariboru](#l_maribor) Z Łaski Regenta [Dijkstry](#p_dijkstra) Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](#p_krol_radowid) Błogisławiony Imć Komendant_ Kaspar<a id='p_kaspar'></a>
         * współpracownik [Larsa](#p_lars)
     * Morgan Guus<a id='p_morgan'></a>
         * karczmarz

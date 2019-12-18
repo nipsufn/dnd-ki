@@ -14,7 +14,7 @@
 2. [Fiolka Zdrowia](#l_fiolka_zdrowia)
     * Idziemy ze szczurem do [Vigga](#p_viggo_regner)
     * Widzimy [Ignę](#p_igna) wychodzącą z jakimiś papierami.
-    * Dowiadujemy się o [Dijkstrze](#p_dijsktra).
+    * Dowiadujemy się o [Dijkstrze](#p_dijkstra).
     * [Novigrad](#l_novigrad) został puszczony prawie cały z dymem przez magów miesiąc - dwa przed Dwójksiężycową Nocą; w pożarze umarł przywódca Łowców, [Menge](#p_menge).
     * [Menge](#p_menge) odesłał [Lorda Myrtona](#p_lord_myrton), swoją prawą rękę, z bliżej niewyjaśniych powodów (ambicja?) do [Ellander](#l_ellander) jakiś czas temu.
     * Typowe trasy do portów z których można dopłynąć na Skellige (**[Gdzie jest Myszowór?](#z_q10)**):
