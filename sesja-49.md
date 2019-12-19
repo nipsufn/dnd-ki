@@ -1,7 +1,7 @@
 ### Sesja 49
 1. Pościg za czarodziejem
     - [Larsowi](#p_lars) udało się zabrać czarodziejowi rzecz kiedy ten się teleportował - idealnie przepołowiony sygnet. Mężczyzna twierdzi, że dzięki pierścieniowi możemy spróbować odnaleźć [Vicovaro](#p_florian_z_vicovaro), bo to dzięki niemu właśnie mógł się teleportować.
-    - [Kajetan] przygląda się sygnetowi i dedukuje, że napis wygrawerowany na pierścieniu (aktualnie przepołowiony) głosił "__Lock Grim__". Jest to nazwa miasta w [Nilfgaardzie](#l_nilfgaard).
+    - [Kajetan] przygląda się sygnetowi i dedukuje, że napis wygrawerowany na pierścieniu (aktualnie przepołowiony) głosił "__Loc Grim__". Jest to nazwa miasta w [Nilfgaardzie](#l_nilfgaard).
     - Debatujemy chwilę i ostatecznie podejmujemy decyzję - idziemy przeszukać szpital. Nawet jeżeli nie zastaniemy tam samego maga to możemy znaleźć coś wartego uwagi.
     - Podróż kanałami mija bez niespodzianek. Zostawiamy ludzi [Larsa](#p_lars) przed zapułapkowanym korytarzem, a sami w trójkę powoli przechodzimy do kostnicy.
     - W kostnicy zauważamy, że z 4 szuflad zniknęły zamykające je kłódki. W celach też jakby zrobiło się ciszej. [Ilana](#g_ilana) podnosi z ziemi kawałek kości i rzuca w jedną z szuflad. Nie wywołuje to niestety żadnej znaczącej reakcji.

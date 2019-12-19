@@ -1,11 +1,11 @@
 ### Sesja 29
-1. Trzeci dzień wędrówki do [Craag An](#l_craag_an) - popołudnie
+1. Czwarty dzień wędrówki do [Craag An](#l_craag_an) - popołudnie
     * Spomiędzy bujnych, falujących na wietrze, fioletowych traw wystają fragmenty ruin, przywodząc na myśl skaliste wybrzeże morza.
     * W oddali, na horyzoncie, widać _ogromne_ drzewo.
     * Podłoże jest bagniste, pierwsze wrażenie bajkowej polany w sanktuarium driad szybko zastępuje grząska rzeczywistość.
     * Ognik, wygrany przez [Ilanę](#g_ilana), prowadzi nas prosto na północ. Podążamy za nim starając się jednocześnie stąpać po suchym gruncie, z dala od trzęsawisk, co zmusza nas do maszerowania dwójkami.
     * [Kajetan](#g_kajetan) przystaje na chwilkę aby przyjrzeć się resztkom budowli rozrzuconych po bagnisku - są wykonane z tego samego materiału, z którego zbudowana była powalona wieża. Poza oryginalnym powodem ich rozrzucenia, wydają się być nienaruszone upływem czasu.
-    * Towarzyszący [Kajetanowi](#g_kajetan) [Ivar](#p_ivar) wpatruje się nieobecnym wzrokiem w jakiś punkt w oddali i nagle decyduje się wejść do jednego ze stawików przetykających mokradło. Nie reaguje na zakrzyknięcie ani położoną na ramieniu rękę elfa. 
+    * Towarzyszący [Kajetanowi](#g_kajetan) [Ivar](#p_ivar) wpatruje się nieobecnym wzrokiem w jakiś punkt w oddali i nagle decyduje się wejść do jednego ze stawików przetykających mokradła. Nie reaguje na zakrzyknięcie ani położoną na ramieniu rękę elfa. 
     * [Kajetan](#g_kajetan) dostrzega w wodzie zwłoki należące do obcego, zezwierzęconego elfa. Ciało jest trupio blade, ale razem z odzieniem zdaje się być nieuszkodzone.
     * Niespodziewanie trup otwiera oczy, a niewzruszony próbami zatrzymania [wojak](#p_ivar) dosłownie nurkuje w mętną, brudną wodę. Dopiero przeciwzaklęcie rzucone przez [Ilanę](#g_ilana) wyrywa go z transu.
     * Czar przerywa coś, bo nagle widziane przez [elfa](#g_kajetan) ciało okazuje się być tylko szkieletem powleczonym resztkami ubioru.
@@ -15,11 +15,11 @@
     * Widzimy teraz dokładnie co znajduje się pod wodą. Wygląda to jak cmentarzysko - wszędzie jest pełno kościotrupów w resztkach zbroi i szmat.
     * Żaden z fragmentów ruin nie leży płasko na ziemi - z musu [Kajetan](#g_kajetan) stawia magiczny bąbel na najmniej błotnistym kawałku ziemi jaki udaje nam się znaleźć przed wyczerpaniem się czaru.
 2. Nocna warta
-    * W czasie swojej warty, [elf] widzi we mgle walczące zjawy otaczające bezpieczne schronienie ze wszystkich stron:
+    * W czasie swojej warty, [elf](#g_kajetan) widzi we mgle walczące zjawy otaczające bezpieczne schronienie ze wszystkich stron:
         * całe bagnisko zdaje się być pradawnym polem walki
         * obie strony mają zwierzęce przymioty, podobnie jak zwłoki, które napotkaliśmy uprzednio
         * jedna ze stron wygląda na regularną armię, w jednolitych zbrojach z symbolem uskrzydlonej wieży zamkniętej w pierścieniu, ich skrzyżowanie ze zwierzętami jest mniej zaznaczone
-        * druga strona wygląda na partyzantkę, wyraźnie mocniej związaną ze swoją zwierzęcą naturą. Po ich stronie walczy więcej użytkowników Mocy, magów; noszą kaptury, podobne do tego który miał na sobie w naszej wizji [Galawain](#p_galawain)
+        * druga strona wygląda na partyzantkę, wyraźnie mocniej związaną ze swoją zwierzęcą naturą. Po ich stronie walczy więcej użytkowników Mocy, magów; noszą kaptury, podobne do tego, który miał na sobie w naszej wizji [Galawain](#p_galawain)
         * niektóre z walczących postaci są tak wielkie jak szkielety które spotkaliśmy pod [Ellander](#l_ellander), o rogach podobnych do [Morvudda](#b_bizoktor)
     * Przez ziemię w magicznym bąbelku zaczyna przesączać się powoli mgła.
     * Otaczający bitewny rozgardiasz wprowadza wartującego [maga](#g_kajetan) w trans. Słyszy kobiecy głos, ten sam, który stwierdził stanowczo _"dość"_ w niedawnej [wizjii](#sesja-23) w [Medownej](#l_medowna):

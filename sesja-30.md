@@ -18,7 +18,7 @@
     * Kula ma w sobie prawdopodobnie nieaktywne zaklęcie. Sam kamień nie wydaje żadnej magicznej aury.
     * [Kajetan](#g_kajetan) z użyciem magii aktywuje uśpione zaklęcie i dzięki temu przez chwilę ogląda okolicę z lotu ptaka:
         * w oddali widać kawał lasu z wystającymi gdzieniegdzie resztkami budynków, otoczony pasem jałowej ziemi na której stoją obeliski, z daleka przypominające te, które już mijaliśmy
-        * za murem drzew nadal faluje morze fioletowych traw, dalej olbrzymie drzewo
+        * za murem drzew nadal faluje morze fioletowych traw, dalej stoi olbrzymie drzewo
         * przed końcem wizji coś dużego miga na horyzoncie
     * Elf dzieli się tym, co zobaczył. Wspólnie podejmujemy decyzję aby kierować się prosto na niedalekie już ruiny.
     * Zbieramy się do daleszej drogi. [Ilana](#g_ilana) idzie przodem chcąc zapolować na to, co wczoraj dojadło po nas resztki zwierzyny.
@@ -28,17 +28,17 @@
     * Po kolejnym dniu w drodze zatrzymujemy się na obóz pod lasem. Oprawiamy dzika na kolację, uważając przy tym na ewentualne larwy skolopendrów.
     * [Ilana](#g_ilana) podrzuca pomysł nazwania niedźwiadka. Staje na "[Gebo](#p_gebo)" (od runy w języku Skellige - prezent), co początkowo trochę dziwi [Skovika](#p_skovik), ale druidka nie wdaje się w szczegółowe powody swojego wyboru.
     * [Ilana](#g_ilana) zostawia rozbrykanego [Gebo](#p_gebo) pod opieką gryzionego [Kajetana](#g_kajetan) i prosi [Skovika](#p_skovik) o krótki spacer. Korzystają z chwili prywatności, kiedy druidka dostrzega w lesie porozrzucane kości. 
-    * Główne źródło kości znajduje się kawałek dalej - w mroku [Ilanie](#g_ilana) wydaje się, że jest to kolejny miniaturowy totem zrobiony przez nekkery, ale nie inwestyguje. Zamiast tego para wraca do obozu.
+    * Główne źródło kości znajduje się kawałek dalej - w mroku [Ilanie](#g_ilana) wydaje się, że jest to kolejny miniaturowy totem zrobiony przez nekkery, ale nie inwestyguje. Zamiast tego dwójka wraca do obozu.
     * [Kajetan](#g_kajetan) przezornie tworzy bąbel na kilku złączonych kłodach na wypadek, gdyby w okolicy pałętały się te obmierzłe, [kretowate stwory](#b_nekker).
     * Noc mija bez dodatkowych atrakcji, żadna z wart nie zauważa podejrzanego ruchu w krzakach.
 3. Dzień drogi od [Craag An](#l_craag_an)
     * Nad ranem, spakowawszy manatki przyglądamy się kościanemu totemowi z bliska. Twór wydaje się emanować aurą dywinacji trochę silniejszą od poprzedniego egzemplarza napotkanego przez nas na drodze.
     * [Ilana](#g_ilana) rozprasza magię zamkniętą w rzeźbie, na skutek czego drużyna musi w popłochu brać nogi za pas, ścigana przez nekkery i coś jeszcze - coś bardzo dużego, co przedziera się do nas przez drzewa powalając je po drodze.
-    * Biegniemu co tchu na oślep w kierunku, w którym poprzedniego dnia [Kajetan](#g_kajetan) widział kawał lasu otoczony pierścieniem obelisków mając szczerą nadzieję, że to właśnie [Craag An](#l_craag_an).
+    * Biegniemy co tchu na oślep w kierunku, w którym poprzedniego dnia [Kajetan](#g_kajetan) widział kawał lasu otoczony pierścieniem obelisków mając szczerą nadzieję, że to właśnie [Craag An](#l_craag_an).
     * Zwodzone co jakiś czas magią, po piętach depczą nam nekkery. Udaje nam się dobiec do gołego pasa ziemi okalającego ruiny nim małe bestie uzyskują przewagę. Mamy za plecami magiczną barierę, zupełnie jak bombel [Kajetana](#g_kajetan), a przed sobą narastającą falę nekkerów.
     * [Kajetan](#g_kajetan), nie tracąc czasu poddaje się impulsowi i wkłada w barierę dłoń ze znalezionym czubkiem obelisku.
-    * Przechodzimy jeden za drugim przez barierę - potwory nie przerywają pościg i rozwścieczone czekają na krawędzi lasu.
+    * Przechodzimy jeden za drugim przez barierę - potwory przerywają pościg i rozwścieczone czekają na krawędzi lasu.
     * [Ilana](#g_ilana) na odchodnym oddaje strzał z łuku do tego, co goniło nas waląc drzewa - olbrzymiego [Morvudda](#b_bizoktor), powodowanego przez siedzącego na jego grzbiecie sługę [Królowej Cierni](#p_krolowa_cierni). Druidka recytuje przy tym słowa wyryte na broni. Będąc już niemal za barierą słyszy przeszywający ryk trafionego stwora.
     * Obszar wewnątrz obelisków przypomina Ogromną Kopułę Leomunda, wywiniętą na lewą stronę. [Kajetan](#g_kajetan), zapominając o niebezpieczeństwie czyhającym po drugiej stronie, opiera rękę o powierzchnię magicznej pół-sfery - zaczyna się zastanawiać czy nie zostaliśmy uwięzieni
-    * Elf próbuje przełożyć na drugą stronę rękę w której trzyma, niczym klucz, iglicę totemu. Bariera nie stawia oporu, a mag prawie traci iglicę razem z ręką, brutalnie wyrwany z rozważań o potędze zaklęcia ochronnego z którym eksperymentuje.
+    * Elf próbuje przełożyć na drugą stronę rękę w której trzyma, niczym klucz, iglicę totemu. Bariera nie stawia oporu, a mag prawie traci iglicę razem z ręką, brutalnie wyrwany z rozważań o potędze zaklęcia ochronnego, z którym eksperymentuje.
     * Wciągnięty do wnętrza kręgu razem z ręką [Kajetana](#g_kajetan) [nekker](#b_nekker) natychmiast zamienia się w proch, rozwiany na lekkim wietrze.

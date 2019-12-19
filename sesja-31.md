@@ -1,10 +1,10 @@
 ### Sesja 31
 1. [Craag An](#l_craag_an)
     * We wnętrzu Ogromnej, Wywiniętej Kopuły Leomunda panuje prawie absolutna ciemność. Powietrze jest tutaj zastałe, nie ma żadnego wiatru ani zmian w temperaturze.
-    * Stojące niczym w parku zczerniałe, bezlistne drzewa opadają w bezwietrznej atmosferze jako popiół pod wpływem delikatnego dotyku. Na fragmentach ziemi nie poktytych sadzą i kamieniach rośnie nieco ciemnodlubnych grzybów i porostów.
+    * Stojące niczym w parku zczerniałe, bezlistne drzewa opadają w bezwietrznej atmosferze jako popiół pod wpływem delikatnego dotyku. Na fragmentach ziemi nie poktytych sadzą i kamieniach rośnie nieco cieniolubnych grzybów i porostów.
     * Podążamy wgłąb, wzdłuż szpaleru dawno martwych drzew, mijając czasem jakieś zabudowania. Cokolwiek stało się z drzewami, nie zdaje się wpływać na nieorganiczne materiały.
-    * Odwiedzamy jeden ze stojących nieco na uboczu budynków z częściowo zapadniętym dachem. Udaje nam się odkopać częściowo zasypane drzwi i wyciągnąć je. Wewnątrz widzimy zasłonięte od elementów zapadniętym dachem zmumifikowane zwłoki elfa. Decydujemy się go zostawić w spokoju, widząc jakiś wydrapany napis w ścianie.
-    * Podążamy dalej główną ścieżką wśród drzew. Kawałek dalej znajdujemy ścięty obelisk na kształt tablicy pamiątkowej, przy którym leży nieco większa kupa sadzy oraz nieco pleśni - zdaje się zwłoki. Sama tablica przedstawia mapę [Craag An](#l_craag_an), składającego się z 7 koncentrycznych kręgów.
+    * Odwiedzamy jeden ze stojących nieco na uboczu budynków z częściowo zapadniętym dachem. Udaje nam się odkopać częściowo zasypane drzwi i wyciągnąć je. Wewnątrz widzimy zasłonięte od reszty zapadniętym dachem zmumifikowane zwłoki elfa. Decydujemy się zostawić go w spokoju, widząc jakiś wydrapany napis w ścianie.
+    * Podążamy dalej główną ścieżką wśród drzew. Nieopodal znajdujemy ścięty obelisk na kształt tablicy pamiątkowej, przy którym leży trochę większa kupa sadzy oraz nieco pleśni - zdaje się zwłoki. Sama tablica przedstawia mapę [Craag An](#l_craag_an), składającego się z 7 koncentrycznych kręgów.
     * Z mapy dowiadujemy się, że przybyliśmy z dzielnicy farmerskiej. Na mapie znajdują się różne oznaczenia symboliczne, w tym jedno, które natychmiast przyciąga uwagę [Ilany](#g_ilana) - rogaty hełm. [Kajetan](#g_kajetan) objaśnia, że symbol ten oznacza najprawdopodobniej zbrojownię.
     * Zmierzając dalej w stronę centrum miasta zabudowa powoli staje się nieco gęstrza. Na niektórych murach dostrzegamy wysmarowane napisy w Starszej Mowie, _"Precz z królem"_. Na innych widać blade cienie sylwetek.
     * Przez magiczne szkiełka dostrzegamy ciężką, niemal nekrotyczną aurę emanującą martwym zimnem. Zjawisko zdaje się mieć epicentrum w samym sercu miasta.
