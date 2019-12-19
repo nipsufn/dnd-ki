@@ -1,8 +1,13 @@
 ### Sesja 49
 1. Pościg za czarodziejem
     - [Larsowi](#p_lars) udało się zabrać czarodziejowi rzecz kiedy ten się teleportował - idealnie przepołowiony sygnet. Mężczyzna twierdzi, że dzięki pierścieniowi możemy spróbować odnaleźć [Vicovaro](#p_florian_z_vicovaro), bo to dzięki niemu właśnie mógł się teleportować.
+<<<<<<< HEAD
     - [Kajetan] przygląda się sygnetowi i dedukuje, że napis wygrawerowany na pierścieniu (aktualnie przepołowiony) głosił "__Loc Grim__". Jest to nazwa miasta w [Nilfgaardzie](#l_nilfgaard).
     - Debatujemy chwilę i ostatecznie podejmujemy decyzję - idziemy przeszukać szpital. Nawet jeżeli nie zastaniemy tam samego maga to możemy znaleźć coś wartego uwagi.
+=======
+    - [Kajetan](#g_kajetan) przygląda się sygnetowi i dedukuje, że napis wygrawerowany na pierścieniu (aktualnie przepołowiony) głosił "__[Loc Grim](#l_loc_grim)__". Jest to nazwa miasta w [Nilfgaardzie](#l_nilfgaard).
+    - Ku niepomiernej irytacji [maga](#g_kajetan) debatujemy chwilę, ostatecznie podejmujemy decyzję - idziemy przeszukać szpital. Nawet jeżeli nie zastaniemy tam samego maga to możemy znaleźć coś wartego uwagi.
+>>>>>>> 7afa665c0333f1296619e3cf9c53b9856171bf92
     - Podróż kanałami mija bez niespodzianek. Zostawiamy ludzi [Larsa](#p_lars) przed zapułapkowanym korytarzem, a sami w trójkę powoli przechodzimy do kostnicy.
     - W kostnicy zauważamy, że z 4 szuflad zniknęły zamykające je kłódki. W celach też jakby zrobiło się ciszej. [Ilana](#g_ilana) podnosi z ziemi kawałek kości i rzuca w jedną z szuflad. Nie wywołuje to niestety żadnej znaczącej reakcji.
     - [Kajetan](#g_kajetan) wysyła na zwiad swoją sowę. Ptak leci sprawdzić cele i donosi, że tylko w 2 z nich znajdują się więźniowie. Same cele także zdają się być lekko uchylone. 
@@ -21,18 +26,18 @@
         - informuje nas, że nie było porannego obchodu pielęgniarek (nikt tu nie zaglądał? czy nikt nie pracuje w szpitalu w dniu ataku?)
     - Mijamy izolatki i stajemy przed solidnymi, drewnianymi drzwiami. [Lars](#p_lars) rozpracowuje zamek i zaglądamy do środka. Za drzwiami znajduje się duży pokój w artystycznym nieładzie.
 3. Pracownia maga
-    - Pomieszczenie wygląda jak połączenie pracowni, sypialni i biblioteki w jednym. Są tu regały z księgozbiorem, dwa biurka, a pod ścianami stoją 4 zbroje - widać, raczej w formie ozdoby, bo są to modele, które wyszły już z użytku. Na środku pomieszczenia na stole stoi znajomy menhir, jedynie lekko ociosany. W kamieniu tkwi rubin.
+    - Pomieszczenie wygląda jak połączenie pracowni, sypialni i biblioteki w jednym. Są tu regały z księgozbiorem, dwa biurka, a pod ścianami stoją 4 zbroje - widać, raczej w formie ozdoby, bo są to modele, które wyszły już z użytku. Na środku pomieszczenia na stole stoi znajomy fragment menhiru, ociosany na kształt dwunastościanu. W kamieniu tkwi rubin.
     - [Kajetan](#g_kajetan) wysyła sowę na zwiad po pokoju, co aktywuje pułapkę, gdy sowa przelatuje przed rubinem.
-    - Obserwujemy jak do kamienia, niczym do silnego magnesu, zostają przyciągnięte metalowe zbroje stojące pod ścianą. Kamień jest tak gorący, że metal topi się i magicznie formuje w kończyny i głowę golema. Głowa ma 4 twarze, jakby miała patrzeć w 4 strony świata naraz.
+    - Obserwujemy jak do kamienia, niczym do silnego magnesu, zostają przyciągnięte metalowe zbroje stojące pod ścianą. Kamień jest tak gorący, że metal nadtapia się się i magicznie formuje w kończyny i głowę golema. Głowa ma 4 twarze, jakby miała patrzeć w 4 strony świata naraz.
     - Sam gabinet jest ekranowany, podobnie jak kryjówka [Larsa](#p_lars). Po wejściu do środka da się jednak dostrzec emanującą zewsząd magię.
-    - Golem rzuca się w naszą stronę. Zamknięte drzwi nie są dla niego przeszkodą - spopiela je w mgnieniu oka.[Kajetanowi](#g_kajetan) udaje się jednak go chwilowo dezaktywować.
-    - W panice wpadamy do pokoju. [Ilana](#g_ilana) zastawia regałem wnękę po drzwiach i naprędce przetrząsamy pracownię. Znajdujemy kilka ciekawych rzeczy:
+    - Golem rzuca się w naszą stronę. Zamknięte drzwi nie są dla niego przeszkodą - spopiela je w mgnieniu oka. [Kajetanowi](#g_kajetan) udaje się jednak go chwilowo dezaktywować.
+    - W panice wpadamy do pokoju. [Ilana](#g_ilana) zastawia regałem wnękę po drzwiach i naprędce przetrząsamy pracownię. Zamiast pomóc permanentnie unieruchomić strażnika, [ten debil](#p_lars) i [druidka](#g_ilana) przeszukują pokój:
         - notatki na temat dziwnych zjawisk ciągnących się od [Medownej](#l_medowna) aż po [Mayenę](#l_mayena)
         - informacje o epidemii panującej w [Verden](#l_verden)
         - dwa magiczne przedmioty w szufladach biurka
     - W międzyczasie golem wraca do życia. W pośpiechu [Ilana](#g_ilana) łapie dokumenty z biurka maga i chowa je do torby razem z zawartością magicznej szuflady. Uciekamy w głąb szpitala.
     - W korytarzu zauważamy, że golem został zaprogramowany tak aby nie mógł przejść dalej do szpitala. Trochę uspokojeni obmyślamy jak wydostać się ze szpitala.
-    - [Ilana](#g_ilana) wpada na pomysł żeby poszukać dyżurki lub innego pokoju lekarskiego, gdzie można znaleźć jakieś szpitalne ubrania. Udaje nam się niezauważenie zwinąć dwa komplety ubrań: jeden lekarski i jeden mundur straży, która pilnuje w szpitalu porządku. [Lars](#p_lars) i [Kajetan](#g_kajetan) przebierają się, a druidka, zmieniona w maleńką mysz, chowa się w kieszeni.
+    - [Ilana](#g_ilana) wpada na pomysł żeby poszukać dyżurki lub innego pokoju lekarskiego, gdzie można znaleźć jakieś szpitalne ubrania. Udaje nam się niezauważenie zwinąć dwa komplety ubrań: jeden lekarski i jeden mundur straży, która pilnuje w szpitalu porządku. [Lars](#p_lars) i [Kajetan](#g_kajetan) przebierają się, a druidka, zmieniona w maleńką mysz, chowa się w kieszeni elfa.
     - Niemal przed samymi drzwiami zostajemy zaczepieni przez pielęgniarkę. Kobieta widząc elfa w lekarskim fartuchu nalega aby ten udał się z nią czym prędzej pomóc pilnemu przypadkowi. [Kajetan](#g_kajetan) jednak wysoce udolnie wykręca się 16-godzinną zmianą, którą właśnie kończy i odsyła kobietę do losowego pokoju w szpitalu.
     - W końcu udaje nam się bez wzbudzania dalszych podejżeń opuścić szpital. Na ulicy pozbywamy się przebrania i wracamy do jednej z nor [Larsa](#p_lars).
 4. Bilans strat
@@ -46,20 +51,20 @@
         - choroba, którą [Florian](#p_florian_z_vicovaro) zaszczepił w Verden miała być szczególnie agresywna w rozwoju u elfów 
         - niestety mag stracił nad nią kontrolę, a [Lars](#p_lars) podobno ukradł mu narzędzia, którymi chciał odkręcić sytuację
     - [Lars](#p_lars) wydaje się być szczególnie zainteresowany notatkami dotyczącymi zarazy w [Verden](#l_verden). Pożycza lupę żeby przeczytać co takiego czarodziej zanotował na sprawozdaniu.
-    - [Kajetan](#g_kajetan) kończy wieczór i idzie do pokoju. [Ilana](#g_ilana) dyskutuje jeszcze chwilę na temat niespłenionych obietnic. Poirytowana mówi bez ogródek[Larsowi](#p_lars), że jest beznadziejnym nieudacznikiem, po czym sama udaje się na spoczynek.
-5. Poranek ~~po burzy~~ przed burzą
+    - [Kajetan](#g_kajetan) kończy wieczór i idzie do pokoju. [Ilana](#g_ilana) dyskutuje jeszcze chwilę na temat niespłenionych obietnic. Poirytowana mówi bez ogródek [Larsowi](#p_lars), że jest beznadziejnym nieudacznikiem, po czym sama udaje się na spoczynek.
+5. Poranek ~~po~~ przed burzą
     - [Ilana](#g_ilana) prosi elfa żeby ten wysłał wiadomość do [Finarrina](#p_druid_finarrin). Chce mu przekazać, że skończyliśmy swoją sprawę w [Brugge](#l_brugge) i wracamy do reszty drużyny. [Kajetan](#g_kajetan) wysyła wiadomość, ale odpowiada mu cisza wypełniona dziwnym sprzężeniem zwrotnym. Druidka domyśla się, że ich towarzysze muszą już być w [Brokilonie](#l_brokilon) - okalająca las magiczna bariera zakłóciła przekaz.
-    - Zaczynamy pakować manatki kiedy norą niziołków buja potężny wstrząs. [Kajetan](#g_kajetan) zastanawia się co może być przyczyną, czy w mieście są jakieś kopalnie, ale nic z tych rzeczy. 
+    - Zaczynamy pakować manatki kiedy norą niziołków buja potężny wstrząs. [Kajetan](#g_kajetan) zastanawia się co może być przyczyną, czy w mieście są jakieś kopalnie (myśląc o tąpnięciach), ale nic z tych rzeczy. 
     - Biegniemy na górę sprawdzić co się stało. Początkowo nachodzą nas czarne myśli: być może to [Florian](#p_florian_z_vicovaro), który - uprzednio zebrawszy siły - teraz zrzuca na nas gromy z jasnego nieba chcąc się zemścić za zdradę.
-    - Wychodzimy aż do kantoru i przez wybite okno szybko zauważamy, że gromy toczące się po niebie mają epicentrum w [Brokilonie](#l_brokilon). W pewnym momencie nadchodzi potężna fala uderzeniowa, która wywala resztki okien z okiennic, a po niej następuje cisza przerywana jedynie jękami rannych gapiów. Niebo jest czyste i bezchmurne, jakby cała zawierucha się uspokoiła.
+    - Wychodzimy aż do kantoru i przez wybite okno szybko zauważamy, że gromy toczące się po niebie mają epicentrum w [Brokilonie](#l_brokilon). W pewnym momencie nadchodzi potężna fala uderzeniowa, która wywala resztki okien z framug, a po niej następuje cisza przerywana jedynie jękami rannych gapiów. Niebo jest czyste i bezchmurne, jakby cała zawierucha się uspokoiła. Robi się niemalże wiosennie.
     - [Ilana](#g_ilana) ma przeczucie, że może to mieć związek z [Eithne](#p_eithne) i portalem. Prosi [Kajetana](#g_kajetan) żeby ten jeszcze raz spróbował skontaktować się z [Finarrinem](#p_druid_finarrin). Mag jednak zamiast do druida, wysyła wiadomość do [Skovika](#p_skovik). Odpowiedź przychodzi niemal natychmiast i, jak się można było spodziewać, nie do końca przemyślana: 
         - wszyscy są cali
         - [Eithne](#p_eithne) żyje i jest przytomna 
         - portal kruka został ustabilizowany 
         - [Aen Eldrin](#r_aen_eldrin) wrócili już do domu
         - na koniec pada pytanie o [Ilanę](#g_ilana)
-    - Natychmiast podejmujemy decyzję: wracamy do Brokilonu. Tylko tam możemy się tymczasowo uchronić przed oboma stronami tego dziwnego konfliktu Verdeńskiego - magiem z [Nilfgaardu](#l_nilfgaard) oraz [Dijkstrą](#p_dijkstra) i jego szpiegami.
-    - Pytamy druida gdzie możemy się spotkać, czy mogą wyjść nam na przeciw żeby pomóc dostać się do lasu i czy mamy zabrać ze sobą coś czego potrzebują w Wiosce. Otrzymujemy odpowiedź, że spotkamy się w [Medownej](#l_medowna), a jedyne czego w tej chwili potrzeba to rzeczy na odbudowę Wioski.
-    - Niziołki zaczęły już sprzątać rozbite butelki i kufle w karczmie. Prosimy je żeby posłały wiadomość do [Larsa](#p_lars), chcemy się z nim rozmówić przed wyruszeniem w drogę. W odpowiedzi zostajemy zrugani - karły mają ważniejsze rzeczy na głowie niż jakaś tam nasza wiadomość, a po za tym [Lars](#p_lars) chyba gdzieś ruszył nad ranem i najpewniej nie ma go w mieście.
-    - Wywiązuje się niewielka sprzeczka zakończona niemal dosłownie wyrzuceniem nas za drzwi. Wściekli na niziołki, idziemy poszukać krawca i rozejrzeć się za rzeczami na drogę.
+    - Natychmiast podejmujemy decyzję: wracamy do Brokilonu. Tylko tam możemy się tymczasowo uchronić przed oboma stronami tego dziwnego konfliktu Verdeńskiego - magiem z [Nilfgaardu](#l_nilfgaard) oraz [Dijkstrą](#p_dijkstra) i jego szpiclami.
+    - Pytamy [druida](#p_druid_finarrin) gdzie możemy się spotkać, czy mogą wyjść nam na przeciw żeby pomóc dostać się do lasu i czy mamy zabrać ze sobą coś czego potrzebują w Wiosce. Otrzymujemy odpowiedź, że spotkamy się w [Medownej](#l_medowna), a jedyne czego w tej chwili potrzeba to rzeczy na odbudowę Wioski.
+    - Niziołki zaczęły już sprzątać rozbite butelki i kufle w karczmie. Prosimy je żeby posłały wiadomość do [Larsa](#p_lars), chcemy się z nim rozmówić przed wyruszeniem w drogę. W odpowiedzi zostajemy zrugani - karły mają ważniejsze rzeczy na głowie niż jakaś tam nasza wiadomość, a po za tym [ten pajac](#p_lars) ponoć gdzieś ruszył nad ranem i najpewniej nie ma go w mieście.
+    - Wywiązuje się "niewielka" sprzeczka zakończona niemal dosłownie wyrzuceniem nas za drzwi. Wściekli na niziołki, idziemy poszukać krawca i rozejrzeć się za rzeczami na drogę. [Elf](#g_kajetan) zamierzał wyruszyć z miasta natychmiast.
     - Będąc u krawca debatujemy nad tym co dalej zrobić - nie możemy szwendać się po mieście, bo jeszcze ktoś nas wrzuci do pierdla. Należałoby jedna rozmówić się z [Larsem](#p_lars) - [Ilanie](#g_ilana) bardzo na tym zależy, druidka żywi nadzieję, że być może pomoże on nam wydostać się z miasta po cichu i bez świadków.

@@ -74,6 +74,7 @@
 * Mahakam<a id='l_mahakam'></a>
     * Góra Carbon<a id='l_gora_carbon'></a>
 * Nilfgaard<a id='l_nilfgaard'></a>
+    * Loc Grim<a id='l_loc_grim'></a>
 * Poviss<a id='l_poviss'></a>
 * Redania<a id='l_redania'></a>
     * Novigrad<a id='l_novigrad'></a>
