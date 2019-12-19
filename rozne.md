@@ -31,3 +31,10 @@
     - Ich społeczeństwo było agresywne i rządziło się brutalnymi zasadami
     - Potrafili obracać w niwecz wszelkie próby użycia Mocy na odległość
     - [Aen Drisichean](#r_aen_drisichean) postanowili ich unikać za wszelką cenę
+- Alchemia
+    - Symbole
+        - <font size="3">☿</font> - rtęć
+        - <font size="3">🜍</font> - siarka
+        - <font size="3">🜄</font> - woda
+        - <font size="3">≈</font> - woda (niepoprawnie, użyta przez [Vicovarro](#p_florian_z_vicovaro)
+        - <font size="3">🜔</font> - sól
