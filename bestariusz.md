@@ -94,6 +94,9 @@
     * przypominający człowieka zwój korzeni, krzaków i pnączy
     * przyzwany w grupach przez [Formorianem](#p_formorian)
     * [Kto to taki? To krzaczaki!](https://www.youtube.com/watch?v=PHnEKSFy3cU)
+* Kuroliszek<a id='b_kuroliszek'></a>
+    * pół kura pół jaszczura
+    * kąsa jadem który paraliżuje i szarzy cerę (z tąd legendy o zamienianiu w kamień?)
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
 <a href="https://nipsufn.github.io/journal.html#p_druid_finarrin">Druid Finarrin</a>, 1370 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing">PP</a>
 </i></div>

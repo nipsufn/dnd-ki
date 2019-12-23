@@ -11,6 +11,7 @@ refs = []
 
 whitelist = [
   sys.argv[0][2:],
+  ".gitignore"
   "requirements.txt",
   ".travis.yml",
   "test.py"
@@ -28,6 +29,7 @@ for filePath in fileList:
     continue
   with open(filePath, 'r', encoding='utf-8') as fileStream:
     balance = [0 for x in range(7)]
+    mergeConflict = False
     for lineNo, lineText in enumerate(fileStream):
       balance[0] += lineText.count('"')
       balance[1] += lineText.count('<')
@@ -36,6 +38,8 @@ for filePath in fileList:
       balance[4] += lineText.count(')')
       balance[5] += lineText.count('[')
       balance[6] += lineText.count(']')
+      if re.match(r"[<>=]{7}", lineText):
+        mergeConflict = True
       for match in re.finditer(r"[a-zA-Z0-9](_[a-zA-Z0-9]+)+", lineText):
         if re.search(r"<a id='[a-zA-Z0-9](_[a-zA-Z0-9]+)+'></a>", lineText[match.start(0)-7:match.end(0)+6]):
           tags.append([match.group(0), lineNo, match.start(0), filePath])
@@ -59,6 +63,8 @@ for filePath in fileList:
       write("Unmatched () in file: " + filePath)
     if balance[5] != balance[6]:
       write("Unmatched [] in file: " + filePath)
+    if mergeConflict:
+      write("Merge conflict in file: " + filePath)
 
 for n, x in enumerate(tags):
   for o, y in enumerate(tags):
