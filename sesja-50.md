@@ -43,7 +43,7 @@
     - Druidka ponagla drużynę aby czym prędzej ruszyć do [Col Serrai](#l_col_serrai), na spotkanie reszty.
 4. Znów w las - [Col Serrai](#l_col_serrai)
     - [Juniper](#p_juniper) prowadzi nas pewnie i bez błędu. Droga zajmuje nam w sumie niemal 4 dni i prowadzi przez jaskinie, których wygląd przywodzi na myśl te opisywane przez [Aen Drisichean](#r_aen_drisichean).
-    - Uzdrowisko driad leży w odciętej kotlinie, panuje tu wiosenno letni klimat. Ziemię pokrywają czerwone pnącza, a dookoła roi się od nagich driad przechadzających się między niedzkami wiejącymi w nasze nozdrza siarką i minerałami.
+    - Uzdrowisko driad leży w odciętej kotlinie, panuje tu wiosenno letni klimat. Ziemię pokrywają czerwone pnącza, a dookoła roi się od nagich driad przechadzających się między nieckami wiejącymi w nasze nozdrza siarką i minerałami.
     - Spod pnączy, z jednej z niecek wynurza się [Finarrin](#p_druid_finarrin). Druid wygląda zdrowiej i młodziej - to jest, dopóki [Ilana](#g_ilana) nie mówi mu o negocjacyjnym wolontariacie, do którego go zgłosiła.
     - [Elf](#g_kajetan), znając reputację [leśnego uzdrowiska](#l_col_serrai), daje nura w krzaczaste runo leśne jak go natura stworzyła. Po jakimś czasie wyłazi czując się dużo lepiej. Widać jednak, że jego przypadłość stanowi problem nawet dla tego miejsca.
     - [Ivar](#p_ivar) zostaje niemal od razu odciągnięty przez kilka driad, wygląda przy tym na bardzo zawstydzonego.
