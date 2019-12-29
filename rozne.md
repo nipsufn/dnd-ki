@@ -17,6 +17,7 @@
     - lud krzaków, cierni
     - klan elfów który niegdyś zamieszkiwał [Craag An](#l_craag_an)
 - Rycerze [Galawaina](#p_galawain), ich wiersz i tytuły<a id='r_rycerze_galawaina'></a>
+    - zostali później zastąpieni przez "zielonych rycerzy"
 
 | Nr. | Osoba | Napis na pomniku | Napis na nagrobku | Szkoła magii pochodząca od broni | 
 | :--- | :--- | :---: | :---: | :--- |
@@ -31,10 +32,25 @@
     - Ich społeczeństwo było agresywne i rządziło się brutalnymi zasadami
     - Potrafili obracać w niwecz wszelkie próby użycia Mocy na odległość
     - [Aen Drisichean](#r_aen_drisichean) postanowili ich unikać za wszelką cenę
+- Ciałognilec<a id='r_cialognilec'></a><a id='r_flesh_rot'></a>
+    - zmodyfikowana przez [Floriana z Vicovarro](#p_florian_z_vicovaro) odmiana zarazy pustoszy [Verden](#l_verden)
+- Kalendarz elfów
+    - Święta astronomiczne
+        - Solstycja (przesilenia)
+            - Midinváerne – zimowe,<a id='r_midinvaerne'></a>
+            - Midaëte – letnie; <a id='r_midaete'></a>
+        - Ekwinokcja (równonoce)
+            - Birke – wiosenna,<a id='r_birke'></a>
+            - Velen – jesienna; <a id='r_velen'></a>
+    - Święta magiczne
+        - Imbaelk – kiełkowanie<a id='r_imbaelk'></a>
+        - Belleteyn – rozkwit<a id='r_belleteyn'></a>
+        - Lammas – dojrzewanie<a id='r_lammas'></a>
+        - Saovine – zamieranie<a id='r_saovine'></a>
 - Alchemia
     - Symbole
         - ☿ - rtęć
         - 🜍 - siarka
         - 🜄 - woda
-        - ≈ - woda (niepoprawnie, użyta przez [Vicovarro](#p_florian_z_vicovaro))
+        - ≈ - woda (niepoprawnie / alternatywnie, użyta przez [Vicovarro](#p_florian_z_vicovaro))
         - 🜔 - sól
