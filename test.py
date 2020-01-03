@@ -14,7 +14,8 @@ whitelist = [
   ".gitignore"
   "requirements.txt",
   ".travis.yml",
-  "test.py"
+  "test.py",
+  "tag.py"
   ]
 
 feedback = ""
@@ -41,9 +42,9 @@ for filePath in fileList:
       if re.match(r"[<>=]{7}", lineText):
         mergeConflict = True
       for match in re.finditer(r"[a-zA-Z0-9](_[a-zA-Z0-9]+)+", lineText):
-        if re.search(r"<a id='[a-zA-Z0-9](_[a-zA-Z0-9]+)+'></a>", lineText[match.start(0)-7:match.end(0)+6]):
+        if re.search(r"<a id='[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?'", lineText[match.start(0)-7:match.end(0)+6]):
           tags.append([match.group(0), lineNo, match.start(0), filePath])
-        elif re.search(r"<a id=\"[a-zA-Z0-9](_[a-zA-Z0-9]+)+\"></a>", lineText[match.start(0)-7:match.end(0)+6]):
+        elif re.search(r"<a id=\"[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?\"", lineText[match.start(0)-7:match.end(0)+6]):
           tags.append([match.group(0), lineNo, match.start(0), filePath])
         elif re.search(r"\[[^\[^\]]+?\]\(#[a-zA-Z0-9](_[a-zA-Z0-9]+)+\)", lineText[0:match.end(0)+1]):
           refs.append([match.group(0), lineNo, match.start(0), filePath, False])
