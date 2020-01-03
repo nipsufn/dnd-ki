@@ -1,39 +1,72 @@
 ### Sesja 51
 1. Plany i ploteczki
-    - [Skovik](#p_skovik) opowiada [Ilanie](#g_ilana):
-        - leżał w jednym z dołków w krzakach przez kilka tygodni - jeden z potworów który przeszedł przez portal między światem naszym i [Aen Drisichean](#r_aen_drisichean), niedźwiedź z dwiema głowami węży niemal pozbawił wyspiarza pleców przy pomocy kwasu. Nie został do końca wyleczony, ale po traumatycznej pobudce w "grobie", absolutnie odmawia dalszej kuracji, pomimo że bez dotychczasowej najpewniej byłby martwy.
-        - zrobił burdę w [Dorian](#l_dorian) bez prowokacji, podejrzane typy jedynie weszły do tej samej karczmy w której siedzieli nasi towarzysze
-        - dowiaduje się że jego brat ma się dobrze, oraz że nie jesteśmy mile widziani na obszarze większym niż on (listy gończe w [Nilfgaardzie](#l_nilfgaard), naciski [Redańskich](#l_redania) sił specjalnych na północy)
+    - [Ilanie](#g_ilana) prosi [Skovika](#p_skovik) o oprowadzenie. Dwójka idzie na spacer, podczas którego Drummond opowiada:
+        - przez 3 tygodnie leżał w jednym z dołków w leczących pnączach - jeden z potworów, który przeszedł przez portal podczas jego ponownego otwarcia, niedźwiedź z dwiema głowami węży, niemal pozbawił wyspiarza pleców przy pomocy bardzo silnego kwasu
+        - obudził się "zagrzebany żywcem" - przyznaje, że nigdy w życiu niczego tak się nie bał i ta "pobudka" wywołała u niego poważną traumę
+        - zrobił burdę w [Dorian](#l_dorian) bez prowokacji, podejrzane typy jedynie weszły do tej samej karczmy, w której siedzieli nasi towarzysze
         - nie może się doczekać aby opuścić [Col Serrai](#l_col_serrai)
         - nie wtrąca się w "pomoc" jaką jego [brat](#p_ivar) oferuje driadom, w końcu to dorosły chłop
         - driady poprosiły o pomoc i jego, jednak odmówił
-        - [druidka](#g_ilana) nie kryje że nie pochwala reprodukcyjnych praktyk driad, szczególnie ze względu na młody wiek niektórych z nich
-    - razem omawiamy dalsze plany:
-        - [Finarrin](#p_druid_finarrin) zgadza się że negocjacje między magami to najlepsze wyjście w chwili obecnej
-        - wydaje się że [druid](#p_druid_finarrin) nie jest zaskoczony tym, że [Ilana](#g_ilana) zaoferowała jego pomoc oraz jego dom jako neutralne terytorium, co najwyżej zrezygnowany, ale nie mniej - gotowy pomóc
-        - prowadzenie rozmów w [Imbaelk](#r_imbaelk) ma swoje dobre i złe strony - generalnie zaklęcia będzie łatwiej rzucać, co będzie pomocne by zapewnić wygody, jednak jeśli doszłoby do bitwy magów - będzie ona bardziej "widowiskowa"
-        - [Hierofanta](#p_druid_finarrin) otrzymał w nagrodzie za pomoc lasowi kryształ wypełniony wodą driad z kroplą krwi samej [królowej](#p_eithne). Zaczynał już się zastanawiać jak wykorzystać ten dar by pomóc w negocjacjach, pomimo że ma własne plany co do niego (dowiedzieć się więcej o przeszłości [przybranej córki](#g_ilana)), jednak stanowczo wybijamy mu ten pomysł z głowy, to jego nagroda, której nie powinien marnować by pogodzić duże dzieci jakimi są skłóceni magowie
-        - aby zdążyć na czas, [Finarrin](#p_druid_finarrin) będzie musiał przeprowadzić nas przez drzewa dwa razy - do [Medownej](#l_medowna) i dalej do samej [Wioski](#l_wioska)
-        - [Wyspiarz](#p_skovik) nie daje się namówić do dalszego leczenia
-        - [Ivar](#p_ivar) chce osiąść w [Wiosce](#l_wioska). Usłyszał od [Verenestry](#p_verenestra), że to nie koniec jego przeznaczenia w [Brokilonie](#l_brokilon), dalej jest związany przysięgą [zielonych rycerzy](#r_rycerze_galawaina), powinien próbować odbudować ten zakon (albo krąg druidzki? nie jest to jasne, zdaje się że sam nie jest pewien)
-        - [młodzieniec](#p_ivar) wspomina też, że pomysł aby pozostawił po sobie driadom latorośle wyszedł od [Finarrina](#p_druid_finarrin). [Ilana](#g_ilana) jest zbulwersowana, ale chyba nie zaskoczona.
-    - [druidka](#g_ilana) prośbami, groźbami i obietnicami namawia [Skovika](#p_skovik) do kontynuowania kuracji w krzakach. Jednak gdy tylko kładzie się w zagłębieniu i pnącza zaczynają go obrastać, zaczyna panikować. [Ilana](#g_ilana) przytrzymuje go przez chwilę, [Aglais](#p_aglais) stwierdza że jedyny sposób aby coś z tego było to uśpić [siłacza](#p_skovik) "wodą Brokilonu", którą zanosi [elfowi](#g_kajetan). Ten przelewa ją do butelki i nadaje smak gorzałki, udaje że zeń pociąga po czym podaje ją [wyspiarzowi](#p_skovik). Ten wypija ją duszkiem, po czym osuwa się nieprzytomny z powrotem w pnącza. [Driada](#p_aglais) beznamiętnie stwierdza że wypił chyba za dużo i będzie nie przytomny co najmniej tydzień... Wygląda na to że ten [Drunmond](#p_skovik) nie będzie nam towarzyszył w negocjacjach.
-    - [mag](#g_kajetan):
-        - komunikuje się z zwaśnionymi czarodziejami przed wejściem do kotliny, stosując jako-takie środki ostrożności aby nie zdradzić lokacji driadzkiego uzdrowiska. Oboje przybędą do [Medownej](#l_medowna) na noc przed [Imbaelk](#r_imbaelk)
-        - dowiaduje się że [Leiv](#p_leiv) jest na statku, afera Brokilońska spowodowała spory sztorm, ale i statek i on mają się w porządku
-        - zwiedza jaskinie otaczające kotlinę, w których, jak okazuje się, mieszkają driady. W paśmie górskim stały niegdyś dwie wieże [Aen Drisichean](#r_aen_drisichean). Ich głębokimi fundamentami można dostać się do podziemnego jeziora
-    - [Kajetan](#g_kajetan) rozmawia z opiekunką [kotliny](#l_col_serrai), [Aglais](#p_aglais):
-        - nie powinien był korzystać z dobrodziejstw uzdrowiska bez konsultacji
-        - po oględzinach i badaniach określa przypadłość elfa jako dolegliwość pasożytniczą raczej niż typową chorobę
-        - pobyt w kotlinie, pomimo swojej leczniczej aury, nie będzie w stanie mu pomóc
-        - jedyny, kto byłby w stanie pomóc [elfowi](#g_kajetan) to jej zdaniem [Eithne](#p_eithne)
-        - [driada](#p_aglais) radzi, jeśli mag zostanie zaproszony na audiencję, by był szczery, okazał szacunek i nie dał się zaskoczyć wyglądem [władczyni Brokilonu](#p_eithne)
-        - na prośbę [Ilany](#g_ilana) pyta, czy może za pośrednictwem Mocy pytać co dnia o stan [Skovika](#p_skovik), który nie powinien budzić się kolejny raz całkowicie zarośnięty w otoczeniu driad, towarzystwo [druidki](#g_ilana) powinno go uspokoić. [Aglais](#p_aglais) prosi o dziecko maga w zamian za małą, zdawało by się, przysługę. [Elf](#g_kajetan) obiecuje rozważyć taką możliwość co zdaje się zadowolić driadę.
-2. W drodze
-    - Docieramy do [Medownej](#l_medowna). [Vicovarro](#p_florian_z_vicovaro) już tam jest, w bąbelku podobnym do tego który zwykle konstruuje [Kajetan](#g_kajetan)
-    - Wymieniamy z nim grzeczności, zaciskając zęby by nie wszczynać kłótni, gdy padają oparte na niedomówieniach kłamstwa... Mag bawi się pierścionkiem, podobym do tego który stracił w ostaniej potycznce
-    - [Ilana](#g_ilana) przechadza się po wsi, znajdując szkatułkę z eliksirem leczącym
-    - W nocy przybywa [Lars](#p_lars) i rozbija swój obóz po drugiej stronie wsi nie zauważając nas
-    - Wyruszamy do [Wioski](#l_wioska)
+    - [Druidka](#g_ilana) zdradza, że [Leiv](#p_leiv) ma się dobrze, oraz że nie jesteśmy mile widziani na obszarze większym niż wyspiarz (listy gończe w [Nilfgaardzie](#l_nilfgaard), naciski [Redańskich](#l_redania) sił specjalnych na północy).
+    - [Ilana](#g_ilana) nie kryje, że nie pochwala reprodukcyjnych praktyk driad, szczególnie ze względu na młody wiek niektórych z nich. Odczuwa widoczną ulgę na wieść, że [Skovik](#p_skovik) nie skorzystał z ich "propozycji".
+    - W tym czasie [Kajetan](#g_kajetan) zagaja [Finarrina](#p_druid_finarrin) . Druid zgadza się, że negocjacje między magami to najlepsze wyjście w chwili obecnej.
+    - Wydaje się, że [druid](#p_druid_finarrin) nie jest zaskoczony tym, że [Ilana](#g_ilana) zaoferowała jego pomoc oraz jego dom jako neutralne terytorium, co najwyżej trochę zrezygnowany, ale nie mniej - gotowy pomóc.
+    - Wróciwszy ze spcaceru do rozmowy dołącza [Ilana](#g_ilana). Zamiast sterczeć wskakujemy do jednej z niecek. 
+    - [Skovik](#p_skovik), nie czując się dobrze w planowaniu, postanawia oprawić upolowanego koziołka.
+    - Prowadzenie rozmów w [Imbaelk](#r_imbaelk) ma swoje dobre i złe strony - generalnie zaklęcia będzie łatwiej rzucać, co będzie pomocne by zapewnić wygody, jednak jeśli doszłoby do bitwy magów - będzie ona bardziej "widowiskowa".
+    - [Hierofanta](#p_druid_finarrin) otrzymał w nagrodę za pomoc lasowi kryształ wypełniony wodą driad z kroplą krwi samej [królowej](#p_eithne). Zaczynał już się zastanawiać jak wykorzystać ten dar by pomóc w negocjacjach, pomimo że ma własne plany co do niego (dowiedzieć się więcej o przeszłości [przybranej córki](#g_ilana)), jednak stanowczo wybijamy mu ten pomysł z głowy. To jego nagroda, której nie powinien marnować by pogodzić duże dzieci jakimi są skłóceni magowie.
+    - Aby zdążyć na czas, [Finarrin](#p_druid_finarrin) będzie musiał przeprowadzić nas przez drzewa dwa razy - do [Medownej](#l_medowna) i dalej do samej [Wioski](#l_wioska).
+    - [Ilana](#g_ilana) opuszcza konwersację żeby pomóc [Skovikowi](#p_skovik) ze zwierzyną.
+    - Druidka jak dziecku próbuje wytłumaczyć, że bez dalszej kuracji, tj. zanurzeniu się w pnączach nie będzie on w stanie nawet się ubrać aby opuścić uzdrowisko, a co dopiero normalnie funkcjonować. Mimo to [wyspiarz](#p_skovik) ma opory przed podjęciem decyzji o kontynuowaniu leczenia. Jest wyraźnie wystraszony wizją powtórki z rozrywki.
+    - [Ivar](#p_ivar) chce osiąść w [Wiosce](#l_wioska). Usłyszał od [Verenestry](#p_verenestra), że to nie koniec jego przeznaczenia w [Brokilonie](#l_brokilon) - dalej jest związany przysięgą [zielonych rycerzy](#r_rycerze_galawaina), powinien próbować odbudować ten zakon (albo krąg druidzki? nie jest to jasne, zdaje się że sam nie jest pewien). Jego zadaniem jest "bronić ludzi przed lasem".
+    - [Młodzieniec](#p_ivar) wspomina też, że pomysł aby pozostawił po sobie driadom latorośle wyszedł od [Finarrina](#p_druid_finarrin). [Ilana](#g_ilana) jest zniesmaczona, ale chyba nie zaskoczona.
+2. Z deszczu pod rynnę
+    - Tego samego dnia wieczorem, skończywszy oprawiać zwierzynę, [druidka](#g_ilana) prośbami, groźbami i obietnicami ("jedna traumatyczna noc za kolejną przyjemniejszą") namawia wreszcie [Skovika](#p_skovik) do kontynuowania kuracji w krzakach pod warunkiem, że będzie przy nim czuwać. Jednak gdy tylko mężczyzna kładzie się w zagłębieniu i pnącza zaczynają go obrastać, panikuje. 
+    - [Ilana](#g_ilana) nie wie co robić. Sytuacja przyciąga jedną ze starszych driad - [Aglais](#p_aglais), opiekunkę uzdrowiska.
+    - Driada stwierdza, że jedyny sposób aby coś z tego było to uśpić [siłacza](#p_skovik) "wodą Brokilonu", którą na prośbę druidki zanosi [elfowi](#g_kajetan).
+    - [Kajetan](#g_kajetan) przelewa wodę do butelki i nadaje jej smak gorzałki. Przybiega zawołany przez druidkę i odkorkowuje butelkę. Udaje, że zeń pociąga po czym podaje flaszkę [wyspiarzowi](#p_skovik). Ten wypija ją duszkiem, po czym osuwa się nieprzytomny z powrotem w pnącza. 
+    - [Aglais](#p_aglais) beznamiętnie stwierdza, że wypił chyba za dużo i będzie nieprzytomny co najmniej tydzień... Wygląda na to, że ten [Drunmond](#p_skovik) nie będzie nam towarzyszył w negocjacjach.
+    - [Ilana](#g_ilana) czuje się źle z tym, co zrobiła. Korzystając z okazji wypytuje [Aglais](#p_aglais) o stan zdrowia [Skovika](#p_skovik) - obecny, jak i zaraz po wypadku:
+        - po ustabilizowaniu portalu został zabrany nieprzytomny z wielką dziurą zamiast pleców niemal całkowicie wyrzartych kwasem do uzdrowiska
+        - fakt, że przeżył zawdzięczać może swojej krzepie - przeciętny człowiek wyzionął by ducha na miejscu
+        - po podaniu wody Brokilonu driady umieściły go w leczniczych pnączach
+        - przeleżał tam prawie 3 tygodnie, choć i tak obudził się przed czasem, kiedy kuracja nie była jeszcze w pełni zakończona
+        - obudził się z krzykiem, wyrywając ze sobą pnącza i strasząc obecne w pobliżu driady
+3. Przygotowania do drogi 
+    - Korzystamy z pozostałych nam dwóch dni aby przygotować się do podróży, skontaktować się ze zwiaśnionymi magami i doprecyzować nasz plan działania.
+    - [Kajetan](#g_kajetan):
+        - komunikuje się z czarodziejami przed wejściem do kotliny, stosując jako-takie środki ostrożności aby nie zdradzić lokacji driadzkiego uzdrowiska
+        - ustala, że obaj magowie przybędą do [Medownej](#l_medowna) na noc przed [Imbaelk](#r_imbaelk) - [Lars](#p_lars) w naszej obstawie, a [Florian](p_florian_z_vicovaro) teleportuje się bezpośrednio kiedy my będziemy już na miejscu
+        - dowiaduje się że [Leiv](#p_leiv) jest na statku; afera Brokilońska spowodowała spory sztorm, ale i statek, i on mają się w porządku
+        - zwiedza jaskinie otaczające kotlinę, w których, jak okazuje się, mieszkają driady
+        - odkrywa, że w paśmie górskim stały niegdyś dwie wieże [Aen Drisichean](#r_aen_drisichean); ich głębokimi fundamentami można dostać się do podziemnego jeziora
+        - rozmawia z opiekunką [kotliny](#l_col_serrai), [Aglais](#p_aglais):
+            - nie powinien był korzystać z dobrodziejstw uzdrowiska bez konsultacji
+            - po oględzinach i badaniach określa przypadłość elfa jako dolegliwość pasożytniczą raczej niż typową chorobę
+            - pobyt w kotlinie, pomimo swojej leczniczej aury, nie będzie w stanie mu pomóc
+            - jedynym, kto byłby w stanie pomóc [elfowi](#g_kajetan) jej zdaniem jest [Eithne](#p_eithne)
+            - [driada](#p_aglais) radzi, jeśli mag zostanie zaproszony na audiencję, by był szczery, okazał szacunek i nie dał się zaskoczyć wyglądem [władczyni Brokilonu](#p_eithne)
+    - [Ilana](#g_ilana):
+        - każdą wolną chwilę poświęca na czuwanie przy wyspiarzu na wszelki wypadek, gdyby jednak miał się obudzić
+        - korzystając z chwili spokoju konstruuje naprędce obiecane ubrania dla [Skovika](#p_skovik): nowe spodnie, prostą koszulę i kamizelkę ze skóry ustrzelonego jelonka, lekko ocieploną futrem z jej własnego ekwipunku
+        - rozmawia z [Gebo](#p_gebo) - niedźwiadek woli zostać przy [Skoviku](#p_skovik) i pilnować go do czasu powrotu druidki
+        - prosi [Aglais](#p_aglais) aby nie pozwoliła nikomu, a w szczególności pozostałym driadom zakłócać spokoju [Skovika](#p_skovik), czy nagabywać go jeśli obudzi się przed jej powrotem - dla ich zdrowia i jej spokoju sumienia
+        - pyta [starszą driadę](#p_aglais) czy pamięta kiedy znalazły ją driady, czy była przy tym obecna:
+            - driada ma ponad 200 lat i dobrze zachowała w pamięci ich pierwsze spotkanie
+            - driady znalazły druidkę na skraju lasu, owiniętą w delikatny, zielony szal, ułożoną w wiklinowym koszu
+            - zabrały dziecko do Col Serrai, gdzie podano mu wodę Brokilonu, ale ta zdawała się nie mieć wpływu na dziewczynkę
+            - druga próba z wodą odbyła się w samym sercu lasu, Duen Cannel i także nie przyniosła oczekiwanego rezultatu
+            - królowa [Eithne](#p_eithne) zdecydowała, że dziecko powinno trafić do druidów - z nimi będzie mu lepiej
+    - Przed odejściem, na prośbę [Ilany](#g_ilana), [Kajetan](#g_kajetan) pyta [Aglais](#p_aglais), czy może za pośrednictwem Mocy pytać co dnia o stan [Skovika](#p_skovik), który nie powinien budzić się kolejny raz całkowicie zarośnięty w otoczeniu driad - towarzystwo [druidki](#g_ilana) powinno go uspokoić. [Aglais](#p_aglais) prosi o dziecko maga w zamian za małą, zdawało by się, przysługę. [Elf](#g_kajetan) obiecuje rozważyć taką możliwość, co zdaje się na czas obecny zadowalać driadę.
+4. Do Medownej czas
+    - Docieramy do [Medownej](#l_medowna) wczesnym rankiem, jeszcze przed świtem. 
+    - [Vicovarro](#p_florian_z_vicovaro) już tam jest, w bąbelku podobnym do tego, który zwykle konstruuje [Kajetan](#g_kajetan).
+    - Wymieniamy z nim grzeczności, zaciskając zęby by nie wszczynać kłótni, gdy padają oparte na niedomówieniach kłamstwa. 
+    - Mag bawi się pierścionkiem podobym do tego, który stracił w ostaniej potyczce. Błyskotka ma czarny kamień, którego brakowało w poprzednim egzemplarzu.
+    - Uzgadniamy, że [Vicovaro](#p_florian_z_vicovaro) będzie, podobnie jak [Lars](#p_lars), towarzyszył nam do Medownej.
+    - [Ilana](#g_ilana) przechadza się po wsi, znajdując zabezpieczoną szkatułkę z eliksirem leczącym.
+    - W nocy przybywa [Lars](#p_lars) i rozbija swój obóz po drugiej stronie wsi, zdaje się nie zauważając nas.
+    - Nad ranem magowie stają twarzą w twarz. Na szczęście nie dochodzi do żadnych kłótni.
+    - Wyruszamy do [Wioski](#l_wioska) przechodząc przez jedno z drzew wybranych przez [Finarrina](#p_druid_finarrin).
     
     
