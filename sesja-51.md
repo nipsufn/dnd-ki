@@ -59,7 +59,7 @@
             - zabrały dziecko do [Col Serrai](#l_col_serrai), gdzie podano mu wodę [Brokilonu](#l_brokilon), ale ta zdawała się nie mieć wpływu na dziewczynkę
             - druga próba z wodą odbyła się w samym sercu lasu, Duen Cannel i także nie przyniosła oczekiwanego rezultatu
             - królowa [Eithne](#p_eithne) zdecydowała, że dziecko powinno trafić do druidów - z nimi będzie mu lepiej
-    - Przed odejściem, na prośbę [Ilany](#g_ilana), [Kajetan](#g_kajetan) pyta [Aglais](#p_aglais), czy może za pośrednictwem Mocy pytać co dnia o stan [Skovika](#p_skovik), który nie powinien budzić się kolejny raz całkowicie zarośnięty w otoczeniu driad - towarzystwo [druidki](#g_ilana) powinno go uspokoić. [Aglais](#p_aglais) prosi o dziecko maga w zamian za małą, zdawało by się, przysługę. [Elf](#g_kajetan) obiecuje rozważyć taką możliwość, co zdaje się na czas obecny zadowalać driadę.
+    - Przed odejściem, na prośbę [Ilany](#g_ilana), [Kajetan](#g_kajetan) pyta [Aglais](#p_aglais), czy może za pośrednictwem Mocy pytać co dnia o stan [Skovika](#p_skovik), który nie powinien budzić się kolejny raz całkowicie zarośnięty w otoczeniu driad - towarzystwo [druidki](#g_ilana) powinno go uspokoić. [Aglais](#p_aglais) prosi maga o dziecko w zamian za małą, zdawało by się, przysługę. [Elf](#g_kajetan) obiecuje rozważyć taką możliwość, co zdaje się na czas obecny zadowalać driadę.
 4. Do [Medownej](#l_medowna) czas
     - Docieramy do [Medownej](#l_medowna) wczesnym rankiem, jeszcze przed świtem. 
     - [Vicovaro](#p_florian_z_vicovaro) już tam jest, w bąbelku podobnym do tego, który zwykle konstruuje [Kajetan](#g_kajetan).
