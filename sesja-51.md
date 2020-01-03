@@ -29,7 +29,7 @@
     - [Ilana](#g_ilana) czuje się źle z tym, co zrobiła. Korzystając z okazji wypytuje [Aglais](#p_aglais) o stan zdrowia [Skovika](#p_skovik) - obecny, jak i zaraz po wypadku:
         - po ustabilizowaniu portalu został zabrany nieprzytomny z wielką dziurą zamiast pleców niemal całkowicie wyrzartych kwasem do uzdrowiska
         - fakt, że przeżył zawdzięczać może swojej krzepie - przeciętny człowiek wyzionął by ducha na miejscu
-        - po podaniu wody Brokilonu driady umieściły go w leczniczych pnączach
+        - po podaniu wody [Brokilonu](#l_brokilon) driady umieściły go w leczniczych pnączach
         - przeleżał tam prawie 3 tygodnie, choć i tak obudził się przed czasem, kiedy kuracja nie była jeszcze w pełni zakończona
         - obudził się z krzykiem, wyrywając ze sobą pnącza i strasząc obecne w pobliżu driady
         - do pełnego powrotu do formy potrzebowałby jeszcze jednego, a najlepiej dwóch tygodni leczenia
@@ -56,16 +56,16 @@
         - pyta [starszą driadę](#p_aglais) czy pamięta kiedy znalazły ją driady, czy była przy tym obecna:
             - driada ma ponad 200 lat i dobrze zachowała w pamięci ich pierwsze spotkanie
             - driady znalazły druidkę na skraju lasu, owiniętą w delikatny, zielony szal, ułożoną w wiklinowym koszu
-            - zabrały dziecko do Col Serrai, gdzie podano mu wodę Brokilonu, ale ta zdawała się nie mieć wpływu na dziewczynkę
+            - zabrały dziecko do [Col Serrai](#l_col_serrai), gdzie podano mu wodę [Brokilonu](#l_brokilon), ale ta zdawała się nie mieć wpływu na dziewczynkę
             - druga próba z wodą odbyła się w samym sercu lasu, Duen Cannel i także nie przyniosła oczekiwanego rezultatu
             - królowa [Eithne](#p_eithne) zdecydowała, że dziecko powinno trafić do druidów - z nimi będzie mu lepiej
     - Przed odejściem, na prośbę [Ilany](#g_ilana), [Kajetan](#g_kajetan) pyta [Aglais](#p_aglais), czy może za pośrednictwem Mocy pytać co dnia o stan [Skovika](#p_skovik), który nie powinien budzić się kolejny raz całkowicie zarośnięty w otoczeniu driad - towarzystwo [druidki](#g_ilana) powinno go uspokoić. [Aglais](#p_aglais) prosi maga o dziecko w zamian za małą, zdawało by się, przysługę. [Elf](#g_kajetan) obiecuje rozważyć taką możliwość, co zdaje się na czas obecny zadowalać driadę.
-4. Do Medownej czas
+4. Do [Medownej](#l_medowna) czas
     - Docieramy do [Medownej](#l_medowna) wczesnym rankiem, jeszcze przed świtem. 
     - [Vicovaro](#p_florian_z_vicovaro) już tam jest, w bąbelku podobnym do tego, który zwykle konstruuje [Kajetan](#g_kajetan).
     - Wymieniamy z nim grzeczności, zaciskając zęby by nie wszczynać kłótni, gdy padają oparte na niedomówieniach kłamstwa. 
     - Mag bawi się pierścionkiem podobym do tego, który stracił w ostaniej potyczce. Błyskotka ma czarny kamień, którego brakowało w poprzednim egzemplarzu.
-    - Uzgadniamy, że [Vicovaro](#p_florian_z_vicovaro) będzie, podobnie jak [Lars](#p_lars), towarzyszył nam do Medownej.
+    - Uzgadniamy, że [Vicovaro](#p_florian_z_vicovaro) będzie, podobnie jak [Lars](#p_lars), towarzyszył nam do [Medownej](#l_medowna).
     - [Ilana](#g_ilana) przechadza się po wsi, znajdując zabezpieczoną szkatułkę z eliksirem leczącym.
     - W nocy przybywa [Lars](#p_lars) i rozbija swój obóz po drugiej stronie wsi, zdaje się nie zauważając nas.
     - Nad ranem magowie stają twarzą w twarz. Na szczęście nie dochodzi do żadnych kłótni.

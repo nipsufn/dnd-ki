@@ -52,7 +52,7 @@
     * [Kajetan](#g_kajetan) zamknie portal zaklęciem zapisanym przez [Keirę](#p_keira_metz), w zamian czarodziejka podleczy wyniszczonego elfa.
     * Portal udaje się zamknąć, a potwory, które zdołały się przedostać, zostają zabite (jeden przez [Lamberta](#p_lambert) na wyższym poziomie, drugi dzięki naszej drużynie).
     * [Kajetan](#g_kajetan) znajduje w bilbiotece na dole kilka magicznych artefaktów, w tym kamień komunikacyjny (który zdaje się być zrobiony z tego samego materiału, co jego niedawno sprzedany topór).
-    * W rozmowie z [Keirą](#p_keira_metz) wspominamy o magu z Ellander, prosząc, żeby się z nimi skontaktowała i być może pomogła wyleczyć żonę [Vigga](#p_viggo_regner), jeśli będzie miała chwilę.
+    * W rozmowie z [Keirą](#p_keira_metz) wspominamy o magu z [Ellander](#l_ellander), prosząc, żeby się z nimi skontaktowała i być może pomogła wyleczyć żonę [Vigga](#p_viggo_regner), jeśli będzie miała chwilę.
     * Zdrowie [Kajetana](#g_kajetan) zostaje nieco podreperowane kosztem kilku diamentów (dokładnie 4), jednak dalej ma dwimeryt w organiźmie i nie może rzucać zaklęć całkiem bezkarnie.
-    * [Keira](#p_keira_metz) zgadza się też opłacić naszych kompanów (czyli w zasadzie spłacić ich diamenty użyte do wyleczenia Kajetana) w zamian za wyświadczoną jej pomoc.
+    * [Keira](#p_keira_metz) zgadza się też opłacić naszych kompanów (czyli w zasadzie spłacić ich diamenty użyte do wyleczenia [Kajetana](#g_kajetan)) w zamian za wyświadczoną jej pomoc.
     * Czarodziejka pozwala nam przenocować w fundamentach obok jej namiotu.

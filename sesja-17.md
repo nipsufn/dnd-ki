@@ -15,13 +15,13 @@
     * Wysłuchawszy relacji [Skovika](#p_skovik), [Ilana](#g_ilana) wychodzi do miasta rozejrzeć się w poszukiwaniu mapy. O tak późnej godzinie zbyt wiele niestety nie znajduje, wraca więc na noc do [Perełki](#l_perelka).
     * [Skovik](#p_skovik) zaskakuje [Ilanę](#g_ilana) wyznaniem, że bardzo chciałby aby popłynęła z nim na [Skellige](#l_wyspy_skellige). Nie chodzi bowiem o plany, które druidka powzięła już jakiś czas temu - jego wyznanie ma wydźwięk bardziej... osobisty?
     * Rankiem wszyscy spotykamy się przy śniadaniu. [Ilana](#g_ilana) w ramach przeprosin za swoje zachowanie poprzedniego wieczora oddaje [Kajetanowi](#g_kajetan) butelkę z mandragorą z chęcią omówienia dalszych planów podróży. 
-    * Ku jej zaskoczeniu, elf zmienił zdanie odnośnie wyprawy do Brokilonu. Zarówno on, jak i [Ivar](#p_ivar) zdają się być w wyśmienitych humorach po udanej nocy (to na pewno przez te wygodne łóżka).
+    * Ku jej zaskoczeniu, elf zmienił zdanie odnośnie wyprawy do [Brokilonu](#l_brokilon). Zarówno on, jak i [Ivar](#p_ivar) zdają się być w wyśmienitych humorach po udanej nocy (to na pewno przez te wygodne łóżka).
     * Teraz już w zgodzie, robimy zakupy niezbędne do dalszej wędrówki i ruszamy na zachód od miasta aby przeprawić się mostem granicznym do [Verden](#l_verden). 
     * Po drodze zauważamy kolumnę wojska maszerującą w tym samym kierunku, więc przyspieszamy kroku coby nie utknąć za mundurowymi.
 2. Most - przejście graniczne z [Verden](#l_verden)
     * Docieramy tam o zachodzie słońca. Nad mostem, po stronie [Brugge](#l_brugge) rozstawiony jest obóz wojskowy, a na jego drugim końcu koczują cywile z [Verden](#l_verden). 
     * Zostajemy zatrzymani do kontroli i dowiadujemy się, że o pozwolenie na przejście trzeba prosić sierżanta. 
-    * Wojacy wskazują nam miejsce na nocleg. W nocy Ilana słyszy, jak żołnierze oddają strzały do ludzi po drugiej stronie, którzy siłą próbują sforsować most. Ich ciała, spadłszy do rzeki, są niemal od razu porywane przez utopce.
+    * Wojacy wskazują nam miejsce na nocleg. W nocy [Ilana](#g_ilana) słyszy, jak żołnierze oddają strzały do ludzi po drugiej stronie, którzy siłą próbują sforsować most. Ich ciała, spadłszy do rzeki, są niemal od razu porywane przez utopce.
     * Rano od sierżanta dowiadujemy się kilku rzeczy:
         * przejście przez most jest pilnie strzeżone od czasu, gdy na jego drugim końcu poswtała strefa objęta kwarantanną
         * ludzie tłumnie przybywający z [Verden](#l_verden) są zarażeni dziwną chorobą, którą [Ilana](#g_ilana) identyfikuje jako zgnilczak (flesh rot) - rozwija się wolno, ale jest śmiertelna

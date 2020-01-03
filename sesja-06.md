@@ -14,7 +14,7 @@
     * Po drodze widzimy rozbity wóz i ślady walki. Wóz wygląda jakby został zgnieciony silnym uderzeniem, a wokół aż roi się od strzał Wiewiórek.
     * Wieczorem rozbijamy obóż. Nocujemy w stosunkowo niewidocznym miejscu blisko drogi.
     * W czasie próby zepchnięcia wozu na postój, jedna z osi wozu pęka.
-    * Ilana poleca żeby Tom, Eliza i Daria nocowali na wozie lub zaraz obok niego - dla bezpieczeństwa.
+    * [Ilana](#g_ilana) poleca żeby [Tom](#p_tom), [Eliza](#p_eliza) i [Daria](#p_daria) nocowali na wozie lub zaraz obok niego - dla bezpieczeństwa.
     * Po Dwójksiężycowej Nocy konstelacje na niebie są te same, jednak nieco poprzesuwane.
     * Podczas warty [Ilany](#g_ilana):
         * obóz odwiedzają Scoia'tel w towarzystwie nietypowego zwierza - pół sowy, pół niedźwiedzia. 
@@ -27,14 +27,14 @@
     * W czasie polowania na ślad obozowiczów trafiły olbrzymie skolopendry i teraz suną przypuścić atak na obóz.
     * Dzięki szybkiej i sprawnej akcji udaje nam się uciec przed pościgiem giga-stonóg.
 4. [Świątynia](#l_smelitele)
-    * U stóp wzgórza, na którym stoi świątynia, zastajemy kolumnę obozującego wojska Redanii.
+    * U stóp wzgórza, na którym stoi świątynia, zastajemy kolumnę obozującego wojska [Redanii](#l_redania).
     * W namiotach leży wielu rannych, którym kapłanki odmówiły pomocy.
     * Komendant obozu Redańczyków pozwala nam odwiedzić Świątynię życząc szczęścia.
-    * [Matka Iola Druga](#p_matka_iola) wpuszcza nas - zna [Kajetana](#g_kajetan) i to za jego sprawą bramy zostają dla nas otwarte.
+    * [Matka [Iola](#p_hemmelfart) Druga](#p_matka_iola) wpuszcza nas - zna [Kajetana](#g_kajetan) i to za jego sprawą bramy zostają dla nas otwarte.
     * Kapłanki wpuszczają nawet [Kasimira](#g_kasimir) i chorego strażnika.
     * Poznajemy źródło problemów kapłanek, przez które świątynia odcięła się od świata. W szklarni jakieś złe pnącza obrosły prastary dąb rosnący w Punkcie Mocy.
     * Jeśli usuniemy pnącze, kapłanki obiecują w zamian pomóc nie tylko nam, ale także i miastu.
-    * Na czas walki Eliza z Darią zostają wzięte pod opiekę kapłanek. Tomowi też zostaje udzielona pomoc.
+    * Na czas walki [Eliza](#p_eliza) z [Darią](#p_daria) zostają wzięte pod opiekę kapłanek. [Tomowi](#p_tom) też zostaje udzielona pomoc.
     * Pnącza zdają się pasożytować na kapłankach, które próbowały się go pozbyć i teraz leżą jak martwe, spowite roślinami. Narośl pojawiła się po ferlanej dwuksiężycowej nocy.
     * Pnącza zostają usunięte. Początkowo obawiamy się używać magii w obecności Łowcy, ale [Kasimir](#g_kasimir) zdaje się nie przejmować zasadami - przynajmniej tak długo jak jego możliwość awansu na tym korzysta (niemniej powinniśmy być ostrożni jeśli wrócimy do [Ellander](#l_ellander)).
     * W czasie walki Dąb traci kawałek jednej z gałęzi. [Ilana](#g_ilana) pyta, czy może go zatrzymać, aby z niego zrobić sobie nowy kostur, na co wdzięczna [Matka Iola](#p_matka_iola) zgadza się niemal bez namysłu.

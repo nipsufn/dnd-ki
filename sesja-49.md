@@ -15,7 +15,7 @@
     - Jeden z ludzi w izolatce pyta o lekarza. [Lars](#p_lars) "przebiera się" za [Vicovaro](#p_florian_z_vicovaro) i rozmawia z chorym:
         - jest wojskowym 
         - zdaje się być zarażony
-        - był na granicy z Verden
+        - był na granicy z [Verden](#l_verden)
         - ma obrażenia od pazurów na przedramieniu i ślady ugryzienia w okolicy obojczyka
         - skarży się, że nie otrzymał swoich leków
         - informuje nas, że nie było porannego obchodu pielęgniarek (nikt tu nie zaglądał? czy nikt nie pracuje w szpitalu w dniu ataku?)
@@ -41,9 +41,9 @@
     - Do [Ban Ard](#l_ban_ard) można dostać się tylko z wykorzystaniem teleportacji. [Lars](#p_lars) może nam jedynie zaoferować "wejściówkę", tj. podzielić się wzorem tamtejszego kręgu teleportacyjnego. Jednak to tyle - w gestii [Kajetana](#g_kajetan) leży przeteleportowanie nas (czego mag sobie jeszcze nie przypomniał/nie opanował).
     - [Kajetan](#g_kajetan) niezadowolony sączy piwo, kiedy [Ilana](#g_ilana) wysypuje na stół wszystkie znaleziska z pracowni maga:
         - magiczne przedmioty to pióro i lupa
-        - notatki (te o Medownej i te z Verden) zawierają tajemne zapiski widoczne tylko przez znalezioną lupę; musiały zostać wykonane piórem, w którego posiadanie także weszliśmy
-        - nasza dwójka przewija się zarówno w raporcie z granicy z Verden jak i w zapisakch z Medownej
-        - choroba, którą [Florian](#p_florian_z_vicovaro) zaszczepił w Verden miała być szczególnie agresywna w rozwoju u elfów 
+        - notatki (te o [Medownej](#l_medowna) i te z [Verden](#l_verden)) zawierają tajemne zapiski widoczne tylko przez znalezioną lupę; musiały zostać wykonane piórem, w którego posiadanie także weszliśmy
+        - nasza dwójka przewija się zarówno w raporcie z granicy z [Verden](#l_verden) jak i w zapisakch z [Medownej](#l_medowna)
+        - choroba, którą [Florian](#p_florian_z_vicovaro) zaszczepił w [Verden](#l_verden) miała być szczególnie agresywna w rozwoju u elfów
         - niestety mag stracił nad nią kontrolę, a [Lars](#p_lars) podobno ukradł mu narzędzia, którymi chciał odkręcić sytuację
     - [Lars](#p_lars) wydaje się być szczególnie zainteresowany notatkami dotyczącymi zarazy w [Verden](#l_verden). Pożycza lupę żeby przeczytać co takiego czarodziej zanotował na sprawozdaniu.
     - [Kajetan](#g_kajetan) kończy wieczór i idzie do pokoju. [Ilana](#g_ilana) dyskutuje jeszcze chwilę na temat niespłenionych obietnic. Poirytowana mówi bez ogródek [Larsowi](#p_lars), że jest beznadziejnym nieudacznikiem, po czym sama udaje się na spoczynek.
@@ -58,8 +58,8 @@
         - portal kruka został ustabilizowany 
         - [Aen Eldrin](#r_aen_eldrin) wrócili już do domu
         - na koniec pada pytanie o [Ilanę](#g_ilana)
-    - Natychmiast podejmujemy decyzję: wracamy do Brokilonu. Tylko tam możemy się tymczasowo uchronić przed oboma stronami tego dziwnego konfliktu Verdeńskiego - magiem z [Nilfgaardu](#l_nilfgaard) oraz [Dijkstrą](#p_dijkstra) i jego szpiclami.
-    - Pytamy [druida](#p_druid_finarrin) gdzie możemy się spotkać, czy mogą wyjść nam na przeciw żeby pomóc dostać się do lasu i czy mamy zabrać ze sobą coś czego potrzebują w Wiosce. Otrzymujemy odpowiedź, że spotkamy się w [Medownej](#l_medowna), a jedyne czego w tej chwili potrzeba to rzeczy na odbudowę Wioski.
+    - Natychmiast podejmujemy decyzję: wracamy do [Brokilonu](#l_brokilon). Tylko tam możemy się tymczasowo uchronić przed oboma stronami tego dziwnego konfliktu Verdeńskiego - magiem z [Nilfgaardu](#l_nilfgaard) oraz [Dijkstrą](#p_dijkstra) i jego szpiclami.
+    - Pytamy [druida](#p_druid_finarrin) gdzie możemy się spotkać, czy mogą wyjść nam na przeciw żeby pomóc dostać się do lasu i czy mamy zabrać ze sobą coś czego potrzebują w [Wiosce](#l_wioska). Otrzymujemy odpowiedź, że spotkamy się w [Medownej](#l_medowna), a jedyne czego w tej chwili potrzeba to rzeczy na odbudowę [Wioski](#l_wioska).
     - Niziołki zaczęły już sprzątać rozbite butelki i kufle w karczmie. Prosimy je żeby posłały wiadomość do [Larsa](#p_lars), chcemy się z nim rozmówić przed wyruszeniem w drogę. W odpowiedzi zostajemy zrugani - karły mają ważniejsze rzeczy na głowie niż jakaś tam nasza wiadomość, a po za tym [ten pajac](#p_lars) ponoć gdzieś ruszył nad ranem i najpewniej nie ma go w mieście.
     - Wywiązuje się "niewielka" sprzeczka zakończona niemal dosłownie wyrzuceniem nas za drzwi. Wściekli na niziołki, idziemy poszukać krawca i rozejrzeć się za rzeczami na drogę. [Elf](#g_kajetan) zamierzał wyruszyć z miasta natychmiast.
     - Będąc u krawca debatujemy nad tym co dalej zrobić - nie możemy szwendać się po mieście, bo jeszcze ktoś nas wrzuci do pierdla. Należałoby jedna rozmówić się z [Larsem](#p_lars) - [Ilanie](#g_ilana) bardzo na tym zależy, druidka żywi nadzieję, że być może pomoże on nam wydostać się z miasta po cichu i bez świadków.

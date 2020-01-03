@@ -25,7 +25,7 @@
         * magowie nie są prześladowani, ale magia jest prawnie kontrolowana
         * poprzednim władcą [Brugge](#l_brugge) był [Wenzlaw I](#p_krol_wenzlaw_i), starał się utrzymywać dobre stosunki z Driadami
         * obecny władca, [Wenzlaw II](#p_krol_wenzlaw_ii), dla bezpieczeństwa państwa na mocy traktatu został lennikiem Czarnych
-        * to z jednej strony przyniosło stabilność, z drugiej - Nilfgaard domagał się zasobów, zmuszając [Brugge](#l_brugge) do intensywniejszej eksploatacji zasobów przy granicy z [Brokilonem](#l_brokilon); to z kolei wznowiło konflikt z Driadami, które posuwają się do otwarych ataków na ludzkie osady
+        * to z jednej strony przyniosło stabilność, z drugiej - [Nilfgaard](#l_nilfgaard) domagał się zasobów, zmuszając [Brugge](#l_brugge) do intensywniejszej eksploatacji zasobów przy granicy z [Brokilonem](#l_brokilon); to z kolei wznowiło konflikt z Driadami, które posuwają się do otwarych ataków na ludzkie osady
         * [Verden](#l_verden) to pobojowisko, tam Driadom nie ma kto stawiać oporu i robią jak uważają za stosowne
         * [Mayena](#l_mayena) to przeklęta przez druidów ruina miasta; zanim zostało przeklęte, było to miejsce nieustających potyczek z [Nilfgaardem](#l_nilfgaard), co potencjalnie skłoniło (ponoć mało ekstremistycznych) druidów z tamtej okolicy do podjęcia działania
         * najemnicy najczęściej osłaniają karawany i transporty, noszą też wiadomości - dla cywilów i dla księstwa

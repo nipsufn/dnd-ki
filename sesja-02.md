@@ -1,5 +1,5 @@
 ### Sesja 2
-1. W Różyczce
+1. W [Różyczce](#l_rozyczka)
     * [Różyczka](#l_rozyczka) okazuje się być całkiem schludnym i przyzwoitym miejscem prowadzonym przez parę półelfów, [Marię](#p_maria) i [Waleriana](#p_walerian). Goszczą tutaj nie tylko nieludzie, ale też kilku zwykłych ludzi, robotników.
     * W [Różyczce](#l_rozyczka) poznajemy drugiego Kranmera, [Hansa](#p_hans_kranmer), brata [Otta](#p_otto_kranmer). Zapraszają nas do swojego stolika.
     * Krasnoludy potrzebują kogoś do pomocy drwalom. To ich ogłoszenie widzieliśmy przed [Kuropatwą](#l_kuropatwa). **[Zadanie: Zlecenie na Kota Migota](#z_q1)**

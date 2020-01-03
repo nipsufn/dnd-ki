@@ -1,6 +1,6 @@
 ### Sesja 10
 1. [Różyczka](#l_rozyczka)
-    * Po śniadaniu zbieramy się i ruszami ze Skovikiem i braćmi do ratusza omówić zlecenie na szczurzego grajka (roboczo nazwanego Szczurołapem).
+    * Po śniadaniu zbieramy się i ruszami ze [Skovikiem](#p_skovik) i braćmi do ratusza omówić zlecenie na szczurzego grajka (roboczo nazwanego Szczurołapem).
 2. Ratusz w [Ellander](#l_m_ellander)
     * [Kajetan](#g_kajetan) kupuje bombonierkę dla sekretarek - dowiaduje się, że nagrody za Szczurołapa obecnie nie ma, ale mamy pojawić się po południu przed radą miejską, może uda nam się z nimi dogadać.
     * [Skovik](#p_skovik) i bracia wybierają się do balwierza, a [Kajetan](#g_kajetan) do rzemieślnika po pokrowiec na topór.
@@ -13,7 +13,7 @@
         * Nieco starsza pani
         * Puste miejsce (po [Kapłanie Matiasie](#p_kaplan_matias)?)
     * Rada zupełnie nie kryje swojej niezgody:
-        * są podzieleni na dwa obozy, religijny/mistyczny (Myrton, Viggo, młody mężczyzna) i świecki (Kapitan, Kupiec Mendrej, starsza pani)
+        * są podzieleni na dwa obozy, religijny/mistyczny ([Myrton](#p_lord_myrton), [Viggo](#p_viggo_regner), młody mężczyzna) i świecki (Kapitan, Kupiec Mendrej, starsza pani)
         * chętnie używają petentów i informacji, które ci przynoszą do niekrytej rozgrywki politycznej
         * żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego lub dostarczenie dowodów jednoznacznie potwierdzających nasze podejżenia - [Igna](#p_igna) ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**
 3. Polowanie na Sczurołapa
@@ -41,7 +41,7 @@
         * Svalblod jest jednym z bogów na Skellige
         * Vildcaarlowie to wojownicy potrafiący przemieniać się w zwierzęta podobnie jak [Ilana](#g_ilana); ich siedzibą jest [Fornhala](#l_fornhala)
         * [druid Artis](#p_druid_artis) uczył kandydatów na Vildcaarla kontrolować przemianę
-        * Skovik siedział w więzieniu za przedłożenie lojalności wobec klanu nad lojalność wobec obecjej [władczyni Skellige](#p_cerys)
+        * [Skovik](#p_skovik) siedział w więzieniu za przedłożenie lojalności wobec klanu nad lojalność wobec obecjej [władczyni Skellige](#p_cerys)
         * nie dokończył swojego treningu u druidów, do pełnej inicjacji brakuje mu "próby krwi"; żywi nadzieję, że druidzi z kontynentu będą w stanie mu pomóc dokończyć trening
         * chwali się innym tatuażem, który otrzymał na początku swojego treningu - wytatuowaną na klatce sporą głową niedźwiedzia; tatuaż zdaje się być magiczny
         * na wyspach nie ma wyznawców Wiecznego Ognia ani Łowców, jednak o ile magów się nie zabija, nie są też lubiani

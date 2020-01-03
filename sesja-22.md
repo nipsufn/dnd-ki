@@ -9,7 +9,7 @@
         * opowiada mentorce o tym, co się wydarzyło od ich ostatniego spotkania przed wyruszeniem [Ilany](#g_ilana) w drogę
         * korzystając z braku świadków i chwilowej niemocy mentorki, pozwala sobie na okazanie troski, jakiej nigdy nie pokazałaby publicznie
         * na odchodne całuje [Enid](#p_enid) w czubek głowy, życząc szybkiej rekonwalescencji
-        * wypytuje [Finarrina](#p_druid_finarrin) czego spodziewa się po naszej wyprawie do Medownej
+        * wypytuje [Finarrina](#p_druid_finarrin) czego spodziewa się po naszej wyprawie do [Medownej](#l_medowna)
         * uwadze [Finarrina](#p_druid_finarrin) nie umknęła brakująca butelka mioduli
     * [Ilana](#g_ilana) z [Mirną](#p_mirna) wybierają się na polowanie:
         * [Mirna](#p_mirna) wspomina, że [Verenestra](#p_verenestra) pojawiła się pierwszy raz w [Wiosce](#l_wioska) jakieś 3 miesiące po Dwójksiężycowej nocy
@@ -37,8 +37,8 @@
         * najbezpieczniej będzie popłynąć na południe Aard Skellige
         * musimy trzymać się z dala od Kaer Trolde, siedziby rodu An Craite
         * trzeba sprawdzić, czy ostał się ktokolwiek z rodu Drummond
-        * można spróbować zaprosić Myszowora do fortecy Drummondów
-        * do Fornhali można dostać się na dwa sposoby, ale jedynie przez góry - od strony portu Holmstein lub od wsi nieco bardziej na wschodzie
+        * można spróbować zaprosić [Myszowora](#p_myszowor) do fortecy Drummondów
+        * do [Fornhali](#l_fornhala) można dostać się na dwa sposoby, ale jedynie przez góry - od strony portu Holmstein lub od wsi nieco bardziej na wschodzie
     * Drużyna udaje się na spoczynek.
     * Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę. [Ilana](#g_ilana) na odchodne otrzymuje od [Skovika](#p_skovik) prezent: wystruganą przez niego figurkę wilczycy z młodymi - symbol ochrony, jaką druidka roztacza nad drużyną.
 2. Droga do [Medownej](#l_medowna)

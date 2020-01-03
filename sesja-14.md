@@ -27,9 +27,9 @@
     * [Ilana](#g_ilana) uwalnia konia, krótko z nim rozmawia. Koń nosi wojskowe barwy i ma na sobie juki. Wszystko wskazuje na to, że jego jeźdźca ściągnęły z siodła upiorne psy.
     * Druidka, nie wiedząc gdzie znajduje się jej drużyna, decyduje się na galop w górę rzeki, do granicznej strażnicy, którą zna też koń.
     * Wkrótce zaczynają ją gonić dwa [barghesty](#b_barghest) z [Brychnej](#l_brychna).
-    * [Kajetan](#g_kajetan) z Rundem szybko przeszukują inne chaty - potrzeba więcej zasobów do podtrzymania ognia i dalszej walki. Drużyna spodziewa się, że bestie wkrótce wrócą.
+    * [Kajetan](#g_kajetan) z [Rundem](#p_rund) szybko przeszukują inne chaty - potrzeba więcej zasobów do podtrzymania ognia i dalszej walki. Drużyna spodziewa się, że bestie wkrótce wrócą.
     * [Ilana](#g_ilana) ucieka bestiom w ostatnim momencie. Te zdają się nie atakować zwierząt - są agresywne tylko w stosunku do ludzi.
-    * Bestie wracają do Brychnej, nie chcą jednak opuścić cienia aby nie dać się złapać.
+    * Bestie wracają do [Brychnej](#l_brychna), nie chcą jednak opuścić cienia aby nie dać się złapać.
     * [Kajetan](#g_kajetan) bardzo skutecznie je prowokuje. Oba [barghesty](#b_barghest) atakują go, złe tak bardzo, że nie przejmują się światłem.
     * [Kajetan](#g_kajetan) zostaje ciężko ranny, traci przytomność. [Skovik](#p_skovik) z braćmi zabijają jedną z bestii, ostatnia ucieka i już nie wraca.
     * [Ilana](#g_ilana) dociera do strażnicy granicznej. Opowiada swoją historię strażnikom, jednen z nich ją rozpoznaje jako, że niedawno przekraczaliśmy granicę. Zaufanie wzbudza też fakt, że koń (z nietkniętymi jukami) należał do zwiadowcy wysłanego do [Miechunowych Uroczysk](#l_miechunowe_uroczyska), co potwierdza zeznania druidki.
@@ -44,7 +44,7 @@
 3. [Brugge](#l_m_brugge)
     * Rankiem wyruszamy do [Brugge](#l_m_brugge), bez przerwy, nie zatrzymując się na noc.
     * Pomimo wyczerpania, decydujemy od razu udać się do maga.
-    * Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną [karczmę](#l_ostoja) w porównaniu do tych, w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem Florianem z Vicovaro](#p_florian_z_vicovaro) nazajutrz.
+    * Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną [karczmę](#l_ostoja) w porównaniu do tych, w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem [Florianem](#p_florian_z_vicovaro) z Vicovaro](#p_florian_z_vicovaro) nazajutrz.
     * Setnie zmęczeni udajemy się pomimo wczesnej pory dnia na spoczynek. Bierzemy dwa pokoje żeby każdy mógł wyspać się w wygodnym łóżku i należycie wypocząć.
     * [Skovik](#p_skovik) ma żal do [Ilany](#g_ilana). Myślał, że druidka porzuciła ich, zostawiła na pastwę bestii i w przestrachu uciekła do miasta.
     * [Ilana](#g_ilana) poważnie deklaruje, że nigdy nie porzuciłaby swojej kompanii i mogą jej w tej kwestii zaufać. Przeprasza też za swoje zachowanie, za to, co robiła kiedy nie panowała nad sobą, a czego do końca nie pamięta. 

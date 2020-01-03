@@ -42,7 +42,7 @@
 		2. Mordekeinen - stoicka poza, łysy; "_Założyciel Akademii, Prawa Ręka [Galawaina](#p_galawain)_"
 		3. Riv'yvre - przyjazne spojrzenie, warkocz; Arkanistka
 	- [Ilana](#g_ilana) kombinuje z zielonymi kryształami które znaleźliśmy - rozlewa zawartość jednego z nich na podłogę (okazuje się, że rzeczywiście zawierały ciecz). 
-	- Kajetan dotyka cieczy małym palcem - ta prawie natychmiast wlewa się w jego ciało, a on sam czuje się odświeżony. [Druidka](#g_ilana) jest zaszokowana jego lekkomyślnością.
+	- [Kajetan](#g_kajetan) dotyka cieczy małym palcem - ta prawie natychmiast wlewa się w jego ciało, a on sam czuje się odświeżony. [Druidka](#g_ilana) jest zaszokowana jego lekkomyślnością.
 	- Przyglądamy się pracom, które zostawił za sobą [Ivryn](#p_arcydruid_ivryn). Pracował nad zaklęciem, które pozwala otworzyć portal łączący dowolne dwa drzewa w naszym świecie. [Finarrin](#p_druid_finarrin) będzie w stanie go użyć, [Ilana](#g_ilana) - może w przyszłości.
 	- Bracia Drummond za przyzwoleniem reszty wyłamują drewniane drzwi jedynego niespenetrowanego pokoju, którego nie chroni magiczny zamek.
 	- W środku znajdujemy coś bardzo niepokojącego: cień, podobny do tych spotkanych dotychczas, ale jakby bardziej... namacalny?

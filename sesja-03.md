@@ -12,7 +12,7 @@
         * ogłoszenie pochodzi od kapłanek ze świątyni Melitele - potrzebują chętnych rąk do pomocy
     * W gospodzie dowiadujemy się kilku ciekawych rzeczy, w tym co nieco o rodzie Herewardów.
     * Jesteśmy świadkami jak 4 Łowców Czarownic w ubłoconych, oblepionych szlamem butach wychodzi z [Kuropatwy](#l_kuropatwa) i po okazaniu glejtu, wchodzi dalej do miasta. Wydają się być czymś bardzo podekscytowani. 
-3. Nad ranem po nocy w Kuropatwie
+3. Nad ranem po nocy w [Kuropatwie](#l_kuropatwa)
     * Wychodząc z [Kuropatwy](#l_kuropatwa) [Ilana](#g_ilana) zauważa, że ktoś zerwał i celowo zniszczył ogłoszenie ze świątyni Melitele.
     * Wchodzimy do miasta. Strażnicy nie robią problemów na bramie.
     * Miejski krzykacz ogłasza, że jest nagroda za informacje o bandytach grasujących w okolicznym lesie.
@@ -27,7 +27,7 @@
     * Właściciel [Fiolki](#l_fiolka_zdrowia) skłonny jest odkupić od nas głowę potwora, którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](#p_otto_kranmer) jej nie zażądają.
     * Tymczasem [Ilanie](#g_ilana) udaje się wynegocjować dobrą cenę za oba ogony i krew bestii. Zamiast pieniędzy decydujemy się na handel wymienny i tak otrzymujemy 3 *"jaskółki"* - eksperymentalne eliksiry, które [Viggo](#p_viggo_regner) stworzył zainspirowany wiedźmińskimi eliksirami.
     * [Kajetan](#g_kajetan) przybija targ wymieniając uścisk dłoni z alchemikiem i prawie odskakuje jak rażony prądem. Okazuje się, że [Viggo](#p_viggo_regner) nosi na palcu obrączkę wykonaną z [*dwimerytu*](#r_dwimeryt).
-5. Różyczka
+5. [Różyczka](#l_rozyczka)
     * Wracamy do [Różyczki](#l_rozyczka) na umówione spotkanie z krasnoludami.
     * [Kranmerowie](#p_otto_kranmer) wypłacają nagrodę w postaci 40GP. Zobaczyli trofeum ale nie żądają aby je im zostawić.
 6. [Viggo Regner](#p_viggo_regner)
@@ -44,7 +44,7 @@
     * [Ilana](#g_ilana) próbuje kilku różnych sztuczek:
         * podając się za przyjaciółkę jej mamy wypytuje, kiedy ostatnio dziewczynka widziała tatę
         * chcąc sprawdzić pewną teorię, zamienia się w kota, ale dalej nie jest w stanie zobaczyć rzekomo obecnego w pokoju ojca dziewczynki
-    * Kajetan, rozmawiający na korytarzu z [Elizą](#p_eliza) w pewnym momencie dostrzega w odbiciu na szybie postać upiornego widziadła o wydłużonych palcach zakończonych szponami. 
+    * [Kajetan](#g_kajetan), rozmawiający na korytarzu z [Elizą](#p_eliza) w pewnym momencie dostrzega w odbiciu na szybie postać upiornego widziadła o wydłużonych palcach zakończonych szponami. 
     * Używając luster atakujemy [Szaraka](#b_szarak) - udaje nam się go pokonać nie krzywdząc dziecka ani matki, jednak [Ilana](#g_ilana) prawie wyciąga kopyta, bo potwór skupia niemal całą swą złość na niej.
     * [Kajetan](#g_kajetan) odmawia nagrody w postaci napierśnika po zmarłym mężu, którą oferuje nam [Eliza](#p_eliza) w podzięce za uratowanie córki. Zamiast tego prosi o naprawienie swoich ubrań w ramach zadośćuczynienia.
     * Żegnamy się z krawcową i ruszamy na spotkanie z [Viggo](#p_viggo_regner).
@@ -61,7 +61,7 @@
     * [Viggo](#p_viggo_regner) wyjawia, że miałby dla nich ciche zlecenie; **[Zadanie: Punkt Mocy pod Ellander](#z_q2)**
     * Elf i alchemik rozmawiają o tym, co zaszło kilka nocy temu i jaki to ma wpływ na obecną sytuację.
     * [Kajetan](#g_kajetan) pyta o pierścień z dwimerytu, ale [Viggo](#p_viggo_regner) pozostaje tajemniczy i nie wyjawia zbyt wiele. Mówi jednak, że woli aby nazywać go zielarzem niż alchemikiem, bo to już brzmi niebezpiecznie podobnie do czarodzieja, a tego wolałby uniknąć.
-    * Ilana dociera wreszcie na spotkanie i oboje udajemy się na spoczynek do [Różyczki](#l_rozyczka).
+    * [Ilana](#g_ilana) dociera wreszcie na spotkanie i oboje udajemy się na spoczynek do [Różyczki](#l_rozyczka).
     * Siedząc przy wieczornym piwie w [Różyczce](#l_rozyczka) jesteśmy świadkami jak ktoś uszkadza szybę ciskając w nią kamieniem. [Kajetan](#g_kajetan) zobowiązuje się pokryć straty i oddaje [Marii](#p_maria) 20GP na nową szybę. Podejżewamy, że to sprawka przegonionych murarzy, bo list z pogróżkami, którym kamień był owinięty nosi ślady murarskiej zaprawy.
     * [Ilana](#g_ilana) mimo późnej pory decyduje się niepostrzeżenie opuścić karczmę i udać się na przeszpiegi.
         * trop faktycznie prowadzi do baraków robotniczych pod uszkodzonym murem 

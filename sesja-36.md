@@ -13,7 +13,7 @@
             - jedno z przejść było ufortyfikowane przez wrogo nastawiony lud uskrzydlonych gadów, stąd przezwane "kością niezgody"
         - w dolinie we wschodniej części [lasu](#l_brokilon) znajduje się jaskinia, bogata w rudę meteorytową i kryształy, z których stworzono znane nam szkiełka
         - szkiełka odsłaniają wpływy innych światów oraz miejsca Mocy
-        - w północnej części lasu znajduje się kolejna Warownia, którą kontrolował Zakon Rycerzy Galawaina czy raczej jego następcy, "Zakon Zielonych Rycerzy"
+        - w północnej części lasu znajduje się kolejna Warownia, którą kontrolował Zakon Rycerzy [Galawaina](#p_galawain) czy raczej jego następcy, "Zakon Zielonych Rycerzy"
         - Moc można inerpretować dwojako aby nagiąć do swojej woli:
             - podąża w 8 kardynalnych kierunkach, każdy o innych właściwościach; wiążąc, splatając ze sobą cięgi Mocy, tworzy się zaklęcia i modyfikuje
             - to niepowstrzymana rzeka, która jest w stanie podmyć każde fundamenty; od dyscypliny adepta zależy ile może ukierunkować wedle woli zanim da się porwać; z takim podejściem łatwo jest wzmocnić swoje umiejętności
@@ -33,7 +33,7 @@
     - [Kajetanowi](#g_kajetan) udaje się w końcu nakłonić [Lanemina](#p_lanemin) do rozmowy:
         - pierwotny lud, przodkowie wszyskitch elfich klanów, zniszył swój swiat walcząc z inną potężną rasą, _jednorżcami_ (błąd tłumaczenia z Starszej Mowy, żart skryby, czy poważnie?)
         - drzewo na środku [Craag An](#l_craag_an) jest pomnikiem ku pamięci zmarłej królowej
-        - po zamknięciu się portali obce elfy z Craag An straciły przypływ magii; ich dzieci zaczęły rodzić się z elementami, ciałem, a nawet duszą zwierzęcia
+        - po zamknięciu się portali obce elfy z [Craag An](#l_craag_an) straciły przypływ magii; ich dzieci zaczęły rodzić się z elementami, ciałem, a nawet duszą zwierzęcia
         - Aen Drisichean musiały zabijać własne nowonarodzone dzieci, ale wkrótce choroba zaczęła objawiać się także u dorosłych
         - król [Galawain](#p_galawain) nakazał otoczyć miasto magiczną barierą żeby odciąć się od zdziczałych elfów, przezwanych "Utraconymi", które pognały w las
         - królowa twierdziła, że to nie choroba, a ewolucja, naturalna kolej rzeczy i nalegała, by nie wypędzać zezwierzęconych
