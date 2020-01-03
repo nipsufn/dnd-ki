@@ -32,6 +32,8 @@
         - po podaniu wody Brokilonu driady umieściły go w leczniczych pnączach
         - przeleżał tam prawie 3 tygodnie, choć i tak obudził się przed czasem, kiedy kuracja nie była jeszcze w pełni zakończona
         - obudził się z krzykiem, wyrywając ze sobą pnącza i strasząc obecne w pobliżu driady
+        - do pełnego powrotu do formy potrzebowałby jeszcze jednego, a najlepiej dwóch tygodni leczenia
+        - bez dalszego leczenia rana sama nie zregenruje się już raczej nigdy i wyspiarz do końca swoich dni zostanie kaleką
 3. Przygotowania do drogi 
     - Korzystamy z pozostałych nam dwóch dni aby przygotować się do podróży, skontaktować się ze zwiaśnionymi magami i doprecyzować nasz plan działania.
     - [Kajetan](#g_kajetan):
