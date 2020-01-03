@@ -10,7 +10,7 @@
     * potencjalna winowajczyni nienawiści [Radowida](#p_krol_radowid) do Mocy i magów
 * Keira Metz<a id='p_keira_metz' class='Keir*,Keir* Metz,Metz'></a> - ?, mag
     * była/jest magiem specjalizującym się w leczeniu
-* Triss Merigold<a id='p_triss_merigold' class='Triss,Triss Merigold, Merigold'></a> - ?, mag
+* Triss Merigold<a id='p_triss_merigold' class='Triss,Triss Merigold,Merigold'></a> - ?, mag
     * członek Kapituły, zajmowała się intrygami politycznymi
     * była doradczynią [Króla Foltesta](#p_krol_foltest) w Temerii
     * miała siedzibę w [Mariborze](#l_maribor)

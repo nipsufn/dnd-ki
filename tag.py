@@ -18,7 +18,7 @@ class myParser(HTMLParser):
       if 'class' not in dict(attrs).keys():
         return
       for alias in dict(attrs)['class'].split(','):
-        alias = r" ("+alias.replace(r"*", r"\w{4}")+r") "
+        alias = r" ("+alias.replace(r"*", r"\w{0,4}")+r")([ ,\.\(\)])"
         global tags
         tags.append([alias, dict(attrs)['id']])
         
@@ -29,6 +29,26 @@ whitelist = [
   ".travis.yml",
   "test.py",
   "tag.py"
+  ]
+whitelist2 = [
+  sys.argv[0][2:],
+  ".gitignore"
+  "requirements.txt",
+  ".travis.yml",
+  "test.py",
+  "tag.py",
+  "bestariusz.md",
+  "header.md",
+  "heraldyka.md",
+  "lokacje.md",
+  "ogloszenia.md",
+  "postaci-graczy.md",
+  "postaci.md",
+  "readme.md",
+  "requirements.txt",
+  "rozne.md",
+  "toc.md",
+  "zadania.md"
   ]
 
 feedback = ""
@@ -45,16 +65,19 @@ for filePath in fileList:
   with open(filePath, 'r', encoding='utf-8') as fileStream:
     tagRetreiver.feed(fileStream.read())
 
+#print (tags)
 # pass 2 - use tags to create links
 for filePath in fileList:
-  if filePath in whitelist:
+  if filePath in whitelist2:
     continue
   text = None
   with open(filePath, 'r', encoding='utf-8') as fileStream:
     text = fileStream.read()
     for pair in tags:
-      print (pair[0]+ " " + pair[1])
-      text = re.sub(pair[0], r"[\1](#"+pair[1]+")", text)
+      #print ("hello: "+pair[0]+ " " + pair[1])
+      regex = r" [\1](#"+pair[1]+")\2"
+      #print ("hello: ;;"+pair[0]+ ";; ;;" + regex)
+      text = re.sub(pair[0], regex, text)
   with open(filePath, 'w', encoding='utf-8') as fileStream:
     fileStream.write(text)
     
