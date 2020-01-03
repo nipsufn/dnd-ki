@@ -1,110 +1,111 @@
 ## Postaci
-* Cianfanelli<a id='p_cianfanelli'></a> - ?;
+* Cianfanelli<a id='p_cianfanelli' class='Cianfanelli*'></a> - ?;
     krasnolud, właściciel banków;
-* ✝ Vilgeforz<a id='p_vilgeforz'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
+* ✝ Vilgefortz<a id='p_vilgefortz' class='Vilgefortz*,Vilgefortz* z Roggeveen'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
     - miał immunitet od [Dwimerytu](#r_dwimeryt)
     - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
-* Filippa Eilhart<a id='p_filippa_eilhart'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
+* Filippa Eilhart<a id='p_filippa_eilhart' class='Filipp*,Filipp* Eilhart,Eilhart'></a> - człowiek, mag, członek [Kapituły](#r_kapitula)
     * potrafi się zamieniać w sowę, możliwe inne zwierzęta
     * oślepiona przez [Radowida](#p_krol_radowid) gdy przejął od niej władzę nad Redanią (była regentką)
     * potencjalna winowajczyni nienawiści [Radowida](#p_krol_radowid) do Mocy i magów
-* Keira Metz<a id='p_keira_metz'></a> - ?, mag
+* Keira Metz<a id='p_keira_metz' class='Keir*,Keir* Metz,Metz'></a> - ?, mag
     * była/jest magiem specjalizującym się w leczeniu
-* Triss Merigold<a id='p_triss_merigold'></a> - ?, mag
+* Triss Merigold<a id='p_triss_merigold' class='Triss,Triss Merigold, Merigold'></a> - ?, mag
     * członek Kapituły, zajmowała się intrygami politycznymi
     * była doradczynią [Króla Foltesta](#p_krol_foltest) w Temerii
     * miała siedzibę w [Mariborze](#l_maribor)
-* Greralt z Rivii<a id='p_geralt'></a> - człowiek, wiedźmin
+* Greralt z Rivii<a id='p_geralt' class='Geral*,Geral* z Rivii,Biał* Wilk*,Vadgern*'></a> - człowiek, wiedźmin
     - odczarował chłopa zamienionego w kormorana w Kerack
     - miał okazję rozmawiać z pokojowo nastawionym wilołakiem w [Wyzimie](#l_wyzima)
     - nielubiany w Aedirn (plotka głosi, że na zlecenie zabił króla Demawenda)
-* Lambert<a id='p_lambert'></a> - człowiek, wiedźmin
-* Eskel<a id='p_eskel'></a> - towarzyszy [Triss Merigold](#p_triss_merigold)
-* Myszowór<a id='p_myszowor'></a> - człowiek, druid
+* Lambert<a id='p_lambert' class='Laber*'></a> - człowiek, wiedźmin
+* Eskel<a id='p_eskel' class='Eskel*'></a> - towarzyszy [Triss Merigold](#p_triss_merigold)
+* Myszowór<a id='p_myszowor' class='Myszow*,Druid* Myszow*'></a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
     - przebywa na Skellige
-* Arcydruid Ivryn<a id='p_arcydruid_ivryn'></a> - ?, druid
+* Arcydruid Ivryn<a id='p_arcydruid_ivryn' class="Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'></a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
-* Alzur<a id='p_alzur'></a>
+    - przebywał też w [Craag An](#l_craag_an) gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
+* Alzur<a id='p_alzur' class='Alzur*'></a>
     - mag, "ojciec" Wiedźminów
 * Wędrowna Banda Skovika<a id='p_wedrowna_banda_skovika'></a>
-    * Skovik Drummond<a id='p_skovik'></a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
+    * Skovik Drummond<a id='p_skovik' class='Skovik*'></a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
         [Ivar](#p_ivar): brat
         [Leiv](#p_leiv): brat
-    * Ivar<a id='p_ivar'></a> - człowiek, lat około 20 paru, krótkie blond włosy lekko wypłowiałe od słońca, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige z klanu Drummond
+    * Ivar<a id='p_ivar' class='Ivar*'></a> - człowiek, lat około 20 paru, krótkie blond włosy lekko wypłowiałe od słońca, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige z klanu Drummond
         [Skovik](#p_skovik): brat
         [Leiv](#p_leiv): brat (bliźniak)
-    * Leiv<a id='p_leiv'></a> - człowiek, lat około 20 paru, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige z klanu Drummond
+    * Leiv<a id='p_leiv' class='Leiv*'></a> - człowiek, lat około 20 paru, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige z klanu Drummond
         [Skovik](#p_skovik): brat
         [Ivar](#p_ivar): brat (bliźniak)
-    * Ebba<a id='p_ebba'></a> - człowiek,
-        pochodzi z Zerrikani (naród wywodzący się od smoków), wraz z Chidą poszukują smoka
+    * Ebba<a id='p_ebba' class='Ebb*'></a> - człowiek,
+        pochodzi z Zerrikani (naród wywodzący się ponoć od smoków), wraz z Chidą poszukują smoka
         [Chida](#p_chida): siostra
-    * Chida<a id='p_chida'></a> - człowiek,
+    * Chida<a id='p_chida'  class='Chid*'></a> - człowiek,
         pochodzi z Zerrikani
         [Ebba](#p_ebba): siostra
-    * Yarii<a id='p_yarii'></a> - człowiek z Aedirn, dezerter;
+    * Yarii<a id='p_yarii' class='Yarii*'></a> - człowiek z Aedirn, dezerter;
         ma tatuaż z symbolem Aedirn na ramieniu
-    * Varn<a id='p_varn'></a> - człowiek z Aedirn, dezerter;
+    * Varn<a id='p_varn' class='Varn*'></a> - człowiek z Aedirn, dezerter;
         razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
 * [Aedirn](#l_aedirn)
-    * ✝ Król Demawend<a id='p_krol_demawend'></a> - ; król, zabity przez Nilfgaardczyków
-    * Stennis<a id='p_stennis'></a> - ; książę
+    * ✝ Król Demawend<a id='p_krol_demawend' class='Król* Demawend*,Demawend*'></a> - ; król, zabity przez Nilfgaardczyków
+    * Stennis<a id='p_stennis' class='Ksi* Stennis*,Stennis*'></a> - ; książę
         [Demawend](#p_krol_demawend): ojciec
 * [Brokilon](#l_brokilon)
-    * Cedrik<a id="p_cedrik"></a> - elf; druid
+    * Cedrik<a id='p_cedrik' class='Cedrik*'></a> - elf; druid
         Mentor [Mirny](#p_mirna)
-    * Doreein<a id='p_doreein'></a> - elf; druid, potrafi zmieniać się w zwierzę,
+    * Doreein<a id='p_doreein' class='Doreein*'></a> - elf; druid, potrafi zmieniać się w zwierzę,
         Podczas dwuksiężycowej nocy zamieniła się w aligatora
-    * Eithne<a id='p_eithne'></a> - driada; driada
+    * Eithne<a id='p_eithne' class='Eithne,Królow* Brokilonu,Królow* lasu'></a> - driada;
         Do dwuksiężycowej nocy władała lasem [Brokilon](#l_brokilon) i Driadami; w śpiączce
-    * Enid<a id="p_enid"></a> - człowiek z domieszką krwi elfów (półelfka lub <a title="⁵/₇">kwateronka</a>); druidka
+    * Enid<a id='p_enid' class='Enid'></a> - człowiek z domieszką krwi elfów (półelfka lub <a title="⁵/₇">kwateronka</a>); druidka
         partnerka [Finarrina](#p_druid_finarrin);
         podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
-    * Druid Finarrin<a id='p_druid_finarrin'></a> - ; druid
+    * Druid Finarrin<a id='p_druid_finarrin' class='Finarrin*,Hierofan*,Druid* Finarrin*'></a> - ; druid
         [Hierofanta](https://en.wikipedia.org/wiki/Heffalump) [Brokilońskiego](#l_brokilon) kręgu druidzkiego
         Uczył [Ilanę](#ilana)
-    * Gebo<a id="p_gebo"></a> - niedźwiadek;
+    * Gebo<a id='p_gebo' class='Geb*'></a> - niedźwiadek;
         uratowany przez [Ilanę](#g_ilana) i [Finarrina](#p_druid_finarrin) w czasie wędrówki do [Craag An](#l_craag_an)
-    * Juniper<a id='p_juniper'></a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
-    * Mirna<a id='p_mirna'></a> - człowiek; druid
+    * Juniper<a id='p_juniper' class='Juniper'></a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
+    * Mirna<a id='p_mirna' class='Mirn*'></a> - człowiek; druid
         * przyjaciółka [Ilany](#g_ilana)
-    * Sariel<a id="p_sariel"></a> - elf;
+    * Sariel<a id="p_sariel" class='Sariel*,Flamin* Sariel*,Flamin*'></a> - elf;
         Flaminka, poprzedniczka [Finarrina](#p_druid_finarrin)
-    * Yaevinn<a id='p_yaevinn'></a> - elf;
+    * Yaevinn<a id='p_yaevinn' class='Yaevinn*'></a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
-    * ✝ Zeff<a id='p_zeff'></a>
+    * ✝ Zeff<a id='p_zeff' class='Zeff*'></a>
         - Jeden z młodszych druidów kręgu [Brokilońskiego](#l_brokilon)
         - zginął/zachorował na plagę/został wykorzystany do eksperymentów próbując pogodzić Driady z mieszkańcami [Brugge](#l_brugge)
         - zawinił [Ilanie](#g_ilana), potężnie
         - umarł na [Ciałognilec](#r_flesh_rot) w lochach szpitala w [Brugge](#l_brugge)
-    * Aglais<a id='p_aglais'></a> - driada;
+    * Aglais<a id='p_aglais' class='Aglais'></a> - driada;
         - opiekunka [Col Serrai](#l_col_serrai)
         - driada "czystej" krwi
         - ma ponad 200 lat, jednak nie widać tego po niej - ma zaledwie nieco ostrzejsze rysy twarzy i jaśniejsze włosy
     * [Aen Eldrin](#r_aen_eldrin)
-        * Tytania "Królowa Słońca"<a id='p_tytania'></a> - elf; 
+        * Tytania "Królowa Słońca"<a id='p_tytania' class='Tytani*'></a> - elf; 
             Włada ("doradza") Driadami w czasie niemocy [Eithne](#p_eithne) wraz z pozostałymi trzema [Aen Eldrin](#r_aen_eldrin)
-        * Verenestra "Księżna Dębu"<a id='p_verenestra'></a>
+        * Verenestra "Księżna Dębu"<a id='p_verenestra' class='Verenestr*'></a>
             Jedna z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
-        * Oberon "Zielony Lord", "Książęcy Bard"<a id='p_oberon'></a>
+        * Oberon "Zielony Lord", "Książęcy Bard"<a id='p_oberon' class='Oberon*'></a>
             Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
-        * Auril "Pan Lodowego Ogrodu"<a id='p_auril'></a>
+        * Auril "Pan Lodowego Ogrodu"<a id='p_auril' class='Auril*'></a>
             * Jeden z 4 [Aen Eldrin](#r_aen_eldrin) zaproszonych do [Brokilonu](#l_brokilon)
             * Jego filozofia to "nie strać tego co już masz, a swoje potrzeby traktuj priorytetowo"
-        * Formorian<a id='p_formorian'></a>
+        * Formorian<a id='p_formorian' class='Formorian*'></a>
             * Wypaczony [Aen Eldrin](#r_aen_eldrin), przybył do naszego świata przez ten sam portal przez który pojawiła się "zaproszona" czwórka
     * Postaci legendarne
-        * Królowa Cierni<a id="p_krolowa_cierni"></a> - elfka;
+        * Królowa Cierni<a id="p_krolowa_cierni" class='Królow* Cierni'></a> - elfka;
             prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?);
             obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
-        * Galawain<a id="p_galawain"></a> - duch lasu,
+        * Galawain<a id="p_galawain" class='Galawain*'></a> - duch lasu,
             [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w Medownej
 * [Craag An](#l_craag_an)
-    * Lanemin Anef Aep<a id="p_lanemin"></a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
+    * Lanemin Anef Aep<a id="p_lanemin" class='Lanemin*></a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
-        * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i'></a> - ; król [Brugge](#l_brugge)
+        * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i' class='Król* Wenzlaw* I,Wenzlaw*'></a> - ; król [Brugge](#l_brugge)
             Przychylny Driadom
         * Król Wenzlaw II<a id='p_krol_wenzlaw_ii'></a> - ; król [Brugge](#l_brugge)
             Podpisał umowy z Nilfgaarderm
