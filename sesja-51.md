@@ -10,8 +10,8 @@
     - [Druidka](#g_ilana) zdradza, że [Leiv](#p_leiv) ma się dobrze, oraz że nie jesteśmy mile widziani na obszarze większym niż wyspiarz (listy gończe w [Nilfgaardzie](#l_nilfgaard), naciski [Redańskich](#l_redania) sił specjalnych na północy).
     - [Ilana](#g_ilana) nie kryje, że nie pochwala reprodukcyjnych praktyk driad, szczególnie ze względu na młody wiek niektórych z nich. Odczuwa widoczną ulgę na wieść, że [Skovik](#p_skovik) nie skorzystał z ich "propozycji".
     - W tym czasie [Kajetan](#g_kajetan) zagaja [Finarrina](#p_druid_finarrin) . Druid zgadza się, że negocjacje między magami to najlepsze wyjście w chwili obecnej.
-    - Wydaje się, że [druid](#p_druid_finarrin) nie jest zaskoczony tym, że [Ilana](#g_ilana) zaoferowała jego pomoc oraz jego dom jako neutralne terytorium, co najwyżej trochę zrezygnowany, ale nie mniej - gotowy pomóc.
-    - Wróciwszy ze spcaceru do rozmowy dołącza [Ilana](#g_ilana). Zamiast sterczeć wskakujemy do jednej z niecek. 
+    - [Druid](#p_druid_finarrin) zdaje się nie być zaskoczony tym, że [Ilana](#g_ilana) zaoferowała jego pomoc oraz jego dom jako neutralne terytorium, co najwyżej trochę zrezygnowany, ale nie mniej - gotowy pomóc.
+    - Wróciwszy ze spaceru do rozmowy dołącza [Ilana](#g_ilana). Zamiast biadolić jak grupka starców na ławce, wskakujemy do jednej z niecek. 
     - [Skovik](#p_skovik), nie czując się dobrze w planowaniu, postanawia oprawić upolowanego koziołka.
     - Prowadzenie rozmów w [Imbaelk](#r_imbaelk) ma swoje dobre i złe strony - generalnie zaklęcia będzie łatwiej rzucać, co będzie pomocne by zapewnić wygody, jednak jeśli doszłoby do bitwy magów - będzie ona bardziej "widowiskowa".
     - [Hierofanta](#p_druid_finarrin) otrzymał w nagrodę za pomoc lasowi kryształ wypełniony wodą driad z kroplą krwi samej [królowej](#p_eithne). Zaczynał już się zastanawiać jak wykorzystać ten dar by pomóc w negocjacjach, pomimo że ma własne plany co do niego (dowiedzieć się więcej o przeszłości [przybranej córki](#g_ilana)), jednak stanowczo wybijamy mu ten pomysł z głowy. To jego nagroda, której nie powinien marnować by pogodzić duże dzieci jakimi są skłóceni magowie.
@@ -36,7 +36,7 @@
     - Korzystamy z pozostałych nam dwóch dni aby przygotować się do podróży, skontaktować się ze zwiaśnionymi magami i doprecyzować nasz plan działania.
     - [Kajetan](#g_kajetan):
         - komunikuje się z czarodziejami przed wejściem do kotliny, stosując jako-takie środki ostrożności aby nie zdradzić lokacji driadzkiego uzdrowiska
-        - ustala, że obaj magowie przybędą do [Medownej](#l_medowna) na noc przed [Imbaelk](#r_imbaelk) - [Lars](#p_lars) w naszej obstawie, a [Florian](p_florian_z_vicovaro) teleportuje się bezpośrednio kiedy my będziemy już na miejscu
+        - ustala, że obaj magowie znajdą się w [Wiosce](#l_medowna) w święto [Imbaelk](#r_imbaelk) - [Lars](#p_lars) prszybędzie w naszej obstawie, a [Florian](p_florian_z_vicovaro) teleportuje się bezpośrednio kiedy my będziemy już na miejscu
         - dowiaduje się że [Leiv](#p_leiv) jest na statku; afera Brokilońska spowodowała spory sztorm, ale i statek, i on mają się w porządku
         - zwiedza jaskinie otaczające kotlinę, w których, jak okazuje się, mieszkają driady
         - odkrywa, że w paśmie górskim stały niegdyś dwie wieże [Aen Drisichean](#r_aen_drisichean); ich głębokimi fundamentami można dostać się do podziemnego jeziora
