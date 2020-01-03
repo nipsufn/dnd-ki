@@ -43,7 +43,7 @@
     * Kerack<a id='l_kerack'></a>
 * Cintra<a id='l_cintra'></a>
 * Ellander<a id='l_ellander'></a>
-    - Lenno [Temerii](#l_temeria), a więc i [Redianii](#l_redania)
+    - Lenno [Temerii](#l_temeria), a więc i [Redanii](#l_redania)
     * Ellander<a id='l_m_ellander'></a>
         * Karczmy
             * Kuropatwa<a id='l_kuropatwa'></a> - smacznie ale drogo
@@ -102,6 +102,7 @@
 * Toussaint<a id='l_toussaint'></a>
     * Beauclair<a id='l_beauclair'></a>
         - robią tu jedno z najlepszych win
+        - podobno tu wyprowadził się bimbrownik od nalewki z mandragory
 * Wyspy Skellige<a id='l_wyspy_skellige'></a>
     * Ard Skellig<a id='l_ard_skellig'></a>
         * największa wyspa na Skellige

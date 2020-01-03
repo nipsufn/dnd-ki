@@ -117,8 +117,6 @@
         * Regis<a id='p_zielarz'></a><a id='p_regis'></a> - ?; zielarz;
             Destylował nalewkę z Mandragory
             Nie pojawił się w [Carreras](#l_carreras) od kilku lat
-        * Beaucler<a id='p_beaucler'></a> -?;
-            może wiedzieć coś o losach [Regisa](#p_regis)
     * [Brychna](#l_brychna)
         * Rund<a id='p_rund'></a> - ; rybak;
             z rodziną; żona i dwójka dzieci
@@ -201,9 +199,9 @@
     * ✝? Król Henselt<a id='p_krol_henselt'></a>
 * [Nilfgaard](#l_nilfgaard)
     * ✝ Emhyr<a id='p_emhyr'></a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
-* [Rediania](#l_redania)
-    * Król Radowid<a id='p_krol_radowid'></a> - ; król [Redianii](#l_redania)
-    * Dijkstra<a id='p_dijkstra'></a> - ; szef redańskiego wywiadu, obecnie hrabia [Redianii](#l_redania) na [Temerię](#l_temeria)
+* [Redania](#l_redania)
+    * Król Radowid<a id='p_krol_radowid'></a> - ; król [Redanii](#l_redania)
+    * Dijkstra<a id='p_dijkstra'></a> - ; szef redańskiego wywiadu, obecnie hrabia [Redanii](#l_redania) na [Temerię](#l_temeria)
         przez jakiś czas rządził [Novigradem](#l_novigrad)
         rządzi w [Wyzimie](#l_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#l_temeria)
         zakładał obozy pracy dla Scoia'tael
