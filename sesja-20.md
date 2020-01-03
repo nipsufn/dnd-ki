@@ -28,7 +28,7 @@
         * część druidów przemieniła się w dzikie zwierzęta i zaatakowała resztę
         * serdeczna przyjaciółka (partnerka) [Finarrina](#p_druid_finarrin), [Enid](#p_enid), zmieniła się w szopa pracza - w ciągu ostatnich kilku dni, buszując po spiżarni [Finarrina](#p_druid_finarrin) została kilkukrotnie przepędzona miotłą/butem przez nieświadomą [Ilanę](#g_ilana)
     * Razem z [Kajetanem](#g_kajetan) przygotowują śniadanie, na które schodzi się też reszta.
-    * [Kajetan](#g_kajetan) dowiaduje się, że nalewkę z mandragory pędził niejaki [Pan Regis](#p_regis) z [Dillingen](#l_dillingen). Pan [Beaucler](#p_beaucler) z [Dillingen](#l_dillingen) może wiedzieć więcej.
+    * [Kajetan](#g_kajetan) dowiaduje się, że nalewkę z mandragory pędził niejaki [Pan Regis](#p_regis) z [Dillingen](#l_dillingen). Niestety, jakiś czas temu wyprowadził się ze swoją kobietą, zdaje się do [Beauclair](#l_beauclair).
     * Brokoloński Krąg Druidów powstał w czasach gdy lokalne elfy i ludzie zawarli rozejm, ich zadaniem jest utrzymać status quo.
     * [Bizoktor](#b_bizoktor), zwany "Leszym" (wg [Kajetana](#g_kajetan) "Leszkiem"), broni lasu na podstawie paktu zawieranego przez [Hierofanta](#p_druid_finarrin) Druidów.
     * [Hierofant](#p_druid_finarrin) wyznacza też swojego następce, który będzie dalej podtrzymywał pakt.

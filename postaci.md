@@ -118,8 +118,6 @@
         * Regis<a id='p_zielarz'></a><a id='p_regis' class='Regis*'></a> - ?; zielarz;
             Destylował nalewkę z Mandragory
             Nie pojawił się w [Carreras](#l_carreras) od kilku lat
-        * Beaucler<a id='p_beaucler' class='Beaucler*'></a> -?;
-            może wiedzieć coś o losach [Regisa](#p_regis)
     * [Brychna](#l_brychna)
         * Rund<a id='p_rund' class='Rund*'></a> - ; rybak;
             z rodziną; żona i dwójka dzieci
@@ -205,7 +203,7 @@
 * [Redania](#l_redania)
     * Król Radowid<a id='p_krol_radowid' class='Król* Radowid*,Radowid*'></a> - ; król [Redianii](#l_redania)
     * Dijkstra<a id='p_dijkstra' class='Dijkstr*'></a> - ; szef redańskiego wywiadu, obecnie hrabia [Redanii](#l_redania) na [Temerię](#l_temeria)
-        przez jakiś czasądził [Novigradem](#l_novigrad)
+        przez jakiś czas rządził [Novigradem](#l_novigrad)
         rządzi w [Wyzimie](#l_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#l_temeria)
         zakładał obozy pracy dla Scoia'tael
     * ✝ Menge<a id='p_menge' class='Menge*'></a> - ; przywódca zakonu Łowców

@@ -62,7 +62,7 @@
     - Przed odejściem, na prośbę [Ilany](#g_ilana), [Kajetan](#g_kajetan) pyta [Aglais](#p_aglais), czy może za pośrednictwem Mocy pytać co dnia o stan [Skovika](#p_skovik), który nie powinien budzić się kolejny raz całkowicie zarośnięty w otoczeniu driad - towarzystwo [druidki](#g_ilana) powinno go uspokoić. [Aglais](#p_aglais) prosi o dziecko maga w zamian za małą, zdawało by się, przysługę. [Elf](#g_kajetan) obiecuje rozważyć taką możliwość, co zdaje się na czas obecny zadowalać driadę.
 4. Do [Medownej](#l_medowna) czas
     - Docieramy do [Medownej](#l_medowna) wczesnym rankiem, jeszcze przed świtem. 
-    - [Vicovarro](#p_florian_z_vicovaro) już tam jest, w bąbelku podobnym do tego, który zwykle konstruuje [Kajetan](#g_kajetan).
+    - [Vicovaro](#p_florian_z_vicovaro) już tam jest, w bąbelku podobnym do tego, który zwykle konstruuje [Kajetan](#g_kajetan).
     - Wymieniamy z nim grzeczności, zaciskając zęby by nie wszczynać kłótni, gdy padają oparte na niedomówieniach kłamstwa. 
     - Mag bawi się pierścionkiem podobym do tego, który stracił w ostaniej potyczce. Błyskotka ma czarny kamień, którego brakowało w poprzednim egzemplarzu.
     - Uzgadniamy, że [Vicovaro](#p_florian_z_vicovaro) będzie, podobnie jak [Lars](#p_lars), towarzyszył nam do [Medownej](#l_medowna).

@@ -102,6 +102,7 @@
 * Toussaint<a id='l_toussaint' class='Toussaint'></a>
     * Beauclair<a id='l_beauclair' class='Beauclair'></a>
         - robią tu jedno z najlepszych win
+        - podobno tu wyprowadził się bimbrownik od nalewki z mandragory
 * Wyspy Skellige<a id='l_wyspy_skellige' class='Wysp* Skellige'></a>
     * Ard Skellig<a id='l_ard_skellig' class='Ard Skellig'></a>
         * największa wyspa na Skellige
