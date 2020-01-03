@@ -5,7 +5,7 @@
     - Po chwili widzimy samo źródło zamieszania - cokolwiek się wydarzyło w [lesie](#l_brokilon), sprowadziło nad miasto dwie walczące bestie: kuroliszka i gryfa, teraz splecione w morderczej walce.
     - Decydujemy się natychmiast opuścić miasto - liczymy, że zamieszanie ułatwi nam cichą przeprawę przez bramy, za miejskie mury.
     - Posiłkując się naszymi niecodziennymi umiejętnościami przechodzimy przez zamykane właśnie bramy.
-    - Rozglądamy się za karczmą, w której moglibyśmy zatrzymać się na noc i rano ruszyć do Medownej. Jeden z chłopów poleca nam takowy przybytek.
+    - Rozglądamy się za karczmą, w której moglibyśmy zatrzymać się na noc i rano ruszyć do [Medownej](#l_medowna). Jeden z chłopów poleca nam takowy przybytek.
     - W drodze do karczmy mijamy dziwnego stwora buszującego w śmieciach - skrzyżowanie lisa i kruka. Wygląda na to, że po okolicy szwenda się więcej niecodziennych istot.
 2. Za murami
     - Zatrzymujemy się w gospodzie "u Haliny" na podgrodziu aby zebrać siły na dalszą podróż. Oprócz nas w gospodzie przesiaduje wielu miejscowych, a także rżnąca w kości dwójka krasnoludów i dziwny typ śmiejący się sam do siebie. [Ilana](#g_ilana) zauważa, że mężczyzna co chwila rozkłada karty na stole, analizuje je, po czym tasuje i ponawia całą czynność.
@@ -14,9 +14,9 @@
     - [Druidka](#g_ilana) nalega aby skontaktować się z [tym leserem, Larsem](#p_lars) - zapraszamy go do [Medownej](#l_medowna), pytając o naszą zapłatę oraz zachęcając planem dalszego działania. Prosimy też aby wziął ze sobą racje żywności, których druidce udało się zakupić w gospodzie tylko kilka.
     - [Ilana](#g_ilana) chce nakłonić magów ([Larsa](#p_lars) i [Vicovarro](#p_florian_z_vicovaro)) do współpracy, jako że obaj chcą, co prawda z różnych pobudek, pozbyć się zarazy z [Verden](#l_verden). 
     - [Elf](#g_kajetan), znający typowe zachowania czarodziejów, szczerze wątpi aby taki plan miał szanse powodzenia, jednak nie mając nic do stracenia, zgadza się.
-    - Od [Larsa](#p_lars) dowiadujemy się w zamian, że granice są niebezpieczne, szczególnie powinniśmy unikać okolicy [Mayeny](#l_mayena) (granica z Temerią, obecnie Redanią).
+    - Od [Larsa](#p_lars) dowiadujemy się w zamian, że granice są niebezpieczne, szczególnie powinniśmy unikać okolicy [Mayeny](#l_mayena) (granica z [Temerią](#l_temeria), obecnie [Redanią](#l_redania)).
     - Pomimo usilnych starań [Ilany](#g_ilana) nie udaje nam się odkupić od nikogo choćby jednego konia, ktróy znacząco przyspieszyłby naszą podróż.
-    - Decydujemy się wyruszyć jeszcze tego samego dnia późnym popołudniem aby czym prędzej znaleźć się w Medownej.
+    - Decydujemy się wyruszyć jeszcze tego samego dnia późnym popołudniem aby czym prędzej znaleźć się w [Medownej](#l_medowna).
 3. W szczerym polu w drodze do [Medownej](#l_medowna)
     - Będąc już na polach [Ilana](#g_ilana) próbuje znaleźć jakiegoś ptasiego posłańca, ale wszystkie ptaki siedzą wystraszone na drzewach i ani myślą lecieć gdziekolwiek. Mówią też druidce, że dziwne, wściekłe kury biegają po polach.
     - O zmierzchu, gdy rozglądamy się już za miejscem na obóz, słyszymy gdakanie w chaszczach na polu. [Kajetan](#g_kajetan), niewiele myśląc, zaczyna także gdakać[<sup>1</sup>](#ad1), w skutek czego nagle atakują nas małe [kuroliszki](#b_kuroliszek). Udaje się nam je odeprzeć, choć [Ilanie](#g_ilana) trochę się obrywa - dziewczyna zostaje chwilowo sparaliżowana.

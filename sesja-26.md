@@ -30,8 +30,8 @@
     * W środku panuje półmrok. Na łóżku leży trochę porozrzucanych ubrań. Na trójnogu za biurkiem stoi tarcza strzelnicza z przybitymi kawałkami pergaminu, a na nich imiona: Madame Karoll, Faolitarna, Rayla, [Yaewin](#p_yaevinn).
     * [Ilana](#g_ilana), nie mitrężąc, wrzuca w prześcieradło co bardziej użyteczne rzeczy:
         * ubrania
-        * deskę ze strunami okazującą się być gusli - instrumentem popularnym w Kaedwen
-        * dwie metalowe odznaki: jedną z symbolem Aedirn i jedną nieco inną, ale w identycznej kolorystyce (róża wiatrów, kolory kręgów od zewnątrz: czarny, żółty, czerwony)
+        * deskę ze strunami okazującą się być gusli - instrumentem popularnym w [Kaedwen](#l_kaedwen)
+        * dwie metalowe odznaki: jedną z symbolem [Aedirn](#l_aedirn) i jedną nieco inną, ale w identycznej kolorystyce (róża wiatrów, kolory kręgów od zewnątrz: czarny, żółty, czerwony)
     * Montuje pakunek na odnalezionym pod sufitem kiju - ulubionej broni [Enid](#p_enid). Po namyśle zabiera także samą tarczę, jednak bez przybitych do niej zwitków.
     * Oddalając się w las [Ilana](#g_ilana) próbuje przyjrzeć się motylowi, który uczepił się jej rękawa. Motyl okazuje się mieć w rzeczywistości niezwykle mikroskopijną, humanoidalną formę i jedynie motyle skrzydełka. Po chwili ucieka spłoszony nie wiadomo czym.
     * [Ilana](#g_ilana), słysząc w oddali przekleństwa [Kajetana](#g_kajetan), podąża w tamtym kierunku. Wspólnie wracamy do wioski na kolację.

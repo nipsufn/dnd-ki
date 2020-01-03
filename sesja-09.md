@@ -2,7 +2,7 @@
 1. [Różyczka](#l_rozyczka)
     * [Grupa Skovika](#p_wedrowna_banda_skovika) podróżowała z [Dorian](#l_dorian) do [Wyzimy](#l_wyzima), potem do [Ellander](#l_m_ellander), gdzie eskortowali wóz z ptakami (kruki).
     * Dowiadujemy się, że [Emhyr](#p_emhyr), cesarz [Nilfgaardu](#l_nilfgaard) został zabity przez szlachtę po trzecim najeździe na północ - najazdy nie przynosiły konkretnych korzyści dla ich kraju.
-    * W [Aedirn](#l_aedirn) rządzi rada lokalnych szlachciców (którzy zabili [Demawenda](#p_krol_demawend)) na rzecz Nilfgaardu.
+    * W [Aedirn](#l_aedirn) rządzi rada lokalnych szlachciców (którzy zabili [Demawenda](#p_krol_demawend)) na rzecz [Nilfgaardu](#l_nilfgaard).
 2. Polowanie na szczura - podejście drugie
     * [Ilana](#g_ilana) wpada na pomysł jak znaleźć szczura dla [Viggo](#p_viggo_regner) i to bez potrzeby tułania się po kanałach.
     * Przy użyciu magii druidka lokalizuje duże skupisko szczurów bezpośrednio na powierzchni miasta. 
@@ -29,11 +29,11 @@
     * [Ilana](#g_ilana) zauważa że [Eliza](#p_eliza) pali raczka sprzedając ubrania na zimę [Kajetanowi](#g_kajetan) (czyżby coś miało być na rzeczy?).
 4. [Różyczka](#l_rozyczka)
     * Zachodząc do karczmy na nocleg, trafiamy na obu [Aedirnczyków](#p_yarii) zajętych dyskusją i piciem piwa.
-    * Dosiadamy się do nich i Kajetan nawiązuje dyskusję, pytając [Yariiego](#p_yarii) o tatuaż na jego ramieniu. Mężczyzna opowiada, że jest to symbol Aedirn (patriota i dezerter?).
-    * W niedługim czasie do Różyczki wchodzą [Zerrikanki](#p_chida), wyraźnie lekko poturbowane. [Ilana](#g_ilana) dowiaduje się od nich, że jacyś miejscy chłystkowie próbowali je zaatakować z powodu koloru ich skóry.
+    * Dosiadamy się do nich i [Kajetan](#g_kajetan) nawiązuje dyskusję, pytając [Yariiego](#p_yarii) o tatuaż na jego ramieniu. Mężczyzna opowiada, że jest to symbol [Aedirn](#l_aedirn) (patriota i dezerter?).
+    * W niedługim czasie do [Różyczki](#l_rozyczka) wchodzą [Zerrikanki](#p_chida), wyraźnie lekko poturbowane. [Ilana](#g_ilana) dowiaduje się od nich, że jacyś miejscy chłystkowie próbowali je zaatakować z powodu koloru ich skóry.
     * Po chwili rozmowy [Ebba](#p_ebba) i [Chida](#p_chida) przesiadają się do osobnego stolika, a do grupy dołącza [Skovik](#p_skovik) z braćmi.
-    * Kajetan gra z [Yariim](#p_yarii) w szachy, a Ilana wciąga się w grę w karty ze [Skovikiem](#p_skovik); stawką jest szczera odpowiedź na zadane pytanie.
-    * [Ilanie](#g_ilana) nie idzie zbyt dobrze, w efekcie czego jest winna Skovikowi nie tylko sporo faktów, o które pyta, ale też kieł niedźwiedzia do jego naszyjnika. [Kajetanowi](#g_kajetan) za to udaje się, po przegranej w szachy, wygrać w karty ze Skovikiem i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#l_wyspy_skellige).
+    * [Kajetan](#g_kajetan) gra z [Yariim](#p_yarii) w szachy, a [Ilana](#g_ilana) wciąga się w grę w karty ze [Skovikiem](#p_skovik); stawką jest szczera odpowiedź na zadane pytanie.
+    * [Ilanie](#g_ilana) nie idzie zbyt dobrze, w efekcie czego jest winna [Skovikowi](#p_skovik) nie tylko sporo faktów, o które pyta, ale też kieł niedźwiedzia do jego naszyjnika. [Kajetanowi](#g_kajetan) za to udaje się, po przegranej w szachy, wygrać w karty ze [Skovikiem](#p_skovik) i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#l_wyspy_skellige).
         * na wyspach jest 7 klanów
         * [Skovik](#p_skovik) z braćmi należą do klanu Drummond
         * jarlem na Skellige została kobieta z klanu An Craite, [Cerys](#p_cerys)

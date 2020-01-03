@@ -16,7 +16,7 @@
     * Wszyscy czujemy niepokój, ale [Ivar](#p_ivar) zdaje się odbierać mgłę najmocniej, jakby jego nowe "ja" pozwalało mu widzieć rzeczy niewidzialne dla ludzkiego oka.
     * Z nadejściem nocy [Kajetan](#g_kajetan) wyczarowuje bezpieczny bąbel, abyśmy mogli spokojnie przenocować. Po zmroku zauważamy, że zostaliśmy otoczeni przez dziwne istoty - karalucho-ludzi o ciałach robaków i lekko humanoidalnych głowach. Paskudy zdają się bać światła, nie przypuszczają na nas bezpośredniego ataku.
     * [Kajetana](#g_kajetan) wyrywają ze snu koszmary spowodowane odgłosami wydawanymi przez dziwaczne owady, trochę na wzór cykad. [Skovik](#p_skovik) też lekko się miota przez sen, ale finalnie udaje nam się odpocząć do rana bez większych przeszkód.
-3. Drugi dzień drogi do Craag An
+3. Drugi dzień drogi do [Craag An](#l_craag_an)
     * Melodia fletu kieruje nas w kierunku północy. Po kilku kilometrach natykamy się na imitację totemu:
         * znaleziona miniaturowa wersja jest, podobnie jak totemy [Protektora](#b_bizoktor), zrobiona z kości
         * przedstawia wieżę, a na jej szczycie kobietę siedzącą na tronie
@@ -42,7 +42,7 @@
     * Opieka nad zwierzęciem zostaje podzielona między [Ilanę](#g_ilana), a [Skovika](#p_skovik). Druidka korzysta z każdej nadażającej się sposobności żeby nawiązać kontakt ze zwierzęciem i zbudować więź porozumienia.
     * Powoli wkraczamy w jedną ze starszych części lasu. Przesłankami do takiego stwierdzenia są wyraźnie sędziwe, strzeliste i bardzo wysokie drzewa gęsto porastające teren dookoła.
     * Słońce chyli się już ku zachodowi, kiedy znajdujemy pozornie dobre miejsce na nocleg na sporym, o dziwo obrobionym kamieniu. Na szczęście noc mija bez dodatkowych przygód.
-4. Trzeci dzień wędrówki do Craag An
+4. Trzeci dzień wędrówki do [Craag An](#l_craag_an)
     * Nad ranem, po krótkich oględzinach kamienia dochodzimy do wniosku, że nocowaliśmy na ścianie jakiejś dawnej budowli. Konstrukcja ta była najprawdopodobniej wieżą.
     * Z miejsca, w którym się znajdujemy widać wyróżniający się dość długi, ciągnący się na kilka kilometrów pas młodych drzew.
     * Odbywszy krótki spacer wzdłuż młodnika, [Kajetan](#g_kajetan) dochodzi do następujących odkryć:

@@ -29,7 +29,7 @@
     * Przed rynkiem doprowadzamy się do względnego porządku. [Leiv](#p_leiv) decyduje się zostać w mieście, nam udaje się przekonać strażników bramy aby nas wypuścili.
 2. W drodze
     * Obchodzimy miasto od północy w promieniu kilku kilometrów, jako że wyszliśmy południowo-wschodnią bramą, a droga nam na północny zachód.
-    * Widzimy jak [D'jinni](#b_djinni) podpala znaczną część miasta, po czym jakaś latająca postać, zdaje się nam [Magister Florian z Vicovaro](#p_florian_z_vicovaro), pokonuje go i sprowadza nad miasto śnieżycę aby opanować pożar.
+    * Widzimy jak [D'jinni](#b_djinni) podpala znaczną część miasta, po czym jakaś latająca postać, zdaje się nam [Magister [Florian](#p_florian_z_vicovaro) z Vicovaro](#p_florian_z_vicovaro), pokonuje go i sprowadza nad miasto śnieżycę aby opanować pożar.
     * W biegu [Ilana](#g_ilana) zauważa, że coś frunie po niebie naszym śladem, mimo szalejącej śnieżycy. Kształt ten wygląda jak szara sowa ([Filippa Eilhart](#p_filippa_eilhart)?), ale finalnie nas nie dogania, bo znajdujemy kryjówkę.
     * Po drodze rozmawiamy o istotach mieszkających w [Brokilonie](#l_brokilon):
         * wilki

@@ -17,7 +17,7 @@
         * wieś na południe od miasta którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycowa Noc
         * Łowcy skupiają się teraz na **Potworach**, nie **Czarownicach** i stąd też przemianowali się na *Łowców Potworów*
         * w mieście znaleziono i spalono kryjówkę leśnych zbójów ( czyżby wrogiej kontrabandy Temerskiej?) - odkryto też tunel prowadzący z kryjówki do jaskini w lesie
-    * Kajetan prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini, co nie udaje się całkowicie.
+    * [Kajetan](#g_kajetan) prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini, co nie udaje się całkowicie.
 2. Rynek
     * Wychodząc od [Vigga](#p_viggo_regner), zauważamy poruszenie wśród miejskiej gawiedzi. Są podekscytowani i tłoczą się w stronę rynku.
     * Zagadniony przechodzień mówi, że na rynku będzie publiczna egzekucja, więc podążamy w tamtą stronę, trzymając się jednak lekko z tyłu.
@@ -37,13 +37,13 @@
     * Po wyjściu od [Elizy](#p_eliza) i przejściu kilku uliczek, drogę z obu stron uliczki odcina nam grupka około 8-9 chłopa. 
     * Nie widząc innej możliwości rzucamy się do ucieczki w ślepy zaułek. [Ilana](#g_ilana) zmienia się w kota i wspina na dach, a [Kajetan](#g_kajetan) biegnie ile sił w nogach przeskakując wszystkie przeszkody na drodze.
     * Elf dobiega do podwórka, na którym bawi się grupka dzieci. Rzuca im kilka monet i prosi, żeby zmyliły pościg dając w długą w stronę gwarnej ulicy.
-    * Udaje nam się umknąć, ale [Ilana](#g_ilana) rozpoznaje napastników - jeden z nich był w Różyczce wśród chamskich murarzy, których pogonił [Kajetan](#g_kajetan).
+    * Udaje nam się umknąć, ale [Ilana](#g_ilana) rozpoznaje napastników - jeden z nich był w [Różyczce](#l_rozyczka) wśród chamskich murarzy, których pogonił [Kajetan](#g_kajetan).
     * Korzystając z obecności ludzi, próbujemy wmieszać się w tłok i kierujemy się do [Różyczki](#l_rozyczka).
     * Po drodze zauważamy szczury - wielkie i agresywne, zdają się atakować wszystko, co jest ich rozmiarów lub mniejsze. Lub to, co znajdzie się w ciemnym zaułku zdala od świateł i ludzi.
 6. [Różyczka](#l_rozyczka) - konfrontacja
     * Karczma lekko podupadła, brakuje zarówno jadła jak i klienteli, a to w związku ze szczurami, które od dłuższego czasu niszczą zapasy jedzenia.
     * Snują się opowieści przy kuflu:
-        * [Kajetan](#g_kajetan) zmierzał do Vartburga licząc, że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
+        * [Kajetan](#g_kajetan) zmierzał do Vartburga licząc, że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie [Redanii](#l_redania) z Wiecznym Ogniem i brak pewności co do poszlak
         * [Ilana](#g_ilana) poszukuje druida imieniem [Myszowór](#p_myszowor), który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej; opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
     * [Podjudzacz robotników](#p_mlody_kaplan), którego [Ilana](#g_ilana) rozpoznaje niemal natychmiast, pojawia się z towarzyszem w karczmie nieludzi. Niby-uprzejmie wypytuje [Marię](#p_maria) co można zamówić (sprawia wrażenie pytającego jak źle jest).
     * [Podjudzacz jest kapłanem](#p_mlody_kaplan) który ostrzy zęby na pozycję [głównego kapłana](p_kaplan_matias) (przemawiający staruszek z Rynku) - wnioskujemy to z jego rozmowy z kompanem.
@@ -62,9 +62,9 @@
         * problemy na drogach ubijają handel - mniej podróżnych i problem z zaopatrzeniem
         * glejty do miasta wystawia się tylko dla ludzi którzy handlują aby oszczędzać pozostałe zasoby na przyjezdnych
         * parki przearanżowano w tymczasowe farmy
-        * w Wyzimie jest jeszcze gorzej niż w [Ellander](#l_m_ellander) - tamtejszy Lord rządzi twardą ręką w czasie głodu
+        * w [Wyzimie](#l_wyzima) jest jeszcze gorzej niż w [Ellander](#l_ellander) - tamtejszy Lord rządzi twardą ręką w czasie głodu
     * W tawernie spotykamy grupkę strażników. Jeden z nich został ugryziony przez szczura.
-    * Ilana oferuje pomoc, strażnik niechętnie pokazuje ranę. 
+    * [Ilana](#g_ilana) oferuje pomoc, strażnik niechętnie pokazuje ranę. 
     * Jego stan jest poważny - potrzebuje pomocy medyka a najlepiej kapłanek Melitele. Druidka nie jest w stanie zdziałać zbyt wiele, tym bardziej przy świadkach.
     * Polecamy mu udać się po doraźną pomoc do [Viggo](#p_viggo_regner).
     * Zostajemy w Kufelku na noc, a nad ranem sami idziemy do [Vigga](#p_viggo_regner).

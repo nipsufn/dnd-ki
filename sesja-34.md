@@ -12,9 +12,9 @@
         - nad tym posągiem także wisi kula światła. Kamień podtrzymujący magię ukryto w rękojeści miecza, a tabliczka informacyjna głosi "_Podsycaj swój ogień_" - Rel'rion Sprawiedliwy.
     - Przyglądamy się drzwiom warowni: 
         - wpisane w geometrię celtyckiego krzyża, widzimy runy i 4 symbole, po jednym na każdą ćwiartkę: głowa, dłonie, serce i waga
-        - na łuku nad drzwiami jest napis głoszący "_Oto dom i krypta rycerzy Galawaina. Złóż ich przysięgę by wejść_"
+        - na łuku nad drzwiami jest napis głoszący "_Oto dom i krypta rycerzy [Galawaina](#p_galawain). Złóż ich przysięgę by wejść_"
         - w rogu są ledwo widoczne druidyczne runy - możliwe, że [Ivryn](#p_arcydruid_ivryn) próbował złamać zaklęcie drzwi
-    - [Ilana](#g_ilana) proponuje aby to [Finarrin](#p_druid_finarrin) jako wybraniec Galawaina spróbował wyrecytować swoją przysięgę.
+    - [Ilana](#g_ilana) proponuje aby to [Finarrin](#p_druid_finarrin) jako wybraniec [Galawaina](#p_galawain) spróbował wyrecytować swoją przysięgę.
     - Druid po chwili zawahania recytuje dotykając przy tym jednego z symboli. Ten "zapala się" na krótką chwilę, po czym gaśnie i nic więcej się nie dzieje.
     - [Kajetan](#g_kajetan), bez głębszego zastanowienia, podejmuje drugą próbę złamania szyfru. W tym celu dotyka po kolei każdego z symboli wymawiając w staroelfim słowo opowiadające danemu symbolowi.
     - Symbole znów się świecą, ale elf zostaje na moment sparaliżowany, a drzwi nie ustępują. Na szczęście nic złego po za tym się nie dzieje.

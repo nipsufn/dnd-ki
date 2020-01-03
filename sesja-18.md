@@ -1,14 +1,14 @@
 ### Sesja 18
 1. [Brokilon](#l_brokilon)
-    * Driady wspaniałomyślnie pozwalają nam przejść brzegiem rzeki do Wioski. 
+    * Driady wspaniałomyślnie pozwalają nam przejść brzegiem rzeki do [Wioski](#l_wioska). 
     * [Ilana](#g_ilana) upiera się by iść brzegiem lasu z racji na patrole wojska stale krążące przy Wstążce. 
     * Driady godzą się finalnie na taką opcję, oferują się też poprowadzić nas na obóz żeby bezpiecznie przenocować do rana. 
-    * W drodze [Kajetan](#g_kajetan) i [Ilana](#g_ilana) próbują wypytać driady o nieco więcej szczegółów na temat dziwnych elfów-przybyszów i ogólnej sytuacji w Brokilonie. Dowiadują się, że:
+    * W drodze [Kajetan](#g_kajetan) i [Ilana](#g_ilana) próbują wypytać driady o nieco więcej szczegółów na temat dziwnych elfów-przybyszów i ogólnej sytuacji w [Brokilonie](#l_brokilon). Dowiadują się, że:
         * [Finarrin](#p_druid_finarrin), jako wysłannik starszyzny przybył do [Eithne](#p_eithne) po radę
         * dziwne elfy pochodzą z [Aen Eldrin](#r_aen_eldrin), przybyła ich w sumie czwórka
         * [Protektor](#b_bizoktor) został przebudzony przez jednego z tych elfów
         * driady nazywają [Kajetana](#g_kajetan), czy też może wszystkie elfy mieszkające na kontynencie, udawanymi; mag z trudem połyka dumę by uniknąć konfrontacji
-    * Rozbijamy obóz nieco bardziej na północ od Wioski, w opuszczonej altance, w której [Kajetan](#g_kajetan) dostrzega elfią architekturę. 
+    * Rozbijamy obóz nieco bardziej na północ od [Wioski](#l_wioska), w opuszczonej altance, w której [Kajetan](#g_kajetan) dostrzega elfią architekturę. 
     * Im głębiej w las tym lepiej widać zupełnie inną pogodę - drzewa tu także w większości nie mają już liści, ziemia jest nimi grubo wysłana, ale mimo to jest dość ciepło.
     * [Ilana](#g_ilana) prosi jedną z driad, żeby przekazała [Finarrinowi](#p_druid_finarrin) jej wiadomość kiedy będzie wracać do [Col Serrai](#l_col_serrai). Ta wysyła ją poprzez kruka. Mówi też, że jeśli przyzwane elfy im pomogą, nie będą musiały już wracać na front.
     * W nocy wokół obozowiska krążą zwierzęta (głównie kruki). 
@@ -37,12 +37,12 @@
 2. [Wioska druidów](#l_wioska)
     * O zmierzchu docieramy do [Wioski](#l_wioska), która jest dziwnie opustoszała. W samej wiosce panuje pogoda późno-letnia lub wczesno-jesienna:
         * drzewa nadal mają liście
-        * temperatura jest jeszcze wyższa niż w samym Brokilonie 
+        * temperatura jest jeszcze wyższa niż w samym [Brokilonie](#l_brokilon) 
     * Przy ognisku dostrzegamy 4 osoby - trzy w charakterystycznym, codziennym odzieniu druidów i jedną obcą - elfkę o długich włosach, odzianą w cynobrowo-rudą szatę. 
     * Wśród pozostałych osób [Ilana](#g_ilana) rozpoznaje swoją przyjaciółkę, [Mirnę](#p_mirna), siedzącą w towarzystwie dwóch młodszych druidów.
     * Dziwna elfka zachowuje się jakby jej obecność nie była niczym dziwnym, posługuje się magią telepatyczną. Mówiąc, rzuca uspakajający/oczarowywujący urok i nie przedstawia się - [Kajetan](#g_kajetan) dość butnie zwraca jej uwagę na brak manier.
     * Elfka, niezbyt skonsternowana, przedstawia się jako [Verenestra, "Księżna Dębu"](#p_verenestra), jedna z [Aen Eldrin](r_aen_eldrin) "zaproszonych" do [Brokilonu](#l_brokilon)
-    * [Mirna](#p_mirna) opowiada, że ich trójka to jedyni druidzi w Wiosce. Podczas święta Równonocy:
+    * [Mirna](#p_mirna) opowiada, że ich trójka to jedyni druidzi w [Wiosce](#l_wioska). Podczas święta Równonocy:
         * druidzi zaczęli odprawiać przygotowany uprzednio rytuał zakorzeniony w magii Poznania[<sup>1</sup>](#ad1)
         * nastąpił wybuch dzikiej magii i większość starszyzny zmieniła się nieodwracalnie w dzikie zwierzęta
         * [Finarrin](#p_druid_finarrin) ocalał jako nieliczny ze starszyzny.
@@ -60,11 +60,11 @@
         * wieczorami przepisuje czary do swojej księgi
         * dowiaduje się, że [Finarrin](#p_druid_finarrin) zna [Zielarza z Dillingen](#p_zielarz)
         * [Mirna](#p_mirna) pomoże mu wyprodukować eliksiry leczące, łagodniejsze niż "jaskółka" [Vigga](#p_viggo_regner), jeśli poszuka z nią ziół
-    * Kajetan, uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku, że [Verenestra](#p_verenestra) jest rzeczywiście gościem i nie zna powszechnie stosowanych obyczajów. Postaniawia ją przeprosić i z nią porozmawiać:
+    * [Kajetan](#g_kajetan), uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku, że [Verenestra](#p_verenestra) jest rzeczywiście gościem i nie zna powszechnie stosowanych obyczajów. Postaniawia ją przeprosić i z nią porozmawiać:
         * elfka nie widziała afrontu w fakcie zwrócenia uwagi
         * wywiązuje się pseudofilozoficzna debata, zdaje się, że [Aen Eldrin](#r_aen_eldrin) albo nie odczuwają czasu albo są niesamowicie długowieczni; tak czy inaczej zdaje się, że kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
         * czterej [Aen Eldrin](#r_aen_eldrin) dostali się do [Brokilonu](#l_brokilon) przez portal otwarty przez [Eithne](#p_eithne), która to zapadła w śpiączke próbując powiększyć portal aby umożliwić przejście większej ilości "gości"
-        * [Aen Eldrin](#r_aen_eldrin) społecznie dzielą się na cztery grupy: Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role" 
+        * [Aen Eldrin](#r_aen_eldrin) społecznie dzielą się na cztery grupy: [Wiosnę](#l_wioska), Lato, Jesień i Zimę, okresowo zmieniając swoje "role" 
         * [Kajetanowi](#g_kajetan) wydaje się, że jest to spowodowane ich długowiecznością i znudzeniem "odgrywania tej samej roli", bycia tą samą osobą
         * ich byt zdaje się być teatrem, który zatracił znaczenie metaforyczne i staje się faktem (czy istnieje jakaś sztuka, którą odgrywają? czy ta sztuka "sama się pisze" w miarę jak istnieją?)
         * elfka przychodzi do wioski aby pomagać leczyć ludzi z [Verden](#l_verden), którzy dotarli do [Wioski](#l_wioska) 

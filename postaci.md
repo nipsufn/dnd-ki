@@ -16,7 +16,7 @@
     * miała siedzibę w [Mariborze](#l_maribor)
 * Greralt z Rivii<a id='p_geralt' class='Geral*,Geral* z Rivii,Biał* Wilk*,Vadgern*'></a> - człowiek, wiedźmin
     - odczarował chłopa zamienionego w kormorana w Kerack
-    - miał okazję rozmawiać z pokojowo nastawionym wilołakiem w [Wyzimie](#l_wyzima)
+    - miał okazję rozmawiać z pokojowo nastawionym wilkołakiem w [Wyzimie](#l_wyzima)
     - nielubiany w Aedirn (plotka głosi, że na zlecenie zabił króla Demawenda)
 * Lambert<a id='p_lambert' class='Laber*'></a> - człowiek, wiedźmin
 * Eskel<a id='p_eskel' class='Eskel*'></a> - towarzyszy [Triss Merigold](#p_triss_merigold)
@@ -105,134 +105,134 @@
     * Lanemin Anef Aep<a id="p_lanemin" class='Lanemin*></a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
 * [Brugge](#l_brugge)
     * [Brugge](#l_m_brugge)
-        * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i' class='Król* Wenzlaw* I,Wenzlaw*'></a> - ; król [Brugge](#l_brugge)
+        * ✝ Król Wenzlaw I<a id='p_krol_wenzlaw_i' class='Król* Wenzlaw* I,Wenzlaw* I,Król* Wenzlaw* Pierwsz*,Wenzlaw* Pierwsz*'></a> - ; król [Brugge](#l_brugge)
             Przychylny Driadom
-        * Król Wenzlaw II<a id='p_krol_wenzlaw_ii'></a> - ; król [Brugge](#l_brugge)
+        * Król Wenzlaw II<a id='p_krol_wenzlaw_ii' class='Król* Wenzlaw* II,Wenzlaw* II,Król* Wenzlaw* Drugi*,Wenzlaw* Drugi*'></a> - ; król [Brugge](#l_brugge)
             Podpisał umowy z Nilfgaarderm
-        * Magister Florian z Vicovaro<a id='p_florian_z_vicovaro'></a> - ; mag
-        * Lars<a id='p_lars'></a> - ; domniemany przywódca szajki najemnych złoczyńców w Brugge; ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
-        * Gyf<a id='p_gyf'></a> - człowiek w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)
-        * Skaags<a id='p_skaags'></a> - człowiek, sierżant; pracuje dla [Larsa](#p_lars)
-        * ✝ Lloyd<a id='p_lloyd'></a> - człowiek, strażnik; uciekliśmy mu w [Medownej](#l_medowna), bezpodstawnie wierzy że wyrżnęliśmy całą wieś, nadużywał nadanego mu autorytetu.
+        * Magister Florian z Vicovaro<a id='p_florian_z_vicovaro' class='Pan* Florian*,Magist* Florian*,Pan* Florian* Vicovaro,Magist* Florian* Vicovaro, Florian* Vicovaro,Florian*,Vicovaro'></a> - ; mag
+        * Lars<a id='p_lars' class='Lars*'></a> - ; domniemany przywódca szajki najemnych złoczyńców w [Brugge](#l_brugge); ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
+        * Gyf<a id='p_gyf' class='Gyf*'></a> - człowiek w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)
+        * Skaags<a id='p_skaags' class='Skaags*'></a> - człowiek, sierżant; pracuje dla [Larsa](#p_lars)
+        * ✝ Lloyd<a id='p_lloyd' class='Lloyd*'></a> - człowiek, strażnik; uciekliśmy mu w [Medownej](#l_medowna), bezpodstawnie wierzy że wyrżnęliśmy całą wieś, nadużywał nadanego mu autorytetu.
     * [Dillingen](#l_dillingen)
-        * Regis<a id='p_zielarz'></a><a id='p_regis'></a> - ?; zielarz;
+        * Regis<a id='p_zielarz'></a><a id='p_regis' class='Regis*'></a> - ?; zielarz;
             Destylował nalewkę z Mandragory
             Nie pojawił się w [Carreras](#l_carreras) od kilku lat
-        * Beaucler<a id='p_beaucler'></a> -?;
+        * Beaucler<a id='p_beaucler' class='Beaucler*'></a> -?;
             może wiedzieć coś o losach [Regisa](#p_regis)
     * [Brychna](#l_brychna)
-        * Rund<a id='p_rund'></a> - ; rybak;
+        * Rund<a id='p_rund' class='Rund*'></a> - ; rybak;
             z rodziną; żona i dwójka dzieci
             odeskortowani z [Brychnej](#l_brychna) do [Brugge](#l_m_brugge) po ataku [Barghestów](#b_barghest)
 * [Carreras](#l_carreras)
     * Zielarka<a id='p_zielarka'></a> - ; wiedźma;
         dziecko przybite do pobliskego Menhiru, uwięzione jako wykonawca klątwy rzuconej przez druidów
         są podejrzenia, że była nią córka Carrerasów, Esme<a id='p_esme_carreras'></a>
-    * Trott<a id='p_trott'></a> - krasonlud ; ?;
+    * Trott<a id='p_trott' class='Trott*'></a> - krasonlud ; ?;
         * sprzedaje broń z ukrytymi wadami, zrobił na szaro [Skovika](#p_skovik) i [Ivara](#p_ivar)
 * [Cintra](#l_cintra)
-    * ✝ Calanthe<a id='p_calanthe'></a> - ; władczyni
+    * ✝ Calanthe<a id='p_calanthe' class='Calanthe'></a> - ; władczyni
         znała [Myszowora](#p_myszowor)
 * [Ellander](#l_ellander)
     * R. Harevard<a id='p_rodzina_harevard'></a> - ; n/a;
         rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami
-    * Viggo Regner<a id='p_viggo_regner'></a> - ; alchemik/mag;
+    * Viggo Regner<a id='p_viggo_regner' class='Vigg*, Vigg* Regner*'></a> - ; alchemik/mag;
         Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
         ? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
-    * [Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort<a id='p_lukrecja_schattenwort'></a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
+    * [Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort<a id='p_lukrecja_schattenwort' class='Lukrecj*,Lukrecj* Schattenwort, Janus*'></a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
         [Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
     * ? Regner<a id='p_pani_regner'></a> - ; mag;
         w śpiączce wg [Lukrecja](#p_lukrecja_schattenwort) (?);
         śpiączka spowodowana klątwą uruchomioną w czasie prac archeologicznych w [Ysgyth](#l_ysgyth)
         [Viggo Regner](#p_viggo_regner): mąż
-    * Eliza<a id='p_eliza'></a> - ; krawcowa;
+    * Eliza<a id='p_eliza' class='Eliz*'></a> - ; krawcowa;
         dziecko widziało zmarłego ojca (potwór żywiący się tęsknotą, ubity przez PC), dziecko przejawia predyspozycje do użycia Mocy, wyrusza z PC do Świątyni Melitele;
         [Ethar](#p_ethar): mąż; [Daria](#p_daria): córka
-    * Daria<a id='p_daria'></a> - ; dziecko;
+    * Daria<a id='p_daria' class='Dari*'></a> - ; dziecko;
         widziała zmarłego ojca w potworze, wyrusza z matką do Świątyni Melitele nauczyć się kontrolować Moc do której ma predyspozycje;
         [Eliza](#p_eliza): matka; [Ethar](#p_ethar): ojciec
-    * ✝ Ethar<a id='p_ethar'></a> - ; żołnież;
+    * ✝ Ethar<a id='p_ethar' class='Ethar*'></a> - ; żołnież;
         zmarł na wojnie;
         [Eliza](#p_eliza): żona; [Daria](#p_daria): córka
-    * Otto Kranmer<a id='p_otto_kranmer'></a> - krasnolud; artysta;
+    * Otto Kranmer<a id='p_otto_kranmer' class='Ott*'></a> - krasnolud; artysta;
         rzeźbiarz;
         [Hans Kranmer](#p_hans_kranmer): brat
-    * Hans Kranmer<a id='p_hans_kranmer'></a> - krasnolud; cieśla;
+    * Hans Kranmer<a id='p_hans_kranmer' class='Hans*'></a> - krasnolud; cieśla;
         cieśla;
         [Jarna Kranmer](#p_jarna_kranmer): żona
         [Otto Kranmer](#p_otto_kranmer): brat
-    * Jarna Kranmer<a id='p_jarna_kranmer'></a> - krasnolud; żona Hansa?;
+    * Jarna Kranmer<a id='p_jarna_kranmer' class='Jarn*'></a> - krasnolud; żona Hansa?;
         [Hans Kranmer](#p_hans_kranmer): mąż
-    * R. Ruprecht<a id='p_ruprecht'></a> - gnom; jubiler;
+    * R. Ruprecht<a id='p_ruprecht' class='Ruprecht*'></a> - gnom; jubiler;
         interes rodzinny;
-    * Wojciech<a id='p_wojciech'></a> - ; majster drwali;
+    * Wojciech<a id='p_wojciech' class='Wojciech*'></a> - ; majster drwali;
         mieszka na podgrodziu;
         Otto [Kranmer](#p_otto_kranmer): pracodawca; Hans [Kranmer](#p_otto_kranmer): pracodawca
-    * Maria<a id='p_maria'></a> - półelf; gospodarz;
+    * Maria<a id='p_maria' class='Mari*'></a> - półelf; gospodarz;
         prowadzi gospodę "[Różyczka](#l_rozyczka)" z mężem;
         [Walerian](#p_walerian): mąż, partner
-    * Walerian<a id='p_walerian'></a> - półelf; gospodarz;
+    * Walerian<a id='p_walerian' class='Walerian*'></a> - półelf; gospodarz;
         prowadzi gospodę "[Różyczka](#l_rozyczka)" z żoną;
         [Maria](#p_maria): żona, partner
     * Młody Kapłan<a id='p_mlody_kaplan'></a> - ; kapłan;
         kapłan Wiecznego Ognia, chce zastąpić głównego kapłana [Ellander](#l_m_ellander), kombinuje przeciwko nieludziom (podburzanie robotników, przedstawienie w "[Różyczce](#l_rozyczka)");
         Kapłan [Matias](#p_kaplan_matias): przełożony
-    * ✝ Kapłan Matias<a id='p_kaplan_matias'></a> - ; kapłan;
+    * ✝ Kapłan Matias<a id='p_kaplan_matias' class='Kapłan* Matias*,Matias*'></a> - ; kapłan;
         główny kapłan Wiecznego Ognia w [Ellander](#l_ellander), mocno starszy; umarł przed Solstitum zimowym pierwszego roku po Zetknięciu Sfer
         Młody Kapłan: podwładny
-    * Tom<a id='p_tom'></a> - ; strażnik;
+    * Tom<a id='p_tom' class='Tom*'></a> - ; strażnik;
         ugryziony przez szczura, przewieziony do Świątyni Melitele przez PC;
-    * Kupiec Mandrej<a id='p_mandrej'></a> - ; ?;
+    * Kupiec Mandrej<a id='p_mandrej' class='Mandrej*'></a> - ; ?;
         zasiada w radzie miejskiej
-    * Lord Slyz Myrton<a id='p_lord_myrton'></a> - ; dowódca;
+    * Lord Slyz Myrton<a id='p_lord_myrton' class='Lord* Myrton*,Myrton*'></a> - ; dowódca;
         rządzi zakonem Łowców Czarownic/Potworów w [Ellander](#l_ellander), nie ma wody z mózgu, da się z nim dogadać;
         Możlwe że po niedawnej śmierci Przywódcy [Menge](#p_menge) rządzi całym zakonem.
         [Menge](#p_menge): przełożony
         [Kasimir](#g_kasimir): podwładny
         [Igna](#p_igna): prawa ręka
-    * Igna<a id='p_igna'></a> - ; ?
+    * Igna<a id='p_igna' class='Ign*'></a> - ; ?
         Prawa ręka [Myrtona](#p_lord_myrton)
         Walczy długim mieczem, który płonie jeśli zatnie się nim
         [Lord Slyz Myrton](#p_lord_myrton): przełożony; [Kasimir](#g_kasimir): podwładny
 * [Góry Sine](#l_gory_sine)
-    * Filavandrel Aen Fidhail ze Srebrnych Wież<a id='p_filavandrel'></a> - elf; mag
+    * Filavandrel Aen Fidhail ze Srebrnych Wież<a id='p_filavandrel' class='Filavandrel Aen Fidhail,Filavandrel'></a> - elf; mag
         potężny i stary elfi mag
         zorganizował wyprawę archeologiczną w której brał udział [Kajetan](#g_kajetan)
 * [Kaedwen](#l_kaedwen)
-    * ✝? Król Henselt<a id='p_krol_henselt'></a>
+    * ✝? Król Henselt<a id='p_krol_henselt' class='Król* Henselt*,Henselt*'></a>
 * [Nilfgaard](#l_nilfgaard)
-    * ✝ Emhyr<a id='p_emhyr'></a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
-* [Rediania](#l_redania)
-    * Król Radowid<a id='p_krol_radowid'></a> - ; król [Redianii](#l_redania)
-    * Dijkstra<a id='p_dijkstra'></a> - ; szef redańskiego wywiadu, obecnie hrabia [Redianii](#l_redania) na [Temerię](#l_temeria)
-        przez jakiś czas rządził [Novigradem](#l_novigrad)
+    * ✝ Emhyr<a id='p_emhyr' class='Cesarz* Ehmyr*,Ehmyr*'></a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
+* [Redania](#l_redania)
+    * Król Radowid<a id='p_krol_radowid' class='Król* Radowid*,Radowid*'></a> - ; król [Redianii](#l_redania)
+    * Dijkstra<a id='p_dijkstra' class='Dijkstr*'></a> - ; szef redańskiego wywiadu, obecnie hrabia [Redanii](#l_redania) na [Temerię](#l_temeria)
+        przez jakiś czasądził [Novigradem](#l_novigrad)
         rządzi w [Wyzimie](#l_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#l_temeria)
         zakładał obozy pracy dla Scoia'tael
-    * ✝ Menge<a id='p_menge'></a> - ; przywódca zakonu Łowców
+    * ✝ Menge<a id='p_menge' class='Menge*'></a> - ; przywódca zakonu Łowców
         [Lord Slyz Myrton](#p_lord_myrton): podwładny
-    * Gaetan<a id='p_gaetan'></a> - wiedźmin szkoły kota; polował w Mayenie na dybuga
-    * Hemmelfart<a id='p_hemmelfart'></a> - kapłan; Główny Kapłan kultu Wiecznego Ognia
+    * Gaetan<a id='p_gaetan' class='Gaetan*'></a> - wiedźmin szkoły kota; polował w Mayenie na dybuga
+    * Cyrus Engelkind Hemmelfart<a id='p_hemmelfart' class='Hemmelfart></a> - kapłan; Główny Kapłan kultu Wiecznego Ognia
 * [Świątynia Melitele](#l_smelitele):
-    * Matka Iola<a id='p_matka_iola'></a> - ; kapłanka;
+    * Matka Iola<a id='p_matka_iola' class='Mat* Iol*,Iol*'></a> - ; kapłanka;
 * [Temeria](#l_temeria)
-    * ✝ Król Foltest<a id='p_krol_foltest'></a> - ; król [Temerii](#l_temeria)
+    * ✝ Król Foltest<a id='p_krol_foltest' class='Król* Foltest*,Foltest*'></a> - ; król [Temerii](#l_temeria)
     * [Lord Dijkstra](#p_dijkstra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
     * [Maribor](#l_maribor)
-        * _Tymaczasowy Burmistrz Nowobudowanego [Mariboru](#l_maribor) Z Łaski Regenta [Dijkstry](#p_dijkstra) Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](#p_krol_radowid) Błogisławiony Imć Komendant_ Kaspar<a id='p_kaspar'></a>
+        * _Tymaczasowy Burmistrz Nowobudowanego [Mariboru](#l_maribor) Z Łaski Regenta [Dijkstry](#p_dijkstra) Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](#p_krol_radowid) Błogisławiony Imć Komendant_ Kaspar<a id='p_kaspar' class='Kaspar*'></a>
         * współpracownik [Larsa](#p_lars)
-    * Morgan Guus<a id='p_morgan'></a>
+    * Morgan Guus<a id='p_morgan' class='Morgan* Guus, Morgan*'></a>
         * karczmarz
         * opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
         * buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1370PP, możliwe że zostanie nazwana _"W pół drogi"_
 * [Wyspy Skellige](#l_wyspy_skellige)
-    * Cerys an Craite<a id='p_cerys'></a> - ; jarl wysp Skellige
+    * Cerys an Craite<a id='p_cerys' class='Cerys an Craite,Cerys'></a> - ; jarl wysp Skellige
         córka Crach an Craite'a
         pierwsza kobieta na tronie Wysp
-    * Hjalmar an Craite<a id='p_hjalmar'></a> - ; kandydat do tronu Skellige
+    * Hjalmar an Craite<a id='p_hjalmar' class='Hjalmar an Craite,Hjalmar'></a> - ; kandydat do tronu Skellige
         brat Cerys
-    * Druid Artis<a id='p_druid_artis'></a> - ; druid
+    * Druid Artis<a id='p_druid_artis' class='Druid* Artis*,Artis*'></a> - ; druid
         przewodzi Vildkaarlom
-    * ✝ Lugos Drummond<a id='p_lugos'></a> - ; 
+    * ✝ Lugos Drummond<a id='p_lugos' class='Lugos* Drummond,Lugos*'></a> - ; 
         zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>
         ma na pieńku z klanem an Craite
         wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](#l_wyspy_skellige), [Cerys an Craite](#p_cerys)

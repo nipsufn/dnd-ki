@@ -44,7 +44,7 @@
     - Dowiadujemy się od [Larsa](#p_lars), że:
         - [Kaspar](#p_kaspar) pracuje z [tą kanalią](#p_lars) dorywczo, kiedy zgadza się to z szeroko pojętym inetesem sił specjalnych [Redanii](#l_redania); ten kutas, podobnie jak wieprz [Kaspar](#p_kaspar) jest tylko jego marionetką i tańczy tak jak wielki [Dijkstra](#p_dijkstra) mu zagra
         - [ten gagatek](#p_lars) uczył się w [Ban Ard](#l_ban_ard), pochodzi z [Verden](#l_verden)
-        - magowie z Verden i Nilfgaardu są również w patowej sytuacji, a my - pionkami które mogą przeważyć szale tego konfliktu na którąś ze stron
+        - magowie z [Verden](#l_verden) i [Nilfgaardu](#l_nilfgaard) są również w patowej sytuacji, a my - pionkami które mogą przeważyć szale tego konfliktu na którąś ze stron
         - nie mogliśmy wykryć iluzji [tej mendy](#p_lars), bo chroni go amulet, który tłumi wszelką magiczną aurę właściciela
     - Próbując znaleźć jakiś wspólny grunt ustalamy, co następuje:
         - pomożemy [temu ciulikowi z Verden](#p_lars)

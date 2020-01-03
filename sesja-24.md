@@ -54,7 +54,7 @@
     * Wywiązuje się walka, w trakcie której [Yaevinn](#p_yaevinn) zostaje przygwożdżony do drzewa pajęczyną, a [Kajetan](#g_kajetan) i [Ilana](#g_ilana) są notorycznie obłażeni przez roje małych pająków.
     * Wkrótce do walki dołącza coś, co wygląda jak skrzyżowanie człowieka i pająka. Pajęcza królowa rzuca się na [Ilanę](#g_ilana), niemal dusząc ją swoim lasso z pajęczyny.
     * [Yaevinn](#p_yaevinn), wyswobodziwszy się z pajęczyny pakuje pajęczej królowej serię strzał prosto w tors. Mocno raniona bestia wydaje dziki krzyk i próbuje pociągnąć druidkę za sobą do leża.
-    * [Kajetan](#g_kajetan) odcina lasso i cuci Ilanę podając jej jaskółkę. Następnie przy użyciu magii strąca królową w czeluście ruiny, sypiąc na łeb kamienie. Ta ratuje się ucieczką w głąb leża.
+    * [Kajetan](#g_kajetan) odcina lasso i cuci [Ilanę](#g_ilana) podając jej jaskółkę. Następnie przy użyciu magii strąca królową w czeluście ruiny, sypiąc na łeb kamienie. Ta ratuje się ucieczką w głąb leża.
     * Decydujemy się zbadać ruinę. Przy wejściu jest kilka kokonów - w nich znajdujemy zaginioną dwójkę. [Kajetan](#g_kajetan) podnosi z ziemi łuk należący niegdyś do driady porwanej przez pająki. Poza tym nie zachowało się nic poza gruzami i butwem.
     * Schodzimy głębiej w poszukiwaniu uciekającej pajęczycy. Znajdujemy ją pożywiającą się własnymi jajami. Jaja te są ciasno oplecione przez cierniste pnącza, które jednak zdają się nie robić im krzywdy.
     * [Yaevinn](#p_yaevinn) z rządzą mordu wypisaną w oczach bez słowa rzuca się na pajęczycę i kończy jej żywot kilkoma szybkimi cięciami elfich mieczy.
@@ -69,7 +69,7 @@
     * Budzimy się o świcie, jednak [Yaevinna](#p_yaevinn) z nami nie ma. Zniknęło też 12 racji żywnościowych.
     * Wbity w ziemi tkwi jeden z mieczów elfa, najwyraźniej rekompensata za "pożyczone" jedzenie.
     * [Ilana](#g_ilana) mówi [Kajetanowi](#g_kajetan), że miała zły sen i powinni czym prędzej zmierzać do wioski. Dodaje też, że nie jest pewna co dokładnie zastaną na miejscu, ale ma złe przeczucie.
-4. W drodze do Wioski
+4. W drodze do [Wioski](#l_wioska)
     * Wracamy znaną nam już trasą. Droga zajmuje nam w sumie dwa dni, podczas których [Ilana](#g_ilana) wysyła kilka wiadomości do domu - do [Skovika](#p_skovik) i [Finarrina](#p_druid_finarrin), każdorazowo prosząc o odpowiedź.
     * Podczas noclegu przy żerowisku [krabopająków](#b_krabopajak), nasz bezpieczny bąbel obchodzi grupa [nekkerów](#b_nekker). Mniejsze osobniki próbują podkopać się do środka, ale szkodniki zostają szybko zneutralizowane przez polujące na swoim terytorium [bestie](#b_krabopajak).
     * [Kajetan](#g_kajetan) chyba po raz pierwszy widzi [krabopająka](#b_krabopajak) z bliska. [Ilana](#g_ilana) posiadała o nich dotąd jako takie pojęcie, ale dopiero teraz widzi, jak działa ich maskujący pancerz, czyniąc je praktycznie niezauważalnymi.

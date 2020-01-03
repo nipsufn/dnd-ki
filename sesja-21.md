@@ -60,7 +60,7 @@
     * Ku własnemu zaskoczeniu [Kajetan](#g_kajetan) nie staje okoniem słysząc ten pomysł i widząc skłonność [Ilany](#g_ilana) do podjęcia się tej niebezpiecznej misji. Zostają ułożone wstępne plany:
         * [Finarrin](#p_druid_finarrin) zostaje w [Wiosce](#l_wioska) aby zająć się [Enid](#p_enid)
         * [Skovik](#p_skovik) i [Ivar](#p_ivar) zostają w [Wiosce](#l_wioska) - to dla nich zbyt niebezpieczna wyprawa
-        * [Kajetan](#g_kajetan) z [Ilaną](#g_ilana) wyruszą we dwoje, tak przynajmniej mają jakieś szanse przejść przez Brokilon
+        * [Kajetan](#g_kajetan) z [Ilaną](#g_ilana) wyruszą we dwoje, tak przynajmniej mają jakieś szanse przejść przez [Brokilon](#l_brokilon)
         * [Finarrin](#p_druid_finarrin) musi wytłumaczyć nam dokładnie czego szukać, jako że raz już tam byliśmy i ogólne pojęcie co się dzieje mamy
     * Po kolacji rozchodzimy się do chat. [Ilana](#g_ilana) oddaje swój pokój [Enid](#p_enid) na tak długo, jak tylko druidka będzie go potrzebowała.
     * Sama wprasza się do braci Drummond. [Ivar](#p_ivar) nie szczędząc uszczypliwości decyduje się znaleźć sobie tymczasowo inne lokum, robiąc miejsce dla tej dwójki.

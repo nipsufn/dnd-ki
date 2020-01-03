@@ -18,7 +18,7 @@ class myParser(HTMLParser):
       if 'class' not in dict(attrs).keys():
         return
       for alias in dict(attrs)['class'].split(','):
-        alias = r" ("+alias.replace(r"*", r"\w{0,4}")+r")([ ,\.\(\)])"
+        alias = r"([ ,.()])(" + alias.replace(r"*", r"\w{0,4}") + r")([ ,.()\n])"
         global tags
         tags.append([alias, dict(attrs)['id']])
         
@@ -75,8 +75,8 @@ for filePath in fileList:
     text = fileStream.read()
     for pair in tags:
       #print ("hello: "+pair[0]+ " " + pair[1])
-      regex = r" [\1](#"+pair[1]+")\2"
-      #print ("hello: ;;"+pair[0]+ ";; ;;" + regex)
+      regex = r"\1[\2](#"+pair[1]+r")\3"
+      #print ("hello: ;;"+pair[0]+ ";; ;;" + regex + ";;")
       text = re.sub(pair[0], regex, text)
   with open(filePath, 'w', encoding='utf-8') as fileStream:
     fileStream.write(text)

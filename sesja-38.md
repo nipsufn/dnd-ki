@@ -14,7 +14,7 @@
     - Za drzwiami znajduje się długi korytarz z rzędem krzeseł pod jedną ścianą, zwróconych przodem do obrazu wiszącego na przeciwległej ścianie.
     - Obraz przedstawia scenę pasowania pierwszego Zielonego Rycerza przez [Rycerzy Galawaina](#r_rycerze_galawaina). Pasowanie odbywa się na kolistym placu nieopodal niewielkiego drzewa, ale ciężko jest doszukać się jakichkolwiek detali zdradzających dokładny czas albo miejsce zobrazowanej sceny.
     - Na końcu korytarza znajdują się kolejne drzwi, także strzeżone przez zbroje. Te jednak odmawiają wpuszczenia nas, ponieważ "kandydaci winni czekać aż zostaną wywołani. Jedynie ten, który przeszedł próby może prosić o audiencję u Mistrza".
-2. Kuźnia, druga próba Ivara
+2. Kuźnia, druga próba [Ivara](#p_ivar)
     - Odesłani z kwitkiem wracamy do próby rozpalenia pieca w kuźni. [Kajetan](#g_kajetan) umieszcza jeden z białych kloców w palenisku i próbuje tchnąć w piec magią, aby podpałka zajęła się ogniem. 
     - Na skutek "przedobrzenia" z ilością magiczej energii wszyscy obecni w kuźni zostają mocno poturbowani, kiedy piec niczym mała supernowa dosłownie bucha mocą. Na szczęście paliwo działa i [Ivar](#p_ivar) może przystąpić do swojej drugiej próby, tj. kucia broni.
     - [Ilana](#g_ilana) dostrzega w rozpalonym prostopadłościanie coś niecodziennego. Kloc zdaje się wydawać rytmiczny głuchy odgłos, zupełnie jak uderzenia serca. Cała bryła nabiera czerwono-jaskrawych kolorów im bardziej się nagrzewa.

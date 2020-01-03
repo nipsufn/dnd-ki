@@ -9,7 +9,7 @@
 3. Poręba
     - Nie chcąc zakłócać wycinki wędrujemy pod lasem, z dala od pracujących drwali. Konni zdają się nas zauważyć, jeden z nich po chwili podjeżdza i zagaja rozmowę.
     - Strażnik wypytuje nas dokąd zmierzamy. Mężczyzna nosi barwy [Temerii](#l_temeria) podległej [Redanii](#l_redania). 
-    - Dowiadujemy się, że wycinka prowadzona jest na odbudowę [Mariboru](#l_maribor), który teraz zwą Nowym Mariborem.
+    - Dowiadujemy się, że wycinka prowadzona jest na odbudowę [Mariboru](#l_maribor), który teraz zwą Nowym [Mariborem](#l_maribor).
     - [Cleves](#l_cleves) to fort, w którym może być ciężko o nocleg czy prowiant. Bliżej mamy do [Mariboru](#l_maribor), do którego z resztą wiedzie trakt. 
     - [Kajetan](#g_kajetan) kreuje pozory sympatyzowania ze strażnikiem. Na odchodnym życzy mu zdrowia, bo mężczyzna co chwila dość mocno zanosi się kaszlem. Na szczęście strażnik nie drąży zbytnio i szybko oddala się do pracy.
 4. Nocleg
@@ -30,7 +30,7 @@
         - [Vicovarro](#p_florian_z_vicovaro) został okradziony podczas zamieszania, które spowodowaliśmy opuszczając [Brugge](#l_m_brugge)
         - mag popadł w paranoję i szuka zemsty na winowajcach
         - praktycznie nie wyściubia nosa ze swojej pracowni
-5. Maribor
+5. [Maribor](#l_maribor)
     - Zmieniamy cel naszej podróży i decydujemy udać się do [Mariboru](#l_maribor).
     - Wczesnym południem docieramy do niegdyś potężnego miasta. Po drodze widzimy drewno spławiane rzeką.
     - Faktycznie widać tu postępy w odbudowie - na ograbionych fundamentach naprędce konstruowane są drewniane budynki, ludzie mają nadzieję zadeklarować własność działek w chaosie odbudowy.
@@ -45,7 +45,7 @@
     - W ratuszu wita nas grubasek, który wcześniej nam się przyglądał. To _Tymczasowy Burmistrz Nowego [Mariboru](#l_maribor) - Komendant_ [Kaspar](#p_kaspar). Typ o ogolonej na łyso głowie, twarzy oprycha i posturze sugerującej muskulaturę skrytą pod widoczną nadwagą.
     - Zostajemy poinformowani, że [mag z Brugge](#p_florian_z_vicovaro) poluje na nas mając nas za złodzieji, którzy obrabowali go w czasie pożaru.
     - Wyjątkowo, podczas tej zupełnie niewymuszonej wizyty, to [Kajetan](#g_kajetan) zachowuje zimną krew, podczas gdy [Ilana](#g_ilana) nie szczędzi butnych, dosadnych komentarzy mogących zaognić sytuację jeszcze bardziej.
-    - Jasnym dla nas jest, że [Kaspar](#p_kaspar) to dobry znajomek [Larsa](#p_lars). Mamy mu pomóc pozbyć się [Magistra Floriana z Vicovarro](#p_florian_z_vicovaro) za 1000GP. W przypadku odmowy zostaniemy wydani w ręce maga, a [Leiv](#p_leiv) - pracujący w tej chwili dla [Larsa](#p_lars) - zginie . Padają też groźby w kierunku reszty drużyny, sądzimy jednak, że sobie poradzą z bandą rzezimieszków.
+    - Jasnym dla nas jest, że [Kaspar](#p_kaspar) to dobry znajomek [Larsa](#p_lars). Mamy mu pomóc pozbyć się [Magistra [Floriana](#p_florian_z_vicovaro) z Vicovarro](#p_florian_z_vicovaro) za 1000GP. W przypadku odmowy zostaniemy wydani w ręce maga, a [Leiv](#p_leiv) - pracujący w tej chwili dla [Larsa](#p_lars) - zginie . Padają też groźby w kierunku reszty drużyny, sądzimy jednak, że sobie poradzą z bandą rzezimieszków.
     - Nie mając zbytnio wyjścia przystajemy na warunki "burmistrza". Dostajemy 100GP zaliczki i wolny wieczór na przygotowanie się do podróży.
 7. Dobra mina do złej gry
     - Krótko rozmawiamy z [Finarrinem](#p_druid_finarrin):

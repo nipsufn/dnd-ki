@@ -33,7 +33,7 @@
     - Potrafili obracać w niwecz wszelkie próby użycia Mocy na odległość
     - [Aen Drisichean](#r_aen_drisichean) postanowili ich unikać za wszelką cenę
 - Ciałognilec<a id='r_cialognilec'></a><a id='r_flesh_rot'></a>
-    - zmodyfikowana przez [Floriana z Vicovarro](#p_florian_z_vicovaro) odmiana zarazy pustoszy [Verden](#l_verden)
+    - zmodyfikowana przez [Floriana z Vicovaro](#p_florian_z_vicovaro) odmiana zarazy pustoszy [Verden](#l_verden)
 - Kalendarz elfów
     - Święta astronomiczne
         - Solstycja (przesilenia)
@@ -52,5 +52,5 @@
         - ☿ - rtęć
         - 🜍 - siarka
         - 🜄 - woda
-        - ≈ - woda (niepoprawnie / alternatywnie, użyta przez [Vicovarro](#p_florian_z_vicovaro))
+        - ≈ - woda (niepoprawnie / alternatywnie, użyta przez [Vicovaro](#p_florian_z_vicovaro))
         - 🜔 - sól

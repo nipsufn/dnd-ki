@@ -26,7 +26,7 @@
 4. Tajemniczy posłaniec
     - Na moście koło [Mayeny](#l_mayena) zaczepia nas kruk. Zwierzę krąży nad nami, po czym "atakuje" [Ilanę](#g_ilana). Druidka zdejmuje mu z szyi tubus ze zwojem. Pergamin jest pusty.
     - Kruk nalega żeby podpisać papier. Z rozmowy z nim [Ilana](#g_ilana) dowiaduje się, że jest on przyzwańcem [magistra Floriana](#p_florian_z_vicovaro), a także, że kiedyś był sową dopóki ta go nie zestrzeliła (za co nawiasem chowa do niej lekką urazę).
-    - Zwój jest magiczny. [Kajetan](#g_kajetan) bardzo nieufnie odnosi się do podpisywania czegokolwiek _in blanco_, ale ostatecznie stawia swoje inicjały na papierze, rozpoczynając tym pisemną rozmowę z magiem z Brugge.
+    - Zwój jest magiczny. [Kajetan](#g_kajetan) bardzo nieufnie odnosi się do podpisywania czegokolwiek _in blanco_, ale ostatecznie stawia swoje inicjały na papierze, rozpoczynając tym pisemną rozmowę z magiem z [Brugge](#l_m_brugge).
     - Od samego [Floriana](#p_florian_z_vicovaro) dowiadujemy się dlaczego od odstatniego wieczora każda próba kontaktu z nim kończyła się fiaskiem - mag zamknął się w pracowni obarowany magicznymi ekranami. Ten zwój ma umożliwić bezpieczną metodę wymiany wiadomości w czasie rzeczywistym, bez ryzyka, że ktoś je przechwyci.
     - [Mag](#p_florian_z_vicovaro) prosi nas o nietypową rzecz - mamy dostarczyć mu możliwie duży fragment menhiru z [Mayeny](#l_mayena). Ma on stanowić istotny komponent w rozprawie z [Larsem](#p_lars).
     - Odsyłamy kruka i udajemy się na spoczynek nieopodal mostu, z dala od mayeńskiego pola bitwy.

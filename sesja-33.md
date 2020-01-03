@@ -12,7 +12,7 @@
     - Uwalniamy się z więzienia niszcząc wewnętrzny krąg ochronny i czaszkę, która w nim leżała. Zdajemy sobie sprawę, że nekromanta, jeśli kiedykolwiek wróci, nie będzie już uwięziony.
     - Wracamy do ostatniego miejsca gdzie widzieliśmy druidzkie znaki z mchu, aby za nimi podążać.
     - Docieramy do dwumetrowego pomnika wyobrażającego elfkę w rogatym hełmie zakrywającym twarz. 
-    - W rękach postać trzyma łuk, a nad hełmem, między rogami, wisi kula światła. W promieniu jego padania pomnik otacza fioletowa trawa, taka sama jaką widzieliśmy w sercu Brokilonu. 
+    - W rękach postać trzyma łuk, a nad hełmem, między rogami, wisi kula światła. W promieniu jego padania pomnik otacza fioletowa trawa, taka sama jaką widzieliśmy w sercu [Brokilonu](#l_brokilon). 
     - Pamiątkowa plakietka rzecze "_Zachowaj swój blask_" - Caemiris, Artystka. 
     - Bliższy rzut oka ujawnia na ubiorze posągu plamy z farby, a w kołczanie obok strzał znajduje się kilka pędzli.
     - Kierujemy się dalej za strzałką mchu na piersi posągu.
@@ -26,7 +26,7 @@
             - Góry Smocze, Pardwa, bez szkiełka
             - Patelnia, Kukawka, bez szkiełka
             - Środek [Nilfgaardu](#l_nilfgaard), Bażant, bez szkiełka; zdaje się być najważniejszy
-        - są też inne miejsca, gdzie linie się przecinają: Ellander, Maribor, Carreras, nie są jednak specjalnie zaznaczone
+        - są też inne miejsca, gdzie linie się przecinają: [Ellander](#l_ellander), [Maribor](#l_maribor), [Carreras](#l_carreras), nie są jednak specjalnie zaznaczone
     - Na środku placu stoi drzewo. Jest gołe i obrośnięte krzakami, wydaje się być uschnięte, jednak nie zamieniło się w sadzę.
     - [Ilana](#g_ilana) i [Finarrin](#p_druid_finarrin) znajdują w krzakach słabnący z wieku druidzki krąg ochronny, w środku mały obóz i wbitą w drzewo zapartą o ziemię glewnię, zdobioną jak druidzki kostur elfa.
     - W obozie znjadujemy notatki [Ivryna](#p_arcydruid_ivryn), a w nich takie zapiski jak: 
