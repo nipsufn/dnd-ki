@@ -12,7 +12,7 @@
 3. [Fiolka Zdrowia](#l_fiolka_zdrowia)
     * [Viggo](#p_viggo_regner) jest zawiedziony brakiem szczura, jednak [Zeulg](#b_zeulg) też jest interesujący - paraliżującą toksynę da się pozyskać do różnych celów.
     * [Zeulga](#b_zeulg) ktoś chodował na toksynę i pobierał ją nie zabijając potwora.
-    * [Viggo](#p_viggo_regner) opowiada nam co wie o [Vilgeforzu](#p_vilgeforz) i [Filippie Eilhart](#p_filippa_eilhart).
+    * [Viggo](#p_viggo_regner) opowiada nam co wie o [Vilgefortzu](#p_vilgefortz) i [Filippie Eilhart](#p_filippa_eilhart).
     * [Kaedwen](#l_kaedwen), uprzednio pod władzą [Henselta](#p_krol_henselt), nie jest zadowolone z rządów Redanii, może dojść do wojny domowej.
     * [Keira Metz](#p_keira_metz) była/jest magiem specjalizującym się w leczeniu.
     * Przypadłość [Ilany](#g_ilana) może być formą lycantropii za czym zdaje się przemawiać jej epizod w [Świątyni Melitele](#l_smelitele) (to zdarzyło się w czasie pełni księżyca).

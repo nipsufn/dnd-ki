@@ -83,7 +83,7 @@
         * Viggo [Regner](#p_viggo_regner) - miejsce nauki
     * Rinbe<a id='l_rinbe'></a>
         * Położone nad północym brzegiem Pontaru
-        * Lokacja jednego z laboratoriów [Vilgeforza](#p_vilgeforz)
+        * Lokacja jednego z laboratoriów [Vilgefortza](#p_vilgefortz)
 * Temeria<a id='l_temeria'></a>
     * Wyzima<a id='l_wyzima'></a>
         * stolica Temerii

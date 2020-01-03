@@ -40,7 +40,7 @@
     * 60GP
     * złapać żywego szczura z kanałów
     * [Viggo Regner](#p_viggo_regner)
-- [ ] Śladami [Vilgeforza](#p_vilgeforz)<a id='z_q9'></a>
+- [ ] Śladami [Vilgefortza](#p_vilgefortz)<a id='z_q9'></a>
 - [ ] Gdzie jest [Myszowór](#p_myszowor)?<a id='z_q10'></a>
 - [x] Paczki "Towarzystwa"<a id='z_q11'></a>
     * 600GP płatne przy dostarczeniu obydwóch

@@ -23,7 +23,7 @@
 * Myszowór<a id='p_myszowor' class='Myszow*,Druid* Myszow*'></a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
     - przebywa na Skellige
-* Arcydruid Ivryn<a id='p_arcydruid_ivryn' class="Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'></a> - ?, druid
+* Arcydruid Ivryn<a id='p_arcydruid_ivryn' class='Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'></a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
     - przebywał też w [Craag An](#l_craag_an) gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
 * Alzur<a id='p_alzur' class='Alzur*'></a>
