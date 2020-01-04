@@ -12,15 +12,25 @@ tags = []
 
 class myParser(HTMLParser):
   def handle_starttag(self, tag, attrs):
-    if 'id' not in dict(attrs).keys():
+    if tag != "a":
       return
-    if tag == "a" and re.match(r"._.+", dict(attrs)['id']):
-      if 'class' not in dict(attrs).keys():
-        return
-      for alias in dict(attrs)['class'].split(','):
-        alias = r"([ ,.()])(" + alias.replace(r"*", r"\w{0,4}") + r")([ ,.()\n])"
-        global tags
-        tags.append([alias, dict(attrs)['id']])
+    if 'href' in attrDict.keys():
+      return
+    attrDict = dict(attrs)
+    if 'id' not in attrDict.keys():
+      return
+    if   'pattern' in attrDict.keys():
+      patternList = attrDict['pattern'].split(',').sort(key = len)
+      regex = '|'.join(patternList)
+      regex = regex.replace(r"*", r"\w{0,4}")
+      global tags
+      tags.append([attrDict['id'], regex])
+    elif 'regex'   in attrDict.keys():
+      global tags
+      tags.append([attrDict['id'], attrDict['regex']])
+    else:
+      return
+
         
 whitelist = [
   sys.argv[0][2:],
@@ -30,32 +40,6 @@ whitelist = [
   "test.py",
   "tag.py"
   ]
-whitelist2 = [
-  sys.argv[0][2:],
-  ".gitignore"
-  "requirements.txt",
-  ".travis.yml",
-  "test.py",
-  "tag.py",
-  "bestariusz.md",
-  "header.md",
-  "heraldyka.md",
-  "lokacje.md",
-  "ogloszenia.md",
-  "postaci-graczy.md",
-  "postaci.md",
-  "readme.md",
-  "requirements.txt",
-  "rozne.md",
-  "toc.md",
-  "zadania.md"
-  ]
-
-feedback = ""
-
-def write(text):
-  global feedback
-  feedback += text + "\n"
 
 tagRetreiver = myParser()
 # pass 1 - generate tags
@@ -74,10 +58,15 @@ for filePath in fileList:
   with open(filePath, 'r', encoding='utf-8') as fileStream:
     text = fileStream.read()
     for pair in tags:
-      #print ("hello: "+pair[0]+ " " + pair[1])
-      regex = r"\1[\2](#"+pair[1]+r")\3"
-      #print ("hello: ;;"+pair[0]+ ";; ;;" + regex + ";;")
-      text = re.sub(pair[0], regex, text)
+      #all user-tags `[whatever](Actual Name)`
+      regex = r"(\[[ \w].+?\]\()" + r"("+pair[1]+r")" + r"(\))"
+      substitute = r"\1#"+pair[0]+r"\3"
+      text = re.sub(regex, substitute, text)
+      
+      #all standard tags unless it is already tagged [] or in between ><
+      regex = r"([^[^>])" + r"("+pair[1]+r")" + r"([^]^<])"
+      substitute = r"\1(#"+pair[0]+r")\3"
+      text = re.sub(regex, substitute, text)
   with open(filePath, 'w', encoding='utf-8') as fileStream:
     fileStream.write(text)
     
