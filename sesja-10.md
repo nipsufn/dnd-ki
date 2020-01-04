@@ -38,7 +38,7 @@
 5. [Różyczka](#l_rozyczka) wieczorem, po polowaniu
     - Świętujemy sukcess dużą ilością mocnego alkoholu.
     - [Skovik](#p_skovik) opowiada:
-        - Svalblod jest jednym z bogów na Skellige
+        - Svalblod jest jednym z bogów na [Skellige](#l_wyspy_skellige)
         - Vildcaarlowie to wojownicy potrafiący przemieniać się w zwierzęta podobnie jak [Ilana](#g_ilana); ich siedzibą jest [Fornhala](#l_fornhala)
         - [druid Artis](#p_druid_artis) uczył kandydatów na Vildcaarla kontrolować przemianę
         - [Skovik](#p_skovik) siedział w więzieniu za przedłożenie lojalności wobec klanu nad lojalność wobec obecjej [władczyni Skellige](#p_cerys)

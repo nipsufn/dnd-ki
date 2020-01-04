@@ -4,7 +4,7 @@
     - Przeszukując dalej stosy książek zauważamy, że sporo z nich ma wyrwane strony. [Ilanie](#g_ilana) udaje się odnaleźć kilka z nich.
     - Podczas gdy my pogrążamy się w lekturze, [obcy elf](#p_lanemin) spędza sporo czasu w sali treningowej walcząc ze zbroją.
     - [Kajetan](#g_kajetan) do późnego wieczora studiuje księgi, znajdując w nich odpowiedzi na kilka swoich pytań:
-        - okolice w kórych mag eksplorował ruiny zamieszkiwała niegdyś rasa jaszczurowatych stworzeń, większych od ludzi, potrafiących zablokować Moc; Aen Drisichean nie zamierzali dalej zwiedzać tych obszarów
+        - okolice w kórych mag eksplorował ruiny zamieszkiwała niegdyś rasa jaszczurowatych stworzeń, większych od ludzi, potrafiących zablokować Moc; [Aen Drisichean](#r_aen_drisichean) nie zamierzali dalej zwiedzać tych obszarów
         - magia to tkanina rzeczywistości, drobne nierówności miałyby tworzyć rzeczywistość, świadomość; większe zagięcia to miejsca szczególnej Mocy, których nie zastąpi największy nawet talent i umiejętności
         - jedyna rasa o którjej wspominają w swoich kronikach [Aen Drisichean](#r_aen_drisichean), która zdaje się przetrwała do dzisiejszych lat to Krasnoludy czy Gnomy, "Ludzie Ziemi"
         - [Aen Drisichean](#r_aen_drisichean) przybyli do tego świata portalem który próbowała otworzyć [Eithne](#p_eithne). Do dzikiego, pustynnego świata wtłaczali Moc czerpaną z portalu którym przybyli. Budowali miasta wokół większości portali prowadzących do innych światów, same rozłamy w rzeczywistości kotwicząc strzelistymi wieżami:
@@ -20,13 +20,13 @@
         - [Aen Drisichean](#r_aen_drisichean) podróżowali między światami, nigdy nie zajmując się rolą. Gdy ich populacja rosła, część klanu wyruszała w poszkukiwaniu nowego świata
         - postaci, któych szkielety spotkaliśmy pod [Ellander](#l_ellander) pochodzą ze świata "Czerwonych Piasków", bardzo niegościnnego. Postaci dzierżące broń z kości i obysdianu rosły dosłownie i obrastały w potęgę z każdym zabitym przez siebie wrogiem
         - [Alzur](#p_alzur), potężny mag, eksperymentował z niekonwencjonalnym użyciem Mocy i modyfikowaniem żywych organizmów; stworzył zakon Wiedźminów
-        - łapanie Djinni, sztuka, której rzadko podejmują się najpotężniejsi współcześni magowie, było zaledwie zadaniem domowym dla adeptów niegdyś zamieszkujących [Craag An](#l_craag_an)
+        - łapanie [Djinni](#b_djinni), sztuka, której rzadko podejmują się najpotężniejsi współcześni magowie, było zaledwie zadaniem domowym dla adeptów niegdyś zamieszkujących [Craag An](#l_craag_an)
     - Zmęczeni poszukiwaniami szykujemy się do snu. [Kajetan](#g_kajetan) przezornie nie zaprasza [nowego towarzysza](#p_lanemin) do bąbla mając na uwadze bezpieczeństwo drużyny.
     - W nocy słyszymy jak nasz [nowy towarzysz](#p_lanemin) krząta się po piętrze wieży (wszedł do pokoju?). Później na warcie widzimy jak zastanawia się nad otwarciem zabezpieczonych drzwi do pokoju z mgłą, jednak po chwili sam z siebie odstępuje od tego pomysłu.
 2. Dzień po zmartwychwstaniu
     - Nazajutrz [Ilana](#g_ilana) próbuje nawiązać kontakt z [elfem](#p_lanemin), co jest trochę utrudnione przez dzielącą ich barierę językową. Prosi go o wstęp do sali treningowej, na co ten zgadza się z lekkim ociąganiem.
     - Korzystając ze sposobności [druidka](#g_ilana) przygląda się jeszcze raz freskowi. Z bliska pośród pozostałych bestii dostrzega smoki.
-    - [Obcy elf](#p_lanemin) kwituje, że smoki były tu przed Aen Drisichean, ale nie są tak straszne jak potwory z jego ojczystego świata.
+    - [Obcy elf](#p_lanemin) kwituje, że smoki były tu przed [Aen Drisichean](#r_aen_drisichean), ale nie są tak straszne jak potwory z jego ojczystego świata.
     - Elf ma na imię [Lanemin Anef Aep](#p_lanemin) i jest Arkanistą. 
     - Wydaje się być dużo potężniejszy od [Kajetana](#g_kajetan) - jednym pstryknięciem zapala nieczynne kandelabry. Mimo to w wyniku magicznej eksplozji jego ciało częściowo uległo spopieleniu, a dusza uciekła w cień (w przeciwieństwie do drugiej Arkanistki, która zachowała swe ciało nienaruszonym).
     - [Ilana](#g_ilana) próbuje swoich sił w pojedynku ze zbroją. [Laneminowi](#p_lanemin) udało się bez draśnięcia odrąbać jednej zbroi rękę. Druidka ma niestety mniej szczęścia i wychodzi z tej próby mocno pokiereszowana.
@@ -34,7 +34,7 @@
         - pierwotny lud, przodkowie wszystkich elfich klanów, zniszczył swój świat walcząc z inną potężną rasą, _jednorżcami_ (błąd tłumaczenia z Starszej Mowy, żart skryby, czy poważnie?)
         - drzewo na środku [Craag An](#l_craag_an) jest pomnikiem ku pamięci zmarłej królowej
         - po zamknięciu się portali obce elfy z [Craag An](#l_craag_an) straciły przypływ magii; ich dzieci zaczęły rodzić się z elementami, ciałem, a nawet duszą zwierzęcia
-        - Aen Drisichean musiały zabijać własne nowo narodzone dzieci, ale wkrótce choroba zaczęła objawiać się także u dorosłych
+        - [Aen Drisichean](#r_aen_drisichean) musiały zabijać własne nowo narodzone dzieci, ale wkrótce choroba zaczęła objawiać się także u dorosłych
         - król [Galawain](#p_galawain) nakazał otoczyć miasto magiczną barierą żeby odciąć się od zdziczałych elfów, przezwanych "Utraconymi", które pognały w las
         - królowa twierdziła, że to nie choroba, a ewolucja, naturalna kolej rzeczy i nalegała, by nie wypędzać zezwierzęconych
         - będąc ciężarną, królowa udała się do lasu; odnaleziono ją po kilku dniach, martwą

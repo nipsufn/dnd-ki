@@ -16,7 +16,7 @@
     - Okazuje się, że to przejście wymaga dodakowego słowa-klucza. Po bardzo długim czasie i wielu próbach i domysłach całej drużyny, kiedy  zamierzaliśmy się już poddać, właściwie zupełnym przypadkiem zgadujemy - _poświęcenie_
     - Posadzka otwiera się, ukazując spiralne schody w głąb podziemi. Drużyna zaczyna schodzić, gdy [Ilanie](#g_ilana) niespodziewanie przypomina się o [tubylcu](#p_lanemin), którego wskrzesiliśmy. Jest przekonana że sam nas tu nie znajdzie, po czym wybiega przed Warownię, by zastać całą okolicę zarośniętą drzewnymi postaciami, podobnymi do tych jakie spotkaliśmy w [Medownej](#l_medowna)
     - Jeden z drzewoludzi trzyma w badylach strzępek szaty [Lanemina](#p_lanemin). Druida próbuje go nawoływać, ale bezskutecznie.
-    - Poczwary trzymają się z dala od światła rzucanego przez posągi. Nie są też w stanie (podobnie jak nekkery na granicy [Craag An](#l_craag_an)) przestąpić progu Warowni. Jeden czy dwa podejmują próbę, ale natychmiast rozpadają się w pył.
+    - Poczwary trzymają się z dala od światła rzucanego przez posągi. Nie są też w stanie (podobnie jak [nekkery](#b_nekker) na granicy [Craag An](#l_craag_an)) przestąpić progu Warowni. Jeden czy dwa podejmują próbę, ale natychmiast rozpadają się w pył.
 2. W podziemiach Warowni
     - Przeszukujemy klauzurne podziemia:
         - wydaje się, że zostały opuszczone przed kataklizmem jaki spotkał [Craag An](#l_craag_an)

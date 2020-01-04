@@ -40,7 +40,7 @@
         - [Finarrin](#p_druid_finarrin) widział ją po raz pierwszy kiedy był jeszcze młody, a było to w [Mayenie](#l_mayena), a potem jeszcze raz kiedy, nieco starszy, był tam przejazdem
         - kobieta ta jest druidką, ale zdaje się w ogóle nie starzeć (czarodziejka?)
         - możliwe, że jeszcze żyje
-        - w okolicy zamku Risseberg ([Cidaris](#l_cidaris)) ktoś próbował eksperymentować z goecją, ale skończyło się to rzeźnią; druidzi raczej nie parają się taką magią
+        - w okolicy zamku Risseberg ([Cidaris](#l_cidaris)) ktoś próbował eksperymentować z [goecją](#r_goecja), ale skończyło się to rzeźnią; druidzi raczej nie parają się taką magią
         - [Myszowór](#p_myszowor) jest na [Skellige](#l_wyspy_skellige) i trzyma się całkiem nieźle; pochodzi z kręgu [Mayeńskiego](#l_mayena); był przyjacielem [Calanthe](#p_calanthe)
         - [Finarrin](#p_druid_finarrin) proponuje pomoc w zlokalizowaniu [Filippy](#p_filippa_eilhart)
         - druid wyjawia, że [Skovik](#p_skovik) "zaprosił go na ryby"

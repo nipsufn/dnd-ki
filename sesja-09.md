@@ -17,7 +17,7 @@
     - Dowiadujemy się o [Dijkstrze](#p_dijkstra).
     - [Novigrad](#l_novigrad) został puszczony prawie cały z dymem przez magów miesiąc - dwa przed Dwójksiężycową Nocą; w pożarze umarł przywódca Łowców, [Menge](#p_menge).
     - [Menge](#p_menge) odesłał [Lorda Myrtona](#p_lord_myrton), swoją prawą rękę, z bliżej niewyjaśnianych powodów (ambicja?) do [Ellander](#l_ellander) jakiś czas temu.
-    - Typowe trasy do portów z których można dopłynąć na Skellige (**[Gdzie jest Myszowór?](#z_q10)**):
+    - Typowe trasy do portów z których można dopłynąć na [Skellige](#l_wyspy_skellige) (**[Gdzie jest Myszowór?](#z_q10)**):
         [Carreras](#l_carreras) → [Maribor](#l_maribor) → [Brugge](#l_brugge) → [Verden](#l_verden)
         [Carreras](#l_carreras) → [Wyzima](#l_wyzima) → [Gors Velen](#l_gors_velen)
         [Gors Velen](#l_gors_velen) (bezpośrednio)
@@ -36,7 +36,7 @@
     - [Ilanie](#g_ilana) nie idzie zbyt dobrze, w efekcie czego jest winna [Skovikowi](#p_skovik) nie tylko sporo faktów, o które pyta, ale też kieł niedźwiedzia do jego naszyjnika. [Kajetanowi](#g_kajetan) za to udaje się, po przegranej w szachy, wygrać w karty ze [Skovikiem](#p_skovik) i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#l_wyspy_skellige).
         - na wyspach jest 7 klanów
         - [Skovik](#p_skovik) z braćmi należą do klanu Drummond
-        - jarlem na Skellige została kobieta z klanu An Craite, [Cerys](#p_cerys)
+        - jarlem na [Skellige](#l_wyspy_skellige) została kobieta z klanu An Craite, [Cerys](#p_cerys)
         - starsi klanów nie są zadowoleni z polityki [Cerys](#p_cerys), która planuje ukrócić pirackie tradycje
         - klany Drummond i An Craite dzielą jedną z wysp, są skłócone
         - z klanu Drummond ponoć pochodzą najlepsi żeglarze

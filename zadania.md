@@ -1,7 +1,7 @@
 ## Zadania
-- [x] Zlecenie na Kota Migota (aka Drwalskie Bebechy)<a id='z_q1'></a>
+- [x] Zlecenie na [Kota Migota](#b_migot) (aka Drwalskie Bebechy)<a id='z_q1'></a>
     - 40GP za pozbycie się potwora atakującego drwali lub 5GP/noc za ochronę drwali bez polowania
-    - Otto [Kranmer](#p_otto_kranmer); Hans [Kranmer](#p_hans_kranmer)
+    - [Otto](#p_otto_kranmer) [Kranmer](#p_otto_kranmer); [Hans](#p_hans_kranmer) [Kranmer](#p_hans_kranmer)
 - [x] Punkt Mocy pod [Ellander](#l_m_ellander)<a id='z_q2'></a>
     - 100GP za dowód działania Mocy w kanałach
     - 3 wejścia

@@ -21,7 +21,7 @@
         - [Kajetan](#g_kajetan) proponuje siłaczowi łyk nalewki z mandragory za łyk jego napoju - napotyka stosunkowo uprzejmą odmowę; dalej nie ma pewności, że haczykiem jest nalewka
         - [Ilana](#g_ilana) wybiera się do wróżki; dowiaduje się, że zmierzając dalej na [Skellige](#l_wyspy_skellige) oddala się od [Filippy](#p_filippa_eilhart) oraz, że kobieta z jej snów najprawdopodobniej nadal żyje
         - rozsierdzony [Kajetan](#g_kajetan) również do niej zagląda; zadaje pytania o siłacza potwierdzające jego podejrzenia; otrzymuje też przepowiednię, że [Filippa Eilhart](#p_filippa_eilhart) może nie być mu w stanie pomóc, ale i tak powinien ją spotkać
-    - O zachodzie wybieramy się do [Magistra Floriana z Vicovaro](#p_florian_z_vicovaro):
+    - O zachodzie wybieramy się do [Magistra [Floriana](#p_florian_z_vicovaro) z Vicovaro](#p_florian_z_vicovaro):
         - mag bardzo nieelegancko zagląda pod iluzję [Kajetana](#g_kajetan) tłumacząc to względami bezpieczeństwa
         - uważnie notuje nasze sprawozdanie
         - wypłaca 100GP za czaszkę [Barghesta](#b_barghest)

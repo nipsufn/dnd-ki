@@ -24,7 +24,7 @@
         - [Ilana](#g_ilana) używa magii żeby naprawić uszkodzoną oś (dla niepoznaki używa nieco drewna i liny żeby wszystko wyglądało jak naprawione ręcznie)
         - [strażnik](#p_tom) zostaje wyleczony magią druidki, ale jak w przypadku wozu dla zachowania pozorów, dodatkowo otrzymuje bandaż z opatrunkiem
     - Nad ranem [Ilana](#g_ilana) idzie zapolować na śniadanie. Z lasu wraca biegiem, budząc wszystkich nieobudzonych i pospieszając do wymarszu.
-    - W czasie polowania na ślad obozowiczów trafiły olbrzymie skolopendry i teraz suną przypuścić atak na obóz.
+    - W czasie polowania na ślad obozowiczów trafiły olbrzymie [skolopendry](#b_stonoga) i teraz suną przypuścić atak na obóz.
     - Dzięki szybkiej i sprawnej akcji udaje nam się uciec przed pościgiem giga-stonóg.
 4. [Świątynia](#l_smelitele)
     - U stóp wzgórza, na którym stoi świątynia, zastajemy kolumnę obozującego wojska [Redanii](#l_redania).

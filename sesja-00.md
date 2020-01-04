@@ -9,7 +9,7 @@
     - W desperackiej próbie wydostania się z potrzasku, [Ilana](#g_ilana) przemienia się w olbrzymiego niedźwiedzia i rozsadza wóz od środka.
     - Wyswobodzona dwójka szarżuje bez zastanowienia na zaskoczonych Łowców.
     - W pewnym momencie z powietrza atakuje [gryf](#b_gryf). Bestia próbuje porwać konie razem z resztkami wozu przytwierdzonymi do dyszla.
-    - Odstraszamy gryfa, który finalnie ucieka z jednym z koni.
+    - Odstraszamy [gryfa](#b_gryf), który finalnie ucieka z jednym z koni.
     - Łowcy giną jeden po drugim - dwóch pada pod ciężkimi razami niedźwiedzich łap, trzeci ucieka w popłochu w las. Czwartego pachołka załatwia elf.
     - Dowódca, uprzednio stłuczony do nieprzytomności, ginie podczas nieudanej próby przesłuchania.
     - Przeszukawszy resztki zdruzgotanego wozu nie znajdujemy tam swojego dobytku.

@@ -20,7 +20,7 @@
     - Melodia fletu kieruje nas w kierunku północy. Po kilku kilometrach natykamy się na imitację totemu:
         - znaleziona miniaturowa wersja jest, podobnie jak totemy [Protektora](#b_bizoktor), zrobiona z kości
         - przedstawia wieżę, a na jej szczycie kobietę siedzącą na tronie
-        - figurka ta została najprawdopodobniej wykonana przez nekkery
+        - figurka ta została najprawdopodobniej wykonana przez [nekkery](#b_nekker)
         - delikatnie emanuje magią
     - [Ivar](#p_ivar) nie zastanawiając się sięga po swój topór i roztrzaskuje bluźnierczą rzeźbę.
     - [Ilana](#g_ilana) zwraca mu uwagę uzmysławiając, że mógł narobić więcej szkody niż pożytku gdyby totem miał w sobie więcej mocy.
@@ -50,7 +50,7 @@
         - wieża musiała być wręcz nienaturalnie wysoka, bo młodnik ciągnący sie prze las znaczy miejsce jej upadku
         - definitywnie podtrzymywała ją magia (bez niej wieża nie mogłaby być tak wysoka)
         - ziemia dookoła niektórych kamieni wygląda jakby została poddana działaniu wysokiej temperatury, bo przypomina miejsce po uderzeniu pioruna w piasek - jeśli to eksplozja konstrukcji podtrzymywanej Mocą, jedyne wydarzenie podobnej skali jakie kojarzy [elf](#g_kajetan) to zniszczenie [wyspy Thanedd](#l_wyspa_thanedd)
-        - możliwe, że była to sama Tor Corax, a jej fundamenty znajdują się w [Duen Canell](#l_duen_canell)
+        - możliwe, że była to sama [Tor Corax](#r_tor_corax), a jej fundamenty znajdują się w [Duen Canell](#l_duen_canell)
         - mogła to być wieża z naszej wizji
         - ruiny wyciągają Moc z okolicy i kierują w dół ruin budowli, efek przypomina nieco silne pole antymagiczne tworzone przez obelisk nieopodal [Wioski Druidów](#l_wioska)
     - Pod jedną ze ścian, przez szkiełka, dostrzegamy magiczny błysk z innego świata. [Kajetan](#g_kajetan) prosi [Skovika](#p_skovik) o pomoc w rozłupaniu głazu aby móc dostać się do środka.

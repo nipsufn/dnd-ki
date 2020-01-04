@@ -4,7 +4,7 @@
 - Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - Łowcy Czarownic/Potworów / Zakon Wiecznego Ognia
 - trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas łowców i na znalezionej w kanałach bransoletce
 - Dwa groty, górny żółty, dolny czerwony - [Aedirn](#l_aedirn)
-- Fioletowe U z przedłużonymi ramionami - symbol klanu Drunmond (Wyspiarze ze Skellige)
+- Fioletowe U z przedłużonymi ramionami - symbol klanu Drunmond (Wyspiarze ze [Skellige](#l_wyspy_skellige))
 - Czarny niedźwiedź - [Wyspy Skellige](#l_wyspy_skellige)
 - Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - [Ellander](#l_ellander)
 - Krzyż biały w polu zielonym - [Brugge](#l_brugge)

@@ -14,7 +14,7 @@
 2. Ostateczne starcie
     - Słońce zaczyna się chylić ku zachodowi kiedy dopadamy drzewo. Widok jest ponury i budzi niedobre skojarzenia: drzewo wspięło się na szczyt lekkiego wzniesienia - jego gałęzie, powykręcane, przypominają makabryczne ramiona wyciągnięte ku niebu. Nad drzewem kłębi się stado czarnych ptaków, zupełnie jak wtedy nad menhirem w [Carreras](#l_carreras).
     - Nie czekając, aż [Formorian](#p_formorian) się obudzi, pokonujemy drogę na górę i przyskakujemy, tnąc, drapiąc i smagając konar ogniem.
-    - [Kajetan](#g_kajetan) odpala papierosa i używa jego żaru aby przyzwać Djinni ognia - małe istotki, które - teraz wyzwolone z ich pierwotnego planu egzystencji - wyżywają się na drzewie.
+    - [Kajetan](#g_kajetan) odpala papierosa i używa jego żaru aby przyzwać [Djinni](#b_djinni) ognia - małe istotki, które - teraz wyzwolone z ich pierwotnego planu egzystencji - wyżywają się na drzewie.
     - Jesteśmy już mocno pokiereszowani, kiedy [Ivar](#p_ivar) zadaje ostateczny cios swoim nowym orężem, spopielając drzewo. Po [Formorianie](#p_formorian) zostaje jedynie kryształ, w którym nadal pełga fioletowe światło.
     - Strat w ludziach/elfach/mieszańcach na szczęście brak. [Skovik](#p_skovik) poświęcił swoją glewnię, która - jako niemagiczna broń - nie wytrzymała próby ognia. [Ilana](#g_ilana) postawiła na nogi tracącego przytomność [Ivara](#p_ivar), poświęcając przy tym sporą część swojej siły witalnej. Najlepiej z całego towarzystwa wygląda [Kajetan](#g_kajetan) - mądrze trzymając się na dystans, zdołał uniknąć większości z ataków drzewa.
     - [mag](#g_kajetan) znajduje jedną, jedyną gałąź jaka została po [wrogu](#p_formorian), przepełnioną Mocą. Spędza kilka chwil zadumany nad nią po czym niszczy ją, uwalniając spętaną magię.

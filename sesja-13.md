@@ -21,7 +21,7 @@
     - W drodze do miasta [Brugge](#l_m_brugge) dyskutujemy o sytuacji politycznej, niekoniecznie się zgadzając.
     - Późnym wieczorem docieramy do miasta, zatrzymujemy się w karczmie [Pod Głową Dzika](#l_glowa_dzika), która wygląda jakby była ponad nasz stan.
     - Rankiem dowiadujemy się od karczmarki, że:
-        - nieludzie nie są obywatelami drugiej klasy pod Nilfgaardczykami
+        - nieludzie nie są obywatelami drugiej klasy pod [Nilfgaardczykami](#l_nilfgaard)
         - magowie nie są prześladowani, ale magia jest prawnie kontrolowana
         - poprzednim władcą [Brugge](#l_brugge) był [Wenzlaw I](#p_krol_wenzlaw_i), starał się utrzymywać dobre stosunki z Driadami
         - obecny władca, [Wenzlaw II](#p_krol_wenzlaw_ii), dla bezpieczeństwa państwa na mocy traktatu został lennikiem Czarnych

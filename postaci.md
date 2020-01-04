@@ -6,50 +6,50 @@
     - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek [Kapituły](#r_kapitula)
     - potrafi się zamieniać w sowę, możliwe inne zwierzęta
-    - oślepiona przez [Radowida](#p_krol_radowid) gdy przejął od niej władzę nad Redanią (była regentką)
+    - oślepiona przez [Radowida](#p_krol_radowid) gdy przejął od niej władzę nad [Redanią](#l_redania) (była regentką)
     - potencjalna winowajczyni nienawiści [Radowida](#p_krol_radowid) do Mocy i magów
 - <a id='p_keira_metz' pattern='Keir*,Keir* Metz,Metz'>Keira Metz</a> - ?, mag
     - była/jest magiem specjalizującym się w leczeniu
 - <a id='p_triss_merigold' pattern='Triss,Triss Merigold,Merigold'>Triss Merigold</a> - ?, mag
-    - członek Kapituły, zajmowała się intrygami politycznymi
-    - była doradczynią [Króla Foltesta](#p_krol_foltest) w Temerii
+    - członek [Kapituły](#r_kapitula), zajmowała się intrygami politycznymi
+    - była doradczynią [Króla Foltesta](#p_krol_foltest) w [Temerii](#l_temeria)
     - miała siedzibę w [Mariborze](#l_maribor)
 - <a id='p_geralt' pattern='Geral*,Geral* z Rivii,Biał* Wilk*,Vadgern*'>Greralt z Rivii</a> - człowiek, wiedźmin
-    - odczarował chłopa zamienionego w kormorana w Kerack
+    - odczarował chłopa zamienionego w kormorana w [Kerack](#l_kerack)
     - miał okazję rozmawiać z pokojowo nastawionym wilkołakiem w [Wyzimie](#l_wyzima)
-    - nielubiany w Aedirn (plotka głosi, że na zlecenie zabił króla Demawenda)
+    - nielubiany w [Aedirn](#l_aedirn) (plotka głosi, że na zlecenie zabił króla [Demawenda](#p_krol_demawend))
 - <a id='p_lambert' pattern='Laber*'>Lambert</a> - człowiek, wiedźmin
 - <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy [Triss Merigold](#p_triss_merigold)
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
-    - przebywa na Skellige
+    - przebywa na [Skellige](#l_wyspy_skellige)
 - <a id='p_arcydruid_ivryn' pattern='Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'>Arcydruid Ivryn</a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
     - przebywał też w [Craag An](#l_craag_an) gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
 - <a id='p_alzur' pattern='Alzur*'>Alzur</a>
     - mag, "ojciec" Wiedźminów
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
-    - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
+    - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu Drummond. Prowodyr zamachu na [Cerys](#p_cerys)
         [Ivar](#p_ivar): brat
         [Leiv](#p_leiv): brat
-    - <a id='p_ivar' pattern='Ivar*'>Ivar</a> - człowiek, lat około 20 paru, krótkie blond włosy lekko wypłowiałe od słońca, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige z klanu Drummond
+    - <a id='p_ivar' pattern='Ivar*'>Ivar</a> - człowiek, lat około 20 paru, krótkie blond włosy lekko wypłowiałe od słońca, nosi się w ciężkiej zbroi, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu Drummond
         [Skovik](#p_skovik): brat
         [Leiv](#p_leiv): brat (bliźniak)
-    - <a id='p_leiv' pattern='Leiv*'>Leiv</a> - człowiek, lat około 20 paru, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z Wysp Skellige z klanu Drummond
+    - <a id='p_leiv' pattern='Leiv*'>Leiv</a> - człowiek, lat około 20 paru, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu Drummond
         [Skovik](#p_skovik): brat
         [Ivar](#p_ivar): brat (bliźniak)
     - <a id='p_ebba' pattern='Ebb*'>Ebba</a> - człowiek,
-        pochodzi z Zerrikani (naród wywodzący się ponoć od smoków), wraz z Chidą poszukują smoka
+        pochodzi z Zerrikani (naród wywodzący się ponoć od smoków), wraz z [Chidą](#p_chida) poszukują smoka
         [Chida](#p_chida): siostra
     - <a id='p_chida' pattern='Chid*'>Chida</a> - człowiek,
         pochodzi z Zerrikani
         [Ebba](#p_ebba): siostra
-    - <a id='p_yarii' pattern='Yarii*'>Yarii</a> - człowiek z Aedirn, dezerter;
-        ma tatuaż z symbolem Aedirn na ramieniu
-    - <a id='p_varn' pattern='Varn*'>Varn</a> - człowiek z Aedirn, dezerter;
-        razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
+    - <a id='p_yarii' pattern='Yarii*'>Yarii</a> - człowiek z [Aedirn](#l_aedirn), dezerter;
+        ma tatuaż z symbolem [Aedirn](#l_aedirn) na ramieniu
+    - <a id='p_varn' pattern='Varn*'>Varn</a> - człowiek z [Aedirn](#l_aedirn), dezerter;
+        razem z [Yariim](#p_yarii) dołączyli do [Skovika](#p_skovik) i reszty w celach zarobkowych
 - [Aedirn](#l_aedirn)
-    - <a id='p_krol_demawend' pattern='Król* Demawend*,Demawend*'>✝ Król Demawend</a> - ; król, zabity przez Nilfgaardczyków
+    - <a id='p_krol_demawend' pattern='Król* Demawend*,Demawend*'>✝ Król Demawend</a> - ; król, zabity przez [Nilfgaardczyków](#l_nilfgaard)
     - <a id='p_stennis' pattern='Ksi* Stennis*,Stennis*'>Stennis</a> - ; książę
         [Demawend](#p_krol_demawend): ojciec
 - [Brokilon](#l_brokilon)
@@ -71,7 +71,7 @@
     - <a id='p_mirna' pattern='Mirn*'>Mirna</a> - człowiek; druid
         - przyjaciółka [Ilany](#g_ilana)
     - <a id="p_sariel" pattern='Sariel*,Flamin* Sariel*,Flamin*'>Sariel</a> - elf;
-        Flaminka, poprzedniczka [Finarrina](#p_druid_finarrin)
+        [Flaminka](#p_sariel), poprzedniczka [Finarrina](#p_druid_finarrin)
     - <a id='p_yaevinn' pattern='Yaevinn*'>Yaevinn</a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
     - <a id='p_zeff' pattern='Zeff*'>✝ Zeff</a>
@@ -97,10 +97,10 @@
             - Wypaczony [Aen Eldrin](#r_aen_eldrin), przybył do naszego świata przez ten sam portal przez który pojawiła się "zaproszona" czwórka
     - Postaci legendarne
         - <a id="p_krolowa_cierni" pattern='Królow* Cierni'>Królowa Cierni</a> - elfka;
-            prawdopodobnie żyła w Brokilonie na długo przed pojawieniem się ludzi(?);
+            prawdopodobnie żyła w [Brokilonie](#l_brokilon) na długo przed pojawieniem się ludzi(?);
             obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
         - <a id="p_galawain" pattern='Galawain*'>Galawain</a> - duch lasu,
-            [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w Medownej
+            [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w [Medownej](#l_medowna)
 - [Craag An](#l_craag_an)
     - <a id="p_lanemin" pattern='Lanemin*>Lanemin Anef Aep</a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
 - [Brugge](#l_brugge)
@@ -108,7 +108,7 @@
         - <a id='p_krol_wenzlaw_i' pattern='Król* Wenzlaw* I,Wenzlaw* I,Król* Wenzlaw- Pierwsz*,Wenzlaw* Pierwsz*'>✝ Król Wenzlaw I</a> - ; król [Brugge](#l_brugge)
             Przychylny Driadom
         - <a id='p_krol_wenzlaw_ii' pattern='Król* Wenzlaw* II,Wenzlaw* II,Król* Wenzlaw* Drugi*,Wenzlaw* Drugi*'>Król Wenzlaw II</a> - ; król [Brugge](#l_brugge)
-            Podpisał umowy z Nilfgaarderm
+            Podpisał umowy z [Nilfgaarderm](#l_nilfgaard)
         - <a id='p_florian_z_vicovaro' pattern='Pan* Florian*,Magist* Florian*,Pan* Florian* Vicovaro,Magist* Florian* Vicovaro,Florian* Vicovaro,Florian*,Vicovaro'>Magister Florian z Vicovaro</a> - ; mag
         - <a id='p_lars' pattern='Lars*'>Lars</a> - ; domniemany przywódca szajki najemnych złoczyńców w [Brugge](#l_brugge); ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
         - <a id='p_gyf' pattern='Gyf*'>Gyf</a> - człowiek w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)
@@ -136,7 +136,7 @@
         rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami
     - <a id='p_viggo_regner' pattern='Vigg*,Vigg* Regner*'>Viggo Regner</a> - ; alchemik/mag;
         Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
-        ? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
+        ? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) [Janus](#p_lukrecja_schattenwort) Schattenwort: podwładny, uczeń
     - <a id='p_lukrecja_schattenwort' pattern='Lukrecj*,Lukrecj* Schattenwort,Janus*'>[Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort</a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
         [Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
     - <a id='p_pani_regner'>? Regner</a> - ; mag;
@@ -147,7 +147,7 @@
         dziecko widziało zmarłego ojca (potwór żywiący się tęsknotą, ubity przez PC), dziecko przejawia predyspozycje do użycia Mocy, wyrusza z PC do Świątyni Melitele;
         [Ethar](#p_ethar): mąż; [Daria](#p_daria): córka
     - <a id='p_daria' pattern='Dari*'>Daria</a> - ; dziecko;
-        widziała zmarłego ojca w potworze, wyrusza z matką do Świątyni Melitele nauczyć się kontrolować Moc do której ma predyspozycje;
+        widziała zmarłego ojca w potworze, wyrusza z matką do [Świątyni Melitele](#l_smelitele) nauczyć się kontrolować Moc do której ma predyspozycje;
         [Eliza](#p_eliza): matka; [Ethar](#p_ethar): ojciec
     - <a id='p_ethar' pattern='Ethar*'>✝ Ethar</a> - ; żołnież;
         zmarł na wojnie;
@@ -165,7 +165,7 @@
         interes rodzinny;
     - <a id='p_wojciech' pattern='Wojciech*'>Wojciech</a> - ; majster drwali;
         mieszka na podgrodziu;
-        Otto [Kranmer](#p_otto_kranmer): pracodawca; Hans [Kranmer](#p_otto_kranmer): pracodawca
+        [Otto](#p_otto_kranmer) [Kranmer](#p_otto_kranmer): pracodawca; [Hans](#p_hans_kranmer) [Kranmer](#p_otto_kranmer): pracodawca
     - <a id='p_maria' pattern='Mari*'>Maria</a> - półelf; gospodarz;
         prowadzi gospodę "[Różyczka](#l_rozyczka)" z mężem;
         [Walerian](#p_walerian): mąż, partner
@@ -179,7 +179,7 @@
         główny kapłan Wiecznego Ognia w [Ellander](#l_ellander), mocno starszy; umarł przed Solstitum zimowym pierwszego roku po Zetknięciu Sfer
         Młody Kapłan: podwładny
     - <a id='p_tom' pattern='Tom*'>Tom</a> - ; strażnik;
-        ugryziony przez szczura, przewieziony do Świątyni Melitele przez PC;
+        ugryziony przez szczura, przewieziony do [Świątyni Melitele](#l_smelitele) przez PC;
     - <a id='p_mandrej' pattern='Mandrej*'>Kupiec Mandrej</a> - ; ?;
         zasiada w radzie miejskiej
     - <a id='p_lord_myrton' pattern='Lord* Myrton*,Myrton*'>Lord Slyz Myrton</a> - ; dowódca;
@@ -208,7 +208,7 @@
         zakładał obozy pracy dla Scoia'tael
     - <a id='p_menge' pattern='Menge*'>✝ Menge</a> - ; przywódca zakonu Łowców
         [Lord Slyz Myrton](#p_lord_myrton): podwładny
-    - <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w Mayenie na dybuga
+    - <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w [Mayenie](#l_mayena) na dybuga
     - <a id='p_hemmelfart' pattern='Hemmelfart'>Cyrus Engelkind Hemmelfart</a> - kapłan; Główny Kapłan kultu Wiecznego Ognia
 - [Świątynia Melitele](#l_smelitele):
     - <a id='p_matka_iola' pattern='Mat* Iol*,Iol*'>Matka Iola</a> - ; kapłanka;
@@ -223,14 +223,14 @@
         - opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
         - buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1370PP, możliwe że zostanie nazwana _"W pół drogi"_
 - [Wyspy Skellige](#l_wyspy_skellige)
-    - <a id='p_cerys' pattern='Cerys an Craite,Cerys'>Cerys an Craite</a> - ; jarl wysp Skellige
+    - <a id='p_cerys' pattern='Cerys an Craite,Cerys'>Cerys an Craite</a> - ; jarl wysp [Skellige](#l_wyspy_skellige)
         córka Crach an Craite'a
         pierwsza kobieta na tronie Wysp
-    - <a id='p_hjalmar' pattern='Hjalmar an Craite,Hjalmar'>Hjalmar an Craite</a> - ; kandydat do tronu Skellige
-        brat Cerys
+    - <a id='p_hjalmar' pattern='Hjalmar an Craite,Hjalmar'>Hjalmar an Craite</a> - ; kandydat do tronu [Skellige](#l_wyspy_skellige)
+        brat [Cerys](#p_cerys)
     - <a id='p_druid_artis' pattern='Druid* Artis*,Artis*'>Druid Artis</a> - ; druid
         przewodzi Vildkaarlom
-    - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a> - ; 
-        zwany też Szalonym, głowa klanu Drummond</a><a id='p_drummond'></a>
+    - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a><a id='p_drummond'></a> - ;
+        zwany też Szalonym, głowa klanu Drummond
         ma na pieńku z klanem an Craite
         wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](#l_wyspy_skellige), [Cerys an Craite](#p_cerys)

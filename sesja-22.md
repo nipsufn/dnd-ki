@@ -34,11 +34,11 @@
     - Podczas kolacji zapadają finalne plany wyprawy do [Medownej](#l_medowna).
     - [Ilana](#g_ilana) uczy się od [Mirny](#p_mirna) i [Finarrina](#) władać ogniem. [Kajetan](#g_kajetan), nie chcąc być gorszy (i marnować okazji do głupich żartów), uczy się również, podglądając lekcje z ukosa.
     - [Ilana](#g_ilana) prosi [Skovika](#p_skovik) o spacer. Porusza temat wyprawy na Skellige:
-        - najbezpieczniej będzie popłynąć na południe Aard Skellige
-        - musimy trzymać się z dala od Kaer Trolde, siedziby rodu An Craite
+        - najbezpieczniej będzie popłynąć na południe Aard [Skellige](#l_wyspy_skellige)
+        - musimy trzymać się z dala od [Kaer Trolde](#l_kaer_trolde), siedziby rodu An Craite
         - trzeba sprawdzić, czy ostał się ktokolwiek z rodu Drummond
         - można spróbować zaprosić [Myszowora](#p_myszowor) do fortecy Drummondów
-        - do [Fornhali](#l_fornhala) można dostać się na dwa sposoby, ale jedynie przez góry - od strony portu Holmstein lub od wsi nieco bardziej na wschodzie
+        - do [Fornhali](#l_fornhala) można dostać się na dwa sposoby, ale jedynie przez góry - od strony portu [Holmstein](#l_holmstein) lub od wsi nieco bardziej na wschodzie
     - Drużyna udaje się na spoczynek.
     - Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę. [Ilana](#g_ilana) na odchodne otrzymuje od [Skovika](#p_skovik) prezent: wystruganą przez niego figurkę wilczycy z młodymi - symbol ochrony, jaką druidka roztacza nad drużyną.
 2. Droga do [Medownej](#l_medowna)
@@ -52,7 +52,7 @@
         - [Kajetan](#g_kajetan) mało nie dostaje palpitacji na samą myśl, jednak pomysł poproszenia [Leiva](#p_leiv) o załatwienie sprawunków, o których myśli młoda druidka nieco go uspokaja
         - [Ilana](#g_ilana) podejrzewa, że sowa, która próbowała za nami lecieć podczas naszej ucieczki to [Filippa Eilhart](#p_filippa_eilhart)
     - Zwabione rzucanymi przez nas zaklęciami [nekkery](#b_nekker) atakują nas w ostatni dzień podróży. Dowodzi nimi humanoidalna postać, z jej klatki piersiowej wystaje gałąź, nieco kojarząca się z tą, która zraniła draidę przybyłą do [Wioski](#l_wioska). 
-    - Ostatnim tchem, pozbawione wsparcia nekkerów, stworzenie woła:<br/><br/>
+    - Ostatnim tchem, pozbawione wsparcia [nekkerów](#b_nekker), stworzenie woła:<br/><br/>
                 *"Królowo Cierni, ratuj!"*<br/><br/>
     - W czasie walki [Kajetan](#g_kajetan) próbuje przyzwać [Bizoktora](#b_bizoktor) (uderza zakrwawioną dłonią w drzewo powołując się w Starszej Mowie na dziedzictwo [Ilany](#g_ilana)), który rzeczywiście przybywa nam na odsiecz, nieco jednak spóźniony. Odprowadza nas do granicy lasu, znikając o wschodzie słońca
     - Widzimy znajome nam wzgórza. Wiemy, że [Medowna](#l_medowna) leży bardzo blisko. Słyszymy słowa pieśni niosące się od wsi.

@@ -11,7 +11,7 @@
     - Zaraz przed bramami miasta, krótko po zachodzie słońca, otacza nas mgła, wyrządzając nam sporą krzywdę. Udaje nam się dobiec do bram w ostatniej chwili.
 2. [Carreras](#l_carreras) - przybycie
     - Strażnicy kończą zamykać bramę i odprowadzają nas do karczmy. Miasteczko jest oświetlone niesamowitą ilością pochodni - jest to jedyny sposób by odgonić mgłę i panoszące się w niej ogniki - [Mglaki](#b_mglak).
-    - Na rynku handluje [Zielarka](#p_zielarka) która podobno jest w stanie pomóc z obrażeniami zadawanymi przez mglaki.
+    - Na rynku handluje [Zielarka](#p_zielarka) która podobno jest w stanie pomóc z obrażeniami zadawanymi przez [mglaki](#b_mglak).
     - W mieście niedawno była elfka - możliwe, że ta sama, która odwiedziła [Świątynię Melitele](#l_smelitele). Dobrze odziana, blond warkocz zawinięty z tyłu głowy, konno, chciała rozmawiać z Kapitanem straży Johanesem, odwiedziła bagna i wyruszyła w dalszą drogę.
     - Udajemy się na nocleg do pierwszej lepszej karczmy. Szyld nad drzwiami głosi "Pod Lisem Przecherą".
     - Najgorzej z naszej piątki wygląda [Leiv](#p_leiv) - jest trupio blady i zimny jak lód. Magia [Ilany](#g_ilana) nie jest w stanie mu pomóc. 

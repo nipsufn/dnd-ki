@@ -1,9 +1,9 @@
 ### Sesja 24
 1. Spotkanie z [Oberonem](#p_oberon)
     - Odprowadzani skowytem [protektora Brokilonu](#b_bizoktor), przewodzeni przez [Yaevinna](#p_yaevinn), idziemy na polanę położoną na zboczu wzgórza, z którego roztacza się widok na [Medowną](#l_medowna). 
-    - Na jasnej i ciepłej polanie widzimy samego [Oberona](#p_oberon), wiosennego Aen Eldrin o zielonej karnacji, niebieskich oczach, włosach w nieładzie i zwiewnej tunice, oraz dwie zapatrzone w niego driady.
+    - Na jasnej i ciepłej polanie widzimy samego [Oberona](#p_oberon), wiosennego [Aen Eldrin](#r_aen_eldrin) o zielonej karnacji, niebieskich oczach, włosach w nieładzie i zwiewnej tunice, oraz dwie zapatrzone w niego driady.
     - To prawdopodobnie jego granie słyszeliśmy poprzedniego dnia na brzegu lasu. Teraz widzimy samo źródło muzyki - zawieszone w powietrzu kilka instrumentów, które zdają się każdy grać tę samą melodię, ale w innym tempie i tonacji.
-    - Na pagórku obok całego towarzystwa leży dwóch martwych Nilfgaardczyków. Nie noszą żadnych śladów walki, a na ich twarzach gości wyraz błogości pomieszany z przerażeniem.
+    - Na pagórku obok całego towarzystwa leży dwóch martwych [Nilfgaardczyków](#l_nilfgaard). Nie noszą żadnych śladów walki, a na ich twarzach gości wyraz błogości pomieszany z przerażeniem.
     - Sam [Oberon](#p_oberon) zdaje się drzemać na konarze drzewa, ale wita nas. Rozmawia z nami przez chwilę zapatrzony w daleki horyzont, w stronę [osady](#l_medowna). Stwierdza, że wyglądamy jakby nam coś zabrano. 
     - Śmiertelnie zmęczeni niemal od razu udajemy się na spoczynek. Muzyka w tle powoli zamienia się w obrazy, wizje. 
     - Zanim przychodzi sen, widzimy wydarzenia minionego wieczora w [Medownej](#l_medowna) ukazane z lotu ptaka, jakby obserwator był świadkiem wszystkiego.

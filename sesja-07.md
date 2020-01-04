@@ -5,10 +5,10 @@
     - Przekazuje im dobre wieści o kapłankach, a także prosi o pomoc w wyrzeźbieniu nowego kostura z gałęzi dębu, który uratowaliśmy.
     - Wiewiórki obiecują pomóc, ale nie za darmo. [Ilana](#g_ilana) w pełni świadoma tego pomaga im napaść na zbrojną karawanę transportującą żywność i sprzęt do [Ellander](#l_ellander).
     - W czasie pobytu w świątyni czytamy księgi i rozmawiamy z [Matką Iolą](#p_matka_iola):
-        - [Myszowora](#p_myszowor) najlepiej szukać na wyspach Skellige
+        - [Myszowora](#p_myszowor) najlepiej szukać na wyspach [Skellige](#l_wyspy_skellige)
         - jedno z laboratoriów Vilgeforza znajdowało się gdzieś na północnym brzegu Pontaru
         - więcej informacji o arkanach warto szukać najbliżej w [Oxenfurcie](#l_oxenfurt)
-        - dwimeryt jest wydobywany w [Mahakamie](#l_mahakam)
+        - [dwimeryt](#r_dwimeryt) jest wydobywany w [Mahakamie](#l_mahakam)
         - w księgach znajdujemy zapiski o tym, że swego czasu w świątyni gościł wiedźmin, ale nie został on wymieniony z imienia
     - [Ilana](#g_ilana) zamienia się w czasie snu w niedźwiedzia i robi straszny raban, rano nic nie pamięta. Z niemal wmuszoną pomocą [Matki Ioli](#p_matka_iola) bierze udział w transie i przypomina sobie swój sen.
     - Nie chcąc nadużywać gościny kapłanek powoli sposobimy się do drogi. [Eliza](#p_eliza) decyduje się zostać jeszcze trochę z [Darią](#p_daria).

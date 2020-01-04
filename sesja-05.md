@@ -43,7 +43,7 @@
 6. [Różyczka](#l_rozyczka) - konfrontacja
     - Karczma lekko podupadła, brakuje zarówno jadła jak i klienteli, a to w związku ze szczurami, które od dłuższego czasu niszczą zapasy jedzenia.
     - Snują się opowieści przy kuflu:
-        - [Kajetan](#g_kajetan) zmierzał do Vartburga licząc, że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie [Redanii](#l_redania) z Wiecznym Ogniem i brak pewności co do poszlak
+        - [Kajetan](#g_kajetan) zmierzał do Vartburga licząc, że znajdzie ślady po magu odpornym na [dwimeryt](#r_dwimeryt), ale nie jest przywiązany do tego kierunku ze względu na powiązanie [Redanii](#l_redania) z Wiecznym Ogniem i brak pewności co do poszlak
         - [Ilana](#g_ilana) poszukuje druida imieniem [Myszowór](#p_myszowor), który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej; opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
     - [Podjudzacz robotników](#p_mlody_kaplan), którego [Ilana](#g_ilana) rozpoznaje niemal natychmiast, pojawia się z towarzyszem w karczmie nieludzi. Niby-uprzejmie wypytuje [Marię](#p_maria) co można zamówić (sprawia wrażenie pytającego jak źle jest).
     - [Podjudzacz jest kapłanem](#p_mlody_kaplan) który ostrzy zęby na pozycję [głównego kapłana](p_kaplan_matias) (przemawiający staruszek z Rynku) - wnioskujemy to z jego rozmowy z kompanem.

@@ -60,7 +60,7 @@
     - Po rozdzieleniu się [Kajetan](#g_kajetan) sam udaje się na rozmowę z alchemikiem.
     - [Viggo](#p_viggo_regner) wyjawia, że miałby dla nich ciche zlecenie; **[Zadanie: Punkt Mocy pod Ellander](#z_q2)**
     - Elf i alchemik rozmawiają o tym, co zaszło kilka nocy temu i jaki to ma wpływ na obecną sytuację.
-    - [Kajetan](#g_kajetan) pyta o pierścień z dwimerytu, ale [Viggo](#p_viggo_regner) pozostaje tajemniczy i nie wyjawia zbyt wiele. Mówi jednak, że woli aby nazywać go zielarzem niż alchemikiem, bo to już brzmi niebezpiecznie podobnie do czarodzieja, a tego wolałby uniknąć.
+    - [Kajetan](#g_kajetan) pyta o pierścień z [dwimerytu](#r_dwimeryt), ale [Viggo](#p_viggo_regner) pozostaje tajemniczy i nie wyjawia zbyt wiele. Mówi jednak, że woli aby nazywać go zielarzem niż alchemikiem, bo to już brzmi niebezpiecznie podobnie do czarodzieja, a tego wolałby uniknąć.
     - [Ilana](#g_ilana) dociera wreszcie na spotkanie i oboje udajemy się na spoczynek do [Różyczki](#l_rozyczka).
     - Siedząc przy wieczornym piwie w [Różyczce](#l_rozyczka) jesteśmy świadkami jak ktoś uszkadza szybę ciskając w nią kamieniem. [Kajetan](#g_kajetan) zobowiązuje się pokryć straty i oddaje [Marii](#p_maria) 20GP na nową szybę. Podejrzewamy, że to sprawka przegonionych murarzy, bo list z pogróżkami, którym kamień był owinięty nosi ślady murarskiej zaprawy.
     - [Ilana](#g_ilana) mimo późnej pory decyduje się niepostrzeżenie opuścić karczmę i udać się na przeszpiegi.

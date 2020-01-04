@@ -17,7 +17,7 @@
     - Wszyscy są wypoczęci i wyspani, jedynie [Ivar](#p_ivar) zdaje się nie do końca pamiętać wydarzenia dnia poprzedniego. 
     - Bez zbędnego mitrężenia ruszamy w drogę do [Wioski](#l_wioska). Widząc przy wzgórzu ślady łap, decydujemy się iść ich tropem.
     - Po drodze natykamy się na dwa dziwne znaleziska:
-        - pierwszym jest dół w ziemi, w którym piętrzą się ciała Nilfgaardzkich żołnierzy; ich zbroje są pokryte podobną rdzą, jak broń, którą [Kajetna](#g_kajetan) z [Ivarem](#p_ivar) kupili od krasnoludów w [Carreras](#l_carreras)
+        - pierwszym jest dół w ziemi, w którym piętrzą się ciała [Nilfgaardzkich](#l_nilfgaard) żołnierzy; ich zbroje są pokryte podobną rdzą, jak broń, którą [Kajetna](#g_kajetan) z [Ivarem](#p_ivar) kupili od krasnoludów w [Carreras](#l_carreras)
         - drugie miejsce to odsłonięta polana, na której stoi kamienny obelisk; przy bliższej inspekcji [Ilana](#g_ilana) rozpoznaje, że to totem poświęcony Protektorowi - na jego szczycie znajduje się spora czaszka z łosimi łopatami i trzema oczodołami, a w miejscu stołu ofiarnego widać odciskany przez kolejne pokolenia krwawy ślad dłoni; runy wyryte w kamieniu symbolizują słowo **pakt**
     - Kiedy [Ilana](#g_ilana) odwraca się z zamiarem odejścia, wielki kruk ląduje na menhirze i łopocząc skrzydłami mówi jej *To nie twój czas na powiernictwo przysięgi*. 
     - Całe zajście obserwują z lasu 4 olbrzymie wilki - dwa z nich otaczają resztę grupy czekającą na skraju linii drzew, a dwa śledzą ruchy [Ilany](#g_ilana).

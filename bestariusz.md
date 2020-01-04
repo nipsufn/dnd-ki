@@ -1,6 +1,6 @@
 ## Bestariusz
 - <a id='b_gryf' pattern='[Gg]ryf*'>Gryf</a>
-    - lata i jest gryfnym
+    - lata i jest [gryfnym](#b_gryf)
 - <a id='b_migot' pattern='[Kk]o* [Mm]igo*'>Kot Migot</a>
     - 6 łap, dwa ogony zakończone czymś jak pyski pijawki
     - jest bardzo szybki dopóki nie zada mu się pierwszej rany
@@ -23,7 +23,7 @@
 - <a id='b_bluszcz' pattern='Pnącz* Bluszczopodobn*'>Pnącze Bluszczopodobne</a>
     - Stosunkowo słabe, strzela kolcami
 - <a id='b_orchidea' pattern='Pnącz* Orchideopodobn*'>Pnącze Orchideopodobne</a>
-    - Jest w stanie zasiać zarodniki w żywym organiźmie i kontrolować go jak długo jest z nim połączony cienkimi kłączami
+    - Jest w stanie zasiać zarodniki w żywym organizmie i kontrolować go jak długo jest z nim połączony cienkimi kłączami
     - Kwiaty wybuchają pyłem który zadaje znaczne obrażenia
     - Szybko goi odniesione rany
 - <a id='b_zeulg' pattern='[Zz]eulg*'>Zeulg</a>
@@ -76,7 +76,7 @@
     - "Bizoktor", "Leszek", "Leszy"; jedna z personifikacji Protektora
     - pół jeleń pół bizon, giczały ma szponiaste i poniekąd chwytne
     - rozumie starszą mowę, w jego trzech oczach czasem przebłyskuje niemal "ludzka" inteligencja
-    - jest olbrzymi, wysokości przeciętnego drzewa w Brokilonie
+    - jest olbrzymi, wysokości przeciętnego drzewa w [Brokilonie](#l_brokilon)
 - <a id='b_djinni' pattern='[Dd]jinni'>Djinni</a>
     - personifikacja siły natury, np ognia
     - może zostać zmuszony do spełnienia życzenia

@@ -46,7 +46,6 @@ class tagCreator(HTMLParser):
     self.text += self.get_starttag_text()
 
   def handle_endtag(self, tag):
-    print (self.curentHtmlTag)
     if len(self.curentHtmlTag) == 0 or self.curentHtmlTag[0] == tag:
       self.curentHtmlTag.pop()
     if tag == "br":
@@ -74,26 +73,6 @@ whitelist = [
   ".travis.yml",
   "test.py",
   "tag.py"
-  ]
-whitelist2 = [
-  sys.argv[0][2:],
-  ".gitignore",
-  "requirements.txt",
-  ".travis.yml",
-  "test.py",
-  "tag.py",
-  "bestariusz.md",
-  "header.md",
-  "heraldyka.md",
-  "lokacje.md",
-  "ogloszenia.md",
-  "postaci-graczy.md",
-  "postaci.md",
-  "readme.md",
-  "requirements.txt",
-  "rozne.md",
-  "toc.md",
-  "zadania.md"
   ]
   
 tagRetreiver = tagParser()
