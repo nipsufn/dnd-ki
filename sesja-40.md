@@ -15,11 +15,11 @@
     - [Kajetan](#g_kajetan) wypytuje elfa o spostrzeżenia na temat powierzonego dwimerytu. Dowiaduje się, że:
         - nieleczony, jego stan będzie się pogarszać
         - "choroba" zdaje się mieć wolę czy inteligencję, rośnie razem z potęgą maga
-        - możlilwe, że był to rodzaj "broni biologicznej" [Wranów](#r_wran); informacji o niej należy szukać wśród ras, które przybyły po [Aen Drisichean](#r_aen_drisichean)
+        - możliwe, że był to rodzaj "broni biologicznej" [Wranów](#r_wran); informacji o niej należy szukać wśród ras, które przybyły po [Aen Drisichean](#r_aen_drisichean)
         - bardziej konwencjonalne techniki leczenia zaledwie spowolnią chorobę
         - najbardziej pomocna byłaby woda życia - ta sama, której użyliśmy do przywrócenia życia [Laneminowi](#p_lanemin)
     - [Ilana](#g_ilana) w tym czasie idzie sprawdzić co dzieje się na zewnątrz. Dostrzega, że coś dobija się do głównych drzwi niczym taran.
-    - [Młodszy mag](#g_kajetan) podejmuje decyzję - stan [Aen Drisichean](#p_lanemin) pogarsza się szybko, i wygląda jakby wktótce miał stracić kontrolę. Próbuje zabić go szybkim pchnięciem sztyletu. Niestety jego choroba potąpiła na tyle, że zaledwie unicestwia cokolwiek "ludzkiego" pozostało w zmartwychwstałym elfie.
+    - [Młodszy mag](#g_kajetan) podejmuje decyzję - stan [Aen Drisichean](#p_lanemin) pogarsza się szybko, i wygląda jakby wkrótce miał stracić kontrolę. Próbuje zabić go szybkim pchnięciem sztyletu. Niestety jego choroba potąpiła na tyle, że zaledwie unicestwia cokolwiek "ludzkiego" pozostało w zmartwychwstałym elfie.
     - Wywiązuje się walka. [Finarrin](#p_druid_finarrin) rozpoczyna inkantować niepewne zaklęcie teleportacyjne [Ivryna](#p_arcydruid_ivryn) podczas gdy my próbujemy spacyfikować coraz bardziej przemieniającego się [Lanemina](#p_lanemin).
     - Niemal w ostatniej chwili dokonuje się czar [starszego druida](#p_druid_finarrin) - z wbitego w ziemię kija wyrasta drzewo, a na jego środku jaży się szczelina portalu. 
     - Gdy [Lanemin](#p_lanemin) wydaje ostatnie tchnienie, zza posągu szarżuje na nas to, co dobijało się do drzwi - stwór przypominający kościanego morvudda. Bez namysłu skaczemy w szczelinę portalu.

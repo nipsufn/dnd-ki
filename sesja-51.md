@@ -27,15 +27,15 @@
     - [Kajetan](#g_kajetan) przelewa wodę do butelki i nadaje jej smak gorzałki. Przybiega zawołany przez druidkę i odkorkowuje butelkę. Udaje, że zeń pociąga po czym podaje flaszkę [wyspiarzowi](#p_skovik). Ten wypija ją duszkiem, po czym osuwa się nieprzytomny z powrotem w pnącza. 
     - [Aglais](#p_aglais) beznamiętnie stwierdza, że wypił chyba za dużo i będzie nieprzytomny co najmniej tydzień... Wygląda na to, że ten [Drunmond](#p_skovik) nie będzie nam towarzyszył w negocjacjach.
     - [Ilana](#g_ilana) czuje się źle z tym, co zrobiła. Korzystając z okazji wypytuje [Aglais](#p_aglais) o stan zdrowia [Skovika](#p_skovik) - obecny, jak i zaraz po wypadku:
-        - po ustabilizowaniu portalu został zabrany nieprzytomny z wielką dziurą zamiast pleców niemal całkowicie wyrzartych kwasem do uzdrowiska
+        - po ustabilizowaniu portalu został zabrany nieprzytomny z wielką dziurą zamiast pleców niemal całkowicie wyżartych kwasem do uzdrowiska
         - fakt, że przeżył zawdzięczać może swojej krzepie - przeciętny człowiek wyzionął by ducha na miejscu
         - po podaniu wody [Brokilonu](#l_brokilon) driady umieściły go w leczniczych pnączach
         - przeleżał tam prawie 3 tygodnie, choć i tak obudził się przed czasem, kiedy kuracja nie była jeszcze w pełni zakończona
         - obudził się z krzykiem, wyrywając ze sobą pnącza i strasząc obecne w pobliżu driady
         - do pełnego powrotu do formy potrzebowałby jeszcze jednego, a najlepiej dwóch tygodni leczenia
-        - bez dalszego leczenia rana sama nie zregenruje się już raczej nigdy i wyspiarz do końca swoich dni zostanie kaleką
+        - bez dalszego leczenia rana sama nie zregeneruje się już raczej nigdy i wyspiarz do końca swoich dni zostanie kaleką
 3. Przygotowania do drogi 
-    - Korzystamy z pozostałych nam dwóch dni aby przygotować się do podróży, skontaktować się ze zwiaśnionymi magami i doprecyzować nasz plan działania.
+    - Korzystamy z pozostałych nam dwóch dni aby przygotować się do podróży, skontaktować się ze zwaśnionymi magami i doprecyzować nasz plan działania.
     - [Kajetan](#g_kajetan):
         - komunikuje się z czarodziejami przed wejściem do kotliny, stosując jako-takie środki ostrożności aby nie zdradzić lokacji driadzkiego uzdrowiska
         - ustala, że obaj magowie spotkają się z nami w [Medownej](#l_medowna) i stamtąd ruszymy wspólnie do wioski
@@ -64,7 +64,7 @@
     - Docieramy do [Medownej](#l_medowna) wczesnym rankiem, jeszcze przed świtem. 
     - [Vicovaro](#p_florian_z_vicovaro) już tam jest, w bąbelku podobnym do tego, który zwykle konstruuje [Kajetan](#g_kajetan).
     - Wymieniamy z nim grzeczności, zaciskając zęby by nie wszczynać kłótni, gdy padają oparte na niedomówieniach kłamstwa. 
-    - Mag bawi się pierścionkiem podobym do tego, który stracił w ostaniej potyczce. Błyskotka ma czarny kamień, którego brakowało w poprzednim egzemplarzu.
+    - Mag bawi się pierścionkiem podobnym do tego, który stracił w ostatniej potyczce. Błyskotka ma czarny kamień, którego brakowało w poprzednim egzemplarzu.
     - Uzgadniamy, że [Vicovaro](#p_florian_z_vicovaro) będzie, podobnie jak [Lars](#p_lars), towarzyszył nam do [Medownej](#l_medowna).
     - [Ilana](#g_ilana) przechadza się po wsi, znajdując zabezpieczoną szkatułkę z eliksirem leczącym.
     - W nocy przybywa [Lars](#p_lars) i rozbija swój obóz po drugiej stronie wsi, zdaje się nie zauważając nas.

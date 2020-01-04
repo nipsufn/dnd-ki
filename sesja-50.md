@@ -28,7 +28,7 @@
     - Naszą uwagę przykuwa powalone drzewo z charakterystycznym wgnieceniem - ślady wskazują na starcie [sowiołaka](#b_sowiolak) z [kotem-migotem](#b_migot).
     - [Ilana](#g_ilana) zabiera pióra, których kilka - po za krwią i innymi elementami - leżą w okolicy.
 3. Czarnoksięskie mediacje [Ilany](#g_ilana)
-    - Słońce chyli się już ku zachodowi kiedy docieramy do [Medownej](#l_medowna). Naszym oczom ukazuje się małe obozowisko - 4 osobowy namiot w barwach nilfgaardu (możliwe, że to ci sami ludzie z naszego ostatniego wypadu do wioski), obok którego żołdacy złożyli kuchnię polową.
+    - Słońce chyli się już ku zachodowi kiedy docieramy do [Medownej](#l_medowna). Naszym oczom ukazuje się małe obozowisko - 4 osobowy namiot w barwach Nilfgaardu (możliwe, że to ci sami ludzie z naszego ostatniego wypadu do wioski), obok którego żołdacy złożyli kuchnię polową.
     - Bliższy rzut oka ujawnia, że w tym miejscu także doszło do jatki. W okolicy, jak i w namiocie leżą fragmenty wojaków. Gulasz w garnku był gotowany nie dalej niż poprzedniego wieczora. Kucharz zostawił w nim cząstkę siebie - w gulaszu pływa ręka.
     - Kierujemy się do ustalonego z [Larsem](#p_lars) miejsca spotkania - chaty pszczelarza.
     - W ruinach chaty dostrzegamy małe ognisko na tym, co zostało z piętra domu.

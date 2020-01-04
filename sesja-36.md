@@ -19,7 +19,7 @@
             - to niepowstrzymana rzeka, która jest w stanie podmyć każde fundamenty; od dyscypliny adepta zależy ile może ukierunkować wedle woli zanim da się porwać; z takim podejściem łatwo jest wzmocnić swoje umiejętności
         - [Aen Drisichean](#r_aen_drisichean) podróżowali między światami, nigdy nie zajmując się rolą. Gdy ich populacja rosła, część klanu wyruszała w poszkukiwaniu nowego świata
         - postaci, któych szkielety spotkaliśmy pod [Ellander](#l_ellander) pochodzą ze świata "Czerwonych Piasków", bardzo niegościnnego. Postaci dzierżące broń z kości i obysdianu rosły dosłownie i obrastały w potęgę z każdym zabitym przez siebie wrogiem
-        - [Alzur](#p_alzur), potężny mag, ekspetymentował z niekonwecjonalnym użyciem Mocy i modyfikowaniem żywych organizmów; stworzył zakon Wiedźminów
+        - [Alzur](#p_alzur), potężny mag, eksperymentował z niekonwencjonalnym użyciem Mocy i modyfikowaniem żywych organizmów; stworzył zakon Wiedźminów
         - łapanie Djinni, sztuka, której rzadko podejmują się najpotężniejsi współcześni magowie, było zaledwie zadaniem domowym dla adeptów niegdyś zamieszkujących [Craag An](#l_craag_an)
     - Zmęczeni poszukiwaniami szykujemy się do snu. [Kajetan](#g_kajetan) przezornie nie zaprasza [nowego towarzysza](#p_lanemin) do bąbla mając na uwadze bezpieczeństwo drużyny.
     - W nocy słyszymy jak nasz [nowy towarzysz](#p_lanemin) krząta się po piętrze wieży (wszedł do pokoju?). Później na warcie widzimy jak zastanawia się nad otwarciem zabezpieczonych drzwi do pokoju z mgłą, jednak po chwili sam z siebie odstępuje od tego pomysłu.
@@ -31,10 +31,10 @@
     - Wydaje się być dużo potężniejszy od [Kajetana](#g_kajetan) - jednym pstryknięciem zapala nieczynne kandelabry. Mimo to w wyniku magicznej eksplozji jego ciało częściowo uległo spopieleniu, a dusza uciekła w cień (w przeciwieństwie do drugiej Arkanistki, która zachowała swe ciało nienaruszonym).
     - [Ilana](#g_ilana) próbuje swoich sił w pojedynku ze zbroją. [Laneminowi](#p_lanemin) udało się bez draśnięcia odrąbać jednej zbroi rękę. Druidka ma niestety mniej szczęścia i wychodzi z tej próby mocno pokiereszowana.
     - [Kajetanowi](#g_kajetan) udaje się w końcu nakłonić [Lanemina](#p_lanemin) do rozmowy:
-        - pierwotny lud, przodkowie wszyskitch elfich klanów, zniszył swój swiat walcząc z inną potężną rasą, _jednorżcami_ (błąd tłumaczenia z Starszej Mowy, żart skryby, czy poważnie?)
+        - pierwotny lud, przodkowie wszystkich elfich klanów, zniszczył swój świat walcząc z inną potężną rasą, _jednorżcami_ (błąd tłumaczenia z Starszej Mowy, żart skryby, czy poważnie?)
         - drzewo na środku [Craag An](#l_craag_an) jest pomnikiem ku pamięci zmarłej królowej
         - po zamknięciu się portali obce elfy z [Craag An](#l_craag_an) straciły przypływ magii; ich dzieci zaczęły rodzić się z elementami, ciałem, a nawet duszą zwierzęcia
-        - Aen Drisichean musiały zabijać własne nowonarodzone dzieci, ale wkrótce choroba zaczęła objawiać się także u dorosłych
+        - Aen Drisichean musiały zabijać własne nowo narodzone dzieci, ale wkrótce choroba zaczęła objawiać się także u dorosłych
         - król [Galawain](#p_galawain) nakazał otoczyć miasto magiczną barierą żeby odciąć się od zdziczałych elfów, przezwanych "Utraconymi", które pognały w las
         - królowa twierdziła, że to nie choroba, a ewolucja, naturalna kolej rzeczy i nalegała, by nie wypędzać zezwierzęconych
         - będąc ciężarną, królowa udała się do lasu; odnaleziono ją po kilku dniach, martwą
@@ -54,7 +54,7 @@
     - Statua przedstawia smukłego, acz muskularnego elfa w bogato zdobionym napierśniku. Z czoła rzeźby wystaje olbrzymie poroże, jednak drugi rzut oka ujawnia, że jest to tylko korona. Nogę opiera na powalonym jednorożcu.
     - [Ilana](#g_ilana) przygląda się posągowi i zauważa magiczny napis - kolejną zagadkę broniącą dostępu do ukrytego przejścia.
     - Po odgadnięciu hasła za posągiem otwiera się trzeci korytarz. Nad dwoma pozostałymi [Kajetan](#g_kajetan) dostrzega napis _"Droga Pielgrzyma"_.
-    - Nowoodkryty korytarz prowadzi nas do sali o 7 ścianach, na których wiszą witraże - po jednym na ścianę:
+    - Nowo odkryty korytarz prowadzi nas do sali o 7 ścianach, na których wiszą witraże - po jednym na ścianę:
         1. scena batalistyczna: elfy kontra jednorożce
         2. burza dzieląca niebo na różne światy z różnymi konstelacjami
         3. elfy uciekające przed pożogą przez szczelinę wprost do zielonego lasu
@@ -65,10 +65,10 @@
     - W sali stoją także 4 sarkofagi. Na wieku każdego z nich wyrzeźbiono postaci rycerzy [Galawaina](#p_galawain), których posągi wiedzieliśmy w mieście. Każdy z rycerzy dzierży w swych złożonych dłoniach broń.
     - Broń zdaje się nie być elementem posągu, a prawdziwym orężem. Bije od niej magiczna aura.
     - Sala ma spore rozmiary, a na jej środku, na posadzce widnieje ten sam symbol, co na drzwiach.
-    - Na 4 z 7 ścian znjadują się hasła: _"Droga rozsądku"_, _"Droga Miłosierdzia"_, _"Droga Równowagi"_ i _"Droga Poświęcenia"_. Jest też miejsce na przyłożenie dłoni.
+    - Na 4 z 7 ścian znajdują się hasła: _"Droga rozsądku"_, _"Droga Miłosierdzia"_, _"Droga Równowagi"_ i _"Droga Poświęcenia"_. Jest też miejsce na przyłożenie dłoni.
     - [Ilana](#g_ilana) zgaduje, że jest to próba, którą najprawdopodobniej muszą przejść jeśli chcą otrzymać to, po co tutaj przyszli - sposób na powstrzymanie [Formoriana](#p_formorian).
     - [Kajetan](#g_kajetan) po chwili namysłu wybiera jak na ironię drogę rozsądku. Zanim drużyna zdąży zaprotestować, przykłada rękę do ściany, która otwiera się i zamyka tuż za nim.
-    - Elf robi dwa kroki i znajduje się w prawie pustym pomieszczeniu gdyby nie pidestał na samym środku sali i metalowe zbroje podpierające każdą ze ścian. Na piedestale widnieje zarys odciśniętej dłoni i coś na kształt zegara z liczbami od 1 do 10.
+    - Elf robi dwa kroki i znajduje się w prawie pustym pomieszczeniu gdyby nie piedestał na samym środku sali i metalowe zbroje podpierające każdą ze ścian. Na piedestale widnieje zarys odciśniętej dłoni i coś na kształt zegara z liczbami od 1 do 10.
     - Gdy [Kajetan](#g_kajetan) przykłada rękę do piedestału, zaczyna się odliczanie, a zbroje budzą się z letargu i kroczą z bronią skierowaną w jego stronę.
     - Mag, wiedząc już co się szykuje, dotyka ponownie piedestału, resetując tym samym zegar. W końcu jednak pozwala zbrojom się zbliżyć, przygotowując się w razie czego do magicznej ucieczki.
     - W tym samym czasie reszta drużyny gorączkowo debatuje czy spieszyć lekkomyślnemu [elfowi](#g_kajetan) z pomocą, czy zostać w sali i czekać. Finalnie postanawiają trzymać się w kupie i nie zostawiać nikogo samego.

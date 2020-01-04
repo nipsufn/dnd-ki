@@ -1,11 +1,11 @@
 ### Sesja 41
 1. Na [Łysej Górze](#l_lysa_gora)
-    - Z oddali obserwujemy jak na moście, chwilę za konnymi, zjawia się zakapturzona, uzbroja postać.
-    - Między konnymi, a przybyszem wywiązuje się najpierw rozmowa, a potem walka. Dwóch z rycerzy ginie z ręki przybysza, on sam także zostaje silnie ranny. Człowiek ten sdaje się wręcz nieludzko dobrze władać mieczem.
+    - Z oddali obserwujemy jak na moście, chwilę za konnymi, zjawia się zakapturzona, uzbrojona postać.
+    - Między konnymi, a przybyszem wywiązuje się najpierw rozmowa, a potem walka. Dwóch z rycerzy ginie z ręki przybysza, on sam także zostaje silnie ranny. Człowiek ten zdaje się wręcz nieludzko dobrze władać mieczem.
     - Walka ustaje, pozostała dwójka konnych wraca tam skąd przyszła, rzucając w przybysza na odchodnym mieszkiem (i zapewne wiązanką przekleństw). Ranny nieznajomy zmierza zaś przez most na przeciwny brzeg.
     - Gdy tak obserwujemy zajście na moście, [Finarrin](#p_druid_finarrin) poświęca chwilę by zorientować się w naszym położeniu. [Druid](#p_druid_finarrin) dedukuje, że wylądowaliśmy na [Łysej Górze](#l_lysa_gora), skąd wiedzie krótka droga do [Mayeny](#l_mayena).
 2. Na tropie nieznajomego
-    - W międzyczasie [Ilana](#g_ilana), mając pewne podjeżenia co do tożsamości zakapturzonego przybysza, zmienia się w śnieżnego wilka i bez zastanowienia rusza przyjrzeć się starciu z bliska.
+    - W międzyczasie [Ilana](#g_ilana), mając pewne podejrzenia co do tożsamości zakapturzonego przybysza, zmienia się w śnieżnego wilka i bez zastanowienia rusza przyjrzeć się starciu z bliska.
     - Pokonując rzekę w swojej zwierzęcej formie [druidka](#g_ilana) natyka się na pierwsze z ciał - jest to [Łowca Porworów](#r_lowca) z [Ellander](#l_ellander). Ciało obłażą już raki, więc nie mitrężąc, [Ilana](#g_ilana) rusza dalej. Drugi trup na moście to także [Łowca](#r_lowca).
     - [Druidka](#g_ilana) szuka tropu nieznajomego, który zmierzał w stronę traktu. Ślad urywa się na lekkim wzniesieniu między gęstwą drzew. W śniegu leżą połamany, okrwawiony bełt z kuszy oraz rozbity flakon po czymś, co zapachem przypomina jaskółkę [Viggo](#p_viggo_regner).
     - Ślady kończą się w tym miejscu, zupełnie jakby nieznajomy uleciał w powietrze lub... intencjonalnie zaczął zacierać trop. Jego położenia zdradza jednak ciche rżenie konia, które [Ilana](#g_ilana) wyłapuje swoim psim słuchem.

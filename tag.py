@@ -25,7 +25,7 @@ class tagParser(HTMLParser):
     if   'pattern' in attrDict.keys():
       patternList = sorted(attrDict['pattern'].split(','), key=len, reverse=True)
       regex = '|'.join(patternList) if patternList else attrDict['pattern']
-      regex = regex.replace(r"*", r"\w{0,6}")
+      regex = regex.replace(r"*", r"\w{0,7}")
       
       self.tags.append([attrDict['id'], regex])
     elif 'regex'   in attrDict.keys():
