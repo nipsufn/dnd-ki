@@ -24,7 +24,7 @@
     - W połowie wzniesienia znajdujemy trzeci posąg: smukłą kobietę w rogatym hełmie z tarczą wspartą o ziemię. Kamień ukryto w dłoniach kobiety opartych na tarczy. Tabliczka zaś głosi: "_Chroń swe światło_" - Alivara Obrończyni.
     - Pałac znajduje się na lekkim wzniesieniu, z którego (gdyby nie magiczna ciemność kopuły) roztacza się widok na resztę miasta. W nieprzebitej ciemności widzimy snop światła czwartego posągu, którego lokacja pokrywa się z Akademią.
 3. Akademia
-    - Nie marnując czasu udajemy się w stronę Akademii. Znajdujemy ostatni posąg: bezpłciową, smukłą postać odzianą w luźne, proste szaty. Na środku czoła posągu błyszczy wmontowany kamień. Na tabliczne napisano: "_Bądź światłem_" - Corneiros Niosący Światło.
+    - Nie marnując czasu udajemy się w stronę Akademii. Znajdujemy ostatni posąg: bezpłciową, smukłą postać odzianą w luźne, proste szaty. Na środku czoła posągu błyszczy wmontowany kamień. Na tabliczce napisano: "_Bądź światłem_" - Corneiros Niosący Światło.
     - Sama Akademia wygląda na dość zniszczoną - ostała się w całości jedna wieża i piętro.
     - Wyczerpani podróżą zatrzymujemy się na noc pod posągiem. W czasie nocnej warty [Ilana](#g_ilana) i [Enid](#p_enid) dostrzegają w oknie wieży pełgające światło. Z wnętrza budynku dochodzą też rytmiczne odgłosy szurania metalu o kamień.
     - Rankiem, nieco wypoczęci i podbudowani odkryciami dnia poprzedniego idziemy zbadać Akademię. Szybki rzut oka przez wyłamane drzwi pozwalają stwierdzić, że budynek jest pilnowany przez "automatyczne" zbroje. To ich kroki niosły się w nocnej ciszy.

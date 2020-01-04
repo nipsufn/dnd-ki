@@ -4,7 +4,7 @@
 	- Zaczynamy metodycznie przeszukiwać pokoje na pierwszym piętrze - jest ich siedem:
 		1. Zawalony pokój pełen gruzu.
 		2. Pokój o drewnianych drzwiach zamkniętych na klucz.
-		3. Pokój przypominający salę wykładową, a w nim zwłoki elfki w błękito-szarej szacie z srebrnym haftem przypominającym szron. Ma sztylet, którym odebrała sobie życie podcinając żyły, medalion przypominający przepustki, ale bardziej zdobiony, oraz notatkę:
+		3. Pokój przypominający salę wykładową, a w nim zwłoki elfki w błękitno-szarej szacie z srebrnym haftem przypominającym szron. Ma sztylet, którym odebrała sobie życie podcinając żyły, medalion przypominający przepustki, ale bardziej zdobiony, oraz notatkę:
 			- "_Jeśli to czytasz, nie roń za nami łez - sami sobie na to zasłużyliśmy. Ten wybuch, ta moc... Ci szaleńcy dopięli swego, Wieża Kruka została otwarta. Nie popełnijcie naszych błędów - Arkanistka Riv'yvre_"
 			- Mając 6 medalionów, po jednym dla każdego członka drużyny, do poszukiwań dołącza grupa spod posągu - [Ilana](#g_ilana) i bracia wyspiarze. Od tego momentu badamy pokoje wspólnie.
 		4. Pokój pełen gablot i półek, a w nim:
@@ -33,7 +33,7 @@
 			- pozostałe sylwetki z błękitnymi szarfami wyglądają na powalone bez udziału zbrój-strażników; mają niewidoczne na pierwszy rzut oka zwierzęce przymioty 
 			- wszystkie postaci mają broń połyskującą rtęcią
 	- Zwiedzamy schody prowadzące w górę, do ostałej się wieżyczki oraz do podziemi:
-		- przed drzwiami do wnętrza wieżyczki stoi zbroja, która informuje nas, że "_Mistrza nie ma obecinie w gabinecie, proszę przyjść później_"
+		- przed drzwiami do wnętrza wieżyczki stoi zbroja, która informuje nas, że "_Mistrza nie ma obecnie w gabinecie, proszę przyjść później_"
 		- wewnątrz (co sprawdzili [Ilana](#g_ilana) i [Finarrin](#p_druid_finarrin) zaglądając przez okno) wszystko leży na środku pokoju w nieregularnej kupie, jak gdyby nastąpiła jakaś impozja; po pokoju lata czaszka strzegąca gabinetu
 		- piwnica - okrągły pokój o 8 ścianach, z 7 pięknymi freskami krajobrazów; na suficie nocne niebo, takie jakie widzieliśmy podczas Dwuksiężycowej Nocy; na ziemi krąg teleportacyjny, onzaczony jako punkt początkowy (wygląda na to, że [Ivryn](#p_arcydruid_ivryn) coś tu kombinował)
 	- [Kajetan](#g_kajetan) zaczyna kaszleć i wyczuwać magię w rzeczach, których dotyka
@@ -57,7 +57,7 @@
 		- portale, którymi jego lud przybył nagle zgasły, więżąc ich i odcinając od Mocy, którą wtłaczali w ten świat
 		- wierzy jakoby Moc płynęła w żyłach elfów
 		- [Galawain](#p_galawain) miał ich ocalić, otwierając portal i przywracając magię
-		- otwarcie portalu spowodowało ogromną ekspozję Mocy; ci, którzy nie obrócili się w popiół, wprawnie władali Mocą
+		- otwarcie portalu spowodowało ogromną eksplozję Mocy; ci, którzy nie obrócili się w popiół, wprawnie władali Mocą
 		- zmartwychwstały nie jest nam w stanie zdradzić imienia [Królowej Cierni](#p_krolowa_cierni) - rusza ustami, leczn nie słyszymy dźwięku, pióra i węgiel przestają pisać; jest to klątwa, którą obłożył jej imię sam [król](#p_galawain)
 		- zapytany o wojnę domową, ocalały nabiera wody w usta
 		- elf, oprócz starszej mowy, nie zna żadnego z języków, którymi posługuje się reszta drużyny

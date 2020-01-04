@@ -3,7 +3,7 @@
     - [Larsowi](#p_lars) udało się zabrać czarodziejowi rzecz kiedy ten się teleportował - idealnie przepołowiony sygnet. Mężczyzna twierdzi, że dzięki pierścieniowi możemy spróbować odnaleźć [Vicovaro](#p_florian_z_vicovaro), bo to dzięki niemu właśnie mógł się teleportować.
     - [Kajetan](#g_kajetan) przygląda się sygnetowi i dedukuje, że napis wygrawerowany na pierścieniu (aktualnie przepołowiony) głosił "__[Loc Grim](#l_loc_grim)__". Jest to nazwa miasta w [Nilfgaardzie](#l_nilfgaard).
     - Ku niepomiernej irytacji [maga](#g_kajetan) debatujemy chwilę, ostatecznie podejmujemy decyzję - idziemy przeszukać szpital. Nawet jeżeli nie zastaniemy tam samego maga to możemy znaleźć coś wartego uwagi.
-    - Podróż kanałami mija bez niespodzianek. Zostawiamy ludzi [Larsa](#p_lars) przed zapułapkowanym korytarzem, a sami w trójkę powoli przechodzimy do kostnicy.
+    - Podróż kanałami mija bez niespodzianek. Zostawiamy ludzi [Larsa](#p_lars) przed korytarzem - zasadzką, a sami w trójkę powoli przechodzimy do kostnicy.
     - W kostnicy zauważamy, że z 4 szuflad zniknęły zamykające je kłódki. W celach też jakby zrobiło się ciszej. [Ilana](#g_ilana) podnosi z ziemi kawałek kości i rzuca w jedną z szuflad. Nie wywołuje to niestety żadnej znaczącej reakcji.
     - [Kajetan](#g_kajetan) wysyła na zwiad swoją sowę. Ptak leci sprawdzić cele i donosi, że tylko w 2 z nich znajdują się więźniowie. Same cele także zdają się być lekko uchylone. 
     - Elf każe sowie narobić hałasu. Chce sprowokować jednego z mutantów żeby ten zaatakował tego drugiego, co mu się nawet udaje, gdyby nie fakt, że obaj biją się przez drzwi do celi tego drugiego, blokując przy tym nieznacznie korytarz.
@@ -42,11 +42,11 @@
     - [Kajetan](#g_kajetan) niezadowolony sączy piwo, kiedy [Ilana](#g_ilana) wysypuje na stół wszystkie znaleziska z pracowni maga:
         - magiczne przedmioty to pióro i lupa
         - notatki (te o [Medownej](#l_medowna) i te z [Verden](#l_verden)) zawierają tajemne zapiski widoczne tylko przez znalezioną lupę; musiały zostać wykonane piórem, w którego posiadanie także weszliśmy
-        - nasza dwójka przewija się zarówno w raporcie z granicy z [Verden](#l_verden) jak i w zapisakch z [Medownej](#l_medowna)
+        - nasza dwójka przewija się zarówno w raporcie z granicy z [Verden](#l_verden) jak i w zapiskach z [Medownej](#l_medowna)
         - choroba, którą [Florian](#p_florian_z_vicovaro) zaszczepił w [Verden](#l_verden) miała być szczególnie agresywna w rozwoju u elfów
         - niestety mag stracił nad nią kontrolę, a [Lars](#p_lars) podobno ukradł mu narzędzia, którymi chciał odkręcić sytuację
     - [Lars](#p_lars) wydaje się być szczególnie zainteresowany notatkami dotyczącymi zarazy w [Verden](#l_verden). Pożycza lupę żeby przeczytać co takiego czarodziej zanotował na sprawozdaniu.
-    - [Kajetan](#g_kajetan) kończy wieczór i idzie do pokoju. [Ilana](#g_ilana) dyskutuje jeszcze chwilę na temat niespłenionych obietnic. Poirytowana mówi bez ogródek [Larsowi](#p_lars), że jest beznadziejnym nieudacznikiem, po czym sama udaje się na spoczynek.
+    - [Kajetan](#g_kajetan) kończy wieczór i idzie do pokoju. [Ilana](#g_ilana) dyskutuje jeszcze chwilę na temat niespełnionych obietnic. Poirytowana mówi bez ogródek [Larsowi](#p_lars), że jest beznadziejnym nieudacznikiem, po czym sama udaje się na spoczynek.
 5. Poranek ~~po~~ przed burzą
     - [Ilana](#g_ilana) prosi elfa żeby ten wysłał wiadomość do [Finarrina](#p_druid_finarrin). Chce mu przekazać, że skończyliśmy swoją sprawę w [Brugge](#l_brugge) i wracamy do reszty drużyny. [Kajetan](#g_kajetan) wysyła wiadomość, ale odpowiada mu cisza wypełniona dziwnym sprzężeniem zwrotnym. Druidka domyśla się, że ich towarzysze muszą już być w [Brokilonie](#l_brokilon) - okalająca las magiczna bariera zakłóciła przekaz.
     - Zaczynamy pakować manatki kiedy norą niziołków buja potężny wstrząs. [Kajetan](#g_kajetan) zastanawia się co może być przyczyną, czy w mieście są jakieś kopalnie (myśląc o tąpnięciach), ale nic z tych rzeczy. 

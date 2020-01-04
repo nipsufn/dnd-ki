@@ -29,7 +29,7 @@
         - są też inne miejsca, gdzie linie się przecinają: [Ellander](#l_ellander), [Maribor](#l_maribor), [Carreras](#l_carreras), nie są jednak specjalnie zaznaczone
     - Na środku placu stoi drzewo. Jest gołe i obrośnięte krzakami, wydaje się być uschnięte, jednak nie zamieniło się w sadzę.
     - [Ilana](#g_ilana) i [Finarrin](#p_druid_finarrin) znajdują w krzakach słabnący z wieku druidzki krąg ochronny, w środku mały obóz i wbitą w drzewo zapartą o ziemię glewnię, zdobioną jak druidzki kostur elfa.
-    - W obozie znjadujemy notatki [Ivryna](#p_arcydruid_ivryn), a w nich takie zapiski jak: 
+    - W obozie znajdujemy notatki [Ivryna](#p_arcydruid_ivryn), a w nich takie zapiski jak: 
         - _Pora na wizytę w !Akademii!._
         - _Ktoś zdradził. Ktoś zniknął. On czy ona?_
         - _Gdzie jest czarodziej?_

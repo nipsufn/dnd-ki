@@ -7,7 +7,7 @@
     - W drodze natykamy się na wycinkę drzew. Wycinki tej pilnuje kilku konnych w mieszanych barwach: czerń, srebro i czerwień.
     - Brukowany trakt, którym szliśmy na północny zachód, zmienia się najpierw w nierówną ścieżkę, a następnie wcina się w wycinkę i ginie zupełnie wśród wyrębu.
 3. Poręba
-    - Nie chcąc zakłócać wycinki wędrujemy pod lasem, z dala od pracujących drwali. Konni zdają się nas zauważyć, jeden z nich po chwili podjeżdza i zagaja rozmowę.
+    - Nie chcąc zakłócać wycinki wędrujemy pod lasem, z dala od pracujących drwali. Konni zdają się nas zauważyć, jeden z nich po chwili podjeżdża i zagaja rozmowę.
     - Strażnik wypytuje nas dokąd zmierzamy. Mężczyzna nosi barwy [Temerii](#l_temeria) podległej [Redanii](#l_redania). 
     - Dowiadujemy się, że wycinka prowadzona jest na odbudowę [Mariboru](#l_maribor), który teraz zwą Nowym [Mariborem](#l_maribor).
     - [Cleves](#l_cleves) to fort, w którym może być ciężko o nocleg czy prowiant. Bliżej mamy do [Mariboru](#l_maribor), do którego z resztą wiedzie trakt. 
@@ -19,7 +19,7 @@
     - W tym samym czasie [Ilana](#g_ilana) zauważa dużego ptaka - chyba sowę - krążącego nad koronami drzew. Wspina się na drzewo, oddaje dwa celne strzały z łuku i omal nie spada z niego z wrażenia, kiedy sowa zamiast spaść na ziemię, rozpływa się w powietrzu jak mgła.
     - Moment po zniknięciu ptaka z lasu słychać męski krzyk bólu. Słyszymy go wszyscy, bo źródło znajduje się w niewielkiej odległości od obozu. 
     - [Enid](#p_enid) zakrada się sprawdzić któż to się tak drze. Okazuje się, że strzała [Ilany](#g_ilana), która "przeleciała" przez sowę, trafiła prosto w nogę niczego nieświadomego, szczającego pod drzewem drwala.
-    - Na szczęście mimo niepowodzenia z sową, [druidka](#g_ilana) znajaduje kilka większych gryzoni zdatnych do zjedzenia. Warunki w lesie są nienajlepsze - dziewczyna grzęźnie po kostki w błocie.
+    - Na szczęście mimo niepowodzenia z sową, [druidka](#g_ilana) znajaduje kilka większych gryzoni zdatnych do zjedzenia. Warunki w lesie są nie najlepsze - dziewczyna grzęźnie po kostki w błocie.
     - Wysłuchawszy relacji z polowania, [Kajetan](#g_kajetan) zaczyna snuć teorie spiskowe:
         - [Vicovarro](#p_florian_z_vicovaro) śledzi nas - może od czasu ucieczki z [Brugge](#l_m_brugge), może od czasu przejścia przez drzewa, a może i trafił na nas podążając za [Formorianem](#p_formorian)
         - możliwe, że [Magister Florian](#p_florian_z_vicovaro) jest chory na to samo co nasz [mag](#g_kajetan)
@@ -40,10 +40,10 @@
     - Chcąc najpierw napełnić żołądki czymś ciepłym, rozsiadamy się w jednej z "podwórkowych" karczm. Pogrążamy się w rozmowie i planowaniu, kiedy [Enid](#p_enid) zauważa, że przyglądają nam się ukradkiem tutejsi strażnicy.
     - [Kajetan](#g_kajetan) zdecydowanym krokiem podchodzi do ich stolika i - ku ich zmieszaniu - przysiada się, stawiając strażnikom kolejkę na swój koszt. Pyta wprost dlaczego nas obserwują.
     - W międzyczasie zauważamy, że zwykłej klienteli zaczyna gwałtownie ubywać, a jest to spowodowane zwiększającą się liczbą strażników, którzy w tej chwili zajmują już większość stołów.
-    - Dwaj strażnicy opowiadają nieco o sytuacji miasta, a następnie wyjawiają, że tutjeszy burmistrz "zaprasza" nas na rozmowę do ratusza. Oni zaś mają nas do niego odeskorować. Wyrażają się przy tym jasno, że chodzi mu tylko o [Kajetana](#g_kajetan) i [Ilanę](#g_ilana) - reszta grupy może iść wolno gdzie tylko dusza zapragnie.
+    - Dwaj strażnicy opowiadają nieco o sytuacji miasta, a następnie wyjawiają, że tutjeszy burmistrz "zaprasza" nas na rozmowę do ratusza. Oni zaś mają nas do niego odeskortować. Wyrażają się przy tym jasno, że chodzi mu tylko o [Kajetana](#g_kajetan) i [Ilanę](#g_ilana) - reszta grupy może iść wolno gdzie tylko dusza zapragnie.
 6. Oferta nie do odrzucenia
     - W ratuszu wita nas grubasek, który wcześniej nam się przyglądał. To _Tymczasowy Burmistrz Nowego [Mariboru](#l_maribor) - Komendant_ [Kaspar](#p_kaspar). Typ o ogolonej na łyso głowie, twarzy oprycha i posturze sugerującej muskulaturę skrytą pod widoczną nadwagą.
-    - Zostajemy poinformowani, że [mag z Brugge](#p_florian_z_vicovaro) poluje na nas mając nas za złodzieji, którzy obrabowali go w czasie pożaru.
+    - Zostajemy poinformowani, że [mag z Brugge](#p_florian_z_vicovaro) poluje na nas mając nas za złodziejów, którzy obrabowali go w czasie pożaru.
     - Wyjątkowo, podczas tej zupełnie niewymuszonej wizyty, to [Kajetan](#g_kajetan) zachowuje zimną krew, podczas gdy [Ilana](#g_ilana) nie szczędzi butnych, dosadnych komentarzy mogących zaognić sytuację jeszcze bardziej.
     - Jasnym dla nas jest, że [Kaspar](#p_kaspar) to dobry znajomek [Larsa](#p_lars). Mamy mu pomóc pozbyć się [Magistra [Floriana](#p_florian_z_vicovaro) z Vicovarro](#p_florian_z_vicovaro) za 1000GP. W przypadku odmowy zostaniemy wydani w ręce maga, a [Leiv](#p_leiv) - pracujący w tej chwili dla [Larsa](#p_lars) - zginie . Padają też groźby w kierunku reszty drużyny, sądzimy jednak, że sobie poradzą z bandą rzezimieszków.
     - Nie mając zbytnio wyjścia przystajemy na warunki "burmistrza". Dostajemy 100GP zaliczki i wolny wieczór na przygotowanie się do podróży.

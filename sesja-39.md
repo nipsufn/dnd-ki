@@ -1,11 +1,11 @@
 ### Sesja 39
 1. Kuźnia, druga próba [Ivara](#p_ivar)
-    - Z jaja zamkniętego w bloku użytym jako opał wykluwa się coś pomiędzy smokiem, jaszczurką, a wężem. Gad ma pionowe żrenice i skórę pokrytą łuską w kolorze gorejącego płomienia.
+    - Z jaja zamkniętego w bloku użytym jako opał wykluwa się coś pomiędzy smokiem, jaszczurką, a wężem. Gad ma pionowe źrenice i skórę pokrytą łuską w kolorze gorejącego płomienia.
     - Stworzenie rzuca się na nas, atakując kogo popadnie. [Kajetan](#g_kajetan) próbuje coś kombinować magicznego, ale niezbyt mu idzie. Szybko wpadamy na pomysł aby płomiennego gada utopić w jak największej ilości wody.
     - Kryształ, jedyne co pozostało po poczwarze, trzeba jakoś wprawić w konstruowany topór. 
     - Nowej broni [Ivara](#p_ivar) na powrót brakuje także rękojeści, ponieważ niemagiczny kawał drewna wyciosany wcześniej przez [Skovika](#p_skovik) rozpadł się w pył w ferworze walki.
     - Zgodnie dochodzimy do wniosku, że drzewce topora powinny zostać wykonane z magicznego drewna. [Ilana](#g_ilana), z braku lepszej alternatywy, oferuje poświęcić swój kij. Drugą opcją wartą rozważenia jest zutylizowanie tej części kostura [Ivryna](#p_arcydruid_ivryn), której jeszcze nie przeniknęła zła magia ciążąca na broni.
-    - [Kajetan](#g_kajetan), korzystając ze swoich nowonabytych zdolności wskazuje ostrze na jednym z końców kostura jako źródło złej energii. Odseparowanie go od reszty drewna powinno nam pomóc się przekonać, czy kij nada się do broni [Ivara](#p_ivar).
+    - [Kajetan](#g_kajetan), korzystając ze swoich nowo nabytych zdolności wskazuje ostrze na jednym z końców kostura jako źródło złej energii. Odseparowanie go od reszty drewna powinno nam pomóc się przekonać, czy kij nada się do broni [Ivara](#p_ivar).
     - Udajemy się na spoczynek chcąc nazajutrz kontynuować prace nad bronią.
 2. Nocne przybycie [Lanemina](#p_lanemin)
     - Nad ranem [Ilana](#g_ilana) zostaje wyrwana ze snu przez kurz opadający ze sklepienia. Wyciąga [elfa](#g_kajetan) z armarium, po czym udają się do głównej sali, by zobaczyć [Aen Drisichean](#p_lanemin) schodzącego po schodach. 
@@ -17,9 +17,9 @@
         - trzyma się z nami żebyśmy w razie, gdy zajdzie taka potrzeba, wyświadczyli mu ostatnią przysługę.
     - Elf opowiada trochę o sposobie bycia [Aen Drisichean](#r_aen_drisichean) i mówi o sobie samym jako wojowniku, który - podobnie jak jego pobratymcy - nie przywykł składać broni i poddawać się losowi. Prosi [Kajetan](#g_kajetan) aby ten go zabił jeżeli choroba zacznie odbierać mu rozum.
     - [Kajetan](#g_kajetan) zgadza się na wyświadczenie takiej przysługi. Na odchodnym oferuje przybyszowi wygody jakie udało nam się tutaj przysposobić. 
-    - [Lanemin](#p_lanemin) udaje się do łazni by doprowadzić się do stanu względnego porządku, następnie dołącza do śpiącej grupy w barakach.
+    - [Lanemin](#p_lanemin) udaje się do łaźni by doprowadzić się do stanu względnego porządku, następnie dołącza do śpiącej grupy w barakach.
 3. Trzeci dzień pracy nad bronią
-    - Gdy reszta drużyny budzi się, a [gość](#p_lanemin) wciąż śpi, dyskutujemy o jego przybyciu. Rozmowa schodzi na dalsze plany i szerokopojęte światopoglądy. 
+    - Gdy reszta drużyny budzi się, a [gość](#p_lanemin) wciąż śpi, dyskutujemy o jego przybyciu. Rozmowa schodzi na dalsze plany i szeroko pojęte światopoglądy. 
     - [Ilana](#g_ilana) wtrąca niemal niesłyszalną uwagę na temat [Kajetana](#g_kajetan), jakoby pisał się na tą samobójczą wyprawę do [Craag An](#l_craag_an) między innymi ze względu na [Mirnę](#p_mirna), na którą [mag](#g_kajetan) reaguje dosyć złośliwym docinkiem.
     - Między dwójką wywiązuje się nieszkodliwa utarczka, podczas której [Ilana](#g_ilana) próbuje dać [Kajetanowi](#g_kajetan) kuksańca w bok. [Elf](#g_kajetan), nadal wzburzony uwagą [druidki](#g_ilana), osłania się magią przed lecącą w stronę swojego ramienia pięścią dziewczyny. 
     - Sytuację próbuje spacyfikować [Finarrin](#p_druid_finarrin), kwitując całą sytuację stwierdzeniem, że zawiódł jako ojciec, czym przelewa czarę goryczy młodej kobiety. 

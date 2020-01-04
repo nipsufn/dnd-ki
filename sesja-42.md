@@ -27,11 +27,11 @@
 4. Pościg za [Formorianem](#p_formorian)
     - Odnalezione w ziemi ślady prowadzą na północny-wschód, przez las.
     - Wygląda na to, że nasz wróg podróżuje wyłącznie nocami. Czyżby nie był w stanie wykazywać aktywności za dnia?
-    - W miejscu przemarszu [potwora](#p_formorian) okolica została pozbawiona wszelkego życia, a sama trasa jest przeorana niczym pługiem.
+    - W miejscu przemarszu [potwora](#p_formorian) okolica została pozbawiona wszelkiego życia, a sama trasa jest przeorana niczym pługiem.
     - [Kajetan](#g_kajetan) próbuje sprowokować [poczwarę](#p_formorian) do zawrócenia i ataku, bez powodzenia. Zdaje się że to stworzenie prze bezmyślnie przed siebie, pędzone prymitywnymi uczuciami.
     - Po drodze natykamy się na opustoszałe obozowisko Wiewiórek. Po samych Wiewiórkach nie ma śladu - ani ciał, ani żywych nie znajdujemy. Prowiant, który mieli w torbach jest zupełnie zepsuty.
     - Ostatniej nocy pościgu [mag](#g_kajetan) przeprowadza rekonesans przed zbliżającym się starciem, używając jednego z niedawno zdobytych artefaktów aby widzieć na odległość:
-        - za drzewem rosną i podążają humanoidalalne sploty korzeni i krzaków podobne jak te które widzieliśmy w [Medownej](#l_medowna) - [Krzaczaki](#b_krzaczak)
+        - za drzewem rosną i podążają humanoidalne sploty korzeni i krzaków podobne jak te które widzieliśmy w [Medownej](#l_medowna) - [Krzaczaki](#b_krzaczak)
         - samo drzewo pokryte jest naroślami przypominającymi twarze, jest czarne niczym wszechobecna w [Craag An](#l_craag_an) sadza
         - w środku drzewa znajduje się fioletowy kryształ, serce [stwora](#p_formorian), do którego prowadzi niewielka dziupla
         - od czasu naszego pierwszego spotkania drzewo trochę urosło - wydaje się większe i potężniejsze

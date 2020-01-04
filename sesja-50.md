@@ -2,7 +2,7 @@
 1. [Gryf](#b_gryf) kontra [Kuroliszek](#b_kuroliszek)
     - Wychodzimy od krawca i kierujemy się do karczmy, kiedy nieopodal rozlega się przeraźliwy huk, zupełnie jakby coś zwaliło się na któryś dom.
     - Ludzie zaczynają panikować. Tumult biegnie wgłąb miasta, strażnicy zaś spieszą w stronę zawieruchy.
-    - Po chwili widzimy samo źródło zamieszania - cokolwiek się wydarzyło w [lesie](#l_brokilon), sprowadziło nad miasto dwie walczące bestie: kuroliszka i gryfa, teraz splecione w morderczej walce.
+    - Po chwili widzimy samo źródło zamieszania - cokolwiek się wydarzyło w [lesie](#l_brokilon), sprowadziło nad miasto dwie walczące bestie: [kuroliszka](#b_kuroliszek) i [gryfa](#b_gryf), teraz splecione w morderczej walce.
     - Decydujemy się natychmiast opuścić miasto - liczymy, że zamieszanie ułatwi nam cichą przeprawę przez bramy, za miejskie mury.
     - Posiłkując się naszymi niecodziennymi umiejętnościami przechodzimy przez zamykane właśnie bramy.
     - Rozglądamy się za karczmą, w której moglibyśmy zatrzymać się na noc i rano ruszyć do [Medownej](#l_medowna). Jeden z chłopów poleca nam takowy przybytek.
@@ -22,13 +22,13 @@
     - O zmierzchu, gdy rozglądamy się już za miejscem na obóz, słyszymy gdakanie w chaszczach na polu. [Kajetan](#g_kajetan), niewiele myśląc, zaczyna także gdakać[<sup>1</sup>](#ad1), w skutek czego nagle atakują nas małe [kuroliszki](#b_kuroliszek). Udaje się nam je odeprzeć, choć [Ilanie](#g_ilana) trochę się obrywa - dziewczyna zostaje chwilowo sparaliżowana.
     - Kiedy dookoła zapada ponownie cisza i spokój, zauważamy w rowie chłopa z bydłem, którzy mieli nieco mniej szczęścia. Ich skóra jest szara niczym kamień, ale cuchną jak najbardziej organiczna z możliwych materii.
     - Wędrujemy jeszcze kawałek, z dala od miejsca walki, ale zmęczenie wkrótce nas dopada i rozbijamy obóz na polach nie siląc się już na selekcję miejscówki.
-    - [Ilana](#g_ilana) w nocy zauważa, że [kuroliszek](#b_kuroliszek) skończył już niechybnie swoją batalię z gryfem, bo coś podobnych mu rozmiarów przelatuje nad polami skanując okolicę. Naszego obozu na szczęścia nie zauważa.
+    - [Ilana](#g_ilana) w nocy zauważa, że [kuroliszek](#b_kuroliszek) skończył już niechybnie swoją batalię z [gryfem](#b_gryf), bo coś podobnych mu rozmiarów przelatuje nad polami skanując okolicę. Naszego obozu na szczęścia nie zauważa.
     - Na swojej warcie z kolei [Kajetan](#g_kajetan) widzi kolejnego stwora-gościa, znanego nam już sowo-niedźwiedzia. Zwierzę łapie coś do zjedzenia, po czym oddala się w tylko sobie znanym kierunku.
     - Noc przebiega bez dalszych zakłóceń. Skoro świt ruszamy dalej. Po drodze mijamy ludzkie sadyby. Kilkoro dzieci biega bawiąc się na polach.
     - Naszą uwagę przykuwa powalone drzewo z charakterystycznym wgnieceniem - ślady wskazują na starcie [sowiołaka](#b_sowiolak) z [kotem-migotem](#b_migot).
     - [Ilana](#g_ilana) zabiera pióra, których kilka - po za krwią i innymi elementami - leżą w okolicy.
 3. Czarnoksięskie mediacje [Ilany](#g_ilana)
-    - Słońce chyli się już ku zachodowi kiedy docieramy do [Medownej](#l_medowna). Naszym oczom ukazuje się małe obozowisko - 4 osobowy namiot w barwach nilfgaardu (możliwe, że to ci sami ludzie z naszego ostatniego wypadu do wioski), obok którego żołdacy złożyli kuchnię polową.
+    - Słońce chyli się już ku zachodowi kiedy docieramy do [Medownej](#l_medowna). Naszym oczom ukazuje się małe obozowisko - 4 osobowy namiot w barwach [Nilfgaardu](#l_nilfgaard) (możliwe, że to ci sami ludzie z naszego ostatniego wypadu do wioski), obok którego żołdacy złożyli kuchnię polową.
     - Bliższy rzut oka ujawnia, że w tym miejscu także doszło do jatki. W okolicy, jak i w namiocie leżą fragmenty wojaków. Gulasz w garnku był gotowany nie dalej niż poprzedniego wieczora. Kucharz zostawił w nim cząstkę siebie - w gulaszu pływa ręka.
     - Kierujemy się do ustalonego z [Larsem](#p_lars) miejsca spotkania - chaty pszczelarza.
     - W ruinach chaty dostrzegamy małe ognisko na tym, co zostało z piętra domu.

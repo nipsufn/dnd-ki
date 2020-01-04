@@ -11,7 +11,7 @@ refs = []
 
 whitelist = [
   sys.argv[0][2:],
-  ".gitignore"
+  ".gitignore",
   "requirements.txt",
   ".travis.yml",
   "test.py",
