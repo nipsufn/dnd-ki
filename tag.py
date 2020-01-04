@@ -23,7 +23,6 @@ class myParser(HTMLParser):
     if   'pattern' in attrDict.keys():
       patternList = sorted(attrDict['pattern'].split(','), key=len, reverse=True)
       regex = '|'.join(patternList) if patternList else attrDict['pattern']
-      print (regex)
       regex = regex.replace(r"*", r"\w{0,4}")
       
       tags.append([attrDict['id'], regex])
@@ -86,7 +85,7 @@ for filePath in fileList:
       text = re.sub(regex, substitute, text)
       
       #all standard tags unless it is already tagged [] or in between ><
-      regex = r"([^[^>])" + r"("+pair[1]+r")" + r"([^]^<])"
+      regex = r"([ ,.()])" + r"("+pair[1]+r")" + r"([ ,.()\n])"
       substitute = r"\1[\2](#"+pair[0]+r")\3"
       text = re.sub(regex, substitute, text)
   with open(filePath, 'w', encoding='utf-8') as fileStream:

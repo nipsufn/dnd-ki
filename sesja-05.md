@@ -4,7 +4,7 @@
     * Po wyjściu z kanałów i dziwnej zmianie czasu swoje pierwsze kroki kierujemy do Fiolki, do [Vigga](#p_viggo_regner).
     * [Viggo](#p_viggo_regner) zdaje się być bardzo zaskoczony naszym widokiem. Uświadamia nas, że od naszej wyprawy minęły 2 miesiące, a nie 2 dni.
     * Alchemik zaprasza nas do swojego *nieoficjalnego* warsztatu ukrytego za obrazem, drzwiami i magiczną iluzją.
-    * W pracowni siedzi gnomka. Ma na imię [Lukrecja](#p_lukrecja_schattenwort), ale my poznaliśmy ją już wcześniej - jako Janusa.
+    * W pracowni siedzi gnomka. Ma na imię [Lukrecja](#p_lukrecja_schattenwort), ale my poznaliśmy ją już wcześniej - jako [Janusa](#p_lukrecja_schattenwort).
     * Wypytujemy o to, co działo się pod naszą nieobecność. Tak dowiadujemy się, że:
         * [Viggo](#p_viggo_regner) jest teraz w lepszej sytuacji, mianowano go nawet członkiem rady miasta
         * możliwe że będzie miał więcej pracy
