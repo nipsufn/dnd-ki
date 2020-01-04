@@ -109,7 +109,7 @@
             Przychylny Driadom
         * Król Wenzlaw II<a id='p_krol_wenzlaw_ii' pattern='Król* Wenzlaw* II,Wenzlaw* II,Król* Wenzlaw* Drugi*,Wenzlaw* Drugi*'></a> - ; król [Brugge](#l_brugge)
             Podpisał umowy z Nilfgaarderm
-        * Magister Florian z Vicovaro<a id='p_florian_z_vicovaro' pattern='Pan* Florian*,Magist* Florian*,Pan* Florian* Vicovaro,Magist* Florian* Vicovaro, Florian* Vicovaro,Florian*,Vicovaro'></a> - ; mag
+        * Magister Florian z Vicovaro<a id='p_florian_z_vicovaro' pattern='Pan* Florian*,Magist* Florian*,Pan* Florian* Vicovaro,Magist* Florian* Vicovaro,Florian* Vicovaro,Florian*,Vicovaro'></a> - ; mag
         * Lars<a id='p_lars' pattern='Lars*'></a> - ; domniemany przywódca szajki najemnych złoczyńców w [Brugge](#l_brugge); ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
         * Gyf<a id='p_gyf' pattern='Gyf*'></a> - człowiek w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)
         * Skaags<a id='p_skaags' pattern='Skaags*'></a> - człowiek, sierżant; pracuje dla [Larsa](#p_lars)
@@ -134,10 +134,10 @@
 * [Ellander](#l_ellander)
     * R. Harevard<a id='p_rodzina_harevard'></a> - ; n/a;
         rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami
-    * Viggo Regner<a id='p_viggo_regner' pattern='Vigg*, Vigg* Regner*'></a> - ; alchemik/mag;
+    * Viggo Regner<a id='p_viggo_regner' pattern='Vigg*,Vigg* Regner*'></a> - ; alchemik/mag;
         Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
         ? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
-    * [Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort<a id='p_lukrecja_schattenwort' pattern='Lukrecj*,Lukrecj* Schattenwort, Janus*'></a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
+    * [Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort<a id='p_lukrecja_schattenwort' pattern='Lukrecj*,Lukrecj* Schattenwort,Janus*'></a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
         [Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
     * ? Regner<a id='p_pani_regner'></a> - ; mag;
         w śpiączce wg [Lukrecja](#p_lukrecja_schattenwort) (?);
@@ -218,7 +218,7 @@
     * [Maribor](#l_maribor)
         * _Tymaczasowy Burmistrz Nowobudowanego [Mariboru](#l_maribor) Z Łaski Regenta [Dijkstry](#p_dijkstra) Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](#p_krol_radowid) Błogisławiony Imć Komendant_ Kaspar<a id='p_kaspar' pattern='Kaspar*'></a>
         * współpracownik [Larsa](#p_lars)
-    * Morgan Guus<a id='p_morgan' pattern='Morgan* Guus, Morgan*'></a>
+    * Morgan Guus<a id='p_morgan' pattern='Morgan* Guus,Morgan*'></a>
         * karczmarz
         * opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
         * buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1370PP, możliwe że zostanie nazwana _"W pół drogi"_
