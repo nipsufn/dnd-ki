@@ -98,5 +98,5 @@
     - pół kura pół jaszczura
     - kąsa jadem który paraliżuje i szarzy cerę (z tąd legendy o zamienianiu w kamień?)
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
-<a href="https://nipsufn.github.io/journal.html#p_druid_finarrin" pattern='Druid Finarrin'>Druid Finarrin</a>, 1370 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing" pattern='PP'>PP</a>
+<a href="https://nipsufn.github.io/journal.html#p_druid_finarrin">Druid Finarrin</a>, 1370 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing">PP</a>
 </i></div>
