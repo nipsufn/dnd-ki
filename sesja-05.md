@@ -23,9 +23,9 @@
     * Zagadniony przechodzień mówi, że na rynku będzie publiczna egzekucja, więc podążamy w tamtą stronę, trzymając się jednak lekko z tyłu.
     * Jesteśmy świadkami egzekucji wiedźmy. Udaje nam się podejść na tyle blisko aby zobaczyć całe zajście, ale na tyle ukradkiem, że nikt nam się nie przygląda.
     * Ofiara przerywa modły kapłana. Wygłasza fragment przepowiedni o _Białym Zimnie_ ale w wersji głoszonej przez kult [Lwiogłowego Pająka](#r_lwioglowy_pajak), a jej oczy przedzielone pionowymi, gadzimi źrenicami jarzą się żółto.
-    * Krzyk wydany przez kobietę ogłusza obecnych na rynku. Ludzie zaczynają uciekać w panice krawiąc z uszu i nosa, tratując się nawzajem.
+    * Krzyk wydany przez kobietę ogłusza obecnych na rynku. Ludzie zaczynają uciekać w panice krwawiąc z uszu i nosa, tratując się nawzajem.
     * [Myrton, Mistrz Łowców](#p_lord_myrton) Czarownic/Potworów (jakkolwiek oni się tam teraz chcą zwać) przebija ją mieczem, jednak przychodzi mu to z wyraźnym trudem - zdaje się "grzęznąć" w powietrzu jak w smole.
-    * Z zaułków i szpar wyglądają szczury z nienaturalnie żółtymi oczami identyczymi jak u czarownicy z rynku; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**
+    * Z zaułków i szpar wyglądają szczury z nienaturalnie żółtymi oczami identycznymi jak u czarownicy z rynku; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**
 3. [Eliza](#p_eliza)
     * Z rynku kierujemy się do zakładu krawieckiego. Zrobiło się chłodniej, więc potrzebujemy cieplejszych ubrań.
     * [Eliza](#p_eliza) zdejmując miarę zdaje sobie sprawę z iluzji wokół [Kajetana](#g_kajetan) i jego faktycznych rozmiarów.
@@ -39,7 +39,7 @@
     * Elf dobiega do podwórka, na którym bawi się grupka dzieci. Rzuca im kilka monet i prosi, żeby zmyliły pościg dając w długą w stronę gwarnej ulicy.
     * Udaje nam się umknąć, ale [Ilana](#g_ilana) rozpoznaje napastników - jeden z nich był w [Różyczce](#l_rozyczka) wśród chamskich murarzy, których pogonił [Kajetan](#g_kajetan).
     * Korzystając z obecności ludzi, próbujemy wmieszać się w tłok i kierujemy się do [Różyczki](#l_rozyczka).
-    * Po drodze zauważamy szczury - wielkie i agresywne, zdają się atakować wszystko, co jest ich rozmiarów lub mniejsze. Lub to, co znajdzie się w ciemnym zaułku zdala od świateł i ludzi.
+    * Po drodze zauważamy szczury - wielkie i agresywne, zdają się atakować wszystko, co jest ich rozmiarów lub mniejsze. Lub to, co znajdzie się w ciemnym zaułku z dala od świateł i ludzi.
 6. [Różyczka](#l_rozyczka) - konfrontacja
     * Karczma lekko podupadła, brakuje zarówno jadła jak i klienteli, a to w związku ze szczurami, które od dłuższego czasu niszczą zapasy jedzenia.
     * Snują się opowieści przy kuflu:
@@ -57,11 +57,11 @@
 7. [Ziołowy Kufel](#l_ziolowy_kufelek)
     * Dowiadujemy się kilku ciekawych rzeczy:
         * karczma ta okazuje się nie jest aż tak strasznie droga
-        * radzi sobie nienajgorzej - zdecydowanie lepiej niż [Różyczka](#l_rozyczka)
+        * radzi sobie nie najgorzej - zdecydowanie lepiej niż [Różyczka](#l_rozyczka)
         * miasto zdaje się być zamknięte i nikt bez glejtu nie wejdzie do ani nie wyjdzie z miasta
         * problemy na drogach ubijają handel - mniej podróżnych i problem z zaopatrzeniem
         * glejty do miasta wystawia się tylko dla ludzi którzy handlują aby oszczędzać pozostałe zasoby na przyjezdnych
-        * parki przearanżowano w tymczasowe farmy
+        * parki prze-aranżowano w tymczasowe farmy
         * w [Wyzimie](#l_wyzima) jest jeszcze gorzej niż w [Ellander](#l_ellander) - tamtejszy Lord rządzi twardą ręką w czasie głodu
     * W tawernie spotykamy grupkę strażników. Jeden z nich został ugryziony przez szczura.
     * [Ilana](#g_ilana) oferuje pomoc, strażnik niechętnie pokazuje ranę. 

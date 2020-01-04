@@ -31,7 +31,7 @@
     * Podczas swojej warty [Ilana](#g_ilana) zauważa dziurę w swoim plecaku i braki w zapasach jedzenia. 
     * Zabiera plecak ze sobą na drzewo i stamtąd przygląda się poczwarkom, kiedy do obozu podchodzą [kikimory](#b_kikimora). Na szczęście są to tylko robotnice, które obszukują biwak nie krzywdząc nikogo z drużyny, a następnie odchodzą, zabierając ze sobą też czerwie.
     * [Kikimory](#b_kikimora) oddalają się w stronę polanki, którą rozważaliśmy jako drugą opcję noclegu, po czym znikają w tunelu pod ziemią.
-    * Nad ranem [Kajetan](#g_kajetan) wydaje się być najbardziej zmiesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używając magii) z drzewa na drzewo aż mu zabraknie sił. 
+    * Nad ranem [Kajetan](#g_kajetan) wydaje się być najbardziej zniesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używając magii) z drzewa na drzewo aż mu zabraknie sił. 
     * W swoim stuporze i rozsierdzeniu nie zwraca uwagi na nagłe drżenie podłoża.
     * [Ilana](#g_ilana) komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony [Kajetan](#g_kajetan) obrażony na [Brokilon](#l_brokilon) i na cały świat, odmawia, przez co niemal pada ofiarą ogromnych [skolopendrów](#b_stonoga)(które spotkali już kiedyś w [Ellander](#l_ellander) w drodze do świątyni). Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
 2. [Wioska druidów](#l_wioska)
@@ -40,7 +40,7 @@
         * temperatura jest jeszcze wyższa niż w samym [Brokilonie](#l_brokilon) 
     * Przy ognisku dostrzegamy 4 osoby - trzy w charakterystycznym, codziennym odzieniu druidów i jedną obcą - elfkę o długich włosach, odzianą w cynobrowo-rudą szatę. 
     * Wśród pozostałych osób [Ilana](#g_ilana) rozpoznaje swoją przyjaciółkę, [Mirnę](#p_mirna), siedzącą w towarzystwie dwóch młodszych druidów.
-    * Dziwna elfka zachowuje się jakby jej obecność nie była niczym dziwnym, posługuje się magią telepatyczną. Mówiąc, rzuca uspakajający/oczarowywujący urok i nie przedstawia się - [Kajetan](#g_kajetan) dość butnie zwraca jej uwagę na brak manier.
+    * Dziwna elfka zachowuje się jakby jej obecność nie była niczym dziwnym, posługuje się magią telepatyczną. Mówiąc, rzuca uspakajający/oczarowujący urok i nie przedstawia się - [Kajetan](#g_kajetan) dość butnie zwraca jej uwagę na brak manier.
     * Elfka, niezbyt skonsternowana, przedstawia się jako [Verenestra, "Księżna Dębu"](#p_verenestra), jedna z [Aen Eldrin](r_aen_eldrin) "zaproszonych" do [Brokilonu](#l_brokilon)
     * [Mirna](#p_mirna) opowiada, że ich trójka to jedyni druidzi w [Wiosce](#l_wioska). Podczas święta Równonocy:
         * druidzi zaczęli odprawiać przygotowany uprzednio rytuał zakorzeniony w magii Poznania[<sup>1</sup>](#ad1)
@@ -63,7 +63,7 @@
     * [Kajetan](#g_kajetan), uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku, że [Verenestra](#p_verenestra) jest rzeczywiście gościem i nie zna powszechnie stosowanych obyczajów. Postaniawia ją przeprosić i z nią porozmawiać:
         * elfka nie widziała afrontu w fakcie zwrócenia uwagi
         * wywiązuje się pseudofilozoficzna debata, zdaje się, że [Aen Eldrin](#r_aen_eldrin) albo nie odczuwają czasu albo są niesamowicie długowieczni; tak czy inaczej zdaje się, że kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
-        * czterej [Aen Eldrin](#r_aen_eldrin) dostali się do [Brokilonu](#l_brokilon) przez portal otwarty przez [Eithne](#p_eithne), która to zapadła w śpiączke próbując powiększyć portal aby umożliwić przejście większej ilości "gości"
+        * czterej [Aen Eldrin](#r_aen_eldrin) dostali się do [Brokilonu](#l_brokilon) przez portal otwarty przez [Eithne](#p_eithne), która to zapadła w śpiączkę próbując powiększyć portal aby umożliwić przejście większej ilości "gości"
         * [Aen Eldrin](#r_aen_eldrin) społecznie dzielą się na cztery grupy: [Wiosnę](#l_wioska), Lato, Jesień i Zimę, okresowo zmieniając swoje "role" 
         * [Kajetanowi](#g_kajetan) wydaje się, że jest to spowodowane ich długowiecznością i znudzeniem "odgrywania tej samej roli", bycia tą samą osobą
         * ich byt zdaje się być teatrem, który zatracił znaczenie metaforyczne i staje się faktem (czy istnieje jakaś sztuka, którą odgrywają? czy ta sztuka "sama się pisze" w miarę jak istnieją?)
