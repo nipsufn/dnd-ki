@@ -183,7 +183,7 @@
     - <a id='p_mandrej' pattern='Mandrej*'>Kupiec Mandrej</a> - ; ?;
         zasiada w radzie miejskiej
     - <a id='p_lord_myrton' pattern='Lord* Myrton*,Myrton*'>Lord Slyz Myrton</a> - ; dowódca;
-        rządzi zakonem Łowców Czarownic/Potworów w [Ellander](#l_ellander), nie ma wody z mózgu, da się z nim dogadać;
+        rządzi zakonem [Łowców](#r_lowca) Czarownic/Potworów w [Ellander](#l_ellander), nie ma wody z mózgu, da się z nim dogadać;
         Możlwe że po niedawnej śmierci Przywódcy [Menge](#p_menge) rządzi całym zakonem.
         [Menge](#p_menge): przełożony
         [Kasimir](#g_kasimir): podwładny
@@ -206,7 +206,7 @@
         przez jakiś czas rządził [Novigradem](#l_novigrad)
         rządzi w [Wyzimie](#l_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#l_temeria)
         zakładał obozy pracy dla Scoia'tael
-    - <a id='p_menge' pattern='Menge*'>✝ Menge</a> - ; przywódca zakonu Łowców
+    - <a id='p_menge' pattern='Menge*'>✝ Menge</a> - ; przywódca zakonu [Łowców](#r_lowca)
         [Lord Slyz Myrton](#p_lord_myrton): podwładny
     - <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w [Mayenie](#l_mayena) na dybuga
     - <a id='p_hemmelfart' pattern='Hemmelfart'>Cyrus Engelkind Hemmelfart</a> - kapłan; Główny Kapłan kultu Wiecznego Ognia
@@ -222,9 +222,9 @@
         - karczmarz
         - opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
         - buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1370PP, możliwe że zostanie nazwana _"W pół drogi"_
-- Verden
-    - Lokij
-        - <a id='p_niemój' pattern='Niem*,Sołtys* Niem*'>Sołtys Niemój</a>
+- [Verden](#l_verden)
+    - [Lokij](#l_lokij)
+        - <a id='p_niemój' pattern='Niem[óo]*,Sołtys* Niem[óo]*'>Sołtys Niemój</a>
 - [Wyspy Skellige](#l_wyspy_skellige)
     - <a id='p_cerys' pattern='Cerys an Craite,Cerys'>Cerys an Craite</a> - ; jarl wysp [Skellige](#l_wyspy_skellige)
         córka Crach an Craite'a

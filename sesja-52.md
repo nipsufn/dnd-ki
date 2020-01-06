@@ -1,34 +1,34 @@
 ### Sesja 51
 1. Nieproszeni goście i rozmowy niekontrolowane
-    - w Wiosce znajdujemy tlące się jeszcze ognisko. Większość dobytku po Druidach leży na kupie, a Ilana słyszy dźwięk rozbijanego szkła z chatki Mirny.
-    - zostawiając gości pod opieką Finarrina, Ilana i Kajetan sprawdzają co się dzieje. W podpiwniczeniu domku zaskakują trzech kmiotków.
-    - chłopi, w tym Sołtys Niemój, myśleli że Druidzi opuścili wioskę, w związku z czym można sobie zabrać co się żywnie podoba. Porządnie nastraszonych wyprowadzamy na zewnątrz, pozwalając Hierofancie zając się delikwentami
-    - wioskę z której pochodzą, Lokij, napadły potwory (pewnie z tych które wyleciały z Tor Corax). Kryją się na granicach lasu z rodzinami i szukali tu pomocy - nie znajdując chcieli pomóc sobie sami
-    - jako że nie ma komu pobiec oczyścić [wieś](Lokij) z plugastwa, [Druid](Finarrin) zaprasza tymczasowo całe chłopstwo do Wioski. Mogą też zadośćuczynić za plądrowanie pomagając w odbudowie
-    - Ilana poluje, Finarrin bawi gości, Ivar i Kajetan przygotowyują antymagiczą polanę - stoły, krzesła itp.
-    - Przy kolacji magowie dowiadują się gdzie [druidka](Ilana) planuje prowadzić rozmowy. Są niezbyt zadowoleni, ale argumentacja zapewnienia neutralnej atmosfery bez magii trafia do nich
-    - wiele artefaktów skonfiskowanych przez Łowców jest sprzedawanych na kwartalnych aukcjach w Oxenfurcie, w Domu Aukcyjnym Braci Borsodych.
-    - przybywa reszta chłopów a za nimi Hienołaki. Pokonujemy je, magowie pomagają. Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta, może teściowa Niemója
-    - Kajetan pyta na odległość Aglais o (wyspiarza)[Skovika]. Ten ma się dobrze. Rozmawia też z Mirną, która akurat pije ze znajomymi. Dorobiła się warsztatu w Kerrack (jeśli rzeczywiście tam właśnie dotarła). Zaprasza [elfa](Kajetana) do miasta, zdaje się nie mieć nic na przeciwko pomysłowi driad. Biorąc jednak pod uwagę upojenie [dziewczyny](Mirny) Kajetan obiecuje oddzwonić jak będzie miała trochę czasu na zastanowienie.
+    - w [Wiosce](#l_wioska) znajdujemy tlące się jeszcze ognisko. Większość dobytku po Druidach leży na kupie, a [Ilana](#g_ilana) słyszy dźwięk rozbijanego szkła z chatki [Mirny](#p_mirna).
+    - zostawiając gości pod opieką [Finarrina](#p_druid_finarrin), [Ilana](#g_ilana) i [Kajetan](#g_kajetan) sprawdzają co się dzieje. W podpiwniczeniu domku zaskakują trzech kmiotków.
+    - chłopi, w tym [Sołtys Niemój](#p_niemój), myśleli że Druidzi opuścili wioskę, w związku z czym można sobie zabrać co się żywnie podoba. Porządnie nastraszonych wyprowadzamy na zewnątrz, pozwalając [Hierofancie](#p_druid_finarrin) zając się delikwentami
+    - wioskę z której pochodzą, [Lokij](#l_lokij), napadły potwory (pewnie z tych które wyleciały z [Tor Corax](#r_tor_corax)). Kryją się na granicach lasu z rodzinami i szukali tu pomocy - nie znajdując chcieli pomóc sobie sami
+    - jako że nie ma komu pobiec oczyścić [wieś](#l_lokij) z plugastwa, [Druid](#p_druid_finarrin) zaprasza tymczasowo całe chłopstwo do [Wioski](#l_wioska). Mogą też zadośćuczynić za plądrowanie pomagając w odbudowie
+    - [Ilana](#g_ilana) poluje, [Finarrin](#p_druid_finarrin) bawi gości, [Ivar](#p_ivar) i [Kajetan](#g_kajetan) przygotowują antymagiczą polanę - stoły, krzesła itp.
+    - Przy kolacji magowie dowiadują się gdzie [druidka](#g_ilana) planuje prowadzić rozmowy. Są niezbyt zadowoleni, ale argumentacja zapewnienia neutralnej atmosfery bez magii trafia do nich
+    - wiele artefaktów skonfiskowanych przez [Łowców](#r_lowca) jest sprzedawanych na kwartalnych aukcjach w [Oxenfurcie](#l_oxenfurt), w [Domu Aukcyjnym Braci Borsodych](#l_dom_borsodych).
+    - przybywa reszta chłopów a za nimi [Hienołaki](#b_hienolak). Pokonujemy je, magowie pomagają. Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta, może teściowa [Niemója](#p_niemój)
+    - [Kajetan](#g_kajetan) pyta na odległość [Aglais](#p_aglais) o (wyspiarza)[Skovika]. Ten ma się dobrze. Rozmawia też z [Mirną](#p_mirna), która akurat pije ze znajomymi. Dorobiła się warsztatu w [Kerack](#l_kerack) (jeśli rzeczywiście tam właśnie dotarła). Zaprasza [elfa](#g_kajetan) do miasta, zdaje się nie mieć nic na przeciwko pomysłowi driad. Biorąc jednak pod uwagę upojenie [dziewczyny](#p_mirna) [Kajetan](#g_kajetan) obiecuje oddzwonić jak będzie miała trochę czasu na zastanowienie.
 2. Negocjacje
-    - Lars i Vicovaro zostawiają swoje rzeczy przed polaną i rozpoczynamy negocjacje. Kajetan, za przyzwoleniem stron, brał udział miast odejść, jako że nie może wejść do antymagicznego pola.
+    - [Lars](#p_lars) i [Vicovaro](#p_florian_z_vicovaro) zostawiają swoje rzeczy przed polaną i rozpoczynamy negocjacje. [Kajetan](#g_kajetan), za przyzwoleniem stron, brał udział miast odejść, jako że nie może wejść do antymagicznego pola.
     - obaj przedstawiają swoją wersję wydarzeń
-    - gdy schodzą z tematu by obrzucać się gównem, Kajetan wtrąca się do rozmowy opisując sytuację z naszej perspektywy, zaznaczając potencjalny wpływ wiców które się wyprawiały w Brokilonie
-    - magowie zaczynają skupiać się na problemie, jednak po jakimś czasie schodzą na tematy polityczne i przyszłość Verden
-    - stanowczo stwierdzamy że rozważania polityczne to nie część tych negocjacji, i starając się nawrócić rozmowę na produktywny tor, proponujemy wycieczkę po Crag An gdy problem [zarazy](Ciałognilec) zostanie rozwiązany
+    - gdy schodzą z tematu by obrzucać się gównem, [Kajetan](#g_kajetan) wtrąca się do rozmowy opisując sytuację z naszej perspektywy, zaznaczając potencjalny wpływ wiców które się wyprawiały w [Brokilonie](#l_brokilon)
+    - magowie zaczynają skupiać się na problemie, jednak po jakimś czasie schodzą na tematy polityczne i przyszłość [Verden](#l_verden)
+    - stanowczo stwierdzamy że rozważania polityczne to nie część tych negocjacji, i starając się nawrócić rozmowę na produktywny tor, proponujemy wycieczkę po [Craag An](#l_craag_an) gdy problem [zarazy](#r_cialognilec) zostanie rozwiązany
     - pomimo dużego zainteresowania uczestników, dyskusje techniczne o chorobie utknęły w martwym punkcie. Będziemy kontynuować kolejnego dnia, a póki co czas na obiad
 3. Rozważania, eksperymenty i dyskusje
-    - Finarrin kolejny raz proponuje Ilanie aby użyć jego artefaktu do rytuału widzenia, który mógłby odsłonić początki mutacji zarazy. [Druidka](Ilana) jest rozdarta, a zdradzony przez [ojca](Finarrina) oryginalny pomył zajrzenia w jej przeszłość komplikuje podjęcie decyzji jeszcze bardziej
-    - Kajetan komunikuje się znów z [driadą](Aglais), nie zdając sobie sprawy jak poważne mogą być konsekwencje czarowania w Imbaelk. Dowiaduje się że Skovik śpi i będzie spał, jednak rzuca się przez sen jak gdyby przeżywał jakieś wspomnienia. Ponadto Eithne odwiedziła Col Serrai, wyczuwając lekkomyślną i nieskonsultowaną kurację [elfa](Kajetana)...
-    - [mag](Kajetan) nienaturalnie jasno czuje jak wiele miał szczęścia rzucając to zaklęcie - mogło się to dla niego skończyć tragicznie. Decyduje się odłożyć rozmowę z Mirną na następny dzień
-    - Ilana pyta Kajetana o radę. Ten, dobierając słowa, doradza szczerość wobec siebie, pozwolenie sobie na nieco egoizmu, i stwierdza, że nie może podjąć decyzji za [dziewczynę](Ilanę)
-    - [druidka](Ilana) decyduje się zgodzić z Finarrinem i użyć Wody Brokilonu aby pomóc magom.
+    - [Finarrin](#p_druid_finarrin) kolejny raz proponuje [Ilanie](#g_ilana) aby użyć jego artefaktu do rytuału widzenia, który mógłby odsłonić początki mutacji zarazy. [Druidka](#g_ilana) jest rozdarta, a zdradzony przez [ojca](#p_druid_finarrin) oryginalny pomył zajrzenia w jej przeszłość komplikuje podjęcie decyzji jeszcze bardziej
+    - [Kajetan](#g_kajetan) komunikuje się znów z [driadą](#p_aglais), nie zdając sobie sprawy jak poważne mogą być konsekwencje czarowania w [Imbaelk](#r_imbaelk). Dowiaduje się że [Skovik](#p_skovik) śpi i będzie spał, jednak rzuca się przez sen jak gdyby przeżywał jakieś wspomnienia. Ponadto [Eithne](#p_eithne) odwiedziła [Col Serrai](#l_col_serrai), wyczuwając lekkomyślną i nieskonsultowaną kurację [elfa](#g_kajetan)...
+    - [mag](#g_kajetan) nienaturalnie jasno czuje jak wiele miał szczęścia rzucając to zaklęcie - mogło się to dla niego skończyć tragicznie. Decyduje się odłożyć rozmowę z [Mirną](#p_mirna) na następny dzień
+    - [Ilana](#g_ilana) pyta [Kajetana](#g_kajetan) o radę. Ten, dobierając słowa, doradza szczerość wobec siebie, pozwolenie sobie na nieco egoizmu, i stwierdza, że nie może podjąć decyzji za [dziewczynę](#g_ilana)
+    - [druidka](#g_ilana) decyduje się zgodzić z [Finarrinem](#p_druid_finarrin) i użyć Wody [Brokilonu](#l_brokilon) aby pomóc magom.
 4. Co uciułał rytuał
     - na środku wioski zostaje ułożona kamienna niecka z kalendarzem wyrytym na dnie
-    - [druid](Finarrin) nalewa doń Wód Brokilonu i rozpoczyna rytuał
-    - wszyscy użytkownicy Mocy - z wyjątkiem Kajetana, który po magicznej rozmowie ani myśli próbować kolejnych czarów w [święto kiełkowania](Imbaelk) - pomagają
+    - [druid](#p_druid_finarrin) nalewa doń Wód [Brokilonu](#l_brokilon) i rozpoczyna rytuał
+    - wszyscy użytkownicy Mocy - z wyjątkiem [Kajetana](#g_kajetan), który po magicznej rozmowie ani myśli próbować kolejnych czarów w [święto kiełkowania](#r_imbaelk) - pomagają
     - z niecki zaczynają się unosić malutkie kropelki, aż sam kamień pozostaje suchy. W powietrzu, między uczestnikami rytuału, zaczyna się formować wizja dwóch ludzi, uciekających przez podziemne tunele. W jaskini z jeziorem dopada ich jakieś monstrum, które ich rozszarpuje. W czasie szamotaniny jakieś słoje wypadają z tobołków kmiotków i rozbijają się, ich oleista zawartość zmieszana z krwią ofiar i potwora miesza się z wodami jeziora...
     - Wizja rozpierzcha się w mgłę pokrywającą całą okolicę. W jej miejscu pozostaje mglista postać jednego z kmiotów - upiór. Sporym wysiłkiem udaje się nam go pokonać
-    - Vicovaro rozpoznaje kmiotków z wizji - mieli roznieść Ciałognilca po Verden
-    - Lars rozpoznaje podziemne jezioro - jest ono jednym z wielu jakie znajdują się w jaskiniach Zawodzących Klifów, nad którymi stoi, i z których czerpie wodę pitną, twierdza Nastrog. Notabene, jaskinie powinny były być pilnie strzeżone...
-    - magowie wydają się być zadowoleni i widzieć jasną ścieżkę ku rozwiązaniu problemu. Wraz z ofertą skomunikowania ich z wiedźminem, stwierdzają że wywiążą się ze swojej części umowy (usunięcie listów gończych w Nilfgaardzie, w miarę możliwości usunięcie nacisków Redańskich Sił Specjalnych), a Ilanie udaje się nawet wyprosić drugi zwój komunikacyjny od Floriana.
+    - [Vicovaro](#p_florian_z_vicovaro) rozpoznaje kmiotków z wizji - mieli roznieść [Ciałognilca](#r_cialognilec) po [Verden](#l_verden)
+    - [Lars](#p_lars) rozpoznaje podziemne jezioro - jest ono jednym z wielu jakie znajdują się w jaskiniach Zawodzących Klifów, nad którymi stoi, i z których czerpie wodę pitną, twierdza [Nastrog](#l_nastrog). Notabene, jaskinie powinny były być pilnie strzeżone...
+    - magowie wydają się być zadowoleni i widzieć jasną ścieżkę ku rozwiązaniu problemu. Wraz z ofertą skomunikowania ich z wiedźminem, stwierdzają że wywiążą się ze swojej części umowy (usunięcie listów gończych w [Nilfgaardzie](#l_nilfgaard), w miarę możliwości usunięcie nacisków Redańskich Sił Specjalnych), a [Ilanie](#g_ilana) udaje się nawet wyprosić drugi zwój komunikacyjny od [Floriana](#p_florian_z_vicovaro).

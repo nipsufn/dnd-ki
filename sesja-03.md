@@ -11,14 +11,14 @@
         - czeka, aż mężczyzna odejdzie i idzie przeczytać ogłoszenie
         - ogłoszenie pochodzi od kapłanek ze świątyni Melitele - potrzebują chętnych rąk do pomocy
     - W gospodzie dowiadujemy się kilku ciekawych rzeczy, w tym co nieco o rodzie Herewardów.
-    - Jesteśmy świadkami jak 4 Łowców Czarownic w ubłoconych, oblepionych szlamem butach wychodzi z [Kuropatwy](#l_kuropatwa) i po okazaniu glejtu, wchodzi dalej do miasta. Wydają się być czymś bardzo podekscytowani. 
+    - Jesteśmy świadkami jak 4 [Łowców](#r_lowca) Czarownic w ubłoconych, oblepionych szlamem butach wychodzi z [Kuropatwy](#l_kuropatwa) i po okazaniu glejtu, wchodzi dalej do miasta. Wydają się być czymś bardzo podekscytowani. 
 3. Nad ranem po nocy w [Kuropatwie](#l_kuropatwa)
     - Wychodząc z [Kuropatwy](#l_kuropatwa) [Ilana](#g_ilana) zauważa, że ktoś zerwał i celowo zniszczył ogłoszenie ze świątyni Melitele.
     - Wchodzimy do miasta. Strażnicy nie robią problemów na bramie.
     - Miejski krzykacz ogłasza, że jest nagroda za informacje o bandytach grasujących w okolicznym lesie.
     - W drodze do [Różyczki](#l_rozyczka), gdzie umówiliśmy się wcześniej z [Kranmerami](#p_otto_kranmer) by odebrać pieniądze za wykonanie zlecenia, przechodzimy obok zakładu alchemicznego “[Fiolka Zdrowia](#l_fiolka_zdrowia)”.
-    - Przed sklepem stoi grupa Łowców, najwyraźniej pilnują wejścia.
-    - Przystajemy na chwilę i obserwujemy z daleka. Widzimy jak ze środka po chwili wychodzi bogato odziany jegomość. Grupa Łowców wygląda na jego eskortę (podwładnych?).
+    - Przed sklepem stoi grupa [Łowców](#r_lowca), najwyraźniej pilnują wejścia.
+    - Przystajemy na chwilę i obserwujemy z daleka. Widzimy jak ze środka po chwili wychodzi bogato odziany jegomość. Grupa [Łowców](#r_lowca) wygląda na jego eskortę (podwładnych?).
     - Upewniając się, że nikt nie obserwuje nas zza rogu, wchodzimy do sklepu.
 4. [Fiolka Zdrowia](#l_fiolka_zdrowia)
     - W sklepie wita nas tęgawy mężczyzna o szpakowatych, zaczesanych do tyłu włosach. Jest w fartuchu roboczym, ale pod nim ma ubranie wskazujące na dobre sytuowanie właściciela.
@@ -33,7 +33,7 @@
 6. [Viggo Regner](#p_viggo_regner)
     - Decydujemy się zgodnie z planem sprzedać głowę alchemikowi. 
     - [Vigo](#p_viggo_regner) mówi, że gdyby udało się nam przynieść nieuszkodzoną skórę bestii, byłby w stanie przerobić ją na płaszcz o podobnych właściwościach, co zdolność "migania" bestii.
-    - Sklep jest obserwowany przez Łowców Czarownic, częste wizyty składa tam niejaki [Lord Slyz Myrton](#p_lord_myrton) - głowa tutejszej filii zakonu Wiecznego Ognia.
+    - Sklep jest obserwowany przez [Łowców](#r_lowca) Czarownic, częste wizyty składa tam niejaki [Lord Slyz Myrton](#p_lord_myrton) - głowa tutejszej filii zakonu Wiecznego Ognia.
     - Otrzymujemy porpozycję kontraktu, ale jego szczegółów alchemik nie chce omawiać w swoim zakładzie. Proponuje nam wieczorne spotkanie w przybytku o nazwie "Zielony Kufelek".
     - Na pożegnanie [Kajetan](#g_kajetan) wyciąga do alchemika - zapobiegliwie i celowo - lewą rękę żeby nie narazić się na ponowny kontakt z obrączką, co spotyka się ze zrozumieniem alchemika.
 7. Wizyta u krawcowej [Elizy](#p_eliza)

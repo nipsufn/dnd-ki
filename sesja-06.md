@@ -1,12 +1,12 @@
 ### Sesja 6
 1. [Viggo Regner](#p_viggo_regner)
     - Niespodziewanym gościem okazuje się [Lord Myrton](#p_lord_myrton).
-    - Zwierzchnik Łowców przybywa ze zleceniem. Obiecuje dać nam glejt jeśli eskortujemy jednego z Łowców Potworów ([Kasimira](#g_kasimir)) do [Świątyni Melitele](#l_smelitele); **[Zadanie: Ku Świątyni!](#z_q7)**
+    - Zwierzchnik [Łowców](#r_lowca) przybywa ze zleceniem. Obiecuje dać nam glejt jeśli eskortujemy jednego z [Łowców](#r_lowca) Potworów ([Kasimira](#g_kasimir)) do [Świątyni Melitele](#l_smelitele); **[Zadanie: Ku Świątyni!](#z_q7)**
 2. Przygotowania
     - W mieście krąży nasze złoto które straciliśmy, gdy nas porwano. [Ilanie](#g_ilana) udaje się wyśledzić kilka monet i mieszek, które miała przy sobie przed porwaniem. Po reszcie sprzętu nie ma jednak śladu.
     - Wybieramy się do krawcowej poinformować, że jedziemy do [Ellander](#l_ellander) i zapytać, czy panie zabiorą się z nami.
     - [Ilana](#g_ilana) uprzedza i uspakaja [Elizę](#p_eliza) na temat towarzystwa, w którym będziemy podróżować.
-    - [Kasimir](#g_kasimir) z [Kajetanem](#g_kajetan) idą do siedziby Łowców gdzie wypożyczamy wóz.
+    - [Kasimir](#g_kasimir) z [Kajetanem](#g_kajetan) idą do siedziby [Łowców](#r_lowca) gdzie wypożyczamy wóz.
     - Po drodze przystajemy pod strażnicą. Pytamy o strażnika, który wczoraj został pogryziony przez szczury.
     - Oferujemy się zabrać strażnika do świątyni w geście dobrej woli. Jego kompani organizują zwolnienie na czas podróży i rekonwalescencji, i pakują chorego na wóz.
 3. Droga
@@ -36,5 +36,5 @@
     - Jeśli usuniemy pnącze, kapłanki obiecują w zamian pomóc nie tylko nam, ale także i miastu.
     - Na czas walki [Eliza](#p_eliza) z [Darią](#p_daria) zostają wzięte pod opiekę kapłanek. [Tomowi](#p_tom) też zostaje udzielona pomoc.
     - Pnącza zdają się pasożytować na kapłankach, które próbowały się go pozbyć i teraz leżą jak martwe, spowite roślinami. Narośl pojawiła się po feralnej dwuksiężycowej nocy.
-    - Pnącza zostają usunięte. Początkowo obawiamy się używać magii w obecności Łowcy, ale [Kasimir](#g_kasimir) zdaje się nie przejmować zasadami - przynajmniej tak długo jak jego możliwość awansu na tym korzysta (niemniej powinniśmy być ostrożni jeśli wrócimy do [Ellander](#l_ellander)).
+    - Pnącza zostają usunięte. Początkowo obawiamy się używać magii w obecności [Łowcy](#r_lowca), ale [Kasimir](#g_kasimir) zdaje się nie przejmować zasadami - przynajmniej tak długo jak jego możliwość awansu na tym korzysta (niemniej powinniśmy być ostrożni jeśli wrócimy do [Ellander](#l_ellander)).
     - W czasie walki Dąb traci kawałek jednej z gałęzi. [Ilana](#g_ilana) pyta, czy może go zatrzymać, aby z niego zrobić sobie nowy kostur, na co wdzięczna [Matka Iola](#p_matka_iola) zgadza się niemal bez namysłu.

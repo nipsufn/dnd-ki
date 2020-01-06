@@ -111,8 +111,8 @@
     - <a id='l_rozrog' pattern='Rozrog*'>Rozrog</a>
     - <a id='l_nastrog' pattern='Nastrog*'>Nastrog</a>
     - <a id='l_lokij' pattern='Lokij'>Lokij</a>
-        - wieś pod Brokilonem
-        - nazwa wywodzi się z narzecza Skellige
+        - wieś pod [Brokilonem](#l_brokilon)
+        - nazwa wywodzi się z narzecza [Skellige](#l_wyspy_skellige)
 - <a id='l_wyspy_skellige' pattern='Wysp* Skellige,Skellige'>Wyspy Skellige</a>
     - <a id='l_ard_skellig' pattern='Ard Skellig'>Ard Skellig</a>
         - największa wyspa na [Skellige](#l_wyspy_skellige)

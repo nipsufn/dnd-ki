@@ -29,7 +29,7 @@
     - [Ilana](#g_ilana) mając na uwadze dobro drużyny i potrzebę wyciągnięcia nas natychmiast z tunelu, ryzykuje przemianę w niedźwiedzia mimo obecności [Igny](#p_igna). 
     - Chcąc nie chcąc druidka demaskuje się także przed [Skovikiem](#p_skovik), czego dotąd próbowała uniknąć po pytaniach jakie zadał jej podczas gry w karty.
     - Sam [Skovik](#p_skovik) wydaje się być zaś zaskoczony i zachwycony widząc, że mimo wymijających odpowiedzi [Ilany](#g_ilana) ta potwierdza jego przypuszczenia na temat druidów - potrafi zmienić się w niedźwiedzia.
-4. Siedziba Łowców
+4. Siedziba [Łowców](#r_lowca)
     - Szczurołap zostaje skuty srebrem i zamknięty w lochach.
     - [Lord Myrton](#p_lord_myrton) nie wydaje się być rozwścieczony faktem, że pytaliśmy o nagrodę Radę zamiast niego (potencjalnie nadwyrężając jego pozycję polityczną).
     - Częstuje nas winem, tym razem z drewnianych kielichów.
@@ -44,7 +44,7 @@
         - [Skovik](#p_skovik) siedział w więzieniu za przedłożenie lojalności wobec klanu nad lojalność wobec obecjej [władczyni Skellige](#p_cerys)
         - nie dokończył swojego treningu u druidów, do pełnej inicjacji brakuje mu "próby krwi"; żywi nadzieję, że druidzi z kontynentu będą w stanie mu pomóc dokończyć trening
         - chwali się innym tatuażem, który otrzymał na początku swojego treningu - wytatuowaną na klatce sporą głową niedźwiedzia; tatuaż zdaje się być magiczny
-        - na wyspach nie ma wyznawców Wiecznego Ognia ani Łowców, jednak o ile magów się nie zabija, nie są też lubiani
+        - na wyspach nie ma wyznawców Wiecznego Ognia ani [Łowców](#r_lowca), jednak o ile magów się nie zabija, nie są też lubiani
         - druidzi na wyspach cieszą się wielkim szacunkiem
         - na wyspach jest bardzo niewielu nieludzi
     - Mentorem [Ilany](#g_ilana) był [Druid Finarrin](#p_druid_finarrin) z [Brokilonu](#l_brokilon). Druidka oferuje [Skovikowi](#p_skovik) bezpieczną przeprawę do druidów pod jej eskortą.

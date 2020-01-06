@@ -16,7 +16,7 @@
     - Charytatywnie/ubrania
     - Córka krawcowej [Elizy](#p_eliza) widzi zmarłego ojca
     - “Ojciec” to potwór żywiący się tęsknotą dziecka, widoczny dla dorosłych tylko w lustrach, został zabity przez PC
-    - Dziecko przejawia predyspozycje do użycia Mocy; nie ma kontroli; potrzebuje nauk zanim podpadnie Łowcom Czarownic
+    - Dziecko przejawia predyspozycje do użycia Mocy; nie ma kontroli; potrzebuje nauk zanim podpadnie [Łowcom](#r_lowca) Czarownic
     - Krawcowa [Eliza](#p_eliza)
 - [ ] Dziedzic rodu Harevard<a id='z_q5'></a>
     - Czy ktoś przetrwał najazd Niilfgaardczyków?

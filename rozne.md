@@ -32,7 +32,7 @@
     - Ich społeczeństwo było agresywne i rządziło się brutalnymi zasadami
     - Potrafili obracać w niwecz wszelkie próby użycia Mocy na odległość
     - [Aen Drisichean](#r_aen_drisichean) postanowili ich unikać za wszelką cenę
-- <a id='r_cialognilec' pattern='[Cc]ciałognil*'>Ciałognilec</a><a id='r_flesh_rot'></a>
+- <a id='r_cialognilec' pattern='[Cc]iałognil*'>Ciałognilec</a><a id='r_flesh_rot'></a>
     - zmodyfikowana przez [Floriana z Vicovaro](#p_florian_z_vicovaro) odmiana zarazy pustoszy [Verden](#l_verden)
 - Kalendarz elfów
     - Święta astronomiczne
