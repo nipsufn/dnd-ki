@@ -80,7 +80,8 @@
     - <a id='l_novigrad' pattern='Novigrad*'>Novigrad</a>
         - Stolica wyznawców wiecznego Ognia
     - <a id='l_oxenfurt' pattern='Oxenfur*'>Oxenfurt</a>
-        - [Viggo](#p_viggo_regner) [Regner](#p_viggo_regner) - miejsce nauki
+        [Viggo](#p_viggo_regner) [Regner](#p_viggo_regner) - miejsce nauki
+        - <a id='l_dom_borsodych' pattern='Dom* Aukcyjn* Braci Borsodych'>Domu Aukcyjnym Braci Borsodych</a>
     - <a id='l_rinbe' pattern='Rinbe'>Rinbe</a>
         - Położone nad północym brzegiem Pontaru
         - Lokacja jednego z laboratoriów [Vilgefortza](#p_vilgefortz)
@@ -103,6 +104,15 @@
     - <a id='l_beauclair' pattern='Beauclair'>Beauclair</a>
         - robią tu jedno z najlepszych win
         - podobno tu wyprowadził się bimbrownik od nalewki z mandragory
+- <a id='l_verden' pattern='Verden'>Verden</a>
+    - nad Jarugą; od zachodu graniczy z [Cidaris](#l_cidaris), od północy z [Brokilonem](#l_brokilon), od wschodu z [Brugge](#l_brugge) na wysokości Wstążki (miasto [Dillingen](#l_dillingen))
+    - toczyły się tu liczne bitwy z [Nilfgaardem](#l_nilfgaard), kraj jest rozbity i nie stawia oporu rozrastającemu się [Brokilonowi](#l_brokilon)
+    - <a id='l_bodrog' pattern='Bodrog*'>Bodrog</a>
+    - <a id='l_rozrog' pattern='Rozrog*'>Rozrog</a>
+    - <a id='l_nastrog' pattern='Nastrog*'>Nastrog</a>
+    - <a id='l_lokij' pattern='Lokij'>Lokij</a>
+        - wieś pod Brokilonem
+        - nazwa wywodzi się z narzecza Skellige
 - <a id='l_wyspy_skellige' pattern='Wysp* Skellige,Skellige'>Wyspy Skellige</a>
     - <a id='l_ard_skellig' pattern='Ard Skellig'>Ard Skellig</a>
         - największa wyspa na [Skellige](#l_wyspy_skellige)
@@ -113,11 +123,5 @@
         - port na jendnej z Wysp
     - <a id='l_kaer_trolde' pattern='Kaer Trolde'>Kaer Trolde</a>
         - siedziba rodu An Craite
-- <a id='l_verden' pattern='Verden'>Verden</a>
-    - nad Jarugą; od zachodu graniczy z [Cidaris](#l_cidaris), od północy z [Brokilonem](#l_brokilon), od wschodu z [Brugge](#l_brugge) na wysokości Wstążki (miasto [Dillingen](#l_dillingen))
-    - toczyły się tu liczne bitwy z [Nilfgaardem](#l_nilfgaard), kraj jest rozbity i nie stawia oporu rozrastającemu się [Brokilonowi](#l_brokilon)
-    - <a id='l_bodrog' pattern='Bodrog*'>Bodrog</a>
-    - <a id='l_rozrog' pattern='Rozrog*'>Rozrog</a>
-    - <a id='l_nastrog' pattern='Nastrog*'>Nastrog</a>
 - <a id='l_zerrikania' pattern='Zerrikania'>Zerrikania</a>
     - daleko

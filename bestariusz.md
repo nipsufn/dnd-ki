@@ -97,6 +97,9 @@
 - <a id='b_kuroliszek' pattern='[Kk]urolisz*'>Kuroliszek</a>
     - pół kura pół jaszczura
     - kąsa jadem który paraliżuje i szarzy cerę (z tąd legendy o zamienianiu w kamień?)
+- <a id='b_hienolak' pattern='[Hh]ienołak*'>Hienołak</a>
+    - bizon z głową hieny
+    - wabi ofiary wołając ludzkim głosem "Pomocy!"
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
 <a href="https://nipsufn.github.io/journal.html#p_druid_finarrin">Druid Finarrin</a>, 1370 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing">PP</a>
 </i></div>

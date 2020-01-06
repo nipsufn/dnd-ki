@@ -222,6 +222,9 @@
         - karczmarz
         - opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
         - buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1370PP, możliwe że zostanie nazwana _"W pół drogi"_
+- Verden
+    - Lokij
+        - <a id='p_niemój' pattern='Niem*,Sołtys* Niem*'>Sołtys Niemój</a>
 - [Wyspy Skellige](#l_wyspy_skellige)
     - <a id='p_cerys' pattern='Cerys an Craite,Cerys'>Cerys an Craite</a> - ; jarl wysp [Skellige](#l_wyspy_skellige)
         córka Crach an Craite'a

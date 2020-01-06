@@ -1,6 +1,6 @@
 ### Sesja 51
 1. Plany i ploteczki
-    - [Ilana](#g_ilana) prosi [Skovika](#p_skovik) o oprowadzenie. Dwójka idzie na spacer, podczas którego Drummond opowiada:
+    - [Ilana](#g_ilana) prosi [Skovika](#p_skovik) o oprowadzenie. Dwójka idzie na spacer, podczas którego [Drummond](Skovik) opowiada:
         - przez 3 tygodnie leżał w jednym z dołków w leczących pnączach - jeden z potworów, który przeszedł przez portal podczas jego ponownego otwarcia, niedźwiedź z dwiema głowami węży, niemal pozbawił wyspiarza pleców przy pomocy bardzo silnego kwasu
         - obudził się "zagrzebany żywcem" - przyznaje, że nigdy w życiu niczego tak się nie bał i ta "pobudka" wywołała u niego poważną traumę
         - zrobił burdę w [Dorian](#l_dorian) bez prowokacji, podejrzane typy jedynie weszły do tej samej karczmy, w której siedzieli nasi towarzysze
