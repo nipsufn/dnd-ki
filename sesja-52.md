@@ -2,13 +2,13 @@
 1. Nieproszeni goście i rozmowy niekontrolowane
     - w [Wiosce](#l_wioska) znajdujemy tlące się jeszcze ognisko. Większość dobytku po Druidach leży na kupie, a [Ilana](#g_ilana) słyszy dźwięk rozbijanego szkła z chatki [Mirny](#p_mirna).
     - zostawiając gości pod opieką [Finarrina](#p_druid_finarrin), [Ilana](#g_ilana) i [Kajetan](#g_kajetan) sprawdzają co się dzieje. W podpiwniczeniu domku zaskakują trzech kmiotków.
-    - chłopi, w tym [Sołtys Niemój](#p_niemój), myśleli że Druidzi opuścili wioskę, w związku z czym można sobie zabrać co się żywnie podoba. Porządnie nastraszonych wyprowadzamy na zewnątrz, pozwalając [Hierofancie](#p_druid_finarrin) zając się delikwentami
+    - chłopi, w tym [Sołtys Niemój](#p_niemoj), myśleli że Druidzi opuścili wioskę, w związku z czym można sobie zabrać co się żywnie podoba. Porządnie nastraszonych wyprowadzamy na zewnątrz, pozwalając [Hierofancie](#p_druid_finarrin) zając się delikwentami
     - wioskę z której pochodzą, [Lokij](#l_lokij), napadły potwory (pewnie z tych które wyleciały z [Tor Corax](#r_tor_corax)). Kryją się na granicach lasu z rodzinami i szukali tu pomocy - nie znajdując chcieli pomóc sobie sami
     - jako że nie ma komu pobiec oczyścić [wieś](#l_lokij) z plugastwa, [Druid](#p_druid_finarrin) zaprasza tymczasowo całe chłopstwo do [Wioski](#l_wioska). Mogą też zadośćuczynić za plądrowanie pomagając w odbudowie
     - [Ilana](#g_ilana) poluje, [Finarrin](#p_druid_finarrin) bawi gości, [Ivar](#p_ivar) i [Kajetan](#g_kajetan) przygotowują antymagiczą polanę - stoły, krzesła itp.
     - Przy kolacji magowie dowiadują się gdzie [druidka](#g_ilana) planuje prowadzić rozmowy. Są niezbyt zadowoleni, ale argumentacja zapewnienia neutralnej atmosfery bez magii trafia do nich
     - wiele artefaktów skonfiskowanych przez [Łowców](#r_lowca) jest sprzedawanych na kwartalnych aukcjach w [Oxenfurcie](#l_oxenfurt), w [Domu Aukcyjnym Braci Borsodych](#l_dom_borsodych).
-    - przybywa reszta chłopów a za nimi [Hienołaki](#b_hienolak). Pokonujemy je, magowie pomagają. Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta, może teściowa [Niemója](#p_niemój)
+    - przybywa reszta chłopów a za nimi [Hienołaki](#b_hienolak). Pokonujemy je, magowie pomagają. Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta, może teściowa [Niemója](#p_niemoj)
     - [Kajetan](#g_kajetan) pyta na odległość [Aglais](#p_aglais) o (wyspiarza)[Skovika]. Ten ma się dobrze. Rozmawia też z [Mirną](#p_mirna), która akurat pije ze znajomymi. Dorobiła się warsztatu w [Kerack](#l_kerack) (jeśli rzeczywiście tam właśnie dotarła). Zaprasza [elfa](#g_kajetan) do miasta, zdaje się nie mieć nic na przeciwko pomysłowi driad. Biorąc jednak pod uwagę upojenie [dziewczyny](#p_mirna) [Kajetan](#g_kajetan) obiecuje oddzwonić jak będzie miała trochę czasu na zastanowienie.
 2. Negocjacje
     - [Lars](#p_lars) i [Vicovaro](#p_florian_z_vicovaro) zostawiają swoje rzeczy przed polaną i rozpoczynamy negocjacje. [Kajetan](#g_kajetan), za przyzwoleniem stron, brał udział miast odejść, jako że nie może wejść do antymagicznego pola.
