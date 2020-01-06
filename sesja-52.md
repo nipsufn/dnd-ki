@@ -2,7 +2,7 @@
 1. Nieproszeni goście i rozmowy niekontrolowane
     - w [Wiosce](#l_wioska) znajdujemy tlące się jeszcze ognisko. Większość dobytku po Druidach leży na kupie, a [Ilana](#g_ilana) słyszy dźwięk rozbijanego szkła z chatki [Mirny](#p_mirna).
     - zostawiając gości pod opieką [Finarrina](#p_druid_finarrin), [Ilana](#g_ilana) i [Kajetan](#g_kajetan) sprawdzają co się dzieje. W podpiwniczeniu domku zaskakują trzech kmiotków.
-    - chłopi, w tym [Sołtys Niemój](#p_niemoj), myśleli że Druidzi opuścili wioskę, w związku z czym można sobie zabrać co się żywnie podoba. Porządnie nastraszonych wyprowadzamy na zewnątrz, pozwalając [Hierofancie](#p_druid_finarrin) zając się delikwentami
+    - chłopi, w tym [Sołtys Niemój](#p_niemoj), myśleli że Druidzi opuścili wioskę, w związku z czym można sobie zabrać co się żywnie podoba. Porządnie nastraszonych wyprowadzamy na zewnątrz, pozwalając [Hierofancie](#p_druid_finarrin) zająć się delikwentami
     - wioskę z której pochodzą, [Lokij](#l_lokij), napadły potwory (pewnie z tych które wyleciały z [Tor Corax](#r_tor_corax)). Kryją się na granicach lasu z rodzinami i szukali tu pomocy - nie znajdując chcieli pomóc sobie sami
     - jako że nie ma komu pobiec oczyścić [wieś](#l_lokij) z plugastwa, [Druid](#p_druid_finarrin) zaprasza tymczasowo całe chłopstwo do [Wioski](#l_wioska). Mogą też zadośćuczynić za plądrowanie pomagając w odbudowie
     - [Ilana](#g_ilana) poluje, [Finarrin](#p_druid_finarrin) bawi gości, [Ivar](#p_ivar) i [Kajetan](#g_kajetan) przygotowują antymagiczą polanę - stoły, krzesła itp.
