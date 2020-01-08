@@ -11,7 +11,7 @@
     - Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta, może teściowa [Niemója](#p_niemoj) została stratowana przez [byka-hienę](#b_hienolak). [Ilana](#g_ilana) z [Ivarem](#p_ivar) zbierają poległych (lub to, co z nich zostało) i przegią ich na wioskowym żalniku.
     - Przy kolacji magowie dowiadują się gdzie [druidka](#g_ilana) planuje prowadzić rozmowy. Są niezbyt zadowoleni, ale argumentacja zapewnienia neutralnej atmosfery bez magii w końcu do nich przemawia.
     - Po kolacji, sącząc resztki wina [Lars](#p_lars) wyjawia, że wiele artefaktów skonfiskowanych przez [Łowców](#r_lowca) jest sprzedawanych na kwartalnych aukcjach w [Oxenfurcie](#l_oxenfurt), w [Domu Aukcyjnym Braci Borsodych](#l_dom_borsodych).
-    - Do tej pory odbyły się dwie takie aukcje, na których głównie sprzedano sprzęp po znanym czarodzieju Leomundzie.
+    - Do tej pory odbyły się dwie takie aukcje, na których głównie sprzedano sprzęt po znanym czarodzieju, Leomundzie.
     - Schowany w chacie [Mirny](#p_mirna), [Kajetan](#g_kajetan) pyta na odległość [Aglais](#p_aglais) o [wyspiarza](#p_skovik). Ten ma się dobrze. Rozmawia też z [Mirną](#p_mirna), która akurat pije ze znajomymi. Dorobiła się warsztatu w [Kerack](#l_kerack) (jeśli rzeczywiście tam właśnie dotarła). Zaprasza [elfa](#g_kajetan) do miasta, zdaje się nie mieć nic przeciwko pomysłowi driad. Biorąc jednak pod uwagę upojenie [dziewczyny](#p_mirna) [Kajetan](#g_kajetan) obiecuje oddzwonić jak będzie miała trochę czasu na zastanowienie.
 2. Negocjacje
     - Po skromnym śniadaniu [Lars](#p_lars) i [Vicovaro](#p_florian_z_vicovaro) zostawiają swoje rzeczy przed polaną. Rozpoczynamy negocjacje. [Kajetan](#g_kajetan), za przyzwoleniem stron, brał udział miast odejść, jako że nie może wejść do antymagicznego pola.
@@ -26,7 +26,7 @@
     - [Ilana](#g_ilana) prosi [Kajetana](#g_kajetan) o pożyczenie jednego z kawałków [dwimerytu](#r_dwimeryt). Pyta także elfa o radę. Ten, dobierając słowa, doradza szczerość wobec siebie, pozwolenie sobie na nieco egoizmu i stwierdza, że nie może podjąć decyzji za [dziewczynę](#g_ilana). Przekazuje jej także wieści o wyspiarzu.
     - [Druidka](#g_ilana) decyduje się zgodzić z [Finarrinem](#p_druid_finarrin) i użyć Wody [Brokilonu](#l_brokilon) aby pomóc magom.
 4. Co uciułał rytuał
-    - Na środku wioski zostaje ułożona wytaszcona przez druidów kamienna misa z kalendarzem wyrytym na dnie.
+    - Na środku wioski zostaje ułożona wytaszczona przez druidów kamienna misa z kalendarzem wyrytym na dnie.
     - [Druid](#p_druid_finarrin) nalewa doń Wód [Brokilonu](#l_brokilon) i rozpoczyna rytuał.
     - Wszyscy użytkownicy Mocy - z wyjątkiem [Kajetana](#g_kajetan), który po magicznej rozmowie ani myśli próbować kolejnych czarów w [święto kiełkowania](#r_imbaelk) - pomagają jak mogą.
     - Z niecki zaczynają się unosić malutkie kropelki, aż sam kamień pozostaje suchy. W powietrzu, między uczestnikami rytuału, zaczyna się formować wizja: 
