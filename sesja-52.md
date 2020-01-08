@@ -1,14 +1,14 @@
 ### Sesja 52
 1. Nieproszeni goście i rozmowy niekontrolowane
-    - w [Wiosce](#l_wioska) zastajemy tlące się jeszcze ognisko. Drzwi do wszystkich 4 ostałych się chat są otwarte. Większość wyniesionego z nich dobytku po druidach leży na kupie, a [Ilana](#g_ilana) słyszy dźwięk rozbijanego szkła z chatki [Mirny](#p_mirna).
+    - w [Wiosce](#l_wioska) zastajemy tlące się jeszcze ognisko. Drzwi do wszystkich 4 chat, które się ostały są otwarte. Większość wyniesionego z nich dobytku po druidach leży na kupie, a [Ilana](#g_ilana) słyszy dźwięk rozbijanego szkła z chatki [Mirny](#p_mirna).
     - Zostawiając gości pod opieką [Finarrina](#p_druid_finarrin), [Ilana](#g_ilana) i [Kajetan](#g_kajetan) sprawdzają co się dzieje. W podpiwniczeniu domku zaskakują trzech kmiotków.
-    - Kmiotki to chłopi, w tym [Sołtys Niemój](#p_niemoj), którzy przyszli prosić druidów o pomoc. Myśleli, że druidzi opuścili wioskę, w związku z czym postanowili się samoobsłużyć. 
+    - Chłopi, w tym [Sołtys Niemój](#p_niemoj), przyszli prosić druidów o pomoc. Myśleli, że druidzi opuścili wioskę, w związku z czym postanowili się samoobsłużyć. 
     - Wyprowadzamy porządnie nastraszonych kmiotów na zewnątrz, pozwalając [Hierofancie](#p_druid_finarrin) zająć się delikwentami.
     - [Wioskę](#l_wioska), z której pochodzą, [Lokij](#l_lokij), napadły potwory (pewnie z tych, które wyleciały z [Tor Corax](#r_tor_corax)). Chłopi ukryli się na granicach lasu z rodzinami i szukali tu pomocy - nie zastając nikogo z druidów chcieli pomóc sobie sami.
     - Jako, że nie ma komu pobiec oczyścić [wieś](#l_lokij) z plugastwa, [Finarrin](#p_druid_finarrin) zaprasza tymczasowo całe chłopstwo do [Wioski](#l_wioska). Mają zadośćuczynić za plądrowanie pomagając w odbudowie i uprzątnięciu bałaganu, który sami narobili.
     - [Ilana](#g_ilana) poluje na kolację, [Finarrin](#p_druid_finarrin) bawi gości, a [Ivar](#p_ivar) i [Kajetan](#g_kajetan) przygotowują antymagiczą polanę - znoszą nań stoły, krzesła itp.
     - Szykujemy się już do kolacji kiedy do wioski wpada reszta chłopów, goniona przez [Hienołaki](#b_hienolak). Pokonujemy je z udziałem obu zwaśnionych magów. 
-    - Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta, może teściowa [Niemója](#p_niemoj) została stratowana przez byka-hienę. [Ilana](#g_ilana) z [Ivarem](#p_ivar) zbierają poległych (lub to, co z nich zostało) i przegią ich na wioskowym żalniku.
+    - Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta, może teściowa [Niemója](#p_niemoj) została stratowana przez [byka-hienę](#b_hienolak). [Ilana](#g_ilana) z [Ivarem](#p_ivar) zbierają poległych (lub to, co z nich zostało) i przegią ich na wioskowym żalniku.
     - Przy kolacji magowie dowiadują się gdzie [druidka](#g_ilana) planuje prowadzić rozmowy. Są niezbyt zadowoleni, ale argumentacja zapewnienia neutralnej atmosfery bez magii w końcu do nich przemawia.
     - Po kolacji, sącząc resztki wina [Lars](#p_lars) wyjawia, że wiele artefaktów skonfiskowanych przez [Łowców](#r_lowca) jest sprzedawanych na kwartalnych aukcjach w [Oxenfurcie](#l_oxenfurt), w [Domu Aukcyjnym Braci Borsodych](#l_dom_borsodych).
     - Do tej pory odbyły się dwie takie aukcje, na których głównie sprzedano sprzęp po znanym czarodzieju Leomundzie.
