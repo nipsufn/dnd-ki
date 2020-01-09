@@ -5,10 +5,10 @@
     - Chłopi, w tym [Sołtys Niemój](#p_niemoj), przyszli prosić druidów o pomoc. Myśleli, że druidzi opuścili wioskę, w związku z czym postanowili się samoobsłużyć. 
     - Wyprowadzamy porządnie nastraszonych kmiotów na zewnątrz, pozwalając [Hierofancie](#p_druid_finarrin) zająć się delikwentami.
     - [Wioskę](#l_wioska), z której pochodzą, [Lokij](#l_lokij), napadły potwory (pewnie z tych, które wyleciały z [Tor Corax](#r_tor_corax)). Chłopi ukryli się na granicach lasu z rodzinami i szukali tu pomocy - nie zastając nikogo z druidów chcieli pomóc sobie sami.
-    - Jako, że nie ma komu pobiec oczyścić [wieś](#l_lokij) z plugastwa, [Finarrin](#p_druid_finarrin) zaprasza tymczasowo całe chłopstwo do [Wioski](#l_wioska). Mają zadośćuczynić za plądrowanie pomagając w odbudowie i uprzątnięciu bałaganu, który sami narobili.
+    - Jako że nie ma komu pobiec oczyścić [wieś](#l_lokij) z plugastwa, [Finarrin](#p_druid_finarrin) zaprasza tymczasowo całe chłopstwo do [Wioski](#l_wioska). Mają zadośćuczynić za plądrowanie pomagając w odbudowie i uprzątnięciu bałaganu, który sami narobili.
     - [Ilana](#g_ilana) poluje na kolację, [Finarrin](#p_druid_finarrin) bawi gości, a [Ivar](#p_ivar) i [Kajetan](#g_kajetan) przygotowują antymagiczą polanę - znoszą nań stoły, krzesła itp.
-    - Szykujemy się już do kolacji kiedy do wioski wpada reszta chłopów, goniona przez [Hienołaki](#b_hienolak). Pokonujemy je z udziałem obu zwaśnionych magów. 
-    - Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta, może teściowa [Niemója](#p_niemoj) została stratowana przez [byka-hienę](#b_hienolak). [Ilana](#g_ilana) z [Ivarem](#p_ivar) zbierają poległych (lub to, co z nich zostało) i przegią ich na wioskowym żalniku.
+    - Szykujemy się już do kolacji kiedy do wioski wpada reszta chłopów, goniona przez [hienołaki](#b_hienolak) - połączenie hieny i domowego bydła rogatego. Pokonujemy je z udziałem obu zwaśnionych magów. 
+    - Kilku chłopów w lesie zginęło - na naszych oczach starsza kobieta (może teściowa [Niemója](#p_niemoj)) została stratowana przez [potwora](#b_hienolak). [Ilana](#g_ilana) z [Ivarem](#p_ivar) zbierają poległych (lub to, co z nich zostało) i grzebią ich na wioskowym żalniku.
     - Przy kolacji magowie dowiadują się gdzie [druidka](#g_ilana) planuje prowadzić rozmowy. Są niezbyt zadowoleni, ale argumentacja zapewnienia neutralnej atmosfery bez magii w końcu do nich przemawia.
     - Po kolacji, sącząc resztki wina [Lars](#p_lars) wyjawia, że wiele artefaktów skonfiskowanych przez [Łowców](#r_lowca) jest sprzedawanych na kwartalnych aukcjach w [Oxenfurcie](#l_oxenfurt), w [Domu Aukcyjnym Braci Borsodych](#l_dom_borsodych).
     - Do tej pory odbyły się dwie takie aukcje, na których głównie sprzedano sprzęt po znanym czarodzieju, Leomundzie.
@@ -34,7 +34,8 @@
         - znajdują nienaturalnie wyglądający kawałek ściany (jak ten, który my znaleźliśmy pod [Ellander](#l_ellander))
         - ze ściany wypełza olbrzymie monstrum o ostrych kłach i długim języku
         - ludzie rzucają się do ucieczki, ale monstrum dopada ich w jaskini z jeziorem i rozszarpuje na miejscu posilając się krwią
-        - w czasie szamotaniny jakieś słoje wypadają z ich tobołków i rozbijają się, a ich oleista zawartość zmieszana z krwią ofiar i potwora miesza się z wodami jeziora
+        - w czasie szamotaniny jakieś słoje wypadają z ich tobołków i rozbijają się, a ich zielonkawa, oleista zawartość zmieszana z krwią ofiar i smolistą posoką potwora miesza się z wodami jeziora
+        - potwór ten posiada na głowie podobne dyskoloracje, co część "pacjentów" w kostnicy [Vicovaro](#p_florian_z_vicovaro)
     - Wizja rozpływa się w mgłę pokrywającą całą okolicę. W jej miejscu formuje się mglista postać jednego z dwójki ludzi - upiór.
     - [Kajetan](#g_kajetan), przyglądając się całemu rytuałowi z bezpiecznej odległości widzi jak za każdym z uczestników formuje się coś na kształt widma. Ostrzega w samą porę, nim potwory zdążą zaatakować niezauważone.
     - Główny upiór koncentruje swą złość na [Finarrinie](#p_druid_finarrin). [Ilana](#g_ilana) doskakuje do [druida](#p_druid_finarrin) chcąc chronić go przed atakiem upiora.
