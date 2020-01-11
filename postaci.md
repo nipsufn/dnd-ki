@@ -221,7 +221,7 @@
     - <a id='p_morgan' pattern='Morgan* Guus,Morgan*'>Morgan Guus</a>
         - karczmarz
         - opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
-        - buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1370PP, możliwe że zostanie nazwana _"W pół drogi"_
+        - buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1276PP, możliwe że zostanie nazwana _"W pół drogi"_
 - [Verden](#l_verden)
     - [Lokij](#l_lokij)
         - <a id='p_niemoj' pattern='Niem[óo]*,Sołtys* Niem[óo]*'>Sołtys Niemój</a>
