@@ -1,5 +1,7 @@
 ## Lokacje
 - <a id='l_aedirn' pattern='Aedirn'>Aedirn</a>
+- <a id='l_dol_blatahanna' pattern='Dol Blatahanna'>Dol Blatahanna</a>
+    - <a id='l_srebrne_wieze' pattern='Miast* Srebrnych Wież'>Miasto Srebrnych Wież</a>
 - <a id='l_brokilon' pattern='Brokilon*'>Brokilon</a>
     - las kawałek na południe od środkowego biegu Jarugi, od północy ograniczony pasmem górskim
     - dom Driad i w mniejszym stopniu Druidów
@@ -113,6 +115,8 @@
     - <a id='l_lokij' pattern='Lokij'>Lokij</a>
         - wieś pod [Brokilonem](#l_brokilon)
         - nazwa wywodzi się z narzecza [Skellige](#l_wyspy_skellige)
+    - <a id='l_siestrzen' pattern='Siestrze*'>Siestrzeń</a>
+    - <a id='l_lendawa' pattern='Lendaw*'>Lendawa</a>
 - <a id='l_wyspy_skellige' pattern='Wysp* Skellige,Skellige'>Wyspy Skellige</a>
     - <a id='l_ard_skellig' pattern='Ard Skellig'>Ard Skellig</a>
         - największa wyspa na [Skellige](#l_wyspy_skellige)

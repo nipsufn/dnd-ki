@@ -1,33 +1,34 @@
 ## Postaci
+- <a id='p_alzur' pattern='Alzur*'>Alzur</a>
+    - mag, "ojciec" Wiedźminów
 - <a id='p_cianfanelli' pattern='Cianfanelli*'>Cianfanelli</a> - ?;
     krasnolud, właściciel banków;
-- <a id='p_vilgefortz' pattern='Vilgefortz*,Vilgefortz* z Roggeveen'>✝ Vilgefortz</a> - człowiek, mag, członek [Kapituły](#r_kapitula)
-    - miał immunitet od [Dwimerytu](#r_dwimeryt)
-    - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
+- <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy [Triss Merigold](#p_triss_merigold)
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek [Kapituły](#r_kapitula)
     - potrafi się zamieniać w sowę, możliwe inne zwierzęta
     - oślepiona przez [Radowida](#p_krol_radowid) gdy przejął od niej władzę nad [Redanią](#l_redania) (była regentką)
     - potencjalna winowajczyni nienawiści [Radowida](#p_krol_radowid) do Mocy i magów
-- <a id='p_keira_metz' pattern='Keir*,Keir* Metz,Metz'>Keira Metz</a> - ?, mag
-    - była/jest magiem specjalizującym się w leczeniu
-- <a id='p_triss_merigold' pattern='Triss,Triss Merigold,Merigold'>Triss Merigold</a> - ?, mag
-    - członek [Kapituły](#r_kapitula), zajmowała się intrygami politycznymi
-    - była doradczynią [Króla Foltesta](#p_krol_foltest) w [Temerii](#l_temeria)
-    - miała siedzibę w [Mariborze](#l_maribor)
 - <a id='p_geralt' pattern='Geral*,Geral* z Rivii,Biał* Wilk*,Vadgern*'>Greralt z Rivii</a> - człowiek, wiedźmin
     - odczarował chłopa zamienionego w kormorana w [Kerack](#l_kerack)
     - miał okazję rozmawiać z pokojowo nastawionym wilkołakiem w [Wyzimie](#l_wyzima)
     - nielubiany w [Aedirn](#l_aedirn) (plotka głosi, że na zlecenie zabił króla [Demawenda](#p_krol_demawend))
-- <a id='p_lambert' pattern='Laber*'>Lambert</a> - człowiek, wiedźmin
-- <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy [Triss Merigold](#p_triss_merigold)
-- <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
-    - potężny druid, poważany nawet przez magów
-    - przebywa na [Skellige](#l_wyspy_skellige)
+- <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w [Mayenie](#l_mayena) na dybuga
 - <a id='p_arcydruid_ivryn' pattern='Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'>Arcydruid Ivryn</a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
     - przebywał też w [Craag An](#l_craag_an) gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
-- <a id='p_alzur' pattern='Alzur*'>Alzur</a>
-    - mag, "ojciec" Wiedźminów
+- <a id='p_keira_metz' pattern='Keir*,Keir* Metz,Metz'>Keira Metz</a> - ?, mag
+    - była/jest magiem specjalizującym się w leczeniu
+- <a id='p_lambert' pattern='Laber*'>Lambert</a> - człowiek, wiedźmin
+- <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
+    - potężny druid, poważany nawet przez magów
+    - przebywa na [Skellige](#l_wyspy_skellige)
+- <a id='p_triss_merigold' pattern='Triss,Triss Merigold,Merigold'>Triss Merigold</a> - ?, mag
+    - członek [Kapituły](#r_kapitula), zajmowała się intrygami politycznymi
+    - była doradczynią [Króla Foltesta](#p_krol_foltest) w [Temerii](#l_temeria)
+    - miała siedzibę w [Mariborze](#l_maribor)
+- <a id='p_vilgefortz' pattern='Vilgefortz*,Vilgefortz* z Roggeveen'>✝ Vilgefortz</a> - człowiek, mag, członek [Kapituły](#r_kapitula)
+    - miał immunitet od [Dwimerytu](#r_dwimeryt)
+    - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
     - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu Drummond. Prowodyr zamachu na [Cerys](#p_cerys)
         [Ivar](#p_ivar): brat
@@ -101,8 +102,6 @@
             obecnie jest postacią z bajek, rzekomo porywa dzieci do swojego królestwa wbijając w ich serce cierń, który daje jej kontrolę nad nimi (analogia do Królowej Lodu?)
         - <a id="p_galawain" pattern='Galawain*'>Galawain</a> - duch lasu,
             [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w [Medownej](#l_medowna)
-- [Craag An](#l_craag_an)
-    - <a id="p_lanemin" pattern='Lanemin*>Lanemin Anef Aep</a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
 - [Brugge](#l_brugge)
     - [Brugge](#l_m_brugge)
         - <a id='p_krol_wenzlaw_i' pattern='Król* Wenzlaw* I,Wenzlaw* I,Król* Wenzlaw- Pierwsz*,Wenzlaw* Pierwsz*'>✝ Król Wenzlaw I</a> - ; król [Brugge](#l_brugge)
@@ -131,6 +130,8 @@
 - [Cintra](#l_cintra)
     - <a id='p_calanthe' pattern='Calanthe'>✝ Calanthe</a> - ; władczyni
         znała [Myszowora](#p_myszowor)
+- [Craag An](#l_craag_an)
+    - <a id="p_lanemin" pattern='Lanemin*>Lanemin Anef Aep</a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
 - [Ellander](#l_ellander)
     - <a id='p_rodzina_harevard'>R. Harevard</a> - ; n/a;
         rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami
@@ -208,7 +209,6 @@
         zakładał obozy pracy dla Scoia'tael
     - <a id='p_menge' pattern='Menge*'>✝ Menge</a> - ; przywódca zakonu [Łowców](#r_lowca)
         [Lord Slyz Myrton](#p_lord_myrton): podwładny
-    - <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w [Mayenie](#l_mayena) na dybuga
     - <a id='p_hemmelfart' pattern='Hemmelfart'>Cyrus Engelkind Hemmelfart</a> - kapłan; Główny Kapłan kultu Wiecznego Ognia
 - [Świątynia Melitele](#l_smelitele):
     - <a id='p_matka_iola' pattern='Mat* Iol*,Iol*'>Matka Iola</a> - ; kapłanka;
