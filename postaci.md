@@ -104,9 +104,9 @@
             [Protektor Brokilonu](#b_bizoktor), którego widzieliśmy w wizji w [Medownej](#l_medowna)
 - [Brugge](#l_brugge)
     - [Brugge](#l_m_brugge)
-        - <a id='p_krol_wenzlaw_i' pattern='Król* Wenzlaw* I,Wenzlaw* I,Król* Wenzlaw- Pierwsz*,Wenzlaw* Pierwsz*'>✝ Król Wenzlaw I</a> - ; król [Brugge](#l_brugge)
+        - <a id='p_krol_venzlav_i' pattern='Król* Venzlav* I,Venzlav* I,Król* Venzlav- Pierwsz*,Venzlav* Pierwsz*'>✝ Król Venzlav I</a> - ; król [Brugge](#l_brugge)
             Przychylny Driadom
-        - <a id='p_krol_wenzlaw_ii' pattern='Król* Wenzlaw* II,Wenzlaw* II,Król* Wenzlaw* Drugi*,Wenzlaw* Drugi*'>Król Wenzlaw II</a> - ; król [Brugge](#l_brugge)
+        - <a id='p_krol_venzlav_ii' pattern='Król* Venzlav* II,Venzlav* II,Król* Venzlav* Drugi*,Venzlav* Drugi*'>Król Venzlav II</a> - ; król [Brugge](#l_brugge)
             Podpisał umowy z [Nilfgaarderm](#l_nilfgaard)
         - <a id='p_florian_z_vicovaro' pattern='Pan* Florian*,Magist* Florian*,Pan* Florian* Vicovaro,Magist* Florian* Vicovaro,Florian* Vicovaro,Florian*,Vicovaro'>Magister Florian z Vicovaro</a> - ; mag
         - <a id='p_lars' pattern='Lars*'>Lars</a> - ; domniemany przywódca szajki najemnych złoczyńców w [Brugge](#l_brugge); ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
