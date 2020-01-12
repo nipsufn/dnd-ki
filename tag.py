@@ -61,7 +61,7 @@ class tagCreator(HTMLParser):
         data = re.sub(regex, substitute, data)
         
         #all standard tags unless it is already tagged [] or in between ><
-        regex = r"([ ,.()])" + r"("+pair[1]+r")" + r"([ ,.()\n])"
+        regex = r"([ ,.()])" + r"("+pair[1]+r")" + r"([ ,.()?!\n])"
         substitute = r"\1[\2](#"+pair[0]+r")\3"
         data = re.sub(regex, substitute, data)
     self.text += data

@@ -16,7 +16,7 @@
         - trakty są niebezpieczne
         - wieś na południe od miasta którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycowa Noc
         - [Łowcy](#r_lowca) skupiają się teraz na **Potworach**, nie **Czarownicach*- i stąd też przemianowali się na *Łowców Potworów*
-        - w mieście znaleziono i spalono kryjówkę leśnych zbójów ( czyżby wrogiej kontrabandy Temerskiej?) - odkryto też tunel prowadzący z kryjówki do jaskini w lesie
+        - w mieście znaleziono i spalono kryjówkę leśnych zbójów ( czyżby wrogiej kontrabandy [Temerskiej](#l_temeria)?) - odkryto też tunel prowadzący z kryjówki do jaskini w lesie
     - [Kajetan](#g_kajetan) prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini, co nie udaje się całkowicie.
 2. Rynek
     - Wychodząc od [Vigga](#p_viggo_regner), zauważamy poruszenie wśród miejskiej gawiedzi. Są podekscytowani i tłoczą się w stronę rynku.

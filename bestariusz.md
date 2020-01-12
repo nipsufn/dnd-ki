@@ -56,7 +56,7 @@
     - <a id='b_krzaczak' pattern='[Kk]rzaczak*'>Krzaczak</a>
         - przypominający człowieka zwój korzeni, krzaków i pnączy
         - przyzwany w grupach przez [Formorianem](#p_formorian)
-        - [Kto to taki? To krzaczaki!](https://www.youtube.com/watch?v=PHnEKSFy3cU)
+        - [Kto to taki? To [krzaczaki](#b_krzaczak)!](https://www.youtube.com/watch?v=PHnEKSFy3cU)
     - <a id='b_kuroliszek' pattern='[Kk]urolisz*'>Kuroliszek</a>
         - pół kura pół jaszczura
         - kąsa jadem który paraliżuje i szarzy cerę (z tąd legendy o zamienianiu w kamień?)

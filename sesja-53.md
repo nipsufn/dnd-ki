@@ -1,7 +1,7 @@
 ### Sesja 53
 1. Dziwne sny, dziwne dni
     - Zarówno [Ilanie](#g_ilana) jak i [Kajetanowi](#g_kajetan) śni się ten sam koszmar, w którym [Lloyd](#p_lloyd) wstaje z grobu i próbuje ich udusić. Budzą się zmęczeni wcześnie nad ranem nie mogąc dalej spać, na szyjach mają ślady niby tylko wyśnionego ataku.
-    - [Ilana](g_ilana), nie wiedząc co ze sobą uczynić zaczyna pakować rzeczy, które planuje zabrać ze sobą do [Col Serrai]. 
+    - [Ilana](#g_ilana), nie wiedząc co ze sobą uczynić zaczyna pakować rzeczy, które planuje zabrać ze sobą do [Col Serrai](#l_col_serrai). 
     - Spakowawszy wszystko, co potrzebne druidka wystawia przed dom bujany fotel ojca. W powietrzu czuć już pierwszy powiew wiosny, więc opatulona w kożuch siada z zamiarem spędzenia tych kilku godzin na dalszej nauce języka wyspiarzy.
     - Nauki zostają przerwane przez gołębia, który przyleciał do wioski i zdaje się kogoś szukać. [Ilana](#g_ilana) rozmawia z ptakiem - przynosi on wieści od druidów z [Verden](#l_verden). Za nim zjawia się cała chmara jemu podobnych. Z wygłoszonych niemal chórem wiadomości druidka dowiaduje się, że:
         - część z wiadomości pochodzi od Gabiego, którego wszyscy w wiosce z racji na posturę wołali Ropuchem
@@ -13,8 +13,8 @@
         - nieludzi zamyka się w gettach
         - druidzi obawiają się o swoje życie, są uwięzieni bez możliwości powrotu do wioski
         - proszą [Finarrina](#p_druid_finarrin) o radę co robić
-    - [Ilana](#g_ilana) odsyła jednego z gołębi z wiadomością zwrotną, w której przekazuje, że hierofanta wrócił już do wioski oraz że mieli sporo swoich problemów, ale już je zażegnali, więc jeśli ktoś się jeszcze ostał w [Verden](#l_verden), ma dać odpowiedź.
-    - Słysząc choleryczne krzątanie się po domku [Mirny](#p_mirna) i pomstującego elfa, [Ilana](#g_ilana) zachodzi z wizytą.
+    - [Ilana](#g_ilana) odsyła jednego z gołębi z wiadomością zwrotną, w której przekazuje, że [hierofanta](#p_druid_finarrin) wrócił już do wioski oraz że mieli sporo swoich problemów, ale już je zażegnali, więc jeśli ktoś się jeszcze ostał w [Verden](#l_verden), ma dać odpowiedź.
+    - Słysząc choleryczne krzątanie się po domku [Mirny](#p_mirna) i pomstującego [elfa](#g_kajetan), [Ilana](#g_ilana) zachodzi z wizytą.
     - [Kajetan](#g_kajetan) miota się ze złości. Chce biec dobić cokolwiek z [Lloyda](#p_lloyd) zostało, piekielnie poirytowany na nocne zajście.
     - [Finarrin](#p_druid_finarrin) także miał dziwne sny. Śnił mu się ten mężczyzna, którego widzieliśmy w wizji w czasie rytuału. Druid twierdzi, że jedynie kapłan może być w stanie pomóc nam pozbyć się upiora [Lloyda](#p_lloyd) - rytuał na chwilę otworzył bramy zaświatów.
 2. Plany, porządki i delegatury
@@ -24,11 +24,11 @@
     - [Vicovaro](#p_florian_z_vicovaro) wysyła [Larsa](#p_lars) na spotkanie z najemnikiem otwierając dla szpiega portal w okolicy jeziora przy mieście. Mag prosi też [Ilanę](#g_ilana) o tymczasowy zwrot obu zwojów komunikacyjnych, które przydadzą mu się do kontaktu z [Larsem](#p_lars).
     - Dowiadujemy się, że [Niemój](#p_niemoj) jest starostą trzech wsi - [Lokij](#l_lokij), [Siestrzeń](#l_siestrzen) i [Lendawa](#l_lendawa). Chłopi zgromadzeni w wiosce to zrzutka z tych trzech lokacji.
     - [Ilana](#g_ilana) z [Ivarem](#p_ivar) wybierają się na zwiad do wsi [Lokij](#l_lokij). Po drodze mijają kilka ciał z wygryzionymi gardłami. Na miejscu zastają domy ze zniszczonymi oknami, a dookoła walają się porozrzucane ludzkie i zwierzęce szczątki. 
-    - Wygląda na to, że w stajni uwiły sobie gniazdo [Sowiołaki](#b_sowiolak). Dwójka widzi jednego z rodziców wracającego właśnie z upolowaną krową i zostaje zauważona. Druidka, zmieniona w wilka i wyspiarz szybko biorą nogi za pas unikając konfrontacji z niebezpiecznym stworem.
+    - Wygląda na to, że w stajni uwiły sobie gniazdo [Sowiołaki](#b_sowiolak). Dwójka widzi jednego z rodziców wracającego właśnie z upolowaną krową i zostaje zauważona. [Druidka](#g_ilana), zmieniona w wilka i [wyspiarz](#p_ivar) szybko biorą nogi za pas unikając konfrontacji z niebezpiecznym stworem.
     - W drodze powrotnej [Ilana](#g_ilana) i [Ivar](#p_ivar) wstępują do [Enid](#p_enid). Już z pewnego dystansu ich uszu dobiega sapanie i pomstowanie starszej druidki. Oboje przyspieszają kroku.
     - Po dotarciu na miejsce widzą scenę jak z bajki: dom [Enid](#p_enid) jest porośnięty przez kwiaty i pnącza, a dookoła wymachującej miotłą druidki kłębią się maleńkie, latające wróżki. [Ilana](#g_ilana) pomaga je przegnać i cała trójka wraca do wioski.
     - W tym samym czasie w wiosce, [Kajetan](#g_kajetan) kontaktuje się z [Mirną](#p_mirna). Dziewczyna dalej uważa, że z driadami warto się targować za wspomnianą cenę. Zdaje się, że nie zrozumieli się z [Kajetanem](#g_kajetan) co do rodzaju ich znajomości i kierunku, w jakim ta zmierza.
-    - [Elf](#g_kajetan) odwiedza następnie sposobiącego się do drogi [Floriana](#p_florian_z_vicovaro). Mag twierdzi, że mus mu wracać do [Brugge](#l_brugge) zanim pozostawionemu bez nadzoru królowi [Venzlavowi](Venzlaw) strzeli coś do głowy. Zaprasza [Kajetana](#g_kajetan) do wnętrza swojego namiotu rozstawionego w zajmowanej chacie.
+    - [Elf](#g_kajetan) odwiedza następnie sposobiącego się do drogi [Floriana](#p_florian_z_vicovaro). Mag twierdzi, że mus mu wracać do [Brugge](#l_brugge) zanim pozostawionemu bez nadzoru królowi [Venzlavowi](#p_krol_venzlav_ii) strzeli coś do głowy. Zaprasza [Kajetana](#g_kajetan) do wnętrza swojego namiotu rozstawionego w zajmowanej chacie.
     - Magowie dobijają targu - [Kajetan](#g_kajetan) wymienia odpis dokumentów znalezionych w [Craag An](#l_craag_an) za trochę magicznego inkaustu. Czekając aż nilfgaardczyk przepisze dokumenty, elf czyta książkę o widzeniu. Znajduje w niej pukiel nienaturalnie jasnych włosów o chłodnym odcieniu, jednak zostawia je i taktownie nie porusza tematu.
     - [Vicovaro](#p_florian_z_vicovaro) teleportuje się z [Wioski](#l_wioska). Następuje chwila spokoju nie zakłócana żadnymi dalszymi incydentami.
     - Nazajutrz rano [Finarrin](#p_druid_finarrin) otwiera dla [Ilany](#g_ilana) i [Kajetana](#g_kajetan) przejście przez drzewo w okolice [Col Serrai](#l_col_serrai).
@@ -36,7 +36,7 @@
     - Jaskinia prowadząca do uzdrowiska jest przystrojona w kolorowe kwiaty i pnącza, a w źródełku wirują jeszcze pozostałości po święcie [Imbaelk](#r_imbaelk) - wianki z bioluminescencyjnymi roślinami jak małe światełka latarni.
     - W uzdrowisku jest jakby mniej tłoczno. Driady, które niedawno leczyły się tu po walce, teraz najwyraźniej wróciły już do lasu. Brakuje także [Aglais](#p_aglais).
     - Zostajemy serdecznie powitani przez [Gebo](#p_gebo), który najwyraźniej został przez driady pozostawiony - jak to zwierzę - sam sobie. Niedźwiadek ma w futrze fragmenty liści i cuchnie wszystkim, w czym się wytarzał.
-    - Zaczepiona driada informuje nas, że [Aglais](#p_aglais) wyruszyła do Duan Canel by dokończyć rytuał związany z obchodami [Imbaelk](#r_imbaelk).
+    - Zaczepiona driada informuje nas, że [Aglais](#p_aglais) wyruszyła do Duan Canell by dokończyć rytuał związany z obchodami [Imbaelk](#r_imbaelk).
     - [Ilana](#g_ilana) od razu kieruje swoje kroki do leczniczych niecek. [Skovik](#p_skovik) nadal śpi, więc druidka wiesza tylko rzemyk z [dwimerytem](#r_dwimeryt) nad niecką tak aby pnącza odsunęły się z twarzy wyspiarza.
     - [Kajetan](#g_kajetan) wydaje się być nieco mniej zadowolony z powrotu do uzdrowiska. Sadowi się w jednym z dalszych ciepłych źródeł i odpoczywa.
     - W tym czasie [Ilana](#g_ilana) i [Gebo](#p_gebo) idą na ryby. W tym celu wychodzą z doliny i idą dalej z rzeką w las.
@@ -50,13 +50,22 @@
         - [Kajetan](#g_kajetan) uważa, że powinniśmy zgłosić się po nasze 1000 sztuk złota. Potem możemy je wydać choćby na opłacenie agencji do odegrania się na wieprzu burmistrzu.
 3. Audiencja
     - [Opiekunka uzdrowiska](#p_aglais) przybywa przez portal, ale ku naszemu zdziwieniu nie sama, a w towarzystwie [Eithne](#p_eithne). 
-    - [Królowa driad](#p_eithne) udziela nam niespodziewanej audiencji. Kiedy przechadza się po uzdrowisku, rośliny aż lgną do niej oddając jej cześć. Driada Madka jest drobnej budowy, o włosach niczym roztopione srebro i oczach tego samego koloru, pozbawionych źrenic. Jej twarz jest drobna, ale ostre rysy i dumna postawa budzą respekt.
-    - [Ilana](#g_ilana) niemal od razu żaluje, że w ogóle podjęła temat audiencji. Druidka jest onieśmielona i zapomina języka w gębie. Rozmowę przejmuje więc [Kajetan](#g_kajetan), z miejsca przepraszając za samowolkę z leczeniem.
-    - [Eithne](#p_eithne) nie chowa urazy, ale nie kryje, że jest zaciekawiona tym, co osłabia elfa. Czyta z nas obojga jak z otwartej księgi, zaglądając przy tym w przeszłość:
-        - dolegliwość [Kajetana](#g_kajetan) to nie do końca pasożyt ani zwykła choroba
-        - aby znaleźć lekarstwo, musi odszukać trzech pozostałych ocalałych z wypadku, w którym ucierpiał
-        - jego stan to wynik spisku, eksperymentu, który został zbojkotowany na czyjś rozkaz (Filavandrela?)
-        - [Kajetan](#g_kajetan), jak i reszta uczetników tej wyprawy zostali królikami doświadczalnymi dla czyjegoś chorego planu
-        - [Ilana] nie dostaje odpowiedzi na pytania, których boi się zadać otwarcie
-        - zamiast tego driada zdradza dwa słowa, które powinny naprowadzić druidke na trop aby sama poznała prawdę kiedy rzeczywiście będzie na to gotowa: <tu wstaw słowa>
-    - Audiencja dobiega końca i driada odchodzi tym samym sposobem, którym się zjawiła. Jesteśmy pozostawieni samym sobie z nową wiedzą.
+    - [Królowa driad](#p_eithne) udziela nam niespodziewanej audiencji. Kiedy przechadza się po uzdrowisku, rośliny aż lgną do niej oddając jej cześć. [Matka Driad](#p_eithne) jest drobnej budowy, o włosach niczym roztopione srebro i oczach tego samego koloru, pozbawionych źrenic. Jej twarz jest drobna, ale ostre rysy i dumna postawa budzą respekt.
+    - [Ilana](#g_ilana) niemal od razu żałuje, że w ogóle podjęła temat audiencji. [Druidka](#g_ilana) jest onieśmielona i zapomina języka w gębie. Rozmowę przejmuje więc [Kajetan](#g_kajetan), z miejsca przepraszając za samowolkę z leczeniem.
+    - [Eithne](#p_eithne) nie chowa urazy, ale nie kryje, że jest zaciekawiona tym, co osłabia elfa. Przeprosiny zbywa komentarzem że w znacznej mierze kontrolowanie kuracjuszy to rola [Aglais](#p_aglais)
+    - Czyta z nas obojga jak z otwartej księgi, zaglądając przy tym w przeszłość:
+        - dolegliwość [Kajetana](#g_kajetan) to nie do końca pasożyt ani zwykła choroba - to klątwa, której moc rośnie wraz z siłą elfa
+        - aby znaleźć lekarstwo, powinien zacząć od odszukania trzech pozostałych ocalałych z wypadku, w którym ucierpiał, spróbować powtórzyć ich kroki
+        - jego stan to wynik spisku, eksperymentu, który został zbojkotowany na czyjś rozkaz ([Filavandrela](#p_filavandrel)?)
+        - [Kajetan](#g_kajetan), jak i reszta uczestników tej wyprawy, został królikiem doświadczalnym dla planu zemsty na ludziach i przywrócenia potęgi elfów
+        - dodaje, że jeśli elf miałby umrzeć, jego truchło zacznie szerzyć tą klątwę
+        - w przeszłości widzi, jak ktoś sabotował wyprawę archeologiczną od której wszystko się zaczęło, wybuchającą fiolkę z czarną cieczą
+        - elfy powinny były zostawić laboratorium [Wranów](#r_wran) nietknięte - są rzeczy, które powinny pozostać zapomniane
+        - onieśmielona [Ilana](#g_ilana) zdaje się straciła pewność, czy rzeczywiście chce wiedzieć czym jest i skąd pochodzi - nie dostaje odpowiedzi na pytania, których boi się zadać wprost
+        - zamiast tego [driada](#p_eithne) zdradza dwa słowa, które powinny naprowadzić [druidkę](#g_ilana) na trop aby sama poznała prawdę kiedy rzeczywiście będzie na to gotowa: Risberg ([Kajetan](#g_kajetan) rozpoznaje nazwę szczytu w górach oddzielających [Brokilon](#l_brokilon) od [Temerii](#l_temeria)) oraz Dussard
+        - mówi [Ilanie](#g_ilana) że nie była niechciana - została wychowana przez druidów ponieważ [las](#l_brokilon) uznał że tak przysłuży mu się najlepiej. Nazywa [dziewczynę](#g_ilana) nie siostrą, ale rodziną
+        - wspomina że [Finarrin](#p_druid_finarrin) widzi jej potencjał, a jej służba lasowi nie dobiegła jeszcze końca
+    - Audiencja natomiast dobiega końca. [Eithne](#p_eithne) odchodzi tym samym sposobem, którym przybyła.
+    - [Aglais](#p_aglais) stwierdza że jest rozczarowana, ale z jej umowy z [Kajetanem](#g_kajetan) nic nie będzie. Ten wygląda na uradowanego jakby wygrał w kości z kantującym krasnoludem
+    - [Ilana](#g_ilana) dopytuje o jaką umowę idzie. Niechętnie, [elf](#g_kajetan) przyznaje, że [driada](#p_aglais) chciała aby zostawił za sobą dziecko w [Col Serrai](#l_col_serrai) w zamian za informacje o [Skoviku](#p_skovik).
+    - Jesteśmy wreszcie pozostawieni samym sobie z nową wiedzą.

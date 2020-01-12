@@ -17,7 +17,7 @@
     - Dowiadujemy się o [Dijkstrze](#p_dijkstra).
     - [Novigrad](#l_novigrad) został puszczony prawie cały z dymem przez magów miesiąc - dwa przed Dwójksiężycową Nocą; w pożarze umarł przywódca [Łowców](#r_lowca), [Menge](#p_menge).
     - [Menge](#p_menge) odesłał [Lorda Myrtona](#p_lord_myrton), swoją prawą rękę, z bliżej niewyjaśnianych powodów (ambicja?) do [Ellander](#l_ellander) jakiś czas temu.
-    - Typowe trasy do portów z których można dopłynąć na [Skellige](#l_wyspy_skellige) (**[Gdzie jest Myszowór?](#z_q10)**):
+    - Typowe trasy do portów z których można dopłynąć na [Skellige](#l_wyspy_skellige) (**[Gdzie jest [Myszowór](#p_myszowor)?](#z_q10)**):
         [Carreras](#l_carreras) → [Maribor](#l_maribor) → [Brugge](#l_brugge) → [Verden](#l_verden)
         [Carreras](#l_carreras) → [Wyzima](#l_wyzima) → [Gors Velen](#l_gors_velen)
         [Gors Velen](#l_gors_velen) (bezpośrednio)

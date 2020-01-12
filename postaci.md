@@ -63,7 +63,7 @@
     - <a id='p_enid' pattern='Enid'>Enid</a> - człowiek z domieszką krwi elfów (półelfka lub <a title="⁵/₇">kwateronka</a>); druidka
         partnerka [Finarrina](#p_druid_finarrin);
         podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
-    - <a id='p_druid_finarrin' pattern='Finarrin*,Hierofan*,Druid* Finarrin*'>Druid Finarrin</a> - ; druid
+    - <a id='p_druid_finarrin' pattern='Finarrin*,[Hh]ierofan*,Druid* Finarrin*'>Druid Finarrin</a> - ; druid
         [Hierofanta](https://en.wikipedia.org/wiki/Heffalump) [Brokilońskiego](#l_brokilon) kręgu druidzkiego
         Uczył [Ilanę](#ilana)
     - <a id='p_gebo' pattern='Geb*'>Gebo</a> - niedźwiadek;
@@ -160,7 +160,7 @@
         cieśla;
         [Jarna Kranmer](#p_jarna_kranmer): żona
         [Otto Kranmer](#p_otto_kranmer): brat
-    - <a id='p_jarna_kranmer' pattern='Jarn*'>Jarna Kranmer</a> - krasnolud; żona Hansa?;
+    - <a id='p_jarna_kranmer' pattern='Jarn*'>Jarna Kranmer</a> - krasnolud; żona [Hansa](#p_hans_kranmer)?;
         [Hans Kranmer](#p_hans_kranmer): mąż
     - <a id='p_ruprecht' pattern='Ruprecht*'>R. Ruprecht</a> - gnom; jubiler;
         interes rodzinny;
@@ -194,7 +194,7 @@
         Walczy długim mieczem, który płonie jeśli zatnie się nim
         [Lord Slyz Myrton](#p_lord_myrton): przełożony; [Kasimir](#g_kasimir): podwładny
 - [Góry Sine](#l_gory_sine)
-    - <a id='p_filavandrel' pattern='Filavandrel Aen Fidhail,Filavandrel'>Filavandrel Aen Fidhail ze Srebrnych Wież</a> - elf; mag
+    - <a id='p_filavandrel' pattern='Filavandrel* Aen Fidhail,Filavandrel*'>Filavandrel Aen Fidhail ze Srebrnych Wież</a> - elf; mag
         potężny i stary elfi mag
         zorganizował wyprawę archeologiczną w której brał udział [Kajetan](#g_kajetan)
 - [Kaedwen](#l_kaedwen)

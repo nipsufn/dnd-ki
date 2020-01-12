@@ -6,7 +6,7 @@
     - Próba zniszczenia serca kończy się walką z jedną z poniewierających się po podłodze czaszek, do której zdaje się esencja czarnoksiężnika przeskoczyła w momencie unicestwienia organu.
     - Ostatnie słowa jakie słyszymy to _Jeszcze tu wrócę..._
     - Decydujemy się odpocząć, jako że walka mocno nas zmęczyła.
-    - Okazuje się, że [Finarrin](#p_druid_finarrin) został hierofantą nie bardzo mając wybór. Był pupilem poprzedniej głowy kręgu, flaminiki [Sariel](#p_sariel), i najpotężniejszym z tych, którzy przetrwali dwuksiężycową noc.
+    - Okazuje się, że [Finarrin](#p_druid_finarrin) został [hierofantą](#p_druid_finarrin) nie bardzo mając wybór. Był pupilem poprzedniej głowy kręgu, flaminiki [Sariel](#p_sariel), i najpotężniejszym z tych, którzy przetrwali dwuksiężycową noc.
     - [Kajetan](#g_kajetan) ma kolejną wizję we śnie, wizję drzewa i dwóch tronów zwróconych w stronę jakiejś ściany, tablicy, czy może pomnika. Słyszy: _Odszukaj mnie..._, widzi jak drgające powietrze przypominające kształtem postać przesuwa się z nad jednego z siedzisk pomiędzy korzenie drzewa.
 2. Dalsza droga
     - Uwalniamy się z więzienia niszcząc wewnętrzny krąg ochronny i czaszkę, która w nim leżała. Zdajemy sobie sprawę, że nekromanta, jeśli kiedykolwiek wróci, nie będzie już uwięziony.
