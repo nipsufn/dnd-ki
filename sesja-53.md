@@ -36,7 +36,7 @@
     - Jaskinia prowadząca do uzdrowiska jest przystrojona w kolorowe kwiaty i pnącza, a w źródełku wirują jeszcze pozostałości po święcie [Imbaelk](#r_imbaelk) - wianki z bioluminescencyjnymi roślinami jak małe światełka latarni.
     - W uzdrowisku jest jakby mniej tłoczno. Driady, które niedawno leczyły się tu po walce, teraz najwyraźniej wróciły już do lasu. Brakuje także [Aglais](#p_aglais).
     - Zostajemy serdecznie powitani przez [Gebo](#p_gebo), który najwyraźniej został przez driady pozostawiony - jak to zwierzę - sam sobie. Niedźwiadek ma w futrze fragmenty liści i cuchnie wszystkim, w czym się wytarzał.
-    - Zaczepiona driada informuje nas, że [Aglais](#p_aglais) wyruszyła do Duan Canell by dokończyć rytuał związany z obchodami [Imbaelk](#r_imbaelk).
+    - Zaczepiona driada informuje nas, że [Aglais](#p_aglais) wyruszyła do [Duen Canell](#l_duen_canell) by dokończyć rytuał związany z obchodami [Imbaelk](#r_imbaelk).
     - [Ilana](#g_ilana) od razu kieruje swoje kroki do leczniczych niecek. [Skovik](#p_skovik) nadal śpi, więc druidka wiesza tylko rzemyk z [dwimerytem](#r_dwimeryt) nad niecką tak aby pnącza odsunęły się z twarzy wyspiarza.
     - [Kajetan](#g_kajetan) wydaje się być nieco mniej zadowolony z powrotu do uzdrowiska. Sadowi się w jednym z dalszych ciepłych źródeł i odpoczywa.
     - W tym czasie [Ilana](#g_ilana) i [Gebo](#p_gebo) idą na ryby. W tym celu wychodzą z doliny i idą dalej z rzeką w las.
