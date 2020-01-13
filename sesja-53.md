@@ -52,8 +52,8 @@
     - [Opiekunka uzdrowiska](#p_aglais) przybywa przez portal, ale ku naszemu zdziwieniu nie sama, a w towarzystwie [Eithne](#p_eithne). 
     - [Królowa driad](#p_eithne) udziela nam niespodziewanej audiencji. Kiedy przechadza się po uzdrowisku, rośliny aż lgną do niej oddając jej cześć. [Matka Driad](#p_eithne) jest drobnej budowy, o włosach niczym roztopione srebro i oczach tego samego koloru, pozbawionych źrenic. Jej twarz jest drobna, ale ostre rysy i dumna postawa budzą respekt.
     - [Ilana](#g_ilana) niemal od razu żałuje, że w ogóle podjęła temat audiencji. [Druidka](#g_ilana) jest onieśmielona i zapomina języka w gębie. Rozmowę przejmuje więc [Kajetan](#g_kajetan), z miejsca przepraszając za samowolkę z leczeniem.
-    - [Eithne](#p_eithne) nie chowa urazy, ale nie kryje, że jest zaciekawiona tym, co osłabia elfa. Przeprosiny zbywa komentarzem że w znacznej mierze kontrolowanie kuracjuszy to rola [Aglais](#p_aglais)
-    - Czyta z nas obojga jak z otwartej księgi, zaglądając przy tym w przeszłość:
+    - [Eithne](#p_eithne) nie chowa urazy, ale nie kryje, że jest zaciekawiona tym, co osłabia elfa. Przeprosiny zbywa komentarzem, że w znacznej mierze kontrolowanie kuracjuszy to rola [Aglais](#p_aglais).
+    - [Królowa driad](#p_eithne) czyta z nas obojga jak z otwartej księgi, zaglądając przy tym w przeszłość:
         - dolegliwość [Kajetana](#g_kajetan) to nie do końca pasożyt ani zwykła choroba - to klątwa, której moc rośnie wraz z siłą elfa
         - aby znaleźć lekarstwo, powinien zacząć od odszukania trzech pozostałych ocalałych z wypadku, w którym ucierpiał, spróbować powtórzyć ich kroki
         - jego stan to wynik spisku, eksperymentu, który został zbojkotowany na czyjś rozkaz ([Filavandrela](#p_filavandrel)?)
@@ -63,9 +63,9 @@
         - elfy powinny były zostawić laboratorium [Wranów](#r_wran) nietknięte - są rzeczy, które powinny pozostać zapomniane
         - onieśmielona [Ilana](#g_ilana) zdaje się straciła pewność, czy rzeczywiście chce wiedzieć czym jest i skąd pochodzi - nie dostaje odpowiedzi na pytania, których boi się zadać wprost
         - zamiast tego [driada](#p_eithne) zdradza dwa słowa, które powinny naprowadzić [druidkę](#g_ilana) na trop aby sama poznała prawdę kiedy rzeczywiście będzie na to gotowa: Risberg ([Kajetan](#g_kajetan) rozpoznaje nazwę szczytu w górach oddzielających [Brokilon](#l_brokilon) od [Temerii](#l_temeria)) oraz Dussard
-        - mówi [Ilanie](#g_ilana) że nie była niechciana - została wychowana przez druidów ponieważ [las](#l_brokilon) uznał że tak przysłuży mu się najlepiej. Nazywa [dziewczynę](#g_ilana) nie siostrą, ale rodziną
-        - wspomina że [Finarrin](#p_druid_finarrin) widzi jej potencjał, a jej służba lasowi nie dobiegła jeszcze końca
+        - mówi [Ilanie](#g_ilana) że nie była niechciana - została wychowana przez druidów ponieważ [las](#l_brokilon) uznał, że tak przysłuży mu się najlepiej, nazywa [dziewczynę](#g_ilana) nie siostrą, ale rodziną
+        - wspomina, że [Finarrin](#p_druid_finarrin) widzi jej potencjał, a jej służba lasowi nie dobiegła jeszcze końca
     - Audiencja natomiast dobiega końca. [Eithne](#p_eithne) odchodzi tym samym sposobem, którym przybyła.
-    - [Aglais](#p_aglais) stwierdza że jest rozczarowana, ale z jej umowy z [Kajetanem](#g_kajetan) nic nie będzie. Ten wygląda na uradowanego jakby wygrał w kości z kantującym krasnoludem
+    - [Aglais](#p_aglais) stwierdza że jest rozczarowana, ale z jej umowy z [Kajetanem](#g_kajetan) nic nie będzie. Ten wygląda na uradowanego jakby wygrał w kości z kantującym krasnoludem.
     - [Ilana](#g_ilana) dopytuje o jaką umowę idzie. Niechętnie, [elf](#g_kajetan) przyznaje, że [driada](#p_aglais) chciała aby zostawił za sobą dziecko w [Col Serrai](#l_col_serrai) w zamian za informacje o [Skoviku](#p_skovik).
     - Jesteśmy wreszcie pozostawieni samym sobie z nową wiedzą.
