@@ -131,7 +131,7 @@
     - <a id='p_calanthe' pattern='Calanthe'>✝ Calanthe</a> - ; władczyni
         znała [Myszowora](#p_myszowor)
 - [Craag An](#l_craag_an)
-    - <a id="p_lanemin" pattern='Lanemin*>Lanemin Anef Aep</a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużunę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
+    - <a id="p_lanemin" pattern='Lanemin*'>Lanemin Anef Aep</a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużynę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
 - [Ellander](#l_ellander)
     - <a id='p_rodzina_harevard'>R. Harevard</a> - ; n/a;
         rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami
