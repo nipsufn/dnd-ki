@@ -55,9 +55,27 @@
                 - Medalion bibliotekarza z Crag An
                 - Medalion posłusznika zakonu Zielonych Rycerzy
     - Znane kręgi teleportacyjne:
-        - Crag An
-        - Ban Aard
+        - [Craag An](#l_craag_an)
+        - [Ban Ard](#l_ban_ard)
+    - Plany:
+        - Obejrzeć medalion i monety znalezione w warowni w [Craag An](#l_craag_an)
+        - Zaklęcia do transkrypcji:
+            - [Life Transference](https://5e.tools/spells.html#life%20transference_xge)
+            - [Planar Binding](https://5e.tools/spells.html#planar%20binding_phb)
+            - [Create Undead](https://5e.tools/spells.html#create%20undead_phb)
+            - [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
     - Mechanika
+        - Nowe zaklęcia czarodzieja:
+            - 10XP za level zaklęcia, przy dowolnym długim odpoczynku
+            Im więcej elementów zostaje opisane, tym trudniejszy test (w pełni losowe zaklęcie jest do odkrycia łatwe, każdy dodany element zwiększa DC).
+            Formuła:
+            ```
+            Test Arcana z DC = 10 + Spell Level + Element Mod
+            ```
+            - Nauka zaklęć innych klas
+            Można nauczyć się zaklęć innej klasy, jeśli:
+                - Poziom zaklęcia mniejszy lub równy Spellcasting Ability Modifier
+                - Zdany test nauki `Spellcasting Ability check z DC = 10 + 2x Spell Level`
         - Choroba / Pasożyt
         Mimo zabiegów twój stan zdrowia pogarsza się, a [dwimeryt](#r_dwimeryt) zaczyna mocniej reagować, wpływać na przebieg magii przez organizm i modyfikować go. Co więcej, fragmenty kryształków które wypluwasz zdają się powiększać, rosnąć. Przybywa ich mimo braku kontaktu z [dwimerytem](#r_dwimeryt) z zewnątrz. 
 
@@ -75,37 +93,4 @@
 | 9      | Permanentnie pod wpływem [Antimagic Field](https://5etools.com/spells.html#antimagic%20field_phb) zasięg 5ft                                       |
 | 10     | Śmierć                                                                                                                                             | 
 
-        - Nowe zaklęcia czarodzieja:
-            - 10XP za level zaklęcia, przy dowolnym długim odpoczynku
-        -   Zamiast otrzymywać nowe zaklęcia co poziom, czarodziej możesz studiować posiadane księgi, eksperymentować i tworzyć nowe zaklęcia.
-            Żeby stworzyć nowe zaklęcie musi poświęcić ilość dni równą poziomi zaklęcia, które chce stworzyć.
-            Stworzone zaklęcie będzie odpowiedniego poziomu, ale wybrane losowe (jako odkrycie), jednak można doprecyzować elementy równe twój `Int mod`. Można doprecyzować takie elementy jak: 
-        
-| Element                             | DC Mod                       |
-| :---                                | ---:                         |
-| Zaklęcie innej klasy                | 2x Spell level               |
-| Szkoła magii                        | 1x Spell level               |
-| Czas rzucania                       | Akcja - 1                    |
-|                                     | Reakcja - Spell Level        |
-|                                     | Bonus Akcja - 2x Spell Level |
-|                                     | Dłuższe - 5                  |
-| Extra element (Koncentracja/Rytuał) | 5                            |
-
-            Im więcej elementów zostaje opisane, tym trudniejszy test (w pełni losowe zaklęcie jest do odkrycia łatwe, każdy dodany element zwiększa DC).
-            Formuła:
-            ```
-            Test Arcana z DC = 10 + Spell Level + Element Mod
-            ```
-    
-            - Nauka zaklęć innych klas
-            Można nauczyć się zaklęć innej klasy, jeśli:
-                - Poziom zaklęcia mniejszy lub równy Spellcasting Ability Modifier
-                - Zdany test nauki `Spellcasting Ability check z DC = 10 + 2x Spell Level`
-    - Plany:
-        - Obejrzeć medalion i monety znalezione w warowni w Crag An
-        - Zaklęcia do transkrypcji:
-            - [Life Transference](https://5e.tools/spells.html#life%20transference_xge)
-            - [Planar Binding](https://5e.tools/spells.html#planar%20binding_phb)
-            - [Create Undead](https://5e.tools/spells.html#create%20undead_phb)
-            - [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
 - <a id='g_kasimir' pattern='Kasimir*'>Kasimir</a> - człowiek, łotrzyk, [Łowca](#r_lowca) Czarownic/Potworów, łysy z brodą, dobrze zbudowany
