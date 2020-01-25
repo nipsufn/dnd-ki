@@ -27,11 +27,17 @@
 | IV  | Lernejos Noiosący Światło | _Bądź światłem_        | No graves filled on their behalf                               | necromancy    |
 
 - <a id='r_wran' pattern='Wran*'>Wranowie</a>
-    - Rasa jaszczuroludzi, niegdyś zamieszkujących [Góry Sine](#l_gory_sine)
-    - Byli znacząco więksi od ludzi i elfów, tak że przedmioty użytku codziennego były zauważalnie większe
-    - Ich społeczeństwo było agresywne i rządziło się brutalnymi zasadami
-    - Potrafili obracać w niwecz wszelkie próby użycia Mocy na odległość
-    - [Aen Drisichean](#r_aen_drisichean) postanowili ich unikać za wszelką cenę
+    - rasa jaszczuroludzi, niegdyś zamieszkujących [Góry Sine](#l_gory_sine),
+    - byli znacząco więksi od ludzi i elfów, tak że przedmioty użytku codziennego były zauważalnie większe,
+    - ich społeczeństwo było agresywne i rządziło się brutalnymi zasadami,
+    - [Aen Drisichean](#r_aen_drisichean) postanowili ich unikać za wszelką cenę,
+    - Największa bitwa z [Aen Drisichean](#r_aen_drisichean) - [Loc Muinne](#l_loc_muinne),
+    - byli odporni na Moc, szerzyli plagę/klątwę przez którą chorzy byli odcięci od mocy,
+    - potrafili obracać w niwecz wszelkie próby użycia Mocy na odległość,
+    - atakowali tych mających kontakt z Mocą,
+    - zamieszkiwali obszar [Gór Sinych](#l_gory_sine),
+    - w [Ban Ard](#l_ban_ard) będzie można dowiedzieć się więcej,
+    - [Greater restoration](https://5e.tools/spells.html#greater%20restoration_phb) zmniejsza objawy klątwy/choroby
 - <a id='r_cialognilec' pattern='[Cc]iałognil*'>Ciałognilec</a><a id='r_flesh_rot'></a>
     - zmodyfikowana przez [Floriana z Vicovaro](#p_florian_z_vicovaro) odmiana zarazy pustoszy [Verden](#l_verden)
 - Kalendarz elfów

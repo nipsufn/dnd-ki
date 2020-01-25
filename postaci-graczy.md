@@ -20,4 +20,92 @@
         Z ruin powróciły 4 osoby. Mag, skaut, wojak i nieprzytomny [Kajetan](#g_kajetan). Poszkodowanego udało się elfom uratować, jednak został okropnie okaleczony - magia lecznicza ledwie dała radę naprawić szkody wyrządzone przez incydent, wyglądało też na to że nie będzie w stanie więcej czarować. W niewyjaśniony sposób, jedyne zaklęcie które miał aktywne w czasie incydentu, zdawało się być nietkniętym przez ten efekt.
         Pozbawiony Mocy, definiującej całe jego dotychczasowe istnienie, zaczął trenować z wojownikami, pozwalając aby wściekłość na partaczy z którymi pracował, na nieudolność magów-lekarzy, na organizatorów wyprawy - z jednej strony napędzała jego nowy fach - z drugiej zaś czyniąc osobę której na Krańcu nikt nie chciał.
         W końcu wyruszył w świat, szukając miejsca dla siebie, a może i lekarstwa na blokadę.
+    - Ekwipunek:
+        - Założony:
+            - Pierścień ochrony +1 do rzutów obronnych
+            - Elficka Kolcza Koszula (chain shirt, AC13 + DEX (nie więcej niż 2), można używać magii - lekka)
+            - Krasnoludzki Sihill 2d4/3d4 (jedno/dwu ręczny) + 1
+            - Śnieżka [Aurila](#p_auril) 9/10 ładunków, każdy ładunek: użyj akcji aby odzyskać spell slot do 3go poziomu, wyższe - zostają sprowadzone do 3go
+            - Elficki sztylet (+1 jeśli użyty z DEX, 18,19,20=CRIT)
+            - Ciężka kusza
+            - 35 bełtów
+            - 1 Piersiówka z nalewką z mandragory, 1/2
+        - Schowany:
+            - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
+            - Niewielka księga obita w skóre. Zapisana w starym dialekcie krasnoludzkim.
+            - Księga magiczna +1 arcana
+            - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
+            - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
+            - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
+            - Zwój: [Continual Flame](https://5e.tools/spells.html#continual%20flame_phb)
+            - Zwój: [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
+            - 2 krystaliczny kawałek [dwimerytu](#r_dwimeryt), odbierający Moc
+            - Nalewka z mandragory, 2/3 butelki
+            - 12 porcji inkaustu
+            - 184.0.8 gp
+            - 5 butelek bimbru
+            - Traktat o alchemii (+5 do Alchemist tools)
+            - Thieves Tools
+            - Z Crraag An:
+                - Notatki belfra z [Biblioteki](#l_biblioteka) Crag An
+                - Kryształowa kasetka na zaklęcie; żółta
+                - Kryształowa kasetka na zaklęcie; niebieska
+                - Różdżka, iluzja; *"Jak liść na wietrze"*
+                - Medalion i ceramiczne (?) monety z Crag An
+                - Medalion bibliotekarza z Crag An
+                - Medalion posłusznika zakonu Zielonych Rycerzy
+    - Znane kręgi teleportacyjne:
+        - Crag An
+        - Ban Aard
+    - Mechanika
+        - Choroba / Pasożyt
+        Mimo zabiegów twój stan zdrowia pogarsza się, a [dwimeryt](#r_dwimeryt) zaczyna mocniej reagować, wpływać na przebieg magii przez organizm i modyfikować go. Co więcej, fragmenty kryształków które wypluwasz zdają się powiększać, rosnąć. Przybywa ich mimo braku kontaktu z [dwimerytem](#r_dwimeryt) z zewnątrz. 
+
+| Poziom | Efekt                                                                                                                                              | 
+| :---   | ---                                                                                                                                                | 
+| 0      | Całkowite wyleczenie z infekcji                                                                                                                    | 
+| 1      | Alergia na magiczne pokarmy `CON save DC 15 || no effect`                                                                                          |
+| 2      | Rzucanie zaklęć `CON save DC 10 + spell level || spell level damage`                                                                               | 
+| 3      | Wrażliwość na **Miejsca Mocy**/lokacje z permanentnymi efektami magicznymi (ataki kaszlu, krwotoki, etc)                                           |
+| **4**  | [Detect Magic](https://5etools.com/spells.html#detect%20magic_phb) działa pasywnie, ale tylko na dotyk                                             | 
+| 5      | Rzucanie zaklęć `CON save DC 10 + spell level || spell level x d4 damage`                                                                          |
+| 6      | Natywne rzucanie [Dispel Magic](https://5etools.com/spells.html#dispel%20magic_phb) przez dotyk na bazie `CON - spellcasting ability, CON mod/day` |
+| 7      | Całkowice odcięcie od Mocy                                                                                                                         |
+| 8      | Odporność na działanie magii (resistance on magic damage, advantage on saving throws, resistance on healing)                                       |
+| 9      | Permanentnie pod wpływem [Antimagic Field](https://5etools.com/spells.html#antimagic%20field_phb) zasięg 5ft                                       |
+| 10     | Śmierć                                                                                                                                             | 
+
+        - Nowe zaklęcia czarodzieja:
+            - 10XP za level zaklęcia, przy dowolnym długim odpoczynku
+        -   Zamiast otrzymywać nowe zaklęcia co poziom, czarodziej możesz studiować posiadane księgi, eksperymentować i tworzyć nowe zaklęcia.
+            Żeby stworzyć nowe zaklęcie musi poświęcić ilość dni równą poziomi zaklęcia, które chce stworzyć.
+            Stworzone zaklęcie będzie odpowiedniego poziomu, ale wybrane losowe (jako odkrycie), jednak można doprecyzować elementy równe twój `Int mod`. Można doprecyzować takie elementy jak: 
+        
+| Element                             | DC Mod                       |
+| :---                                | ---:                         |
+| Zaklęcie innej klasy                | 2x Spell level               |
+| Szkoła magii                        | 1x Spell level               |
+| Czas rzucania                       | Akcja - 1                    |
+|                                     | Reakcja - Spell Level        |
+|                                     | Bonus Akcja - 2x Spell Level |
+|                                     | Dłuższe - 5                  |
+| Extra element (Koncentracja/Rytuał) | 5                            |
+
+            Im więcej elementów zostaje opisane, tym trudniejszy test (w pełni losowe zaklęcie jest do odkrycia łatwe, każdy dodany element zwiększa DC).
+            Formuła:
+            ```
+            Test Arcana z DC = 10 + Spell Level + Element Mod
+            ```
+    
+            - Nauka zaklęć innych klas
+            Można nauczyć się zaklęć innej klasy, jeśli:
+                - Poziom zaklęcia mniejszy lub równy Spellcasting Ability Modifier
+                - Zdany test nauki `Spellcasting Ability check z DC = 10 + 2x Spell Level`
+    - Plany:
+        - Obejrzeć medalion i monety znalezione w warowni w Crag An
+        - Zaklęcia do transkrypcji:
+            - [Life Transference](https://5e.tools/spells.html#life%20transference_xge)
+            - [Planar Binding](https://5e.tools/spells.html#planar%20binding_phb)
+            - [Create Undead](https://5e.tools/spells.html#create%20undead_phb)
+            - [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
 - <a id='g_kasimir' pattern='Kasimir*'>Kasimir</a> - człowiek, łotrzyk, [Łowca](#r_lowca) Czarownic/Potworów, łysy z brodą, dobrze zbudowany

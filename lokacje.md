@@ -68,6 +68,7 @@
     - <a id='l_carreras' pattern='Carreras'>Carreras</a>
         - Leży na osuszonym fragmencie bagna przy widłach Ismeny i Iny, ostanie miasto [Temerii](#l_temeria) i [Ellander](#l_ellander) na szlakach kupieckich do [Mahakamu](#l_mahakam)
 - <a id='l_gory_sine' pattern='Gór* Sin*'>Góry Sine</a>
+    - <a id='l_loc_muinne' pattern='Loc Muinne'>Loc Muinne</a>
 - <a id='l_kaedwen' pattern='Kaedwen'>Kaedwen</a>
     - <a id='l_ban_ard' pattern='Ban Ard'>Ban Ard</a>
         siedziba szkoły magów zniszczonej(?) przez Redańczyków

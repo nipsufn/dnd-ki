@@ -50,6 +50,8 @@ for filePath in fileList:
           refs.append([match.group(0), lineNo, match.start(0), filePath, False])
         elif re.search(r'<a href="[^"]+?(_[a-zA-Z0-9]+)+">.+?</a>', lineText):
           continue
+        elif re.search(r"\[[^\[^\]]+?\]\(http.+?\)", lineText[0:match.end(0)+1]):
+          continue
         else:
           write("Tag or reference malformed: " + match.group(0)
             + "; line: " + str(lineNo+1)
