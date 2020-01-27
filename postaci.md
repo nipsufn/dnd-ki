@@ -69,6 +69,7 @@
     - <a id='p_gebo' pattern='Geb*'>Gebo</a> - niedźwiadek;
         uratowany przez [Ilanę](#g_ilana) i [Finarrina](#p_druid_finarrin) w czasie wędrówki do [Craag An](#l_craag_an)
     - <a id='p_juniper' pattern='Juniper'>Juniper</a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
+    - <a id='p_elba' pattern='Elb*'>Juniper</a> - driada; uczyła [Ilanę](#g_ilana) strzelać z łuku
     - <a id='p_mirna' pattern='Mirn*'>Mirna</a> - człowiek; druid
         - przyjaciółka [Ilany](#g_ilana)
     - <a id="p_sariel" pattern='Sariel*,Flamin* Sariel*,Flamin*'>Sariel</a> - elf;
@@ -198,7 +199,11 @@
         potężny i stary elfi mag
         zorganizował wyprawę archeologiczną w której brał udział [Kajetan](#g_kajetan)
 - [Kaedwen](#l_kaedwen)
-    - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a>
+    - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
+- [Kerrack](#l_kerrack)
+    -<a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*'>Książę Viraxas</a> - ;
+    -<a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
+    
 - [Nilfgaard](#l_nilfgaard)
     - <a id='p_emhyr' pattern='Cesarz* Ehmyr*,Ehmyr*'>✝ Emhyr</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
 - [Redania](#l_redania)

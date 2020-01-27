@@ -72,6 +72,9 @@
 - <a id='l_kaedwen' pattern='Kaedwen'>Kaedwen</a>
     - <a id='l_ban_ard' pattern='Ban Ard'>Ban Ard</a>
         siedziba szkoły magów zniszczonej(?) przez Redańczyków
+- <a id='l_kerrack' pattern='Kerrack'>Kerrack</a>
+    - niepodległe księstwo między [Verden](#l_verden) a [Temerią](#l_temeria)
+    - [Mirna](#p_mirna) otworzyła tam sklepik i warsztat
 - <a id='l_kovir' pattern='Kovir*'>Kovir</a>
     - <a id='l_port_vanis' pattern='Port Vanis'>Port Vanis</a>
 - <a id='l_mahakam' pattern='Mahakam*'>Mahakam</a>
@@ -92,8 +95,8 @@
     - <a id='l_wyzima' pattern='Wyzim*'>Wyzima</a>
         - stolica [Temerii](#l_temeria)
     - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
-        - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd'>Wyspa Thanedd</a>
-            zniszczona szkoła czarownic
+        - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Aretuz*'>Wyspa Thanedd</a>
+            zniszczona szkoła czarownic, [Aretuza](#l_wyspa_thanedd)
     - <a id='l_dorian' pattern='Dorian'>Dorian</a>
     - <a id='l_maribor' pattern='Maribor*'>Maribor</a>
         - zniknął się po Dwójksiężycowej Nocy
