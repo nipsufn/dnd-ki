@@ -33,7 +33,7 @@
         - [Finarrin](#p_druid_finarrin) poleca nam ominąć szerokim łukiem [Craag An](#l_craag_an), [Duen Canell](#l_duen_canell) i [Col Serrai](#l_col_serrai)
     - Podczas kolacji zapadają finalne plany wyprawy do [Medownej](#l_medowna).
     - [Ilana](#g_ilana) uczy się od [Mirny](#p_mirna) i [Finarrina](#) władać ogniem. [Kajetan](#g_kajetan), nie chcąc być gorszy (i marnować okazji do głupich żartów), uczy się również, podglądając lekcje z ukosa.
-    - [Ilana](#g_ilana) prosi [Skovika](#p_skovik) o spacer. Porusza temat wyprawy na Skellige:
+    - [Ilana](#g_ilana) prosi [Skovika](#p_skovik) o spacer. Porusza temat wyprawy na [Skellige](#l_wyspy_skellige):
         - najbezpieczniej będzie popłynąć na południe Aard [Skellige](#l_wyspy_skellige)
         - musimy trzymać się z dala od [Kaer Trolde](#l_kaer_trolde), siedziby rodu An Craite
         - trzeba sprawdzić, czy ostał się ktokolwiek z rodu Drummond

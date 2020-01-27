@@ -10,19 +10,19 @@
     - Do [uzdrowiska](#l_col_serrai) przybywają trzy driady, jedna nieprzytomna, są ranne i poparzone. Wmieszały się w bitkę ludzi nad Chotlą, czerwonych i czarnych (Redańczycy i [Nilfgaardczycy](#l_nilfgaard)?), nie chcące leczyć się oparzenia pochodzą od płonącego miecza jaki dzierżył jeden z wojaków (zdaje się [Igna](#p_igna) miała podobną broń...)
     - [Elba](#p_elba), driada od której [Ilana](#g_ilana) uczyła strzelać się z łuku poległa w tej potyczce
     - [Kajetan](#g_kajetan) przeprowadza półtorej tuzina rozmów zamiejscowych:
-        - Mirna:
+        - [Mirna](#p_mirna):
             - [Książe Viraxas](#p_ksiaze_viraxas), władca [Kerrack](#l_kerrack) zatrudnił piratów ze [Skellige](#l_wyspy_skellige) (noszą biel i brąz) by plądrowali statki
             - Pyta czy nasi znajomi wyspiarze nie mogli by jakoś pomóc, bo statkami sprowadzała materiały i wysyłała zamówienia
             - Statki z których zwykła korzystać to "Złote Piaski" z [Gors Velen](#l_gors_velen) i "Lodołamacz" z [Port Vanis](#l_port_vanis)
             - Piraci zamieszkali w "Zwie Syrenki" na wyłączność, wyrzucając stałych bywalców, a była to jej ulubiona speluna
             - Niechętnie przyznaje że lichwiarz [Bron](#p_bron) namówił ją by wzięła 1000GP (na pół roku i 50%) kredytu na otwarcie własnego zakładu, wcześniej pomagała u kogoś
             - W dobrych warunkach jest w stanie odłożyć 60GP miesięcznie
-        - Leiv:
+        - [Leiv](#p_leiv):
             - Jest w [Kerrack](#l_kerrack), sztorm o którym ostatnio wspominał zerwał żagle na statku którym płynął
             - Nie tylko zna wyspiarzy o których mówiła [Mirna](#p_mirna), z rodu Dimun, wybitnych żeglarzy i w większości piratów, ale pracuje z/dla nich. Nie podoba im się władanie [Cerys](#p_cerys).
             - W łupach rozpoznaje różne przyrządy magiczne, podobne do tych jakie widział w łupie [Larsa](#p_lars)
             - Piraci mogą być skłonni przepuszczać "Złote Piaski" z których korzysta [Mirna](#p_mirna), jeśli zapłaci 100GP za "ochronę" od kursu. [Viraxas](#p_ksiaze_viraxas) jest cięty na statki z [Port Vanis](#l_port_vanis), więc o "Lodołamaczu" można zapomnieć
-        - Viggo:
+        - [Viggo](#p_viggo_regner):
             - publiczne kręgi aportacyjne powinny być na [Aretuzie](#l_wyspa_thanedd), w [Ban Ard](#l_ban_ard) i [Oxenfurcie](#l_oxenfurt)
     - [Skovik](#p_skovik) się budzi, nie pamięta nic od kiedy dostał w plecy. Ostatnie co pamięta to głos [Kajetana](#g_kajetan)... Czyżby elf wysłał jedną ze swoich wiadomości w wyjątkowo niefortunnym momencie?
     - [Wyspiarz](#p_skovik) jest bardzo osłabiony. Jego plecy zostały odbudowane i bardzo prawdopodobne że wróci kiedyś do pełni sił, jednak [Aglais](#p_aglais) stwierdza że minie kolejnych kilka tygodni zanim będzie w stanie podróżować albo walczyć

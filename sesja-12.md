@@ -10,7 +10,7 @@
     - Nad ranem rozmawia z nami komendant straży. Dwie noce temu (noc z żabami) w mieście umarł w sumie tuzin ludzi. Nie ma żadnych dowodów, że mamy coś z tym wspólnego, ale po wysłuchaniu naszej opowieści o wiedźmach, menhirach i tym podobnym, każe nam się wynosić z miasta przed zachodem słońca.
     - [Kajetan](#g_kajetan) pomimo wyczerpania odzyskuje kontrolę nad Mocą - może czarować.
     - Elf robi ostatnie zakupy na drogę, sprzedaje topór, do którego stracił zaufanie.
-    - [Ilana](#g_ilana) ze [Skovikiem](#p_skovik) odwiedzają na odchodne najstarszego mieszkańca miasta. Dowiadują się więcej o historii Carreras:
+    - [Ilana](#g_ilana) ze [Skovikiem](#p_skovik) odwiedzają na odchodne najstarszego mieszkańca miasta. Dowiadują się więcej o historii [Carreras](#l_carreras):
         - miasto powstało po tym jak za zgodą lokalnych druidów zbudowano trakt
         - druidzi nie chcieli śmierdzącego miasta i mieszkających w nim myśliwych w okolicy
         - druidzi zniknęli mniej więcej w tym samym czasie, w którym zaginęła córka Carrerasów, [Esme](#p_esme_carreras)

@@ -21,7 +21,7 @@
         - [Ilana](#g_ilana) odsyła zaskoczonego [Skovika](#p_skovik) do jednej chaty z [Ivarem](#p_ivar), a sama odprowadza [Finarrina](#p_druid_finarrin) do ich wspólnego domu, nie chcąc stawiać mentora w niezręcznej sytuacji z obcymi nocującymi pod jego dachem
     - Wieczorem, na osobności [Finarrin](#p_druid_finarrin) wyjawia, dlaczego zasmucił go widok podopiecznej: pod presją [Aen Eldrin](#r_aen_eldrin), [Ilana](#g_ilana) została wskazana przez niego jako następca przysięgi złożonej Protektorowi. Druid był pewny, że dziewczyna nie wróci już do domu, więc będzie bezpieczna z dala od [Brokilonu](#l_brokilon) i Protektora.
 2. Pierwszy dzień po powrocie [Finarrina](#p_druid_finarrin) - rano
-    - Nad ranem [Ilana](#g_ilana) pomaga [Finarrinowi](#p_druid_finarrin) doprowadzić się do porządku. Opowiada mu po krótce co się działo pod jego nieobecność i prosi żeby jako naoczny świadek powiedział jej co dokładnie wydarzyło się w noc Belleteyn:
+    - Nad ranem [Ilana](#g_ilana) pomaga [Finarrinowi](#p_druid_finarrin) doprowadzić się do porządku. Opowiada mu po krótce co się działo pod jego nieobecność i prosi żeby jako naoczny świadek powiedział jej co dokładnie wydarzyło się w noc [Belleteyn](#r_belleteyn):
         - starszyzna druidów odprawiała coroczny rytuał przejścia
         - nastąpiło intensywne wyładowanie magii (najprawdopodobniej w tym samym momencie [Eithne](#p_eithne) otwierała portal w [Brokilonie](#l_brokilon))
         - część starszyzny przeskoczyła świadomością do pobliskich zwierząt - ich ciała padły pozbawione świadomości jak kukły
