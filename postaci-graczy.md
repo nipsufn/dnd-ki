@@ -47,18 +47,25 @@
             - Traktat o alchemii (+5 do Alchemist tools)
             - Thieves Tools
             - Z Crraag An:
-                - Notatki belfra z [Biblioteki](#l_biblioteka) Crag An
+                - Notatki belfra z [Biblioteki](#l_biblioteka) [Craag An](#l_craag_an)
                 - Kryształowa kasetka na zaklęcie; żółta
                 - Kryształowa kasetka na zaklęcie; niebieska
                 - Różdżka, iluzja; *"Jak liść na wietrze"*
-                - Medalion i ceramiczne (?) monety z Crag An
-                - Medalion bibliotekarza z Crag An
+                - Medalion i ceramiczne (?) monety z [Craag An](#l_craag_an)
+                - Medalion bibliotekarza z [Craag An](#l_craag_an)
                 - Medalion posłusznika zakonu Zielonych Rycerzy
+                - 4 kryształy na zaklęcia
     - Znane kręgi teleportacyjne:
         - [Craag An](#l_craag_an)
         - [Ban Ard](#l_ban_ard)
     - Plany:
         - Obejrzeć medalion i monety znalezione w warowni w [Craag An](#l_craag_an)
+        - Zachować zaklęcia w kryształach
+        - Nauczyć się symboli publicznych kręgów teleportacyjnych
+        - Sprawdzić ruiny wieży [Merigold](#p_triss_merigold) w [Mariborze](#l_maribor) - materiały, krąg teleportacyjny
+        - wrócić do podziemnego jeziora koło [Col Serrai](#l_col_serrai)
+        - wrócić do biblioteki w [Craag An](#l_craag_an)
+        - [Mirna](#p_mirna) może zaproponować swoje usługi piratom
         - Zaklęcia do transkrypcji:
             - [Life Transference](https://5e.tools/spells.html#life%20transference_xge)
             - [Planar Binding](https://5e.tools/spells.html#planar%20binding_phb)
