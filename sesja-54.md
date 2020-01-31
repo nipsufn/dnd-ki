@@ -26,8 +26,8 @@
             - publiczne kręgi aportacyjne powinny być na [Aretuzie](#l_wyspa_thanedd), w [Ban Ard](#l_ban_ard) i [Oxenfurcie](#l_oxenfurt)
     - [Skovik](#p_skovik) się budzi, nie pamięta nic od kiedy dostał w plecy. Ostatnie co pamięta to głos [Kajetana](#g_kajetan)... Czyżby elf wysłał jedną ze swoich wiadomości w wyjątkowo niefortunnym momencie?
     - [Wyspiarz](#p_skovik) jest bardzo osłabiony. Jego plecy zostały odbudowane i bardzo prawdopodobne że wróci kiedyś do pełni sił, jednak [Aglais](#p_aglais) stwierdza że minie kolejnych kilka tygodni zanim będzie w stanie podróżować albo walczyć
-    - Algais pyta czy [Skovik](#p_skovik) nie mógłby się podjąć zadania którego, jak się okazało, nie może narzucić [Kajetanowi](#g_kajetan) - bardzo szybko otrzymuje bardzo dosadną odmowę [Ilany](#g_ilana)
+    - [Aglais](#p_aglais) pyta czy [Skovik](#p_skovik) nie mógłby się podjąć zadania którego, jak się okazało, nie może narzucić [Kajetanowi](#g_kajetan) - bardzo szybko otrzymuje bardzo dosadną odmowę [Ilany](#g_ilana)
     - [Kajetan](#g_kajetan) prosi na odległość [Finarrina](#p_druid_finarrin) aby ten odebrał [Skovika](#p_skovik) z [Col Serrai](#l_col_serrai) - [Ilana](#g_ilana) jest bardzo wzburzona i absolutnie nie chce zostawić go w uzdrowisku, sam [wyspiarz](#p_skovik) stwierdza że nie ma sensu aby ruszał z nami do [Mariboru](#l_maribor)
     - Druid przybywa, akurat gdy [elf](#g_kajetan) dowiaduje się od [dziewczyny](#p_mirna) o kredycie. <a title="Starsi Panowie Dwaj">Starsi panowie</a> decydują się skorzystać z sanatorium narzekając na młodzież,
     - [Ilana](#g_ilana) zabiera [Skovika](#p_skovik) na spacer. Opowiada mu o planach oraz wszystko co zapomniał
-    - [Finarrin](#p_druid_finarrin) bierze [wyspiarza](#p_skovik) do [Wioski](#l_wioska) a my wyruszamy w stronę [Brugge](#l_m_brugge), przez które przejdziemy w drodze do Mariboru
+    - [Finarrin](#p_druid_finarrin) bierze [wyspiarza](#p_skovik) do [Wioski](#l_wioska) a my wyruszamy w stronę [Brugge](#l_m_brugge), przez które przejdziemy w drodze do [Mariboru](#l_maribor)
