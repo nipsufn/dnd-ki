@@ -18,6 +18,8 @@
     - przebywał też w [Craag An](#l_craag_an) gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
 - <a id='p_keira_metz' pattern='Keir*,Keir* Metz,Metz'>Keira Metz</a> - ?, mag
     - była/jest magiem specjalizującym się w leczeniu
+- <a id='p_koral' pattern='Koral,Keir* Neyd,Neyd'>Lytta "Koral" Neyd</a> - ?, mag
+    - zginęła w drugiej bitwie pod Sodden
 - <a id='p_lambert' pattern='Laber*'>Lambert</a> - człowiek, wiedźmin
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów

@@ -29,5 +29,21 @@
     - [Aglais](#p_aglais) pyta czy [Skovik](#p_skovik) nie mógłby się podjąć zadania którego, jak się okazało, nie może narzucić [Kajetanowi](#g_kajetan) - bardzo szybko otrzymuje bardzo dosadną odmowę [Ilany](#g_ilana)
     - [Kajetan](#g_kajetan) prosi na odległość [Finarrina](#p_druid_finarrin) aby ten odebrał [Skovika](#p_skovik) z [Col Serrai](#l_col_serrai) - [Ilana](#g_ilana) jest bardzo wzburzona i absolutnie nie chce zostawić go w uzdrowisku, sam [wyspiarz](#p_skovik) stwierdza że nie ma sensu aby ruszał z nami do [Mariboru](#l_maribor)
     - Druid przybywa, akurat gdy [elf](#g_kajetan) dowiaduje się od [dziewczyny](#p_mirna) o kredycie. <a title="Starsi Panowie Dwaj">Starsi panowie</a> decydują się skorzystać z sanatorium narzekając na młodzież,
-    - [Ilana](#g_ilana) zabiera [Skovika](#p_skovik) na spacer. Opowiada mu o planach oraz wszystko co zapomniał
+2. Powtórka z rozrywki
+    - Wracamy rozejrzeć się kilka razy nad podziemne jezioro. Nasza obecność dalej budzi ciekawość "natywnych" mieszkańców - gdy ślimaki o pięciu czułkach nadmiernie się zbliżają, odchodzimy. [Kajetan](#g_kajetan) obserwuje:
+        - jezioro kryje zatopioną kotlinę, a w niej miasto czy osadę
+        - w zalanych zboczach wykutych jest wiele tuneli. Nad jednym z nich, w metalowym żyrandolu wciąż płonie magiczne światło, kuszące malutkie, zwykłe oraz ogromne okazy ślimaków - zdają się próbować zjeść źródło blasku
+        - do jaskini wpływa woda, czym dalej w tunel, tym nurt bardziej rwący
+        - tunel kończy się wielkim wodospadem i trafia do tylko częściowo zalanego wyrobiska, w którym również zbudowano osadę, część zabudowań wystaje ponad taflę wody
+        - nad jeziorem mieszkają ślimaki, modliszko-kraby pustelniki i pędraki
+        - w tunelu widać symbol Zielonych Rycerzy
+        - wieża po drugiej stronie tamy jest w dużo lepszym stanie
+        - drzwi które widać z naszego brzegu da się otworzyć tylko od wewnątrz - przynajmniej zgodnie z intencją konstruktorów
+        - wewnątrz dalej palą się magiczne, srebrne płomienie, oświetlające schody
+        - mniej więcej w połowie wysokości znajduje się pokój wartowniczy, można iść dalej w górę, w głąb skał, pod prąd wody, drzwi są jednak zapieczętowane i oznaczone insygniami zakonu Zielonych Rycerzy. Są też drzwi w bok, do zawalonego tunelu który niegdyś biegł wewnątrz i w poprzek tamy
+    - [Kajetanowi](#g_kajetan) udaje się wykombinować jak umieścić zaklęcie w kryształach które wyniósł z [Craag An](#l_craag_an) - potrzeba mu jednak miarki dekoktu Raffarda Białego, Białej Mewy (która dla większości jest bardzo toksyczna), ewentualnie dwóch miarek destylatu z mandragory
+    - [Ilana](#g_ilana) zabiera [Skovika](#p_skovik) na spacer. Opowiada mu o planach oraz wszystko co zapomniał, dowiaduje się że [Finarrin](#p_druid_finarrin) nie zamierza błogosławić ich znajomości dopóki [dziewczyna](#g_ilana) nie dojdzie do porządku sama z sobą
+    - [Kajetan](#g_kajetan) rozmawia jeszcze z [Leivem](#p_leiv) i [Mirną](#p_mirna) - piraci są przez kogoś opłacani aby napadali na te właśnie statki na których zależy [druidce](#p_mirna), choć nie przez [Viraxasa](#p_ksiaze_viraxas), on ma osobną listę (tak mówi Beorn)
+    - W [Kerrack](#l_kerrack) podobno była kiedyś czarodziejka [Lytta "Koral" Neyd](#p_koral)
+3. Z powrotem do przyszłości
     - [Finarrin](#p_druid_finarrin) bierze [wyspiarza](#p_skovik) do [Wioski](#l_wioska) a my wyruszamy w stronę [Brugge](#l_m_brugge), przez które przejdziemy w drodze do [Mariboru](#l_maribor)

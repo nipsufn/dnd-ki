@@ -26,6 +26,8 @@
         - <a id='l_ostoja' pattern='Ostoj*'>Karczma Ostoja</a>
         - <a id='l_biblioteka' pattern='Bibliote*'>Biblioteka</a>
         - <a id='l_rezydencja_czarodzieja' pattern='Rezydencj* Czarodzieja'>Rezydencja Czarodzieja</a>
+        - <a id='l_u_haliny' pattern='U Haliny'>U Haliny</a>
+            Karczma opodal murów miasta
     - <a id='l_dillingen' pattern='Dillingen'>Dillingen</a>
         - miasto portowe, w którym rządzi [Nilfgaard](#l_nilfgaard)
         - <a id="l_perelka" pattern='Pereł*'>Karczma (bordel) "Perełka"</a>
