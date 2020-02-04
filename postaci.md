@@ -202,7 +202,7 @@
         zorganizował wyprawę archeologiczną w której brał udział [Kajetan](#g_kajetan)
 - [Kaedwen](#l_kaedwen)
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
-- [Kerrack](#l_kerrack)
+- [Kerack](#l_kerack)
     -<a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*'>Książę Viraxas</a> - ;
     -<a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
     
