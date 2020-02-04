@@ -141,14 +141,14 @@
     - <a id='p_viggo_regner' pattern='Vigg*,Vigg* Regner*'>Viggo Regner</a> - ; alchemik/mag;
         Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
         ? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) [Janus](#p_lukrecja_schattenwort) Schattenwort: podwładny, uczeń
-    - <a id='p_lukrecja_schattenwort' pattern='Lukrecj*,Lukrecj* Schattenwort,Janus*'>[Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort</a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
+    - <a id='p_lukrecja_schattenwort' pattern='Lukrecj*,Lukrecj* Schattenwort,Janus*'>[Lukrecja](#p_lukrecja_schattenwort) aka Janus Schattenwort</a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem [Janus](#p_lukrecja_schattenwort);
         [Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
     - <a id='p_pani_regner'>? Regner</a> - ; mag;
         w śpiączce wg [Lukrecja](#p_lukrecja_schattenwort) (?);
         śpiączka spowodowana klątwą uruchomioną w czasie prac archeologicznych w [Ysgyth](#l_ysgyth)
         [Viggo Regner](#p_viggo_regner): mąż
     - <a id='p_eliza' pattern='Eliz*'>Eliza</a> - ; krawcowa;
-        dziecko widziało zmarłego ojca (potwór żywiący się tęsknotą, ubity przez PC), dziecko przejawia predyspozycje do użycia Mocy, wyrusza z PC do Świątyni Melitele;
+        dziecko widziało zmarłego ojca (potwór żywiący się tęsknotą, ubity przez PC), dziecko przejawia predyspozycje do użycia Mocy, wyrusza z PC do [Świątyni Melitele](#l_smelitele);
         [Ethar](#p_ethar): mąż; [Daria](#p_daria): córka
     - <a id='p_daria' pattern='Dari*'>Daria</a> - ; dziecko;
         widziała zmarłego ojca w potworze, wyrusza z matką do [Świątyni Melitele](#l_smelitele) nauczyć się kontrolować Moc do której ma predyspozycje;

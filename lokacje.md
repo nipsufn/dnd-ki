@@ -44,7 +44,6 @@
     - leży nad morzem, między ujściem Jarugi a [Temerią](#l_temeria), od wschodu graniczy z [Verden](#l_verden)
     - <a id='l_m_cidaris' pattern='Cidaris'>Cidaris</a>
     - <a id='l_bremervoord' pattern='Bremervoord'>Bremervoord</a>
-    - <a id='l_kerack' pattern='Kerack'>Kerack</a>
 - <a id='l_cintra' pattern='Cintr*'>Cintra</a>
 - <a id='l_ellander' pattern='Ellander'>Ellander</a>
     - Lenno [Temerii](#l_temeria), a więc i [Redianii](#l_redania)
