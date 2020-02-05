@@ -80,3 +80,4 @@
     - Druid przybywa akurat gdy [elf](#g_kajetan) dowiaduje się od [dziewczyny](#p_mirna) o kredycie. <a title="Starsi Panowie Dwaj">Starsi panowie</a> decydują się skorzystać z sanatorium narzekając na młodzież.
     - [Ilana](#g_ilana) i [Skovik](#p_skovik) postanawiają nieco zakłócić nocny spokój uzdrowiska czułym pożegnaniem.
     - Nad ranem [Finarrin](#p_druid_finarrin) bierze [wyspiarza](#p_skovik) i uczepionego mężczyzny niedźwiadka do [Wioski](#l_wioska) a my wyruszamy w stronę [Brugge](#l_m_brugge), przez które przejdziemy w drodze do [Mariboru](#l_maribor).
+    - Na odchodnym [Kajetan](#g_kajetan) wręcza [Skovikowi](#p_skovik) jeden z krzyształów naładowany zaklęciem. Zaklęcie to wiadomość zaadresowana do [Ilany](#g_ilana) - na wypadek, gdyby kiedyś potrzebował się z nami pilnie skontaktować.
