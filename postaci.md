@@ -111,11 +111,12 @@
             Przychylny Driadom
         - <a id='p_krol_venzlav_ii' pattern='Król* Venzlav* II,Venzlav* II,Król* Venzlav* Drugi*,Venzlav* Drugi*'>Król Venzlav II</a> - ; król [Brugge](#l_brugge)
             Podpisał umowy z [Nilfgaarderm](#l_nilfgaard)
-        - <a id='p_florian_z_vicovaro' pattern='Pan* Florian*,Magist* Florian*,Pan* Florian* Vicovaro,Magist* Florian* Vicovaro,Florian* Vicovaro,Florian*,Vicovaro'>Magister Florian z Vicovaro</a> - ; mag
+        - <a id='p_florian_z_vicovaro' pattern='Pan* Florian*,Magist* Florian*,Pan* Florian* Vicovaro,Magist* Florian* Vicovaro,Florian* Vicovaro,Florian*,var Anahid*'>Magister Florian var Anahid z Vicovaro</a> - ; mag
         - <a id='p_lars' pattern='Lars*'>Lars</a> - ; domniemany przywódca szajki najemnych złoczyńców w [Brugge](#l_brugge); ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
         - <a id='p_gyf' pattern='Gyf*'>Gyf</a> - człowiek w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)
         - <a id='p_skaags' pattern='Skaags*'>Skaags</a> - człowiek, sierżant; pracuje dla [Larsa](#p_lars)
-        - <a id='p_lloyd' pattern='Lloyd*'>✝ Lloyd</a> - człowiek, strażnik; uciekliśmy mu w [Medownej](#l_medowna), bezpodstawnie wierzy że wyrżnęliśmy całą wieś, nadużywał nadanego mu autorytetu.
+        - <a id='p_lloyd' pattern='Lloyd*'>✝ Lloyd</a> - człowiek, strażnik; uciekliśmy mu w [Medownej](#l_medowna), bezpodstawnie wierzy że wyrżnęliśmy całą wieś, nadużywał nadanego mu autorytetu. Wrócił jako zjawa by nas gnębić
+        - <a id='p_wilpost' pattern='Wilpos*'>Wilpost</a> - gnom; alchemik; pędzi "Izzotonik"
     - [Dillingen](#l_dillingen)
         - <a id='p_zielarz'>Regis</a><a id='p_regis' pattern='Regis*'></a> - ?; zielarz;
             Destylował nalewkę z Mandragory
