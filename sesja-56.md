@@ -31,7 +31,7 @@
     - Wychodząc z warsztatu mijamy innego członka gildii. Kobieta łypie na nas podejżliwym okiem, ale gnom, nazwany przez nią [Wilpostem](#p_wilpost) szybko rozładowuje sytuację.
 3. Na kazanie w Towarzystwie
     - Po zakupach u alchemika [Ilana](#g_ilana) upiera się aby udać się do kapłana po radę w sprawie upiora. Kierujemy swoje kroki do świątyni Proroka Lebiody. 
-    - W drodze, w opustoszałej uliczce zasadzają się na nas ludzie [Larsa](#p_lars) - albo raczej, jak się okazuje, Redańscy agenci z Towarzystwa, których [Verdeńczyk](#p_lars) porzucił jak stare rękawiczki. Nie rozumieją co się stało po nieudanym zamachu i żądają wyjaśnień. 
+    - W drodze, w opustoszałej uliczce zasadzają się na nas ludzie [Larsa](#p_lars) - albo raczej, jak się okazuje - Redańscy agenci z Towarzystwa, których [Verdeńczyk](#p_lars) porzucił jak stare rękawiczki. Nie rozumieją co się stało po nieudanym zamachu i żądają wyjaśnień. 
     - [Kajetanowi](#g_kajetan) udaje się opanować wściekłość i wyjaśnia, że [łotrzyk](#p_lars) pracuje nad tym, co go interesuje, to jest usunięciem zarazy z [Verden](#l_verden), a zabicie maga było jedynie jednym z jego pomysłów jak ten cel osiągnąć. 
     - Zbiry mówią, że ckliwa historyjka o zemście za [Verden](#l_verden) była tylko pretekstem mającym skłonić nas do bardziej polubownej współpracy. Tak naprawdę chodziło tylko o to, by przez pozbycie się maga osłabić Czarnych i dać Redańczykom przewagę w potyczce nad [Chotlą](Chotla).
     - [Ilanie](#g_ilana) wymyka się coś o [Cintrze](#l_cintra) i paru innych lokacjach, gdzie mogą szukać swojego byłego szefa. Nasi rozmówcy znikają równie szybko jak się pojawili.
