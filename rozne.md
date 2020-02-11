@@ -65,8 +65,8 @@
         - <a id='r_alkahest' pattern='Alkahest*'>🜆 - Alkahest</a>[<sup>3</sup>](#ad3)
     
 <div align="right">
-<i><a id='ad1'></a><sup>1</sup>[Symbole alchemiczne](https://www.alchemylab.com/dictionary.htm), autor nieznany</i><br />
-<i><a id='ad2'></a><sup>2</sup>[Azothu Opisanie](https://en.wikipedia.org/wiki/Azoth), Encyklopedia Wików</i><br />
-<i><a id='ad3'></a><sup>3</sup>Encyklopedia Wików w [Alkahestu Opisaniu](https://en.wikipedia.org/wiki/Alkahest) przyrównuje go do [Wody Królewskiej](https://en.wikipedia.org/wiki/Aqua_regia), tej zaś symbol zaś opisuje [Wielki zbiór y znaków wszelakich kolekcya](https://unicode-table.com/en/1F706/)</i>
+<i><a id='ad1'></a><sup>1</sup><a href="https://www.alchemylab.com/dictionary.htm">Symbole alchemiczne</a>, autor nieznany</i><br />
+<i><a id='ad2'></a><sup>2</sup><a href="https://en.wikipedia.org/wiki/Azoth">Azothu Opisanie</a>, Encyklopedia Wików</i><br />
+<i><a id='ad3'></a><sup>3</sup>Encyklopedia Wików w <a href="https://en.wikipedia.org/wiki/Alkahest">Alkahestu Opisaniu</a> przyrównuje go do <a href="https://en.wikipedia.org/wiki/Aqua_regia">Wody Królewskiej</a>, tej zaś symbol zaś opisuje <a href="https://unicode-table.com/en/1F706/">Wielki zbiór y znaków wszelakich kolekcya</a></i>
 </div>
     
