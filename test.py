@@ -41,6 +41,8 @@ for filePath in fileList:
       balance[6] += lineText.count(']')
       if re.match(r"[<>=]{7}", lineText):
         mergeConflict = True
+      if re.match(r"^(\t| )*>", lineText):
+        balance[2] -= 1
       for match in re.finditer(r"[a-zA-Z0-9](_[a-zA-Z0-9]+)+", lineText):
         if re.search(r"<a id='[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?'", lineText[match.start(0)-7:match.end(0)+6]):
           tags.append([match.group(0), lineNo, match.start(0), filePath])

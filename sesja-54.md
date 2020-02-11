@@ -20,7 +20,7 @@
     - W czasie naszego pobytu w uzdrowisku jedna z driad rodzi. Dziecko zaraz po urodzeniu zostaje zabrane przez [Aglais](#p_aglais) do lasu - [Ilanę](#g_ilana) zdaje się to strasznie interesować.
     - Zapytane driady opowiadają, że nowo narodzone dziecko należy "połączyć", "związać" z lasem, jednak sam rytuał jest tajemnicą, którą driady nie mają zamiaru się dzielić nawet z [druidką](#g_ilana).
     - Innego dnia do [uzdrowiska](#l_col_serrai) przybywają trzy driady, wszystkie są ranne i poparzone. Jedna z nich, najdotkliwiej ranna jest ledwo przytomna. Wśród trójki [Ilana](#g_ilana) rozpoznaje znajomą twarz - Astelle. 
-    - Driada opowiada, że obserwowały bitkę ludzi nad Chotlą, czerwonych i czarnych (Redańczycy i [Nilfgaardczycy](#l_nilfgaard)?) kiedy zostały zauważone i zaatakowane przez człowieka z płonącym mieczem (zdaje się [Igna](#p_igna) miała podobną broń...). Dziwożon w sumie 6, ale z życiem uszła tylko trójka.
+    - Driada opowiada, że obserwowały bitkę ludzi nad [Chotlą](#l_chotla), czerwonych i czarnych (Redańczycy i [Nilfgaardczycy](#l_nilfgaard)?) kiedy zostały zauważone i zaatakowane przez człowieka z płonącym mieczem (zdaje się [Igna](#p_igna) miała podobną broń...). Dziwożon w sumie 6, ale z życiem uszła tylko trójka.
     - Rany zadane mieczem nie chcą się goić, nawet magia [Ilany](#g_ilana) zdaje się być nieskuteczna.
     - [Elba](#p_elba), driada, od której [Ilana](#g_ilana) uczyła się strzelać z łuku poległa w tej potyczce.
 3. Rozmowy (prawie) kontrolowane
@@ -55,7 +55,7 @@
         - wewnątrz dalej palą się magiczne, srebrne płomienie, oświetlające schody
         - mniej więcej w połowie wysokości znajduje się pokój wartowniczy, można iść dalej w górę, w głąb skał, pod prąd wody, drzwi są jednak zapieczętowane i oznaczone insygniami zakonu Zielonych Rycerzy
         - są też drzwi w bok, do zawalonego tunelu, który niegdyś biegł wewnątrz i w poprzek tamy
-    - [Kajetanowi](#g_kajetan) udaje się wykombinować jak umieścić zaklęcie w kryształach, które wyniósł z [Craag An](#l_craag_an) - potrzeba mu jednak miarki Alkahestu, Białej Mewy (która dla większości jest bardzo toksyczna), lub ewentualnie dwóch miarek destylatu z mandragory
+    - [Kajetanowi](#g_kajetan) udaje się wykombinować jak umieścić zaklęcie w kryształach, które wyniósł z [Craag An](#l_craag_an) - potrzeba mu jednak miarki [Alkahestu](#r_alkahest), Białej Mewy (która dla większości jest bardzo toksyczna), lub ewentualnie dwóch miarek destylatu z mandragory
 5. Zmartwychwstanie
     - [Skovik](#p_skovik) budzi się po 2 tygodniach. Nie pamięta nic od kiedy dostał w plecy. Ostatnie, co pamięta to głos [Kajetana](#g_kajetan)... Czyżby elf wysłał jedną ze swoich wiadomości w wyjątkowo niefortunnym momencie?
     - [Wyspiarz](#p_skovik) jest bardzo osłabiony. Jego plecy zostały odbudowane i bardzo prawdopodobne, że wróci do pełni sił, jednak [Aglais](#p_aglais) stwierdza, że minie kolejnych kilka tygodni zanim będzie w stanie podróżować albo walczyć.

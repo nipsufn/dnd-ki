@@ -45,7 +45,7 @@
             - 4 porcje kadzidła
             - 4 porcje pyłu kamieni szlachetnych
             - 8 porcji kredy
-            - 5 miarek Izzotoniku (zamiennik Alkahestu; d20: efekt x2 on 20, wild magic on 1)
+            - 5 miarek Izzotoniku (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
             - 184.0.8 gp
             - 5 butelek bimbru
             - Thieves Tools

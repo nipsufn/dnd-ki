@@ -22,7 +22,7 @@
     - W chacie mieszka rybak z rodziną, [Rund](#p_rund). Są ostatnimi, którym udało się przetrwać oblężenie bestii. Reszta wsi została wyrżnięta do nogi w ciągu ostatnich kilku tygodni.
     - Pochodnie nie wzbudzają naszego zaufania - przygotowujemy się do walki. Nacieramy linę srebrnymi opiłkami, obklejamy nimi dłonie.
     - Chwytamy, pętamy i zabijamy największą bestię.
-    - Mniej więcej w tym czasie [Ilana](#g_ilana) odzyskuje nad sobą kontrolę wracając do formy człowieka. Jest po pas w rzece, Chotli lub Inie, w okolicy w szuwarach zaplątany jest porzucony koń, który jeszcze chwilę temu mógł zostać jej posiłkiem.
+    - Mniej więcej w tym czasie [Ilana](#g_ilana) odzyskuje nad sobą kontrolę wracając do formy człowieka. Jest po pas w rzece, [Chotli](#l_chotla) lub Inie, w okolicy w szuwarach zaplątany jest porzucony koń, który jeszcze chwilę temu mógł zostać jej posiłkiem.
     - Dwa pozostałe [barghesty](#b_barghest) zdaje się uciekają od drużyny i pędzą w przeciwną stronę, w las.
     - [Ilana](#g_ilana) uwalnia konia, krótko z nim rozmawia. Koń nosi wojskowe barwy i ma na sobie juki. Wszystko wskazuje na to, że jego jeźdźca ściągnęły z siodła upiorne psy.
     - Druidka, nie wiedząc gdzie znajduje się jej drużyna, decyduje się na galop w górę rzeki, do granicznej strażnicy, którą zna też koń.

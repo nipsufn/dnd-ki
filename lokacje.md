@@ -17,17 +17,19 @@
     - <a id='l_wioska' regex='Wios[ck]\w{0,3}' comment='Wiosna...'>Wioska</a>
         - [Wioska](#l_wioska) Druidów, nie ma nazwy
 - <a id='l_brugge'>Brugge</a>
-    - Granicę wyznaczają od wschodu rzeki Hotla i Ina, od południa Jaruga, od zachodu Wstążka, od północy las [Brokilon](#l_brokilon)
+    - Granicę wyznaczają od wschodu rzeki <a id='l_chotla' pattern='Chotl*'>Chotla</a> i Ina, od południa Jaruga, od zachodu Wstążka, od północy las [Brokilon](#l_brokilon)
     - Jako lenno [Nilfgaardu](#l_nilfgaard) nie toleruje rasizmu wśród poddanych
     - W stanie wojny z [Brokilonem](#l_brokilon)
     - <a id='l_m_brugge' pattern='Brugge'>Brugge</a>
-        - <a id='l_glowa_dzika' pattern='Głow* Dzika'>Karczma Pod Głową Dzika</a>
+        - <a id='l_glowa_dzika' pattern='Głow* Dzika,Ł* Dzika'>Karczma Pod Głową Dzika</a>
         - <a id='l_zielona_swieczka' pattern='Zielon* Świeczk*'>Karczma Pod Zieloną Świeczką</a>
         - <a id='l_ostoja' pattern='Ostoj*'>Karczma Ostoja</a>
         - <a id='l_biblioteka' pattern='Bibliote*'>Biblioteka</a>
         - <a id='l_rezydencja_czarodzieja' pattern='Rezydencj* Czarodzieja'>Rezydencja Czarodzieja</a>
         - <a id='l_u_haliny' pattern='U Haliny'>U Haliny</a>
             Karczma opodal murów miasta
+        - <a id='l_slonce_jarugi' pattern='Słońc* Jarugi'>Słońce Jarugi</a>
+            Sklep z orężem
     - <a id='l_dillingen' pattern='Dillingen'>Dillingen</a>
         - miasto portowe, w którym rządzi [Nilfgaard](#l_nilfgaard)
         - <a id="l_perelka" pattern='Pereł*'>Karczma (bordel) "Perełka"</a>

@@ -30,6 +30,9 @@
     - <a id='b_dybuk' pattern='[Dd]ybuk*'>Dybuk</a>
         - stworzony przez klątwę
         - potrafi nadawać zwłokom karykaturę życia
+    - <a id='b_garkain' pattern='[Gg]arkain*'>Garkain</a>
+        - wampir niższy
+        - wszelkie trucizny i choroby jakie napotyka kolekcjonuje, jako składnik swojego jadu
     - <a id='b_ghul' pattern='[Gg]hul*'>Ghul</a>
         - przypomina wychudzonego, częściowo obdartego ze skóry człowieka ze zniekształconą twarzą
         - żywi się zwłokami

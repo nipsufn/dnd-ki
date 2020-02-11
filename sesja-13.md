@@ -15,7 +15,7 @@
     - Wiedząc, że ruiny zostały zabezpieczone, uciekamy ile sił w nogach aby wydostać się z promienia eksplozji zanim motłoch wlezie w pułapkę.
     - Na południu, w stronę [Mayeny](#l_mayena) (albo i nad samym miastem), kłębią się koncentrycznie ułożone chmury. Drogowskaz na same miasto jest przekreślony czerwoną farbą.
     - Decydujemy się iść do [Brugge](#l_brugge) na przełaj, według tymczasowego drogowskazu i śladów wozów.
-    - Przedzieramy się przez nienaturalnie gęsty las, mijając źródła Chotli, dopływu Iny.
+    - Przedzieramy się przez nienaturalnie gęsty las, mijając źródła [Chotli](#l_chotla), dopływu Iny.
 3. [Brugge](#l_brugge)
     - Na granicy okazuje się, że [Brugge](#l_brugge) jest teraz lennem [Nilfgaardu](#l_nilfgaard), w trakcie otwartej wojny z Driadami z [Brokilonu](#l_brokilon). Przekraczamy granicę uiszczając opłatę celną.
     - W drodze do miasta [Brugge](#l_m_brugge) dyskutujemy o sytuacji politycznej, niekoniecznie się zgadzając.

@@ -60,3 +60,13 @@
         - 🜄 - woda
         - ≈ - woda (niepoprawnie / alternatywnie, użyta przez [Vicovaro](#p_florian_z_vicovaro))
         - 🜔 - sól
+        - <a id='r_azoth' pattern='Azoth*'>♆ - Azoth</a>[<sup>1</sup>](#ad1)
+        - ☤ - [Azoth](#r_azoth) (alternatywnie)[<sup>2</sup>](#ad2)
+        - <a id='r_alkahest' pattern='Alkahest*'>🜆 - Alkahest</a>[<sup>3</sup>](#ad3)
+    
+<div align="right">
+<i><a id='ad1'></a><sup>1</sup>[Symbole alchemiczne](https://www.alchemylab.com/dictionary.htm), autor nieznany</i>
+<i><a id='ad2'></a><sup>2</sup>[Azothu Opisanie](https://en.wikipedia.org/wiki/Azoth), Encyklopedia Wików</i>
+<i><a id='ad3'></a><sup>3</sup>Encyklopedia Wików w [Alkahestu Opisaniu](https://en.wikipedia.org/wiki/Alkahest) przyrównuje go do [Wody Królewskiej](https://en.wikipedia.org/wiki/Aqua_regia), tej zaś symbol zaś opisuje [Wielki zbiór y znaków wszelakich kolekcya](https://unicode-table.com/en/1F706/)</i>
+</div>
+    
