@@ -34,13 +34,14 @@
     - [Kajetanowi](#g_kajetan) udaje się opanować wściekłość i wyjaśnia, że [łotrzyk](#p_lars) pracuje nad tym, co go interesuje, to jest usunięciem zarazy z [Verden](#l_verden), a zabicie maga było jedynie jednym z jego pomysłów jak ten cel osiągnąć. 
     - Zbiry mówią, że ckliwa historyjka o zemście za [Verden](#l_verden) była tylko pretekstem mającym skłonić nas do bardziej polubownej wpsółpracy. Tak naprawdę chodziło tylko o to, by przez pozbycie się maga osłabić Czarnych i dać Redańczykom przewagę w potyczce nad [Chotlą](Chotla).
     - [Ilanie](#g_ilana) wymyka się coś o [Cintrze](#l_cintra) i paru innych lokacjach, gdzie mogą szukać swojego byłego szefa. Nasi rozmówcy znikają równie szybko jak się pojawili.
-    - W świątyni Proroka Lebiody [Ilana](#g_ilana)rozmawia ze starszym, ślepym kapłanem, Burchardem. Dziewczyna otrzymuje niecodzienną poradę wprost z Dobrej Księgi:
-    > Zaprawdę powiadam wam, kto wierzy snom, jest jako chcący pojmać wiatr lubo cień uchwycić. Łudzi się obrazem zwodniczym, krzywym zwierciadłem, które łamie lub prawi niedorzeczności na wzór niewiasty rodzącej. Głupi zaiste, kto marom sennym wiarę daje i drogą złudy kroczy.
-    
-    > Wszelako kto sny letce sobie waży i nie wierzy im nic a nic, ten także bezrozumnie czyni. Bo przecież gdyby sny całkiem znaczenia nie miały, to po cóż by bogowie, tworząc nas, zdolność śnienia nam dawali?[<sup>1</sup>](#ad1)
+    - W świątyni Proroka Lebiody [Ilana](#g_ilana) rozmawia ze starszym, ślepym kapłanem, Burchardem. Dziewczyna otrzymuje niecodzienną poradę wprost z Dobrej Księgi:
+        
+        > Zaprawdę powiadam wam, kto wierzy snom, jest jako chcący pojmać wiatr lubo cień uchwycić. Łudzi się obrazem zwodniczym, krzywym zwierciadłem, które łamie lub prawi niedorzeczności na wzór niewiasty rodzącej. Głupi zaiste, kto marom sennym wiarę daje i drogą złudy kroczy. 
+        > Wszelako kto sny letce sobie waży i nie wierzy im nic a nic, ten także bezrozumnie czyni. Bo przecież gdyby sny całkiem znaczenia nie miały, to po cóż by bogowie, tworząc nas, zdolność śnienia nam dawali?[<sup>1</sup>](#ad1)
     
     - W podzięce za otrzymaną "radę" wrzucamy kilka groszy "co łaska" do misy ofiarnej stojącej obok ołtarza. Nad paterą zamontowano tabliczkę z napisem głoszącym:
-    > Zaprawdę, ubogiego datkiem wesprzyj. Ale miast dać ubogiemu całego arbuza, daj mu pół arbuza, bo się gotowo ubogiemu we łbie przewrócić od szczęścia.
+        
+        > Zaprawdę, ubogiego datkiem wesprzyj. Ale miast dać ubogiemu całego arbuza, daj mu pół arbuza, bo się gotowo ubogiemu we łbie przewrócić od szczęścia.
     
 4. Z wizytą w szpitalu
     - [Ilana](#g_ilana) przypomina sobie o obiecanych jej przez [miejskiego maga](#p_florian_z_vicovaro) zwojach komunikacyjnych. Idziemy do szpitala, aby zapytać o widzenie. 
