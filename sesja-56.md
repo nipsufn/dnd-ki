@@ -18,8 +18,8 @@
     - Krawcowa stawia na najnowsze trendy i dobrze się ceni. Jej salon sprawia wrażenie miejsca prestiżowego. Na szczęście rzeczy, których potrzebujemy należą do tej niewymyślnej części asortymentu.
     - [Kajetan](#g_kajetan) na koszt druidki zaopatruje się w nowy komplet ubrań skrojonych na miarę. Obsługa zdaje się aż nadskakiwać elfowi, za to na dziewczynę patrzy nieco z góry - jak na babę z lasu.
     - [Ilana](#g_ilana) zamawia po 1 zestawie prostych, ale wytrzymałych ubrań dla braci Drummond i 1 dodatkowy na modłę wyspiarską w rodowych barwach, dla [Skovika](#p_skovik). Dziewczyna kupuje także nocną koszulę dla siebie z zamiarem lekkiej przeróbki na styl sukni [Keiry "królowej dziwek" Metz](#p_keira_metz).
-    - Czekając na realizację zamówienia podsłuchujemy rozmowę szwaczek, które plotkują o tym, jakoby w karczmie Łeb Dzika zatrzymał się wiedźmin.
-    - Wydawszy ładną sumkę na fatałaszki zatrzymujemy się na noc w [Ostoji](#l_ostoja), prostej ale czystej oberży.
+    - Czekając na realizację zamówienia podsłuchujemy rozmowę szwaczek, które plotkują o tym, jakoby w karczmie "Łeb Dzika" zatrzymał się wiedźmin.
+    - Wydawszy ładną sumkę na fatałaszki zatrzymujemy się na noc w ["Ostoji"](#l_ostoja), prostej ale czystej oberży.
     - Następnego dnia rano ruszamy na poszukiwania stolarza. W końcu znajdujemy fachowca, odbijając się wcześniej od wielu niziołczych drzwi - wredne karły są pamiętliwe na krzywdę im wyrządzoną (na tą, której same są winne, niekoniecznie), w związku z czym oferują usługi po zaporowych cenach.
     - Stolarz-zegarmistrz, starszy pan z nosem, który sugeruje, że w rodzinie mógł się przewinąć jakiś gnom, oferuje natomiast uczciwą cenę i przyjmuje zlecenie [elfa](#g_kajetan) na małą prasę do kredy.
     - Od stolarza trafiamy do zbrojmistrza pod szyldem głoszącym dźwięczną nazwę "Słońce Jarugi". [Ilana](#g_ilana) kupuje broń dla [Skovika](#p_skovik) - solidny topór.
@@ -46,10 +46,10 @@
     
 4. Z wizytą w szpitalu
     - [Ilana](#g_ilana) przypomina sobie o obiecanych jej przez [miejskiego maga](#p_florian_z_vicovaro) zwojach komunikacyjnych. Idziemy do szpitala, aby zapytać o widzenie. 
-    - Pielęgniarka, z którą rozmawiamy jest zaskoczona, ale przekazuje naszą prośbę. [Czarodziej](#p_florian_z_vicovaro) nie ma teraz czasu, ale zaprasza nas na kolację do "Głowy Dzika".
+    - Pielęgniarka, z którą rozmawiamy jest zaskoczona, ale przekazuje naszą prośbę. [Czarodziej](#p_florian_z_vicovaro) nie ma teraz czasu, ale zaprasza nas na kolację do "Łba Dzika".
     - Zdziwieni, ale zadowoleni przyjmujemy zaproszenie. Mając jeszcze trochę czasu do kolacji robimy ostatnie zakupy na drogę.
     - Korzystając z wolnej chwili, [Ilana](#g_ilana) wysyła posłańca do [Skovika](#p_skovik). Informuje, że nasze sprawy w [Brugge](#l_m_brugge) są już załatwione, broń i inne rzeczy, o które prosił, kupiła i że nazajutrz planujemy ruszyć już w stronę [Mariboru](#l_maribor). Oprócz słownej wiadomości druidka starannie odcina z kraciastego pasa Drummondów wąski pasek, owija nim odręczny liścik i przywiązuje go do nóżki ptaka.
-    - Nie chcąc się spóźnić, powoli kierujemy swoje kroki w stronę Łba Dzika.
+    - Nie chcąc się spóźnić, powoli kierujemy swoje kroki w stronę "Łba Dzika".
 5. Kolacja z [Magistrem Florianem](#p_florian_z_vicovaro)
     - [Vicovaro ](#p_florian_z_vicovaro) wynajął całe piętro karczmy. Zastajemy tam [Gaetana](#p_gaetan). Dowiadujemy się, że wiedźmin jest opłacany, choć do samego polowania na potwora jeszcze nie doszło.
     - W [Verden](#l_verden) grasuje Garkain, wampir niższy, używający zaraz i toksyn jako broni (co ciekawe, szczególnie łasy na magiczną krew). To on napadł na kmiotków [Floriana](#p_florian_z_vicovaro), czym "popsuł" jego misterny plan.
