@@ -106,11 +106,13 @@
     - <a id='l_maribor' pattern='Maribor*'>Maribor</a>
         - zniknął się po Dwójksiężycowej Nocy
     - <a id='l_mayena' pattern='Mayen*'>Mayena</a>
+        - <a id='l_pol_drogi' pattern='W Pół Drogi'>W Pół Drogi</a> karczma, dobry kawałek za miastem w stronę [Mariboru](#l_maribor) (__w pół drogi__)
     - <a id='l_lysa_gora' pattern='Łys* Gór*'>Łysa Góra</a>
         - Znajduje się nieopodal [Mayeny](#l_mayena)
         - Stoi na nim samotne drzewo - dobry punkt do teleportacji
     - <a id='l_cleves' pattern='Cleves'>Cleves</a>
         - fort wojskowy, niedaleko [Mariboru](#l_maribor)
+- <a id='l_sodden' pattern='Sodden'>Sodden</a>
 - <a id='l_toussaint' pattern='Toussaint'>Toussaint</a>
     - <a id='l_beauclair' pattern='Beauclair'>Beauclair</a>
         - robią tu jedno z najlepszych win

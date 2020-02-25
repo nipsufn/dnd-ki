@@ -19,7 +19,7 @@
 - <a id='p_keira_metz' pattern='Keir*,Keir* Metz,Metz'>Keira Metz</a> - ?, mag
     - była/jest magiem specjalizującym się w leczeniu
 - <a id='p_koral' pattern='Koral,Keir* Neyd,Neyd'>Lytta "Koral" Neyd</a> - ?, mag
-    - zginęła w drugiej bitwie pod Sodden
+    - zginęła w drugiej bitwie pod [Sodden](#l_sodden)
 - <a id='p_lambert' pattern='Laber*'>Lambert</a> - człowiek, wiedźmin
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
@@ -115,7 +115,7 @@
         - <a id='p_lars' pattern='Lars*'>Lars</a> - ; domniemany przywódca szajki najemnych złoczyńców w [Brugge](#l_brugge); ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
         - <a id='p_gyf' pattern='Gyf*'>Gyf</a> - człowiek; w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)
         - <a id='p_burchard' pattern='Burchard*'>Burchard</a> - człowiek; Kapłan Proroka Lebiody
-        - <a id='p_de_pons' pattern='De Pons*'>Lord De Pons</a> - człowiek; szara eminencja, głowa (nie da się tego udowodnić) Redańskich sił specjalnych w [Brugge](#l_m_brugge)
+        - <a id='p_de_pons' pattern='De Pons*,Pons*'>Lord De Pons</a> - człowiek; szara eminencja, głowa (nie da się tego udowodnić) Redańskich sił specjalnych w [Brugge](#l_m_brugge)
         - <a id='p_skaags' pattern='Skaags*'>✝Skaags</a> - człowiek, sierżant; pracuje dla specjalnych sił Redańskich, stracony w [Brugge](#l_m_brugge) po potyczce nad [Chotlą](#l_chotla)
         - <a id='p_lloyd' pattern='Lloyd*'>✝ Lloyd</a> - człowiek, strażnik; uciekliśmy mu w [Medownej](#l_medowna), bezpodstawnie wierzy że wyrżnęliśmy całą wieś, nadużywał nadanego mu autorytetu. Wrócił jako zjawa by nas gnębić
         - <a id='p_wilpost' pattern='Wilpos*'>Wilpost</a> - gnom; alchemik; pędzi "Izzotonik"
@@ -179,7 +179,7 @@
     - <a id='p_walerian' pattern='Walerian*'>Walerian</a> - półelf; gospodarz;
         prowadzi gospodę "[Różyczka](#l_rozyczka)" z żoną;
         [Maria](#p_maria): żona, partner
-    - <a id='p_mlody_kaplan'>Młody Kapłan</a> - ; kapłan;
+    - <a id='p_mlody_kaplan' pattern='Undyr*'>Młody Kapłan Undyr</a> - ; kapłan;
         kapłan Wiecznego Ognia, chce zastąpić głównego kapłana [Ellander](#l_m_ellander), kombinuje przeciwko nieludziom (podburzanie robotników, przedstawienie w "[Różyczce](#l_rozyczka)");
         Kapłan [Matias](#p_kaplan_matias): przełożony
     - <a id='p_kaplan_matias' pattern='Kapłan* Matias*,Matias*'>✝ Kapłan Matias</a> - ; kapłan;
