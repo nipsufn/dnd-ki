@@ -6,8 +6,8 @@
     - Woda jest całkiem czysta nie wiedzieć czemu, unosi się smród topionego metalu.
     - Wyruszamy z biegiem wody, w kierunku potwora/żyjątka wykrytego przez [Ilanę](#g_ilana).
     - Spadamy do podziemnego jeziora gdzie atakuje nas [Zeulg](#b_zeulg).
-    - Zabijamy potwora, W jego leżu [Ilana](#g_ilana) znajduje nadjedzoną rękę z bransoletką. 
-    - Bransoletka ma identyczny symbol, jak ten na opasce zerwanej z herszta [Łowców](#r_lowca) transportujących nas podczas dwuksiężycowej nocy. Bibelot emanuje magią.
+    - [Ilana](#g_ilana) zostaje sparaliżowana i wciągnięta pod wodę. Na szczęście, choć z niemałym trudem udaje nam się zabić potwora. W jego leżu [druidka](#g_ilana) znajduje nadjedzoną rękę z bransoletką. 
+    - Bransoletka ma symbol złożony z czegoś na kształt lwiej głowy z otwartą paszczą, zza której wystają linie przypominającego pajęcze odnóża. Bibelot emanuje magią.
     - Wracamy ze szczątkami potwora do [Vigga](#p_viggo_regner), niszcząc kolejny raz bramę do kanałów i płacąc mandat za zepsucie rzeczonej bramy (10GP).
 3. [Fiolka Zdrowia](#l_fiolka_zdrowia)
     - [Viggo](#p_viggo_regner) jest zawiedziony brakiem szczura, jednak [Zeulg](#b_zeulg) też jest interesujący - paraliżującą toksynę da się pozyskać do różnych celów.
