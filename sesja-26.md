@@ -27,7 +27,7 @@
         - temperatura jest zdecydowanie zbyt wysoka jak na tą okolicę i obecną porę roku
     - Kiedy druidka podchodzi bliżej i zagląda przez okno, motyle kłębią się wokół niej wyraźnie zainteresowane.
     - Drzwi są zamknięte, a u ich dołu widać ślady drobnych pazurków (możliwe, że szopa). Korzystając ze znanej sobie skrytki mentorki, [Ilana](#g_ilana) szybko znajduje zapasowy klucz i otwiera drzwi.
-    - W środku panuje półmrok. Na łóżku leży trochę porozrzucanych ubrań. Na trójnogu za biurkiem stoi tarcza strzelnicza z przybitymi kawałkami pergaminu, a na nich imiona: Madame Karoll, Faolitarna, Rayla, [Yaewin](#p_yaevinn).
+    - W środku panuje półmrok. Na łóżku leży trochę porozrzucanych ubrań. Na trójnogu za biurkiem stoi tarcza strzelnicza z przybitymi kawałkami pergaminu, a na nich imiona: [Madame Karoll](#p_karoll), Faolitarna, Rayla, [Yaewin](#p_yaevinn).
     - [Ilana](#g_ilana), nie mitrężąc, wrzuca w prześcieradło co bardziej użyteczne rzeczy:
         - ubrania
         - deskę ze strunami okazującą się być gusli - instrumentem popularnym w [Kaedwen](#l_kaedwen)

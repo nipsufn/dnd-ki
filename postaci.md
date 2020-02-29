@@ -232,6 +232,9 @@
         - karczmarz
         - opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
         - buduje karczmę w pół drogi między [Mariborem](#l_maribor) a [Mayeną](#l_mayena) w zimę 1276PP, możliwe że zostanie nazwana _"W pół drogi"_
+    - <a id='p_karoll' pattern='Madame Karoll,Karoll'>Madame Karoll</a>
+        - prowadzi(ła?) obwoźny burdel na granicach z [Nilfgaardem](#l_nilfgaard), zarabiając na utrzymanie Wiewiórek
+        - [Enid](#p_enid), jako jedna z jej byłych "pracownic", pała doń rządzą zemsty
 - [Verden](#l_verden)
     - [Lokij](#l_lokij)
         - <a id='p_niemoj' pattern='Niem[óo]*,Sołtys* Niem[óo]*'>Sołtys Niemój</a>

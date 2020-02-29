@@ -1,0 +1,34 @@
+### Sesja 58
+1. Wielka chryja
+    - Wychodzimy przed karczmę, ledwie widać jutrzenkę.
+    - Przy wozie jedną z panienek poddusza kijem zakapturzona postać w której rozpoznajemy [Enid](#p_enid). Krzyczy coś w stronę wozu. W okolicy jest druga postać, pewnie [Finarrin](#p_druid_finarrin).
+    - Inna panna decyduje się uciekać. Jedno z okien wozu otwiera się, a uciekinierka zostaje powalona bełtem z kuszy
+    - [Ilana](#g_ilana) odbiega na bok, zamienia się w pająka i skrada się do wozu
+    - [Enid](#p_enid) i [Karoll](#p_karoll) krzyczą na siebie, próbując znaleźć przewagę w patowej sytuacji
+    - Z karczmy wyłazi [Morgan Guus](#p_morgan) w towarzystwie dwóch kmiotków których mieliśmy już okazję poznać
+    - [Ilana](#g_ilana), już w wozie, zamienia się z powrotem w człowieka i próbuje zdzielić [burdelmamę](#p_karoll) wielką sakiewką którą zauważyła w pomieszczeniu
+    - Po krótkiej bójce wór złota, [Karoll](#p_karoll) i [dziewczyna](#g_ilana) wylatują przez okno wozu, po zupełnie drugiej stronie od [Enid](#p_enid)
+    - [Ilana](#g_ilana) woła [Kajetana](#g_kajetan) na pomoc, po czym zamienia się w niedźwiedzia, częściowo ukryta przed gapiami (zaganianymi z resztą do karczmy przez [Finarrina](#p_druid_finarrin)) przez wóz
+    - Całą trójką rzucamy się w pogoń za wyjątkowo szybką i zwinną [rajfurkę](#p_karoll). [Kajetan](#g_kajetan) szybko dostrzega ciężki worek który ma pod pachą
+    - [Enid](#p_enid) dopada [kuplerkę](#p_karoll), bredząc o zemście, [mag](#g_kajetan), ogarnięty żądzą złota, próbuje odkuć się za fiasko z [Kasparem](#p_kaspar) i złapać worek
+    - [Ilana](#g_ilana) zamienia się w człowieka i, próbując "uspokoić" ładującego bełty w całe zamieszanie [karczmarza](#p_morgan), oskarża [Karoll](#p_karoll) o czarostwo
+    - [Kajetan](#g_kajetan) "pomaga" oferując podział złota które, póki co, bez skutku próbuje złapać w wirze walki kobiet
+    - [Morgan](#p_morgan) jest nieprzekonany (czyżby kolaborował z Wiewiórkami?), natomiast jego pracownicy - tak. Atakują swojego nieświadomego niebezpieczeństwa [pracodawcę](#p_morgan) sztyletami
+    - [młoda druidka](#g_ilana) zamienia się w niedźwiedzia, tym razem zupełnie na widoku, by odgonić rzezimieszków od krwawiącego [krasnoluda](#p_morgan).
+    - na szczęście cała ciżba siedzi już w karczmie, próbując obserwować co się dzieje u schyłku nocy przez rybie pęcherze
+    - [Karoll](#p_karoll) gwiżdże charakterystycznie, a później woła nawet [Yaevinna](#p_yaevinn), uciekając w las. [Kajetan](#g_kajetan), wciąż myślący o bogactwie, wypala w nią błyskawicą, jednak nie trafia.
+    - [Enid](#p_enid) rzuca się za [burdemamą](#p_karoll) w las, [elf](#g_kajetan) wraca pod karczmę
+2. Nieudolna deeskalacja
+    - [Ilana](#g_ilana) __próbuje__ wytłumaczyć [krasnoludowi](#p_morgan) co się właśnie stało, i dlaczego powinien trzymać naszą stronę, ten jednak nie przebierając w słowach pierniczy o samosądach i bandytach. Chamskie odzywki jak zwykle prowokują równie uprzejme komentarze [Kajetana](#g_kajetan), co zaognia sytuację.
+    - [Finarrin](#p_druid_finarrin), zrezygnowany, zostawia sprawę przy karczmie samą sobie i powoli rusza w stronę lasu, gdzie biegła [Enid](#p_enid). Idziemy za nim, kłócąc się cicho - [Kajetan](#g_kajetan) uważa że należy uciekać, [Ilana](#g_ilana) natomiast nie może pogodzić się z porażką, złymi decyzjami podjętymi w wirze walki, i koniecznie chce pomóc [Enid](#p_enid), mimo że można się spodziewać wielu wrogich Wiewiórek.
+    - [mag](#g_kajetan) ma minę jakby poważnie rozważał samodzielną ucieczkę, jednak [druid](#p_druid_finarrin) dostrzega celujących już w nas elfów. Używa swojego autorytetu [Hierofanty](#p_druid_finarrin) aby zapewnić nam tymczasowe bezpieczeństwo, a [dziewczyna](#g_ilana) i, rad - nie rad, [elf](#g_kajetan), idą za nim do lasu
+    - [Enid](#p_enid) obezwładniła [Karoll](#p_karoll) i trzyma jej rapier przy szyi. Jest otoczona Wiewiórkami z naciągniętymi na cięciwach strzałami. Widzimy też dowódcę komanda, [Yaevinn](#p_yaevinn).
+    - próbując rozładować sytuację, [Ilana](#g_ilana) żąda wyjaśnień. [Starsza druidka](#p_enid) pokrótce opowiada, jak dziewczynki których narobią elfy ludzkim babom kończą jako pracownice [Karoll](#p_karoll) i jej podobnym
+    - sytuacja jest definitywnie bez wyjścia, dopóki, nienaturalnie dla siebie, [Finarrin](#p_druid_finarrin) unosi się gniewem. Wszyscy zostajemy spętani korzeniami drzew. Elfy mają natychmiast odejść jeśli chcą jeszcze kiedykolwiek wejść do [Brokilonu](#l_brokilon), co, widząc potęgę [druida](#p_druid_finarrin), żwawo robią. [Enid](#p_enid) pomstuje i klnie
+    - korzenie puszczają po chwili i nas. Zajmuje nam trochę czasu zanim dochodzimy do siebie. [Enid](#p_enid) szlocha przy jednym z drzew, przez chwilę towarzystwa dotrzymuje jej [Finarrin](#p_druid_finarrin). Po jakimś czasie [Kajetan](#g_kajetan) robi swój bąbelek.
+    - [Ilana](#g_ilana) z [druidem](#p_druid_finarrin) udają się na krótki spacer, dyskutują o tym co się wydarzyło. Dowiaduje się że po ucieczce z burdelu elfów [Enid](#p_enid) pracowała jako bardzo skuteczny najemnik, najchętniej polując na Scoia'tael. Gdy wracają, decyduje się iść do [Igny](#p_igna), opowiedzieć naszą narratywę, zanim sprawa zostanie zgłoszona żołdakom i przedstawiona albo przez [Guusa](#p_morgan)
+    - [dziewczyna] zaczyna rozmowę od pytania o gnębiącego nas [Lloyda](#p_lloyd), nie dowiaduje się jednak niczego czego nie dowiedziała się do tej pory od [wiedźmina](#p_gaetan), po czym opisuje zajście pod karczmą. Sprawa wygląda raczej źle (fakt że rajfurka to Wiewiórka bynajmniej nie pomaga naszej sprawie), jednak, z sobie znanych przyczyn, wydajemy się być [Myrtonowi](#p_lord_myrton) bardziej przydatni niż problematyczni, w związku z czym [Igna](#p_igna) żąda od nas przysługi, i upewni się że to kim my jesteśmy nie przewinie się w raportach na temat incydentu.
+3. Nic tu po nas
+    - [Ilana](#g_ilana) wraca, opowiadając co wskórała. Pisze list do [Skovika](#p_skovik) i daje go [Finarrinowi](#p_druid_finarrin) razem z innymi klamorami dla chłopaków. [Druid](#p_druid_finarrin) otwiera drzewo i bierze [Enid](#p_enid) do [Wioski](#l_wioska)
+    - Odpoczywamy, kłócąc się o neutralność i jej koszt oraz o plan wyprawy na [Skellige](#l_wyspy_skellige). Wygląda na to że nie zostaje nam nic innego jak opowiedzieć się po stronie Redańczyków, na co [Ilana](#g_ilana) zgadza się bardzo niechętnie. Co do [wysp](#l_wyspy_skellige) nie dochodzimy do żadnego porozumienia, [Ilana](#g_ilana) chce je koniecznie odwiedzić w towarzystwie [Skovika](#p_skovik), nie licząc się z potencjalnymi konsekwencjami. Później, bardziej spokojnie, [Kajetan](#g_kajetan) opowiada jak to nie da się zawsze wygrać i nie każdą sytuację można naprawić...
+    - Rano, przed naszym bąbelkiem znajdujemy strzałę driady. Nie mogąc jednak żadnej zauważyć, wyruszamy w naszą drogę, do [Mariboru](#l_maribor).
