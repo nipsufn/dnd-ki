@@ -14,6 +14,7 @@
     - [Ilana](#g_ilana) zamienia się w człowieka i, próbując "uspokoić" ładującego bełty w całe zamieszanie [karczmarza](#p_morgan), oskarża [Karoll](#p_karoll) o czarostwo
     - [Kajetan](#g_kajetan) "pomaga" oferując podział złota które, póki co, bez skutku próbuje złapać w wirze walki kobiet
     - [Morgan](#p_morgan) jest nieprzekonany (czyżby kolaborował z Wiewiórkami?), natomiast jego pracownicy - tak. Atakują swojego nieświadomego niebezpieczeństwa [pracodawcę](#p_morgan) sztyletami
+    - w tak zwanym międzyczasie, pozostałe kobiety pracujące zaprzęgły konie do wozu i ruszyły w kierunku Mariboru, zdaje się w nadziei na życie bez [szefowej](#p_karoll)
     - [młoda druidka](#g_ilana) zamienia się w niedźwiedzia, tym razem zupełnie na widoku, by odgonić rzezimieszków od krwawiącego [krasnoluda](#p_morgan).
     - na szczęście cała ciżba siedzi już w karczmie, próbując obserwować co się dzieje u schyłku nocy przez rybie pęcherze
     - [Karoll](#p_karoll) gwiżdże charakterystycznie, a później woła nawet [Yaevinna](#p_yaevinn), uciekając w las. [Kajetan](#g_kajetan), wciąż myślący o bogactwie, wypala w nią błyskawicą, jednak nie trafia.
