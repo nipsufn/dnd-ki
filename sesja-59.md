@@ -10,9 +10,9 @@
     - na rynku trwa budowa świątyni, rozpoczęte łuki wciąż oparte są na drewnianych wspornikach
     - tłum drwali wygląda na gotowych do zamieszek, dwóch ludzi ich uspokaja - bez większego powodzenia młody kapłan, oraz z szubienicy ktoś kogo bierzemy za nowego burmistrza. Zapewniena chłopów, że władze będą negocjować albo karać za zawyżone ceny, oraz obiecuje, że dla każdego starczy siekierki
     - na tablicy ogłoszeniowej widzimy:
-        - _Strzeżcie się Wiewiórek! Nieludzkich rozbójników widziano przy wycince i na trakcie do [Mayeny_](#l_mayena)
-        - _Urząd Burmistrza poszukuje wprawnych i odważnych do pracy w straży! Zastąpicie zaginiony oddział służąc miasu i obywatelom!_
-        - _Zaraza Żelaza! Z rozporządzenia [Burmistrza [Mariboru](#l_maribor) Olega](#p_oleg) ogłasza się nagrodę za znalezienie przyczyny problemów z metalowymi narzędziami!_
+        - _Strzeżcie się Wiewiórek! Nieludzkich rozbójników widziano przy wycince i na trakcie do [Mayeny](#l_mayena)_
+        - _Urząd Burmistrza poszukuje wprawnych i odważnych do pracy w straży! Zastąpicie zaginiony oddział służąc miastu i obywatelom!_
+        - _Zaraza Żelaza! Z rozporządzenia Burmistrza [Mariboru](#l_maribor) [Olega](#p_oleg) ogłasza się nagrodę za znalezienie przyczyny problemów z metalowymi narzędziami!_
     - zatrzymujemy się w karczmie, [Nowym Zrębie](#l_nowy_zrab). Zauważamy tam nieostrożnie przyglądającym się nam agentom Scoia'tael, krasnoluda Regana i niziołka Andy'ego
     - [Kajetan](#g_kajetan) przysiada się do nich, i nie owijając w bawełnę pyta czego chcą. Regan jest wyraźnie zestresowany naszą obecnością w mieście. Szukają złota i dziewczyn które zniknęły z pod [W Pół Drogi](#l_pol_drogi) - [elf](#g_kajetan) zapewnia ich że nic nas to nie obchodzi i nie będziemy im wadzić tak długo jak będą się trzymać z dala od nas, a ich złoto nie jest warte naszego zachodu.
     - Rezerwujemy nocleg i wyruszamy dalej, rozejrzeć się po okolicy w której niegdyś stała wieża [czarodziejki](#p_triss_merigold), by zobaczyć czy coś po niej zostało, co moglibyśmy wykorzystać
