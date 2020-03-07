@@ -81,7 +81,7 @@
 - <a id='l_kovir' pattern='Kovir*'>Kovir</a>
     - <a id='l_port_vanis' pattern='Port Vanis'>Port Vanis</a>
 - <a id='l_mahakam' pattern='Mahakam*'>Mahakam</a>
-    - <a id='l_gora_carbon' pattern='Gór- Carbon'>Góra Carbon</a>
+    - <a id='l_gora_carbon' pattern='Gór* Carbon'>Góra Carbon</a>
 - <a id='l_nilfgaard' pattern='Nilfgaard*'>Nilfgaard</a>
     - <a id='l_loc_grim' pattern='Loc Grim'>Loc Grim</a>
     - <a id='l_vicovaro' pattern='Vicovaro'>Vicovaro</a>
@@ -105,6 +105,8 @@
     - <a id='l_dorian' pattern='Dorian'>Dorian</a>
     - <a id='l_maribor' pattern='Maribor*'>Maribor</a>
         - zniknął się po Dwójksiężycowej Nocy
+        - szybko rozpoczęto odbudowę
+        - <a id='l_nowy_zrab' pattern='Now* Zr*'>Nowy Zrąb</a> - karczma
     - <a id='l_mayena' pattern='Mayen*'>Mayena</a>
         - <a id='l_pol_drogi' pattern='W Pół Drogi'>W Pół Drogi</a> karczma, dobry kawałek za miastem w stronę [Mariboru](#l_maribor) (__w pół drogi__)
     - <a id='l_lysa_gora' pattern='Łys* Gór*'>Łysa Góra</a>

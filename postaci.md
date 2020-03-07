@@ -227,7 +227,10 @@
     - [Lord Dijkstra](#p_dijkstra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
     - [Maribor](#l_maribor)
         - <a id='p_kaspar' pattern='Kaspar*'>_Tymaczasowy Burmistrz Nowobudowanego [Mariboru](#l_maribor) Z Łaski Regenta [Dijkstry](#p_dijkstra) Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](#p_krol_radowid) Błogisławiony Imć Komendant_ Kaspar</a>
-        - współpracownik [Larsa](#p_lars)
+            - współpracownik [Larsa](#p_lars)
+            - wysoko postawiony agent Redańskich Sił Specjalnych, możliwe że podwładny samego [Dijkstry](#p_dijkstra)
+            - wyruszył do [Wyzimy](#l_wyzima) niedługo po tym, jak pozbyliśmy się naszych listów gończych z [Brugge](#l_m_brugge)
+        - <a id='p_oleg' pattern='Oleg*'>Permanentny Burmistrz Mariboru</a>
     - <a id='p_morgan' pattern='Morgan* Guus,Morgan*'>Morgan Guus</a>
         - karczmarz
         - opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
