@@ -21,7 +21,7 @@
 3. Teoria kątów i trójkątów
     - Teren, uprzątnięty i wyrównany, z nasadzeniami drzew, jest wciąż nieco obniżony. Wygląda na to, że będzie tu park, a zgodnie z małą tabliczką w centrum, czarny ostrosłup stojący w miejscu dawnego domostwa [Czternastej z Sodden](#p_triss_merigold), w przyszłości zostanie zastąpiony jej pomnikiem.
     - [Elf](#g_kajetan) dostrzega, że ostrosłup definitywnie jest magiczny w swojej naturze, jednak nie jest w stanie określić jego funkcji. Możliwe, że służy jako punkt zaczepienia dla kogoś kto chciałby obserwować okolicę.
-    - Ku rozczarowaniu [Kajetana](#g_kajetan), wszystkie piwnice w okolicy są albo zamknięte na trzy spusty, albo skonstruowane tak, że dostać się do nich można jedynie przez dom.cW okolicy stoją jednak chwiejne ruiny trzech budynków w trakcie rozbiórki. 
+    - Ku rozczarowaniu [Kajetana](#g_kajetan), wszystkie piwnice w okolicy są albo zamknięte na trzy spusty, albo skonstruowane tak, że dostać się do nich można jedynie przez dom. W okolicy stoją jednak chwiejne ruiny trzech budynków w trakcie rozbiórki. 
     - Podczas gdy [Ilana](#g_ilana) upewnia się, że nikt nie wtyka nosa w nie swój interes, [Kajetan](#g_kajetan) zeskakuje do jednej z piwnic.
     - [Mag](#g_kajetan) nie znajduje żadnego miejsca, w którym [młoda druidka](#g_ilana) mogła by zacząć kopać jako zwierzę, jednak wymacuje wnękę zabezpieczoną iluzją, a w niej kolejny ostrosłup, dużo mniejszy, ale zaklęty w ten sam sposób. Ukryty w zrujnowanych fundamentach, pozwala sobie na eksperyment. Posyła swoje magiczne oko, próbując nim wleźć w ostrosłup. Po chwili jego widzenie przenosi się nad obelisk w parku, a jedna z jego krawędzi jarzy się lekkim światłem. 
     - [Kajetan](#g_kajetan) próbuje tego samego manewru jeszcze raz, a jego widzenie tym razem przenosi się do kanałów, w których jednak nic ciekawego nie widzi, nawet kolejnej magicznej kotwy, której się spodziewał. W teorii, trzy takie kotwy ułatwiały by obserwację i lokalizację osób i przedmiotów pomiędzy nimi...
@@ -32,7 +32,7 @@
     - Rozzłoszczony mężczyzna wychodzi w końcu z kwitem odprowadzany przez kobietę z minionej nocy.
     - Podczas gdy [Kajetan](#g_kajetan) stoi w kolejce po śniadanie, a później nawet zaczyna jeść, [Ilana](#g_ilana) znika, podążając za kobietą i handlarzem. Dwójka idzie do stajni, gdzie kobieta - jak się okazuje jedna z dziewczyn Karoll - próbuje niemal za bezcen sprzedać mu swojego konia (jednego z tych, które wcześniej ciągnęły burdel).
     - [Ilana](#g_ilana) proponuje, że odkupi od niej konia skoro jej tak spieczno. Ex-kutryzana niemal ucieka na widok [druidki](#g_ilana).
-    - Wróciwszy do karczmy, [Ilana](#g_ilana) kończy zimne śniadanie. Zbieramy swoje manatki i ryruszamy do kanałów. 
+    - Wróciwszy do karczmy, [Ilana](#g_ilana) kończy zimne śniadanie. Zbieramy swoje manatki i wyruszamy do kanałów. 
     - [Kajetan](#g_kajetan) chce wykonać dalszy rekonesans Być może kanały to lepszy punkt startowy niż zabudowane piwnice, by szukać pozostałości fundamentów wieży, które mogły się nie zawalić. 
     - [Ilana](#g_ilana) zaczyna myśleć o owadach, które znaleźliśmy idąc poprzednim razem w tym kierunku od [Góry Carbon](#l_gora_carbon). Smród rzeki kojarzy jej się z nimi, a ogłoszenie kusi.
 5. Schronienie do remontu
