@@ -1,16 +1,16 @@
 ### Sesja 59
 1. W drogę!
     - Przed naszym schronieniem wbita jest driadzia strzała, osmalona i pokryta krwią. Nie wiemy skąd się tu wzięła.
-    - W drodze do [Mariboru](#l_maribor) mijają nas konni w barwach Temerii i Redanii. Rzucają nam niechętne, lekko podejżliwe spojrzenia. Zdają się wieźć zaopatrzenie do obozu.
-    - Pod lasem, opodal mostu na Inie prowadzącego do nowego miasta Maribor natykamy się na marnie zakamuflowany kopczyk. Pod ziemią znajdują się niedbale zakopane szyldy z wozu [Madame Karoll](#p_karoll).
+    - W drodze do [Mariboru](#l_maribor) mijają nas konni w barwach [Temerii](#l_temeria) i [Redanii](#l_redania). Rzucają nam niechętne, lekko podejżliwe spojrzenia. Zdają się wieźć zaopatrzenie do obozu.
+    - Pod lasem, opodal mostu na Inie prowadzącego do nowego miasta [Maribor](#l_maribor) natykamy się na marnie zakamuflowany kopczyk. Pod ziemią znajdują się niedbale zakopane szyldy z wozu [Madame Karoll](#p_karoll).
     - Od rzeki ciągnie nieprzyjemny smród. Zauważamy pod mostem kratę do kanałów, z których to wypływa zielonkawa struga smrodliwej cieczy.
     - Na dzień dobry zauważamy, że miasto rozrosło się wszerz do swoich oryginalnych rozmiarów, a teraz pnie się w górę.
-2. Nowy, lepszy Maribor
+2. Nowy, lepszy [Maribor](#l_maribor)
     - Wyznaczono plac targowy, bardzo z resztą ruchliwy. Wszyscy zdają się handlować żelastwem wszelakiego rodzaju, głównie drwalskimi narzędziami, wszystko to po niesamowicie zawyżonych cenach.
     - Zaczepiamy jednego z kramikarzy. Dowiadujemy się, że podobno na wyrębie narzędzia zaczęły strasznie szybko rdzewieć, a jedyny pieniądz w mieście jest z wycinki drzew.
     - Na rynku trwa budowa świątyni, rozpoczęte łuki wciąż oparte są na drewnianych wspornikach. Przy budowie tłumnie gromadzą się ludzie słuchając przemowy młodego kapłana.
     - Przechodząc obok ratusza zauważamy tłum drwali zebranych przy szubienicy, z której ktoś przemawia głosem prostym, ale silnym. Mężczyzna z bliznami na rękach próbuje uspokoić gotowych do zamieszek ludzi - bez większego powodzenia. Zapewnia chłopów, że władze będą negocjować albo karać za zawyżone ceny, oraz obiecuje, że dla każdego starczy siekierki.
-    - Ktoś z tłumu nazywa mężczyznę imieniem Oleg i zarzuca mu spekulowanie dla własnego zysku w sytuacji kryzysu z żelazem.
+    - Ktoś z tłumu nazywa mężczyznę imieniem [Oleg](#p_oleg) i zarzuca mu spekulowanie dla własnego zysku w sytuacji kryzysu z żelazem.
     - Przechadzamy się po mieście szukając miejsca na obiad i potencjalny nocleg. Na tablicy ogłoszeniowej widzimy:
         - _Strzeżcie się Wiewiórek! Nieludzkich rozbójników widziano przy wycince i na trakcie do [Mayeny](#l_mayena)!_
         - _Urząd Burmistrza poszukuje wprawnych i odważnych do pracy w straży! Zastąpicie zaginiony oddział służąc miastu i obywatelom!_
@@ -30,7 +30,7 @@
 4. Handel wymienny
     - Rano przy śniadaniu widzimy jak kupiec, którego dnia poprzedniego wypytywaliśmy o plotki, kłóci się z karczmarzem o konia, który został zarekwirowany przez królewskiego gońca.
     - Rozzłoszczony mężczyzna wychodzi w końcu z kwitem odprowadzany przez kobietę z minionej nocy.
-    - Podczas gdy [Kajetan](#g_kajetan) stoi w kolejce po śniadanie, a później nawet zaczyna jeść, [Ilana](#g_ilana) znika, podążając za kobietą i handlarzem. Dwójka idzie do stajni, gdzie kobieta - jak się okazuje jedna z dziewczyn Karoll - próbuje niemal za bezcen sprzedać mu swojego konia (jednego z tych, które wcześniej ciągnęły burdel).
+    - Podczas gdy [Kajetan](#g_kajetan) stoi w kolejce po śniadanie, a później nawet zaczyna jeść, [Ilana](#g_ilana) znika, podążając za kobietą i handlarzem. Dwójka idzie do stajni, gdzie kobieta - jak się okazuje jedna z dziewczyn [Karoll](#p_karoll) - próbuje niemal za bezcen sprzedać mu swojego konia (jednego z tych, które wcześniej ciągnęły burdel).
     - [Ilana](#g_ilana) proponuje, że odkupi od niej konia skoro jej tak spieczno. Ex-kutryzana niemal ucieka na widok [druidki](#g_ilana).
     - Wróciwszy do karczmy, [Ilana](#g_ilana) kończy zimne śniadanie. Zbieramy swoje manatki i wyruszamy do kanałów. 
     - [Kajetan](#g_kajetan) chce wykonać dalszy rekonesans Być może kanały to lepszy punkt startowy niż zabudowane piwnice, by szukać pozostałości fundamentów wieży, które mogły się nie zawalić. 
@@ -48,4 +48,4 @@
     - Zaczynamy wchodzić w las, chcąc odpocząć wygodniej niż w karczmie, gdy w [Ilanę](#g_ilana) wbija się strzała, taka jak ta, którą znaleźliśmy zaledwie dzień temu.
     - Wśród gałęzi dostrzegamy poparzoną driadę - tą, która niegdyś uczyła [druidkę](#g_ilana) strzelać z łuku, a która zginęła od ciosu ognistym mieczem - jednak jej oczy płoną czerwono. [Kajetan](#g_kajetan) szybko rozpoznaje w nich swojego arcywroga, [Lloyda](#p_lloyd).
     - Po morderczej, męczącej walce udaje nam się kolejny raz poszatkować ciało upiora, pozbawiając go fizycznej postaci. [Mag](#g_kajetan) próbuje nowego zaklęcia, które _zdaje się_ permanentnie przegoniło upierdliwą zmorę na tamten świat. Czas pokaże, czy rzeczywiście będziemy mieli chwilę spokoju.
-    - [Ilana](#g_ilana) pali resztki dridady, zabierając garść prochów Elby i jej kompozytowy łuk.
+    - [Ilana](#g_ilana) pali resztki driady, zabierając garść prochów [Elby](#p_elba) i jej kompozytowy łuk.

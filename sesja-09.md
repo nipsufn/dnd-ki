@@ -6,13 +6,13 @@
 2. Polowanie na szczura - podejście drugie
     - [Ilana](#g_ilana) wpada na pomysł jak znaleźć szczura dla [Viggo](#p_viggo_regner) i to bez potrzeby tułania się po kanałach.
     - Przy użyciu magii druidka lokalizuje duże skupisko szczurów bezpośrednio na powierzchni miasta. 
-    - Idąc za tropem, docieramy do magazynów pozostałych po murarzach.
+    - [Idąc](#p_ida) za tropem, docieramy do magazynów pozostałych po murarzach.
     - [Ilana](#g_ilana) zmienia się w kota i zwabia szczury do wyrwy w płocie, za którą przyczaił się [Kajetan](#g_kajetan).
     - Cudem udaje im się bez większego szwanku (po za lekkimi pogryzieniami doznanymi przez druidkę) schwytać sporego szczura i zbiec z miejsca gubiąc za sobą szczurzą pogoń.
     - Na odchodnym [Ilana](#g_ilana) zauważa przez otwór w deskach magazynu, że w środku majaczy postać człowieka. Wygląda jakby na czymś grał, a otaczające go szczury nie robią mu najmniejszej krzywdy.
     - Zastanawiamy się, czy szczury nie są kontrolowane przez tego grajka, bo atakują skutecznie i zachowują się zbyt zorganizowanie jak na zwykłe, głupie gryzonie.
 2. [Fiolka Zdrowia](#l_fiolka_zdrowia)
-    - Idziemy ze szczurem do [Vigga](#p_viggo_regner)
+    - [Idziemy](#p_ida) ze szczurem do [Vigga](#p_viggo_regner)
     - Widzimy [Ignę](#p_igna) wychodzącą z jakimiś papierami.
     - Dowiadujemy się o [Dijkstrze](#p_dijkstra).
     - [Novigrad](#l_novigrad) został puszczony prawie cały z dymem przez magów miesiąc - dwa przed Dwójksiężycową Nocą; w pożarze umarł przywódca [Łowców](#r_lowca), [Menge](#p_menge).

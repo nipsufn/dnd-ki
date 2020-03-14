@@ -45,7 +45,7 @@
         > Zaprawdę, ubogiego datkiem wesprzyj. Ale miast dać ubogiemu całego arbuza, daj mu pół arbuza, bo się gotowo ubogiemu we łbie przewrócić od szczęścia.
     
 4. Z wizytą w szpitalu
-    - [Ilana](#g_ilana) przypomina sobie o obiecanych jej przez [miejskiego maga](#p_florian_z_vicovaro) zwojach komunikacyjnych. Idziemy do szpitala, aby zapytać o widzenie.
+    - [Ilana](#g_ilana) przypomina sobie o obiecanych jej przez [miejskiego maga](#p_florian_z_vicovaro) zwojach komunikacyjnych. [Idziemy](#p_ida) do szpitala, aby zapytać o widzenie.
     - Pielęgniarka, z którą rozmawiamy jest zaskoczona, ale przekazuje naszą prośbę. [Czarodziej](#p_florian_z_vicovaro) nie ma teraz czasu, ale zaprasza nas na kolację do "Łba Dzika".
     - Zdziwieni, ale zadowoleni przyjmujemy zaproszenie. Mając jeszcze trochę czasu do kolacji robimy ostatnie zakupy na drogę.
     - Korzystając z wolnej chwili, [Ilana](#g_ilana) wysyła posłańca do [Skovika](#p_skovik). Informuje, że nasze sprawy w [Brugge](#l_m_brugge) są już załatwione, broń i inne rzeczy, o które prosił, kupiła i że nazajutrz planujemy ruszyć już w stronę [Mariboru](#l_maribor). Oprócz słownej wiadomości druidka starannie odcina z kraciastego pasa [Drummondów](#p_lugos) wąski pasek, owija nim odręczny liścik i przywiązuje go do nóżki ptaka.

@@ -3,6 +3,7 @@
     - mag, "ojciec" Wiedźminów
 - <a id='p_cianfanelli' pattern='Cianfanelli*'>Cianfanelli</a> - ?;
     krasnolud, właściciel banków;
+- <a id='p_dorregaray' pattern='Dorregaray'>Dorregaray z Vole</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
 - <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy [Triss Merigold](#p_triss_merigold)
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek [Kapituły](#r_kapitula)
     - potrafi się zamieniać w sowę, możliwe inne zwierzęta
@@ -13,6 +14,8 @@
     - miał okazję rozmawiać z pokojowo nastawionym wilkołakiem w [Wyzimie](#l_wyzima)
     - nielubiany w [Aedirn](#l_aedirn) (plotka głosi, że na zlecenie zabił króla [Demawenda](#p_krol_demawend))
 - <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w [Mayenie](#l_mayena) na dybuga
+- <a id='p_ida' pattern='Id*,Id* Emean'>Ida Emean aep Sivney</a> - elf, mag,  członek [Nowej Kapituły](#r_kapitula)
+    - złośliwi powiedzieli by druga we wszystkim w porównaniu z [Francescą Findabair](#p_francesca)
 - <a id='p_arcydruid_ivryn' pattern='Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'>Arcydruid Ivryn</a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
     - przebywał też w [Craag An](#l_craag_an) gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
@@ -21,9 +24,12 @@
 - <a id='p_koral' pattern='Koral,Keir* Neyd,Neyd'>Lytta "Koral" Neyd</a> - ?, mag
     - zginęła w drugiej bitwie pod [Sodden](#l_sodden)
 - <a id='p_lambert' pattern='Laber*'>Lambert</a> - człowiek, wiedźmin
+- <a id='p_margarita' pattern='Margari*,Margari* Laux-Antille'>Margarita Laux-Antille</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
+    - była rektorka [Aretuzy](#l_wyspa_thanedd)
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
     - przebywa na [Skellige](#l_wyspy_skellige)
+- <a id='p_radcliffe' pattern='Radcliffe'>Radcliffe z Oxenfurtu</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
 - <a id='p_triss_merigold' pattern='Triss,Triss Merigold,Merigold'>Triss Merigold</a> - ?, mag
     - członek [Kapituły](#r_kapitula), zajmowała się intrygami politycznymi
     - była doradczynią [Króla Foltesta](#p_krol_foltest) w [Temerii](#l_temeria)
@@ -138,6 +144,8 @@
         znała [Myszowora](#p_myszowor)
 - [Craag An](#l_craag_an)
     - <a id="p_lanemin" pattern='Lanemin*'>Lanemin Anef Aep</a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużynę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
+- [Dol Blatahanna](#l_dol_blatahanna)
+    - <a id="p_francesca" pattern='Francesc*,Francesc* Findabair'>Francesca Findabair</a> - elf, mag, włada [Dol Blatahanna](#l_dol_blatahanna)
 - [Ellander](#l_ellander)
     - <a id='p_rodzina_harevard'>R. Harevard</a> - ; n/a;
         rodzina władająca [Ellander](#l_m_ellander) przed Niilfgaardczykami
@@ -212,7 +220,7 @@
 - [Nilfgaard](#l_nilfgaard)
     - <a id='p_emhyr' pattern='Cesarz* Ehmyr*,Ehmyr*'>✝ Emhyr</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
 - [Redania](#l_redania)
-    - <a id='p_krol_radowid' pattern='Król* Radowid*,Radowid*'>Król Radowid</a> - ; król [Redianii](#l_redania)
+    - <a id='p_krol_radowid' pattern='Król* Radowid*,Radowid*'>Król Radowid V</a> - ; król [Redianii](#l_redania)
     - <a id='p_dijkstra' pattern='Dijkstr*'>Dijkstra</a> - ; szef redańskiego wywiadu, obecnie hrabia [Redanii](#l_redania) na [Temerię](#l_temeria)
         przez jakiś czas rządził [Novigradem](#l_novigrad)
         rządzi w [Wyzimie](#l_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#l_temeria)
@@ -224,6 +232,12 @@
     - <a id='p_matka_iola' pattern='Mat* Iol*,Iol*'>Matka Iola</a> - ; kapłanka;
 - [Temeria](#l_temeria)
     - <a id='p_krol_foltest' pattern='Król* Foltest*,Foltest*'>✝ Król Foltest</a> - ; król [Temerii](#l_temeria)
+    - <a id='p_foltest' pattern='Foltest*'>Książę Foltest</a> - ; książę [Temerii](#l_temeria)
+        - syn [Addy](#p_adda)
+    - <a id='p_adda' pattern='Królow* Add*,Add*'>Królowa Adda</a> - ; królowa [Temerii](#l_temeria)
+        - była strzygą
+        - córka [Foltesta](#p_krol_foltest)
+        - żona [Radowida](#p_krol_radowid)
     - [Lord Dijkstra](#p_dijkstra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
     - [Maribor](#l_maribor)
         - <a id='p_kaspar' pattern='Kaspar*'>_Tymaczasowy Burmistrz Nowobudowanego [Mariboru](#l_maribor) Z Łaski Regenta [Dijkstry](#p_dijkstra) Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](#p_krol_radowid) Błogisławiony Imć Komendant_ Kaspar</a>
