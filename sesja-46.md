@@ -5,7 +5,7 @@
     - [Finarrin](#p_druid_finarrin) informuje, że do [Nowego Mariboru](#l_maribor) ściąga wojsko, a oni sami są śledzeni (przez ludzi [Kaspara](#p_kaspar)?). Grupa zmierza do [Dorian](#l_dorian), skąd będą próbowali dostać się przez góry do [Brokilonu](#l_brokilon). Dodaje, że [Skovik](#p_skovik) nie najlepiej odebrał nagłą i niezapowiedzianą zmianę planów, ale tym już [Ilana](#g_ilana) nie dzieli się z elfem.
     - Posłaniec znalazł nas po 3 dniach od nadania wiadomości. Dedukujemy, że [Dorian](#l_dorian) od [Mariboru](#l_maribor) dzielą około 3 dni drogi, a więc możliwe, że [Finarrin](#p_druid_finarrin) i spółka są już w mieście.
 2. Ku [Brugge](#l_brugge)
-    - [Idąc](#p_ida) gościńcem zauważamy niepokojące anomalie. Śnieg zaczyna znikać, a w jego miejsce na naszych oczach pojawia się trawa. 
+    - Idąc gościńcem zauważamy niepokojące anomalie. Śnieg zaczyna znikać, a w jego miejsce na naszych oczach pojawia się trawa. 
     - Efekt ten nasila się w marszu - rośliny jakby rosną w przyspieszonym tempie, a drzewa momentalnie stają się wyższe i zamykają się nad naszymi głowami tworząc zielony tunel.
     - [Kajetan](#g_kajetan) używa magicznego oka do przeskanowania okolicy. Oboje dostrzegamy spektralne zwierzęta o nienaturalnie dużych rozmiarach i  dziwnych cechach jak kilka ogonów zamiast jednego.
     - Rzut oka przez szkiełka pozwala zauważyć zieloną aurę w okolicy. Aura jest dość intensywna, jak gęsta mgła.

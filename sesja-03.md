@@ -40,7 +40,7 @@
     - z [Fiolki](#l_fiolka_zdrowia) idziemy prosto do zakładu krawcowej z ogłoszenia, które zerwała [Ilana](#g_ilana).
     - Krawcowa jest bardzo zmęczona. [Ilana](#g_ilana) przekonuje ją, że możemy pomóc pomimo, że nie jesteśmy wiedźminami.
     - [Eliza](#p_eliza) opowiada nam, że od kilku nocy jej córka, [Daria](#p_daria), widzi zmarłego ojca, który nigdy nie powrócił z wojny.
-    - [Idziemy](#p_ida) porozmawiać z [Darią](#p_daria), po drodze na schodach zauważamy popękane lustro ze śladem palców wbitych w szkło.
+    - Idziemy porozmawiać z [Darią](#p_daria), po drodze na schodach zauważamy popękane lustro ze śladem palców wbitych w szkło.
     - [Ilana](#g_ilana) próbuje kilku różnych sztuczek:
         - podając się za przyjaciółkę jej mamy wypytuje, kiedy ostatnio dziewczynka widziała tatę
         - chcąc sprawdzić pewną teorię, zamienia się w kota, ale dalej nie jest w stanie zobaczyć rzekomo obecnego w pokoju ojca dziewczynki

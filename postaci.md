@@ -14,7 +14,7 @@
     - miał okazję rozmawiać z pokojowo nastawionym wilkołakiem w [Wyzimie](#l_wyzima)
     - nielubiany w [Aedirn](#l_aedirn) (plotka głosi, że na zlecenie zabił króla [Demawenda](#p_krol_demawend))
 - <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w [Mayenie](#l_mayena) na dybuga
-- <a id='p_ida' pattern='Id*,Id* Emean'>Ida Emean aep Sivney</a> - elf, mag,  członek [Nowej Kapituły](#r_kapitula)
+- <a id='p_ida' pattern='Ida,Id* Emean'>Ida Emean aep Sivney</a> - elf, mag,  członek [Nowej Kapituły](#r_kapitula)
     - złośliwi powiedzieli by druga we wszystkim w porównaniu z [Francescą Findabair](#p_francesca)
 - <a id='p_arcydruid_ivryn' pattern='Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'>Arcydruid Ivryn</a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy

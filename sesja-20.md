@@ -35,7 +35,7 @@
     - [Ilana](#g_ilana) oficjalnie "przyznaje się" do [Skovika](#p_skovik), czym wprawia [Finarrina](#p_druid_finarrin) w lekką konsternację.
     - [Skovik](#p_skovik) prosi [Finarrina](#p_druid_finarrin) o pomoc w swoim treningu. Niestety druid nie jest w stanie dokończyć jego przemiany, bo nauki druidów ze [Skellige](#l_wyspy_skellige) różnią się znacząco od tradycji i metod druidycznych z kontynentu. Decydujemy, że w takim wypadku trzeba nam bezzwłocznie ruszać na [Skellige](#l_wyspy_skellige), szczególnie że kompania zdaje się skłaniać ku opinii iż [Aen Eldrin](#r_aen_eldrin) należy omijać szerokim łukiem.
     - Po śniadaniu [Mirna](#p_mirna), ku niezadowoleniu [Kajetana](#g_kajetan), zaszywa się w swojej pracowni do końca dnia robiąc obiecane eliksiry. 
-    - [Ilana](#g_ilana) prosi [Finarrina](#p_druid_finarrin) na słowo. [Idą](#p_ida) na spacer:
+    - [Ilana](#g_ilana) prosi [Finarrina](#p_druid_finarrin) na słowo. Idą na spacer:
         - [Ilana](#g_ilana) wyjawia druidowi swoje dziwne sny i pyta o kobietę, której twarzy nie jest w stanie zobaczyć 
         - [Finarrin](#p_druid_finarrin) widział ją po raz pierwszy kiedy był jeszcze młody, a było to w [Mayenie](#l_mayena), a potem jeszcze raz kiedy, nieco starszy, był tam przejazdem
         - kobieta ta jest druidką, ale zdaje się w ogóle nie starzeć (czarodziejka?)
