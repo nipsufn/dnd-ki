@@ -10,17 +10,17 @@
         - [Kaspar](#p_kaspar) oczywiście nie zostawił dla nas obiecanych 1000GP
         - ostrosłup - "kamień węgielny" w parku ufundował anonimowy darczyńca (jak było można się domyślać), burmistrz nie chce zdradzić nic więcej
 2. Tartak i zwiady
-    - Z polecenia [burmistrza], prowadznei przez dwóch strażników odwiedzamy tartak kawałek za miastem. Rzeczywiście większość narzędzi jest przerdzewiałych, dokładnie tak jak spodziewalibyśmy się po robakach, które podejrzewamy.
+    - Z polecenia [burmistrza](#p_oleg), prowadznei przez dwóch strażników odwiedzamy tartak kawałek za miastem. Rzeczywiście większość narzędzi jest przerdzewiałych, dokładnie tak jak spodziewalibyśmy się po robakach, które podejrzewamy.
     - Narzędzia zawieszone wysoko na ścianie są niemal nietknięte. Deski na podłogach są zupełnie luźne, po gwoździach ani śladu. Pod nimi znajdujemy korytarze rozmiarem przypominające szczurze.
     - Zbieramy trochę złomu na przynętę i ruszamy dalej, dziękując strażnikom za cierpliwość i wspominając, że póki co narzędzia chłopi powinni trzymać wysoko.
     - Wyruszamy do kanałów. Ktoś nas śledzi, jednak nie udaje nam się go złapać. Po delikwencie zostają jedynie ślady bosych stóp i oddalający się dźwięk klapania tychrze o błocko.
     - Korzystając z chwili [Kajetan](#g_kajetan) wysyła wiadomość do [Keiry](#p_keira_metz), chciałby zamienić kilka słów na temat ruin posiadłości [Merigold](#p_triss_merigold).
     - W kanałach udajemy się do początku korytarza chrabąszczy. Łapiemy jednego mniejszego osobnika na przynętę - okazuje się, że czułki i żuwaczki bestii niszczą metal, doprowadzając go do stanu, w którym jest dla nich jadalny.
     - Wyruszamy z naszym okazem do [Olega](#p_oleg) udowodnić, że nasza teoria jest słuszna. [Burmistrz] zdaje się być bardzo zadowolony z efektów naszej pracy.
-    - [Ilana] kątem oka zauważa napis na jednej z teczek pośród papierów piętrzących się na biurku: _"Park im. Merigold"_.
+    - [Ilana](#g_ilana) kątem oka zauważa napis na jednej z teczek pośród papierów piętrzących się na biurku: _"Park im. Merigold"_.
     - Z okna dostrzegamy kapitana Braunna. Mężczyzna wykazuje wręcz niezdrowe zainteresowanie naszymi osobami. Szkolący właśnie nowych kadetów kapitan używa na nich podobnego wisiorka jak [Myrton](#p_lord_myrton) i [Igna](#p_igna) do wykrycia użytkowników magii.
 3. Z powrotem w kanał
-    - Wracamy do kanałów. [Kajetan] mało delikatnie wyrywa [Ilanie] kilka włosów i zabezpiecza nimi bramę - będziemy mieli pewność, że jesteśmy śledzeni jeśli ktoś zerwie je otwierając bramę.
+    - Wracamy do kanałów. [Kajetan](#g_kajetan) mało delikatnie wyrywa [Ilanie](#g_ilana) kilka włosów i zabezpiecza nimi bramę - będziemy mieli pewność, że jesteśmy śledzeni jeśli ktoś zerwie je otwierając bramę.
     - Ruszamy w głąb, ku wejściu do tuneli robaków. [Druidka](#g_ilana) eksperymentuje, sprawdzając na co stworzenia są wrażliwe, gdy [Kajetan](#g_kajetan) zauważa w cieniach śledzącego nas niziołka. Wywołany zwiewa aż się za nim kurzy.
     - [Kajetan](#g_kajetan) wysyła w głąb tuneli bandę przyzwanych stworków, które eksterminują mniejsze owady, a ich matkę (królową?) przeganiają, odsłaniając kolejny tunel pod ziemią. Tuneli jest więcej i zdają się ciągnąć w nieskończoność, rozgałęziać i zbiegać.
     - Oprócz konwencjonalnych obrażeń kłutych karaczany są wrażliwe na ogień i galaretowaty śluz zalegający w kanałach. Wychodzimy z kanałów odpocząć i zastanawiając się jak permanentnie usunąć szkodniki.
