@@ -1,0 +1,19 @@
+### Sesja 62
+1. Miejska eksterminacja robaków
+    - [Kajetan](#g_kajetan), wyczerpany sprzątaniem, rozmowami na odległość itp. namawia [Ilanę](#g_ilana) aby udała się do [burmistrza](#p_oleg) opowiedzieć że uwolnione opary to był nasz pomysł na przegonienie chrabąszczy, zanim ten wymyśli własną historię co narobiliśmy. Sam jest w dużej mierze bezużyteczny; gdyby okazało się że trzeba będzie szybko uciekać, nie miałby jak, więc zostaje w podziemiach.
+    - [Druidka](#g_ilana) widzi zwariowane od gazu owady, wyłażące na powierzchnię i straszące baby (i chłopów).
+    - Na rynku Kapitan Braunn z kilkoma rekrutami walczy z co większymi robalami. Zdaje się czym są większe, tym mniej ogłupiałe a bardziej rozwścieczone.
+    - Towarzystwo ([Ilana](#g_ilana), Braunn i [Oleg](#p_oleg)) przygotowuje miasto na długą noc usuwania owadów
+    - Po rozmowie [Ilana](#g_ilana) nabiera pewności - po tej samej stronie jest z Braunnem tylko w wirze walki, a gdy tylko kurz opadnie, [Łowca](Braunn) zamierza uczcić zwycięstwo paleniem magów, to jest [druidki](#g_ilana) i [elfa](#g_kajetan)
+    - [Kapitan](Braunn) ledwie zabija królową chrabąszczy, obraca się w stronę [dziewczyny](#g_ilana), zanim jednak zdąży wyartykułować jakiekolwiek oskarżenia, na rynek wjeżdżają konni pod przywództwem [Igny](#p_igna)
+    - Podczas gdy konkurujący ze sobą przywódcy [Łowców](#r_lowca) ciskają w siebie gromami, [Ilana](#g_ilana) stara się odebrać nagrodę od [burmistrza](#p_oleg) i zniknąć zanim autorytatywne postaci sobie o niej przypomną. Udaje się to jednak tylko częściowo
+    - [Igna](#p_igna) publicznie deklaruje, iż [druidka](#g_ilana) i [elf](#g_kajetan) są protegowanymi Księcia [Myrtona](#p_lord_myrton). Nie wielka to dla nas pociecha - gdy tylko Braunn odchodzi z rynku z niczym, dowiadujemy się że _mamy być_ w [Wyzimie](#l_wyzima) za siedem dni.
+    - [Kajetan](#g_kajetan), już wypoczęty, upewnia się że [dziewczynie](#g_ilana) nic się nie stało, po czym rozpoczyna naprawę kręgu
+    - [druidka](#g_ilana) wraca do podziemi. Przegania kilka chrabąszczy buszujących w częściowo zawalonym pomieszczeniu, znajduje kij podróżny - zaczarowany zdaje się.
+    - Naprawa udaje się częściowo - portal można aktywować, będzie jednak słaby, jako że zapas czystego srebra jaki mieliśmy okazał się niewystarczający.
+    - [elf](#g_kajetan) konsultuje się z [Keirą](#p_keira_metz) (informuje też że naprawa ostrosłupów nie wchodzi w grę, a wnętrze podziemi dywinować może sama [Triss](#p_triss_merigold) używając sentymentalnego rysunku jako kotwy, czarodziejka zaś, sądząc po tonie uszczypliwości zdaje się być zadowolona, wspomina też coś o nagrodzie), podczas gdy [Ilana](#g_ilana) wyrusza kolejny raz do miasta, szukając transportu do [Wyzimy](#l_wyzima), i, po wiadomości od [maga](#g_kajetan), kilku uncji srebra
+    - Karczmarz poleca [dziewczynie](#g_ilana) zapytać o transport dwie ponure postaci siedzące przy kubkach z alkoholem, które ponoć niedawno kupiły wóz.
+    - właścicielami wozu są, okazuje się, nasi ulubieńcy, Regan i Andy. Ich misja spaliła na panewce - nie mają ani złota, ani dziewczyn. Nie trzeba przekonywać ich długo, aby podjęli się przetransportowania podróżnych do [Wyzimy](#l_wyzima)
+    - [druidka](#g_ilana) rozmawia z dwoma handlarzami obwoźnymi. Kupuje od jednego srebrny dzbanuszek, a inny, strasznie kojarzący się jej z Panem Lusterko z pod [Brugge](#l_m_brugge), układa tarota i opowiada głupoty, które budzą dziwny niepokój
+    - [Kajetan](#g_kajetan), z nowym zapasem srebra, doprowadza krąg do stabilnego stanu i uruchamia go, po czym, nie myśląc wiele, dzieli się wieściami z [Keirą](#p_keira_metz).
+    - udajemy się na spoczynek
