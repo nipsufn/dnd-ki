@@ -5,7 +5,7 @@
     - Po mieście wałęsają się licznie wypłoszone z kanałów chrabąszcze. Niektóre z nich uciekają zdezorientowane, inne - większe - są agresywne i rzucają się na ludzi.
     - Na rynku Kapitan Braunn z kilkoma rekrutami walczy z co większymi robalami. [Ilana](#g_ilana), niewiele myśląc, przyłącza się do obrony miasta przed nacierającymi falami insektów. Zostaje przy tym raniona srebrną proszkową petardą rzuconą przez Łowcę.
     - Braunn zdaje się wywęszył u [druidki](#g_ilana) magię albo silnie wierzy w to, że dziewczyna jest czarownicą. Grozi jej pomiędzy wierszami.
-    - Nim druga fala insektów wyleje się spod ziemi, towarzystwo w składzie[Ilana](#g_ilana), Braunn i [Oleg](#p_oleg) przygotowuje miasto na ich skuteczne odparcie. Udaje się nawet unicestwić królową-matkę robali.
+    - Nim druga fala insektów wyleje się spod ziemi, towarzystwo w składzie [Ilana](#g_ilana), Braunn i [Oleg](#p_oleg) przygotowuje miasto na ich skuteczne odparcie. Udaje się nawet unicestwić królową-matkę robali.
     - [Kapitan](Braunn) ledwie zabija królową chrabąszczy, obraca się w stronę [druidki](#g_ilana), zanim jednak zdąży wyartykułować jakiekolwiek oskarżenia, na rynek wjeżdżają konni pod przywództwem [Igny](#p_igna).
 2. Propozycja nie do odrzucenia
     - Podczas gdy konkurujący ze sobą przywódcy [Łowców](#r_lowca) ciskają w siebie gromami, [Ilana](#g_ilana) stara się odebrać nagrodę od [burmistrza](#p_oleg) i zniknąć zanim autorytatywne postaci sobie o niej przypomną. Udaje się to jednak tylko częściowo.
@@ -23,8 +23,18 @@
     - Właścicielami wozu są, okazuje się, nasi ulubieńcy - Regan i Andy. Ich misja spaliła na panewce - nie mają ani złota, ani dziewczyn. Nie trzeba przekonywać ich długo, aby podjęli się przetransportowania podróżnych do [Wyzimy](#l_wyzima).
     - [Ilana](#g_ilana), ustaliwszy miejsce i czas odjazdu, zbiera się już do wyjścia, gdy otrzymuje wiadomość od [Kajetana](#g_kajetan). Elf prosi aby rozejrzała się za solidnym kawałkiem srebra potrzebnym do ukończenia reperacji kręgu.
     - [Druidka](#g_ilana) rozmawia z dwoma obwoźnymi handlarzami wskazanymi niezawodnie przez Oskara. Od pierwszego, lekko starszego domokrążcy kupuje srebrny dzbanuszek. Mężczyzna ma kilka innych ciekawych towarów, między innymi misternie wyrzeźbionego z kości słoniowej żołnierzyka przywiezionego z samej Aretuzy. Dziewczyna zadowala się jednak drobiazgiem w postaci malachitowego naszyjnika oprawnego w mosiądz.
-    - Drugi z kupców, natrętnie kojarzący się jej z Panem Lusterko spod [Brugge](#l_m_brugge), układa tarota. Towary, które oferuje są... specyficzne: srebrny medalion z płonącym mieczek, srebrny sztylet i srebrną papierośnicę z grawerunkiem błyskawic przecinających nocne niebo.
-    - Dziwny sprzedawca proponuje też grę i opowiada głupoty, które budzą dziwny niepokój. [Druidka](#g_ilana) szybko wycofuje się z konwersacji i wraca czym prędzej do kanałów.
+    - Drugi z kupców, natrętnie kojarzący się jej z Panem Lusterko spod [Brugge](#l_m_brugge), układa tarota. [Ilanie](#g_ilana) udaje się podejrzeć kilka kart:
+        - 1: dziewczynka przed bramą
+        - 2: drzewo w kręgu złożonym z 7 kamieni
+        - 3: pęknięte drzwi
+        - 4: ptaszek w klatce 
+    - Towary, które oferuje są... specyficzne: srebrny medalion z płonącym mieczem, srebrny sztylet i srebrna papierośnica z grawerunkiem błyskawic przecinających nocne niebo.
+    - Osobliwy sprzedawca proponuje też grę w pytania i opowiada głupoty, które budzą dziwny niepokój. [Druidka](#g_ilana) szybko wycofuje się z konwersacji i wraca czym prędzej do kanałów.
+    - Przy wejściu do kanałów [Ilanę](#g_ilana) odnajduje pustułka wysłana przez [Finarrina](#p_druid_finarrin). Ptak przynosi wieści:
+        +  Ivar i Skovik podczas nieobecności druidów udali się na łowy i zbierając wokół siebie chłopów ruszyli na zabicie bestii z ostatniej wsi
+        + Nie byli w stanie uziemić latającego stwora ze skrzydłami nietoperza, jednak na odsiecz przybył im nowy czarodziej z Verden, na widmowym koniu
+        + Lars odwiedził druida w wiosce jako wysłannik Kistrina by połączyć siły w odbudowie miasta
+    - [Druidka](#g_ilana), zaskoczona i zdenerwowana otrzymanymi informacjami, naprędece kleci odpowiedź i odsyła pustułkę do wioski, jednak bez większej nadziei na dotarcie wiadomości - dziewczyna podejrzewa, że mentor może już dawno być w drodze do [Verden](#l_verden).
 5. Finał naprawy
     - [Kajetan](#g_kajetan), z nowym zapasem srebra, doprowadza krąg do stabilnego stanu i uruchamia go, po czym, nie myśląc wiele, dzieli się wieściami z [Keirą](#p_keira_metz).
     - Pokój wydaje się nieznacznie przesunięty. [Elf](#g_kajetan) wyjaśnia, że ma to związek z kalibracją kręgu, którego ten wymagał po naprawie.

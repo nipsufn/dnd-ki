@@ -3,20 +3,20 @@
 1. [Fiolka Zdrowia](#l_fiolka_zdrowia)
     - Po wyjściu z kanałów i dziwnej zmianie czasu swoje pierwsze kroki kierujemy do Fiolki, do [Vigga](#p_viggo_regner).
     - [Viggo](#p_viggo_regner) zdaje się być bardzo zaskoczony naszym widokiem. Uświadamia nas, że od naszej wyprawy minęły 2 miesiące, a nie 2 dni.
-    - Alchemik zaprasza nas do swojego *nieoficjalnego- warsztatu ukrytego za obrazem, drzwiami i magiczną iluzją.
+    - Alchemik zaprasza nas do swojego **nieoficjalnego** warsztatu ukrytego za obrazem, drzwiami i magiczną iluzją.
     - W pracowni siedzi gnomka. Ma na imię [Lukrecja](#p_lukrecja_schattenwort), ale my poznaliśmy ją już wcześniej - jako [Janusa](#p_lukrecja_schattenwort).
     - Wypytujemy o to, co działo się pod naszą nieobecność. Tak dowiadujemy się, że:
         - [Viggo](#p_viggo_regner) jest teraz w lepszej sytuacji, mianowano go nawet członkiem rady miasta
-        - możliwe że będzie miał więcej pracy
+        - możliwe, że będzie miał więcej pracy
         - jego [żona](#p_pani_regner) jest katatoniczna, a on się nią opiekuje
         - był/jest magiem, [żona](#p_pani_regner) też
         - ma asystentkę gnomkę, [Lukrecję](#p_lukrecja_schattenwort), która na co dzień ukrywa się pod iluzją jako [Janus](#p_janus)
         - [Brokilon](#l_brokilon) rozrósł się, drzewa chodzą, Driady mają się świetnie atakując już nawet zwykłych ludzi i tocząc otwartą, krwawą wojnę
-        - [Maribor](#l_maribor) zniknął jakby ścięty nożem na wysokości gruntu.
+        - [Maribor](#l_maribor) zniknął jakby ścięty nożem na wysokości gruntu
         - trakty są niebezpieczne
-        - wieś na południe od miasta którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycowa Noc
-        - [Łowcy](#r_lowca) skupiają się teraz na **Potworach**, nie **Czarownicach**- i stąd też przemianowali się na *Łowców Potworów*
-        - w mieście znaleziono i spalono kryjówkę leśnych zbójów ( czyżby wrogiej kontrabandy [Temerskiej](#l_temeria)?) - odkryto też tunel prowadzący z kryjówki do jaskini w lesie
+        - wieś na południe od miasta, którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycową Noc
+        - [Łowcy](#r_lowca) skupiają się teraz na **Potworach**, nie **Czarownicach** - i stąd też przemianowali się na *Łowców Potworów*
+        - w mieście znaleziono i spalono kryjówkę leśnych zbójów (czyżby wrogiej kontrabandy [Temerskiej](#l_temeria)?) - odkryto też tunel prowadzący z kryjówki do jaskini w lesie
     - [Kajetan](#g_kajetan) prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini, co nie udaje się całkowicie.
 2. Rynek
     - Wychodząc od [Vigga](#p_viggo_regner), zauważamy poruszenie wśród miejskiej gawiedzi. Są podekscytowani i tłoczą się w stronę rynku.
@@ -60,8 +60,8 @@
         - radzi sobie nie najgorzej - zdecydowanie lepiej niż [Różyczka](#l_rozyczka)
         - miasto zdaje się być zamknięte i nikt bez glejtu nie wejdzie do ani nie wyjdzie z miasta
         - problemy na drogach ubijają handel - mniej podróżnych i problem z zaopatrzeniem
-        - glejty do miasta wystawia się tylko dla ludzi którzy handlują aby oszczędzać pozostałe zasoby na przyjezdnych
-        - parki prze-aranżowano w tymczasowe farmy
+        - glejty do miasta wystawia się tylko dla ludzi, którzy handlują aby oszczędzać pozostałe zasoby na przyjezdnych
+        - parki przearanżowano w tymczasowe farmy
         - w [Wyzimie](#l_wyzima) jest jeszcze gorzej niż w [Ellander](#l_ellander) - tamtejszy Lord rządzi twardą ręką w czasie głodu
     - W tawernie spotykamy grupkę strażników. Jeden z nich został ugryziony przez szczura.
     - [Ilana](#g_ilana) oferuje pomoc, strażnik niechętnie pokazuje ranę. 

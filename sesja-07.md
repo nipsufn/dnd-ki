@@ -13,12 +13,12 @@
     - [Ilana](#g_ilana) zamienia się w czasie snu w niedźwiedzia i robi straszny raban, rano nic nie pamięta. Z niemal wmuszoną pomocą [Matki Ioli](#p_matka_iola) bierze udział w transie i przypomina sobie swój sen.
     - Nie chcąc nadużywać gościny kapłanek powoli sposobimy się do drogi. [Eliza](#p_eliza) decyduje się zostać jeszcze trochę z [Darią](#p_daria).
     - Sierżant obozu prosi nas o dostarczenie listu do koszarów w [Ellander](#l_ellander).
-    - W drodze do [Ellander](#l_ellander) mijamy karawanę z chorymi - [Kasimir](#g_kasimir) już poinformował że kapłanki znów pomagają przyjezdnym.
+    - W drodze do [Ellander](#l_ellander) mijamy karawanę z chorymi - [Kasimir](#g_kasimir) już poinformował, że kapłanki znów pomagają przyjezdnym.
 2. [Ellander](#l_m_ellander)
     - [Różyczka](#l_rozyczka) odżyła - kapłani są zajęci sobą po śmierci głównego [Kapłana Matiasa](#p_kaplan_matias).
     - [Viggo](#p_viggo_regner) napisał dla nas list polecający do [Lorda Myrtona](#p_lord_myrton) - chcemy wejść do siedziby [Łowców](#r_lowca) bez problemu i odebrać nasze glejty.
-    - Jakiś podchorąży[<sup>1</sup>](#ad1) odebrał pismo które przekazał nam sierżant obozu redańczyków - to były złe wiadomości. Dostaliśmy 20GP(?).
-    - [Lord Myrton](#p_lord_myrton) wypłacił nam 100GP, wziął na spytki i poczęstował winem ze srebrnych kielichów. Widać było że bada nasze reakcje, bawiąc się przy tym medalionem [Łowców](#r_lowca) (czyżby mieli podobne amulety reagujące na magię jak wiedźmini?). [Ilana](#g_ilana) z trudem powstrzymała się siłą woli od gwałtownej reakcji na kontakt ze srebrem - prawie ją otrzepało.
+    - Jakiś podchorąży[<sup>1</sup>](#ad1) odebrał pismo, które przekazał nam sierżant obozu redańczyków - to były złe wiadomości. Dostaliśmy 20GP(?).
+    - [Lord Myrton](#p_lord_myrton) wypłacił nam 100GP, wziął na spytki i poczęstował winem ze srebrnych kielichów. Widać było, że bada nasze reakcje, bawiąc się przy tym medalionem [Łowców](#r_lowca) (czyżby mieli podobne amulety reagujące na magię jak wiedźmini?). [Ilana](#g_ilana) z trudem powstrzymała się siłą woli od gwałtownej reakcji na kontakt ze srebrem - prawie ją otrzepało.
     - [Lord Myrton](#p_lord_myrton) pozwala na nasze działanie w mieście blisko mu się przyglądając tak długo jak spełniamy bliżej nieokreślone (rzecz jasna przez niego) zasady.
     - Wymieniamy sztuki złota i pozbywamy się mieszka który dał nam [Lord Myrton](#p_lord_myrton).
     - [Viggo](#p_viggo_regner) obiecał znaleźć dla nas pracę jeśli zdecydujemy się zimować w [Ellander](#l_m_ellander) **[Zadanie: Szczurołapa zatrudnię od zaraz](#z_q8)**
