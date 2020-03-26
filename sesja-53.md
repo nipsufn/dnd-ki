@@ -4,7 +4,7 @@
     - [Ilana](#g_ilana), nie wiedząc co ze sobą uczynić zaczyna pakować rzeczy, które planuje zabrać ze sobą do [Col Serrai](#l_col_serrai). 
     - Spakowawszy wszystko, co potrzebne druidka wystawia przed dom bujany fotel ojca. W powietrzu czuć już pierwszy powiew wiosny, więc opatulona w kożuch siada z zamiarem spędzenia tych kilku godzin na dalszej nauce języka wyspiarzy.
     - Nauki zostają przerwane przez gołębia, który przyleciał do wioski i zdaje się kogoś szukać. [Ilana](#g_ilana) rozmawia z ptakiem - przynosi on wieści od druidów z [Verden](#l_verden). Za nim zjawia się cała chmara jemu podobnych. Z wygłoszonych niemal chórem wiadomości druidka dowiaduje się, że:
-        - część z wiadomości pochodzi od Gabiego, którego wszyscy w wiosce z racji na posturę wołali Ropuchem
+        - część z wiadomości pochodzi od Gardiego, którego wszyscy w wiosce z racji na posturę wołali Ropuchem
         - on i reszta druidów dotarli do stolicy
         - woda w studniach zmieniła swój kolor na czerwony
         - ludzie obwiniają elfy i nieludzi za zarazę
