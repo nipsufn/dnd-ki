@@ -105,6 +105,11 @@
         - wielki robak podobny do stonogi
         - żyje w wodzie, w kanałach - nie widzieliśmy żeby z niej wyszedł
         - przy gębie ma macki z igłami na końcu - ukłucie może sparaliżować - którymi unieruchamia ofiarę/przeciwnika pomagając sobie w posiłku
+    - <a id='b_zababa' pattern='[Żż]ababa*'>Żababa</a>
+        - pół żaba pół baba
+        - ma torbę z ludkich skór z których rzuca przeklętymi rzeczami, np. czaszkami zamieniającymi się w odporne na błyskawice ogniki
+        - dookoła niej lata cień, który bierze na siebie część obrażeń i rozrywa kogokolwiek kto próbuje się zbliżyć
+        - oblizuje się obrzydliwie na myśl, widok dzieci
 <div align="right"><i><a id='ad1'></a><sup>1</sup>
 <a href="https://nipsufn.github.io/journal.html#p_druid_finarrin">Druid Finarrin</a>, 1276 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing">PP</a>
 </i></div>

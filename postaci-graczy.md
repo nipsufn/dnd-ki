@@ -25,7 +25,7 @@
             - Pierścień ochrony +1 do rzutów obronnych
             - Elficka Kolcza Koszula (chain shirt, AC13 + DEX (nie więcej niż 2), można używać magii - lekka)
             - Krasnoludzki Sihill 2d4/3d4 (jedno/dwu ręczny) + 1
-            - Śnieżka [Aurila](#p_auril) 9/10 ładunków, każdy ładunek: użyj akcji aby odzyskać spell slot do 3go poziomu, wyższe - zostają sprowadzone do 3go
+            - Śnieżka [Aurila](#p_auril) 8/10 ładunków, każdy ładunek: użyj akcji aby odzyskać spell slot do 3go poziomu, wyższe - zostają sprowadzone do 3go
             - Elficki sztylet (+1 jeśli użyty z DEX, 18,19,20=CRIT)
             - Ciężka kusza
             - 35 bełtów
@@ -42,11 +42,11 @@
             - 2 krystaliczny kawałek [dwimerytu](#r_dwimeryt), odbierający Moc
             - Nalewka z mandragory, 2/3 butelki
             - 12 porcji inkaustu
-            - 4 porcje kadzidła
+            - 3 porcje kadzidła
             - 4 porcje pyłu kamieni szlachetnych
             - 8 porcji kredy
-            - 5 miarek Izzotoniku (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
-            - 184.0.8 gp
+            - 3 miarki Izzotoniku (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
+            - 27.5.0 gp
             - 5 butelek bimbru
             - Thieves Tools
             - Z [Craag An](#l_craag_an):
@@ -59,8 +59,9 @@
                 - Medalion posłusznika zakonu Zielonych Rycerzy
                 - 4 kryształy na zaklęcia
     - Znane kręgi teleportacyjne:
-        - [Craag An](#l_craag_an)
         - [Ban Ard](#l_ban_ard)
+        - [Craag An](#l_craag_an)
+        - [Maribor](#l_maribor)
     - Plany:
         - Obejrzeć medalion i monety znalezione w warowni w [Craag An](#l_craag_an)
         - Zachować zaklęcia w kryształach

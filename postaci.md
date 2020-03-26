@@ -181,7 +181,7 @@
     - <a id='p_wojciech' pattern='Wojciech*'>Wojciech</a> - ; majster drwali;
         mieszka na podgrodziu;
         [Otto](#p_otto_kranmer) [Kranmer](#p_otto_kranmer): pracodawca; [Hans](#p_hans_kranmer) [Kranmer](#p_otto_kranmer): pracodawca
-    - <a id='p_maria' pattern='Mari*'>Maria</a> - półelf; gospodarz;
+    - <a id='p_maria' pattern='Maria,Marii'>Maria</a> - półelf; gospodarz;
         prowadzi gospodę "[Różyczka](#l_rozyczka)" z mężem;
         [Walerian](#p_walerian): mąż, partner
     - <a id='p_walerian' pattern='Walerian*'>Walerian</a> - półelf; gospodarz;
