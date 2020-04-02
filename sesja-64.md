@@ -67,6 +67,6 @@
     - Obecne na wozie dzieci lekko spowalniają podróż. [Kajetan](#g_kajetan) wypuszcza swojego chowańca na zwiad podczas jednego z krótkich postojów po drodze.
     - Rzeczywiście, [Łowcy](#r_lowca) z karczmy rzucili się w pościg za nami, jednak mają do nas co najmniej cztery godziny. Coś musiało ich zatrzymać w mieście - przełożeni? [Grododzierżca](Landosz)?
     - Jako że do [Wyzimy](#l_wyzima) z tej okolicy jest najdalej dwa dni pieszej wędrówki, a zostało nam jeszcze z pół dnia jazdy, opuszczamy wóz na postoju przy jednej z przydrożnych karczm licząc, że [Łowcy](#r_lowca), nie znajdując nas w wozie, nie będą zbytnio męczyć pozostałych. 
-    - Na odchodne radzimy [kupcowi](Dusek) żeby nie reklamował się zbytnio z co ciekawszymi przedmiotami ze swojej kolekcji. W zamian zostają nam polecone dwa godne uwagi zajazdy w Wyzimie  - "Pod Lisem" oraz "Miś Kudłacz".
+    - Na odchodne radzimy [kupcowi](Dusek) żeby nie reklamował się zbytnio z co ciekawszymi przedmiotami ze swojej kolekcji. W zamian zostają nam polecone dwa godne uwagi zajazdy w [Wyzimie](#l_wyzima)  - "Pod Lisem" oraz "Miś Kudłacz".
     - Odbijamy w pola i wsie, idąc mniej-więcej równolegle do traktu. Po zmroku ostrożnie urządzamy nocleg w jakiejś stodole przy jednym z licznych gospodarstw jakie mijamy. [Kajetan](#g_kajetan) tworzy magiczne schronienie na strychu, które [Ilana](#g_ilana) zakopuje w sianie.
     - Oczami sowy [mag](#g_kajetan) widzi dwóch z czwórki [Łowców](#r_lowca), wychodzących z odsłoniętymi mieczami z karczmy, przy której zleźliśmy z wozu.
