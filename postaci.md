@@ -9,6 +9,9 @@
     - potrafi się zamieniać w sowę, możliwe inne zwierzęta
     - oślepiona przez [Radowida](#p_krol_radowid) gdy przejął od niej władzę nad [Redanią](#l_redania) (była regentką)
     - potencjalna winowajczyni nienawiści [Radowida](#p_krol_radowid) do Mocy i magów
+- <a id='p_fiona' pattern='Fion*'>Fiona</a>
+    - podąża ścieżką wiedźminów
+    - może korzystać i ma dostęp do ich eliksirów
 - <a id='p_geralt' pattern='Geral*,Geral* z Rivii,Biał* Wilk*,Vadgern*'>Greralt z Rivii</a> - człowiek, wiedźmin
     - odczarował chłopa zamienionego w kormorana w [Kerack](#l_kerack)
     - miał okazję rozmawiać z pokojowo nastawionym wilkołakiem w [Wyzimie](#l_wyzima)
@@ -74,6 +77,8 @@
     - <a id='p_druid_finarrin' pattern='Finarrin*,[Hh]ierofan*,Druid* Finarrin*'>Druid Finarrin</a> - ; druid
         [Hierofanta](https://en.wikipedia.org/wiki/Heffalump) [Brokilońskiego](#l_brokilon) kręgu druidzkiego
         Uczył [Ilanę](#ilana)
+    - <a id='p_gardi' pattern='Gardi*'>Gardi</a>
+        druid, wołany Ropuch
     - <a id='p_gebo' pattern='Geb*'>Gebo</a> - niedźwiadek;
         uratowany przez [Ilanę](#g_ilana) i [Finarrina](#p_druid_finarrin) w czasie wędrówki do [Craag An](#l_craag_an)
     - <a id='p_juniper' pattern='Juniper'>Juniper</a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
@@ -211,12 +216,14 @@
     - <a id='p_filavandrel' pattern='Filavandrel* Aen Fidhail,Filavandrel*'>Filavandrel Aen Fidhail ze Srebrnych Wież</a> - elf; mag
         potężny i stary elfi mag
         zorganizował wyprawę archeologiczną w której brał udział [Kajetan](#g_kajetan)
+    - <a id='p_isilme' pattern='Isilme*'>Isilme</a> - elf, ziwadowca;
+        brał udział w tej samej wyprawie co [Kajetan](#g_kajetan)
+        pojmany i wykorzystany do badań nad [dwimerytową](#r_dwimeryt) zarazą przez [Łowców](#r_lowca) i [Menge](#p_menge)
 - [Kaedwen](#l_kaedwen)
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
 - [Kerack](#l_kerack)
     -<a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*'>Książę Viraxas</a> - ;
     -<a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
-    
 - [Nilfgaard](#l_nilfgaard)
     - <a id='p_emhyr' pattern='Cesarz* Ehmyr*,Ehmyr*'>✝ Emhyr</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
 - [Redania](#l_redania)
@@ -228,6 +235,14 @@
     - <a id='p_menge' pattern='Menge*'>✝ Menge</a> - ; przywódca zakonu [Łowców](#r_lowca)
         [Lord Slyz Myrton](#p_lord_myrton): podwładny
     - <a id='p_hemmelfart' pattern='Hemmelfart'>Cyrus Engelkind Hemmelfart</a> - kapłan; Główny Kapłan kultu Wiecznego Ognia
+    - [Novigrad](#l_novigrad)
+        - <a id='p_tasak' pattern='Tasak*'>Tasak</a>
+            - gangster, jeden z czterech trzęsących miastem
+            - brat: [Bosak](#p_bosak)
+        - <a id='p_bosak' pattern='Bosak*'>Bosak</a>
+            - gangster, jeden z czterech trzęsących miastem
+            - wyjechał po kłótni z bratem
+            - brat: [Tasak](#p_tasak)
 - [Świątynia Melitele](#l_smelitele):
     - <a id='p_matka_iola' pattern='Mat* Iol*,Iol*'>Matka Iola</a> - ; kapłanka;
 - [Temeria](#l_temeria)
@@ -245,6 +260,20 @@
             - wysoko postawiony agent Redańskich Sił Specjalnych, możliwe że podwładny samego [Dijkstry](#p_dijkstra)
             - wyruszył do [Wyzimy](#l_wyzima) niedługo po tym, jak pozbyliśmy się naszych listów gończych z [Brugge](#l_m_brugge)
         - <a id='p_oleg' pattern='Oleg*'>Permanentny Burmistrz Mariboru</a>
+        - <a id='p_braunn' pattern='Braunn*'>Kapitan Braunn</a>
+    - [Wyzima](#l_wyzima)
+        - <a id='p_dusek' pattern='Kup* Dusek,Dusek'>Dusek</a>
+            - agent [Myrtona](#p_lord_myrton)
+        - <a id='p_baranina' pattern='Baranin*'>Baranina</a>
+            - kieruje organizacją przestępczą, oferuje "ubezpieczenia"
+        - <a id='p_grimma' pattern='Grimm*'>Grimma</a>
+            - Karczmarz, prowadzi "Pod Lisem" w dzielnicy nieludzi
+        - <a id='p_vivaldi' pattern='Vime Vivaldi*,Vivaldi*'>Vime Vivaldi</a>
+            - właściciel banku [Vivaldich](#p_vivaldi) (w [Wyzimie](#l_wyzima)?)
+    - [Burdoff](#l_burdoff)
+        - <a id='p_landosz' pattern='Landosz*'>Grododzierżca Landosz</a>
+    - [Zavada](#l_zavada)
+        - <a id='p_lavalette' pattern='Baroness*,Baroness* Matyld* la Valette,Matyld* la Valette'>Baronessa Matylda la Valette</a>
     - <a id='p_morgan' pattern='Morgan* Guus,Morgan*'>Morgan Guus</a>
         - karczmarz
         - opuścił [Novigrad](#l_novigrad) przez coraz bardziej nieprzyjazną nieludziom atmosferę
@@ -252,7 +281,15 @@
     - <a id='p_karoll' pattern='Madame Karoll,Karoll'>Madame Karoll</a>
         - prowadzi(ła?) obwoźny burdel na granicach z [Nilfgaardem](#l_nilfgaard), zarabiając na utrzymanie Wiewiórek
         - [Enid](#p_enid), jako jedna z jej byłych "pracownic", pała doń rządzą zemsty
+    - <a id='p_andy' pattern='Andy*,Andi*,Andy.*'>Andy Breckenriggs</a>
+        - niziołek, szukał dziewczyn i złota Karrol
+        - przewiózł nas z [Reganem](#p_regan) pod [Wyzimę](#l_wyzima)
+    - <a id='p_regan' pattern='Regan*'>Regan Biberwelt</a>
+        - krasnolud, szukał dziewczyn i złota Karrol
+        - przewiózł nas z [Andym](#p_andy) pod [Wyzimę](#l_wyzima)
+        - ma na przedramieniu wytatuowany symbol [Novigradzkiego](#l_novigrad) gangu [Tasaka](#p_tasak)
 - [Verden](#l_verden)
+    -<a id='p_ksiaze_kistrin' pattern='Ksi* Kistrin*,Kistrin*'>Kistrin</a> - ;
     - [Lokij](#l_lokij)
         - <a id='p_niemoj' pattern='Niem[óo]*,Sołtys* Niem[óo]*'>Sołtys Niemój</a>
 - [Wyspy Skellige](#l_wyspy_skellige)

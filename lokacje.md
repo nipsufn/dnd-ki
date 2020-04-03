@@ -92,7 +92,7 @@
         - Stolica wyznawców wiecznego Ognia
     - <a id='l_oxenfurt' pattern='Oxenfur*'>Oxenfurt</a>
         [Viggo](#p_viggo_regner) [Regner](#p_viggo_regner) - miejsce nauki
-        - <a id='l_dom_borsodych' pattern='Dom* Aukcyjn* Braci Borsodych'>Domu Aukcyjnym Braci Borsodych</a>
+        - <a id='l_dom_borsodych' pattern='Dom* Aukcyjn* Braci Borsodych'>Dom Aukcyjny Braci Borsodych</a>
     - <a id='l_rinbe' pattern='Rinbe'>Rinbe</a>
         - Położone nad północym brzegiem Pontaru
         - Lokacja jednego z laboratoriów [Vilgefortza](#p_vilgefortz)
@@ -114,6 +114,8 @@
         - Stoi na nim samotne drzewo - dobry punkt do teleportacji
     - <a id='l_cleves' pattern='Cleves'>Cleves</a>
         - fort wojskowy, niedaleko [Mariboru](#l_maribor)
+    - <a id='l_burdoff' pattern='Burdoff'>Burdoff</a>
+    - <a id='l_zavada' pattern='Zavada*'>Zavada</a>
 - <a id='l_sodden' pattern='Sodden'>Sodden</a>
 - <a id='l_toussaint' pattern='Toussaint'>Toussaint</a>
     - <a id='l_beauclair' pattern='Beauclair'>Beauclair</a>

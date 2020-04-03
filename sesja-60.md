@@ -2,7 +2,7 @@
 1. Wieści i zlecenie
     - Budzimy się rano w miarę wypoczęci. Idziemy do ratusza dopytać o szczegóły zlecenia na chrabąszcza. [Burmistrza](#p_oleg) nie zastajemy - strażnicy odsyłają nas do karczmy.
     - W [Nowym Zrębie](#l_nowy_zrab) [Oleg](#p_oleg) przekazuje mieszczanom wieści jakie otrzymał od gońca - [Addę](#p_adda), królową [Temerii](#l_temeria), oraz nowonarodzonego księcia [Foltesta](#p_foltest) zaatakowała jakaś czarownica, pewnikiem sama [Filippa Eilhart](#p_filippa_eilhart). Królowej nic nie jest, jednak książę został zauroczony.
-    - W związku z atakiem polowanie na czarownice zostaje wznowione. W karczmie widzimy młodego kapłana, nie posiadającego się z radości, niecierpliwie czekającego na swoją część przemówienia o roli kultu Wiecznego Ognia. Widzimy też - przyglądającego nam się z resztą - mężczyznę przedstawionego motłochowi jako Kapitan Braunn, członek zakonu [Łowców Czarownic](#r_lowca) (już nie _Potworów_, najwyraźniej te bronią się bardziej niż baby z krostami na nosie i niespokojnie śpiące dzieci).
+    - W związku z atakiem polowanie na czarownice zostaje wznowione. W karczmie widzimy młodego kapłana, nie posiadającego się z radości, niecierpliwie czekającego na swoją część przemówienia o roli kultu Wiecznego Ognia. Widzimy też - przyglądającego nam się z resztą - mężczyznę przedstawionego motłochowi jako Kapitan [Braunn](#p_braunn), członek zakonu [Łowców Czarownic](#r_lowca) (już nie _Potworów_, najwyraźniej te bronią się bardziej niż baby z krostami na nosie i niespokojnie śpiące dzieci).
     - Kapitan przyjechał aż z [Novigradu](#l_novigrad) i szuka ochotników do stworzenia nowego oddziału [Łowców](#r_lowca). Ma na sobie herb, który kojarzymy już dość dobrze - trzy głowy przebite mieczem.
     - Tłum rozchodzi się. Rozmawiamy z [Olegiem](#p_oleg):
         - opowiadamy jak natknęliśmy się na rdzawe chrabąszcze idąc w kierunku [Mariboru](#l_maribor) od [Góry Carbon](#l_gora_carbon) jakiś czas temu, oraz o krasnoludach, które walczą z podobnym problemem
@@ -18,7 +18,7 @@
     - W kanałach udajemy się do początku korytarza chrabąszczy. Łapiemy jednego mniejszego osobnika na przynętę - okazuje się, że czułki i żuwaczki bestii niszczą metal, doprowadzając go do stanu, w którym jest dla nich jadalny.
     - Wyruszamy z naszym okazem do [Olega](#p_oleg) udowodnić, że nasza teoria jest słuszna. [Burmistrz] zdaje się być bardzo zadowolony z efektów naszej pracy.
     - [Ilana](#g_ilana) kątem oka zauważa napis na jednej z teczek pośród papierów piętrzących się na biurku: _"Park im. Merigold"_.
-    - Z okna dostrzegamy kapitana Braunna. Mężczyzna wykazuje wręcz niezdrowe zainteresowanie naszymi osobami. Szkolący właśnie nowych kadetów kapitan używa na nich podobnego wisiorka jak [Myrton](#p_lord_myrton) i [Igna](#p_igna) do wykrycia użytkowników magii.
+    - Z okna dostrzegamy kapitana [Braunna](#p_braunn). Mężczyzna wykazuje wręcz niezdrowe zainteresowanie naszymi osobami. Szkolący właśnie nowych kadetów kapitan używa na nich podobnego wisiorka jak [Myrton](#p_lord_myrton) i [Igna](#p_igna) do wykrycia użytkowników magii.
 3. Z powrotem w kanał
     - Wracamy do kanałów. [Kajetan](#g_kajetan) mało delikatnie wyrywa [Ilanie](#g_ilana) kilka włosów i zabezpiecza nimi bramę - będziemy mieli pewność, że jesteśmy śledzeni jeśli ktoś zerwie je otwierając bramę.
     - Ruszamy w głąb, ku wejściu do tuneli robaków. [Druidka](#g_ilana) eksperymentuje, sprawdzając na co stworzenia są wrażliwe, gdy [Kajetan](#g_kajetan) zauważa w cieniach śledzącego nas niziołka. Wywołany zwiewa aż się za nim kurzy.
