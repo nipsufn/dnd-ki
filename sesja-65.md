@@ -65,6 +65,6 @@
         - ochronę przed podglądaniem z pomocą czarów może nam zapewnić [Dusek](#p_dusek) - będziemy musieli jednak mu pomóc z jakąś sprawą na bagnach pod [Wyzimą](#l_wyzima)
     - w pewnym momencie rozmowę przerywa nam młoda kobieta, wyglądająca z przyległego pomieszczenia - żona [Księcia](#p_lord_myrton)
     - zostajemy odprowadzeni na zewnątrz przez [Ignę](#p_igna)
-        - [Ilana](#g_ilana) dowiaduje się, że żona [Myrtona](#p_lord_myrton), którą kojarzy z łaźni [Ellander](#l_ellander), to dziedziczka [rodu Harevard](p_rodzina_harevard) - Lord wżenił się, by władać księstwem
+        - [Ilana](#g_ilana) dowiaduje się, że żona [Myrtona](#p_lord_myrton), którą kojarzy z łaźni [Ellander](#l_ellander), to dziedziczka [rodu Harevard](#p_rodzina_harevard) - Lord wżenił się, by władać księstwem
         - [Łowcy](#r_lowca) mają jakieś pojęcie o planach [Myrtona](#p_lord_myrton) - nie cierpią jego frakcji z pasją
     - [Kajetan](#g_kajetan) wyczuwa, że większość podwładnych [Księcia](#p_lord_myrton) ma i tłumi swoje predyspozycje do korzystania z Mocy
