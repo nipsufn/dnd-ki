@@ -1,5 +1,10 @@
 ## Różne
 - <a id="r_lowca" pattern='Łowc* czarownic,Łowc*'>Łowcy czarownic / potworów</a>
+- <a id="r_zakon" pattern='Zakon* Płonącej Róży'>Zakon Płonącej Róży</a>
+    - wywodzi się z [Ellander](#l_ellander)
+    - miał zastąpić wiedźminów, pozbywać się potworów jako część swojej posługi
+    - przez jakieś zamieszki polityczne został rozwiązany
+    - z jego pozostałości [Radowid](#p_krol_radowid) stworzył [Łowców](#r_lowca) Czarownic
 - <a id="r_kapitula" pattern='Kapitu*'>Kapituła</a> - rada magów która motała w polityce zanim Redańczycy i Kapłani Wiecznego Ognia zaprowadzili swój porządek
 - <a id="r_dwimeryt" pattern='[Dd]wimery*'>Dwimeryt</a> - metal wydobywany pod [górą Carbon](#l_gora_carbon) w [Mahakamie](#l_mahakam), uniemożliwia magom korzystanie z Mocy
 - <a id="r_goecja" pattern='[Gg]oecj*'>Goecja</a> - szkoła magi skupiająca się na kontrolowaniu dusz i sił życiowych

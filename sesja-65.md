@@ -23,7 +23,7 @@
     - Zachodzimy do bram, gdzie zostajemy chłodno powitani przez tych od trzech głów. Wyśmiawszy nasze zapytanie o [Ignę](#p_igna), odsyłają nas z kwitkiem splunąwszy na do widzenia.
 3. Stary-nowy znajomy
     - Niepocieszeni, pozbawieni dalszych pomysłów, zachodzimy do Kudłacza strategicznie ulokowanego naprzeciw innego przybytku o wdzięcznej nazwie "_Chętne Uda_".
-    - W karczmie, oprócz podejrzanie wyglądającej grupki robiącej interesy pod stołem, zastajemy handlarza Duska.
+    - W karczmie, oprócz podejrzanie wyglądającej grupki robiącej interesy pod stołem, zastajemy handlarza [Duska](#p_dusek).
     - Wdajemy się w krótką pogawędkę. Podobno konni, którzy dognali wóz na trakcie, nie należeli do Zakonu. Oprychy zdaje się odpuściły jednak po dłuższej dywagacji.
     - Dowiadujemy się też, że nasi woźnice zatrzymali się "_Pod Lisem_".
     - Jeden z handlarzy ze stolika w rogu zdaje się być mnichem. Targ idzie o coś, co przypomina blok kadzidła.
@@ -48,7 +48,7 @@
     - Zostaliśmy wpuszczeni do pokoju dziennego, połączenia salonu, jadalni i pracowni, raczej bogato urządzonego. Na półkach stoją księgi, których raczej nie spodziewalibyśmy się w fortecy należącej do [Łowców](#r_lowca): między almanachami i księgami o historii religi znajdują się pozycje takie jak "Bramy Tajemnicy" pióra Ransanta Alvaro czy "O koniunkcji Sfer"
     - po kilku chwilach z przylegającego pomieszczenia wchodzi Książę [Myrton](#p_lord_myrton) w towarzystwie [Igny](#p_igna). Zaprasza nas do stołu.
     - rozmawiamy przy posiłku
-        - Oficjalna wersja wydarzeń z zamku, o Księciu Folteście przeklętym i porwanym przez [Filippę Eilhart](#p_filippa_eilhart), pomija fakt, że porywacz prawdopodobnie podszył się zaledwie pod znaną [czarodziejkę](#p_filippa_eilhart)
+        - Oficjalna wersja wydarzeń z zamku, o [Księciu Folteście](#p_krol_foltest) przeklętym i porwanym przez [Filippę Eilhart](#p_filippa_eilhart), pomija fakt, że porywacz prawdopodobnie podszył się zaledwie pod znaną [czarodziejkę](#p_filippa_eilhart)
         - [Król Radowid](#p_krol_radowid) doskonale zdaje sobie sprawę że swoją polityką naraża się na podobnie ataki; wie, że na dłuższą metę nie jest możliwe prowadzenie królestwa, a tym bardziej obrona, bez dostępu do Mocy
         - Co więcej, najbliżsi doradcy [władcy](#p_krol_radowid) zaczynają pracować nad przywróceniem magów do społeczeństwa, mając nadzieję kontrolować ich wpływy i przywileje na modłę [Nilfgaardzką](#l_nilfgaard) jeśli będzie to możliwe
         - Istnieje kilka równoległych planów, jak tego dokonać. Wiemy, że [Dijkstra](#p_dijkstra) pracuje nad swoim; [Myrton](#p_lord_myrton) ma własny pomysł w realizacji którego mu pomożemy

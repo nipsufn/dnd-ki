@@ -5,7 +5,7 @@
     - Docieramy do skarpy przy rzece. [Kajetan](#g_kajetan) zsuwa się wprost na jeszcze ciepłe zwłoki Łowcy-zbiega. Zabiera jego pancerz i przetrzepuje kieszenie.
     - Obserwujemy atak na wóz ([Łowców](#r_lowca) czarownic?) zorganizowany przez bandytów (Specjalne Służby [Temerskie](#l_temeria)?) wypadających z zasadzki.
     - Przyczajamy się w chaszczach, póki bandyci nie odjadą.
-    - Ryzykując walkę z utopcami, na próżno próbujemy przeszukać zwłoki pozostawione przez bandytów.
+    - Ryzykując walkę z [utopcami](#b_utopiec), na próżno próbujemy przeszukać zwłoki pozostawione przez bandytów.
     - Nie znajdując żadnej wyraźnej wskazówki co do sprawców/ofiar ataku, decydujemy się podążyć za bandytami.
 2. Kryjówka bandytów
     - [Ilana](#g_ilana) przemieniona w ogromnego wilka próbuje razem z elfem podkraść się do bandytów niepostrzeżenie. Niestety zostajemy zauważeni i przegonieni u wejścia do jaskini służącej bandytom za kryjówkę.

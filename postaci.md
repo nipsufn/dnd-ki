@@ -262,7 +262,7 @@
         - <a id='p_oleg' pattern='Oleg*'>Permanentny Burmistrz Mariboru</a>
         - <a id='p_braunn' pattern='Braunn*'>Kapitan Braunn</a>
     - [Wyzima](#l_wyzima)
-        - <a id='p_dusek' pattern='Kup* Dusek,Dusek'>Dusek</a>
+        - <a id='p_dusek' pattern='Kup* Dusek,Dusek*,Dusk*'>Dusek</a>
             - agent [Myrtona](#p_lord_myrton)
         - <a id='p_baranina' pattern='Baranin*'>Baranina</a>
             - kieruje organizacją przestępczą, oferuje "ubezpieczenia"

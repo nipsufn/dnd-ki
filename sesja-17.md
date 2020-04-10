@@ -21,7 +21,7 @@
 2. Most - przejście graniczne z [Verden](#l_verden)
     - Docieramy tam o zachodzie słońca. Nad mostem, po stronie [Brugge](#l_brugge) rozstawiony jest obóz wojskowy, a na jego drugim końcu koczują cywile z [Verden](#l_verden). 
     - Zostajemy zatrzymani do kontroli i dowiadujemy się, że o pozwolenie na przejście trzeba prosić sierżanta. 
-    - Wojacy wskazują nam miejsce na nocleg. W nocy [Ilana](#g_ilana) słyszy, jak żołnierze oddają strzały do ludzi po drugiej stronie, którzy siłą próbują sforsować most. Ich ciała, spadłszy do rzeki, są niemal od razu porywane przez utopce.
+    - Wojacy wskazują nam miejsce na nocleg. W nocy [Ilana](#g_ilana) słyszy, jak żołnierze oddają strzały do ludzi po drugiej stronie, którzy siłą próbują sforsować most. Ich ciała, spadłszy do rzeki, są niemal od razu porywane przez [utopce](#b_utopiec).
     - Rano od sierżanta dowiadujemy się kilku rzeczy:
         - przejście przez most jest pilnie strzeżone od czasu, gdy na jego drugim końcu poswtała strefa objęta kwarantanną
         - ludzie tłumnie przybywający z [Verden](#l_verden) są zarażeni dziwną chorobą, którą [Ilana](#g_ilana) identyfikuje jako zgnilczak (flesh rot) - rozwija się wolno, ale jest śmiertelna
@@ -33,7 +33,7 @@
     - Po długiej wędrówce w górę Wstążki udaje nam się znaleźć dogodne miejsce na przeprawę. Rzeka jest na tym odcinku głęboka, ale drugi brzeg bliski. 
     - [Kajetan](#g_kajetan) wpada na pomysł by przesunąć większe głazy i zwalone drzewo na brzeg rzeki robiąc z nich kładkę do skoku. 
     - Pod jednym z kamieni tworzy się osuwisko, z którego łeb wystawia [nekker](#b_nekker).
-    - Wszyscy po za [Kajetanem](#g_kajetan) lądują bezpiecznie na drugim brzegu. Elf w ostatniej chwili pomaga sobie magią żeby nie skończyć w rzece z utopcami.
+    - Wszyscy po za [Kajetanem](#g_kajetan) lądują bezpiecznie na drugim brzegu. Elf w ostatniej chwili pomaga sobie magią żeby nie skończyć w rzece z [utopcami](#b_utopiec).
     - [Ilana](#g_ilana) wyciąga kupioną w [Dillingen](#l_dillingen) kościaną piszczałkę i zaczyna grać melodię, którą kojarzy z driadami. [Kajetan](#g_kajetan) rozpoznaje melodię i dołącza się, pogwizdując.
     - Z lasu na spotkanie wyskakują nam nie driady, a grupka [nekkerów](#b_nekker).
     - Wywiązuje się walka, w której [Kajetan](#g_kajetan) traci sporo krwi, a [Ivar](#p_ivar) ledwo uchodzi z życiem.

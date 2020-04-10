@@ -1,7 +1,7 @@
 ### Sesja 39
 1. Kuźnia, druga próba [Ivara](#p_ivar)
     - Z jaja zamkniętego w bloku użytym jako opał wykluwa się coś pomiędzy smokiem, jaszczurką, a wężem. Gad ma pionowe źrenice i skórę pokrytą łuską w kolorze gorejącego płomienia.
-    - Stworzenie rzuca się na nas, atakując kogo popadnie. [Kajetan](#g_kajetan) próbuje coś kombinować magicznego, ale niezbyt mu idzie. Szybko wpadamy na pomysł aby płomiennego gada utopić w jak największej ilości wody.
+    - Stworzenie rzuca się na nas, atakując kogo popadnie. [Kajetan](#g_kajetan) próbuje coś kombinować magicznego, ale niezbyt mu idzie. Szybko wpadamy na pomysł aby płomiennego gada [utopić](#b_utopiec) w jak największej ilości wody.
     - Kryształ, jedyne co pozostało po poczwarze, trzeba jakoś wprawić w konstruowany topór. 
     - Nowej broni [Ivara](#p_ivar) na powrót brakuje także rękojeści, ponieważ niemagiczny kawał drewna wyciosany wcześniej przez [Skovika](#p_skovik) rozpadł się w pył w ferworze walki.
     - Zgodnie dochodzimy do wniosku, że drzewce topora powinny zostać wykonane z magicznego drewna. [Ilana](#g_ilana), z braku lepszej alternatywy, oferuje poświęcić swój kij. Drugą opcją wartą rozważenia jest zutylizowanie tej części kostura [Ivryna](#p_arcydruid_ivryn), której jeszcze nie przeniknęła zła magia ciążąca na broni.

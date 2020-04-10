@@ -101,11 +101,13 @@
     - <a id='b_troll' pattern='[Tt]roll*'>Troll</a>
         - szybko się regeneruje, dużo większy od człowieka
         - zwykle postrzega się je jako pożyteczne - budują i naprawiają mosty, żądając od podróżnych "myta" - upominku, niekoniecznie złota
+    - <a id='b_utopiec' pattern='[Uu]top*'>Utopiec</a>
+        - [utopiony](#b_utopiec)
     - <a id='b_zeulg' pattern='[Zz]eulg*'>Zeulg</a>
         - wielki robak podobny do stonogi
         - żyje w wodzie, w kanałach - nie widzieliśmy żeby z niej wyszedł
         - przy gębie ma macki z igłami na końcu - ukłucie może sparaliżować - którymi unieruchamia ofiarę/przeciwnika pomagając sobie w posiłku
-    - <a id='b_zababa' pattern='[Żż]ababa*'>Żababa</a>
+    - <a id='b_zababa' pattern='[Żż]abab*'>Żababa</a>
         - pół żaba pół baba
         - ma torbę z ludkich skór z których rzuca przeklętymi rzeczami, np. czaszkami zamieniającymi się w odporne na błyskawice ogniki
         - dookoła niej lata cień, który bierze na siebie część obrażeń i rozrywa kogokolwiek kto próbuje się zbliżyć
