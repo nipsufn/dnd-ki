@@ -44,27 +44,28 @@
     - Karczmarz [Grimma](#p_grimma) zapytany o gang tłumaczy, że jego głową jest niejaki [Baranina](#p_baranina). O łomot nie musimy się jednak martwić - gangster trudni się raczej subtelniejszym, acz dotkliwszym uprzykrzaniem życia.
 6. W dobrej wierze, do klasztoru
     - O zmroku wracamy na wzgórze. Rzeczywiście, warta zmienia się - schodzą głowy, przychodzą płonące miecze, czemu towarzyszy "wymiana uprzejmości". Gdyby mogli, zakonnicy skoczyliby sobie do gardeł.
-    - Tym razem zostajemy zapytani o broszę, nie przegonieni. Jeden ze strażników odprowadza nas na pokoje.
-    - Zostaliśmy wpuszczeni do pokoju dziennego, połączenia salonu, jadalni i pracowni, raczej bogato urządzonego. Na półkach stoją księgi, których raczej nie spodziewalibyśmy się w fortecy należącej do [Łowców](#r_lowca): między almanachami i księgami o historii religi znajdują się pozycje takie jak "Bramy Tajemnicy" pióra Ransanta Alvaro czy "O koniunkcji Sfer"
-    - po kilku chwilach z przylegającego pomieszczenia wchodzi Książę [Myrton](#p_lord_myrton) w towarzystwie [Igny](#p_igna). Zaprasza nas do stołu.
-    - rozmawiamy przy posiłku
-        - Oficjalna wersja wydarzeń z zamku, o [Księciu Folteście](#p_krol_foltest) przeklętym i porwanym przez [Filippę Eilhart](#p_filippa_eilhart), pomija fakt, że porywacz prawdopodobnie podszył się zaledwie pod znaną [czarodziejkę](#p_filippa_eilhart)
-        - [Król Radowid](#p_krol_radowid) doskonale zdaje sobie sprawę że swoją polityką naraża się na podobnie ataki; wie, że na dłuższą metę nie jest możliwe prowadzenie królestwa, a tym bardziej obrona, bez dostępu do Mocy
-        - Co więcej, najbliżsi doradcy [władcy](#p_krol_radowid) zaczynają pracować nad przywróceniem magów do społeczeństwa, mając nadzieję kontrolować ich wpływy i przywileje na modłę [Nilfgaardzką](#l_nilfgaard) jeśli będzie to możliwe
-        - Istnieje kilka równoległych planów, jak tego dokonać. Wiemy, że [Dijkstra](#p_dijkstra) pracuje nad swoim; [Myrton](#p_lord_myrton) ma własny pomysł w realizacji którego mu pomożemy
-        - Mamy skontaktować się z Nową [Kapitułą](#r_kapitula) ([Myrton](#p_lord_myrton) nie wie, że nazywają się "Nową") z następującą ofertą: polowanie na czarownice i czarodziejów zakończy się, jeśli pomogą zidentyfikować i pojmać napastnika
-        - być może sprawcą jest [zmiennokształtny mag z Verden](#p_lars)?
-        - [Łowcy](#r_lowca) Czarownic to przeżytek, ich dni są policzone
-        - zdaniem Mytrona celem [Kapituły](#r_kapitula) niekoniecznie utrzymanie kamraderii wśród magów, czy ograniczenie ich destruktywności, a kontrola nad młodymi ludźmi, którzy przejawiają predyspozycje ku kontrolowaniu Mocy, czym obecnie sam się zajmuje (wspomina o [Darii](#p_daria), dziewczynce którą odstawiliśmy do [Świątyni Melitele](#l_smelitele))
-        - dowiadujemy się, że Zakon [Łowców](#r_lowca) dowiedział "skądś" się o [Kajetanie](#g_kajetan) i jego towarzyszach. Po fiasku jakim okazała się próba pojmania [maga](#g_kajetan), udało się im złapać [Isilme](#p_isilme), który został "zaproszony" do laboratoriów [Menge](#p_menge)
-        - z eksperymentów na niefortunnym [zwiadowcy](#p_isilme), [Łowcom](#r_lowca) udało się wzbogacić swoją broń o [dwimeryt](#r_dwimeryt)
-        - [władyka z Ellander](#p_lord_myrton) nie wspomina jednak, dlaczego [Ilana](#g_ilana) skończyła w tym samym wozie, zbywając pytanie o donosach o kobiecie zmieniającej się w zwierzę
-        - szabla [Kajetana](#g_kajetan) "czeka na nabywcę" w [domu aukcyjnym](#l_dom_borsodych), stary kij [druidki](#g_ilana) - pewnie dalej leży pod drzewem przy którym się zatrzymała tamtej nocy
-        - Jeśli się spiszemy, [Myrtonowi](#p_lord_myrton) może się "wymsknąć" gdzie więziony jest [Isilme](#p_isilme). [Elf](#g_kajetan) nic nie mówi, jednak, pomimo że żałuje w jakiej pozycji znalazł się jego dawny towarzysz, próba jego uwolnienia zdaje się skokiem w paszczę lwa, na który raczej się nie zdecyduje
-        - jako bezpieczne schronienie [Lord](#p_lord_myrton) oferuje nam [Świątynię Melitele](#l_smelitele) - dzieli sie z [Kajetanem](#g_kajetan) wzorem Kręgu Aportacyjnego
-        - ochronę przed podglądaniem z pomocą czarów może nam zapewnić [Dusek](#p_dusek) - będziemy musieli jednak mu pomóc z jakąś sprawą na bagnach pod [Wyzimą](#l_wyzima)
-    - w pewnym momencie rozmowę przerywa nam młoda kobieta, wyglądająca z przyległego pomieszczenia - żona [Księcia](#p_lord_myrton)
-    - zostajemy odprowadzeni na zewnątrz przez [Ignę](#p_igna)
-        - [Ilana](#g_ilana) dowiaduje się, że żona [Myrtona](#p_lord_myrton), którą kojarzy z łaźni [Ellander](#l_ellander), to dziedziczka [rodu Harevard](#p_rodzina_harevard) - Lord wżenił się, by władać księstwem
-        - [Łowcy](#r_lowca) mają jakieś pojęcie o planach [Myrtona](#p_lord_myrton) - nie cierpią jego frakcji z pasją
-    - [Kajetan](#g_kajetan) wyczuwa, że większość podwładnych [Księcia](#p_lord_myrton) ma i tłumi swoje predyspozycje do korzystania z Mocy
+    - Tym razem zostajemy zapytani o broszę, a nie przegonieni. Jeden ze strażników odprowadza nas na pokoje.
+    - Zostaliśmy wpuszczeni do pokoju dziennego, połączenia salonu, jadalni i pracowni, raczej bogato urządzonego. Na półkach stoją księgi, których raczej nie spodziewalibyśmy się w fortecy należącej do [Łowców](#r_lowca). Między almanachami i księgami o historii religi znajdują się pozycje takie jak "Bramy Tajemnicy" pióra Ransanta Alvaro czy "O koniunkcji Sfer".
+    - Po kilku chwilach z przyległego pomieszczenia wchodzi książę [Myrton](#p_lord_myrton) w towarzystwie [Igny](#p_igna). Zaprasza nas do stołu.
+    - Rozmawiamy przy posiłku. [Myrton](#p_lord_myrton) dzieli się z nami informacjami, które rzucają nowe światło na nasze dotychczasowe perypetie.
+5. Wywiad z księciem
+    - Oficjalna wersja wydarzeń z zamku, o [księciu Folteście](#p_krol_foltest) przeklętym i porwanym przez [Filippę Eilhart](#p_filippa_eilhart), pomija fakt, że porywacz prawdopodobnie podszył się zaledwie pod znaną [czarodziejkę](#p_filippa_eilhart).
+    - [Król Radowid](#p_krol_radowid) doskonale zdaje sobie sprawę, że swoją polityką naraża się na podobne ataki. Wie też, że na dłuższą metę nie jest możliwe prowadzenie królestwa, a tym bardziej obrona przed podobnymi zajściami, bez dostępu do Mocy.
+    - Co więcej, najbliżsi doradcy [władcy](#p_krol_radowid) zaczynają pracować nad przywróceniem magów do społeczeństwa, mając nadzieję kontrolować ich wpływy i przywileje na modłę [Nilfgaardzką](#l_nilfgaard) jeśli będzie to możliwe.
+    - Istnieje kilka równoległych planów, jak tego dokonać. Wiemy, że arcyszpieg [Dijkstra](#p_dijkstra) pracuje nad swoim. [Myrton](#p_lord_myrton) ma własny pomysł, w realizacji którego mu pomożemy.
+    - Mamy skontaktować się z Nową [Kapitułą](#r_kapitula) ([Myrton](#p_lord_myrton) nie wie, że nazywają się "Nową") z następującą ofertą: polowanie na czarownice i czarodziejów zakończy się, jeśli pomogą zidentyfikować i pojmać napastnika.
+    - Padają podejżenia jakoby sprawcą miał być zmieniający osobowości niczym rękawiczki[mag z Verden](#p_lars), ale mając okazję z nim pracować wydaje nam się, że zamiana w zwierzę lekko wykracza po za jego kompetencje. Wręcz sama nasuwa się jednak myśl, iż ten mógł z kimś współpracować.
+    - [Myrton](#p_lord_myrton) oznajmia, że [Łowcy](#r_lowca) Czarownic to przeżytek, ich dni są policzone.
+    - Zdaniem Mytrona celem [Kapituły](#r_kapitula) jest niekoniecznie utrzymanie kamraterii wśród magów, czy ograniczenie ich destruktywności, a kontrola nad młodymi ludźmi, którzy przejawiają predyspozycje ku kontrolowaniu Mocy, czym obecnie sam się zajmuje (wspomina o [Darii](#p_daria), dziewczynce, którą odstawiliśmy do [Świątyni Melitele](#l_smelitele)).
+    - Dowiadujemy się, że Zakon [Łowców](#r_lowca) "skądś" się dowiedział o [Kajetanie](#g_kajetan) i jego towarzyszach z naukowej wyprawy. Po fiasku jakim okazała się próba pojmania [maga](#g_kajetan), udało się im złapać [Isilme](#p_isilme), który został "zaproszony" do laboratoriów [Menge](#p_menge).
+    - Z eksperymentów na niefortunnym [zwiadowcy](#p_isilme), [Łowcom](#r_lowca) udało się wzbogacić swoją broń o [dwimeryt](#r_dwimeryt).
+    - [Władyka z Ellander](#p_lord_myrton) nie wspomina jednak, dlaczego [Ilana](#g_ilana) skończyła w tym samym wozie, zbywając pytanie o donosach o kobiecie zmieniającej się w zwierzę.
+    - Szabla [Kajetana](#g_kajetan) "czeka na nabywcę" w [domu aukcyjnym](#l_dom_borsodych), stary kij [druidki](#g_ilana) - pewnie dalej leży pod drzewem, przy którym się zatrzymała tamtej nocy.
+    - Jeśli się spiszemy, [Myrtonowi](#p_lord_myrton) może się "wymsknąć" gdzie więziony jest [Isilme](#p_isilme). [Elf](#g_kajetan) nic nie mówi, jednak, pomimo że żałuje w jakiej pozycji znalazł się jego dawny towarzysz, próba jego uwolnienia zdaje się skokiem w paszczę lwa, na który raczej się nie zdecyduje.
+    - Jako bezpieczne schronienie [Myrton](#p_lord_myrton) oferuje nam [Świątynię Melitele](#l_smelitele) - dzieli sie z [Kajetanem](#g_kajetan) wzorem Kręgu Aportacyjnego.
+    - Bransoletka [Ilany](#g_ilana), pochodząca od kultu [Lwiogłowego Pająka](#r_lwioglowy_pajak), nie służy niczemu innemu jak tylko maskowaniu zdolności kultystów do zmiany formy - daru ich plugawego bóstwa. Tak więc [druidce](#g_ilana) może pomóc zamaskować jej prawdziwą naturę, ale [Kajetanowi] nie zda się na nic w osłanianiu przed ekranowaniem.
+    - Ochronę przed podglądaniem z pomocą czarów może nam za to zapewnić [Dusek](#p_dusek) - mężczyzna ma na podorędziu ciekawe magiczne fanty. Będziemy musieli jednak mu pomóc z jakąś sprawą na bagnach pod [Wyzimą](#l_wyzima).
+    - W pewnym momencie rozmowę przerywa nam młoda kobieta, wyglądająca z przyległego pomieszczenia - jak się później okazuje, żona [Księcia](#p_lord_myrton). Kobieta zatrzymuje na chwilę zdziwiony wzrok na [druidce](#g_ilana) jakby spotkały się już wcześniej (co nawiasem rzeczywiście miało miejsce - w łaźni w [Ellander](#l_ellander)).
+    - Zostajemy odprowadzeni na zewnątrz przez [Ignę](#p_igna). [Ilana](#g_ilana) dowiaduje się, że żona [Myrtona](#p_lord_myrton), którą kojarzy z łaźni w [Ellander](#l_ellander), to dziedziczka [rodu Harevard](#p_rodzina_harevard) - Lord wżenił się, by władać księstwem.
+    - [Łowcy](#r_lowca) mają jakieś pojęcie o planach [Myrtona](#p_lord_myrton) - nie cierpią jego frakcji z pasją.
+    - [Kajetan](#g_kajetan) wyczuwa, że większość podwładnych [Księcia](#p_lord_myrton) ma i tłumi swoje predyspozycje do korzystania z Mocy.
