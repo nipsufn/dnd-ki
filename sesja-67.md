@@ -35,3 +35,16 @@
     - [Kajetan](#g_kajetan) broni się wszelkimi możliwymi argumentami przed krzywdzącą opinią, zdejmuje nawet na chwilę iluzję chcąc udownodnić, że jego piękna, ale impertynencka fizjonomia zasłania coś znacznie paskudniejszego. Robi to na tyle żywo, aż inny jegomość elf, klient tegoż wieczora, interweniuje pytając [Grimmę](#p_grimma), czy potrzebuje pomocy z [zapalczywym klientem](#g_kajetan).
     - [Ilana](#g_ilana) zagaja [Grimmę](#p_grimma) o szczegóły na temat Vincenta - wilkołaka, kapitana straży. Dowiaduje się, że to zasłużony dla miasta człek. Nie cackał się z szumowinami, których prawo się nie imało - sam nocą wymierzał sprawiedliwość szponami tym, którzy zaszli mu za skórę. Został podobno odczarowany przez wiedźmina, zginął później w natarciu Czarnych na [Wyzimę](#l_wyzima).
     - Napełniwszy brzuchy udajemy się na spoczynek. [Ilana](#g_ilana) już śpi kiedy [Kajetan](#g_kajetan) otrzymuje wiadomość od [Keiry](#p_keira_metz). Czarodziejka pyta czy ma chwilę na rozmowę.
+    - [Mag](#g_kajetan) odbywa krótką, ale treściwą wymianę zdań z [Keirą](#p_keira_metz). Z rozmowy wynika, że:
+        - <uzuepłnić>
+        - <uzupełnić>
+4. Znów na łowy
+    - Nazajutrz rano [Kajetan](#g_kajetan) dzieli się z [Ilaną](#g_ilana) tym, czego dowiedział się od [czarodziejki](#p_keira_metz). Po śniadaniu ruszamy z powrotem na bagna.
+    - Dochodząc do tej samej bramy, którą weszliśmy wczorajszej nowy zauważamy liczne ślady krwi na ziemi i straż przepytującą przechodniów. Wygląda na to, że zuchy od [Łowców](#r_lowca) i koziołki baraniny rzucili się sobie finalnie do gardeł.
+    - W porcie stawki poszły w górę w związku z wężem, czy inną himerą co to bogu ducha winnym rybakom wiosła z rąk wyrywa. Przerywamy im drugie śniadanie i pakujemy się na jedną z łódek. W drodze nie szczędzimy kąśliwych uwag lekko poirytowani kolejną podwyżką cen przewozu.
+    - Na brzegu zastajemy ślady po ognisku i solidnym mordobiciu. Wygląda to jakby w siekących się między sobą biesiadników wpadła grupka oszalałych [kikimor](#b_kikimora).
+    - Nie drążymy, zamiast tego ruszamy od razu w stronę wypatrzonej wczoraj chaty. Okazuje się, że sowę [Kajetana](#g_kajetan) coś zaatakowało kiedy siedziała na dachu zrujnowanej sadyby. Ptak twierdzi, że coś ugodziło go miedzy skrzydła i przebiło na wylot.
+    - Trochę zajmuje nam odnalezienie ruiny. Przystajemy na chwilę na suchym kawałku ziemi. Nagle, ni stąd ni z owąd sękaty pień nieopodal nas ożywa. Pierwszy raz stoimy tak blisko [kikimory](#b_kikimora) wojowniczki.
+    - [Kajetan](#g_kajetan) próbuje odciągnąć od nas uwagę bestii. Używa zaklęcia, które ma imitować smród kadzidła i rzuca nim w kępę traw obok [kikimory](#b_kikimora). Sztuczka chyba się udaje - owad bada zapach wyraźnie zainteresowany, co daje nam wystarczająco dużo czasu aby się ulotnić.
+    - Docieramy wreszcie do chaty. Brniemy po kolana w wodzie, gdy nagle [Ilana](#g_ilana) zauważa w wodzie kształt. Zupełnie jakby jakiś konar płynął za nami z nienaturalną prędkością.
+    - [Elf](#g_kajetan), nie rozdrabniając się wystrzela w śledzący nas kawał drwa błyskawicą. Konar ożywa, wydając przerażliwy pisk, wijąc się przy tym z bólu. Stworzenie przypomina wychudłego, dzikiego [zeulga](#b_zeulg). Co więcej, wokół nas widzimy więcej takich "konarów", więc czym prędzej uwijamy się na suchy grunt, koło chaty.
