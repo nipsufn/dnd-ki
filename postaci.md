@@ -77,7 +77,7 @@
     - <a id='p_druid_finarrin' pattern='Finarrin*,[Hh]ierofan*,Druid* Finarrin*'>Druid Finarrin</a> - ; druid
         [Hierofanta](https://en.wikipedia.org/wiki/Heffalump) [Brokilońskiego](#l_brokilon) kręgu druidzkiego
         Uczył [Ilanę](#ilana)
-    - <a id='p_gardi' pattern='Gardi*'>Gardi</a>
+    - <a id='p_gardi' pattern='Gardi*,Garbi*'>Gardi</a>
         druid, wołany Ropuch
     - <a id='p_gebo' pattern='Geb*'>Gebo</a> - niedźwiadek;
         uratowany przez [Ilanę](#g_ilana) i [Finarrina](#p_druid_finarrin) w czasie wędrówki do [Craag An](#l_craag_an)
@@ -270,6 +270,13 @@
             - Karczmarz, prowadzi "Pod Lisem" w dzielnicy nieludzi
         - <a id='p_vivaldi' pattern='Vime Vivaldi*,Vivaldi*'>Vime Vivaldi</a>
             - właściciel banku [Vivaldich](#p_vivaldi) (w [Wyzimie](#l_wyzima)?)
+        - <a id='p_feliks' pattern='Łowcz*,Łowcz* Feliks*,Feliks'>Łowczy Królewski Feliks z Dorian</a>
+        - <a id='p_iloria' pattern='Ilor*'>Iloria</a>
+            - Lichwiarka z dzielnicy nieludzi
+    - Bagna
+        - <a id='p_lentinus' pattern='Druid* Lentinus*,Lentinus*'>Druid Lentinus</a>
+            - samotnik z bagien
+            - mieszka w korytarzach pod starą brzozą
     - [Burdoff](#l_burdoff)
         - <a id='p_landosz' pattern='Landosz*'>Grododzierżca Landosz</a>
     - [Zavada](#l_zavada)

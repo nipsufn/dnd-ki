@@ -16,7 +16,7 @@
     - Nie bardzo wiedząc gdzie lub jak znaleźć [Ignę](#p_igna), udajemy się na poszukiwania wspomnianej przez strażnika świątyni Wiecznego Ognia.
     - Zachodzimy do Dzielnicy Klasztornej, gdzie znajdujemy niewielki szpital Proroka Lebiody. Wokół szpitala rośnie niewielki sad z licznymi drzewkami, a także pomniejszymi krzewinami. Pomiędzy krzewami kręcą się kobiety zbierające jakieś owoce.
     - Niestety, w Dzielnicy Klasztornej nie ma żadnej świątyni Zakonu. Zostajemy pokierowani do starego klasztoru na wzgórzu.
-    - Wspinając się na wzgórze zauważamy w dole jedną z poleconych nam karczm, Misia Kudłacza. Co do klasztoru, na jego wieżyczkach powiewają 3 proporce:
+    - Wspinając się na wzgórze zauważamy w dole jedną z poleconych nam karczm, [Misia Kudłacza](#l_kudlacz). Co do klasztoru, na jego wieżyczkach powiewają 3 proporce:
         + 3 głowy przebite mieczem na czerwonym tle
         + biały miecz w pomarańczowych płomieniach
         + kwiat róży w płomieniach

@@ -99,6 +99,13 @@
 - <a id='l_temeria' pattern='Temer*'>Temeria</a>
     - <a id='l_wyzima' pattern='Wyzim*'>Wyzima</a>
         - stolica [Temerii](#l_temeria)
+        - <a id='l_narakort' pattern='Now* Narakor*,Narakor*'>Nowy Narakort</a>
+            - karczma
+        - <a id='l_kudlacz' pattern='Mi* Kudłacz*'>Miś Kudłacz</a>
+            - karczma
+        - <a id='l_uda' pattern='Chętn* Ud*'>Chętne Uda</a>
+            - zamtuz
+    - <a id='l_bagna' pattern='Bang*'>Bagna</a>
     - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
         - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Aretuz*'>Wyspa Thanedd</a>
             zniszczona szkoła czarownic, [Aretuza](#l_wyspa_thanedd)
