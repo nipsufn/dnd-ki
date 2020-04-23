@@ -37,23 +37,23 @@
     - [Ilana](#g_ilana) zagaja [Grimmę](#p_grimma) o szczegóły na temat Vincenta - wilkołaka, kapitana straży. Dowiaduje się, że to zasłużony dla miasta człek. Nie cackał się z szumowinami, których prawo się nie imało - sam nocą wymierzał sprawiedliwość szponami tym, którzy zaszli mu za skórę. Został podobno odczarowany przez wiedźmina, zginął później w natarciu Czarnych na [Wyzimę](#l_wyzima).
     - Napełniwszy brzuchy udajemy się na spoczynek. [Ilana](#g_ilana) już śpi kiedy [Kajetan](#g_kajetan) otrzymuje wiadomość od [Keiry](#p_keira_metz). Czarodziejka pyta czy ma chwilę na rozmowę.
     - [Mag](#g_kajetan) odbywa krótką, ale treściwą wymianę zdań z [Keirą](#p_keira_metz). Z rozmowy wynika, że:
-        - Brass jest w [Mariborze](#l_maribor), pochwala jakość naprawy
+        - niejaki Brass jest w [Mariborze](#l_maribor), pochwala jakość naprawy
         - czeka na nas jakaś nagroda
         - pojawimy się w [Mariborze](#l_maribor) za 3 dni
         - [Kajetan](#g_kajetan) prosi o audiencję [Kapituły](#r_kapitula)
-        - w [Nilfgaardzie](#l_nilfgaard) władzę przejął nowy Cesarz, ale nie wiadomo jaki ma stosunek do czarodziejów i jak ich pozycja zmieni się w cesarstwie. Raczej nie będzie się od razu pchał na wojnę z północą.
-        - poprzedniego cesarza zasztyletował jeden z jego sojuszników
-        - Agent z Kerrack donosi, że [Kistrin](#p_ksiaze_kistrin), władca [Verden](#l_verden), ma nowego nadwornego maga
+        - w [Nilfgaardzie](#l_nilfgaard) władzę przejął nowy Cesarz, ale nie wiadomo jaki ma stosunek do czarodziejów i jak ich pozycja zmieni się w cesarstwie; raczej nie będzie się od razu pchał na wojnę z północą
+        - poprzedniego cesarza zasztyletowali jego sojusznicy
+        - agent z Kerrack donosi, że [Kistrin](#p_ksiaze_kistrin), władca [Verden](#l_verden), ma nowego nadwornego maga
         - [Lars](#p_lars) był uczniem Doregaraia
-        - [Florian](#p_florian_z_vicovaro) miał starszą siostrę, Asair, która została zamordowana w [Loc Muinne](#l_loc_muinne) w niewyjaśnionych okolicznościach kilka lat temu, informacje o jej śmierci mogą być dobrą zachętą do współpracy
+        - [Florian](#p_florian_z_vicovaro) miał starszą siostrę, Assire, która została zamordowana w [Loc Muinne](#l_loc_muinne) w niewyjaśnionych okolicznościach kilka lat temu; informacje o jej śmierci mogą być dobrą zachętą do współpracy
         - Brass jest mistrzem fechtunku
-        - Informacje o [Florianie](#p_florian_z_vicovaro) mamy zachować dla siebie, nie opowiadać [Kapitule](#r_kapitula)
+        - informacje o [Florianie](#p_florian_z_vicovaro) mamy zachować dla siebie, nie opowiadać [Kapitule](#r_kapitula)
 4. Znów na łowy
     - Nazajutrz rano [Kajetan](#g_kajetan) dzieli się z [Ilaną](#g_ilana) tym, czego dowiedział się od [czarodziejki](#p_keira_metz). Po śniadaniu ruszamy z powrotem na bagna.
-    - Dochodząc do tej samej bramy, którą weszliśmy wczorajszej nowy zauważamy liczne ślady krwi na ziemi i straż przepytującą przechodniów. Wygląda na to, że zuchy od [Łowców](#r_lowca) i koziołki baraniny rzucili się sobie finalnie do gardeł.
+    - Dochodząc do tej samej bramy, którą weszliśmy wczorajszej nocy zauważamy liczne ślady krwi na ziemi i straż przepytującą przechodniów. Wygląda na to, że zuchy od [Łowców](#r_lowca) i koziołki baraniny rzucili się sobie finalnie do gardeł.
     - W porcie stawki poszły w górę w związku z wężem, czy inną chimerą co to bogu ducha winnym rybakom wiosła z rąk wyrywa. Przerywamy im drugie śniadanie i pakujemy się na jedną z łódek. W drodze nie szczędzimy kąśliwych uwag lekko poirytowani kolejną podwyżką cen przewozu.
     - Na brzegu zastajemy ślady po ognisku i solidnym mordobiciu. Wygląda to jakby w siekących się między sobą biesiadników wpadła grupka oszalałych [kikimor](#b_kikimora).
-    - Nie drążymy, zamiast tego ruszamy od razu w stronę wypatrzonej wczoraj chaty. Okazuje się, że sowę [Kajetana](#g_kajetan) coś zaatakowało kiedy siedziała na dachu zrujnowanej sadyby. Ptak twierdzi, że coś ugodziło go miedzy skrzydła i przebiło na wylot.
+    - Nie drążymy, zamiast tego ruszamy od razu w stronę wypatrzonej wczoraj chaty. Okazuje się, że sowę [Kajetana](#g_kajetan) coś zaatakowało kiedy siedziała na dachu zrujnowanej sadyby. Ptak twierdzi, że coś ugodziło go między skrzydła i przebiło na wylot.
     - Trochę zajmuje nam odnalezienie ruiny. Przystajemy na chwilę na suchym kawałku ziemi. Nagle, ni stąd ni z owąd sękaty pień nieopodal nas ożywa. Pierwszy raz stoimy tak blisko [kikimory](#b_kikimora) wojowniczki.
     - [Kajetan](#g_kajetan) próbuje odciągnąć od nas uwagę bestii. Używa zaklęcia, które ma imitować smród kadzidła i rzuca nim w kępę traw obok [kikimory](#b_kikimora). Sztuczka chyba się udaje - owad bada zapach wyraźnie zainteresowany, co daje nam wystarczająco dużo czasu aby się ulotnić.
     - Docieramy wreszcie do chaty. Brniemy po kolana w wodzie, gdy nagle [Ilana](#g_ilana) zauważa w wodzie kształt. Zupełnie jakby jakiś konar płynął za nami z nienaturalną prędkością.
