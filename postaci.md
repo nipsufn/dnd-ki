@@ -1,8 +1,12 @@
 ## Postaci
-- <a id='p_alzur' pattern='Alzur*'>Alzur</a>
+- <a id='p_alzur' pattern='Alzur*'>Alzur</a> - człowiek;
     - mag, "ojciec" Wiedźminów
 - <a id='p_cianfanelli' pattern='Cianfanelli*'>Cianfanelli</a> - ?;
     krasnolud, właściciel banków;
+- <a id='p_bras' pattern='Bras*'>Bras z Ban Aard</a> - człowiek;
+    - mag
+    - agent polowy Nowej [Kapituły](#r_kapitula)
+    - stara się kontrolować sytuację pod [Mayeną](#l_mayena)
 - <a id='p_dorregaray' pattern='Dorregaray'>Dorregaray z Vole</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
 - <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy [Triss Merigold](#p_triss_merigold)
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek [Kapituły](#r_kapitula)
@@ -270,7 +274,7 @@
             - Karczmarz, prowadzi "Pod Lisem" w dzielnicy nieludzi
         - <a id='p_vivaldi' pattern='Vime Vivaldi*,Vivaldi*'>Vime Vivaldi</a>
             - właściciel banku [Vivaldich](#p_vivaldi) (w [Wyzimie](#l_wyzima)?)
-        - <a id='p_feliks' pattern='Łowcz*,Łowcz* Feliks*,Feliks'>Łowczy Królewski Feliks z Dorian</a>
+        - <a id='p_feliks' pattern='Łowcz*,Łowcz* Feliks*,Feliks*'>Łowczy Królewski Feliks z Dorian</a>
         - <a id='p_iloria' pattern='Ilor*'>Iloria</a>
             - Lichwiarka z dzielnicy nieludzi
     - Bagna

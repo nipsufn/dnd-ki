@@ -37,7 +37,7 @@
     - [Ilana](#g_ilana) zagaja [Grimmę](#p_grimma) o szczegóły na temat Vincenta - wilkołaka, kapitana straży. Dowiaduje się, że to zasłużony dla miasta człek. Nie cackał się z szumowinami, których prawo się nie imało - sam nocą wymierzał sprawiedliwość szponami tym, którzy zaszli mu za skórę. Został podobno odczarowany przez wiedźmina, zginął później w natarciu Czarnych na [Wyzimę](#l_wyzima).
     - Napełniwszy brzuchy udajemy się na spoczynek. [Ilana](#g_ilana) już śpi kiedy [Kajetan](#g_kajetan) otrzymuje wiadomość od [Keiry](#p_keira_metz). Czarodziejka pyta czy ma chwilę na rozmowę.
     - [Mag](#g_kajetan) odbywa krótką, ale treściwą wymianę zdań z [Keirą](#p_keira_metz). Z rozmowy wynika, że:
-        - niejaki Brass jest w [Mariborze](#l_maribor), pochwala jakość naprawy
+        - niejaki [Brass](#p_bras) jest w [Mariborze](#l_maribor), pochwala jakość naprawy
         - czeka na nas jakaś nagroda
         - pojawimy się w [Mariborze](#l_maribor) za 3 dni
         - [Kajetan](#g_kajetan) prosi o audiencję [Kapituły](#r_kapitula)
@@ -46,7 +46,7 @@
         - agent z Kerrack donosi, że [Kistrin](#p_ksiaze_kistrin), władca [Verden](#l_verden), ma nowego nadwornego maga
         - [Lars](#p_lars) był uczniem Doregaraia
         - [Florian](#p_florian_z_vicovaro) miał starszą siostrę, Assire, która została zamordowana w [Loc Muinne](#l_loc_muinne) w niewyjaśnionych okolicznościach kilka lat temu; informacje o jej śmierci mogą być dobrą zachętą do współpracy
-        - Brass jest mistrzem fechtunku
+        - [Brass](#p_bras) jest mistrzem fechtunku
         - informacje o [Florianie](#p_florian_z_vicovaro) mamy zachować dla siebie, nie opowiadać [Kapitule](#r_kapitula)
 4. Znów na łowy
     - Nazajutrz rano [Kajetan](#g_kajetan) dzieli się z [Ilaną](#g_ilana) tym, czego dowiedział się od [czarodziejki](#p_keira_metz). Po śniadaniu ruszamy z powrotem na bagna.
