@@ -1,13 +1,13 @@
 ### Sesja 68
 1. Bagienna fauna i flora
     - Chata ma kształt litery "L". Z przodu i na tyłach znajdował się kiedyś ogródek, ale teraz zarósł niepomiernie, a chwasty w nim rosnące wydają się nader duże i bujne.
-    - Dostępu do budynku bronią drzwi od spodu mocno obrośnięte przez drobne pnącza. [Kajetan](#g_kajetan) wyjmuje drzwi z przerdzewiałych zawiasów. Pędy wydają się być nader ruchliwe - straciwszy oparcie wyciągają się do trzymanych przez [elfa](#g_kajetan) drzwi niczym ręce.
+    - Dostępu do budynku bronią drzwi od spodu mocno obrośnięte przez drobne pnącza. [Kajetan](#g_kajetan) wyjmuje drzwi z przerdzewiałych zawiasów. Pędy wydają się być niepokojąco ruchliwe - straciwszy oparcie wyciągają się do trzymanych przez [elfa](#g_kajetan) drzwi niczym ręce.
     - Przeszukujemy chatę, w której oprócz namiotów znajdujemy klatki z ludzkimi szczątkami. Z jednego z namiotów [Kajetan](#g_kajetan) wygrzebuje podniszczoną sakiewkę pełną złotych zębów.
     - Nasze myszkowanie przerywa atak dziwnej rośliny przypominającej bulwę jakiegoś kwiatu, z wnętrza którego wystrzeliwują w naszą stronę chwytne pnącza.
     - Oprócz bulwiastych roślin pagórka bronią jeszcze inne cierniste pnącza podobne do tych z [Ellander](#l_ellander). Strzelają do nas cierniami rozmiarem przypominającymi strzały.
     - Przypalamy narzucające się chwasty ogniem. Za zwęglonymi kłączami zieje w nas otworem wcześniej niezauważalna jaskinia. Z wnętrza uchodzi dziwny, przypominający nieco kadzidło zapach. Wchodzimy do środka mając nadzieję, że to "nasza" jaskinia i znajdziemy w niej trop w sprawie [kikimor](#b_kikimora) i/lub konkurencji [Baraniny](#p_baranina).
     - Zapach robi się intensywniejszy. W pewnym momencie każdemu z nas wydaje się, że widzi coś dziwnego - [Ilana](#g_ilana) w miejscu [Kajetana](#g_kajetan) widzi dużego królika.
-    - W jaskini, oprócz odpowiedzialnych za nasz rozweselony stan psychoaktywnych, nader ruchliwych roślinek ciasno porastających każdą płaszczyznę, natykamy się na gigantyczną rosiczkę wyrastającą z kupy kości leżącej w głębokim dole.
+    - W jaskini, oprócz odpowiedzialnych za nasz rozweselony stan psychoaktywnych, dziwnie ruchliwych roślinek ciasno porastających każdą płaszczyznę, natykamy się na gigantyczną rosiczkę wyrastającą z kupy kości leżącej w głębokim dole.
     - Kwiat zdaje się wabić zapachem. Nie chcąc dać się wodzić na pokuszenie wycofujemy się i wychodzimy z jaskini. [Kajetan](#g_kajetan) używa swoich przyzwańców do sprawdzenia dokąd jaskinia się ciągnie i co jest dalej, za kwiatem.
     - Ze zwiadu wraca tylko jeden stworek. Melduje, że natknął się na drugie obozowisko zaraz obok zdaje się kolejnego magicznego kręgu menhirów. Centralny kamień wibruje powodując lekkie drganie ziemi w okolicy.
     - U wejścia jaskini mija nas [kikimora](#b_kikimora). Niczym w transie, lekko otumaniona, gna na oślep w głąb jaskini, niemal zupełnie nas nie zauważając.
@@ -40,9 +40,9 @@
     - Wygląda na to, że ostatnia wieża jest w pełni sprawna i - w porównaniu do pozostałych - nienaruszona, a przed niepowołanym ciekawskim wzrokiem skrywa ją iluzja.
 4. Do domu
     - Zachodzimy na śniadanie do Lisa. Jeszcze kilku gości poprzedniego wieczora siedzi przy stoliku i o czymś dyskutują z [Grimmą](#p_grimma).
-    - Przy śniadaniu [Kajetan](#g_kajetan) opowiada co widział w nocy. Podejmujemy decyzję, że czas nas nagli, a szukanie obłożonej iluzją wieży i najprawdopodobniej forsowanie jej zabezpieczeń za dwie błyskotki zwyczajnie nam się nie opłaca, szczególnie gdy zleceniodawca, zdaje się umyślnie, zatrzymuje zdaje się więcej niż powinien informacji dla siebie...
+    - Przy śniadaniu [Kajetan](#g_kajetan) opowiada co widział w nocy. Podejmujemy decyzję, że czas nas nagli, a szukanie obłożonej iluzją wieży i najprawdopodobniej forsowanie jej zabezpieczeń za dwie błyskotki zwyczajnie nam się nie opłaca, szczególnie gdy zleceniodawca, zdaje się umyślnie, zatrzymuje dla siebie więcej informacji niż powinien...
     - [Ilana](#g_ilana) wypytuje na odchodne żonę krasnoluda o druidów z bagien. Kobieta opowiada, że przed Trzecią Wojną wynieśli się stamtąd. Miało to miejsce w czasie konfliktu Zakonnych z Wiewiórkami.
-    - Przed wyruszeniem do [Mariboru](#l_maribor) zachodzimy do ratusza, przekazać [Feliksowi](#p_feliks) obiecaną mapę, z której oprócz domu [druida](#p_lentinus) wykreślamy także dwie odnalezione wieże - nie zamierzamy wyświadczać darmowej przysługi [Duskowi](#p_dusek), a wiemy że mapę tą na pewno zobaczy. 
+    - Przed wyruszeniem do [Mariboru](#l_maribor) zachodzimy do ratusza, przekazać [Feliksowi](#p_feliks) obiecaną mapę, z której oprócz domu [druida](#p_lentinus) wykreślamy także dwie odnalezione wieże - nie zamierzamy wyświadczać darmowej przysługi [Duskowi](#p_dusek), a wiemy, że mapę tą na pewno zobaczy. 
     - Czekamy w kolejce na wskazanie pokoju. [Ilana](#g_ilana) zauważa stojącego za nami starszego mężczyznę, który jakby zniecierpliwiony pokazuje na nadgarstek. Z tą różnicą, że na ręce zamiast zegarka ma... tatuaż barana.
     - Gdy przychodzi nasza kolej, zostajemy oddelegowani do pokoju 13A. W pokoju 13A zastajemy urzędnika, który przekierowuje nas do pokoju 13B. Tam na szczęście zastajemy już tylko [Feliksa](#p_feliks). Dostajemy 200GP za pomoc w rozwiązaniu sprawy [kikimor](#b_kikimora) oraz częściową mapę południowej części bagien.
     - Na odchodne [Kajetan](#g_kajetan) robi psikusa i podmienia numery dwóch pokojów. Przy drzwiach mija nas starszy pan od zegarka. Pyta o postęp w sprawie konkurencyjnego dealera. [Ilana](#g_ilana) zbywa go mówiąc, że jeśli się czegoś dowiemy to się skontaktujemy.
@@ -57,9 +57,9 @@
     - Po krótkiej wymianie uprzejmości [Bras](#p_bras) przekazuje nam prezent od [Keiry](#p_keira_metz) - dwa kamienie komunikacyjne. Następnie wychodzi w swoich sprawach przebrany w strój Redańskiego oficera.
     - [Kajetan](#g_kajetan) rozmawia z [Keirą](#p_keira_metz):
         - wyjątkowo jest ubrana, zdaje się jakby podróżowała w chłodniejszym klimacie, znalazła coś "pod okruchem lodu"
-        - [Czarodziejce](#p_keira_metz) udało się ustalić datę audiencji z Radą [Kapituły](#r_kapitula) na następny dzień o zachodzie słońca.
-        - [Książę Viraxas](#p_ksiaze_viraxas) przechwytywał i przemycał magiczne przedmioty dla Nowej [Kapituły](#r_kapitula), jednak po publicznym oskarżeniu o ten akt, jego możliwości są mocno ograniczone. Nie pomaga też niechęć jego małżonki, której na [Aretuzie](#l_wyspa_thanedd) nie szczędzono rózgi zanim nie została wydalona z niesławnej uczelni wiedźm
-        - Sprawę dalej utrudnia fakt, że po odejściu czarodziejki zwanej [Koral](#p_koral) władyka uważa się za porzuconego przez magów - nikt jej nie zastąpił, pomimo że w Kerrack magia nie jest prześladowana
+        - [czarodziejce](#p_keira_metz) udało się ustalić datę audiencji z Radą [Kapituły](#r_kapitula) na następny dzień o zachodzie słońca
+        - [książę Viraxas](#p_ksiaze_viraxas) przechwytywał i przemycał magiczne przedmioty dla Nowej [Kapituły](#r_kapitula), jednak po publicznym oskarżeniu o ten akt, jego możliwości są mocno ograniczone; nie pomaga też niechęć jego małżonki, której na [Aretuzie](#l_wyspa_thanedd) nie szczędzono rózgi zanim nie została wydalona z niesławnej uczelni wiedźm
+        - sprawę dalej utrudnia fakt, że po śmierci czarodziejki zwanej [Koral](#p_koral) władyka uważa się za porzuconego przez magów - nikt jej nie zastąpił, pomimo że w Kerrack magia nie jest prześladowana
         - w czasie rozmowy wymienia kilka zdań z kimś poza rozmową, wspominając kogoś imieniem Stregobor
     - W tym samym czasie [Ilana](#g_ilana) nie próżnuje: wysyła dwa ptaki z wiadomością do wioski: po jednym do [Skovika](#p_skovik) i [Finarrina](#p_druid_finarrin). [Gardiego](#p_gardi) finalnie nie zaszczyca wiadomością, skoro sam stwierdził, że nie ma ochoty z nią rozmawiać.
-    - U wejścia do kanałów zamontowano nowe drzwi. Tym razem solidniejsze, więc nie ma mowy o wyciąganiu ich z zawiasów. Z pomocą Esme [druidka](#g_ilana) kradnie jeden z kluczy do kanałów aby ułatwić sobie wyjście na miasto.
+    - U wejścia do kanałów zamontowano nowe drzwi. Tym razem solidniejsze, więc nie ma mowy o wyciąganiu ich z zawiasów. Z pomocą Esme [druidka](#g_ilana) kradnie jeden z kluczy do kanałów aby ułatwić sobie przetwieranie się .
