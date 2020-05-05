@@ -23,7 +23,7 @@
 2. Z deszczu pod rynnę
     - Tego samego dnia wieczorem, skończywszy oprawiać zwierzynę, [druidka](#g_ilana) prośbami, groźbami i obietnicami ("jedna traumatyczna noc za kolejną przyjemniejszą") namawia wreszcie [Skovika](#p_skovik) do kontynuowania kuracji w krzakach pod warunkiem, że będzie przy nim czuwać. Jednak gdy tylko mężczyzna kładzie się w zagłębieniu i pnącza zaczynają go obrastać, panikuje. 
     - [Ilana](#g_ilana) nie wie co robić. Sytuacja przyciąga jedną ze starszych driad - [Aglais](#p_aglais), opiekunkę uzdrowiska.
-    - Driada stwierdza, że jedyny sposób aby coś z tego było to uśpić [siłacza](#p_skovik) "wodą Brokilonu", którą na prośbę druidki zanosi [elfowi](#g_kajetan).
+    - Driada stwierdza, że jedyny sposób aby coś z tego było to uśpić [siłacza](#p_skovik) "wodą [Brokilonu](#l_brokilon)", którą na prośbę druidki zanosi [elfowi](#g_kajetan).
     - [Kajetan](#g_kajetan) przelewa wodę do butelki i nadaje jej smak gorzałki. Przybiega zawołany przez druidkę i odkorkowuje butelkę. Udaje, że zeń pociąga po czym podaje flaszkę [wyspiarzowi](#p_skovik). Ten wypija ją duszkiem, po czym osuwa się nieprzytomny z powrotem w pnącza. 
     - [Aglais](#p_aglais) beznamiętnie stwierdza, że wypił chyba za dużo i będzie nieprzytomny co najmniej tydzień... Wygląda na to, że ten [Drunmond](#p_skovik) nie będzie nam towarzyszył w negocjacjach.
     - [Ilana](#g_ilana) czuje się źle z tym, co zrobiła. Korzystając z okazji wypytuje [Aglais](#p_aglais) o stan zdrowia [Skovika](#p_skovik) - obecny, jak i zaraz po wypadku:

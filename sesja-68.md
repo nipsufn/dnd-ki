@@ -60,6 +60,6 @@
         - [czarodziejce](#p_keira_metz) udało się ustalić datę audiencji z Radą [Kapituły](#r_kapitula) na następny dzień o zachodzie słońca
         - [książę Viraxas](#p_ksiaze_viraxas) przechwytywał i przemycał magiczne przedmioty dla Nowej [Kapituły](#r_kapitula), jednak po publicznym oskarżeniu o ten akt, jego możliwości są mocno ograniczone; nie pomaga też niechęć jego małżonki, której na [Aretuzie](#l_wyspa_thanedd) nie szczędzono rózgi zanim nie została wydalona z niesławnej uczelni wiedźm
         - sprawę dalej utrudnia fakt, że po śmierci czarodziejki zwanej [Koral](#p_koral) władyka uważa się za porzuconego przez magów - nikt jej nie zastąpił, pomimo że w Kerrack magia nie jest prześladowana
-        - w czasie rozmowy wymienia kilka zdań z kimś poza rozmową, wspominając kogoś imieniem Stregobor
+        - w czasie rozmowy wymienia kilka zdań z kimś poza rozmową, wspominając kogoś imieniem [Stregobor](#p_stregobor)
     - W tym samym czasie [Ilana](#g_ilana) nie próżnuje: wysyła dwa ptaki z wiadomością do wioski: po jednym do [Skovika](#p_skovik) i [Finarrina](#p_druid_finarrin). [Gardiego](#p_gardi) finalnie nie zaszczyca wiadomością, skoro sam stwierdził, że nie ma ochoty z nią rozmawiać.
     - U wejścia do kanałów zamontowano nowe drzwi. Tym razem solidniejsze, więc nie ma mowy o wyciąganiu ich z zawiasów. Z pomocą Esme [druidka](#g_ilana) kradnie jeden z kluczy do kanałów aby ułatwić sobie przetwieranie się .

@@ -17,7 +17,7 @@
     - Korzystając z chwili [Kajetan](#g_kajetan) wysyła wiadomość do [Keiry](#p_keira_metz), chciałby zamienić kilka słów na temat ruin posiadłości [Merigold](#p_triss_merigold).
     - W kanałach udajemy się do początku korytarza chrabąszczy. Łapiemy jednego mniejszego osobnika na przynętę - okazuje się, że czułki i żuwaczki bestii niszczą metal, doprowadzając go do stanu, w którym jest dla nich jadalny.
     - Wyruszamy z naszym okazem do [Olega](#p_oleg) udowodnić, że nasza teoria jest słuszna. [Burmistrz] zdaje się być bardzo zadowolony z efektów naszej pracy.
-    - [Ilana](#g_ilana) kątem oka zauważa napis na jednej z teczek pośród papierów piętrzących się na biurku: _"Park im. Merigold"_.
+    - [Ilana](#g_ilana) kątem oka zauważa napis na jednej z teczek pośród papierów piętrzących się na biurku: _"Park im. [Merigold](#p_triss_merigold)"_.
     - Z okna dostrzegamy kapitana [Braunna](#p_braunn). Mężczyzna wykazuje wręcz niezdrowe zainteresowanie naszymi osobami. Szkolący właśnie nowych kadetów kapitan używa na nich podobnego wisiorka jak [Myrton](#p_lord_myrton) i [Igna](#p_igna) do wykrycia użytkowników magii.
 3. Z powrotem w kanał
     - Wracamy do kanałów. [Kajetan](#g_kajetan) mało delikatnie wyrywa [Ilanie](#g_ilana) kilka włosów i zabezpiecza nimi bramę - będziemy mieli pewność, że jesteśmy śledzeni jeśli ktoś zerwie je otwierając bramę.

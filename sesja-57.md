@@ -12,8 +12,8 @@
     - Przy śniadaniu [drudika](#g_ilana) stwierdza, że, gwoli jak najlepszego wykorzystania wizyty w mieście, powinniśmy poszukać informacji na temat słów zdradzonych jej przez [Eithne](#p_eithne)
     - Odwiedzamy bibliotekę w drodze po odbiór zamówienia [Kajetana](#g_kajetan). [Elf](#g_kajetan) wpada na pomysł, by kupić dla bibliotekarki coś słodkiego. A nuż kobieta spojrzy na nas łaskawszym okiem i będzie bardziej skłonna pomóc w odnajdywaniu informacji, na których nam zależy.
     - [Bibliotekarka](#l_biblioteka) zapamiętała [Kajetana](#g_kajetan) i wypytuje o jego nowe dzieła - podczas poprzedniej wizyty przedstawił się jako pisarz albo poeta. Zaprasza także do lokalnego towarzystwa literatów, robiąc przy tym maślane oczy. Z opresji ratuje elfa [Ilana](#g_ilana) tłumacząc, że narzeczona "poety" tęskni za nim i spieszno nam w dalszą drogę.
-    - Znajdujemy informacje o tym, że jakieś 40 lat temu doszło do brutalnych, niewyjaśnionych mordów we wsiach leżących u stóp Góry Cremora. Nikt nie przeżył. Wsie te należały do [Cidaris](#l_cidaris) i tam też należy szukać dalszych informacji.
-    - Na temat Dussard (cokolwiek to słowo znaczy) nie znajdujemy ani jednej wzmianki.
+    - Znajdujemy informacje o tym, że jakieś 40 lat temu doszło do brutalnych, niewyjaśnionych mordów we wsiach leżących u stóp [Góry Cremora](#l_gora_cremora). Nikt nie przeżył. Wsie te należały do [Cidaris](#l_cidaris) i tam też należy szukać dalszych informacji.
+    - Na temat [Dussard](#r_dussard) (cokolwiek to słowo znaczy) nie znajdujemy ani jednej wzmianki.
 3. Na pohybel wrednym karłom
     - Z biblioteki zachodzimy do stolarza. Dopiero teraz zauważamy wiszący nad drzwiami szyld "Mistrz Bastien".
     - Na nasz widok stolarz wydaje się lekko panikować. Mężczyzna ma obandażowane palce, ale upiera się, że to "wypadek przy pracy". Ktoś go nachodził w związku z naszym zleceniem. W końcu poniekąd siłą, poniekąd domysłem udaje nam się ustalić, że najprawdopodobniej były to niziołki z konkurencji.

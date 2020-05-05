@@ -1,0 +1,76 @@
+### Sesja 69
+1. Zebranie Nowej [Kapituły](#r_kapitula)
+    - zaraz przed zebraniem, z pomocą [elfa](#g_kajetan), [Ilana](#g_ilana) wysyła wiadomość do [Finarrina](#p_druid_finarrin)
+    - [Brass](#p_bras) i [Kajetan](#g_kajetan) zaczynają prace remontowe w klatce schodowej, by nie marnować czasu do spotkania
+    - spotkanie rozpoczyna się zalegnięciem mgły w pomieszczeniu, która szybko formuje się w okrągłą przestrzeń, większą niż piwnica w której jesteśmy. W około stoją postaci, których część poznajemy, a pozycja w kręgu zdaje się odpowiada położeniu geograficznemu uczestników. Jest ich więcej niż ostatnio, to nie spotkanie samej Rady, a całej organizacji, na którą najwyraźniej składa się jakiś tuzin magów
+    - Moderatorem spotkania jest [Carduin z Lan Exeter](#p_carduin), jako że tymczasowa (?) głowa rady, [Triss Merigold](#p_triss_merigold), nie mogła wziąć udziału w spotkaniu
+    - W kręgu stoją:
+        - [Dorregaray](#p_dorregaray) - [Skellige](#l_wyspy_skellige)
+        - [Triss](#p_triss_merigold) - gdzieś na północy
+        - [Istredd](#p_istredd), [Stregobor](#p_stregobor) - gdzieś na północy
+        - [Keira](#p_keira_metz)
+        - [Margarita](#p_margarita)
+        - ?
+        - [Ida](#p_ida) - to już bardziej na wschód domyślamy się
+        - ? - kobieta
+        - [Stucco Zangenis](#p_zangenis)
+        - my
+        - [Radcliffe](#p_radcliffe), Mozaik - Kerrack
+        - ?
+        - ? - mężczyzna
+    - Na środek zostają zaproszeni [Istredd](#p_istredd) i [Stregobor](#p_stregobor), dwójka która prowadzi prace archeologiczne w Kaer Seren w Górach Smoczych, na dalekiej północy
+        - [Twierdzę](Kaer Seren) zasypała śnieżna lawina, a jej mieszkańcy zostali uwięzieni i szybko zamarzli (znaleziono ich w pełnym rynsztunku)
+        - Ktoś już odkopał przynajmniej część twierdzy, [Kapituła](#r_kapitula) nie jest pierwszym odwiedzającym w ostatniej dekadzie
+        - [Stregobor](#p_stregobor), specjalista od iluzji, znalazł widzidło idealne, które demonstruje z pomocą zielonej latarni
+        - pomimo użycia dedykowanego artefaktu, zaledwie wierzchnia warstwa iluzji rozprasza się, by ukazać fresk przedstawiający kilka [gryfów](#b_gryf). Pomimo swojej natury, ściana jest solidna i nie da się przez nią przejść
+        - styl przypomina nieco malowidła z Crag An, a namalowane nocne niebo, pomimo że nie przypomina żadnego które do tej pory widzieliśmy, ma charakterystyczne konstelacje, w tym takie, których na naszym niebie nie ma. [Kajetan](#g_kajetan) robi wrażenie na [Brasie](#p_bras) rozpoznając Pardwę, nim powie o niej [mówca](#p_stregobor)
+        - Archeolodzy zastanawiają się czy punkt zwarcia sfer, Pardwa, została umocniona wieżą, jak wiele innych takich punktów
+        - Wiedźmini szkoły [Gryfa](#b_gryf) (stworzonej przez [Malaspina](#p_malaspin), nauczyciela [Alzura](#p_alzur)) znani byli z najbardziej umiejętnego wykorzystania Mocy, oraz wielkiego zbioru ksiąg
+        - [Kapituła](#r_kapitula) planuje zrobić z [twierdzy](Kaer Seren) swoją nową siedzibę
+    - Następnym mówcą jest [Stucco Zangenis](#p_zangenis)
+        - opowiada o swoich odkryciach związanych z, zdaje się, losowymi mutacjami u zwierząt przebywających w okolicach punktów mocy od czasu "Zapaści" (jakiś kwartał przed Dwuksiężycową Nocą) która zaczęła się na wyspach [Skellige](#l_wyspy_skellige)
+        - zwyrodniałe bestie nie są agresywne i szybko umierają
+        - jeśli to czyjeś umyślne działanie, [mag](#p_zangenis) "nie widział takiej fuszerki od [Risbergu](#l_gora_cremora)"
+    - [Dorregaray](#p_dorregaray) i kwestia [Skellige](#l_wyspy_skellige):
+        - rządy [Cerys](#p_cerys) mogą wyspiarzy ucywilizować, jednak spotykają się z silną opozycją pozostałych rodów
+        - [władczyni](#p_cerys) trzyma na dworze druida ([Myszowora](#p_myszowor)?), który uratował ją od trucizny po nieudanym zamachu
+        - trucizna była połączeniem alchemii i magii (skąd to [Skovik](#p_skovik) miał?)
+        - wyspa [Undvik](#l_undvik), miejsce gdzie rozpoczęła się "Zapaść", jest celem wypraw wyspiarzy polujących na obudzone czy też nowo przybyłe lodowe giganty. Dzięki tej rozrywce mniej się biją między sobą
+    - [Radcliffe](#p_radcliffe) i Mozaik
+        - mag musiał interweniować, ponieważ [Viraxas](#p_ksiaze_viraxas) jest obrażony na czarodziejów, a szczególnie na żeńską część kasty, przez to jak jego żona była traktowana na [Aretuzie](#l_wyspa_thanedd) - jego asystentka, Mozaik, nie mogła nic wskórać
+        - [władyka](#p_ksiaze_viraxas) nasłał (nieoficjalnie ma się rozumieć) piratów ze [Skellige](#l_wyspy_skellige) pod przywództwem [Ragnara Czarnego](#p_ragnar), by grabił statki transportujące zaklęte przedmioty
+        - piratów podjudza jeszcze ktoś inny, identyfikujący się broszą o kształcie Salamandry - [Keira](#p_keira_metz) wspomina, że jakiś [Wyzimski](#l_wyzima) gang tak się znaczył, a [Triss](#p_triss_merigold) może wiedzieć więcej
+        - Przejęte przez [władcę Kerrack](#p_ksiaze_viraxas) magiczne artefakty są bezpiecznie przechowywane poza granicami kraju. Jest skłonny pertraktować, ale nie z czarodziejkami
+        - gdy [Ida](#p_ida) sarkastycznie komentuje zachowanie władców, za jej plecami zauważamy [Filavandrela](#p_filavandrel)
+        - ktoś musiał donieść [Viraxasowi](#p_ksiaze_viraxas) o transportach, sam by się nie dowiedział
+    - [Bras](#p_bras)
+        - [Mayena](#l_mayena) straciła znaczenie. W miejscu miasta stawiany jest fort z minimalną obsadą, po drugiej stronie rzeki równy garnizon trzyma [Nilfgaard](#l_nilfgaard). Punkt mocy został totalnie wyczerpany, nie zostało nic
+        - [Brugge](#l_m_brugge) się uspokoiło, gdy duża siła redańsko-temerska opuściła konstruowany fort
+        - [Nilfgaard](#l_nilfgaard) ma nowego cesarza, [Morvrana Voorhisa](#p_morvran)
+    - Do spotkania włącza się [Triss](#p_triss_merigold), wyraźnie zajęta czymś innym
+    - [Kajetan](#g_kajetan)
+        - przekazuje wiadomość od Księcia [Myrtona](#p_lord_myrton)
+        - magowie zaczynają się oburzać, gdy z pozycji [Merigold](#p_triss_merigold) pojawia się sam  [Dijkstra](#p_dijkstra), wchodząc [elfowi](#g_kajetan) w słowo
+        - [bohater](#g_kajetan), nie chcąc robić dziecinnie wyglądającej sceny, ustępuje miejsca nieproszonemu arcyszpiegowi
+    - [Dijkstra](#p_dijkstra)
+        - doniósł [Viraxasowi](#p_ksiaze_viraxas) o przemycie magicznych przedmiotów
+        - [Filippa](#p_filippa_eilhart), jak [Raffard Biały](#p_raffard), miała zbyt duży wpływ polityczny i to trzeba było ukrócić
+        - [Radowid](#p_krol_radowid) za głowę [Filippy](#p_filippa_eilhart) zwróci magom nadania i artefakty
+    - [Triss Merigold](#p_triss_merigold)
+        - próbuje uspokoić i przemówić do rozsądku rozwścieczonych zebranych
+        - współpracując z [Dijkstrą](#p_dijkstra) (dobrowolnie czy pod przymusem) definitywnie zaszkodziła swojej pozycji, jej prawie pewna pozycja przyszłej głowy Nowej [Kapituły](#r_kapitula) jest teraz wątpliwa
+2. Akcja telekomunikacja
+    - zanim [Kajetan](#g_kajetan) uspokoi się po chamskim zachowaniu [Dijkstry](#p_dijkstra) i zacznie zadawać pytania o [Skovika](#p_skovik), [Ilana](#g_ilana) przypomina [elfowi], że powinien poinformować [Ignę](#p_igna) o tym co zaszło, i wyrusza odebrać wyspiarza z lasu
+    - [Bras](#p_bras) też wychodzi, gdy [mag] zaczyna rozsyłać wiadomości:
+        - do [Igny](#p_igna): [Dijkstra](#p_dijkstra) dotarł do [Kapituły](#r_kapitula) w trzy dni, i jego wystąpienie jest w centrum uwagi; [Dusek](#p_dusek) chce się dobrać do nietkniętej wieży maga za dwa świecidełka; Na bagnach jest punkt żywiołów, może być przydatny organizacji [Myrtona](#p_lord_myrton)
+        - z [Leivem](#p_leiv): Kto jeszcze steruje [Ragnarem](#p_ragnar), bo wspominałeś o tym - ktoś kto ma duże plecy; obiecuje pomóc pozbyć się [Cerys](#p_cerys), dał mu magiczne urządzenie do śledzenia statków które ma napadać
+        - z Radcliffem: dzieli się wiadomościami od [Leiva](#p_leiv) o [Ragnarze](#p_ragnar); w zamian może przetestować i używać mobilnego kręgu aportacyjnego który obecnie znajduje się w Kerrack
+        - z [Stregoborem](#p_stregobor):
+            - punkt zwarcia sfer Pustułki nie jest zakotwiczony; budowniczy wież uznali że teren jest zbyt trudny
+            - [Kajetan](#g_kajetan) wspomina o płaskorzeźbie przedstawiającej punkty zwarcia sfer oraz dostępie do archiwów [Aen Drisichean](#r_aen_drisichean)
+            - wspomina też o istnieniu [Aen Eldrin](#r_aen_eldrin)
+            - rozmówca jest zainteresowany, ale najbardziej interesuje go ściana którą nazywa "iluzją idealną", chciałby aby poszukać informacji na ten temat w bibliotece w Crag An (nie wie że biblioteka jest właśnie tam - przynajmniej [Kajetan](#g_kajetan) mu nie powiedział)
+            - interesuje go też dalsza współpraca, najchętniej oczywiście dostęp do Crag An
+    - Kolejne dni [elf](#g_kajetan) spędza na odbudowie klatki schodowej i podłogi, wydzieleniu dwóch sypialni i ich umeblowaniu
+    - [Ilana](#g_ilana) z pewnymi opóźnieniami dociera do [Wioski](#l_wioska)
+    - Rozmawia z [Finarrinem](#p_druid_finarrin) i [Enid](#p_enid), marudzi na pomysł [Kajetana](#g_kajetan) by odwiedzić bibliotekę w Crag An

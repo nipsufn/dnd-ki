@@ -7,6 +7,7 @@
     - mag
     - agent polowy Nowej [Kapituły](#r_kapitula)
     - stara się kontrolować sytuację pod [Mayeną](#l_mayena)
+- <a id='p_carduin' pattern='Carduin* z Lan Exeter,Carduin*'>Carduin z Lan Exeter</a> - mag, człowiek, drugi w Nowej [Kapitule](#r_kapitula) (?)
 - <a id='p_dorregaray' pattern='Dorregaray'>Dorregaray z Vole</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
 - <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy [Triss Merigold](#p_triss_merigold)
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek [Kapituły](#r_kapitula)
@@ -23,6 +24,11 @@
 - <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w [Mayenie](#l_mayena) na dybuga
 - <a id='p_ida' pattern='Ida,Id* Emean'>Ida Emean aep Sivney</a> - elf, mag,  członek [Nowej Kapituły](#r_kapitula)
     - złośliwi powiedzieli by druga we wszystkim w porównaniu z [Francescą Findabair](#p_francesca)
+- <a id='p_idaran' pattern='Idaran*'>Idaran</a> - mag,
+    - uczeń [Alzura](#p_alzur)
+- <a id='p_istredd' pattern='Istredd*'>Istredd</a> - mag, człowiek
+    - archeolog
+    - nie jest zainteresowany polityką jak na maga
 - <a id='p_arcydruid_ivryn' pattern='Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'>Arcydruid Ivryn</a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć [Carreras](#l_carreras) i wypaczyć okoliczne miejsce mocy
     - przebywał też w [Craag An](#l_craag_an) gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
@@ -31,12 +37,22 @@
 - <a id='p_koral' pattern='Koral,Keir* Neyd,Neyd'>Lytta "Koral" Neyd</a> - ?, mag
     - zginęła w drugiej bitwie pod [Sodden](#l_sodden)
 - <a id='p_lambert' pattern='Laber*'>Lambert</a> - człowiek, wiedźmin
+- <a id='p_malaspin' pattern='Malaspin*'>Malaspin</a> - mag
+    - nauczyciel [Alzura](#p_alzur)
+    - stworzył wiedźminów szkoły [gryfa](#b_gryf)
 - <a id='p_margarita' pattern='Margari*,Margari* Laux-Antille'>Margarita Laux-Antille</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
     - była rektorka [Aretuzy](#l_wyspa_thanedd)
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
     - przebywa na [Skellige](#l_wyspy_skellige)
 - <a id='p_radcliffe' pattern='Radcliffe'>Radcliffe z Oxenfurtu</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
+- <a id='p_raffard' pattern='Raffard* Biał*,Raffard*'>✝ Raffard Biały</a> - człowiek, mag
+    - zajmował się polityką, co skończyło się wojną "domową" wśród magów
+- <a id='p_stregobor' pattern='Stregobor*'>Stregobor</a> - człowiek, mag
+    - archeolog
+    - mistrz iluzji
+    - nie jest zainteresowany polityką jak na maga
+- <a id='p_zangenis' pattern='Stucco,Zangenis*,Stucco Zangenis*'>Stucco Zangenis</a> - człowiek, mag
 - <a id='p_triss_merigold' pattern='Triss,Triss Merigold,Merigold'>Triss Merigold</a> - ?, mag
     - członek [Kapituły](#r_kapitula), zajmowała się intrygami politycznymi
     - była doradczynią [Króla Foltesta](#p_krol_foltest) w [Temerii](#l_temeria)
@@ -230,6 +246,7 @@
     -<a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
 - [Nilfgaard](#l_nilfgaard)
     - <a id='p_emhyr' pattern='Cesarz* Ehmyr*,Ehmyr*'>✝ Emhyr</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
+    - <a id='p_morvran' pattern='Cesarz* Morvran*,Morvran* Voorhis*,Morvran*,Voorhis*'>Cesarz Morvran Voorhis</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
 - [Redania](#l_redania)
     - <a id='p_krol_radowid' pattern='Król* Radowid*,Radowid*'>Król Radowid V</a> - ; król [Redianii](#l_redania)
     - <a id='p_dijkstra' pattern='Dijkstr*'>Dijkstra</a> - ; szef redańskiego wywiadu, obecnie hrabia [Redanii](#l_redania) na [Temerię](#l_temeria)
@@ -315,3 +332,4 @@
         zwany też Szalonym, głowa klanu Drummond
         ma na pieńku z klanem an Craite
         wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](#l_wyspy_skellige), [Cerys an Craite](#p_cerys)
+    - <a id='p_ragnar' pattern='Ragnar* Czarn*,Ragnar*'>Ragnar Czarny</a> - człowiek, pirat

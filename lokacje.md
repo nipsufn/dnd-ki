@@ -11,7 +11,7 @@
         - nietknęte ruiny dużeko elfickeigo miasta
     - <a id='l_duen_canell' pattern='Duen Canell'>Duen Canell</a>
         - osada/miasto/stolica Driad
-        - _"Serce Brokilonu"_
+        - _"Serce [Brokilonu](#l_brokilon)"_
     - <a id='l_col_serrai' pattern='Col Serrai'>Col Serrai</a>
         - naturalne źródła; miejsce leczenia
     - <a id='l_wioska' regex='Wios[ck]\w{0,3}' comment='Wiosna...'>Wioska</a>
@@ -109,6 +109,10 @@
     - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
         - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Aretuz*'>Wyspa Thanedd</a>
             zniszczona szkoła czarownic, [Aretuza](#l_wyspa_thanedd)
+    - <a id='l_gora_cremora' pattern='Gór* Cremor*,Risberg*'>Góra Cremora</a>
+        - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
+        - magowie nazywają zajście "fuszerką"
+        - związane z pochodzeniem [Ilany](#g_ilana)
     - <a id='l_dorian' pattern='Dorian'>Dorian</a>
     - <a id='l_maribor' pattern='Maribor*'>Maribor</a>
         - zniknął się po Dwójksiężycowej Nocy
@@ -142,6 +146,8 @@
 - <a id='l_wyspy_skellige' pattern='Wysp* Skellige,Skellige'>Wyspy Skellige</a>
     - <a id='l_ard_skellig' pattern='Ard Skellig'>Ard Skellig</a>
         - największa wyspa na [Skellige](#l_wyspy_skellige)
+    - <a id='l_undvik' pattern='Undvik'>Undvik</a>
+        - jedna z wysp [Skellige](#l_wyspy_skellige), dom lodowych gigantów
     - <a id='l_fornhala' pattern='Fornhal*'>Fornhala</a>
         - jedna z osad na Wyspach
         - siedziba Vildcaarlów

@@ -62,7 +62,7 @@
         - w przeszłości widzi, jak ktoś sabotował wyprawę archeologiczną od której wszystko się zaczęło, wybuchającą fiolkę z czarną cieczą
         - elfy powinny były zostawić laboratorium [Wranów](#r_wran) nietknięte - są rzeczy, które powinny pozostać zapomniane
         - onieśmielona [Ilana](#g_ilana) zdaje się straciła pewność, czy rzeczywiście chce wiedzieć czym jest i skąd pochodzi - nie dostaje odpowiedzi na pytania, których boi się zadać wprost
-        - zamiast tego [driada](#p_eithne) zdradza dwa słowa, które powinny naprowadzić [druidkę](#g_ilana) na trop aby sama poznała prawdę kiedy rzeczywiście będzie na to gotowa: Risberg ([Kajetan](#g_kajetan) rozpoznaje nazwę szczytu w górach oddzielających [Brokilon](#l_brokilon) od [Temerii](#l_temeria)) oraz Dussard
+        - zamiast tego [driada](#p_eithne) zdradza dwa słowa, które powinny naprowadzić [druidkę](#g_ilana) na trop aby sama poznała prawdę kiedy rzeczywiście będzie na to gotowa: [Risberg](#l_gora_cremora) ([Kajetan](#g_kajetan) rozpoznaje nazwę szczytu w górach oddzielających [Brokilon](#l_brokilon) od [Temerii](#l_temeria)) oraz [Dussard](#r_dussard)
         - mówi [Ilanie](#g_ilana) że nie była niechciana - została wychowana przez druidów ponieważ [las](#l_brokilon) uznał, że tak przysłuży mu się najlepiej, nazywa [dziewczynę](#g_ilana) nie siostrą, ale rodziną
         - wspomina, że [Finarrin](#p_druid_finarrin) widzi jej potencjał, a jej służba lasowi nie dobiegła jeszcze końca
     - Audiencja natomiast dobiega końca. [Eithne](#p_eithne) odchodzi tym samym sposobem, którym przybyła.

@@ -14,7 +14,7 @@
     - [Ilana](#g_ilana), robiąc porządki w torbach przypomina sobie o dzienniku polowym [Myszowora](#p_myszowor), który "pożyczyła" z biblioteki:
         - na północy [Brokilonu](#l_brokilon) znajduje się pasmo górskie zwieńczone samotnym szczytem Riessberg
         - szczyt stanowi krwawy znacznik w historii ościennych państw - [Cidaris](#l_cidaris) i [Kerack](#l_kerack)
-        - ludzie z południa zdają się nie mówić zbyt dużo o tym miejscu, ale kiedy już to robią, używają nazwy Góra Cremora
+        - ludzie z południa zdają się nie mówić zbyt dużo o tym miejscu, ale kiedy już to robią, używają nazwy [Góra Cremora](#l_gora_cremora)
         - nazwa Riessberg jest używana tylko i wyłącznie przez ludzi z północy (z [Kerack](#l_kerack) i [Cidaris](#l_cidaris))
 2. Lokalne zwyczaje
     - W czasie naszego pobytu w uzdrowisku jedna z driad rodzi. Dziecko zaraz po urodzeniu zostaje zabrane przez [Aglais](#p_aglais) do lasu - [Ilanę](#g_ilana) zdaje się to strasznie interesować.
