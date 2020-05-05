@@ -33,7 +33,7 @@
     - Szczurołap zostaje skuty srebrem i zamknięty w lochach.
     - [Lord Myrton](#p_lord_myrton) nie wydaje się być rozwścieczony faktem, że pytaliśmy o nagrodę Radę zamiast niego (potencjalnie nadwyrężając jego pozycję polityczną).
     - Częstuje nas winem, tym razem z drewnianych kielichów.
-    - Zdajemy relację z wyprawy. Przez cały czas bracia Drummond próbują niemal wleźć w ściany jakby czując obawę przed zwróceniem na siebie zbytniej uwagi [Myrtona](#p_lord_myrton).
+    - Zdajemy relację z wyprawy. Przez cały czas bracia [Drummond](#p_drummond) próbują niemal wleźć w ściany jakby czując obawę przed zwróceniem na siebie zbytniej uwagi [Myrtona](#p_lord_myrton).
     - Mamy stawić się przed radą miejską następnego dnia po odbiór nagrody.
 5. [Różyczka](#l_rozyczka) wieczorem, po polowaniu
     - Świętujemy sukcess dużą ilością mocnego alkoholu.

@@ -12,7 +12,9 @@
 - <a id="r_feinewed" pattern='[Ff]einewe*'>Feinewed</a>
     - kwiaty rosnące tylko na ziemi splamionej krwią starszą krwią
 - <a id="r_goecja" pattern='[Gg]oecj*'>Goecja</a> - szkoła magi skupiająca się na kontrolowaniu dusz i sił życiowych
-- <a id="r_lwioglowy_pajak" pattern='Lwiogłow* Pają*'>Lwiogłowy Pająk (Coram Agh Terra)</a> - bóg, zły. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów [Foltesta](#p_krol_foltest) na terenach [Temerii](#l_temeria). Po śmierci [Foltesta](#p_krol_foltest) wiernych przybywa
+- <a id="r_lwioglowy_pajak" pattern='Lwiogłow* Pają*'>Lwiogłowy Pająk (Coram Agh Terra)</a> - bóg, zły. Stary kult. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów [Foltesta](#p_krol_foltest) na terenach [Temerii](#l_temeria). Po śmierci [Foltesta](#p_krol_foltest) wiernych przybywa
+- <a id="r_leopatis" pattern='Leopatis'>Leopatis</a> - stare bóstwo i jego kult
+- <a id="r_wodni_panowie" pattern='Wodn* Pan*'>Wodni Panowie</a> - stare bóstwa i ich kult
 - <a id='r_aen_eldrin' pattern='Aen Eldrin'>Aen Eldrin</a>
     - podgatunek elfów
     - "Lud Lasu", cztery elfy "pomagające" [Brokilonowi](#l_brokilon) i [Eithne](#p_eithne) zaliczają się do nich
@@ -49,6 +51,14 @@
     - [Greater restoration](https://5e.tools/spells.html#greater%20restoration_phb) zmniejsza objawy klątwy/choroby
 - <a id='r_cialognilec' pattern='[Cc]iałognil*'>Ciałognilec</a><a id='r_flesh_rot'></a>
     - zmodyfikowana przez [Floriana z Vicovaro](#p_florian_z_vicovaro) odmiana zarazy pustoszy [Verden](#l_verden)
+- Punkty zwarcia sfer:
+    - [Skellige](#l_wyspy_skellige) - <a id='r_sokol' pattern='Sok*'>Sokół</a>, pokryte lodem
+    - [Wyspa Thanedd](#l_wyspa_thanedd) - <a id='r_mewa' pattern='Mew*'>Mewa</a>, szkiełko wybuchło
+    - [Brokilon](#l_brokilon)- <a id='r_kruk' pattern='Kruk*'>Kruk</a>, bez szkiełka
+    - Metinna, <a id='r_jaskolka' pattern='Jaskół*'>Jaskółka</a>, bez szkiełka
+    - Góry Smocze, <a id='r_pardwa' pattern='Pardw*'>Pardwa</a>, bez szkiełka
+    - Patelnia, <a id='r_kukawka' pattern='Kukaw*'>Kukawka</a>, bez szkiełka
+    - Środek [Nilfgaardu](#l_nilfgaard), <a id='r_bazant' pattern='Bażan*'>Bażant</a>, bez szkiełka; zdaje się być najważniejszy
 - Kalendarz elfów
     - Święta astronomiczne
         - Solstycja (przesilenia)

@@ -108,10 +108,18 @@
         - <a id='l_uda' pattern='Chętn* Ud*'>Chętne Uda</a>
             - zamtuz
     - <a id='l_bagna' pattern='Bang*'>Bagna</a>
+        - <a id='l_brzoza' pattern='Brzoza*'>Pustelnia Lentinusa przy Brzozie</a>
+            - drzewo zasadził podobno jakiś elfi król zwany [Oberonem](#p_oberon) (na pewno nie król Aen Seidhe)
+        - zatopiona wieża [Alzura](#p_alzur)
+        - zrujnowana wieża [Alzura](#p_alzur)
+        - ukryta wieża [Alzura](#p_alzur)
+        - wyczerpany krąg mocy
+        - chatka, jaskinia i krąg żywiołu ziemi
+            - zamieszkują go [Echinopsy](#b_bluszcz) i [Archeospor](#b_archeospor)
     - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
         - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Aretuz*'>Wyspa Thanedd</a>
             zniszczona szkoła czarownic, [Aretuza](#l_wyspa_thanedd)
-    - <a id='l_gora_cremora' pattern='Gór* Cremor*,Risberg*'>Góra Cremora</a>
+    - <a id='l_gora_cremora' pattern='[Gg]ór* Cremor*,Risberg*'>Góra Cremora</a>
         - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
         - magowie nazywają zajście "fuszerką"
         - związane z pochodzeniem [Ilany](#g_ilana)

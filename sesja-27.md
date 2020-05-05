@@ -54,7 +54,7 @@
         - mogła to być wieża z naszej wizji
         - ruiny wyciągają Moc z okolicy i kierują w dół ruin budowli, efek przypomina nieco silne pole antymagiczne tworzone przez obelisk nieopodal [Wioski Druidów](#l_wioska)
     - Pod jedną ze ścian, przez szkiełka, dostrzegamy magiczny błysk z innego świata. [Kajetan](#g_kajetan) prosi [Skovika](#p_skovik) o pomoc w rozłupaniu głazu aby móc dostać się do środka.
-    - Starszy Drummond zgadza się i kilkoma potężnymi uderzeniami rozbija kamień, lądując w środku razem z kupą gruzu.
+    - Starszy [Drummond](#p_drummond) zgadza się i kilkoma potężnymi uderzeniami rozbija kamień, lądując w środku razem z kupą gruzu.
     - Wewnątrz fragemntu wieży [Kajetan](#g_kajetan) odnajduje zmumifikowane elfie ciało:
         - ma setki lat
         - odziane w niegdyś bogatą szatę (mag?),

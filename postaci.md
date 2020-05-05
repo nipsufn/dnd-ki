@@ -1,6 +1,8 @@
 ## Postaci
 - <a id='p_alzur' pattern='Alzur*'>Alzur</a> - człowiek;
     - mag, "ojciec" Wiedźminów
+- <a id='p_assaire' pattern='Assire var Anahid,Assaire'>Assire var Anahid</a> - człowiek, mag;
+    - brat: [Florian](#p_florian_z_vicovaro) [var Anahid](#p_florian_z_vicovaro)
 - <a id='p_cianfanelli' pattern='Cianfanelli*'>Cianfanelli</a> - ?;
     krasnolud, właściciel banków;
 - <a id='p_bras' pattern='Bras*'>Bras z Ban Aard</a> - człowiek;
@@ -8,7 +10,8 @@
     - agent polowy Nowej [Kapituły](#r_kapitula)
     - stara się kontrolować sytuację pod [Mayeną](#l_mayena)
 - <a id='p_carduin' pattern='Carduin* z Lan Exeter,Carduin*'>Carduin z Lan Exeter</a> - mag, człowiek, drugi w Nowej [Kapitule](#r_kapitula) (?)
-- <a id='p_dorregaray' pattern='Dorregaray'>Dorregaray z Vole</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
+- <a id='p_dorregaray' pattern='Dorregaray*'>Dorregaray z Vole</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
+    - uczeń: [Lars](#p_lars)
 - <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy [Triss Merigold](#p_triss_merigold)
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek [Kapituły](#r_kapitula)
     - potrafi się zamieniać w sowę, możliwe inne zwierzęta
@@ -42,6 +45,8 @@
     - stworzył wiedźminów szkoły [gryfa](#b_gryf)
 - <a id='p_margarita' pattern='Margari*,Margari* Laux-Antille'>Margarita Laux-Antille</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
     - była rektorka [Aretuzy](#l_wyspa_thanedd)
+- <a id='p_mozaik' pattern='Mozai*'>Mozaik</a> - czarodziejka
+    - asystentka: [Radcliffe](#p_radcliffe)
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
     - przebywa na [Skellige](#l_wyspy_skellige)
@@ -61,13 +66,13 @@
     - miał immunitet od [Dwimerytu](#r_dwimeryt)
     - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
-    - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu Drummond. Prowodyr zamachu na [Cerys](#p_cerys)
+    - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu [Drummond](#p_drummond). Prowodyr zamachu na [Cerys](#p_cerys)
         [Ivar](#p_ivar): brat
         [Leiv](#p_leiv): brat
-    - <a id='p_ivar' pattern='Ivar*'>Ivar</a> - człowiek, lat około 20 paru, krótkie blond włosy lekko wypłowiałe od słońca, nosi się w ciężkiej zbroi, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu Drummond
+    - <a id='p_ivar' pattern='Ivar*'>Ivar</a> - człowiek, lat około 20 paru, krótkie blond włosy lekko wypłowiałe od słońca, nosi się w ciężkiej zbroi, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu [Drummond](#p_drummond)
         [Skovik](#p_skovik): brat
         [Leiv](#p_leiv): brat (bliźniak)
-    - <a id='p_leiv' pattern='Leiv*'>Leiv</a> - człowiek, lat około 20 paru, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu Drummond
+    - <a id='p_leiv' pattern='Leiv*'>Leiv</a> - człowiek, lat około 20 paru, spostrzegawczy, o bystrym spojrzeniu, nieco bardziej wymyślna fryzura, nosi lekki skórzany pancerz, pochodzi z [Wysp Skellige](#l_wyspy_skellige) z klanu [Drummond](#p_drummond)
         [Skovik](#p_skovik): brat
         [Ivar](#p_ivar): brat (bliźniak)
     - <a id='p_ebba' pattern='Ebb*'>Ebba</a> - człowiek,
@@ -95,8 +100,9 @@
         partnerka [Finarrina](#p_druid_finarrin);
         podczas rytuału Równonocy przeskoczyła świadomością do szopa pracza, od tego czasu ukrywała się jako zwierzę w domu druida
     - <a id='p_druid_finarrin' pattern='Finarrin*,[Hh]ierofan*,Druid* Finarrin*'>Druid Finarrin</a> - ; druid
-        [Hierofanta](https://en.wikipedia.org/wiki/Heffalump) [Brokilońskiego](#l_brokilon) kręgu druidzkiego
-        Uczył [Ilanę](#ilana)
+        - [Hierofanta](https://en.wikipedia.org/wiki/Heffalump) [Brokilońskiego](#l_brokilon) kręgu druidzkiego
+        - Uczył [Ilanę](#ilana)
+        - ma co najmniej 150 lat
     - <a id='p_gardi' pattern='Gardi*,Garbi*'>Gardi</a>
         druid, wołany Ropuch
     - <a id='p_gebo' pattern='Geb*'>Gebo</a> - niedźwiadek;
@@ -143,7 +149,9 @@
         - <a id='p_krol_venzlav_ii' pattern='Król* Venzlav* II,Venzlav* II,Król* Venzlav* Drugi*,Venzlav* Drugi*'>Król Venzlav II</a> - ; król [Brugge](#l_brugge)
             Podpisał umowy z [Nilfgaarderm](#l_nilfgaard)
         - <a id='p_florian_z_vicovaro' pattern='Pan* Florian*,Magist* Florian*,Pan* Florian* Vicovaro,Magist* Florian* Vicovaro,Florian* Vicovaro,Florian*,var Anahid*'>Magister Florian var Anahid z Vicovaro</a> - ; mag
+            - siostra: [Assaire](#p_assaire) [var Anahid](#p_florian_z_vicovaro)
         - <a id='p_lars' pattern='Lars*'>Lars</a> - ; domniemany przywódca szajki najemnych złoczyńców w [Brugge](#l_brugge); ukrywa swoją prawdziwą tożsamość pod iluzją, ciągle zmienia wygląd
+            - nauczyciel: [Dorregaray](#p_dorregaray)
         - <a id='p_gyf' pattern='Gyf*'>Gyf</a> - człowiek; w sile wieku, lekko siwiejący; kapitan straży granicznej w [Brugge](#l_brugge), współpracuje z magiem [Florianem](#p_florian_z_vicovaro)
         - <a id='p_burchard' pattern='Burchard*'>Burchard</a> - człowiek; Kapłan Proroka Lebiody
         - <a id='p_de_pons' pattern='De Pons*,Pons*'>Lord De Pons</a> - człowiek; szara eminencja, głowa (nie da się tego udowodnić) Redańskich sił specjalnych w [Brugge](#l_m_brugge)
@@ -287,6 +295,7 @@
             - agent [Myrtona](#p_lord_myrton)
         - <a id='p_baranina' pattern='Baranin*'>Baranina</a>
             - kieruje organizacją przestępczą, oferuje "ubezpieczenia"
+            - do niedawna był wyłącznym graczem na rynku używek
         - <a id='p_grimma' pattern='Grimm*'>Grimma</a>
             - Karczmarz, prowadzi "Pod Lisem" w dzielnicy nieludzi
         - <a id='p_vivaldi' pattern='Vime Vivaldi*,Vivaldi*'>Vime Vivaldi</a>
@@ -298,6 +307,8 @@
         - <a id='p_lentinus' pattern='Druid* Lentinus*,Lentinus*'>Druid Lentinus</a>
             - samotnik z bagien
             - mieszka w korytarzach pod starą brzozą
+            - hoduje wiwernę imieniem Diana
+            - pędzi nalewkę z mandragory i uprawia grzyby z pod góry Carbon
     - [Burdoff](#l_burdoff)
         - <a id='p_landosz' pattern='Landosz*'>Grododzierżca Landosz</a>
     - [Zavada](#l_zavada)
@@ -310,10 +321,10 @@
         - prowadzi(ła?) obwoźny burdel na granicach z [Nilfgaardem](#l_nilfgaard), zarabiając na utrzymanie Wiewiórek
         - [Enid](#p_enid), jako jedna z jej byłych "pracownic", pała doń rządzą zemsty
     - <a id='p_andy' pattern='Andy*,Andi*,Andy.*'>Andy Breckenriggs</a>
-        - niziołek, szukał dziewczyn i złota Karrol
+        - niziołek, szukał dziewczyn i złota [Karoll](#p_karoll)
         - przewiózł nas z [Reganem](#p_regan) pod [Wyzimę](#l_wyzima)
     - <a id='p_regan' pattern='Regan*'>Regan Biberwelt</a>
-        - krasnolud, szukał dziewczyn i złota Karrol
+        - krasnolud, szukał dziewczyn i złota [Karoll](#p_karoll)
         - przewiózł nas z [Andym](#p_andy) pod [Wyzimę](#l_wyzima)
         - ma na przedramieniu wytatuowany symbol [Novigradzkiego](#l_novigrad) gangu [Tasaka](#p_tasak)
 - [Verden](#l_verden)
@@ -328,8 +339,8 @@
         brat [Cerys](#p_cerys)
     - <a id='p_druid_artis' pattern='Druid* Artis*,Artis*'>Druid Artis</a> - ; druid
         przewodzi Vildkaarlom
-    - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a><a id='p_drummond'></a> - ;
-        zwany też Szalonym, głowa klanu Drummond
+    - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a><a id='p_drummond' pattern='Drummond'></a> - ;
+        zwany też Szalonym, głowa klanu [Drummond](#p_drummond)
         ma na pieńku z klanem an Craite
         wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](#l_wyspy_skellige), [Cerys an Craite](#p_cerys)
     - <a id='p_ragnar' pattern='Ragnar* Czarn*,Ragnar*'>Ragnar Czarny</a> - człowiek, pirat

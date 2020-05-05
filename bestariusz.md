@@ -1,7 +1,14 @@
 ## Bestariusz
 - Rośliny
-    - <a id='b_bluszcz' pattern='Pnącz* Bluszczopodobn*'>Pnącze Bluszczopodobne</a>
-        - Stosunkowo słabe, strzela kolcami
+    - <a id='b_archeospor' pattern='[Aa]rcheospor*'>Archeospor</a>
+        - wielka muchołapka czy rosiczka
+        - jego pyłek otłumania, kusi
+        - rośnie w miejscach splamionych krwią, najchętniej niewinną
+        - by rosnąć musi żywić się stworzeniami na których krwi wyrósł
+    - <a id='b_bluszcz' pattern='Pnącz* Bluszczopodobn*,[Ee]chinops*'>Echinops</a>
+        - jako pnącze stosunkowo słabe, strzela kolcami
+        - jako bulwa próbuje opleść trującymi pnączami
+        - dziecięca forma [Archeospora](#b_archeospor)
     - <a id='b_orchidea' pattern='Pnącz* Orchideopodobn*'>Pnącze Orchideopodobne</a>
         - Jest w stanie zasiać zarodniki w żywym organizmie i kontrolować go jak długo jest z nim połączony cienkimi kłączami
         - Kwiaty wybuchają pyłem który zadaje znaczne obrażenia
@@ -73,6 +80,7 @@
         - bardzo unikają światła dziennego i latarni
         - możliwe że ignorują żywych którzy w ogóle się nie ruszają
         - ponoć są wstanie nadać zwłokom _"parodię życia"_[<sup>1</sup>](#ad1)
+        - niektóre odmiany mogą czerpać siłę z błyskawic
     - <a id='b_migot' pattern='[Kk]o* [Mm]igo*'>Kot Migot</a>
         - 6 łap, dwa ogony zakończone czymś jak pyski pijawki
         - jest bardzo szybki dopóki nie zada mu się pierwszej rany

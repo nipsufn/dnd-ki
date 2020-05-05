@@ -33,7 +33,7 @@
     - [Ilana](#g_ilana) znajduje na ziemi ślady stóp wskazujące, że ktoś dotarł do altanki i trochę kręcił się wokół niej, ale to wszystko - nie ma śladów sugerujących dalszą wędrówkę.
     - Świetlik w altanie gęsto pokrywa pajęczyna, która ciągnie się aż do pobliskich drzew.
     - [Kajetan](#g_kajetan) bada ślady w samej altanie. Tym sposobem odkrywamy dziwną, wypukłą mozaikę, która znajduje się pod cienką warstwą ziemi zalegającej na podłodze altanki.
-    - Mozaika przedstawia taki oto obraz:
+    - [Mozaika](#p_mozaik) przedstawia taki oto obraz:
         - od lewej widać szpaler elfich postaci o zwierzęcych przymiotach (kopytach, ogonach, rogach) zmierzających w stronę centrum
         - w centrum znajduje się wieża z wiszącym nad nią czarnym ptakiem (krukiem?), na jego skrzydłach są wypisane runy
         - po prawej stronie wieży widzimy parę elfów, kobietę i mężczyznę otoczonych przez mniejsze, oddające im hołd sylwetki

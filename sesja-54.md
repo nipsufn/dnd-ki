@@ -55,7 +55,7 @@
         - wewnątrz dalej palą się magiczne, srebrne płomienie, oświetlające schody
         - mniej więcej w połowie wysokości znajduje się pokój wartowniczy, można iść dalej w górę, w głąb skał, pod prąd wody, drzwi są jednak zapieczętowane i oznaczone insygniami zakonu Zielonych Rycerzy
         - są też drzwi w bok, do zawalonego tunelu, który niegdyś biegł wewnątrz i w poprzek tamy
-    - [Kajetanowi](#g_kajetan) udaje się wykombinować jak umieścić zaklęcie w kryształach, które wyniósł z [Craag An](#l_craag_an) - potrzeba mu jednak miarki [Alkahestu](#r_alkahest), Białej Mewy (która dla większości jest bardzo toksyczna), lub ewentualnie dwóch miarek destylatu z mandragory
+    - [Kajetanowi](#g_kajetan) udaje się wykombinować jak umieścić zaklęcie w kryształach, które wyniósł z [Craag An](#l_craag_an) - potrzeba mu jednak miarki [Alkahestu](#r_alkahest), Białej [Mewy](#r_mewa) (która dla większości jest bardzo toksyczna), lub ewentualnie dwóch miarek destylatu z mandragory
 5. Zmartwychwstanie
     - [Skovik](#p_skovik) budzi się po 2 tygodniach. Nie pamięta nic od kiedy dostał w plecy. Ostatnie, co pamięta to głos [Kajetana](#g_kajetan)... Czyżby elf wysłał jedną ze swoich wiadomości w wyjątkowo niefortunnym momencie?
     - [Wyspiarz](#p_skovik) jest bardzo osłabiony. Jego plecy zostały odbudowane i bardzo prawdopodobne, że wróci do pełni sił, jednak [Aglais](#p_aglais) stwierdza, że minie kolejnych kilka tygodni zanim będzie w stanie podróżować albo walczyć.

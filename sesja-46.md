@@ -27,7 +27,7 @@
 4. Zbrodnia i kara
     - W celi odwiedza nas sam kapitan [Gyf](#p_gyf). Towarzyszy mu sierżant, ale pozbywa się jego i pilnującego nas strażnika pod pretekstem przyniesienia listu gończego i pergaminu do spisania zeznań.
     - Wymieniamy informacje. Kapitan radzi nam abyśmy trzymali się planu [Larsa](#p_lars). Informuje nas także, że nad ranem zostaniemy przewiezieni do miasta na proces.
-    - Po tej rozmowie [Kajetan](#g_kajetan) kontaktuje się z [Leivem](#p_leiv). Drummond przekazuje, że nie udało mu się uciec, ale zna dalszy plan [Larsa](#p_lars). Transport wiozący nas na rozprawę ma napaść grupa [Larsa](#p_lars) i nas "odbić".
+    - Po tej rozmowie [Kajetan](#g_kajetan) kontaktuje się z [Leivem](#p_leiv). [Drummond](#p_drummond) przekazuje, że nie udało mu się uciec, ale zna dalszy plan [Larsa](#p_lars). Transport wiozący nas na rozprawę ma napaść grupa [Larsa](#p_lars) i nas "odbić".
     - Dostajemy kolację, a pilnujący nas strażnik zdejmuje nam kajdany. W nocy zmienia go strażnik z [Medownej](#l_medowna). Ten z kolei agresywnie próbuje wcisnąć nas w kajdany, ściąga nawet z tego powodu śpiącego już [Skaagsa](#p_skaags).
     - [Ilana](#g_ilana) ostrzega strażnika, że ich następne spotkanie skończy się dla niego tragicznie. Ten jednak nic sobie z tego nie robi, wręcz kipi złością - zaciska druidce kajdany najciaśniej jak się da, a [Kajetana](#g_kajetan) budzi kopniakiem żeby i jego zakuć.
     - [Skaags](#p_skaags) wydaje się być znużony nadgorliwością strażnika. [Ilana](#g_ilana) bez ogródek stwierdza, że może stać się mu krzywda jeśli nawinie jej się pod rękę w czasie rozprawy z czarodziejem. Zostaje odprawiony, a [sierżant](#p_skaags) z powrotem nas rozkuwa.

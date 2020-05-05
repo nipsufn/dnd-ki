@@ -40,10 +40,11 @@
     - Podróż łódką nie trwa długo. Na lądzie mija nas dwójka "fachowców" od potworów, elfka i jakiś osiłek, za którymi - oprócz alkoholu - ciągnie się duszący smród kadzidła.
     - [Łowczy](#r_lowca) Królewski, [Feliks](#p_feliks) z [Dorian](#l_dorian), oferuje 25GP za ubitą oszalałą [kikimorę](#b_kikimora), ale też 750GP za permanentne rozwiązanie problemu.
     - Witając się [Kajetan](#g_kajetan) przedstawia [druidkę](#g_ilana) jako _"Ilanę Brokilońską"_, co spotyka się z lekceważącym parsknięciem niedowierzania ze strony [Łowczego](#r_lowca).
-    - Doweiadujemy się, że[Kikimory](#b_kikimora) ciągną od południa, jakby przed czymś uciekały. [Wioska](#l_wioska) cegielników została opuszczona, bliższa, drwali, jeszcze się ponoć trzyma.
+    - Dowiadujemy się, że [Kikimory](#b_kikimora) ciągną od południa, jakby przed czymś uciekały. [Wioska](#l_wioska) cegielników została opuszczona, bliższa, drwali, jeszcze się ponoć trzyma.
+    - wiedźmin który miał się nimi zająć, przerwał negocjacje w sprawie ceny nagle znikając niecały miesiąc temu (pewnikiem był to [Gaetan](#p_gaetan))
     - Pomoc ze szkicem mapy bagien też może zostać wynagrodzona - wszelkie stare dokumenty zaginęły w wojnie, a teren przydałoby się jednak rozrysować.
     - Plotka głosi, że kiedyś w okolicy Bagna zwanej Gajem, [Zakon Płonącej Róży](#r_zakon) bił się z [Nilfgaardczykami](#l_nilfgaard).
-    - [Feliks](#p_feliks) słyszał o rzezi wiosek przy górze Cremora. W [Dorian](#l_dorian) było o tym dosyć głośno przez chwilę. Podobno wysłano tam nawet kilku wiedźminów do zbadania sprawy. Ci z kolei rzekomo natknęli się na ślady wilkołaka. Było to jakieś dwadzieścia parę lat temu.
+    - [Feliks](#p_feliks) słyszał o rzezi wiosek przy [górze Cremora](#l_gora_cremora). W [Dorian](#l_dorian) było o tym dosyć głośno przez chwilę. Podobno wysłano tam nawet kilku wiedźminów do zbadania sprawy. Ci z kolei rzekomo natknęli się na ślady wilkołaka. Było to jakieś dwadzieścia parę lat temu.
     - Snując przypuszczenia na temat nagłej agresji [kikimor](#b_kikimora) [Kajetan](#g_kajetan) wypala jakąś głupotę związaną z [Duskiem](#p_dusek), w skutek czego [Feliks](#p_feliks) zaczyna łypać na nas podejrzliwym okiem.
     - Ulatniamy się nim zdążymy napytać sobie więcej biedy lub, co gorsza, rzucić nieuzasadnione podejrzenia na [Duska](#p_dusek).
     - Już w drodze [Ilana](#g_ilana), swoim zwyczajem, zwraca [elfowi](#g_kajetan) uwagę, że ten czasem za dużo kłapie jęzorem i powinien pomyśleć zanim coś palnie. [Kajetan](#g_kajetan) upiera się, że [Ilana](#g_ilana) musi przedstawiać się z imienia i nazwiska, więc ta każe się mianować _"Ilaną z Zadupia"_.

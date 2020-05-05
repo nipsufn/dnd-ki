@@ -2,7 +2,7 @@
 1. Warownia, podziemia
     - Po nocnym odpoczynku w dla odmiany wygodnych łóżkach w bezpiecznej (jak narazie) przestrzeni, przymierzamy się do uruchomienia kuźni.
     - [Kajetan](#g_kajetan) gorączkowo przeczesuje księgi w poszukiwaniu informacji na temat paliwa zasilającego piec i działania samej kuźni.
-    - Bracia Drummond w tym czasie zmieniają wszelkie drewniane meble w rozpałkę do pieca, nie cackając się przy tym za bardzo.
+    - Bracia [Drummond](#p_drummond) w tym czasie zmieniają wszelkie drewniane meble w rozpałkę do pieca, nie cackając się przy tym za bardzo.
     - [Elf](#g_kajetan) przypomina sobie o dziwnym posągu-zbroi i dzieli się swoimi spostrzeżeniami z [Ilaną](#g_ilana).
     - [Druidka](#g_ilana) oddaje mu dwie z trzech bursztynowych kulek. Pierwsza, ta z kawałkiem poroża, zostaje umieszczona w dłoni posągu przez [Kajetana](#g_kajetan). Kulka po chwili znika, a na pustym wieszaku materializuje się coś jakby koszulka kolcza. Na ziemi obok wieszaka ląduje za to pakunek.
     - W pakunku tym znajdujemy komplet dobrej jakości ubrań przypominających uniform z wyhaftowanym na klatce rogatym hełmem i parę wysokich, porządnych skórzanych butów. Oprócz ubrań i butów znjadujemy także dziwny prostopadłościan z białego proszku.

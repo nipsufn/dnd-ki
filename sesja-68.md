@@ -19,8 +19,8 @@
 2. Postęp w poszukiwaniach
     - Nazajutrz udaje nam się ustalić lokację 2 z 3 wież, ale jedna jest całkowicie zatopiona, a druga - niemal doszczętnie zrujnowana. Trzeciej wieży niestety ani śladu mimo usilnych naszych starań i patrolowania okolicy z lotu ptaka.
     - Wracając zahaczamy o norę [Lentinusa](#p_lentinus). Opowiadamy mu co znaleźliśmy w jaskini. [Druid](#p_lentinus) jest przerażony i opowiada o roślinach, które mu przynieśliśmy:
-        - bulwy i strzelające pnącza to odmiany Echinopsa, które z czasem wyrastają na rośliny przypominające gigantyczne rosiczki
-        - ogromna rosiczka to Archeospor, żywiący się najchętniej takimi zwierzętami na jakich szczątkach się rozsiał
+        - bulwy i strzelające pnącza to odmiany [Echinopsa](#b_bluszcz), które z czasem wyrastają na rośliny przypominające gigantyczne rosiczki
+        - ogromna rosiczka to [Archeospor](#b_archeospor), żywiący się najchętniej takimi zwierzętami na jakich szczątkach się rozsiał
     - [Lentinus](#p_lentinus) mówi nam jak można się pozbyć niebezpiecznych chwastów. Proponuje przyciąć je srebrem i nagotować oleju z przyniesionych pędów, który - podany sztuczką wielkiej rosiczce - powinien go osłabić, a w odpowiedniej ilości nawet unicestwić. Mając jednak na uwadze starczą demencję [druida](#p_lentinus), dziękujemy mu za pomoc obiecując przekazać sprawę dalej.
     - [Ilana](#g_ilana) pyta o kryształ Esme. Okazuje się, że drugi krąg, który znaleźliśmy nadał by się na rytuał - [starzec](#p_lentinus) nazywa go kręgiem żywiołu ziemi. Niestety jego lokacja jest póki co zbyt niebezpieczna. Próbę reanimowania pierwszego, nieaktywnego już kręgu podejmowali uczniowie [Lentinusa](#p_lentinus), bezskutecznie. Rzeźba w centrum to golem, którego rzekomo miałaby aktywować burza.
     - Żegnamy się z [druidem](#p_lentinus). Idąc do portu wpadamy w wiosce drwali na grupę strażników porządkujących miejsce jatki jaka najwyraźniej wydarzyła się tu poprzedniej nocy. Towarzyszy im [Łowczy Feliks](#p_feliks).

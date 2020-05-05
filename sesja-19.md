@@ -1,6 +1,6 @@
 ### Sesja 19
 1. [Wioska](#l_wioska) w [Brokilonie](#l_brokilon)
-    - Z samego rana [Ilana](#g_ilana) zbiera grupę przy śniadaniu. Oboje z [Kajetanem](#g_kajetan) informują braci Drummond o swoich planach podróży do [Col Serrai](#l_col_serrai). 
+    - Z samego rana [Ilana](#g_ilana) zbiera grupę przy śniadaniu. Oboje z [Kajetanem](#g_kajetan) informują braci [Drummond](#p_drummond) o swoich planach podróży do [Col Serrai](#l_col_serrai). 
     - [Ivar](#p_ivar) z widoczną ulgą przyjmuje fakt, że nie zamierzają ich brać ze sobą, ale [Skovik](#p_skovik) niechętnie przystaje na taki układ.
     - [Kajetan](#g_kajetan) dowiaduje się od [Mirny](#p_mirna) jakie składniki są potrzebne do uwarzenia eliksirów uzdrawiających, co zupełnie nie pokrywa się z jego wizją druidycznej magii:
         - eliksir uzdrawiający (regular potion): serce zwierzęcia

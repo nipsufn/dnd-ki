@@ -30,26 +30,27 @@
             - Ciężka kusza
             - 35 bełtów
             - 1 Piersiówka z nalewką z mandragory, 1/2
+            - naszyjnik kul ognia, 4 nieodnawialne użycia
         - Schowany:
-            - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
             - Niewielka księga obita w skóre. Zapisana w starym dialekcie krasnoludzkim.
             - Księga magiczna +1 arcana
             - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
             - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
             - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
-            - Zwój: [Continual Flame](https://5e.tools/spells.html#continual%20flame_phb)
-            - Zwój: [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
             - 2 krystaliczny kawałek [dwimerytu](#r_dwimeryt), odbierający Moc
-            - Nalewka z mandragory, 2/3 butelki
+            - Nalewka z mandragory, 1²/₃ butelki
             - 12 porcji inkaustu
-            - 3 porcje kadzidła
-            - 4 porcje pyłu kamieni szlachetnych
-            - 8 porcji kredy
-            - 3 miarki Izzotoniku (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
-            - 27.5.0 gp
+            - 2 porcje kadzidła
+            - 1 porcje pyłu kamieni szlachetnych
+            - 5 porcji kredy
+            - 1 miarki Izzotoniku (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
+            - 10 złotych zębów
+            - kamień warty 50gp
+            - 248.3.0 gp
             - 5 butelek bimbru
             - Thieves Tools
             - Z [Craag An](#l_craag_an):
+                - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
                 - Notatki belfra z [Biblioteki](#l_biblioteka) [Craag An](#l_craag_an)
                 - Kryształowa kasetka na zaklęcie; żółta
                 - Kryształowa kasetka na zaklęcie; niebieska
@@ -57,19 +58,24 @@
                 - Medalion i ceramiczne (?) monety z [Craag An](#l_craag_an)
                 - Medalion bibliotekarza z [Craag An](#l_craag_an)
                 - Medalion posłusznika zakonu Zielonych Rycerzy
-                - 4 kryształy na zaklęcia
-    - Znane kręgi teleportacyjne:
+                - 2 kryształy na zaklęcia
+    - Znane kręgi aportacyjne:
         - [Ban Ard](#l_ban_ard)
         - [Craag An](#l_craag_an)
         - [Maribor](#l_maribor)
+        - [Świątynia Melitele](#l_smelitele)
+        - Kerrack (eksperymantalny)
     - Plany:
         - Obejrzeć medalion i monety znalezione w warowni w [Craag An](#l_craag_an)
-        - Zachować zaklęcia w kryształach
-        - Nauczyć się symboli publicznych kręgów teleportacyjnych
-        - Sprawdzić ruiny wieży [Merigold](#p_triss_merigold) w [Mariborze](#l_maribor) - materiały, krąg teleportacyjny
         - wrócić do podziemnego jeziora koło [Col Serrai](#l_col_serrai)
-        - wrócić do biblioteki w [Craag An](#l_craag_an)
-        - [Mirna](#p_mirna) może zaproponować swoje usługi piratom
+        - wrócić do biblioteki w [Craag An](#l_craag_an) - iluzja idealna
+        - obejrzeć jeszcze raz mapę punktów zwarć sfer w [Craag An](#l_craag_an), spróbować wstawić kryształki
+        - odwiedzić [Mirnę](#p_mirna) w Kerrack
+        - odwiedzić [Dorregaraya](#p_dorregaray) - co da się zrobić z chorobą
+        - dowiedzieć się co się przytrafiło [Assire var Anahid](#p_assaire) - hak na [Floriana](#p_florian_z_vicovaro)
+        - doprowadzić piwnicę w [Mariborze](#l_maribor) do stanu używalności albo i lepiej
+        - odzyskać miecz z [Domu Aukcyjnego Braci Borsodych](#l_dom_borsodych)
+        - zdobyć artefakty chroniące przed podglądaniem
         - Zaklęcia do transkrypcji:
             - [Life Transference](https://5e.tools/spells.html#life%20transference_xge)
             - [Planar Binding](https://5e.tools/spells.html#planar%20binding_phb)

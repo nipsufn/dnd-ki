@@ -10,7 +10,7 @@
         - zapasy jedzenia się kończą - jeśli mamy wyruszyć, trzeba by zapolować i przygotować jedzenie na drogę
     - Rozchodzimy się każdy w swoją stronę - [Ilana](#g_ilana) z zamiarem pójścia na polowanie, [Kajetan](#g_kajetan) z kolei idzie porozmawiać z [Mirną](#p_mirna).
     - [Mirna](#p_mirna) nie zamierza wyruszyć z nami. Czuje się przytłoczona i w dalszym ciągu przerażona tym, co w ostatnim czasie zaszło w wiosce. Druidka rozważa podróż do [Kerack](#l_kerack), chce otworzyć w mieście sklep zielarski.
-    - [Ilana](#g_ilana) mija w progu braci Drummond. [Ivar](#p_ivar) wygląda nie najgorzej, ale dalej wydaje się być mocno osłabiony.
+    - [Ilana](#g_ilana) mija w progu braci [Drummond](#p_drummond). [Ivar](#p_ivar) wygląda nie najgorzej, ale dalej wydaje się być mocno osłabiony.
     - [Druidka](#g_ilana) porządkuje swoje rzeczy nosząc się z zamiarem wyruszenia do chaty [Enid](#p_enid) aby odzyskać kij, który obiecała przynieść mentorce poprzedniego wieczora. Zostawia figurkę podarowaną przez [Skovika](#p_skovik).
     - [Kajetan](#g_kajetan) sposobi się do grzybobrania. Chodzi po wiosce zbierając patyki do realizacji swojego planu. 
     - Ruszając w stronę lasu [elf](#g_kajetan) zauważa Drummondów przy porannej gimnastyce - [Skovik](#p_skovik) pomaga bratu nabrać nieco sił przy wyraźnym trudzie i wysiłkach ze strony [Ivara](#p_ivar).

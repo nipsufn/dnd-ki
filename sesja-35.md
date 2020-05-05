@@ -5,7 +5,7 @@
 		1. Zawalony pokój pełen gruzu.
 		2. Pokój o drewnianych drzwiach zamkniętych na klucz.
 		3. Pokój przypominający salę wykładową, a w nim zwłoki elfki w błękitno-szarej szacie z srebrnym haftem przypominającym szron. Ma sztylet, którym odebrała sobie życie podcinając żyły, medalion przypominający przepustki, ale bardziej zdobiony, oraz notatkę:
-			- "_Jeśli to czytasz, nie roń za nami łez - sami sobie na to zasłużyliśmy. Ten wybuch, ta moc... Ci szaleńcy dopięli swego, Wieża Kruka została otwarta. Nie popełnijcie naszych błędów - Arkanistka Riv'yvre_"
+			- "_Jeśli to czytasz, nie roń za nami łez - sami sobie na to zasłużyliśmy. Ten wybuch, ta moc... Ci szaleńcy dopięli swego, Wieża [Kruka](#r_kruk) została otwarta. Nie popełnijcie naszych błędów - Arkanistka Riv'yvre_"
 			- Mając 6 medalionów, po jednym dla każdego członka drużyny, do poszukiwań dołącza grupa spod posągu - [Ilana](#g_ilana) i bracia wyspiarze. Od tego momentu badamy pokoje wspólnie.
 		4. Pokój pełen gablot i półek, a w nim:
 			- ogromna czaszka z 6cioma rogami (taka jak ta z szkieletu, któremu uciekliśmy w [Ellander](#l_ellander)), otoczona odłamkami czarnego szkliwa (takiego z jakiego wykonany był topór, którego pozbył się w [Carreras](#l_carreras) [Kajetan](#g_kajetan))
@@ -44,7 +44,7 @@
 	- [Ilana](#g_ilana) kombinuje z zielonymi kryształami które znaleźliśmy - rozlewa zawartość jednego z nich na podłogę (okazuje się, że rzeczywiście zawierały ciecz). 
 	- [Kajetan](#g_kajetan) dotyka cieczy małym palcem - ta prawie natychmiast wlewa się w jego ciało, a on sam czuje się odświeżony. [Druidka](#g_ilana) jest zaszokowana jego lekkomyślnością.
 	- Przyglądamy się pracom, które zostawił za sobą [Ivryn](#p_arcydruid_ivryn). Pracował nad zaklęciem, które pozwala otworzyć portal łączący dowolne dwa drzewa w naszym świecie. [Finarrin](#p_druid_finarrin) będzie w stanie go użyć, [Ilana](#g_ilana) - może w przyszłości.
-	- Bracia Drummond za przyzwoleniem reszty wyłamują drewniane drzwi jedynego niespenetrowanego pokoju, którego nie chroni magiczny zamek.
+	- Bracia [Drummond](#p_drummond) za przyzwoleniem reszty wyłamują drewniane drzwi jedynego niespenetrowanego pokoju, którego nie chroni magiczny zamek.
 	- W środku znajdujemy coś bardzo niepokojącego: cień, podobny do tych spotkanych dotychczas, ale jakby bardziej... namacalny?
 	- Postać wyrywa się, widocznie przywiązana do spopielonego ciała pół leżącego na biurku.
 	- [Ilana](#g_ilana) nie bardzo wie co robić. Pyta [Finarrina](#p_druid_finarrin), ale ten uważa, że cień należy zostawić w spokoju.

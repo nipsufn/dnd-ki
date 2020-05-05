@@ -36,7 +36,7 @@
     - [Ilana](#g_ilana) prosi [Skovika](#p_skovik) o spacer. Porusza temat wyprawy na [Skellige](#l_wyspy_skellige):
         - najbezpieczniej będzie popłynąć na południe Aard [Skellige](#l_wyspy_skellige)
         - musimy trzymać się z dala od [Kaer Trolde](#l_kaer_trolde), siedziby rodu An Craite
-        - trzeba sprawdzić, czy ostał się ktokolwiek z rodu Drummond
+        - trzeba sprawdzić, czy ostał się ktokolwiek z rodu [Drummond](#p_drummond)
         - można spróbować zaprosić [Myszowora](#p_myszowor) do fortecy Drummondów
         - do [Fornhali](#l_fornhala) można dostać się na dwa sposoby, ale jedynie przez góry - od strony portu [Holmstein](#l_holmstein) lub od wsi nieco bardziej na wschodzie
     - Drużyna udaje się na spoczynek.

@@ -27,7 +27,7 @@
     - [Ilana](#g_ilana) chowa "poszlakę", kiedy [Kajetan](#g_kajetan) chętnie częstuje się oferowanymi przez [Baraninę](#p_baranina) papierosami. Zapala peta swoją starą, magiczną sztuczką, demonstrując bezgłośnie, że nie takie z nas pierwsze lepsze chłystki.
     - Wychodząc od [Baraniny](#p_baranina) zaczepia nas jakiś handlarz i oferuje "przyprawy". Zbywamy nagabującego i kontynuujemy, rozmawiając o dalszych planach. Dyskutujemy chyba głośniej niż nam się zdawało, albo uliczny sprzedawca ma lepszy słuch niż można by się spodziewać - gdy wspominamy imię [Duska](#p_dusek) handlarz dopada do nas i pyta, czy to prawda, że go znamy.
     - Zaprasza nas w zaułek, w którym zdejmuje kapelusz i naszym oczom ukazuje się sam [szpieg](#p_dusek). Ustalamy, że nazajutrz postaramy się odwiedzić lokacje wież - dopiero wtedy on sam wybierze się na bagna by do nas dołączyć.
-    - zapytany o obelisk syreny - opowiada że musi się on wiązać z kultem Wodnych Panów, jednego ze starych wierzeń północy, takich jak Leopatis czy [Lwiogłowy Pająk](#r_lwioglowy_pajak)
+    - zapytany o obelisk syreny - opowiada że musi się on wiązać z kultem [Wodnych Panów](#r_wodni_panowie), jednego ze starych wierzeń północy, takich jak [Leopatis](#r_leopatis) czy [Lwiogłowy Pająk](#r_lwioglowy_pajak)
     - Wiadomość wysłana ptakiem do [Duska](#p_dusek) nie dotarła. Za to w [Nowym Narakorcie](#l_narakort) była na obiad czapla z rusztu.
 3.  Na powrót w Lisiej norze
     - Wracamy na noc do Lisa. Grzyby wróciły do menu, a i kuchnia znów jest czynna.

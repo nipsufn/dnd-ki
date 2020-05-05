@@ -35,14 +35,14 @@
     - [Kajetan](#g_kajetan) gra z [Yariim](#p_yarii) w szachy, a [Ilana](#g_ilana) wciąga się w grę w karty ze [Skovikiem](#p_skovik); stawką jest szczera odpowiedź na zadane pytanie.
     - [Ilanie](#g_ilana) nie idzie zbyt dobrze, w efekcie czego jest winna [Skovikowi](#p_skovik) nie tylko sporo faktów, o które pyta, ale też kieł niedźwiedzia do jego naszyjnika. [Kajetanowi](#g_kajetan) za to udaje się, po przegranej w szachy, wygrać w karty ze [Skovikiem](#p_skovik) i dowiedzieć nieco więcej o relacjach między klanami na [Skellige](#l_wyspy_skellige).
         - na wyspach jest 7 klanów
-        - [Skovik](#p_skovik) z braćmi należą do klanu Drummond
+        - [Skovik](#p_skovik) z braćmi należą do klanu [Drummond](#p_drummond)
         - jarlem na [Skellige](#l_wyspy_skellige) została kobieta z klanu An Craite, [Cerys](#p_cerys)
         - starsi klanów nie są zadowoleni z polityki [Cerys](#p_cerys), która planuje ukrócić pirackie tradycje
-        - klany Drummond i An Craite dzielą jedną z wysp, są skłócone
-        - z klanu Drummond ponoć pochodzą najlepsi żeglarze
+        - klany [Drummond](#p_drummond) i An Craite dzielą jedną z wysp, są skłócone
+        - z klanu [Drummond](#p_drummond) ponoć pochodzą najlepsi żeglarze
         - na wyspach znajdowała się jedna ze szkół wiedźminów
         - klan An Craite gościł kiedyś jednego z wiedźminów
         - [Leiv](#p_leiv) widział kiedyś wiedźmina na [Ard Skellig](#l_ard_skellig)
     - Driady gościły kiedyś wiedźmina Gwymleita ([Kajetan](#g_kajetan) kojarzy elfickie miano z [Geraltem](#p_geralt)).
     - Według [Aedirnczyków](#p_yarii) wiedźmini są "psami [Foltesta](#p_krol_foltest)", któryś z nich podobno zabił [Demawenda](#p_krol_demawend) za pieniądze.
-    - Proponujemy naszym nowym kompanom wspólne, prawdopodobnie dość intratne zlecenie. Przystają na nie tylko bracia Drummond, bo reszta już coś sobie znalazła.
+    - Proponujemy naszym nowym kompanom wspólne, prawdopodobnie dość intratne zlecenie. Przystają na nie tylko bracia [Drummond](#p_drummond), bo reszta już coś sobie znalazła.

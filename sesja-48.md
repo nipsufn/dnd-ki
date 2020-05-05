@@ -19,7 +19,7 @@
     - [Dziewczyna](#g_ilana) dowiaduje się przy okazji, że sowa to ona i nie ma jeszcze imienia. Rychło otrzymuje robocze imię "Ela"
     - Schodzimy na dół i zamawiamy coś ciepłego do jedzenia. Przy jednym ze stolików zauważamy [Leiva](#p_leiv). Chłopak gra w karty i wydaje się wygrywać. Ma ze sobą plecak. Na nasz widok przerywa grę i macha, żebyśmy podeszli. 
     - Idziemy w trójkę do jednego z "pokoi" za kotarą. [Leiv](#p_leiv) przeprasza nas za to jak rzeczy się potoczyły. Mówi też, że wyrusza z miasta - zamierza udać się na północ, do [Kerack](#l_kerack) albo i dalej. Jeżeli to nie wypali to rozważa także powrót na wyspy.
-    - Młody Drummond wyjawia, że udało mu się przemycić w plecaku prezent pożegnalny - szklaną szkatułkę, którą zabrał z domu [Vicovaro](#p_florian_z_vicovaro) podczas pożaru. 
+    - Młody [Drummond](#p_drummond) wyjawia, że udało mu się przemycić w plecaku prezent pożegnalny - szklaną szkatułkę, którą zabrał z domu [Vicovaro](#p_florian_z_vicovaro) podczas pożaru. 
     - W szkatułce znajduje się kilka zwojów. Pojemnik jest jednak obłożony zaklęciem ochronnym - [Kajetan](#g_kajetan) lekko nadwyręża swoje zdolności, ale finalnie otwiera szkatułkę. Decydujemy się odłożyć zasadzkę na następny dzień.
     - Pergaminy w większości traktują o alchemii. Pomiędzy nimi znajdujemy także jeden zwój z formułą zaklęcia. [Kajetan](#g_kajetan) rozpoznaje je i chowa zwój do swojej książki
     - [Leiv](#p_leiv) prosi żeby pozdrowić od niego jego braci na wypadek gdybyśmy nie spotkali się już w najbliższym czasie. Ściska [druidkę](#g_ilana) i wychodzi.

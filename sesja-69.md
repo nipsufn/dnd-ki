@@ -15,7 +15,7 @@
         - ? - kobieta
         - [Stucco Zangenis](#p_zangenis)
         - my
-        - [Radcliffe](#p_radcliffe), Mozaik - Kerrack
+        - [Radcliffe](#p_radcliffe), [Mozaik](#p_mozaik) - Kerrack
         - ?
         - ? - mężczyzna
     - Na środek zostają zaproszeni [Istredd](#p_istredd) i [Stregobor](#p_stregobor), dwójka która prowadzi prace archeologiczne w [Kaer Seren](#l_kaer_seren) w Górach Smoczych, na dalekiej północy
@@ -23,8 +23,8 @@
         - Ktoś już odkopał przynajmniej część twierdzy, [Kapituła](#r_kapitula) nie jest pierwszym odwiedzającym w ostatniej dekadzie
         - [Stregobor](#p_stregobor), specjalista od iluzji, znalazł widzidło idealne, które demonstruje z pomocą zielonej latarni
         - pomimo użycia dedykowanego artefaktu, zaledwie wierzchnia warstwa iluzji rozprasza się, by ukazać fresk przedstawiający kilka [gryfów](#b_gryf). Pomimo swojej natury, ściana jest solidna i nie da się przez nią przejść
-        - styl przypomina nieco malowidła z Crag An, a namalowane nocne niebo, pomimo że nie przypomina żadnego które do tej pory widzieliśmy, ma charakterystyczne konstelacje, w tym takie, których na naszym niebie nie ma. [Kajetan](#g_kajetan) robi wrażenie na [Brasie](#p_bras) rozpoznając Pardwę, nim powie o niej [mówca](#p_stregobor)
-        - Archeolodzy zastanawiają się czy punkt zwarcia sfer, Pardwa, została umocniona wieżą, jak wiele innych takich punktów
+        - styl przypomina nieco malowidła z Crag An, a namalowane nocne niebo, pomimo że nie przypomina żadnego które do tej pory widzieliśmy, ma charakterystyczne konstelacje, w tym takie, których na naszym niebie nie ma. [Kajetan](#g_kajetan) robi wrażenie na [Brasie](#p_bras) rozpoznając [Pardwę](#r_pardwa), nim powie o niej [mówca](#p_stregobor)
+        - Archeolodzy zastanawiają się czy punkt zwarcia sfer, [Pardwa](#r_pardwa), została umocniona wieżą, jak wiele innych takich punktów
         - Wiedźmini szkoły [Gryfa](#b_gryf) (stworzonej przez [Malaspina](#p_malaspin), nauczyciela [Alzura](#p_alzur)) znani byli z najbardziej umiejętnego wykorzystania Mocy, oraz wielkiego zbioru ksiąg
         - [Kapituła](#r_kapitula) planuje zrobić z [twierdzy](#l_kaer_seren) swoją nową siedzibę
     - Następnym mówcą jest [Stucco Zangenis](#p_zangenis)
@@ -36,8 +36,8 @@
         - [władczyni](#p_cerys) trzyma na dworze druida ([Myszowora](#p_myszowor)?), który uratował ją od trucizny po nieudanym zamachu
         - trucizna była połączeniem alchemii i magii (skąd to [Skovik](#p_skovik) miał?)
         - wyspa [Undvik](#l_undvik), miejsce gdzie rozpoczęła się "Zapaść", jest celem wypraw wyspiarzy polujących na obudzone czy też nowo przybyłe lodowe giganty. Dzięki tej rozrywce mniej się biją między sobą
-    - [Radcliffe](#p_radcliffe) i Mozaik
-        - mag musiał interweniować, ponieważ [Viraxas](#p_ksiaze_viraxas) jest obrażony na czarodziejów, a szczególnie na żeńską część kasty, przez to jak jego żona była traktowana na [Aretuzie](#l_wyspa_thanedd) - jego asystentka, Mozaik, nie mogła nic wskórać
+    - [Radcliffe](#p_radcliffe) i [Mozaik](#p_mozaik)
+        - mag musiał interweniować, ponieważ [Viraxas](#p_ksiaze_viraxas) jest obrażony na czarodziejów, a szczególnie na żeńską część kasty, przez to jak jego żona była traktowana na [Aretuzie](#l_wyspa_thanedd) - jego asystentka, [Mozaik](#p_mozaik), nie mogła nic wskórać
         - [władyka](#p_ksiaze_viraxas) nasłał (nieoficjalnie ma się rozumieć) piratów ze [Skellige](#l_wyspy_skellige) pod przywództwem [Ragnara Czarnego](#p_ragnar), by grabił statki transportujące zaklęte przedmioty
         - piratów podjudza jeszcze ktoś inny, identyfikujący się broszą o kształcie Salamandry - [Keira](#p_keira_metz) wspomina, że jakiś [Wyzimski](#l_wyzima) gang tak się znaczył, a [Triss](#p_triss_merigold) może wiedzieć więcej
         - Przejęte przez [władcę Kerrack](#p_ksiaze_viraxas) magiczne artefakty są bezpiecznie przechowywane poza granicami kraju. Jest skłonny pertraktować, ale nie z czarodziejkami
@@ -66,7 +66,7 @@
         - z [Leivem](#p_leiv): Kto jeszcze steruje [Ragnarem](#p_ragnar), bo wspominałeś o tym - ktoś kto ma duże plecy; obiecuje pomóc pozbyć się [Cerys](#p_cerys), dał mu magiczne urządzenie do śledzenia statków które ma napadać
         - z Radcliffem: dzieli się wiadomościami od [Leiva](#p_leiv) o [Ragnarze](#p_ragnar); w zamian może przetestować i używać mobilnego kręgu aportacyjnego który obecnie znajduje się w Kerrack
         - z [Stregoborem](#p_stregobor):
-            - punkt zwarcia sfer Pustułki nie jest zakotwiczony; budowniczy wież uznali że teren jest zbyt trudny
+            - punkt zwarcia sfer [Pardwy](#r_pardwa) nie jest zakotwiczony; budowniczy wież uznali że teren jest zbyt trudny
             - [Kajetan](#g_kajetan) wspomina o płaskorzeźbie przedstawiającej punkty zwarcia sfer oraz dostępie do archiwów [Aen Drisichean](#r_aen_drisichean)
             - wspomina też o istnieniu [Aen Eldrin](#r_aen_eldrin)
             - rozmówca jest zainteresowany, ale najbardziej interesuje go ściana którą nazywa "iluzją idealną", chciałby aby poszukać informacji na ten temat w bibliotece w Crag An (nie wie że biblioteka jest właśnie tam - przynajmniej [Kajetan](#g_kajetan) mu nie powiedział)
