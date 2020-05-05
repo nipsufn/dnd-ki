@@ -18,15 +18,15 @@
         - [Radcliffe](#p_radcliffe), Mozaik - Kerrack
         - ?
         - ? - mężczyzna
-    - Na środek zostają zaproszeni [Istredd](#p_istredd) i [Stregobor](#p_stregobor), dwójka która prowadzi prace archeologiczne w Kaer Seren w Górach Smoczych, na dalekiej północy
-        - [Twierdzę](Kaer Seren) zasypała śnieżna lawina, a jej mieszkańcy zostali uwięzieni i szybko zamarzli (znaleziono ich w pełnym rynsztunku)
+    - Na środek zostają zaproszeni [Istredd](#p_istredd) i [Stregobor](#p_stregobor), dwójka która prowadzi prace archeologiczne w [Kaer Seren](#l_kaer_seren) w Górach Smoczych, na dalekiej północy
+        - [Twierdzę](#l_kaer_seren) zasypała śnieżna lawina, a jej mieszkańcy zostali uwięzieni i szybko zamarzli (znaleziono ich w pełnym rynsztunku)
         - Ktoś już odkopał przynajmniej część twierdzy, [Kapituła](#r_kapitula) nie jest pierwszym odwiedzającym w ostatniej dekadzie
         - [Stregobor](#p_stregobor), specjalista od iluzji, znalazł widzidło idealne, które demonstruje z pomocą zielonej latarni
         - pomimo użycia dedykowanego artefaktu, zaledwie wierzchnia warstwa iluzji rozprasza się, by ukazać fresk przedstawiający kilka [gryfów](#b_gryf). Pomimo swojej natury, ściana jest solidna i nie da się przez nią przejść
         - styl przypomina nieco malowidła z Crag An, a namalowane nocne niebo, pomimo że nie przypomina żadnego które do tej pory widzieliśmy, ma charakterystyczne konstelacje, w tym takie, których na naszym niebie nie ma. [Kajetan](#g_kajetan) robi wrażenie na [Brasie](#p_bras) rozpoznając Pardwę, nim powie o niej [mówca](#p_stregobor)
         - Archeolodzy zastanawiają się czy punkt zwarcia sfer, Pardwa, została umocniona wieżą, jak wiele innych takich punktów
         - Wiedźmini szkoły [Gryfa](#b_gryf) (stworzonej przez [Malaspina](#p_malaspin), nauczyciela [Alzura](#p_alzur)) znani byli z najbardziej umiejętnego wykorzystania Mocy, oraz wielkiego zbioru ksiąg
-        - [Kapituła](#r_kapitula) planuje zrobić z [twierdzy](Kaer Seren) swoją nową siedzibę
+        - [Kapituła](#r_kapitula) planuje zrobić z [twierdzy](#l_kaer_seren) swoją nową siedzibę
     - Następnym mówcą jest [Stucco Zangenis](#p_zangenis)
         - opowiada o swoich odkryciach związanych z, zdaje się, losowymi mutacjami u zwierząt przebywających w okolicach punktów mocy od czasu "Zapaści" (jakiś kwartał przed Dwuksiężycową Nocą) która zaczęła się na wyspach [Skellige](#l_wyspy_skellige)
         - zwyrodniałe bestie nie są agresywne i szybko umierają

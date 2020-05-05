@@ -87,6 +87,8 @@
     - <a id='l_vicovaro' pattern='Vicovaro'>Vicovaro</a>
         mieści się tam jedna z trzech szkół magii cesarstwa
 - <a id='l_poviss' pattern='Poviss'>Poviss</a>
+    - <a id='l_kaer_seren' pattern='Kaer Seren'>Kaer Seren</a>
+        - opuszczona warownia Wiedźminów szkoły [Gryfa](#b_gryf)
 - <a id='l_redania' pattern='Redani*'>Redania</a>
     - <a id='l_novigrad' pattern='Novigrad*'>Novigrad</a>
         - Stolica wyznawców wiecznego Ognia
