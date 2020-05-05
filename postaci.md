@@ -45,7 +45,7 @@
     - stworzył wiedźminów szkoły [gryfa](#b_gryf)
 - <a id='p_margarita' pattern='Margari*,Margari* Laux-Antille'>Margarita Laux-Antille</a> - człowiek, mag, członek [Nowej Kapituły](#r_kapitula)
     - była rektorka [Aretuzy](#l_wyspa_thanedd)
-- <a id='p_mozaik' pattern='Mozai*'>Mozaik</a> - czarodziejka
+- <a id='p_mozaik' pattern='Mozai'>Mozaik</a> - czarodziejka
     - asystentka: [Radcliffe](#p_radcliffe)
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
@@ -308,7 +308,7 @@
             - samotnik z bagien
             - mieszka w korytarzach pod starą brzozą
             - hoduje wiwernę imieniem Diana
-            - pędzi nalewkę z mandragory i uprawia grzyby z pod góry Carbon
+            - pędzi [nalewkę z mandragory](#r_nalewka) i uprawia grzyby z pod góry Carbon
     - [Burdoff](#l_burdoff)
         - <a id='p_landosz' pattern='Landosz*'>Grododzierżca Landosz</a>
     - [Zavada](#l_zavada)
@@ -320,7 +320,7 @@
     - <a id='p_karoll' pattern='Madame Karoll,Karoll'>Madame Karoll</a>
         - prowadzi(ła?) obwoźny burdel na granicach z [Nilfgaardem](#l_nilfgaard), zarabiając na utrzymanie Wiewiórek
         - [Enid](#p_enid), jako jedna z jej byłych "pracownic", pała doń rządzą zemsty
-    - <a id='p_andy' pattern='Andy*,Andi*,Andy.*'>Andy Breckenriggs</a>
+    - <a id='p_andy' pattern='Andy*,Andi*,Andy*'>Andy Breckenriggs</a>
         - niziołek, szukał dziewczyn i złota [Karoll](#p_karoll)
         - przewiózł nas z [Reganem](#p_regan) pod [Wyzimę](#l_wyzima)
     - <a id='p_regan' pattern='Regan*'>Regan Biberwelt</a>

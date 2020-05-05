@@ -19,7 +19,7 @@
     - Złowionych ryb jest sporo. [Ilana](#g_ilana) razem z Drummondami są w trakcie czyszczenia ich do kolacji, kiedy do wioski przybywają trzy driady. Jedna z nich jest nieprzytomna, niesiona na noszach przez dwie pozostałe. Szukają [Verenestry](#p_verenestra). 
     - [Ilana](#g_ilana) zaprasza je do jednej z opuszczonych chat. Mówi, że na [Aen Eldrin](#r_aen_eldrin) muszą poczekać do następnego dnia i stara się pomóc rannej, co wykracza jednak poza jej umiejętności. 
     - W boku driady tkwi spora drzazga, która wydaje się być uczepiona jej trzewi.
-    - Ze złowionych ryb zrobiona zostaje kolacja na modłę [Wysp Skellige](#l_wyspy_skellige), do której zapraszamy [Mirnę](#p_mirna). Oprócz reszty miodu odkorkowana zostaje nalewka z mandragory, rozpoczynają się opowieści z mchu i paproci. 
+    - Ze złowionych ryb zrobiona zostaje kolacja na modłę [Wysp Skellige](#l_wyspy_skellige), do której zapraszamy [Mirnę](#p_mirna). Oprócz reszty miodu odkorkowana zostaje [nalewka z mandragory](#r_nalewka), rozpoczynają się opowieści z mchu i paproci. 
     - [Ivar](#p_ivar) i [Kajetan](#g_kajetan) starają się na wyprzódki zrobić wrażenie na przyjaciółce [Ilany](#g_ilana).
     - W czasie kolacji na stole ląduje kruk-kurier. Zrzuca na kolana [Ilany](#g_ilana) przesyłkę: lodowy kwiat (tak dobrze oddany, że do złudzenia przypomina zwykły, ale nie ma na nim śladów dłuta), porywa rybę i odlatuje. 
     - [Ilana](#g_ilana) oddaje kwiat [Mirnie](#p_mirna) uznając, że kruk musiał się pomylić i doręczył go jej zamiast [Kajetanowi](#g_kajetan) (który to próbował uzyskać pomoc od [Pana Lodowego Ogrodu](#p_auril)).

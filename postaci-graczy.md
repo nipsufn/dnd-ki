@@ -29,7 +29,7 @@
             - Elficki sztylet (+1 jeśli użyty z DEX, 18,19,20=CRIT)
             - Ciężka kusza
             - 35 bełtów
-            - 1 Piersiówka z nalewką z mandragory, 1/2
+            - 1 Piersiówka z [nalewką z mandragory](#r_nalewka), 1/2
             - naszyjnik kul ognia, 4 nieodnawialne użycia
         - Schowany:
             - Niewielka księga obita w skóre. Zapisana w starym dialekcie krasnoludzkim.
@@ -38,12 +38,12 @@
             - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
             - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
             - 2 krystaliczny kawałek [dwimerytu](#r_dwimeryt), odbierający Moc
-            - Nalewka z mandragory, 1²/₃ butelki
+            - [Nalewka z mandragory](#r_nalewka), 1²/₃ butelki
             - 12 porcji inkaustu
             - 2 porcje kadzidła
             - 1 porcje pyłu kamieni szlachetnych
             - 5 porcji kredy
-            - 1 miarki Izzotoniku (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
+            - 1 miarki [Izzotoniku](#r_izzotonik) (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
             - 10 złotych zębów
             - kamień warty 50gp
             - 248.3.0 gp

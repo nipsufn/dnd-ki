@@ -14,7 +14,7 @@
     - Wychodząc z kanałów zauważamy, że majster bez młotka - najwyraźniej z braku wspomnianego narzędzia - zabezpieczył kratę łańcuchem. Pozbywamy się go zostawiając po sobie pozdrowienia wypisane węglem na murze.
 2. Miasto, po porządkach
     - W mieście dzieją się podobne rzeczy jak ta z ostrosłupem. Część przedmiotów jest lekko przesunięta. Ludzie chodzą jacyś tacy jakby markotni i poirytowani.
-    - Idziemy do Oskara na śniadanie. [Kajetan](#g_kajetan) wypytuje o nalewkę z mandragory. Niestety, z dwóch butelek zapasu posiadanego przez Oskara, które ucierpiały po kalibracji ostało się na jeden haust. Podobno [krasnolud](#p_morgan) który założył karczmę pod [Mayeną](#l_mayena) miał zapas...
+    - Idziemy do Oskara na śniadanie. [Kajetan](#g_kajetan) wypytuje o [nalewkę z mandragory](#r_nalewka). Niestety, z dwóch butelek zapasu posiadanego przez Oskara, które ucierpiały po kalibracji ostało się na jeden haust. Podobno [krasnolud](#p_morgan) który założył karczmę pod [Mayeną](#l_mayena) miał zapas...
     - Przed karczmą, na tablicy ogłoszeń widzimy świeżą kartkę "_Szanowny złodzieju młotka: chędoż się._". Jako ludzie (i elfy) niepozbawieni kultury i dobrego taktu zostawiamy swoją odpowiedź: "_Trzonkiem, z przyjemnością_".
     - W parku panuje zamieszanie. Po śniadaniu idziemy sprawdzić o co chodzi. Gawiedź zleciała się, bo ostrosłup - kamień węgielny pod pomnik - wisi w powietrzu 10 metrów od oryginalnego położenia.
     - Nie chcąc prowokować pytań ani ściągać na siebie uwagi, szybko ulatniamy się z miejsca zdarzenia.

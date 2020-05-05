@@ -18,7 +18,7 @@
     -  Mając dzień dla siebie decydujemy się obejrzeć cyrk, który najwyraźniej zostaje w mieście na dłużej:
         - siłacz podnoszący niesamowite ciężary intryguje węszącego szwindel [Kajetana](#g_kajetan). [Skovikowi](#p_skovik) dwa razy nie udaje się podnieść ciężarów, co trochę podminowuje jego ego
         - [Ilana](#g_ilana) zauważa, że siłacz regularnie popija jakiś napój z bukłaka - ma nieznany jej ziołowy aromat
-        - [Kajetan](#g_kajetan) proponuje siłaczowi łyk nalewki z mandragory za łyk jego napoju - napotyka stosunkowo uprzejmą odmowę; dalej nie ma pewności, że haczykiem jest nalewka
+        - [Kajetan](#g_kajetan) proponuje siłaczowi łyk [nalewki z mandragory](#r_nalewka) za łyk jego napoju - napotyka stosunkowo uprzejmą odmowę; dalej nie ma pewności, że haczykiem jest nalewka
         - [Ilana](#g_ilana) wybiera się do wróżki; dowiaduje się, że zmierzając dalej na [Skellige](#l_wyspy_skellige) oddala się od [Filippy](#p_filippa_eilhart) oraz, że kobieta z jej snów najprawdopodobniej nadal żyje
         - rozsierdzony [Kajetan](#g_kajetan) również do niej zagląda; zadaje pytania o siłacza potwierdzające jego podejrzenia; otrzymuje też przepowiednię, że [Filippa Eilhart](#p_filippa_eilhart) może nie być mu w stanie pomóc, ale i tak powinien ją spotkać
     - O zachodzie wybieramy się do [Magistra [Floriana](#p_florian_z_vicovaro) z Vicovaro](#p_florian_z_vicovaro):

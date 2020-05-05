@@ -51,6 +51,20 @@
     - [Greater restoration](https://5e.tools/spells.html#greater%20restoration_phb) zmniejsza objawy klątwy/choroby
 - <a id='r_cialognilec' pattern='[Cc]iałognil*'>Ciałognilec</a><a id='r_flesh_rot'></a>
     - zmodyfikowana przez [Floriana z Vicovaro](#p_florian_z_vicovaro) odmiana zarazy pustoszy [Verden](#l_verden)
+- Alchemia
+    - Symbole
+        - ☿ - rtęć
+        - 🜍 - siarka
+        - 🜄 - woda
+        - ≈ - woda (niepoprawnie / alternatywnie, użyta przez [Vicovaro](#p_florian_z_vicovaro))
+        - 🜔 - sól
+        - <a id='r_azoth' pattern='Azoth*'>♆ - Azoth</a>[<sup>1</sup>](#ad1)
+        - ☤ - [Azoth](#r_azoth) (alternatywnie)[<sup>2</sup>](#ad2)
+        - <a id='r_alkahest' pattern='Alkahest*'>🜆 - Alkahest</a>[<sup>3</sup>](#ad3)
+    - Półprodukty
+        - <a id='r_biala_mewa' pattern='Biał* Mew*'>Biała Mewa</a>
+        - <a id='r_izzotonik' pattern='Izzotonik*'>Izzotonik</a>
+        - <a id='r_nalewka' pattern='Nalew*,[Nn]alew* z mandragory'>Nalewka z piołunu, mandragory, dziwostrętu, airauny</a>
 - Punkty zwarcia sfer:
     - [Skellige](#l_wyspy_skellige) - <a id='r_sokol' pattern='Sok*'>Sokół</a>, pokryte lodem
     - [Wyspa Thanedd](#l_wyspa_thanedd) - <a id='r_mewa' pattern='Mew*'>Mewa</a>, szkiełko wybuchło
@@ -72,16 +86,6 @@
         - <a id='r_belleteyn' pattern='Belleteyn'>Belleteyn – rozkwit</a>
         - <a id='r_lammas' pattern='Lammas'>Lammas – dojrzewanie</a>
         - <a id='r_saovine' pattern='Saovine'>Saovine – zamieranie</a>
-- Alchemia
-    - Symbole
-        - ☿ - rtęć
-        - 🜍 - siarka
-        - 🜄 - woda
-        - ≈ - woda (niepoprawnie / alternatywnie, użyta przez [Vicovaro](#p_florian_z_vicovaro))
-        - 🜔 - sól
-        - <a id='r_azoth' pattern='Azoth*'>♆ - Azoth</a>[<sup>1</sup>](#ad1)
-        - ☤ - [Azoth](#r_azoth) (alternatywnie)[<sup>2</sup>](#ad2)
-        - <a id='r_alkahest' pattern='Alkahest*'>🜆 - Alkahest</a>[<sup>3</sup>](#ad3)
     
 <div align="right">
 <i><a id='ad1'></a><sup>1</sup><a href="https://www.alchemylab.com/dictionary.htm">Symbole alchemiczne</a>, autor nieznany</i>

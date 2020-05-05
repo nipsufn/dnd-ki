@@ -141,7 +141,7 @@
 - <a id='l_toussaint' pattern='Toussaint'>Toussaint</a>
     - <a id='l_beauclair' pattern='Beauclair'>Beauclair</a>
         - robią tu jedno z najlepszych win
-        - podobno tu wyprowadził się bimbrownik od nalewki z mandragory, [Regis](#p_regis)
+        - podobno tu wyprowadził się bimbrownik od [nalewki z mandragory](#r_nalewka), [Regis](#p_regis)
 - <a id='l_verden' pattern='Verden'>Verden</a>
     - nad Jarugą; od zachodu graniczy z [Cidaris](#l_cidaris), od północy z [Brokilonem](#l_brokilon), od wschodu z [Brugge](#l_brugge) na wysokości Wstążki (miasto [Dillingen](#l_dillingen))
     - toczyły się tu liczne bitwy z [Nilfgaardem](#l_nilfgaard), kraj jest rozbity i nie stawia oporu rozrastającemu się [Brokilonowi](#l_brokilon)
