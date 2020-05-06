@@ -7,7 +7,19 @@ import argparse
 import logging
 import re
 from html.parser import HTMLParser
-import datetime
+import time
+
+logger = logging.getLogger('journal_tagger')
+
+ticktock = float()
+def tick():
+  global ticktock
+  ticktock = time.time()
+
+def tock():
+  global ticktock
+  elapsed = time.time() - ticktock
+  return elapsed
 
 class tagParser(HTMLParser):
   def __init__(self):
@@ -39,7 +51,6 @@ class tagCreator(HTMLParser):
     self.curentHtmlTag = []
     self.tags = tags
     self.text = ""
-    self.count = 0
     super().__init__()
   
   def handle_starttag(self, tag, attrs):
@@ -54,30 +65,40 @@ class tagCreator(HTMLParser):
     self.text += "</" + tag + ">"
 
   def handle_data(self, data):
-    if len(self.curentHtmlTag) == 0 or self.curentHtmlTag[0] != "a":
-      self.count += 1
+    if len(self.curentHtmlTag) == 0:
       for pair in self.tags:
         #all user-tags `[whatever](Actual Name)`
-        regex = r"(\[[ \w].+?\]\()" + r"("+pair[1]+r")" + r"(\))"
-        substitute = r"\1#"+pair[0]+r"\3"
+        regex = r"(\[[ \w].+?\]\()(" + pair[1] + r")\)"
+        substitute = r"\1#" + pair[0] + r")"
+        data = re.sub(regex, substitute, data)
+
+        #all user-tags `{whatever}Actual Name`
+        regex = r"\{([ \w].+?)\}(" + pair[1] + r")"
+        substitute = r"[\1](#" + pair[0] + r")"
         data = re.sub(regex, substitute, data)
         
         #all standard tags unless it is already tagged [] or in between ><
-        regex = r"([ ,.()])" + r"("+pair[1]+r")" + r"([ ,.()?!:;\"\n])"
-        substitute = r"\1[\2](#"+pair[0]+r")\3"
+        regex = r"([ (])(" + pair[1] +r")([ ,.)?!:;\"\n])"
+        substitute = r"\1[\2](#" + pair[0] + r")\3"
         data = re.sub(regex, substitute, data)
     self.text += data
 
+  def clean(self):
+    self.text = ""
+
 def main():
+  tick()
   parser = argparse.ArgumentParser()
-  parser.add_argument("-d", "--debug", "-v", "--verbose", action="store_true",
+  parser.add_argument("-dd", "--debug", "-vv", "--verbose", action="store_true",
+                      help="debug mode")
+  parser.add_argument("-d", "--info", "-v", action="store_true",
                       help="debug mode")
   parser.add_argument("-i", "--ignore", nargs='+', type=str,
                       help="space separated list of files to be ignored",
                       default=list())
   args = parser.parse_args()
 
-  logger = logging.getLogger('journal_tagger')
+  global logger
   log_handler = logging.StreamHandler()
   log_handler.setFormatter(
       logging.Formatter(
@@ -85,10 +106,12 @@ def main():
           )
       )
   logger.addHandler(log_handler)
-  if args.debug:
-      logger.setLevel(logging.DEBUG)
+  if args.info:
+    logger.setLevel(logging.INFO)
+  elif args.debug:
+    logger.setLevel(logging.DEBUG)
   else:
-      logger.setLevel(logging.INFO)
+    logger.setLevel(logging.WARNING)
 
   whitelist = [
     ".gitignore",
@@ -103,41 +126,37 @@ def main():
   logger.debug("main: Ignored files: %s", str(whitelist))
   files = [f for f in os.listdir() if os.path.isfile(f)]
   files = list(set(files) - set(whitelist))
-  logger.debug("main: List of files: %s", str(files))
+  logger.info("main: List of files: %s", str(files))
+  logger.info("initialization time: {:.5f}sec".format(tock()))
 
+  tick()
   tagRetreiver = tagParser()
   # pass 1 - generate tags
   for filePath in files:
     with open(filePath, 'r', encoding='utf-8') as fileStream:
       tagRetreiver.feed(fileStream.read())
 
-  logger.debug("Tag count: " + str(len(tagRetreiver.tags)))
+  logger.info("Tag count: " + str(len(tagRetreiver.tags)))
   # pass 2 - use tags to create links
+  write_time = 0.0
+  logger.info("tag lookup time: {:.5f}sec".format(tock()))
   for filePath in files:
     text = None
-    logger.info(filePath)
+    logger.warning(filePath)
     with open(filePath, 'r', encoding='utf-8') as fileStream:
-      start = datetime.datetime.now()
+      tick()
       text = fileStream.read()
-      elapsed_time = datetime.datetime.now() - start
-      logger.debug("\tread:  " + str(elapsed_time.seconds) + ":" + str(elapsed_time.microseconds) + "sec")
-
-      start = datetime.datetime.now()
       tagger = tagCreator(tagRetreiver.tags)
-      elapsed_time = datetime.datetime.now() - start
-      logger.debug("\tinit:  " + str(elapsed_time.seconds) + ":" + str(elapsed_time.microseconds) + "sec")
-
-      start = datetime.datetime.now()
       tagger.feed(text)
-      elapsed_time = datetime.datetime.now() - start
-      logger.debug("\tfeed:  " + str(elapsed_time.seconds) + ":" + str(elapsed_time.microseconds) + "sec")
-      logger.debug("\tcount: " + str(tagger.count))
+      logger.debug("processing time: {:.5f}sec".format(tock()))
+      write_time += tock()
       tagger.close()
       text = tagger.text
-      del tagger
 
     with open(filePath, 'w', encoding='utf-8') as fileStream:
       fileStream.write(text)
+
+  logger.info("tag writing time: {:.5f}sec".format(write_time))
 
 if __name__ == "__main__":
   main()

@@ -73,4 +73,4 @@
             - interesuje go też dalsza współpraca, najchętniej oczywiście dostęp do Crag An
     - Kolejne dni [elf](#g_kajetan) spędza na odbudowie klatki schodowej i podłogi, wydzieleniu dwóch sypialni i ich umeblowaniu
     - [Ilana](#g_ilana) z pewnymi opóźnieniami dociera do [Wioski](#l_wioska)
-    - Rozmawia z [Finarrinem](#p_druid_finarrin) i [Enid](#p_enid), marudzi na pomysł [Kajetana](#g_kajetan) by odwiedzić bibliotekę w Crag An
+    - Rozmawia z [Finarrinem](#p_druid_finarrin) i [Enid](#p_enid), marudzi na pomysł [Kajetana](#g_kajetan) by odwiedzić bibliotekę w [Craag An](#l_craag_an)
