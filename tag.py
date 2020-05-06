@@ -67,13 +67,8 @@ class tagCreator(HTMLParser):
   def handle_data(self, data):
     if len(self.curentHtmlTag) == 0:
       for pair in self.tags:
-        #all user-tags `[whatever](Actual Name)`
-        regex = r"(\[[ \w].+?\]\()(" + pair[1] + r")\)"
-        substitute = r"\1#" + pair[0] + r")"
-        data = re.sub(regex, substitute, data)
-
-        #all user-tags `{whatever}Actual Name`
-        regex = r"\{([ \w].+?)\}(" + pair[1] + r")"
+        #all user-tags `{whatever}Actual Name` or `[whatever](Actual Name)`
+        regex = r"[\{\[]([ \w].+?)[\}\]]\(?(" + pair[1] + r")\)?"
         substitute = r"[\1](#" + pair[0] + r")"
         data = re.sub(regex, substitute, data)
         
