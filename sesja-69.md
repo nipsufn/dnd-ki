@@ -1,11 +1,11 @@
 ### Sesja 69
 1. Przygotowania do obrad
-    - Wygląda na to, że Bras załatwił swoje sprawy w Mayenie i teraz wybiera się do Carreras.
-    - Przed zebraniem, z pomocą [elfa](#g_kajetan), [Ilana](#g_ilana) wysyła wiadomość do [Finarrina](#p_druid_finarrin). {Druid}Finarrin prosi o księgi podatkowe, bo chyba podpisał jakąś umowę z księciem Kistrinem względem nadań ziemskich.
+    - Wygląda na to, że [Bras](#p_bras) załatwił swoje sprawy w [Mayenie](#l_mayena) i teraz wybiera się do [Carreras](#l_carreras).
+    - Przed zebraniem, z pomocą [elfa](#g_kajetan), [Ilana](#g_ilana) wysyła wiadomość do [Finarrina](#p_druid_finarrin). {Druid](#p_druid_finarrin) prosi o księgi podatkowe, bo chyba podpisał jakąś umowę z księciem [Kistrinem](#p_ksiaze_kistrin) względem nadań ziemskich.
     - [Brass](#p_bras) i [Kajetan](#g_kajetan) zaczynają prace remontowe w klatce schodowej, by nie marnować czasu do spotkania.
     - W międzyczasie udaje nam się dorobić zapasowy klucz do kanałów tak by każde z nas miało po jednym.
-    - Kiedy prace trwają, Ilana wychodzi załatwić sprawunki, o które prosił ją Finarrin. Od Brasa dowiaduje się, że na księgi podatków Verdeńskich w Redanii nie ma co liczyć - należy ich szukać na miejscu. 
-    - [Dziewczyna](Ilana) zaopatrza się więc na mieście w nieco przepłacony zestaw "małego księgowego" i trzy litrowe bukłaki krasnoludzkiego dwójniaka. Z podatkami na trzeźwo nie można.
+    - Kiedy prace trwają, [Ilana](#g_ilana) wychodzi załatwić sprawunki, o które prosił ją [Finarrin](#p_druid_finarrin). Od [Brasa](#p_bras) dowiaduje się, że na księgi podatków Verdeńskich w [Redanii](#l_redania) nie ma co liczyć - należy ich szukać na miejscu. 
+    - [Dziewczyna](#g_ilana) zaopatrza się więc na mieście w nieco przepłacony zestaw "małego księgowego" i trzy litrowe bukłaki krasnoludzkiego dwójniaka. Z podatkami na trzeźwo nie można.
 2. Zebranie Nowej [Kapituły](#r_kapitula)
     - Spotkanie rozpoczyna się zalegnięciem mgły w pomieszczeniu, która szybko formuje się w okrągłą przestrzeń, większą niż piwnica, w której jesteśmy. W około stoją postaci, których część poznajemy, a pozycja w kręgu zdaje się odpowiada położeniu geograficznemu uczestników. Jest ich więcej niż ostatnio - to nie spotkanie samej Rady, a elity całej organizacji, na którą najwyraźniej składa się w sumie jakiś tuzin magów.
     - Moderatorem spotkania jest [Carduin z Lan Exeter](#p_carduin), jako że tymczasowa (?) głowa rady, [Triss Merigold](#p_triss_merigold), nie mogła wziąć udziału w spotkaniu.
@@ -14,7 +14,7 @@
         - jakaś dwójka nieznanych nam i nie przedstawionych dotąd person
         - [Dorregaray](#p_dorregaray) - [Skellige](#l_wyspy_skellige)
         - [Istredd](#p_istredd), [Stregobor](#p_stregobor) - gdzieś na północy
-        - Carduin
+        - [Carduin](#p_carduin)
         - [Keira](#p_keira_metz)
         - [Margarita](#p_margarita), niestety schowana za ścianą przez rozmiary projekcji
         - druga osoba schowana za ścianą
@@ -51,7 +51,7 @@
         - punkt mocy został totalnie wyczerpany, nie zostało nic
         - [Brugge](#l_m_brugge) się uspokoiło, gdy duża siła redańsko-temerska opuściła konstruowany fort
         - [Nilfgaard](#l_nilfgaard) ma nowego cesarza, [Morvrana Voorhisa](#p_morvran)
-    - Do spotkania między Dorregarayem a archeologami z północy włącza się niespodziewanie [Triss](#p_triss_merigold), w stroju podróżnym, wyraźnie zmęczona. Wydaje się słuchać, ale widać, że prowadzi intensywną rozmową z kimś z boku.
+    - Do spotkania między [Dorregarayem](#p_dorregaray) a archeologami z północy włącza się niespodziewanie [Triss](#p_triss_merigold), w stroju podróżnym, wyraźnie zmęczona. Wydaje się słuchać, ale widać, że prowadzi intensywną rozmową z kimś z boku.
     - [Kajetan](#g_kajetan):
         - przekazuje wiadomość od księcia [Myrtona](#p_lord_myrton)
         - magowie zaczynają się oburzać, gdy z pozycji [Merigold](#p_triss_merigold) pojawia się sam [Dijkstra](#p_dijkstra), wchodząc [elfowi](#g_kajetan) w słowo
@@ -64,7 +64,7 @@
         - próbuje uspokoić i przemówić do rozsądku rozwścieczonych zebranych
         - współpracując z [Dijkstrą](#p_dijkstra) (dobrowolnie czy pod przymusem) definitywnie zaszkodziła swojej pozycji, jej prawie pewna pozycja przyszłej głowy Nowej [Kapituły](#r_kapitula) jest teraz wątpliwa
 3. Akcja telekomunikacja
-    - Zanim [Kajetan](#g_kajetan) zdąży uspokoić się po chamskim zachowaniu [Dijkstry](#p_dijkstra) i zacznie zadawać pytania o [Skovika](#p_skovik), [Ilana](#g_ilana) przypomina [elfowi], że powinien poinformować [Ignę](#p_igna) o tym co zaszło, i wyrusza samodzielnie odebrać [wyspiarza](Skovik) z lasu. Zabiera ze sobą jeden z kamieni komunikacyjnych.
+    - Zanim [Kajetan](#g_kajetan) zdąży uspokoić się po chamskim zachowaniu [Dijkstry](#p_dijkstra) i zacznie zadawać pytania o [Skovika](#p_skovik), [Ilana](#g_ilana) przypomina [elfowi], że powinien poinformować [Ignę](#p_igna) o tym co zaszło, i wyrusza samodzielnie odebrać [wyspiarza](#p_skovik) z lasu. Zabiera ze sobą jeden z kamieni komunikacyjnych.
     - [Bras](#p_bras) też wychodzi, gdy [mag] zaczyna rozsyłać wiadomości:
         - do [Igny](#p_igna): _"[Dijkstra](#p_dijkstra) dotarł do [Kapituły](#r_kapitula) w trzy dni, i jego wystąpienie jest w centrum uwagi. [Dusek](#p_dusek) chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji [Myrtona](#p_lord_myrton)"_
         - z [Leivem](#p_leiv): _"Kto jeszcze steruje [Ragnarem](#p_ragnar), bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się [Cerys](#p_cerys), dał mu magiczne urządzenie do śledzenia statków które ma napadać."_
@@ -76,17 +76,17 @@
             - rozmówca jest zainteresowany, ale najbardziej interesuje go ściana którą nazywa "iluzją idealną" i chciałby aby poszukać informacji na ten temat w bibliotece w Crag An (nie wie, że biblioteka jest właśnie tam - przynajmniej [Kajetan](#g_kajetan) mu nie powiedział)
             - interesuje go też dalsza współpraca, najchętniej oczywiście dostęp do Crag An
     - Kolejne dni [elf](#g_kajetan) spędza na odbudowie klatki schodowej i podłogi, wydzieleniu dwóch sypialni i ich umeblowaniu, częściowo z funduszy, które - wraz z częścią racji żywności - zostawiła mu na wszelki wypadek druidka.
-4. Wioska
+4. [Wioska](#l_wioska)
     - [Ilana](#g_ilana) z pewnymi opóźnieniami dociera do [Wioski](#l_wioska). Przeliczając swoje siły na zamiary traci kontrolę nad swoją zwierzęcą formą, której używa do szybszego pokonania trasy. Na szczęście traci tylko jeden dzień.
-    - W wiosce [dziewczynę](Ilana) wita zagrzebany w papierach Finarrin. Zdaje się, że przybyło mieszkańców, budują się nowe chaty - panuje tu ogólny rozgardiasz.
-    - Ilana wdaje się w pogawędkę z [mentorem](Finarrin). Książę odstąpił druidom fragment ziem w północnej części Verden (wraz z ludźmi i przynależnościami) aby druidzi mogli osiedlić się tam na stałe i - podobnie jak w Mayenie - założyć ośrodek kultu.
-    - Finarrin został mianowany doradcą księcia, a w zamian druidzi zobowiązują się pomagać ludziom z Verden.
-    - Przechadzając się po wiosce Ilana zauważa Enid trenującą właśnie nowy narybek. [Starsza druidka](Enid) na widok [dziewczyny](Ilana) przerywa i prężnym krokiem podchodzi. Ilana, mając na uwadze okoliczności i stan Enid po ich ostatnim spotkaniu, spodziewa się rękoczynów. [Mentorka](Enid) zaskakują ją niepomiernie, gdy zamiast zdzielić kijem obejmuje ją serdecznie.
-    - Enid wydaje się bardziej pogodna i spokojna. Wyjawia, że w jej życiu nastąpiło kilka zmian. Wygląda jakby od W Pół Drogi nie tknęła alkoholu. [Druidka](Enid) wyznaje, że w tamtym momencie wyrzuciła z siebie wiele żalu i narastającej latami nienawiści. Gdy ochłonęła, zrozumiała, że tylko niszczyła samą siebie. Odtąd stara się być lepszą wersją siebie.
-    - Na powitanie Ilany z lasu wychodzą Skovik i Gebo, obaj przystrojeni w dziwnego rodzaju pancerz. [Wyspiarz](Skovik) chwali się, że sam go zrobił z resztek ubitej bestii.
-    - Ilana prosi Skovika żeby dał jej jeszcze chwilę z Finarrinem. Mają jeszcze kilka spraw do omówienia, a potem go znajdzie.
-    - Niedźwiadek podrósł, zarobił też kilka blizn, ale wyraźnie stęsknił się za [druidką](Ilana). Choć Skovik oddala się, Gebo siada przy Ilanie i domaga się uwagi w postaci pieszczot.
-    - Finarrin dzieli się informacją, która trochę Ilanę niepokoi: inicjatorem umowy z Kistrinem był Gardi, który teraz bardzo chętnie poświęca się sprawie i gimnastykuje aby wszystko szło zgodnie z planem.
-    - Ilana mówi [mentorowi](Finarrin) o tym, co znaleźli na bagnach pod Wyzimą. O Lentinusie, niebezpiecznym chwaście i kręgu żywiołów.
-    - W międzyczasie [druidka](Ilana) kontaktuje się z Kajetanem poprzez kamień. Elf biadoli coś podekscytowany o eksplorowaniu solo bibliotek Craag An w czasie nieobecności Ilany, co spotyka się z jej stanowczą reprymendą. [Dziewczyna](Ilana) obiecuje wieczorem podać dokładką datę swojego powrotu - wtedy będą mogli ustalić dalszy plan.
+    - W wiosce [dziewczynę](#g_ilana) wita zagrzebany w papierach [Finarrin](#p_druid_finarrin). Zdaje się, że przybyło mieszkańców, budują się nowe chaty - panuje tu ogólny rozgardiasz.
+    - [Ilana](#g_ilana) wdaje się w pogawędkę z [mentorem](#p_druid_finarrin). Książę odstąpił druidom fragment ziem w północnej części [Verden](#l_verden) (wraz z ludźmi i przynależnościami) aby druidzi mogli osiedlić się tam na stałe i - podobnie jak w [Mayenie](#l_mayena) - założyć ośrodek kultu.
+    - [Finarrin](#p_druid_finarrin) został mianowany doradcą księcia, a w zamian druidzi zobowiązują się pomagać ludziom z [Verden](#l_verden).
+    - Przechadzając się po wiosce [Ilana](#g_ilana) zauważa [Enid](#p_enid) trenującą właśnie nowy narybek. [Starsza druidka](#p_enid) na widok [dziewczyny](#g_ilana) przerywa i prężnym krokiem podchodzi. [Ilana](#g_ilana), mając na uwadze okoliczności i stan [Enid](#p_enid) po ich ostatnim spotkaniu, spodziewa się rękoczynów. [Mentorka](#p_enid) zaskakują ją niepomiernie, gdy zamiast zdzielić kijem obejmuje ją serdecznie.
+    - [Enid](#p_enid) wydaje się bardziej pogodna i spokojna. Wyjawia, że w jej życiu nastąpiło kilka zmian. Wygląda jakby od [W Pół Drogi](#l_pol_drogi) nie tknęła alkoholu. [Druidka](#p_enid) wyznaje, że w tamtym momencie wyrzuciła z siebie wiele żalu i narastającej latami nienawiści. Gdy ochłonęła, zrozumiała, że tylko niszczyła samą siebie. Odtąd stara się być lepszą wersją siebie.
+    - Na powitanie [Ilany](#g_ilana) z lasu wychodzą [Skovik](#p_skovik) i [Gebo](#p_gebo), obaj przystrojeni w dziwnego rodzaju pancerz. [Wyspiarz](#p_skovik) chwali się, że sam go zrobił z resztek ubitej bestii.
+    - [Ilana](#g_ilana) prosi [Skovika](#p_skovik) żeby dał jej jeszcze chwilę z [Finarrinem](#p_druid_finarrin). Mają jeszcze kilka spraw do omówienia, a potem go znajdzie.
+    - Niedźwiadek podrósł, zarobił też kilka blizn, ale wyraźnie stęsknił się za [druidką](#g_ilana). Choć [Skovik](#p_skovik) oddala się, [Gebo](#p_gebo) siada przy [Ilanie](#g_ilana) i domaga się uwagi w postaci pieszczot.
+    - [Finarrin](#p_druid_finarrin) dzieli się informacją, która trochę [Ilanę](#g_ilana) niepokoi: inicjatorem umowy z [Kistrinem](#p_ksiaze_kistrin) był [Gardi](#p_gardi), który teraz bardzo chętnie poświęca się sprawie i gimnastykuje aby wszystko szło zgodnie z planem.
+    - [Ilana](#g_ilana) mówi [mentorowi](#p_druid_finarrin) o tym, co znaleźli na bagnach pod [Wyzimą](#l_wyzima). O [Lentinusie](#p_lentinus), niebezpiecznym chwaście i kręgu żywiołów.
+    - W międzyczasie [druidka](#g_ilana) kontaktuje się z [Kajetanem](#g_kajetan) poprzez kamień. Elf biadoli coś podekscytowany o eksplorowaniu solo bibliotek [Craag An](#l_craag_an) w czasie nieobecności [Ilany](#g_ilana), co spotyka się z jej stanowczą reprymendą. [Dziewczyna](#g_ilana) obiecuje wieczorem podać dokładką datę swojego powrotu - wtedy będą mogli ustalić dalszy plan.
     
