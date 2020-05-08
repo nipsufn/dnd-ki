@@ -1,7 +1,7 @@
 ### Sesja 69
 1. Przygotowania do obrad
     - Wygląda na to, że [Bras](#p_bras) załatwił swoje sprawy w [Mayenie](#l_mayena) i teraz wybiera się do [Carreras](#l_carreras).
-    - Przed zebraniem, z pomocą [elfa](#g_kajetan), [Ilana](#g_ilana) wysyła wiadomość do [Finarrina](#p_druid_finarrin). {Druid](#p_druid_finarrin) prosi o księgi podatkowe, bo chyba podpisał jakąś umowę z księciem [Kistrinem](#p_ksiaze_kistrin) względem nadań ziemskich.
+    - Przed zebraniem, z pomocą [elfa](#g_kajetan), [Ilana](#g_ilana) wysyła wiadomość do [Finarrina](#p_druid_finarrin). [Druid](#p_druid_finarrin) prosi o księgi podatkowe, bo chyba podpisał jakąś umowę z księciem [Kistrinem](#p_ksiaze_kistrin) względem nadań ziemskich.
     - [Brass](#p_bras) i [Kajetan](#g_kajetan) zaczynają prace remontowe w klatce schodowej, by nie marnować czasu do spotkania.
     - W międzyczasie udaje nam się dorobić zapasowy klucz do kanałów tak by każde z nas miało po jednym.
     - Kiedy prace trwają, [Ilana](#g_ilana) wychodzi załatwić sprawunki, o które prosił ją [Finarrin](#p_druid_finarrin). Od [Brasa](#p_bras) dowiaduje się, że na księgi podatków Verdeńskich w [Redanii](#l_redania) nie ma co liczyć - należy ich szukać na miejscu. 
@@ -64,8 +64,8 @@
         - próbuje uspokoić i przemówić do rozsądku rozwścieczonych zebranych
         - współpracując z [Dijkstrą](#p_dijkstra) (dobrowolnie czy pod przymusem) definitywnie zaszkodziła swojej pozycji, jej prawie pewna pozycja przyszłej głowy Nowej [Kapituły](#r_kapitula) jest teraz wątpliwa
 3. Akcja telekomunikacja
-    - Zanim [Kajetan](#g_kajetan) zdąży uspokoić się po chamskim zachowaniu [Dijkstry](#p_dijkstra) i zacznie zadawać pytania o [Skovika](#p_skovik), [Ilana](#g_ilana) przypomina [elfowi], że powinien poinformować [Ignę](#p_igna) o tym co zaszło, i wyrusza samodzielnie odebrać [wyspiarza](#p_skovik) z lasu. Zabiera ze sobą jeden z kamieni komunikacyjnych.
-    - [Bras](#p_bras) też wychodzi, gdy [mag] zaczyna rozsyłać wiadomości:
+    - Zanim [Kajetan](#g_kajetan) zdąży uspokoić się po chamskim zachowaniu [Dijkstry](#p_dijkstra) i zacznie zadawać pytania o [Skovika](#p_skovik), [Ilana](#g_ilana) przypomina [elfowi](Kajetan), że powinien poinformować [Ignę](#p_igna) o tym co zaszło, i wyrusza samodzielnie odebrać [wyspiarza](#p_skovik) z lasu. Zabiera ze sobą jeden z kamieni komunikacyjnych.
+    - [Bras](#p_bras) też wychodzi, gdy [mag](Kajetan) zaczyna rozsyłać wiadomości:
         - do [Igny](#p_igna): _"[Dijkstra](#p_dijkstra) dotarł do [Kapituły](#r_kapitula) w trzy dni, i jego wystąpienie jest w centrum uwagi. [Dusek](#p_dusek) chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji [Myrtona](#p_lord_myrton)"_
         - z [Leivem](#p_leiv): _"Kto jeszcze steruje [Ragnarem](#p_ragnar), bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się [Cerys](#p_cerys), dał mu magiczne urządzenie do śledzenia statków które ma napadać."_
         - z Radcliffem dzieli się wiadomościami od [Leiva](#p_leiv) o [Ragnarze](#p_ragnar); w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w Kerrack
