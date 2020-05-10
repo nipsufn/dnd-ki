@@ -8,3 +8,4 @@ jobs:
       script: ./test.py
     - stage: tag
       script: ./tag.py
+      if: branch = small_feature
