@@ -141,6 +141,7 @@ def main():
     os.system('git config --global user.name "Travis CI"')
     os.system('git fetch')
     os.system('git checkout small_feature_md')
+    os.system('git status')
 
   for filePath in files:
     text = None
@@ -163,7 +164,7 @@ def main():
       os.system('git commit -am "$TRAVIS_COMMIT_MESSAGE"')
       os.system('git remote rm origin')
       os.system('git remote add origin https://${github_user}:${github_token}@github.com/${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1')
-      os.system('git push origin master --quiet')
+      os.system('git push origin small_feature_md --quiet')
   logger.info("tag writing time: {:.5f}sec".format(write_time))
 
 if __name__ == "__main__":
