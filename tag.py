@@ -137,6 +137,8 @@ def main():
   write_time = 0.0
   logger.info("tag lookup time: {:.5f}sec".format(tock()))
   if 'CI' in os.environ and os.environ['TRAVIS_BRANCH'] == "small_feature":
+    os.system('git remote rm origin')
+    os.system('git remote add origin https://${github_user}:${github_token}@github.com/${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1')
     os.system('git config --global user.email "travis@travis-ci.org"')
     os.system('git config --global user.name "Travis CI"')
     os.system('git fetch')
@@ -162,8 +164,6 @@ def main():
 
   if 'CI' in os.environ and os.environ['TRAVIS_BRANCH'] == "small_feature":
       os.system('git commit -am "$TRAVIS_COMMIT_MESSAGE"')
-      os.system('git remote rm origin')
-      os.system('git remote add origin https://${github_user}:${github_token}@github.com/${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1')
       os.system('git push origin small_feature_md --quiet')
   logger.info("tag writing time: {:.5f}sec".format(write_time))
 
