@@ -136,6 +136,9 @@ def main():
   # pass 2 - use tags to create links
   write_time = 0.0
   logger.info("tag lookup time: {:.5f}sec".format(tock()))
+  if 'CI' in os.environ and os.environ['TRAVIS_BRANCH'] == "small_feature":
+    os.system('git checkout small_feature_md')
+
   for filePath in files:
     text = None
     logger.warning(filePath)
@@ -148,14 +151,12 @@ def main():
       write_time += tock()
       tagger.close()
       text = tagger.text
-    if 'CI' in os.environ:
-      os.system('git checkout -b small_feature_md')
-    else:
+    if 'CI' not in os.environ:
       filePath = "local/" + filePath
     with open(filePath, 'w', encoding='utf-8') as fileStream:
       fileStream.write(text)
 
-  if 'CI' in os.environ:
+  if 'CI' in os.environ and os.environ['TRAVIS_BRANCH'] == "small_feature":
       os.system('git commit -am "$TRAVIS_COMMIT_MESSAGE"')
       os.system('git push')
   logger.info("tag writing time: {:.5f}sec".format(write_time))
