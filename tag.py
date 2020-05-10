@@ -110,6 +110,7 @@ def main():
 
   whitelist = [
     ".gitignore",
+    "local",
     "requirements.txt",
     ".travis.yml",
     "test.py",
@@ -147,10 +148,16 @@ def main():
       write_time += tock()
       tagger.close()
       text = tagger.text
-
+    if 'CI' in os.environ:
+      os.system('git checkout -b small_feature_md')
+    else:
+      filePath = "local/" + filePath
     with open(filePath, 'w', encoding='utf-8') as fileStream:
       fileStream.write(text)
 
+  if 'CI' in os.environ:
+      os.system('git commit -am "$TRAVIS_COMMIT_MESSAGE"')
+      os.system('git push')
   logger.info("tag writing time: {:.5f}sec".format(write_time))
 
 if __name__ == "__main__":
