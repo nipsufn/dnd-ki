@@ -70,7 +70,7 @@ class TagCreator(HTMLParser):
         if len(self.current_html_tag) == 0:
             for pair in self.tags:
                 #all user-tags `{whatever}Actual Name` or `[whatever](Actual Name)`
-                regex = r"[\{\[]([ \w].+?)[\}\]]\(?(" + pair[1] + r")\)?"
+                regex = r"[\{\[]([ \w]+?)[\}\]]\(?(" + pair[1] + r")\)?"
                 substitute = r"[\1](#" + pair[0] + r")"
                 data = re.sub(regex, substitute, data)
 
