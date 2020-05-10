@@ -152,7 +152,7 @@ def main():
         os.system('git config --global user.email "travis@travis-ci.org"')
         os.system('git config --global user.name "Travis CI"')
         os.system('git fetch')
-        os.system('git checkout ' + git_md_branch)
+        os.system('git checkout ' + git_integration_branch)
 
     for file_path in files:
         text = None
