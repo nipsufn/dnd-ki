@@ -173,6 +173,8 @@ def main():
 
     if 'CI' in os.environ and \
             os.environ['TRAVIS_BRANCH'] == git_integration_branch:
+        os.system('git commit -am "Tags processed: '
+                  + os.environ['TRAVIS_COMMIT_MESSAGE'])
         os.system('git push -f origin ' + git_integration_branch + ':'
                   + git_md_branch + ' --quiet')
     logger.info("tag writing time: {:.5f}sec".format(write_time))
