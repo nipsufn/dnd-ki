@@ -64,7 +64,7 @@
         - próbuje uspokoić i przemówić do rozsądku rozwścieczonych zebranych
         - współpracując z Dijkstrą (dobrowolnie czy pod przymusem) definitywnie zaszkodziła swojej pozycji, jej prawie pewna pozycja przyszłej głowy Nowej Kapituły jest teraz wątpliwa
 3. Akcja telekomunikacja
-    - Zanim Kajetan zdąży uspokoić się po chamskim zachowaniu Dijkstry i zacznie zadawać pytania o Skovika, Ilana przypomina {elfowi}Kajetan, że powinien poinformować Ignę o tym co zaszło, i wyrusza samodzielnie odebrać [wyspiarza}skovik z lasu. Zabiera ze sobą jeden z kamieni komunikacyjnych.
+    - Zanim Kajetan zdąży uspokoić się po chamskim zachowaniu Dijkstry i zacznie zadawać pytania o Skovika, Ilana przypomina {elfowi}Kajetan, że powinien poinformować Ignę o tym co zaszło, i wyrusza samodzielnie odebrać {wyspiarza}Skovik z lasu. Zabiera ze sobą jeden z kamieni komunikacyjnych.
     - Bras też wychodzi, gdy {mag}Kajetan zaczyna rozsyłać wiadomości:
         - do Igny: _"Dijkstra dotarł do Kapituły w trzy dni, i jego wystąpienie jest w centrum uwagi. Dusek chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji Myrtona"_
         - z Leivem: _"Kto jeszcze steruje Ragnarem, bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się Cerys, dał mu magiczne urządzenie do śledzenia statków które ma napadać."_
