@@ -1,7 +1,7 @@
 ### Sesja 70
 1. W odwiedziny u rodziny
     - Ilana zauważa Skovika rzeźbiącego coś w drewnie. Zapytany o to [wyspiarz](Skovik) zaskakuje ją spostrzeżeniem, że brakuje jej strzał w kołczanie i właśnie je dla niej struga.
-    - [Druidka](Ilana) pyta o Ivara. Podobno młodzian przepada na całe dnie w lesie razem ze swoim jelonkiem, który już trochę podrósł. Zdaje się, że [młody Drummond](Ivar) wypersfadował bratu bawienie się w jego niańkę, co trochę Skovika zabolało.
+    - [Druidka](Ilana) pyta o Ivara. Podobno młodzian przepada na całe dnie w lesie razem ze swoim jelonkiem, który już trochę podrósł. Zdaje się, że [młody Drummond](Ivar) wyperswadował bratu bawienie się w jego niańkę, co trochę Skovika zabolało.
     - Para chwilę żartuje snując plany na wieczór kiedy Ilana przypomina sobie o czymś, co jeszcze chciała omówić z Finarrinem.
     - [Druidka](Ilana) zastaje swojego [mentora](Finarrin) pochylonego nad papierami z Gardim. [Młody druid](Gardi), ubrany w strój podróżny oznajmia, że wybiera się w interesach do miasta.
     - Ilana korzysta z okazji i wypytuje Gardiego o szczegóły umowy z Kistrinem:
@@ -34,7 +34,7 @@
         +  jelonek Ivara to podobno peryton; jest stworzeniem magicznym i ciągle nosi w sobie cząstkę Verenestry, a kiedy dorośnie, możliwe, że wyrosną mu skrzydła
     - Skovik martwi się o [młodszego brata](Ivar). Uważa, że [ta stara wiedźma](Eithne) za bardzo miesza mu w głowie.
     - Ilana prosi Ivara o przysługę. Powierza mu kryształ z uwięzioną duszą Esme aby przekazał go Eithne i poprosił w jej imieniu o przełamanie zaklęcia. Jeśli jednka [królowa driad](Eithne) nie zechce bezinteresownie pomóc, [druidka](Ilana) chce znać cenę zanim Eithne wystawi jej rachunek za pomoc.
-3. Do domu, z przystankiem
+3. W Pół Drogi do domu
     - Pożegnawszy się ze wszystkimi, Ilana, Skovik i Gebo zostają podrzuceni przez Finarrina w okolicy W Pół Drogi. [Druid](Finarrin) nie zna niestety bezpieczniejszej i bliższej opcji.
     - Korzystając z faktu, że znajdują się obok zajazdu dysponującego bimbrem z mandragory, Ilana używa swoich zdolności do modyfikacji swojego wyglądu. Prosi Skovika o pomoc w zakupie kilku butelek.
     - Skovik jest zaskoczony nowymi umiejętnościami [dziewczyny](Ilana) i po części pierwowzorem, na którym oparła swój tymczasowy wygląd. Przebrana za Keirę "królową dziwek" Metz, Ilana ma zamiar ponegocjować z niczego nieświadomym krasnoludem o nalewkę.
@@ -46,3 +46,5 @@
     - Gebo i Skovik mają mały problem z przejściem przez iluzję skrywającą drzwi do piwnicy Merigold. Ilana prosi Kajetana o rozporszenie zaklęcia, ale elf, oderwany od gotowania, ma wyraźny problem z [niedźwiedziem](Gebo) mającym wejść do jego domu.
     - Kajetan oprowadza gości po salonach, chwaląc się swoją pracą z ostatnich kilku dni. Siedzimy przy kolacji kiedy słyszymy aktywujący się krąg teleportacyjny. Stukot kroków w klatce schodowej świadczy o tym, że mamy niezapowiedzianego gościa, którym okazuje się... Keira Metz.
     - Czarodziejka wpada z hasłem _"Cieszę się, że wszystkich was zastałam"_, lekko wibrującym złością.
+
+TEST: [WIELKIE dziecko](Kajetan)
