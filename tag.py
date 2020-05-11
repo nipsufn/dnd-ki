@@ -204,7 +204,7 @@ def git_comment(feedback, logger, commit=None):
                               auth=requests.auth.HTTPBasicAuth(
                                   os.environ['github_user'],
                                   os.environ['github_token']))
-        logger.info(r.reason)
+        logger.info(r.reason + r.text)
 
     if feedback:
         for line in feedback.splitlines():
