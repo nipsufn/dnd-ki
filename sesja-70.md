@@ -45,4 +45,4 @@
     - Do mostu w Mariborze docieramy o świcie, akurat w czasie zmiany straży. Strażnik, zmęczony swoją wartą, fartem uznaje niedźwiedzia za przywidzenie, i ignoruje całą bandę udając się na zasłużony odpoczynek.
     - Gebo i Skovik mają mały problem z przejściem przez iluzję skrywającą drzwi do piwnicy Merigold. Ilana prosi Kajetana o rozproszenie zaklęcia, ale elf, oderwany od gotowania, ma wyraźny problem z [niedźwiedziem](Gebo) mającym wejść do jego domu.
     - Kajetan oprowadza gości po salonach, chwaląc się swoją pracą z ostatnich kilku dni. Siedzimy przy kolacji kiedy słyszymy aktywujący się krąg teleportacyjny. Stukot kroków w klatce schodowej świadczy o tym, że mamy niezapowiedzianego gościa, którym okazuje się... Keira Metz.
-    - Czarodziejka wychodzi z klatki schodowej z hasłem _"O, jesteście? Świetnie"_, - wygląda na poirytowaną.
+    - Czarodziejka wychodzi z klatki schodowej z hasłem _"O, jesteście? Świetnie"_. Wygląda na nieco poirytowaną.
