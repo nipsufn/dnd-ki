@@ -357,8 +357,9 @@ def main():
     feedback = test_files(files)
     git_comment(feedback, logger)
     if not feedback:
-        process_tags(files, logger, "local/")
-        feedback = test_files(files, "local/")
+        prefix = "" if 'CI' in os.environ else "local/"
+        process_tags(files, logger, prefix)
+        feedback = test_files(files, prefix)
         commit = git_push(git_integration_branch, git_md_branch, git_web_branch)
         git_comment(feedback, logger, commit)
         if feedback:
