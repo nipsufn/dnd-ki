@@ -77,7 +77,9 @@
         siedziba szkoły magów zniszczonej(?) przez Redańczyków
 - <a id='l_kerack' pattern='Kerack'>Kerack</a>
     - niepodległe księstwo między Verden a Temerią
-    - Mirna otworzyła tam sklepik i warsztat
+    - <a id='l_m_kerack' pattern='Kerack'>Kerack</a>
+        - Mirna otworzyła tam sklepik i warsztat
+    - <a id='l_ansegis' pattern='Ansegis'>Ansegis</a>
 - <a id='l_kovir' pattern='Kovir*'>Kovir</a>
     - <a id='l_port_vanis' pattern='Port Vanis'>Port Vanis</a>
 - <a id='l_mahakam' pattern='Mahakam*'>Mahakam</a>

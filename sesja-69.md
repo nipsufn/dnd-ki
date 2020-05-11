@@ -89,3 +89,5 @@
     - Finarrin dzieli się informacją, która trochę Ilanę niepokoi: inicjatorem umowy z Kistrinem był Gardi, który teraz bardzo chętnie poświęca się sprawie i gimnastykuje aby wszystko szło zgodnie z planem.
     - Ilana mówi {mentorowi}Finarrin o tym, co znaleźli na bagnach pod Wyzimą. O Lentinusie, niebezpiecznym chwaście i kręgu żywiołów.
     - W międzyczasie {druidka}Ilana kontaktuje się z Kajetanem poprzez kamień. Elf biadoli coś podekscytowany o eksplorowaniu solo bibliotek Craag An w czasie nieobecności Ilany, co spotyka się z jej stanowczą reprymendą. {Dziewczyna}Ilana obiecuje wieczorem podać dokładką datę swojego powrotu - wtedy będą mogli ustalić dalszy plan.
+    - Finarrin zgadza się z {dziewczyną}Ilana, uważa że powrót do {elfiej cytadeli}Craag An to chybiony pomysł
+    - {Druid}Finarrin opowiada o Dzikim Gonie, czerwonej komecie, która podobno zawsze przelatywała akurat gdy wojacy z północy prali się z czarnymi

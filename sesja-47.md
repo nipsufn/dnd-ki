@@ -17,7 +17,7 @@
     - Za kratami znajduje się spora rura kanalizacyjna. Z jej wnętrza wypływają ludzkie szczątki. Ciała wyglądają jakby były oskórowane, znajdujemy nawet całą zdartą twarz.
     - Na szczęście nic więcej nas nie atakuje. Komunikujemy się z [panem Vicovaro](Florian), który zdradza nam hasło do zamków: Galhair. Kajetan rozpoznaje nilfgaardzkie słowo __Gal'Haire - projekt prorok__. Informuje też, że na ścianach są runy - aby przejść bez szwanku należy poruszać się bardzo powoli.
     - Wchodzimy do piwnic lazaretu. [Mag](Florian) prosi aby "nie narobić bałaganu". Pyta też, czy chcemy się z nim spotkać, ale odmawiamy, więc ulatnia się przed naszym przybyciem.
-3. <a href="https://www.youtube.com/watch?v=viuwkMi_9jk">W prosektorium</a>
+3. <a href="https://youtu.be/viuwkMi_9jk">W prosektorium</a>
     - Pomieszczenie jest zimne i strasznie tu śmierdzi. Pod ścianami stoją metalowe szafy z długimi szufladami. Na środku sali jest też stół operacyjny, na którym stoi kosz z narzędziami. 
     - W rogu sali jest basen, a w nim piętrzą się dziwnie zdeformowane zwłoki. Denaci mają kolcze wyrostki przedłużające żebra penetrujące klatkę piersiową. Ich głowy są napuchnięte, a po bokach widać dziwne dyskoloracje.
     - Kajetan idzie sprawdzić klatkę schodową prowadzącą do szpitala kiedy reszta zostaje w kostnicy.

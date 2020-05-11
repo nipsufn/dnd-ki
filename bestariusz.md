@@ -92,6 +92,8 @@
         - reagują na magię (wyczuwają ją)
         - maskują się malując twarze gliną w "wojenne barwy"
         - są mięsożerne
+    - <a id='b_peryton' pattern='[Pp]eryton*'>Peryton</a>
+        - jeleń ze skrzydłami, ponoć lata
     - <a id='b_szarak' pattern='[Ss]zarak*'>Szarak</a>
         - żywi się emocjami
         - widzą go dzieci, dorośli mogą go zauważyć w lustrze bądź po posypaniu potwora srebrnym pyłem(?)
