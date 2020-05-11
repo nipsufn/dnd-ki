@@ -6,4 +6,4 @@ jobs:
   include:
     - stage: tag
       script: ./tag.py
-      if: branch = small_feature
+      if: branch = integration

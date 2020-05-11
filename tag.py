@@ -339,9 +339,9 @@ def main():
     args = parser.parse_args()
 
     # variables
-    git_integration_branch = "small_feature"
-    git_md_branch = "small_feature_md"
-    git_web_branch = "small_feature_web"
+    git_integration_branch = "integration"
+    git_md_branch = "master"
+    git_web_branch = "feature_web"
     whitelist = [
         ".gitignore",
         "local",
