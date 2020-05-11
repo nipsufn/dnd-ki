@@ -1,24 +1,24 @@
 #!/usr/bin/env python3
 
 import os
-
+import sys
+import subprocess
 import argparse
 import logging
 import re
 from html.parser import HTMLParser
 import time
+import requests
 
 
-
-TICKTOCK = float()
-def tick():
-    global TICKTOCK
-    TICKTOCK = time.time()
-
-def tock():
-    global TICKTOCK
-    elapsed = time.time() - TICKTOCK
-    return elapsed
+class TickTock:
+    __ticktock = float()
+    @staticmethod
+    def tick():
+        TickTock.__ticktock = time.time()
+    @staticmethod
+    def tock():
+        return time.time() - TickTock.__ticktock
 
 class TagParser(HTMLParser):
     def __init__(self):
@@ -36,7 +36,8 @@ class TagParser(HTMLParser):
         if 'pattern' in attr_dict.keys():
             pattern_list = sorted(attr_dict['pattern'].split(','), key=len,
                                   reverse=True)
-            regex = '|'.join(pattern_list) if pattern_list else attr_dict['pattern']
+            regex = '|'.join(pattern_list) if pattern_list \
+                else attr_dict['pattern']
             regex = regex.replace(r"*", r"\w{0,7}")
 
             self.tags.append([attr_dict['id'], regex])
@@ -86,31 +87,256 @@ class TagCreator(HTMLParser):
     def error(self, message):
         return
 
+class Console:
+    __logger = None
+    @staticmethod
+    def __init__(loglevel=logging.WARN):
+        logging.TRACE = 5
+        logging.addLevelName(5, "TRACE")
+        Console.__logger = logging.getLogger('console')
+        setattr(Console.__logger, 'trace',
+                lambda *args: Console.__logger.log(5, *args))
+
+        log_handler = logging.StreamHandler()
+        log_handler.setFormatter(
+            logging.Formatter(
+                '%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+        Console.__logger.addHandler(log_handler)
+        Console.__logger.setLevel(loglevel)
+
+    @staticmethod
+    def run(command, return_stderr=False):
+        if not Console.__logger:
+            Console.__init__()
+        Console.__logger.debug("Running command %s", command)
+        result = subprocess.run(command, capture_output=True, shell=True,
+                                check=False)
+        for line in result.stdout.decode('utf-8').splitlines():
+            Console.__logger.debug(line)
+        for line in result.stderr.decode('utf-8').splitlines():
+            Console.__logger.warning(line)
+        if return_stderr:
+            return (result.stdout.decode('utf-8'),
+                    result.stderr.decode('utf-8'))
+        return result.stdout.decode('utf-8')
+
+    @staticmethod
+    def set_log_level(loglevel):
+        if not Console.__logger:
+            Console.__init__()
+        Console.__logger.setLevel(loglevel)
+
+def prepare_logger(args):
+    logging.TRACE = 5
+    logging.addLevelName(5, "TRACE")
+    logger = logging.getLogger('journal_tagger')
+    setattr(logger, 'trace', lambda *args: logger.log(5, *args))
+
+    log_handler = logging.StreamHandler()
+    log_handler.setFormatter(
+        logging.Formatter(
+            '%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+    logger.addHandler(log_handler)
+    if args.trace:
+        logger.setLevel(logging.TRACE)
+        Console.set_log_level(logging.TRACE)
+    elif args.debug:
+        logger.setLevel(logging.DEBUG)
+        Console.set_log_level(logging.DEBUG)
+    else:
+        logger.setLevel(logging.INFO)
+        Console.set_log_level(logging.INFO)
+    return logger
+
+def prepare_files(args, whitelist, logger):
+    whitelist.extend(args.ignore)
+    with open(".gitignore") as gitignore:
+        whitelist.extend(gitignore.read().splitlines())
+    logger.debug("Ignored files: %s", str(whitelist))
+    files = [f for f in os.listdir() if os.path.isfile(f)]
+    files = list(set(files) - set(whitelist))
+    logger.trace("List of files: %s", str(files))
+    return files
+
+def git_pull(git_integration_branch):
+    if 'CI' in os.environ and \
+            os.environ['TRAVIS_BRANCH'] == git_integration_branch:
+        Console.run('git remote rm origin')
+        Console.run('git remote add origin '
+                    + 'https://${github_user}:${github_token}@github.com/'
+                    + '${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1')
+        Console.run('git config --global user.email "travis@travis-ci.org"')
+        Console.run('git config --global user.name "Travis CI"')
+        Console.run('git fetch')
+        Console.run('git checkout ' + git_integration_branch)
+
+def git_push(git_integration_branch, git_md_branch, git_web_branch):
+    if 'CI' in os.environ and \
+            os.environ['TRAVIS_BRANCH'] == git_integration_branch:
+        Console.run('git commit -am "Tags processed: '
+                    + os.environ['TRAVIS_COMMIT_MESSAGE'] + '"')
+        Console.run('git push -f origin ' + git_integration_branch + ':'
+                    + git_md_branch + ' --quiet')
+        return Console.run('git rev-parse HEAD')
+    return str()
+
+def git_comment(feedback, logger, commit=None):
+    if 'CI' in os.environ:
+        if not commit:
+            commit = os.environ['TRAVIS_COMMIT']
+        if feedback != "":
+            requests.post('https://api.github.com/repos/'
+                          + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
+                          + commit + '/comments',
+                          json={"body": feedback},
+                          auth=requests.auth.HTTPBasicAuth(
+                              os.environ['github_user'],
+                              os.environ['github_token']))
+        else:
+            requests.post('https://api.github.com/repos/'
+                          + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
+                          + commit +'/comments',
+                          json={"body": "Test passed!"},
+                          auth=requests.auth.HTTPBasicAuth(
+                              os.environ['github_user'],
+                              os.environ['github_token']))
+
+    if feedback:
+        for line in feedback.splitlines():
+            logger.error(line)
+    else:
+        logger.info("Test passed!")
+
+def process_tags(files, logger, local_prefix="local/"):
+    TickTock.tick()
+    tag_retriever = TagParser()
+    # pass 1 - generate tags
+    for file_path in files:
+        with open(file_path, 'r', encoding='utf-8') as file_stream:
+            tag_retriever.feed(file_stream.read())
+
+    logger.debug("Tag count: %s", str(len(tag_retriever.tags)))
+    # pass 2 - use tags to create links
+    write_time = 0.0
+    logger.info("Tag lookup time: {:.5f}sec".format(TickTock.tock()))
+
+    for file_path in files:
+        text = None
+        logger.trace(file_path)
+        with open(file_path, 'r', encoding='utf-8') as file_stream:
+            TickTock.tick()
+            text = file_stream.read()
+            tagger = TagCreator(tag_retriever.tags)
+            tagger.feed(text)
+            logger.trace("processing time: {:.5f}sec".format(TickTock.tock()))
+            write_time += TickTock.tock()
+            tagger.close()
+            text = tagger.text
+        if 'CI' not in os.environ:
+            file_path = local_prefix + file_path
+        with open(file_path, 'w', encoding='utf-8') as file_stream:
+            file_stream.write(text)
+        logger.info("tag writing time: {:.5f}sec".format(write_time))
+
+def test_files(files, local_prefix=""):
+    tags = []
+    refs = []
+    feedback = ""
+
+    for file_path in files:
+        with open(local_prefix + file_path, 'r', encoding='utf-8') as file_stream:
+            balance = [0 for x in range(7)]
+            merge_conflict = False
+            for line_no, line_text in enumerate(file_stream):
+                balance[0] += line_text.count('"')
+                balance[1] += line_text.count('<')
+                balance[2] += line_text.count('>')
+                balance[3] += line_text.count('(')
+                balance[4] += line_text.count(')')
+                balance[5] += line_text.count('[')
+                balance[6] += line_text.count(']')
+                if re.match(r"[<>=]{7}", line_text):
+                    merge_conflict = True
+                if re.match(r"^(\t| )*>", line_text):
+                    balance[2] -= 1
+                for match in re.finditer(r"[a-zA-Z0-9](_[a-zA-Z0-9]+)+",
+                                         line_text):
+                    if re.search(r"<a id='[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?'",
+                                 line_text[match.start(0)-7:match.end(0)+6]):
+                        tags.append([match.group(0), line_no, match.start(0),
+                                     file_path])
+                    elif re.search(r"<a id=\"[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?\"",
+                                   line_text[match.start(0)-7:match.end(0)+6]):
+                        tags.append([match.group(0), line_no, match.start(0),
+                                     file_path])
+                    elif re.search(
+                            r"\[[^\[^\]]+?\]\(#[a-zA-Z0-9](_[a-zA-Z0-9]+)+\)",
+                            line_text[0:match.end(0)+1]):
+                        refs.append([match.group(0), line_no, match.start(0),
+                                     file_path, False])
+                    elif re.search(r'<a href="[^"]+?(_[a-zA-Z0-9]+)+">.+?</a>',
+                                   line_text):
+                        continue
+                    elif re.search(r"\[[^\[^\]]+?\]\(http.+?\)",
+                                   line_text[0:match.end(0)+1]):
+                        continue
+                    else:
+                        feedback += ("Tag or reference malformed: "
+                                     + match.group(0)
+                                     + "; line: " + str(line_no+1)
+                                     + "; position: " + str(match.start(0))
+                                     + "; file: " + file_path + "\n")
+
+            if balance[0]%2 != 0:
+                feedback += "Unmatched \" in file: " + file_path + "\n"
+            if balance[1] != balance[2]:
+                feedback += "Unmatched <> in file: " + file_path + "\n"
+            if balance[3] != balance[4]:
+                feedback += "Unmatched () in file: " + file_path + "\n"
+            if balance[5] != balance[6]:
+                feedback += "Unmatched [] in file: " + file_path + "\n"
+            if merge_conflict:
+                feedback += "Merge conflict in file: " + file_path + "\n"
+
+    for n, x in enumerate(tags):
+        for o, y in enumerate(tags):
+            if o > n and x[0] == y[0]:
+                feedback += ("Duplicate tag found: " + y[0]
+                             + "; first: line: " + str(x[1]+1)
+                             + ", position: " + str(x[2])
+                             + ", file: " + x[3]
+                             + "; subsequent: line: " + str(y[1]+1)
+                             + ", position: " + str(y[2])
+                             + ", file: " + y[3]
+                             + "\n")
+
+    for ref in refs:
+        for tag in tags:
+            if ref[0] == tag[0]:
+                ref[4] = True
+        if not ref[4]:
+            feedback += ("Reference malformed: " + ref[0]
+                         + "; line: " + str(ref[1]+1)
+                         + "; position: " + str(ref[2])
+                         + "; file: " + ref[3]
+                         + "\n")
+
+    return feedback
+
 def main():
-    tick()
+    TickTock.tick()
+    # argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("-dd", "--debug", "-vv", "--verbose",
+    parser.add_argument("-dd", "--trace", "-vv",
                         action="store_true", help="debug mode")
-    parser.add_argument("-d", "--info", "-v",
+    parser.add_argument("-d", "--debug", "-v", "--verbose",
                         action="store_true", help="debug mode")
     parser.add_argument("-i", "--ignore", nargs='+', type=str,
                         help="space separated list of files to be ignored",
                         default=list())
     args = parser.parse_args()
 
-    logger = logging.getLogger('journal_tagger')
-    log_handler = logging.StreamHandler()
-    log_handler.setFormatter(
-        logging.Formatter(
-            '%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
-    logger.addHandler(log_handler)
-    if args.info:
-        logger.setLevel(logging.INFO)
-    elif args.debug:
-        logger.setLevel(logging.DEBUG)
-    else:
-        logger.setLevel(logging.WARNING)
-
+    # variables
     git_integration_branch = "small_feature"
     git_md_branch = "small_feature_md"
     git_web_branch = "small_feature_web"
@@ -122,62 +348,24 @@ def main():
         "test.py",
         "tag.py"
         ]
-    whitelist.extend(args.ignore)
-    with open(".gitignore") as gitignore:
-        whitelist.extend(gitignore.read().splitlines())
-    logger.debug("main: Ignored files: %s", str(whitelist))
-    files = [f for f in os.listdir() if os.path.isfile(f)]
-    files = list(set(files) - set(whitelist))
-    logger.info("main: List of files: %s", str(files))
-    logger.info("initialization time: {:.5f}sec".format(tock()))
 
-    tick()
-    tag_retriever = TagParser()
-    # pass 1 - generate tags
-    for file_path in files:
-        with open(file_path, 'r', encoding='utf-8') as file_stream:
-            tag_retriever.feed(file_stream.read())
-
-    logger.info("Tag count: %s", str(len(tag_retriever.tags)))
-    # pass 2 - use tags to create links
-    write_time = 0.0
-    logger.info("tag lookup time: {:.5f}sec".format(tock()))
-
-    if 'CI' in os.environ and \
-            os.environ['TRAVIS_BRANCH'] == git_integration_branch:
-        os.system('git remote rm origin')
-        os.system('git remote add origin '\
-                  'https://${github_user}:${github_token}@github.com/'\
-                  '${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1')
-        os.system('git config --global user.email "travis@travis-ci.org"')
-        os.system('git config --global user.name "Travis CI"')
-        os.system('git fetch')
-        os.system('git checkout ' + git_integration_branch)
-
-    for file_path in files:
-        text = None
-        logger.warning(file_path)
-        with open(file_path, 'r', encoding='utf-8') as file_stream:
-            tick()
-            text = file_stream.read()
-            tagger = TagCreator(tag_retriever.tags)
-            tagger.feed(text)
-            logger.debug("processing time: {:.5f}sec".format(tock()))
-            write_time += tock()
-            tagger.close()
-            text = tagger.text
-        if 'CI' not in os.environ:
-            file_path = "local/" + file_path
-        with open(file_path, 'w', encoding='utf-8') as file_stream:
-            file_stream.write(text)
-
-    if 'CI' in os.environ and \
-            os.environ['TRAVIS_BRANCH'] == git_integration_branch:
-        os.system('git commit -am "Tags processed: '
-                  + os.environ['TRAVIS_COMMIT_MESSAGE'] + '"')
-        os.system('git push -f origin ' + git_integration_branch + ':'
-                  + git_md_branch + ' --quiet')
-    logger.info("tag writing time: {:.5f}sec".format(write_time))
+    # code
+    logger = prepare_logger(args)
+    files = prepare_files(args, whitelist, logger)
+    git_pull(git_integration_branch)
+    logger.info("Initialization time: {:.5f}sec".format(TickTock.tock()))
+    feedback = test_files(files)
+    git_comment(feedback, logger)
+    if not feedback:
+        process_tags(files, logger, "local/")
+        feedback = test_files(files, "local/")
+        commit = git_push(git_integration_branch, git_md_branch, git_web_branch)
+        git_comment(feedback, logger, commit)
+        if feedback:
+            sys.exit(1)
+        else:
+            sys.exit(0)
+    sys.exit(1)
 
 if __name__ == "__main__":
     main()

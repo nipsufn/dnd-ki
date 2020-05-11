@@ -1,7 +1,7 @@
 ### Sesja 70
 1. W odwiedziny u rodziny
     - Ilana zauważa Skovika rzeźbiącego coś w drewnie. Zapytany o to [wyspiarz](Skovik) zaskakuje ją spostrzeżeniem, że brakuje jej strzał w kołczanie i właśnie je dla niej struga.
-    - [Druidka](Ilana) pyta o Ivara. Podobno młodzian przedapa na całe dnie w lesie razem ze swoim jelonkiem, który już trochę podrósł. Zdaje się, że [młody Drummond](Ivar) wypersfadował bratu bawienie się w jego niańkę, co trochę Skovika zabolało.
+    - [Druidka](Ilana) pyta o Ivara. Podobno młodzian przepada na całe dnie w lesie razem ze swoim jelonkiem, który już trochę podrósł. Zdaje się, że [młody Drummond](Ivar) wypersfadował bratu bawienie się w jego niańkę, co trochę Skovika zabolało.
     - Para chwilę żartuje snując plany na wieczór kiedy Ilana przypomina sobie o czymś, co jeszcze chciała omówić z Finarrinem.
     - [Druidka](Ilana) zastaje swojego [mentora](Finarrin) pochylonego nad papierami z Gardim. [Młody druid](Gardi), ubrany w strój podróżny oznajmia, że wybiera się w interesach do miasta.
     - Ilana korzysta z okazji i wypytuje Gardiego o szczegóły umowy z Kistrinem:
@@ -11,7 +11,7 @@
         + druidzi, w zamian za pomoc finansową z Verden, mieliby zapisywać swoją wiedzę na temat ziołolecznictwa, uprawy roślin itp., by następnie dzielić się nią z tymi mieszkańcami miasta, którzy zwrócą się do nich po edukację
     - Finarrin cieszy się z pomocy Gardiego, uważa nawet, że chyba właśnie dopiero teraz [młody druid](Gardi) znalazł sobie wreszcie miejsce w wiosce.
     - Ilana opowiada [opiekunowi](Finarrin) co wydarzyło się od ich ostatniego spotkania. Zdaje także pokrótce relację z ostatniej audiencji u czarodziejów. Wspomina o Malaspinie, praojcu wiedźminów i o nowych faktach na temat zamachu na Cerys.
-    - Finarrin opowiada trochę o Malaspinie. Podobno stworzył on nie tylko wiedźminów, ale - wraz ze swoimi uczniami - także i wiele potworów, które  przyszło im później zwalczać. Wymienia kilka najsłynnijeszych: kościej, wij, idr, przeraza.
+    - Finarrin opowiada trochę o Malaspinie. Podobno stworzył on nie tylko wiedźminów, ale - wraz ze swoimi uczniami - także i wiele potworów, które  przyszło im później zwalczać. Wymienia kilka najsłynniejszych: kościej, wij, idr, przeraza.
     - [Dziewczyna](Ilana) wypytuje też o Enid. Nadal dziwi ją kolosalna zmiana zachowania [starszej druidki](Enid). Nie mogąc uzyskać żadnych obszerniejszych wyjaśnień od Finarrina, postanawia wyciągnąć Enid na spacer.
     - [Mentorka](Enid) kończy właśnie ćwiczenia nowych druidów. Z lekkim ociąganiem przyjmuje zaproszenie, poniekąd słusznie spodziewając się przesłuchania. 
     - Ilana zauważa na jej przedramionach magicznie zaleczone ślady po dwóch głębokich cięciach. [Starsza druidka](Enid) ze wstydem na twarzy przyznaje, że po pijaku próbowała ze sobą skończyć, ale uratowały ją... znienawidzone wróżki z ogródka. W podzięce oddała im do dyspozycji jedną ze ścian swojej chaty.
@@ -26,7 +26,7 @@
         + [Drummond](Skovik) nie może i/lub nie chce uwierzyć, że człowiek, któremu tak ufał mógł go perfidnie wykorzystać; wysnuwa teorię jakoby trucizna na ostrzu miała być kłamstwem wyssanym z palca przez magów
 2. Ostatni dzień wizyty
     - Nad ranem, lekko po świcie zjawia się Ivar. Zmęczony i umorusany, tłucze się trochę próbując zdjąć z siebie pancerz. Jego zwierzak, odprowadziwszy go do chaty, mości się obok Gebo w obórce.
-    - [Młodzian](Ivar) wyraźnie się wyrobił i nabrał formy biegając po lesie. Rozkojażony dopiero po chwili zauważa Ilanę i wita się z nią, nieco skrępowany jej obecnością. 
+    - [Młodzian](Ivar) wyraźnie się wyrobił i nabrał formy biegając po lesie. Rozkojarzony dopiero po chwili zauważa Ilanę i wita się z nią, nieco skrępowany jej obecnością. 
     - [Druidka](Ilana) proponuje śniadanie, ale [chłopak](Ivar) pada z nóg i niemal natychmiast idzie się położyć. Pyta na jak długo Ilana wpadła z wizytą i obiecuje poopowiadać co u niego jak tylko odeśpi zmęczenie.
     - W okolicach późnego popołudnia Ivar wraca do żywych i dołącza do rozmawiającej pary. Chwali się i opowiada:
         +  był ostatnio w Ansegis - wiosce na granicy Kerrack i Brokilonu; wioska była atakowana przez potwory przypominające przerośnięte pasikoniki
