@@ -185,22 +185,26 @@ def git_comment(feedback, logger, commit=None):
         if not commit:
             commit = os.environ['TRAVIS_COMMIT']
         logger.info(commit)
+        time.sleep(30)
+        r = None
         if feedback != "":
-            requests.post('https://api.github.com/repos/'
-                          + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
-                          + commit + '/comments',
-                          json={"body": feedback},
-                          auth=requests.auth.HTTPBasicAuth(
-                              os.environ['github_user'],
-                              os.environ['github_token']))
+            r = requests.post('https://api.github.com/repos/'
+                              + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
+                              + commit + '/comments',
+                              json={"body": feedback},
+                              auth=requests.auth.HTTPBasicAuth(
+                                  os.environ['github_user'],
+                                  os.environ['github_token']))
+            
         else:
-            requests.post('https://api.github.com/repos/'
-                          + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
-                          + commit +'/comments',
-                          json={"body": "Test passed!"},
-                          auth=requests.auth.HTTPBasicAuth(
-                              os.environ['github_user'],
-                              os.environ['github_token']))
+            r = requests.post('https://api.github.com/repos/'
+                              + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
+                              + commit +'/comments',
+                              json={"body": "Test passed!"},
+                              auth=requests.auth.HTTPBasicAuth(
+                                  os.environ['github_user'],
+                                  os.environ['github_token']))
+        logger.info(r.reason)
 
     if feedback:
         for line in feedback.splitlines():
