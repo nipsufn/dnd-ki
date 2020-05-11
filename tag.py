@@ -184,13 +184,11 @@ def git_comment(feedback, logger, commit=None):
     if 'CI' in os.environ:
         if not commit:
             commit = os.environ['TRAVIS_COMMIT']
-        logger.info(commit)
-        time.sleep(30)
         r = None
         if feedback != "":
             r = requests.post('https://api.github.com/repos/'
                               + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
-                              + commit + '/comments',
+                              + commit.rstrip() + '/comments',
                               json={"body": feedback},
                               auth=requests.auth.HTTPBasicAuth(
                                   os.environ['github_user'],
@@ -199,12 +197,11 @@ def git_comment(feedback, logger, commit=None):
         else:
             r = requests.post('https://api.github.com/repos/'
                               + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
-                              + commit +'/comments',
+                              + commit.rstrip() +'/comments',
                               json={"body": "Test passed!"},
                               auth=requests.auth.HTTPBasicAuth(
                                   os.environ['github_user'],
                                   os.environ['github_token']))
-        logger.info(r.reason + r.text)
 
     if feedback:
         for line in feedback.splitlines():
