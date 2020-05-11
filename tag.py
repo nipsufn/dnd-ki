@@ -184,6 +184,7 @@ def git_comment(feedback, logger, commit=None):
     if 'CI' in os.environ:
         if not commit:
             commit = os.environ['TRAVIS_COMMIT']
+        logger.info(commit)
         if feedback != "":
             requests.post('https://api.github.com/repos/'
                           + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
