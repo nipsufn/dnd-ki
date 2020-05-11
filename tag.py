@@ -236,7 +236,7 @@ def process_tags(files, logger, local_prefix="local/"):
             file_path = local_prefix + file_path
         with open(file_path, 'w', encoding='utf-8') as file_stream:
             file_stream.write(text)
-        logger.info("tag writing time: {:.5f}sec".format(write_time))
+    logger.info("tag writing time: {:.5f}sec".format(write_time))
 
 def test_files(files, local_prefix=""):
     tags = []

@@ -1,17 +1,17 @@
 ## Heraldyka
-- Orzeł biały w polu czerwonym - [Redania](#l_redania)
-- Lilie złote w polu niebieskim - [Temeria](#l_temeria)
-- Lilia złota w polu w pasy biało-niebieskie - Specjalne Siły [Temerskie](#l_temeria)
-- Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - [Łowcy](#r_lowca) Czarownic/Potworów / Zakon Wiecznego Ognia
-- trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas [Łowców](#r_lowca)
+- Orzeł biały w polu czerwonym - Redania
+- Lilie złote w polu niebieskim - Temeria
+- Lilia złota w polu w pasy biało-niebieskie - Specjalne Siły Temerskie
+- Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - Łowcy Czarownic/Potworów / Zakon Wiecznego Ognia
+- trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas Łowców
     - [Sesja 0](#sesja-00)
     - 
     - [Sesja 60](#sesja-60)
-- Dwa groty, górny żółty, dolny czerwony - [Aedirn](#l_aedirn)
-- Fioletowe U z przedłużonymi ramionami - symbol klanu [Drummond](#p_drummond) (Wyspiarze ze [Skellige](#l_wyspy_skellige))
-- Czarny niedźwiedź - [Wyspy Skellige](#l_wyspy_skellige)
-- Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - [Ellander](#l_ellander)
-- Krzyż biały w polu zielonym - [Brugge](#l_brugge)
-- Słońce złote w polu czarnym - [Nilfgaard](#l_nilfgaard)
-- Lew złoty w polu niebieskim - [Cintra](#l_cintra)
-- Szachownica pól złotych i czarnych - [Verden](#l_verden)
+- Dwa groty, górny żółty, dolny czerwony - Aedirn
+- Fioletowe U z przedłużonymi ramionami - symbol klanu Drummond (Wyspiarze ze Skellige)
+- Czarny niedźwiedź - Wyspy Skellige
+- Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - Ellander
+- Krzyż biały w polu zielonym - Brugge
+- Słońce złote w polu czarnym - Nilfgaard
+- Lew złoty w polu niebieskim - Cintra
+- Szachownica pól złotych i czarnych - Verden
