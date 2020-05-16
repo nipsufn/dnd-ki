@@ -174,7 +174,7 @@ def git_push(git_integration_branch, git_md_branch, git_web_branch):
     if 'CI' in os.environ and \
             os.environ['TRAVIS_BRANCH'] == git_integration_branch:
         Console.run('git commit -am "Tags processed: '
-                    + os.environ['TRAVIS_COMMIT_MESSAGE'] + '"')
+                    + os.environ['TRAVIS_COMMIT_MESSAGE'].replace('"','\\"') + '"')
         Console.run('git push -f origin ' + git_integration_branch + ':'
                     + git_md_branch + ' --quiet')
         return Console.run('git rev-parse HEAD')
