@@ -1,5 +1,5 @@
 ## Różne
-- <a id="r_lowca" pattern='Łowc* czarownic,Łowc*'>Łowcy czarownic / potworów</a>
+- <a id="r_lowca" pattern='Łowc* czarownic,Łowcy,Łowcach'>Łowcy czarownic / potworów</a>
 - <a id="r_zakon" pattern='Zakon* Płonącej Róży'>Zakon Płonącej Róży</a>
     - wywodzi się z Ellander
     - miał zastąpić wiedźminów, pozbywać się potworów jako część swojej posługi
@@ -81,7 +81,7 @@
             - <a id='r_midaete' pattern='Midaëte'>Midaëte – letnie; </a>
         - Ekwinokcja (równonoce)
             - <a id='r_birke' pattern='Birke'>Birke – wiosenna,</a>
-            - <a id='r_velen' pattern='Velen'>Velen – jesienna; </a>
+            - <a id='r_velen' regex='(?<!Gors )Velen'>Velen – jesienna; </a>
     - Święta magiczne
         - <a id='r_imbaelk' pattern='Imbaelk'>Imbaelk – kiełkowanie</a>
         - <a id='r_belleteyn' pattern='Belleteyn'>Belleteyn – rozkwit</a>
