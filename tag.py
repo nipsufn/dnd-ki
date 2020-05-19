@@ -206,8 +206,8 @@ class Travis:
         if 'CI' not in os.environ:
             return
         Console.run('cd ' + Travis.git_dir)
-        Console.run('pwd')
-        Console.run('git status')
+        Console.run('pwd 1>&2')
+        Console.run('git status 1>&2')
         if sanitize:
             Console.run('git commit -am "' + message.replace('"','\\"') + '"')
         else:
