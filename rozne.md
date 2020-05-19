@@ -81,7 +81,7 @@
             - <a id='r_midaete' pattern='Midaëte'>Midaëte – letnie; </a>
         - Ekwinokcja (równonoce)
             - <a id='r_birke' pattern='Birke'>Birke – wiosenna,</a>
-            - <a id='r_velen' regex='(?<!Gors )Velen'>Velen – jesienna; </a>
+            - <a id='r_velen' regex='(?<!Gors )Velen'>Velen – jesienna; </a><!-- > let's keep bracket balance -->
     - Święta magiczne
         - <a id='r_imbaelk' pattern='Imbaelk'>Imbaelk – kiełkowanie</a>
         - <a id='r_belleteyn' pattern='Belleteyn'>Belleteyn – rozkwit</a>
