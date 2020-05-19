@@ -206,6 +206,8 @@ class Travis:
         if 'CI' not in os.environ:
             return
         Console.run('cd ' + Travis.git_dir)
+        Console.run('pwd')
+        Console.run('git status')
         if sanitize:
             Console.run('git commit -am "' + message.replace('"','\\"') + '"')
         else:
@@ -241,9 +243,6 @@ class Travis:
                             auth=requests.auth.HTTPBasicAuth(
                                 os.environ['github_user'],
                                 os.environ['github_token']))
-
-        for line in message.splitlines():
-            logger.error(line)
 
 def process_tags(files, logger, prefix=""):
     TickTock.tick()
@@ -394,6 +393,8 @@ def main():
     # comment test result on source repo and bail if needed
     Travis.git_comment(feedback, logger)
     if feedback != "Test passed!":
+        for line in feedback.splitlines():
+            logger.error(line)
         sys.exit(1)
     prefix = "local/"
     commit_message = ""
@@ -409,6 +410,8 @@ def main():
     commit = Travis.git_push('master')
     Travis.git_comment(feedback, logger, commit, 'nipsufn/dnd-ki')
     if feedback != "Test passed!":
+        for line in feedback.splitlines():
+            logger.error(line)
         sys.exit(1)
     else:
         sys.exit(0)
