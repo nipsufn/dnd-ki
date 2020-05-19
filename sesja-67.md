@@ -18,7 +18,7 @@
     - Tymczasem [Kajetan](#g_kajetan) siedzi na ławce w porcie i machając nogami czeka aż [druidka](#g_ilana) wreszcie się zjawi. Zaczepia go kobieta pracująca, jedna z licznych tutaj o tej porze, licząc na nieco przyjemniejszego klienta. Zostaje kurtuazyjnie spławiona i poczęstowana papierosem, więc przysiada się i zagaja rozmowę.
     - [Kajetan](#g_kajetan), ćmiąc papierosa obserwuje kątem oka bramę. Wygląda na to, że do miasta można wejść pomimo zamkniętej bramy, ale nie za darmo.
     - Po za małą wpadką z rybakami [Ilanie](#g_ilana) udaje się dołączyć do czekającego na nią na brzegu [elfa](#g_kajetan). Zgodnie z sugestią [Kajetana](#g_kajetan) dajemy w łapę strażnikom pilnującym zamkniętej na noc bramy i zostajemy wpuszczeni do miasta.
-    - W bramie mijamy się z grupką [Łowców](#r_lowca), dumnie kroczących bohaterów tego pięknego miasta. Ci mierzą się groźnymi spojrzeniami z czającymi się w cieniu miejscowymi oprychami, zdaje się "agentami ubezpieczeniowymi" [Baraniny](#p_baranina).
+    - W bramie mijamy się z grupką Łowców, dumnie kroczących bohaterów tego pięknego miasta. Ci mierzą się groźnymi spojrzeniami z czającymi się w cieniu miejscowymi oprychami, zdaje się "agentami ubezpieczeniowymi" [Baraniny](#p_baranina).
 3. Pakując się w paszczę ~~lwa~~ barana
     - Na całe szczęście udaje nam się zdążyć na spotkanie z Ojcem Chrzestnym [Wyzimy](#l_wyzima). Podczas całego spotkania [Kajetan](#g_kajetan) - co niepodobne do niego - nie odzywa się ani słowem. Głównym "interesantem" jest [Ilana](#g_ilana).
     - [Mafiozo](#p_baranina) wspomina o innym wilkołaku, szefie tutejszej straży, którego problem rozwiązał podobno jakiś wiedźmin.
@@ -50,7 +50,7 @@
         - informacje o [Florianie](#p_florian_z_vicovaro) mamy zachować dla siebie, nie opowiadać [Kapitule](#r_kapitula)
 4. Znów na łowy
     - Nazajutrz rano [Kajetan](#g_kajetan) dzieli się z [Ilaną](#g_ilana) tym, czego dowiedział się od [czarodziejki](#p_keira_metz). Po śniadaniu ruszamy z powrotem na bagna.
-    - Dochodząc do tej samej bramy, którą weszliśmy wczorajszej nocy zauważamy liczne ślady krwi na ziemi i straż przepytującą przechodniów. Wygląda na to, że zuchy od [Łowców](#r_lowca) i koziołki baraniny rzucili się sobie finalnie do gardeł.
+    - Dochodząc do tej samej bramy, którą weszliśmy wczorajszej nocy zauważamy liczne ślady krwi na ziemi i straż przepytującą przechodniów. Wygląda na to, że zuchy od Łowców i koziołki baraniny rzucili się sobie finalnie do gardeł.
     - W porcie stawki poszły w górę w związku z wężem, czy inną chimerą co to bogu ducha winnym rybakom wiosła z rąk wyrywa. Przerywamy im drugie śniadanie i pakujemy się na jedną z łódek. W drodze nie szczędzimy kąśliwych uwag lekko poirytowani kolejną podwyżką cen przewozu.
     - Na brzegu zastajemy ślady po ognisku i solidnym mordobiciu. Wygląda to jakby w siekących się między sobą biesiadników wpadła grupka oszalałych [kikimor](#b_kikimora).
     - Nie drążymy, zamiast tego ruszamy od razu w stronę wypatrzonej wczoraj chaty. Okazuje się, że sowę [Kajetana](#g_kajetan) coś zaatakowało kiedy siedziała na dachu zrujnowanej sadyby. Ptak twierdzi, że coś ugodziło go między skrzydła i przebiło na wylot.

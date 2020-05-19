@@ -3,7 +3,7 @@
 - Lilie złote w polu niebieskim - [Temeria](#l_temeria)
 - Lilia złota w polu w pasy biało-niebieskie - Specjalne Siły [Temerskie](#l_temeria)
 - Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - [Łowcy](#r_lowca) Czarownic/Potworów / Zakon Wiecznego Ognia
-- trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas [Łowców](#r_lowca)
+- trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas Łowców
     - [Sesja 0](#sesja-00)
     - 
     - [Sesja 60](#sesja-60)

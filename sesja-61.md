@@ -1,7 +1,7 @@
 ### Sesja 61
 1. Śniadanie i szantażowanie
     - Idziemy do [karczmy](#l_nowy_zrab) na śniadanie. [Ilana](#g_ilana) znów zauważa przyglądającego się nam krasnoluda [Regana](#p_regan), z trzema kuflami piwa. Jego towarzysza [Andy'ego]([Andy](#p_andy)) nie ma w okolicy.
-    - [Kajetan](#g_kajetan) podchodzi i rozpoczyna rozmowę z Scoia'tael. Ten stwierdza, że niziołek widział naszą wczorajszą rozmowę z Radą [Kapituły](#r_kapitula), i grozi zdradzeniem nas [Łowcom](#r_lowca) jeśli nie pomożemy mu odszukać złota [Madame Karoll](#p_karoll). Zdaje się skutecznie grozimy sami - mieli nam dać spokój, jesteśmy tutaj wiedząc co ryzykujemy, i sugerujemy, że pracujemy dla samych [Łowców](#r_lowca). Krasnolud odchodzi z niczym, bardzo przestraszony.
+    - [Kajetan](#g_kajetan) podchodzi i rozpoczyna rozmowę z Scoia'tael. Ten stwierdza, że niziołek widział naszą wczorajszą rozmowę z Radą [Kapituły](#r_kapitula), i grozi zdradzeniem nas Łowcom jeśli nie pomożemy mu odszukać złota [Madame Karoll](#p_karoll). Zdaje się skutecznie grozimy sami - mieli nam dać spokój, jesteśmy tutaj wiedząc co ryzykujemy, i sugerujemy, że pracujemy dla samych Łowców. Krasnolud odchodzi z niczym, bardzo przestraszony.
     - Zapytana karczmarka informuje nas, że w mieście nie osiadł jeszcze żaden jubiler - buduje się bank, a niektórzy handlarze zamiast waluty używają klejnotów.
     - Mrucząc nad piwem w języku elfów, [Kajetan](#g_kajetan) rozmawia z [Keirą](#p_keira_metz):
         - na wniosek [Idy](#p_ida) Rada żąda aby naprawić ostrosłupy triangulacyjne jeśli zamierzamy podjąć się oczyszczenia resztek piwnic

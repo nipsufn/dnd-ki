@@ -110,4 +110,4 @@
 | 9      | Permanentnie pod wpływem [Antimagic Field](https://5etools.com/spells.html#antimagic%20field_phb) zasięg 5ft                                       |
 | 10     | Śmierć                                                                                                                                             | 
 
-- <a id='g_kasimir' pattern='Kasimir*'>Kasimir</a> - człowiek, łotrzyk, [Łowca](#r_lowca) Czarownic/Potworów, łysy z brodą, dobrze zbudowany
+- <a id='g_kasimir' pattern='Kasimir*'>Kasimir</a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany

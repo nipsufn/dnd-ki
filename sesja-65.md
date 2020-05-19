@@ -45,7 +45,7 @@
 6. W dobrej wierze, do klasztoru
     - O zmroku wracamy na wzgórze. Rzeczywiście, warta zmienia się - schodzą głowy, przychodzą płonące miecze, czemu towarzyszy "wymiana uprzejmości". Gdyby mogli, zakonnicy skoczyliby sobie do gardeł.
     - Tym razem zostajemy zapytani o broszę, a nie przegonieni. Jeden ze strażników odprowadza nas na pokoje.
-    - Zostaliśmy wpuszczeni do pokoju dziennego, połączenia salonu, jadalni i pracowni, raczej bogato urządzonego. Na półkach stoją księgi, których raczej nie spodziewalibyśmy się w fortecy należącej do [Łowców](#r_lowca). Między almanachami i księgami o historii religi znajdują się pozycje takie jak "Bramy Tajemnicy" pióra Ransanta Alvaro czy "O koniunkcji Sfer".
+    - Zostaliśmy wpuszczeni do pokoju dziennego, połączenia salonu, jadalni i pracowni, raczej bogato urządzonego. Na półkach stoją księgi, których raczej nie spodziewalibyśmy się w fortecy należącej do Łowców. Między almanachami i księgami o historii religi znajdują się pozycje takie jak "Bramy Tajemnicy" pióra Ransanta Alvaro czy "O koniunkcji Sfer".
     - Po kilku chwilach z przyległego pomieszczenia wchodzi książę [Myrton](#p_lord_myrton) w towarzystwie [Igny](#p_igna). Zaprasza nas do stołu.
     - Rozmawiamy przy posiłku. [Myrton](#p_lord_myrton) dzieli się z nami informacjami, które rzucają nowe światło na nasze dotychczasowe perypetie.
 5. Wywiad z księciem
@@ -57,8 +57,8 @@
     - Padają podejrzenia jakoby sprawcą miał być zmieniający osobowości niczym rękawiczki[mag z Verden](#p_lars), ale mając okazję z nim pracować wydaje nam się, że zamiana w zwierzę lekko wykracza po za jego kompetencje. Wręcz sama nasuwa się jednak myśl, iż ten mógł z kimś współpracować.
     - [Myrton](#p_lord_myrton) oznajmia, że [Łowcy](#r_lowca) Czarownic to przeżytek, ich dni są policzone.
     - Zdaniem Mytrona celem [Kapituły](#r_kapitula) jest niekoniecznie utrzymanie kamraterii wśród magów, czy ograniczenie ich destruktywności, a kontrola nad młodymi ludźmi, którzy przejawiają predyspozycje ku kontrolowaniu Mocy, czym obecnie sam się zajmuje (wspomina o [Darii](#p_daria), dziewczynce, którą odstawiliśmy do [Świątyni Melitele](#l_smelitele)).
-    - Dowiadujemy się, że Zakon [Łowców](#r_lowca) "skądś" się dowiedział o [Kajetanie](#g_kajetan) i jego towarzyszach z naukowej wyprawy. Po fiasku jakim okazała się próba pojmania [maga](#g_kajetan), udało się im złapać [Isilme](#p_isilme), który został "zaproszony" do laboratoriów [Menge](#p_menge).
-    - Z eksperymentów na niefortunnym [zwiadowcy](#p_isilme), [Łowcom](#r_lowca) udało się wzbogacić swoją broń o [dwimeryt](#r_dwimeryt).
+    - Dowiadujemy się, że Zakon Łowców "skądś" się dowiedział o [Kajetanie](#g_kajetan) i jego towarzyszach z naukowej wyprawy. Po fiasku jakim okazała się próba pojmania [maga](#g_kajetan), udało się im złapać [Isilme](#p_isilme), który został "zaproszony" do laboratoriów [Menge](#p_menge).
+    - Z eksperymentów na niefortunnym [zwiadowcy](#p_isilme), Łowcom udało się wzbogacić swoją broń o [dwimeryt](#r_dwimeryt).
     - [Władyka z Ellander](#p_lord_myrton) nie wspomina jednak, dlaczego [Ilana](#g_ilana) skończyła w tym samym wozie, zbywając pytanie o donosach o kobiecie zmieniającej się w zwierzę.
     - Szabla [Kajetana](#g_kajetan) "czeka na nabywcę" w [domu aukcyjnym](#l_dom_borsodych), stary kij [druidki](#g_ilana) - pewnie dalej leży pod drzewem, przy którym się zatrzymała tamtej nocy.
     - Jeśli się spiszemy, [Myrtonowi](#p_lord_myrton) może się "wymsknąć" gdzie więziony jest [Isilme](#p_isilme). [Elf](#g_kajetan) nic nie mówi, jednak, pomimo że żałuje w jakiej pozycji znalazł się jego dawny towarzysz, próba jego uwolnienia zdaje się skokiem w paszczę lwa, na który raczej się nie zdecyduje.

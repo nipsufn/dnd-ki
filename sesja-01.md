@@ -1,7 +1,7 @@
 ### Sesja 1
 1. Do Pontaru i z powrotem
     - Wyruszamy na północ od obozowiska, z dala od niepokojących krzyków dobiegających z lasu.
-    - [Ilana](#g_ilana) wypytuje wiewiórki o zbiegłego [Łowcę](#r_lowca). Gryzonie wspominają tylko, że widziały jak niedawno ktoś w popłochu uciekał na drzewo.
+    - [Ilana](#g_ilana) wypytuje wiewiórki o zbiegłego Łowcę. Gryzonie wspominają tylko, że widziały jak niedawno ktoś w popłochu uciekał na drzewo.
     - Docieramy do skarpy przy rzece. [Kajetan](#g_kajetan) zsuwa się wprost na jeszcze ciepłe zwłoki Łowcy-zbiega. Zabiera jego pancerz i przetrzepuje kieszenie.
     - Obserwujemy atak na wóz ([Łowców czarownic](#r_lowca)?) zorganizowany przez bandytów (Specjalne Służby [Temerskie](#l_temeria)?) wypadających z zasadzki.
     - Przyczajamy się w chaszczach, póki bandyci nie odjadą.

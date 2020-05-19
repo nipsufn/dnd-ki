@@ -41,17 +41,17 @@
     - [Baronessa Matylda la Valette](#p_lavalette), nie najmłodsza, mocno wypudrowana dama, wydaje się być średnio zainteresowana problemem znikających dzieci. Finalnie wypłaca nam mieszek chcąc udowodnić, że nie jest bez serca. Robi to jednak dopiero po tym, jak wspominamy, że jeśli ona nam nie zapłaci to pójdziemy pytać o nagrodę u grododzierżcy [Burdoff](#l_burdoff) - co zamierzamy i tak zrobić.
     - [Kajetan](#g_kajetan), nie do końca zawierzając baronessie, posługuje się chowańcem aby sprawdzić, czy ta przypadkiem nie wysłała gońca do [Burdoff](#l_burdoff). Słuszne miał przerzucie, bo tuż po naszym odejściu posiadłość opuszcza konny.
     - Nie marnujemy czasu i odebrawszy nagrodę w postaci 90GP ruszamy dalej. Przed zachodem zatrzymujemy się na noc w przydrożnym obozowisku.
-    - Mija nas kilka nieoznakowanych wozów [Łowców](#r_lowca), wszystkie dość mocno obładowane (ludźmi? towarem? bronią?), zaprzęgnięte po 4 konie każdy. Jadą od strony [Burdoff](#l_burdoff) na południe.
+    - Mija nas kilka nieoznakowanych wozów Łowców, wszystkie dość mocno obładowane (ludźmi? towarem? bronią?), zaprzęgnięte po 4 konie każdy. Jadą od strony [Burdoff](#l_burdoff) na południe.
 6. Ekspresowa pauza w [Burdoff](#l_burdoff)
     - Nazajutrz późnym popołudniem docieramy do [Burdoff](#l_burdoff). Ubita droga zmienia się w brukowaną ulicę.
-    - Miasto jest samo w sobie nawet urokliwe, choć dość gwarne. Przechadzają się po nim patrole [Łowców](#r_lowca), widać odzianych na czerwono kupców z [Poviss](#l_poviss). Są tu najrozmaitsze kramiki i spory port na jeziorze.
+    - Miasto jest samo w sobie nawet urokliwe, choć dość gwarne. Przechadzają się po nim patrole Łowców, widać odzianych na czerwono kupców z [Poviss](#l_poviss). Są tu najrozmaitsze kramiki i spory port na jeziorze.
     - Na rynku mijamy wołacza, który ogłasza, że Królowa i Książę zostali zaatakowani nie przez zabójców czy trucicieli, ale przez czarownicę, [Filippę Eilhart](#p_filippa_eilhart), która księcia _"wyniosła w szponach z zamku!"_.
     - W porcie stoi kilka statków, w tym jeden ze [Skellige](#l_wyspy_skellige) i kilka nie zacumowanych barek, pod banderą ze znajomym symbolem: trzy głowy przebite mieczem.
     - Zachodzimy do miasta spytać o miejsce rezydowania [grododzierżcy](#p_landosz). Wskazuje się nam budynek stylizowany na ratusz z wieżyczką i dzwonnicą.
     - [Grododzierżca Landosz](#p_landosz) nie może nas przyjąć z miejsca, ale zleci zajęcia się sprawą komu trzeba. Zostajemy poproszeni o zaczekanie w tawernie "Pod Jesiotrem" aż sprowadzą medyka w celu potwierdzenia naszej wersji wydarzeń.
 7. Teatrzyk marionetkowy
-    - [Ilana](#g_ilana) proponuje zatrzymanie się na nocleg, jako że zostało nam jeszcze sporo czasu do umówionego spotkania w [Wyzimie](#l_wyzima). [Kajetan](#g_kajetan) nie jest jednak przekonany do tego pomysłu zważywszy na ilość [Łowców](#r_lowca) stacjonujących w mieście.
-    - Czekając w tawernie jesteśmy świadkami rozmowy grupki [Łowców](#r_lowca). Pokazują sobie nową broń wymyśloną przez niejakiego [Isilme](#p_isilme).
+    - [Ilana](#g_ilana) proponuje zatrzymanie się na nocleg, jako że zostało nam jeszcze sporo czasu do umówionego spotkania w [Wyzimie](#l_wyzima). [Kajetan](#g_kajetan) nie jest jednak przekonany do tego pomysłu zważywszy na ilość Łowców stacjonujących w mieście.
+    - Czekając w tawernie jesteśmy świadkami rozmowy grupki Łowców. Pokazują sobie nową broń wymyśloną przez niejakiego [Isilme](#p_isilme).
     - Jest to petarda podobna do tej, której [Braunn](#p_braunn) użył w [Mariborze](#l_maribor). Z tą różnicą, że ta oprócz opiłków srebra zawiera także sproszkowany [dwimeryt](#r_dwimeryt).
     - [Kajetan](#g_kajetan) zdaje się zna wspomnianego [Isilme](#p_isilme), jednak nie zdąża wytłumaczyć nic [Ilanie](#g_ilana), bo do tawerny wchodzą dwaj mężczyźni: starszy, w maleńkich spektaklach na nosie i drugi, znacznie młodszy, niemal ostentacyjnie dostatnio odziany. Za nimi majaczy trzecia sylwetka człowieka w podziurawionej kolczudze, lekko styranego życiem.
     - Medyk potwierdza, że przywieziony jęzor należy do stwora zwanego cmentarną babą, który faktycznie mógł odpowiadać za zaginięcia dzieci.
@@ -59,7 +59,7 @@
     - Słowo się rzekło, zostajemy wynagrodzeni na oczach wszystkich gości tawerny. Na stole ląduje niewielka drewniana szkatułka.
     - [Łowcy](#r_lowca) aż czerwienieją ze złości słysząc peany wygłaszane przez [Landosza](#p_landosz) na naszą cześć. Wyraźnie nie w smak im, że to my okrywamy się chwałą, kiedy to oni powinni uchodzić w tym mieście za jedynych bohaterów.
     - [Grododzierżca](#p_landosz) oraz medyk opuszczają karczmę.
-    - Spiesznie dopijamy piwo, łapiemy nagrodę i wychodzimy, nim ktokolwiek zdąży zaprotestować. Kiedy pakujemy się do wozu, widzimy wychodzących za nami [Łowców](#r_lowca).
+    - Spiesznie dopijamy piwo, łapiemy nagrodę i wychodzimy, nim ktokolwiek zdąży zaprotestować. Kiedy pakujemy się do wozu, widzimy wychodzących za nami Łowców.
     - Jako że nie kazali nam się zatrzymać, ponaglamy naszych przewoźników i czym prędzej ruszamy w dalszą drogę.
 8. Czując oddech na plecach
     - Okazuje się że jakiś mieszczanin z rodziną zdecydowała się na podróż do [Wyzimy](#l_wyzima), a i kupiec [Dusek](#p_dusek) zdecydował się na dalszą podróż twierdząc, że tu panuje za duża konkurencja.
@@ -69,4 +69,4 @@
     - Jako że do [Wyzimy](#l_wyzima) z tej okolicy jest najdalej dwa dni pieszej wędrówki, a zostało nam jeszcze z pół dnia jazdy, opuszczamy wóz na postoju przy jednej z przydrożnych karczm licząc, że [Łowcy](#r_lowca), nie znajdując nas w wozie, nie będą zbytnio męczyć pozostałych. 
     - Na odchodne radzimy [kupcowi](#p_dusek) żeby nie reklamował się zbytnio z co ciekawszymi przedmiotami ze swojej kolekcji. W zamian zostają nam polecone dwa godne uwagi zajazdy w [Wyzimie](#l_wyzima)  - "Pod Lisem" oraz "Miś Kudłacz".
     - Odbijamy w pola i wsie, idąc mniej-więcej równolegle do traktu. Po zmroku ostrożnie urządzamy nocleg w jakiejś stodole przy jednym z licznych gospodarstw jakie mijamy. [Kajetan](#g_kajetan) tworzy magiczne schronienie na strychu, które [Ilana](#g_ilana) zakopuje w sianie.
-    - Oczami sowy [mag](#g_kajetan) widzi dwóch z czwórki [Łowców](#r_lowca), wychodzących z odsłoniętymi mieczami z karczmy, przy której zleźliśmy z wozu.
+    - Oczami sowy [mag](#g_kajetan) widzi dwóch z czwórki Łowców, wychodzących z odsłoniętymi mieczami z karczmy, przy której zleźliśmy z wozu.
