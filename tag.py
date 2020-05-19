@@ -406,9 +406,11 @@ def main():
     feedback = test_files(files, prefix)
     if 'CI' in os.environ:
         Travis.git_dir = os.environ['PWD'] + '/' + prefix
-    Travis.git_commit_all(commit_message)
-    commit = Travis.git_push('master')
-    Travis.git_comment(feedback, logger, commit, 'nipsufn/dnd-ki')
+        logger.warn(Travis.git_dir)
+        # Travis.git_setup()
+        Travis.git_commit_all(commit_message)
+        commit = Travis.git_push('master')
+        Travis.git_comment(feedback, logger, commit, 'nipsufn/dnd-ki')
     if feedback != "Test passed!":
         for line in feedback.splitlines():
             logger.error(line)
