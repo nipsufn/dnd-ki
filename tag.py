@@ -292,6 +292,8 @@ def test_files(files, prefix=""):
                 balance[4] += line_text.count(')')
                 balance[5] += line_text.count('[')
                 balance[6] += line_text.count(']')
+                if re.search(r"\(\?<!", line_text):
+                    balance[1] -= 1
                 if re.match(r"[<>=]{7}", line_text):
                     merge_conflict = True
                 if re.match(r"^(\t| )*>", line_text):
