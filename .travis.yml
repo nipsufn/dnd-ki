@@ -6,4 +6,4 @@ jobs:
   include:
     - stage: tag
       script: ./tag.py
-      if: branch = integration
+      if: branch = master
