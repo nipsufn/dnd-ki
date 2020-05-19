@@ -48,7 +48,6 @@ class TagParser(HTMLParser):
     def error(self, message):
         return
 
-
 class TagCreator(HTMLParser):
     def __init__(self, tags):
         self.current_html_tag = []
@@ -158,56 +157,88 @@ def prepare_files(args, whitelist, logger):
     logger.trace("List of files: %s", str(files))
     return files
 
-def git_pull(git_integration_branch):
-    if 'CI' in os.environ and \
-            os.environ['TRAVIS_BRANCH'] == git_integration_branch:
+class Travis:
+    git_dir = './'
+    @staticmethod
+    def git_checkout(branch, repo_slug=None):
+        if 'CI' not in os.environ:
+            return
+        if not repo_slug:
+            repo_slug = os.environ['TRAVIS_REPO_SLUG']
+        Console.run('cd ' + Travis.git_dir)
         Console.run('git remote rm origin')
         Console.run('git remote add origin '
                     + 'https://${github_user}:${github_token}@github.com/'
-                    + '${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1')
+                    + repo_slug + '.git > /dev/null 2>&1')
         Console.run('git config --global user.email "travis@travis-ci.org"')
         Console.run('git config --global user.name "Travis CI"')
         Console.run('git fetch')
-        Console.run('git checkout ' + git_integration_branch)
+        Console.run('git checkout ' + branch)
 
-def git_push(git_integration_branch, git_md_branch, git_web_branch):
-    if 'CI' in os.environ and \
-            os.environ['TRAVIS_BRANCH'] == git_integration_branch:
-        Console.run('git commit -am "Tags processed: '
-                    + os.environ['TRAVIS_COMMIT_MESSAGE'].replace('"','\\"') + '"')
-        Console.run('git push -f origin ' + git_integration_branch + ':'
-                    + git_md_branch + ' --quiet')
+    @staticmethod
+    def git_commit_all(message, sanitize=True):
+        """git commit from current branch in git_dir to target_branch
+        Args:
+            message (str): branch name to push to
+            sanitize (bool, optional): whether to bash-sanitize message,
+                defaults to True
+        Returns:
+            str: commit hash
+        """
+        if 'CI' not in os.environ:
+            return
+        Console.run('cd ' + Travis.git_dir)
+        if sanitize:
+            Console.run('git commit -am "' + message.replace('"','\\"') + '"')
+        else:
+            Console.run('git commit -am "' + message + '"')
+
         return Console.run('git rev-parse HEAD')
-    return str()
+    @staticmethod
+    def git_push(target_branch):
+        """force git push from current branch in git_dir to target_branch
+        Args:
+            target_branch (str): branch name to push to
+        Returns:
+            str: commit hash
+        """
+        if 'CI' not in os.environ:
+            return
+        Console.run('cd ' + Travis.git_dir)
+        Console.run('git push -f origin $(git branch --show-current):'
+                    + target_branch + ' --quiet')
+        return Console.run('git rev-parse HEAD')
 
-def git_comment(feedback, logger, commit=None):
-    if 'CI' in os.environ:
+    @staticmethod
+    def git_comment(feedback, logger, commit=None):
+        if 'CI' not in os.environ:
+            return
         if not commit:
             commit = os.environ['TRAVIS_COMMIT']
         r = None
         if feedback != "":
             r = requests.post('https://api.github.com/repos/'
-                              + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
-                              + commit.rstrip() + '/comments',
-                              json={"body": feedback},
-                              auth=requests.auth.HTTPBasicAuth(
-                                  os.environ['github_user'],
-                                  os.environ['github_token']))
+                            + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
+                            + commit.rstrip() + '/comments',
+                            json={"body": feedback},
+                            auth=requests.auth.HTTPBasicAuth(
+                                os.environ['github_user'],
+                                os.environ['github_token']))
             
         else:
             r = requests.post('https://api.github.com/repos/'
-                              + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
-                              + commit.rstrip() +'/comments',
-                              json={"body": "Test passed!"},
-                              auth=requests.auth.HTTPBasicAuth(
-                                  os.environ['github_user'],
-                                  os.environ['github_token']))
+                            + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
+                            + commit.rstrip() +'/comments',
+                            json={"body": "Test passed!"},
+                            auth=requests.auth.HTTPBasicAuth(
+                                os.environ['github_user'],
+                                os.environ['github_token']))
 
-    if feedback:
-        for line in feedback.splitlines():
-            logger.error(line)
-    else:
-        logger.info("Test passed!")
+        if feedback:
+            for line in feedback.splitlines():
+                logger.error(line)
+        else:
+            logger.info("Test passed!")
 
 def process_tags(files, logger, local_prefix="local/"):
     TickTock.tick()
@@ -354,16 +385,21 @@ def main():
     # code
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
-    git_pull(git_integration_branch)
+    Travis.git_checkout(git_integration_branch)
     logger.info("Initialization time: {:.5f}sec".format(TickTock.tock()))
     feedback = test_files(files)
-    git_comment(feedback, logger)
+    Travis.git_comment(feedback, logger)
     if not feedback:
-        prefix = "" if 'CI' in os.environ else "local/"
+        prefix = "local/"
+        message = ""
+        if 'CI' in os.environ:
+            prefix = ""
+            message = os.environ['TRAVIS_COMMIT_MESSAGE']
         process_tags(files, logger, prefix)
         feedback = test_files(files, prefix)
-        commit = git_push(git_integration_branch, git_md_branch, git_web_branch)
-        git_comment(feedback, logger, commit)
+        Travis.git_commit_all('Tags processed: ' + message)
+        commit = Travis.git_push(git_md_branch)
+        Travis.git_comment(feedback, logger, commit)
         if feedback:
             sys.exit(1)
         else:

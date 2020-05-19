@@ -45,7 +45,7 @@
     - stworzył wiedźminów szkoły gryfa
 - <a id='p_margarita' pattern='Margari*,Margari* Laux-Antille'>Margarita Laux-Antille</a> - człowiek, mag, członek Nowej Kapituły
     - była rektorka Aretuzy
-- <a id='p_mozaik' pattern='Mozai'>Mozaik</a> - czarodziejka
+- <a id='p_mozaik' pattern='Mozaik'>Mozaik</a> - czarodziejka
     - asystentka: Radcliffe
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
