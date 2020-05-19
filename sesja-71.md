@@ -8,7 +8,7 @@
         - [Filippa](#p_filippa_eilhart) jest trzecią osobą która nadmiernie mieszała w polityce po [Vilgefortzu](#p_vilgefortz) i [Raffardzie Białym](#p_raffard)
         - [Istredd](#p_istredd) interesuje się archiwami i manuskryptami
         - chce, żebyśmy zaciągnęli języka o Księciu Folteście i artefaktach oraz metodach dywinacyjnych - porywacze na pewno będą się chcieli pozbyć bachora w zamian za coś, a tułając się możemy przypadkiem dowiedzieć się o czymś co pomoże zlokalizować [Filippę](#p_filippa_eilhart)
-        - _tutaj dodać co [Ilana](#g_ilana) chciała nt. [Skovika](#p_skovik) i [Risbergu_](#l_gora_cremora)
+        - _tutaj proszę dodać co [Ilana](#g_ilana) chciała nt. [Skovika](#p_skovik) i [Risbergu_](#l_gora_cremora)
         - poproszona, zostawia nam magiczną zabawkę, która uniemożliwia magiczne podglądanie
     - [Finarrin](#p_druid_finarrin) serdecznie odradza wizytę w [Craag An](#l_craag_an) - ale jeśli i tak zamierzamy, lepiej wcześiej niż później, bo nekropolia, "wyrwana z zimowego snu, teraz zaledwie drzemie",
     - aurę przerwanego letargu poczuła nie tylko [Eithne](#p_eithne) z [Ivarem](#p_ivar) w [lesie](#l_brokilon), ale nawet [druid](#p_druid_finarrin), a przebywał wtedy daleko, w [Nastrogu](#l_nastrog)
