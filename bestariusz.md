@@ -8,7 +8,7 @@
     - <a id='b_bluszcz' pattern='Pnącz* Bluszczopodobn*,[Ee]chinops*'>Echinops</a>
         - jako pnącze stosunkowo słabe, strzela kolcami
         - jako bulwa próbuje opleść trującymi pnączami
-        - dziecięca forma Archeospora
+        - dziecięca forma [Archeospora](#b_archeospor)
     - <a id='b_orchidea' pattern='Pnącz* Orchideopodobn*'>Pnącze Orchideopodobne</a>
         - Jest w stanie zasiać zarodniki w żywym organizmie i kontrolować go jak długo jest z nim połączony cienkimi kłączami
         - Kwiaty wybuchają pyłem który zadaje znaczne obrażenia
@@ -29,7 +29,7 @@
         - "Bizoktor", "Leszek", "Leszy"; jedna z personifikacji Protektora
         - pół jeleń pół bizon, giczały ma szponiaste i poniekąd chwytne
         - rozumie starszą mowę, w jego trzech oczach czasem przebłyskuje niemal "ludzka" inteligencja
-        - jest olbrzymi, wysokości przeciętnego drzewa w Brokilonie
+        - jest olbrzymi, wysokości przeciętnego drzewa w [Brokilonie](#l_brokilon)
     - <a id='b_djinni' pattern='[Dd]jinni'>Djinni</a>
         - personifikacja siły natury, np ognia
         - może zostać zmuszony do spełnienia życzenia
@@ -47,7 +47,7 @@
         - często występuje na pobojowiskach
         - zazwyczaj nie wychodzi za dnia po za swoje leże
     - <a id='b_gryf' pattern='[Gg]ryf*'>Gryf</a>
-        - lata i jest gryfnym
+        - lata i jest [gryfnym](#b_gryf)
     - <a id='b_hienolak' pattern='[Hh]ienołak*'>Hienołak</a>
         - bizon z głową hieny
         - wabi ofiary wołając ludzkim głosem "Pomocy!"
@@ -55,18 +55,18 @@
         - insektoidy zachowaniem przypominające mrówki
         - żyją na powierzchni
         - nie atakują o ile nie sprowokowane/w stanie wojny
-        - "wojna" zwykle wewnętrzna gdy kilka królowych lub gdy natkną się na Krabopająki
+        - "wojna" zwykle wewnętrzna gdy kilka królowych lub gdy natkną się na [Krabopająki](#b_krabopajak)
     - <a id='b_krabopajak' pattern='[Kk]rabopająk*'>Krabopająk</a>
         - insektoidy żyjące w kolinii
         - większe, klasa rozmiarowa od niedźwiedzia do słonia
         - żyją pod ziemią
         - agresywne, terytorialne
         - mogą się stać (prawie?) niewidzialne
-        - czasem walczą z Kikimorami
+        - czasem walczą z [Kikimorami](#b_kikimora)
     - <a id='b_krzaczak' pattern='[Kk]rzaczak*'>Krzaczak</a>
         - przypominający człowieka zwój korzeni, krzaków i pnączy
-        - przyzwany w grupach przez Formorianem
-        - [Kto to taki? To krzaczaki!](https://www.youtube.com/watch?v=PHnEKSFy3cU)
+        - przyzwany w grupach przez [Formorianem](#p_formorian)
+        - [Kto to taki? To [krzaczaki](#b_krzaczak)!](https://www.youtube.com/watch?v=PHnEKSFy3cU)
     - <a id='b_kuroliszek' pattern='[Kk]urolisz*'>Kuroliszek</a>
         - pół kura pół jaszczura
         - kąsa jadem który paraliżuje i szarzy cerę (z tąd legendy o zamienianiu w kamień?)
@@ -112,7 +112,7 @@
         - szybko się regeneruje, dużo większy od człowieka
         - zwykle postrzega się je jako pożyteczne - budują i naprawiają mosty, żądając od podróżnych "myta" - upominku, niekoniecznie złota
     - <a id='b_utopiec' pattern='[Uu]top*'>Utopiec</a>
-        - utopiony
+        - [utopiony](#b_utopiec)
     - <a id='b_zeulg' pattern='[Zz]eulg*'>Zeulg</a>
         - wielki robak podobny do stonogi
         - żyje w wodzie, w kanałach - nie widzieliśmy żeby z niej wyszedł
