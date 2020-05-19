@@ -104,9 +104,11 @@ class Console:
         Console.__logger.setLevel(loglevel)
 
     @staticmethod
-    def run(command, return_stderr=False):
+    def run(command, pwd=None, return_stderr=False):
         if not Console.__logger:
             Console.__init__()
+        if pwd:
+            command = 'cd ' + pwd + ' && ' + command
         Console.__logger.debug("Running command %s", command)
         result = subprocess.run(command, capture_output=True, shell=True,
                                 check=False)
@@ -158,14 +160,15 @@ def prepare_files(args, whitelist, logger):
     return files
 
 class Travis:
-    git_dir = './'
+    git_dir = ''
     @staticmethod
     def git_setup():
         if 'CI' not in os.environ:
             return
-        Console.run('cd ' + Travis.git_dir)
-        Console.run('git config --global user.email "travis@travis-ci.org"')
-        Console.run('git config --global user.name "Travis CI"')
+        Console.run('git config --global user.email "travis@travis-ci.org"',
+                    Travis.git_dir)
+        Console.run('git config --global user.name "Travis CI"',
+                    Travis.git_dir)
 
     @staticmethod
     def git_unbork_travis_root():
@@ -190,8 +193,8 @@ class Travis:
         if not repo_slug:
             repo_slug = os.environ['TRAVIS_REPO_SLUG']
         Console.run('cd ' + Travis.git_dir)
-        Console.run('git fetch')
-        Console.run('git checkout ' + branch)
+        Console.run('git fetch', Travis.git_dir)
+        Console.run('git checkout ' + branch, Travis.git_dir)
 
     @staticmethod
     def git_commit_all(message, sanitize=True):
@@ -205,15 +208,15 @@ class Travis:
         """
         if 'CI' not in os.environ:
             return
-        Console.run('cd ' + Travis.git_dir)
-        Console.run('pwd 1>&2')
-        Console.run('git status 1>&2')
+        Console.run('pwd 1>&2', Travis.git_dir)
+        Console.run('git status 1>&2', Travis.git_dir)
         if sanitize:
-            Console.run('git commit -am "' + message.replace('"','\\"') + '"')
+            Console.run('git commit -am "' + message.replace('"','\\"') + '"',
+                        Travis.git_dir)
         else:
-            Console.run('git commit -am "' + message + '"')
+            Console.run('git commit -am "' + message + '"', Travis.git_dir)
 
-        return Console.run('git rev-parse HEAD')
+        return Console.run('git rev-parse HEAD', Travis.git_dir)
     @staticmethod
     def git_push(target_branch):
         """force git push from current branch in git_dir to target_branch
@@ -224,9 +227,8 @@ class Travis:
         """
         if 'CI' not in os.environ:
             return
-        Console.run('cd ' + Travis.git_dir)
-        Console.run('git push --quiet')
-        return Console.run('git rev-parse HEAD')
+        Console.run('git push --quiet', Travis.git_dir)
+        return Console.run('git rev-parse HEAD', Travis.git_dir)
 
     @staticmethod
     def git_comment(message, logger, commit=None, repo_slug=None):
