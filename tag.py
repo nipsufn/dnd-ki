@@ -160,18 +160,36 @@ def prepare_files(args, whitelist, logger):
 class Travis:
     git_dir = './'
     @staticmethod
-    def git_checkout(branch, repo_slug=None):
+    def git_setup():
+        if 'CI' not in os.environ:
+            return
+        Console.run('cd ' + Travis.git_dir)
+        Console.run('git config --global user.email "travis@travis-ci.org"')
+        Console.run('git config --global user.name "Travis CI"')
+
+    @staticmethod
+    def git_unbork_travis_root():
+        if 'CI' not in os.environ:
+            return
+        repo_slug = os.environ['TRAVIS_REPO_SLUG']
+        Console.run('git remote rm origin')
+        Console.run('git remote add origin '
+                    + 'https://${github_user}:${github_token}@github.com/'
+                    + repo_slug + '.git > /dev/null 2>&1')
+    @staticmethod
+    def git_clone(repo_slug):
+        if 'CI' not in os.environ:
+            return
+        Console.run('git clone '
+                    + 'https://${github_user}:${github_token}@github.com/'
+                    + repo_slug + '.git > /dev/null 2>&1')
+    @staticmethod
+    def git_checkout(branch):
         if 'CI' not in os.environ:
             return
         if not repo_slug:
             repo_slug = os.environ['TRAVIS_REPO_SLUG']
         Console.run('cd ' + Travis.git_dir)
-        Console.run('git remote rm origin')
-        Console.run('git remote add origin '
-                    + 'https://${github_user}:${github_token}@github.com/'
-                    + repo_slug + '.git > /dev/null 2>&1')
-        Console.run('git config --global user.email "travis@travis-ci.org"')
-        Console.run('git config --global user.name "Travis CI"')
         Console.run('git fetch')
         Console.run('git checkout ' + branch)
 
@@ -205,42 +223,29 @@ class Travis:
         if 'CI' not in os.environ:
             return
         Console.run('cd ' + Travis.git_dir)
-        Console.run('git push -f origin $(git branch --show-current):'
-                    + target_branch + ' --quiet')
+        Console.run('git push --quiet')
         return Console.run('git rev-parse HEAD')
 
     @staticmethod
-    def git_comment(feedback, logger, commit=None):
+    def git_comment(message, logger, commit=None, repo_slug=None):
         if 'CI' not in os.environ:
             return
         if not commit:
             commit = os.environ['TRAVIS_COMMIT']
-        r = None
-        if feedback != "":
-            r = requests.post('https://api.github.com/repos/'
-                            + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
+        if not repo_slug:
+            repo_slug = os.environ['TRAVIS_REPO_SLUG']
+        r = requests.post('https://api.github.com/repos/'
+                            + repo_slug + '/commits/'
                             + commit.rstrip() + '/comments',
-                            json={"body": feedback},
-                            auth=requests.auth.HTTPBasicAuth(
-                                os.environ['github_user'],
-                                os.environ['github_token']))
-            
-        else:
-            r = requests.post('https://api.github.com/repos/'
-                            + os.environ['TRAVIS_REPO_SLUG'] + '/commits/'
-                            + commit.rstrip() +'/comments',
-                            json={"body": "Test passed!"},
+                            json={"body": message},
                             auth=requests.auth.HTTPBasicAuth(
                                 os.environ['github_user'],
                                 os.environ['github_token']))
 
-        if feedback:
-            for line in feedback.splitlines():
-                logger.error(line)
-        else:
-            logger.info("Test passed!")
+        for line in message.splitlines():
+            logger.error(line)
 
-def process_tags(files, logger, local_prefix="local/"):
+def process_tags(files, logger, prefix=""):
     TickTock.tick()
     tag_retriever = TagParser()
     # pass 1 - generate tags
@@ -265,19 +270,19 @@ def process_tags(files, logger, local_prefix="local/"):
             write_time += TickTock.tock()
             tagger.close()
             text = tagger.text
-        if 'CI' not in os.environ:
-            file_path = local_prefix + file_path
+
+        file_path = prefix + file_path
         with open(file_path, 'w', encoding='utf-8') as file_stream:
             file_stream.write(text)
     logger.info("tag writing time: {:.5f}sec".format(write_time))
 
-def test_files(files, local_prefix=""):
+def test_files(files, prefix=""):
     tags = []
     refs = []
     feedback = ""
 
     for file_path in files:
-        with open(local_prefix + file_path, 'r', encoding='utf-8') as file_stream:
+        with open(prefix + file_path, 'r', encoding='utf-8') as file_stream:
             balance = [0 for x in range(7)]
             merge_conflict = False
             for line_no, line_text in enumerate(file_stream):
@@ -354,6 +359,8 @@ def test_files(files, local_prefix=""):
                          + "; file: " + ref[3]
                          + "\n")
 
+    if not feedback:
+        return "Test passed!"
     return feedback
 
 def main():
@@ -370,9 +377,6 @@ def main():
     args = parser.parse_args()
 
     # variables
-    git_integration_branch = "integration"
-    git_md_branch = "master"
-    git_web_branch = "feature_web"
     whitelist = [
         ".gitignore",
         "local",
@@ -385,26 +389,30 @@ def main():
     # code
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
-    Travis.git_checkout(git_integration_branch)
     logger.info("Initialization time: {:.5f}sec".format(TickTock.tock()))
     feedback = test_files(files)
+    # comment test result on source repo and bail if needed
     Travis.git_comment(feedback, logger)
-    if not feedback:
-        prefix = "local/"
-        message = ""
-        if 'CI' in os.environ:
-            prefix = ""
-            message = os.environ['TRAVIS_COMMIT_MESSAGE']
-        process_tags(files, logger, prefix)
-        feedback = test_files(files, prefix)
-        Travis.git_commit_all('Tags processed: ' + message)
-        commit = Travis.git_push(git_md_branch)
-        Travis.git_comment(feedback, logger, commit)
-        if feedback:
-            sys.exit(1)
-        else:
-            sys.exit(0)
-    sys.exit(1)
+    if feedback != "Test passed!":
+        sys.exit(1)
+    prefix = "local/"
+    commit_message = ""
+    if 'CI' in os.environ:
+        prefix = "dnd-ki/"
+        commit_message = os.environ['TRAVIS_COMMIT_MESSAGE']
+        Travis.git_clone('nipsufn/dnd-ki')
+    process_tags(files, logger, prefix)
+    feedback = test_files(files, prefix)
+    if 'CI' in os.environ:
+        Travis.git_dir = os.environ['PWD'] + '/' + prefix
+    Travis.git_commit_all(commit_message)
+    commit = Travis.git_push('master')
+    Travis.git_comment(feedback, logger, commit, 'nipsufn/dnd-ki')
+    if feedback != "Test passed!":
+        sys.exit(1)
+    else:
+        sys.exit(0)
+    
 
 if __name__ == "__main__":
     main()
