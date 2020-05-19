@@ -208,10 +208,8 @@ class Travis:
         """
         if 'CI' not in os.environ:
             return
-        Console.run('pwd 1>&2', Travis.git_dir)
-        Console.run('git status 1>&2', Travis.git_dir)
         if sanitize:
-            Console.run('git commit -am "' + message.replace('"','\\"') + '" 1>&2',
+            Console.run('git commit -am "' + message.replace('"','\\"') + '"',
                         Travis.git_dir)
         else:
             Console.run('git commit -am "' + message + '"', Travis.git_dir)
@@ -406,17 +404,19 @@ def main():
         Travis.git_clone('nipsufn/dnd-ki')
     process_tags(files, logger, prefix)
     feedback = test_files(files, prefix)
-    if 'CI' in os.environ:
-        Travis.git_dir = os.environ['PWD'] + '/' + prefix
-        Travis.git_setup()
-        Travis.git_commit_all(commit_message)
-        commit = Travis.git_push('master')
-        Travis.git_comment(feedback, logger, commit, 'nipsufn/dnd-ki')
     if feedback != "Test passed!":
+        if 'CI' in os.environ:
+            Travis.git_comment('Parsing failed: ' + feedback, logger)
         for line in feedback.splitlines():
             logger.error(line)
         sys.exit(1)
     else:
+        if 'CI' in os.environ:
+            Travis.git_dir = os.environ['PWD'] + '/' + prefix
+            Travis.git_setup()
+            Travis.git_commit_all('Parsed: ' + commit_message)
+            commit = Travis.git_push('master')
+            Travis.git_comment(feedback, logger, commit, 'nipsufn/dnd-ki')
         sys.exit(0)
     
 

@@ -8,7 +8,7 @@
         - Filippa jest trzecią osobą która nadmiernie mieszała w polityce po Vilgefortzu i Raffardzie Białym
         - Istredd interesuje się archiwami i manuskryptami
         - chce, żebyśmy zaciągnęli języka o Księciu Folteście i artefaktach oraz metodach dywinacyjnych - porywacze na pewno będą się chcieli pozbyć bachora w zamian za coś, a tułając się możemy przypadkiem dowiedzieć się o czymś co pomoże zlokalizować Filippę
-        - _tutaj proszę dodać co Ilana chciała nt. Skovika i Risbergu_
+        - _tutaj można dodać co Ilana chciała nt. Skovika i Risbergu_
         - poproszona, zostawia nam magiczną zabawkę, która uniemożliwia magiczne podglądanie
     - Finarrin serdecznie odradza wizytę w Craag An - ale jeśli i tak zamierzamy, lepiej wcześiej niż później, bo nekropolia, "wyrwana z zimowego snu, teraz zaledwie drzemie",
     - aurę przerwanego letargu poczuła nie tylko Eithne z Ivarem w {lesie}Brokilon, ale nawet {druid}Finarrin, a przebywał wtedy daleko, w Nastrogu
