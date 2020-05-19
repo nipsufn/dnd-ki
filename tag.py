@@ -413,7 +413,7 @@ def main():
     else:
         if 'CI' in os.environ:
             Travis.git_dir = os.environ['PWD'] + '/' + prefix
-            Travis.git_setup()
+            # Travis.git_setup()
             Travis.git_commit_all('Parsed: ' + commit_message)
             commit = Travis.git_push('master')
             Travis.git_comment(feedback, logger, commit, 'nipsufn/dnd-ki')
