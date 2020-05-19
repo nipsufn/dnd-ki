@@ -28,7 +28,7 @@
         - [Mirna](#p_mirna):
             - [Książe Viraxas](#p_ksiaze_viraxas), władca [Kerack](#l_kerack) zatrudnił piratów ze [Skellige](#l_wyspy_skellige) (noszą biel i brąz) by plądrowali statki
             - dziewczyna pyta, czy nasi znajomi wyspiarze nie mogli by jakoś pomóc, bo statkami sprowadzała materiały i wysyłała zamówienia
-            - statki, z których zwykła korzystać to "Złote Piaski" z [Gors Velen](#l_gors_velen) i "Lodołamacz" z [Port Vanis](#l_port_vanis)
+            - statki, z których zwykła korzystać to "Złote Piaski" z Gors [Velen](#r_velen) i "Lodołamacz" z [Port Vanis](#l_port_vanis)
             - piraci zamieszkali w "Zewie Syrenki" na wyłączność, wyrzucając stałych bywalców, a była to jej ulubiona speluna
             - druidka niechętnie przyznaje, że lichwiarz imieniem [Bron](#p_bron) namówił ją by wzięła 1000GP (na pół roku i 50%) kredytu na otwarcie własnego zakładu; wcześniej pomagała u kogoś
             - w dobrych warunkach jest w stanie odłożyć 60GP miesięcznie

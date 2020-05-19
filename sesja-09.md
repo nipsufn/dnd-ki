@@ -19,8 +19,8 @@
     - [Menge](#p_menge) odesłał [Lorda Myrtona](#p_lord_myrton), swoją prawą rękę, z bliżej niewyjaśnianych powodów (ambicja?) do [Ellander](#l_ellander) jakiś czas temu.
     - Typowe trasy do portów z których można dopłynąć na [Skellige](#l_wyspy_skellige) (**[Gdzie jest [Myszowór](#p_myszowor)?](#z_q10)**):
         [Carreras](#l_carreras) → [Maribor](#l_maribor) → [Brugge](#l_m_brugge) → [Verden](#l_verden)
-        [Carreras](#l_carreras) → [Wyzima](#l_wyzima) → [Gors Velen](#l_gors_velen)
-        [Gors Velen](#l_gors_velen) (bezpośrednio)
+        [Carreras](#l_carreras) → [Wyzima](#l_wyzima) → Gors [Velen](#r_velen)
+        Gors [Velen](#r_velen) (bezpośrednio)
     - Lepiej przeprawiać się statkiem zimą, bo morze jest spokojniejsze.
 3. [Krawcowa](#p_eliza)
     - Przybyła do miasta dzień temu z transportem ludzi wyleczonych w świątyni.
