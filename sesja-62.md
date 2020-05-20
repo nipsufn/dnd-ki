@@ -8,7 +8,7 @@
     - Nim druga fala insektów wyleje się spod ziemi, towarzystwo w składzie [Ilana](#g_ilana), [Braunn](#p_braunn) i [Oleg](#p_oleg) przygotowuje miasto na ich skuteczne odparcie. Udaje się nawet unicestwić królową-matkę robali.
     - [Kapitan](#p_braunn) ledwie zabija królową chrabąszczy, obraca się w stronę [druidki](#g_ilana), zanim jednak zdąży wyartykułować jakiekolwiek oskarżenia, na rynek wjeżdżają konni pod przywództwem [Igny](#p_igna).
 2. Propozycja nie do odrzucenia
-    - Podczas gdy konkurujący ze sobą przywódcy Łowców ciskają w siebie gromami, [Ilana](#g_ilana) stara się odebrać nagrodę od [burmistrza](#p_oleg) i zniknąć zanim autorytatywne postaci sobie o niej przypomną. Udaje się to jednak tylko częściowo.
+    - Podczas gdy konkurujący ze sobą przywódcy [Łowców](#r_lowca) ciskają w siebie gromami, [Ilana](#g_ilana) stara się odebrać nagrodę od [burmistrza](#p_oleg) i zniknąć zanim autorytatywne postaci sobie o niej przypomną. Udaje się to jednak tylko częściowo.
     - Między dwójką zakonnych przywódców widać jawny konflikt. Ich symbole różnią się, choć niby oboje przynależą do tej samej organizacji. Tak też [Igna](#p_igna) spod znaku płonącego miecza grozi [Braunnowi](#p_braunn) [Myrtonem](#p_lord_myrton), a [Novigradzki](#l_novigrad) Łowca spod znaku trzech głów przebitych mieczem odbija piłeczkę grożąc kobiecie niejakim Zygfrydem.
     - Zdenerwowana [Igna](#p_igna) publicznie deklaruje, iż [druidka](#g_ilana) i [elf](#g_kajetan) są protegowanymi Księcia [Myrtona](#p_lord_myrton). Niewielka to dla nas pociecha - gdy tylko [Braunn](#p_braunn) odchodzi z rynku z niczym, dowiadujemy się, że _mamy być_ w [Wyzimie](#l_wyzima) za siedem dni.
 3. Remontu ciąg dalszy

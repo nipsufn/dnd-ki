@@ -2,7 +2,7 @@
 1. Na odchodne
     - [Igna](#p_igna) opowiada bardziej szczegółowo na niektóre z pytań, które wcześniej zadaliśmy jej przełożonemu.
     - [Myrton](#p_lord_myrton) próbuje wskrzesić [Zakon Płonącej Róży](#r_zakon), w którym zaczął karierę.
-    - Łowców nie obchodzi pomoc, liczy się tylko chwała i pieniądze - za nic mają dawne ideały, którym hołdował poprzedni zakon, tj. bezinteresowną, charytatywną pomoc w zwalczaniu potworów.
+    - [Łowców](#r_lowca) nie obchodzi pomoc, liczy się tylko chwała i pieniądze - za nic mają dawne ideały, którym hołdował poprzedni zakon, tj. bezinteresowną, charytatywną pomoc w zwalczaniu potworów.
     - [Łowcy](#r_lowca) "Potworów" to był pomysł [Myrtona](#p_lord_myrton) w krótkim czasie gdy był głową tej organizacji. Niestety pomysł był niepopularny i nie spodobał się "górze". [Myrtona](#p_lord_myrton) odsunięto od władzy, a następny naczelnik, niejaki Zygfryd, szybko wrócił do starej polityki.
     - Mamy skomunikować się z [Kapitułą](#r_kapitula) najlepiej przed ludźmi [Dijkstry](#p_dijkstra) (bez użycia magii trzeba liczyć, że do [Poviss](#l_poviss) zejdzie im 2 - 3 tygodnie), by na naszą ofertę spojrzeli bardziej przychylnie.
 2. Niedźwiedzia przysługa

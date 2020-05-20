@@ -231,7 +231,7 @@
     - <a id='p_mandrej' pattern='Mandrej*'>Kupiec Mandrej</a> - ; ?;
         zasiada w radzie miejskiej
     - <a id='p_lord_myrton' pattern='Lord* Myrton*,Myrton*'>Lord Slyz Myrton</a> - ; dowódca;
-        rządzi zakonem Łowców Czarownic/Potworów w [Ellander](#l_ellander), nie ma wody z mózgu, da się z nim dogadać;
+        rządzi zakonem [Łowców](#r_lowca) Czarownic/Potworów w [Ellander](#l_ellander), nie ma wody z mózgu, da się z nim dogadać;
         Możlwe że po niedawnej śmierci Przywódcy [Menge](#p_menge) rządzi całym zakonem.
         [Menge](#p_menge): przełożony
         [Kasimir](#g_kasimir): podwładny
@@ -246,7 +246,7 @@
         zorganizował wyprawę archeologiczną w której brał udział [Kajetan](#g_kajetan)
     - <a id='p_isilme' pattern='Isilme*'>Isilme</a> - elf, ziwadowca;
         brał udział w tej samej wyprawie co [Kajetan](#g_kajetan)
-        pojmany i wykorzystany do badań nad [dwimerytową](#r_dwimeryt) zarazą przez Łowców i [Menge](#p_menge)
+        pojmany i wykorzystany do badań nad [dwimerytową](#r_dwimeryt) zarazą przez [Łowców](#r_lowca) i [Menge](#p_menge)
 - [Kaedwen](#l_kaedwen)
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
 - [Kerack](#l_kerack)
@@ -261,7 +261,7 @@
         przez jakiś czas rządził [Novigradem](#l_novigrad)
         rządzi w [Wyzimie](#l_wyzima) twardą ręką; grał kluczową rolę w podboju [Temerii](#l_temeria)
         zakładał obozy pracy dla Scoia'tael
-    - <a id='p_menge' pattern='Menge*'>✝ Menge</a> - ; przywódca zakonu Łowców
+    - <a id='p_menge' pattern='Menge*'>✝ Menge</a> - ; przywódca zakonu [Łowców](#r_lowca)
         [Lord Slyz Myrton](#p_lord_myrton): podwładny
     - <a id='p_hemmelfart' pattern='Hemmelfart'>Cyrus Engelkind Hemmelfart</a> - kapłan; Główny Kapłan kultu Wiecznego Ognia
     - [Novigrad](#l_novigrad)
