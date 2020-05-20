@@ -162,32 +162,53 @@ def prepare_files(args, whitelist, logger):
 class Travis:
     git_dir = ''
     @staticmethod
-    def git_setup():
+    def git_setup(user="Travis CI", email="travis@travis-ci.org"):
+        """git config --global user.email, user.name
+        Args:
+            user (str, optional): username, defaults to "Travis CI"
+            email (str, optional): e-mail, defaults to "travis@travis-ci.org"
+        """
         if 'CI' not in os.environ:
             return
-        Console.run('git config --global user.email "travis@travis-ci.org"',
+        Console.run('git config --global user.email "' + email + '"',
                     Travis.git_dir)
-        Console.run('git config --global user.name "Travis CI"',
+        Console.run('git config --global user.name "' + user + '"',
                     Travis.git_dir)
 
     @staticmethod
-    def git_unbork_travis_root():
+    def git_unbork_travis_root(repo_slug=None):
+        """git remove and re-add origin
+        Args:
+            repo_slug (str, optional): "user/repo", defaults to the one used
+                by Travis
+        """
         if 'CI' not in os.environ:
             return
-        repo_slug = os.environ['TRAVIS_REPO_SLUG']
+        if not repo_slug:
+            repo_slug = os.environ['TRAVIS_REPO_SLUG']
         Console.run('git remote rm origin')
         Console.run('git remote add origin '
                     + 'https://${github_user}:${github_token}@github.com/'
                     + repo_slug + '.git > /dev/null 2>&1')
     @staticmethod
     def git_clone(repo_slug):
+        """git clone
+        Args:
+            repo_slug (str): "user/repo", defaults to the one used
+                by Travis
+        """
         if 'CI' not in os.environ:
             return
         Console.run('git clone '
                     + 'https://${github_user}:${github_token}@github.com/'
                     + repo_slug + '.git > /dev/null 2>&1')
+
     @staticmethod
     def git_checkout(branch):
+        """git checkout
+        Args:
+            branch (str): branch name
+        """
         if 'CI' not in os.environ:
             return
         if not repo_slug:
@@ -229,7 +250,7 @@ class Travis:
         return Console.run('git rev-parse HEAD', Travis.git_dir)
 
     @staticmethod
-    def git_comment(message, logger, commit=None, repo_slug=None):
+    def git_comment(message, commit=None, repo_slug=None):
         if 'CI' not in os.environ:
             return
         if not commit:
@@ -393,7 +414,7 @@ def main():
     logger.info("Initialization time: {:.5f}sec".format(TickTock.tock()))
     feedback = test_files(files)
     # comment test result on source repo and bail if needed
-    Travis.git_comment(feedback, logger)
+    Travis.git_comment(feedback)
     if feedback != "Test passed!":
         for line in feedback.splitlines():
             logger.error(line)
@@ -408,7 +429,7 @@ def main():
     feedback = test_files(files, prefix)
     if feedback != "Test passed!":
         if 'CI' in os.environ:
-            Travis.git_comment('Parsing failed: ' + feedback, logger)
+            Travis.git_comment('Parsing failed: ' + feedback)
         for line in feedback.splitlines():
             logger.error(line)
         sys.exit(1)
@@ -418,7 +439,7 @@ def main():
             # Travis.git_setup()
             Travis.git_commit_all('Parsed: ' + commit_message)
             commit = Travis.git_push('master')
-            Travis.git_comment(feedback, logger, commit, 'nipsufn/dnd-ki')
+            Travis.git_comment(feedback, commit, 'nipsufn/dnd-ki')
         sys.exit(0)
     
 

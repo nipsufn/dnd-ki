@@ -1,5 +1,5 @@
 ## Różne
-- <a id="r_lowca" pattern='Łowc* czarownic,Łowcy,Łowcach'>Łowcy czarownic / potworów</a>
+- <a id="r_lowca" pattern='Łowc* czarownic,Łowcy,Łowcach,Łowców'>Łowcy czarownic / potworów</a>
 - <a id="r_zakon" pattern='Zakon* Płonącej Róży'>Zakon Płonącej Róży</a>
     - wywodzi się z Ellander
     - miał zastąpić wiedźminów, pozbywać się potworów jako część swojej posługi
