@@ -9,6 +9,7 @@ import re
 from html.parser import HTMLParser
 import time
 import requests
+import markdown
 
 
 class TickTock:

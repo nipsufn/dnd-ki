@@ -38,10 +38,10 @@
             - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
             - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
             - 2 krystaliczny kawałek dwimerytu, odbierający Moc
-            - Nalewka z mandragory, 1²/₃ butelki
+            - Nalewka z mandragory, 2²/₃ butelki
             - 12 porcji inkaustu
             - 2 porcje kadzidła
-            - 1 porcje pyłu kamieni szlachetnych
+            - 4 porcje pyłu kamieni szlachetnych
             - 5 porcji kredy
             - 1 miarki Izzotoniku (zamiennik Alkahestu; d20: efekt x2 on 20, wild magic on 1)
             - 10 złotych zębów
