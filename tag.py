@@ -268,7 +268,7 @@ class Travis:
             return False
         Console.run('git push origin $(git rev-parse --abbrev-ref HEAD):'
                     + target_branch
-                    + '--quiet',
+                    + ' --quiet',
                     Travis.git_dir)
         return Console.run('git rev-parse HEAD', Travis.git_dir)
 
