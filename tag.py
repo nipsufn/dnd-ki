@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+"""
+This script creates cross-referencing tags in md files
+"""
 import os
 import sys
 import subprocess
@@ -9,8 +11,6 @@ import re
 from html.parser import HTMLParser
 import time
 import requests
-import markdown
-
 
 class TickTock:
     __ticktock = float()
@@ -191,6 +191,7 @@ class Travis:
         Console.run('git remote add origin '
                     + 'https://${github_user}:${github_token}@github.com/'
                     + repo_slug + '.git > /dev/null 2>&1')
+
     @staticmethod
     def git_clone(repo_slug):
         """git clone
@@ -209,14 +210,31 @@ class Travis:
         """git checkout
         Args:
             branch (str): branch name
+        Returns:
+            bool: non-False if script is running on Travis CI
         """
         if 'CI' not in os.environ:
-            return
+            return False
         if not repo_slug:
             repo_slug = os.environ['TRAVIS_REPO_SLUG']
         Console.run('cd ' + Travis.git_dir)
         Console.run('git fetch', Travis.git_dir)
         Console.run('git checkout ' + branch, Travis.git_dir)
+        return True
+
+    @staticmethod
+    def git_add(pathspec):
+        """git add `pathspec` from current branch in git_dir to target_branch
+        Args:
+            pathspec (str): files to add, can be a fileglob
+        Returns:
+            str: commit hash or False
+        """
+        if 'CI' not in os.environ:
+            return False
+        Console.run('git add ' + pathspec, Travis.git_dir)
+
+        return Console.run('git rev-parse HEAD', Travis.git_dir)
 
     @staticmethod
     def git_commit_all(message, sanitize=True):
@@ -226,45 +244,50 @@ class Travis:
             sanitize (bool, optional): whether to bash-sanitize message,
                 defaults to True
         Returns:
-            str: commit hash
+            str: commit hash or False
         """
         if 'CI' not in os.environ:
-            return
+            return False
         if sanitize:
-            Console.run('git commit -am "' + message.replace('"','\\"') + '"',
+            Console.run('git commit -am "' + message.replace('"', '\\"') + '"',
                         Travis.git_dir)
         else:
             Console.run('git commit -am "' + message + '"', Travis.git_dir)
 
         return Console.run('git rev-parse HEAD', Travis.git_dir)
+
     @staticmethod
-    def git_push(target_branch):
+    def git_push(target_branch='master'):
         """force git push from current branch in git_dir to target_branch
         Args:
             target_branch (str): branch name to push to
         Returns:
-            str: commit hash
+            str: commit hash or False
         """
         if 'CI' not in os.environ:
-            return
-        Console.run('git push --quiet', Travis.git_dir)
+            return False
+        Console.run('git push origin $(git rev-parse --abbrev-ref HEAD):'
+                    + target_branch
+                    + '--quiet',
+                    Travis.git_dir)
         return Console.run('git rev-parse HEAD', Travis.git_dir)
 
     @staticmethod
     def git_comment(message, commit=None, repo_slug=None):
         if 'CI' not in os.environ:
-            return
+            return False
         if not commit:
             commit = os.environ['TRAVIS_COMMIT']
         if not repo_slug:
             repo_slug = os.environ['TRAVIS_REPO_SLUG']
-        r = requests.post('https://api.github.com/repos/'
-                            + repo_slug + '/commits/'
-                            + commit.rstrip() + '/comments',
-                            json={"body": message},
-                            auth=requests.auth.HTTPBasicAuth(
-                                os.environ['github_user'],
-                                os.environ['github_token']))
+        request = requests.post('https://api.github.com/repos/'
+                                + repo_slug + '/commits/'
+                                + commit.rstrip() + '/comments',
+                                json={"body": message},
+                                auth=requests.auth.HTTPBasicAuth(
+                                    os.environ['github_user'],
+                                    os.environ['github_token']))
+        return request.ok
 
 def process_tags(files, logger, prefix=""):
     TickTock.tick()
@@ -438,11 +461,11 @@ def main():
         if 'CI' in os.environ:
             Travis.git_dir = os.environ['PWD'] + '/' + prefix
             # Travis.git_setup()
+            Travis.git_add('*.md')
             Travis.git_commit_all('Parsed: ' + commit_message)
-            commit = Travis.git_push('master')
+            commit = Travis.git_push()
             Travis.git_comment(feedback, commit, 'nipsufn/dnd-ki')
         sys.exit(0)
-    
 
 if __name__ == "__main__":
     main()
