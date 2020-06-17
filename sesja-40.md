@@ -9,7 +9,7 @@
     - Nowy topór [Ivara](#p_ivar) wygląda solidnie, ale potrzebuje jeszcze zaklęcia magią. Okazuje się, że stworzenie, którego serce - przeistoczywszy się w kamień - zostało zakute w broń to ognista salamandra. Jest to rodzaj ducha ognia.
     - Wraz z [Finarrinem](#p_druid_finarrin) pomagamy [Ivarowi](#p_ivar) zakląć jego topór. Udajemy się do głównej sali z sarkofagami, gdzie wspólnie poddajemy się transowi. 
     - W transie tym mamy wrażenie jakby czterej rycerze czuwali nad nami, dodając swój pierwiastek do całego procesu - po jednym rycerzu na każdego z nas.
-    - [Kajetan](#g_kajetan) przewodzi obrzędowi jako najlepiej zorientowany w magii z całego towarzystwa. Spotyka się jednak z oporem i niechęcią wymierzoną w siebie ze strony patrona Akademii, Corneirosa.
+    - [Kajetan](#g_kajetan) przewodzi obrzędowi jako najlepiej zorientowany w magii z całego towarzystwa. Spotyka się jednak z oporem i niechęcią wymierzoną w siebie ze strony patrona Akademii, [Corneirosa](#p_corneiros).
     - W trakcie rytuału Warownia kilkukrotnie drga w posadach, aż tynk sypie nam się na głowy.
     - Zaklinanie dobiega końca. Zauważamy zgromadzoną wokół nas resztę kompanii, w tym także powoli przeistaczającego się [Lanemina](#p_lanemin).
     - [Kajetan](#g_kajetan) wypytuje elfa o spostrzeżenia na temat powierzonego [dwimerytu](#r_dwimeryt). Dowiaduje się, że:

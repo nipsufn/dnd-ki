@@ -176,7 +176,8 @@
     - <a id='p_calanthe' pattern='Calanthe'>✝ Calanthe</a> - ; władczyni
         znała [Myszowora](#p_myszowor)
 - [Craag An](#l_craag_an)
-    - <a id="p_lanemin" pattern='Lanemin*'>Lanemin Anef Aep</a> - elf z [Aen Drisichean](#r_aen_drisichean) ocalony przez drużynę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
+    - <a id="p_lanemin" pattern='Lanemin*'>✝ Lanemin Anef Aep</a> - elf, [Aen Drisichean](#r_aen_drisichean) ocalony przez drużynę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
+    - <a id="p_corneiros" pattern='Corneiros*'>✝ Corneiros Niosący Światło, Pierwszy Zaklinacz, Ostatni z Rycerzy</a> - elf, [Aen Drisichean](#r_aen_drisichean); mag, rozwijał rozumienie Mocy przez swój lud oraz inne światy
 - [Dol Blatahanna](#l_dol_blatahanna)
     - <a id="p_francesca" pattern='Francesc*,Francesc* Findabair'>Francesca Findabair</a> - elf, mag, włada [Dol Blatahanna](#l_dol_blatahanna)
 - [Ellander](#l_ellander)
@@ -283,6 +284,8 @@
         - córka [Foltesta](#p_foltest)
         - żona [Radowida](#p_krol_radowid)
     - [Lord Dijkstra](#p_dijkstra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
+    - [Dorian](#l_dorian)
+        - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje worząc płody roli do innych miast
     - [Maribor](#l_maribor)
         - <a id='p_kaspar' pattern='Kaspar*'>_Tymaczasowy Burmistrz Nowobudowanego [Mariboru](Maribor) Z Łaski Regenta Dijkstry Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](Radowid) Błogisławiony Imć Komendant_ Kaspar</a>
             - współpracownik [Larsa](#p_lars)

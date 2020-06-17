@@ -4,9 +4,9 @@
     - [Skovik](#p_skovik) dosłownie zmiata potwora na schody rzucając weń kamiennymi drzwiami, które wbijają się w sufit i częściowo blokują przejście.
     - [Elf](#g_kajetan) zasklepia wszystkie dziury w przejściu, tworząc tymczasową ścianę kiedy [druidka](#g_ilana) i [wyspiarz](#p_skovik) mocują się z narastającą kupą magicznych gratów zasypujących nas z gabinetu maga.
     - [Kajetan](#g_kajetan) zaczyna przygotowywać krąg teleportacyjny, gdy [Skovik](#p_skovik), zachęcony przez [druidkę](#g_ilana), chwyta z wciąż wysypującej się zawartości pokoju sporą, zdobioną skrzynkę, która niespodziewanie go atakuje.
-    - [Osiłek](#p_skovik) zrzuca z siebie nowego wroga, który pechowo ląduje tuż obok [Kajetana](#g_kajetan) i bardzo szybko obezwaładnia pochłoniętego zajęciem [maga](#g_kajetan).
+    - [Osiłek](#p_skovik) zrzuca z siebie nowego wroga, który pechowo ląduje tuż obok [Kajetana](#g_kajetan) i bardzo szybko obezwładnia pochłoniętego inskrypcjami [maga](#g_kajetan).
     - [Ilana](#g_ilana) cuci [czarodzieja](#g_kajetan) po raz kolejny. Ten wyprawia monstrum na inną płaszczyznę, by w spokoju ukończyć krąg teleportacyjny.
-    - W międzyczasie słyszymy żałosne zawodzenie wypłoszonego stwora, któremu wtórują inne, podobne głosy. W sumie jest ich kilka - może 3, 4 więcej. Stwory definitywnie nie dają za wygraną. Wczłapawszy z powrotem dobijają się do zamurowanego przejścia.
+    - W międzyczasie słyszymy żałosne zawodzenie wypłoszonego stwora, któremu wtórują inne, podobne głosy. Stwory definitywnie nie dają za wygraną. Wczłapawszy z powrotem dobijają się do zamurowanego przejścia.
     - [Kajetan](#g_kajetan) aktywuje zaklęcie i wracamy do [Mariboru](#l_maribor) - ledwie żywi, obładowani artefaktami, z częścią graciarstwa wciąż wysypującego się z otwartego przez nas pokoju.
     - Udało nam się zabrać ze sobą:
         - kulkę rzeźbioną w zapętlający się labirynt

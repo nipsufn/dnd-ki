@@ -38,7 +38,7 @@
 		- piwnica - okrągły pokój o 8 ścianach, z 7 pięknymi freskami krajobrazów; na suficie nocne niebo, takie jakie widzieliśmy podczas Dwuksiężycowej Nocy; na ziemi krąg teleportacyjny, oznaczony jako punkt początkowy (wygląda na to, że [Ivryn](#p_arcydruid_ivryn) coś tu kombinował)
 	- [Kajetan](#g_kajetan) zaczyna kaszleć i wyczuwać magię w rzeczach, których dotyka
 	- na parterze znajdujemy prosektorium z ciałami zezwierzęconych elfów, inne pokoje oraz trzy posągi:
-		1. Corneiros - włócznia (przypominająca tą, którą [Ivryn](#p_arcydruid_ivryn) spętał drzewo) i księgi na ręce; "_Pierwszy Zaklinacz, Ostatni z Rycerzy_"
+		1. [Corneiros](#p_corneiros) - włócznia (przypominająca tą, którą [Ivryn](#p_arcydruid_ivryn) spętał drzewo) i księgi na ręce; "_Pierwszy Zaklinacz, Ostatni z Rycerzy_"
 		2. Mordekeinen - stoicka poza, łysy; "_Założyciel Akademii, Prawa Ręka [Galawaina_](#p_galawain)"
 		3. Riv'yvre - przyjazne spojrzenie, warkocz; Arkanistka
 	- [Ilana](#g_ilana) kombinuje z zielonymi kryształami które znaleźliśmy - rozlewa zawartość jednego z nich na podłogę (okazuje się, że rzeczywiście zawierały ciecz). 
