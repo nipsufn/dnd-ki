@@ -1,7 +1,31 @@
 ### Sesja 73
 1. W domu
     - Odpocząwszy po krótkiej, acz intensywnej wyprawie, Kajetan spędza resztę dnia na identyfikacji przywiezionych znalezisk.
-    - Ilana zaprzęga Skovika do uruchomienia wanny celem odświeżenia się i przetestowania pomysłowej konstrukcji {elfa}Kajetan. Widząc zamiary dwójki, Kajetan taktownie przenosi się na drugie piętro. Zażywszy kąpieli para wychodzi do miasta rozprostować nogi. 
+        - znaleziska pochodzą najwyraźniej z kolekcji Corneirosa
+        - kotwice użyteczne przy teleportacji do innych płaszczyzn:
+            - kulkę rzeźbioną w zapętlający się labirynt, wygląda jakby po labiryncie tułały się jakieś postaci
+            - gorącą w dotyku lampę z mapą jakiegoś miasta z boku, według ksiąg pełnego porzuconych metalowych pałaców, rozgrzanych nigdy nie gasnącym czerwonym słońcem
+            - brudny inkluz - bursztyn ze skrzydlatym pająkiem w środku, ze świata dzikiej dżungli zamieszkałej przez ogromne insekty, przy których elfy zdawały się być mrówkami
+        - czarna perła - świecidełko, ewentualnie komponent do zaklęcia
+        - około litrowy słój z grubego szkła, w ciemnoniebieskim płynie pływa jakiś wielki ząb
+        - rękojeść ostrza błyskawic, aktywowanego ładunkiem zaklęcia drugiego poziomu; krótki miecz; atak z inteligencji, gołe 2d8 obrażeń, 1 minuta
+        - szklaną skrzynkę ze zwojami
+            - bez klucza otwarcie rozproszeniem magii uruchamia zabezpieczenie, które zaczyna spopielać zawartość. Część zwojów udaje się uratować
+            - niezrozumiały zwój ósmego poziomu
+            - Planar Ally szóstego poziomu
+        - spore drewniane pudełko zabezpieczone zagadką:
+            - _It wears a leather coat to keep its skins in working order. Escorts you to other realms, without a magic portal_
+            - Pudełko to mimik, który atakuje jeśli odpowie się na zagadkę niepoprawnie
+            - w środku jest kamizelka z naszywkami, widać że kiedyś było ich więcej i zostały poodrywane, przynajmniej te które przedstawiały przedmioty użytku codziennego. Od pozostałych, abstrakcyjnych naszywek trąci magią przywołania
+        - księgę o lekko nadniszczonym tytule "(...) Guide To Multiverse"
+            - księga jest niedokończona, widać że Corneiros wciąż wprowadzał poprawki w różnych miejscach
+            - elfi mag zajmował się magią dowolnej teleportacji, starając się uniezależnić swój lud od portali takich jak Tor Corax
+            - opisuje kotwice do innych płaszczyzn i same płaszczyzny, poza tymi które fartem znaleźliśmy lodowy świat o zakrzywionej perspektywie, tak że można obejrzeć własne plecy, pełen potworów oraz piekło pełne płomieni i zamieszkałe przez ifryty
+            - klucz do kasetki z zaklęciami znajdował się w jednej z opisanych płaszczyzn
+            - zawiera zaklęcie Plane Shift siódmego poziomu
+        - księgę z dużym rubinem wprawiony w okładkę
+    - Ilana zaprzęga Skovika do uruchomienia wanny celem odświeżenia się i przetestowania pomysłowej konstrukcji {elfa}Kajetan. Widząc zamiary dwójki, Kajetan taktownie przenosi się na drugie piętro. Zażywszy kąpieli para wychodzi do miasta rozprostować nogi.
+    - {mag}Kajetan odbiera wiadomość od Margarity. Czarodziejka proponuje nam pracę - odszukać dziecko, silne źródło, w okolicy Wyzimy, i odprowadzić do szkoły Kapituły zanim odszuka je organizacja Myrtona. Kajetan rozważa propozycję, jednak ostatecznie odmawia - stolica nam nie po drodze, pewnikiem zwrócimy na siebie uwagę {Księcia}Myrton której mielibyśmy unikać, a nastawienie smarkacza i ewentualnej rodziny jest jedną wielką niewiadomą
 2. Wieści gminne
     - Zrobiło się tu dość tłoczno i głośno, a to za sprawą kilku wozów, które zjechały do miasta w obstawie konnych, jak się okazuje - straży miejskiej.
     - Na rynku, oprócz gapiów, jest Oleg. Podpytując ludzi dowiadujemy się, że wozy przywiozły z Wyzimy kryminalistów, którzy mają pomóc w odbudowie miasta. Skazańcom obiecano podobno złagodzenie kar i wyroków w zamian za prace społeczne.
@@ -10,7 +34,8 @@
     - Jeden z krasnoludów nazwany Calebem, wyzywa Skovika na pojedynek na rękę. Zanim jednak {wyspiarz}Skovik zdąży cokolwiek odpowiedzieć, Ilana sama rzuca krasnoludowi wyzwanie, kiedy ten nie kwapi się z nią rozmawiać.
     - {Druidka}Ilana niestety okazuje się mieć mniej pary w łapie, co krzepki karzeł, ale ze Skovikiem prawie żadnemu nie udaje się wygrać. Zakłady sypią się gęsto.
     - Krasnoludy zapraszają nas do swojego stołu i częstują piwem:
-        - ppodróżują do Gors Velen, na jarmark z okazji święta Belleteyn
+        - zwą się bandą Yarpena Zigrina, w składzie: Caleb, Ksawier Moran, Logan, Wafé, Burden, Anryj i Yarpen Zigrin
+        - podróżują do Gors Velen, na jarmark z okazji święta Belleteyn
         - główną, niezwykle intratną atrakcją jarmarku jest walka na arenie z rozmaitymi potworami
         - podobno w zeszłym roku zawody wygrali Rębacze z Crinfrid, którzy położyli mantikorę i otrzymali w nagordę jej wagę w złocie
         - karczemnemu towarzystwu w podróży przewodzi Yarpen Zigrin
