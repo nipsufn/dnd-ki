@@ -81,4 +81,5 @@
     - [Sesja 70](#sesja-70)
     - [Sesja 71](#sesja-71)
     - [Sesja 72](#sesja-72)
+    - [Sesja 73](#sesja-73)
 

@@ -1,19 +1,21 @@
 ### Sesja 72
 1. Potyczka
-    - Ilana cuci Kajetana, i zanim ten rozwścieczony rzuci się na poczwarę, klaruje mu ze to nie jest najlepszy pomysł
-    - Skovik przegania potwora rzucając weń kamiennymi drzwiami, które częściowo blokują przejście
-    - {elf}Kajetan zasklepia wszystkie dziury w przejściu, tworząc tymczasową ścianę
-    - {mag}Kajetan zaczyna przygotowywać krąg teleportacyjny, gdy {wyspiarz}Skovik, zachęcony przez {druidkę}Ilana, chwyta z wciąż wysypującej się zawartości pokoju sporą, zdobioną skrzynkę, która szybko go atakuje
-    - {osiłek}Skovik zrzuca z siebie nowego wroga, który ląduje niedaleko Kajetana, którego szybko obezwaładnia
-    - Ilana cuci {czarodzieja}Kajetan kolejny raz. Ten wyprawia monstrum w na inną płaszczyznę, by w spokoju ukończyć krąg teleportacyjny
-    - wracamy do Mariboru, ledwie żywi, obładowani artefaktami, z częścią graciarstwa wciąż wysypującego się z otwartego przez nas pokoju
-    - co udało nam się zabrać ze sobą:
-        - Kulka rzeźbiona w zapętlający się labirynt
-        - Gorąca w dotyku lampa, z mapą jakiegoś miasta z boku
-        - Brudny inkluz - bursztyn ze skrzydlatym pająkiem w środku
+    - Ilana cuci Kajetana i zanim ten, rozwścieczony, rzuci się gołymi rękami na poczwarę, klaruje mu, że to nie jest najlepszy pomysł.
+    - Skovik dosłownie zmiata potwora na schody rzucając weń kamiennymi drzwiami, które wbijają się w sufit i częściowo blokują przejście.
+    - {Elf}Kajetan zasklepia wszystkie dziury w przejściu, tworząc tymczasową ścianę kiedy {druidka}Ilana i {wyspiarz}Skovik mocują się z narastającą kupą magicznych gratów zasypujących nas z gabinetu maga.
+    - Kajetan zaczyna przygotowywać krąg teleportacyjny, gdy Skovik, zachęcony przez {druidkę}Ilana, chwyta z wciąż wysypującej się zawartości pokoju sporą, zdobioną skrzynkę, która niespodziewanie go atakuje.
+    - {Osiłek}Skovik zrzuca z siebie nowego wroga, który pechowo ląduje tuż obok Kajetana i bardzo szybko obezwaładnia pochłoniętego zajęciem {maga}Kajetan.
+    - Ilana cuci {czarodzieja}Kajetan po raz kolejny. Ten wyprawia monstrum na inną płaszczyznę, by w spokoju ukończyć krąg teleportacyjny.
+    - W międzyczasie słyszymy żałosne zawodzenie wypłoszonego stwora, któremu wtórują inne, podobne głosy. W sumie jest ich kilka - może 3, 4 więcej. Stwory definitywnie nie dają za wygraną. Wczłapawszy z powrotem dobijają się do zamurowanego przejścia.
+    - Kajetan aktywuje zaklęcie i wracamy do Mariboru - ledwie żywi, obładowani artefaktami, z częścią graciarstwa wciąż wysypującego się z otwartego przez nas pokoju.
+    - Udało nam się zabrać ze sobą:
+        - kulkę rzeźbioną w zapętlający się labirynt
+        - gorącą w dotyku lampę z mapą jakiegoś miasta z boku
+        - brudny inkluz - bursztyn ze skrzydlatym pająkiem w środku
         - około litrowy słój z grubego szkła, w ciemnoniebieskim płynie pływa jakiś wielki ząb
-        - kawałek metalu przypominający rękojeść, 30 - 40 cm długości, zdobiony złotą spiralą, lekko kopie prądem
-        - szklana skrzynka ze zwojami
+        - kawałek metalu przypominający rękojeść, 30 - 40 cm długości, zdobiony złotą spiralą, w dotyku lekko kopie prądem
+        - szklaną skrzynkę ze zwojami
         - spore drewniane pudełko zabezpieczone zagadką
-        - księga, "? Guide To Multiverse"
-        - księga, duży rubin wprawiony w okucia
+        - księgę o lekko nadniszczonym tytule "(...) Guide To Multiverse"
+        - księgę z dużym rubinem wprawiony w okładkę
+    - Oprócz magicznych znalezisk, Kajetan przywozi ze sobą także majestatyczne elfie prącie - zupełnie niemagiczny fragment sporej rzeźby, która została wykastrowana zaklęciem teleportacyjnym {maga}Kajetan. Umieszcza fallusa w skrytce w ścianie naprzeciw szpiegowskiej lampy Brasa.
