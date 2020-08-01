@@ -176,7 +176,8 @@
     - <a id='p_calanthe' pattern='Calanthe'>✝ Calanthe</a> - ; władczyni
         znała Myszowora
 - Craag An
-    - <a id="p_lanemin" pattern='Lanemin*'>Lanemin Anef Aep</a> - elf z Aen Drisichean ocalony przez drużynę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
+    - <a id="p_lanemin" pattern='Lanemin*'>✝ Lanemin Anef Aep</a> - elf, Aen Drisichean ocalony przez drużynę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
+    - <a id="p_corneiros" pattern='Corneiros*'>✝ Corneiros Niosący Światło, Pierwszy Zaklinacz, Ostatni z Rycerzy</a> - elf, Aen Drisichean; mag, rozwijał rozumienie Mocy przez swój lud oraz inne światy
 - Dol Blatahanna
     - <a id="p_francesca" pattern='Francesc*,Francesc* Findabair'>Francesca Findabair</a> - elf, mag, włada Dol Blatahanna
 - Ellander
@@ -283,6 +284,8 @@
         - córka Foltesta
         - żona Radowida
     - [Lord Dijkstra](Dijkstra) - ; władca Temerii pod Redanią
+    - Dorian
+        - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje worząc płody roli do innych miast
     - Maribor
         - <a id='p_kaspar' pattern='Kaspar*'>_Tymaczasowy Burmistrz Nowobudowanego [Mariboru](Maribor) Z Łaski Regenta Dijkstry Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](Radowid) Błogisławiony Imć Komendant_ Kaspar</a>
             - współpracownik Larsa
