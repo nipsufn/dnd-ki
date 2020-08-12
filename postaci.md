@@ -323,10 +323,10 @@
     - <a id='p_karoll' pattern='Madame Karoll,Karoll'>Madame Karoll</a>
         - prowadzi(ła?) obwoźny burdel na granicach z Nilfgaardem, zarabiając na utrzymanie Wiewiórek
         - Enid, jako jedna z jej byłych "pracownic", pała doń rządzą zemsty
-    - <a id='p_andy' pattern='Andy*,Andi*,Andy*'>Andy Breckenriggs</a>
+    - <a id='p_andy' pattern='Andy*,Andi*,Andy*'>Andy Biberveldt</a>
         - niziołek, szukał dziewczyn i złota Karoll
         - przewiózł nas z Reganem pod Wyzimę
-    - <a id='p_regan' pattern='Regan*'>Regan Biberwelt</a>
+    - <a id='p_regan' pattern='Regan*'>Regan Breckenriggs</a>
         - krasnolud, szukał dziewczyn i złota Karoll
         - przewiózł nas z Andym pod Wyzimę
         - ma na przedramieniu wytatuowany symbol Novigradzkiego gangu Tasaka

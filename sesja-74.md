@@ -16,7 +16,7 @@
 3. Do Gors Velen, etap II: Rdestowa Łąka
     - Wbrew protestom Kajetana, kupujemy osły i jedziemy do Rdestowej.
     - W drodze mija nas Remi, więc dołączamy się i dalej podróżujemy już wspólnie.
-    - Remi jedzie do Biberveltów. Wskazuje nam drogę do folwarku sołtysa.
+    - Remi jedzie do Biberweltów. Wskazuje nam drogę do folwarku sołtysa.
     - Po drodze mija nas także znajomy wóz księgowego z Mariboru z obstawą. Wóz jedzie dość szybko, miga nam coś dziwnego wymalowanego na tyle wozu.
     - Docieramy na miejsce wieczorem. Co rzuca nam się od razu w oczy to to, że przeważają tutaj nieludzie: niziołki i półkrwi elfy.
     - Odwiedzamy sołtysa Wilhelma Hoffmeiera, który okazuje się być lekko podstarzałym niziołkiem. Patrzą nam na ręce, a napitkiem częstują z drewnianych pucharków, jakby nie do końca ufali, że niczego nie zwędzimy.

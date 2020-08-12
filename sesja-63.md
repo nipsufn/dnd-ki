@@ -19,7 +19,7 @@
     - W parku panuje zamieszanie. Po śniadaniu idziemy sprawdzić o co chodzi. Gawiedź zleciała się, bo ostrosłup - kamień węgielny pod pomnik - wisi w powietrzu 10 metrów od oryginalnego położenia.
     - Nie chcąc prowokować pytań ani ściągać na siebie uwagi, szybko ulatniamy się z miejsca zdarzenia.
     - Pod karczmą wsiadamy do odrapanego wozu Karoll, gdzie na podwózkę czeka już dwóch pozostałych pasażerów: czytający coś kupiec Dusek i drzemiący mruk mianem Zdik.
-    - Do wozu zaprzęgnięto dwa osiołki, a sam wóz przemianowano na "Biberwelt i Breckenriggs - usługi przewoźnicze". Po za tym nie zmieniło się nic - ani wnętrze, ani też duszący, piżmowy zapach perfum i... poprzednich właścicielek.
+    - Do wozu zaprzęgnięto dwa osiołki, a sam wóz przemianowano na "Biberveldt i Breckenriggs - usługi przewoźnicze". Po za tym nie zmieniło się nic - ani wnętrze, ani też duszący, piżmowy zapach perfum i... poprzednich właścicielek.
 3. Do Wyzimy
     - Około południa ruszamy w drogę. Droga mija spokojnie, ale z powodu gęstej mgły jesteśmy zmuszeni zatrzymać się na noc gdzieś niedaleko Brennej. Osły boczą się i nie chcą dalej jechać. Na niebie wisi księżyc w pełni.
     - Spychamy wóz w stronę drzew i rozbijamy obóz. Kiedy Kajetan wraz z drugim podróżnym idzie poszukać drwa na ognisko, [druidka](Ilana) wypytuje osiołki co je zaniepokoiło. Zwierzęta czują odór śmierci.
