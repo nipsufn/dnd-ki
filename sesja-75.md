@@ -13,7 +13,7 @@
     - Na polanie unosi się specyficzny, chemiczny zapach.
     - Kajetan w krzakach na obrzeżu polany znajduje trawę wygniecioną od ciężkich skrzyń i trochę rozsypanej soli. Po samych skrzyniach ani śladu, jakby uleciały z miejsca, w którym stały.
     - W międzyczasie na polanie zjawia się niziołcza ekipa dochodzeniowa. Wnoszą niewiele nowego do sprawy, ciężko im też uwierzyć, że ktoś mógłby pozorować potwora i szkodzić własnej wiosce.
-    - Zostaje nam wskaany do pomocy jeden z młodszych Biberveldtów, Alfons. Młodziak nosi za duży hełm po wujku-weteranie, naszym znajomku Andym.
+    - Zostaje nam wskazany do pomocy jeden z młodszych Biberveldtów, Alfons. Młodziak nosi za duży hełm po wujku-weteranie, naszym znajomku Andym.
     - Po odejściu niziołków badamy okolicę z pomocą sówki Kajetana. Natykamy się na duże, czerwone pióro przywiązane do drzewa. 
     - Pod drzewem, pod gęstym runem, oprócz wilczego dołu znajdujemy ukryte pod deskami wejście do tunelu, który zdaje się prowadzić do jakiejś jaskini.
 3. Polowanie na potwora, podejście pierwsze
@@ -29,8 +29,10 @@
     - Nie zniechęceni brakiem natychmiastowych rezultatów polowania, przenosimy nasz obóz nieco bliżej jeziora. Procedura z namiotem i magicznym bąbelkiem także pozostaje bez zmian.
     - Rozpalamy ognisko i obserwujemy kładącą się do snu okolicę.
     - Po zmroku do naszego obozu zagląda jakiś półelf. Grzebie w naszych jukach kiedy zostaje zauważony i przegoniony.
-    - Obcy odchodzi w stronę sadyb, ale w pewnym momencie przystaje i na kogoś gwiżdże.
+    - Obcy, śledzony przez sowę Kajetana, odchodzi w stronę sadyb, ale w pewnym momencie przystaje i na kogoś gwiżdże.
     - Podczas warty Ilany do obozu podchodzi niezauważenie Wiewiórcze komando pod przewodnictwem wymalowanej na czerwono, zamaskowanej elfki dosiadającej równie czerwonego sowiołaka.
     - Elfy nie atakują od razu, a dają wpierw Ilanie chwilę na ocenę sytuacji i adekwatną, rozważną reakcję.
     - {Druidka}Ilana nie sięga po broń, zamiast tego wdaje się w rozmowę. Rozpoznaje Lyssę - elfkę z Ellander, której pomogła w ataku na konwój w zamian za pomoc z ich strony.
-    - Lyssa oferuje nam informacje o prawdziwym potworze w zamian za niewielką część nagrody za potwora i rozejście się w pokoju, bez dalszego mieszania w ich interesy.
+    - Lyssa oferuje nam informacje o prawdziwym potworze, co prawda tutaj nikomu nie wadzącym, w zamian za obietnicę połowy nagrody i rozejście się w pokoju, bez dalszego mieszania w ich interesy.
+    - Potwór grasuje u podnóża gór, na zachód od folwarku Biberweltów, przypomina trolla i ma ponad dwa metry a jego morda przywodzi na myśl łysego niedźwiedzia. Jest szybki i zajadły w zwarciu, potrafi też włazić na drzewa
+    - elfka, znana też jako Firg Thearg, opowiada że w Aedirn na tron powrócił Stennis, jako lennik Radowida. Władyka planuje uderzyć na Dol Blatahanna. Wiele komand Scoia'tael wyrusza w tamte strony, by bronić jedynych elfich ziem.

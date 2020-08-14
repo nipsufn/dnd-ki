@@ -465,6 +465,8 @@ def main():
             Travis.git_commit_all('Parsed: ' + commit_message)
             commit = Travis.git_push()
             Travis.git_comment(feedback, commit, 'nipsufn/dnd-ki')
+        else:
+            logger.info(feedback)
         sys.exit(0)
 
 if __name__ == "__main__":
