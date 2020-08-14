@@ -40,6 +40,7 @@
 - <a id='p_koral' pattern='Koral,Keir* Neyd,Neyd'>Lytta "Koral" Neyd</a> - ?, mag
     - zginęła w drugiej bitwie pod [Sodden](#l_sodden)
 - <a id='p_lambert' pattern='Lamber*'>Lambert</a> - człowiek, wiedźmin
+- <a id='p_lyssa' pattern='Lyss*,Firg Thearg'>Lyssa, Firg Thearg</a> - elf, dowodzi komandem Scoia'tael
 - <a id='p_malaspina' pattern='Malaspin*'>Malaspina</a> - mag
     - nauczyciel [Alzura](#p_alzur)
     - stworzył wiedźminów szkoły [gryfa](#b_gryf)
