@@ -51,7 +51,7 @@
     - [Stucco](#p_zangenis) rzuca jeszcze w potwora jakąś wiązanką w niezrozumiałym dla [Ilany](#g_ilana) języku. Bestia syczy i usuwa się w mrok pokoju, zabierając ze sobą skamieniałego [wyspiarza](#p_skovik).
     - [Druidka](#g_ilana) stoi jeszcze przez chwilę skołowana, ale bardzo szybko niedowierzanie ustępuje białej furii. [Ilana](#g_ilana) jest wściekła na [maga](#p_zangenis) - obwinia go o wszystko, co ich dzisiaj spotkało, zarzucając niekompetencję jego konfraterii w sprzątaniu swojego bałaganu związanego z niesławnym laboratorium.
     - [Stucco](#p_zangenis) nie broni się jak na maga przystało, lecz częściowo przyznaje do błędu. Oferuje pomoc w odzyskaniu "przyjaciela".
-    - Obserwujący wszystko [Kajetan](#g_kajetan) wysyła do [maga](#p_zangenis) mentalną wiadomość. W odpowiedzi zostaje nazwany "klakierem [Keiry](#p_keira_metz)", co skutkuje wybuchem złości. [Elf](#g_kajetan) w afekcie zwija obóz i przegania ostro niczemu winnego Alfonsa do domu. Sam zaś przywołuje swoją sowę, której każe się prowadzić do złamanej wieży.
+    - Obserwujący wszystko [Kajetan](#g_kajetan) wysyła do [maga](#p_zangenis) mentalną wiadomość. W odpowiedzi zostaje nazwany "klakierem [Keiry](#p_keira_metz)", co prowokuje wybuch złości i donos do [sponsorki w Kapitule](#p_keira_metz). [Elf](#g_kajetan) w afekcie zwija obóz i przegania ostro niczemu winnego Alfonsa do domu. Sam zaś przywołuje swoją sowę, której każe się prowadzić do złamanej wieży.
     - W rozmowie ze [starcem](#p_zangenis) dowiadujemy się, że:
         - nasz rozmówca jest jedynym ocalałym z [Risbergu](#l_gora_cremora) i jednocześnie jego kustoszem
         - cytadela była jedną z trzech oryginalnych szkół magii na Północy
