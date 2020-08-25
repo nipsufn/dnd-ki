@@ -51,7 +51,7 @@
     - Stucco rzuca jeszcze w potwora jakąś wiązanką w niezrozumiałym dla Ilany języku. Bestia syczy i usuwa się w mrok pokoju, zabierając ze sobą skamieniałego {wyspiarza}Skovik.
     - {Druidka}Ilana stoi jeszcze przez chwilę skołowana, ale bardzo szybko niedowierzanie ustępuje białej furii. Ilana jest wściekła na {maga}Stucco - obwinia go o wszystko, co ich dzisiaj spotkało, zarzucając niekompetencję jego konfraterii w sprzątaniu swojego bałaganu związanego z niesławnym laboratorium.
     - Stucco nie broni się jak na maga przystało, lecz częściowo przyznaje do błędu. Oferuje pomoc w odzyskaniu "przyjaciela".
-    - Obserwujący wszystko Kajetan wysyła do {maga}Stucco mentalną wiadomość. W odpowiedzi zostaje nazwany "klakierem Keiry", co skutkuje wybuchem złości. {Elf}Kajetan w afekcie zwija obóz i przegania ostro niczemu winnego Alfonsa do domu. Sam zaś przywołuje swoją sowę, której każe się prowadzić do złamanej wieży.
+    - Obserwujący wszystko Kajetan wysyła do {maga}Stucco mentalną wiadomość. W odpowiedzi zostaje nazwany "klakierem Keiry", co prowokuje wybuch złości i donos do {sponsorki w Kapitule}Keira. {Elf}Kajetan w afekcie zwija obóz i przegania ostro niczemu winnego Alfonsa do domu. Sam zaś przywołuje swoją sowę, której każe się prowadzić do złamanej wieży.
     - W rozmowie ze {starcem}Stucco dowiadujemy się, że:
         - nasz rozmówca jest jedynym ocalałym z Risbergu i jednocześnie jego kustoszem
         - cytadela była jedną z trzech oryginalnych szkół magii na Północy
