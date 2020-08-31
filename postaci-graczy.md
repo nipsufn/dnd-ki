@@ -33,6 +33,7 @@
             - naszyjnik kul ognia, 4 nieodnawialne użycia
         - Schowany:
             - Niewielka księga obita w skóre. Zapisana w starym dialekcie krasnoludzkim.
+            - Podręcznik alchemiczny
             - Księga magiczna +1 arcana
             - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
             - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
@@ -41,12 +42,12 @@
             - Nalewka z mandragory, 2²/₃ butelki
             - 12 porcji inkaustu
             - 2 porcje kadzidła
-            - 4 porcje pyłu kamieni szlachetnych
-            - 5 porcji kredy
+            - 3 porcje pyłu kamieni szlachetnych
+            - 4 porcji kredy
             - 1 miarki Izzotoniku (zamiennik Alkahestu; d20: efekt x2 on 20, wild magic on 1)
             - 10 złotych zębów
             - kamień warty 50gp
-            - 248.3.0 gp
+            - 121.8.6 gp
             - 5 butelek bimbru
             - Thieves Tools
             - Z Craag An:
@@ -68,12 +69,9 @@
     - Plany:
         - Obejrzeć medalion i monety znalezione w warowni w Craag An
         - wrócić do podziemnego jeziora koło Col Serrai
-        - wrócić do biblioteki w Craag An - iluzja idealna
-        - obejrzeć jeszcze raz mapę punktów zwarć sfer w Craag An, spróbować wstawić kryształki
         - odwiedzić Mirnę w Kerrack
         - odwiedzić Dorregaraya - co da się zrobić z chorobą
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
-        - doprowadzić piwnicę w Mariborze do stanu używalności albo i lepiej
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych
         - zdobyć artefakty chroniące przed podglądaniem
         - Zaklęcia do transkrypcji:
