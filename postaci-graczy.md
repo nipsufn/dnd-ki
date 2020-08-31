@@ -33,6 +33,7 @@
             - naszyjnik kul ognia, 4 nieodnawialne użycia
         - Schowany:
             - Niewielka księga obita w skóre. Zapisana w starym dialekcie krasnoludzkim.
+            - Podręcznik alchemiczny
             - Księga magiczna +1 arcana
             - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
             - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
@@ -41,12 +42,12 @@
             - [Nalewka z mandragory](#r_nalewka), 2²/₃ butelki
             - 12 porcji inkaustu
             - 2 porcje kadzidła
-            - 4 porcje pyłu kamieni szlachetnych
-            - 5 porcji kredy
+            - 3 porcje pyłu kamieni szlachetnych
+            - 4 porcji kredy
             - 1 miarki [Izzotoniku](#r_izzotonik) (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
             - 10 złotych zębów
             - kamień warty 50gp
-            - 248.3.0 gp
+            - 121.8.6 gp
             - 5 butelek bimbru
             - Thieves Tools
             - Z [Craag An](#l_craag_an):
@@ -68,12 +69,9 @@
     - Plany:
         - Obejrzeć medalion i monety znalezione w warowni w [Craag An](#l_craag_an)
         - wrócić do podziemnego jeziora koło [Col Serrai](#l_col_serrai)
-        - wrócić do biblioteki w [Craag An](#l_craag_an) - iluzja idealna
-        - obejrzeć jeszcze raz mapę punktów zwarć sfer w [Craag An](#l_craag_an), spróbować wstawić kryształki
         - odwiedzić [Mirnę](#p_mirna) w Kerrack
         - odwiedzić [Dorregaraya](#p_dorregaray) - co da się zrobić z chorobą
         - dowiedzieć się co się przytrafiło [Assire var Anahid](#p_assaire) - hak na [Floriana](#p_florian_z_vicovaro)
-        - doprowadzić piwnicę w [Mariborze](#l_maribor) do stanu używalności albo i lepiej
         - odzyskać miecz z [Domu Aukcyjnego Braci Borsodych](#l_dom_borsodych)
         - zdobyć artefakty chroniące przed podglądaniem
         - Zaklęcia do transkrypcji:
