@@ -1,5 +1,5 @@
 package-lock.json
 .vscode
-classes
+__pycache__
 vsc.code-workspace
 local
