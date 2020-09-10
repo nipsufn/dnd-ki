@@ -32,7 +32,7 @@
             - 1 Piersiówka z nalewką z mandragory, 1/2
             - naszyjnik kul ognia, 4 nieodnawialne użycia
         - Schowany:
-            - Niewielka księga obita w skóre. Zapisana w starym dialekcie krasnoludzkim.
+            - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
             - Podręcznik alchemiczny
             - Księga magiczna +1 arcana
             - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
@@ -48,6 +48,7 @@
             - 10 złotych zębów
             - kamień warty 50gp
             - 121.8.6 gp
+            - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
             - 5 butelek bimbru
             - Thieves Tools
             - Z Craag An:
