@@ -90,7 +90,8 @@
         mieści się tam jedna z trzech szkół magii cesarstwa
 - <a id='l_poviss' pattern='Poviss'>Poviss</a>
     - <a id='l_kaer_seren' pattern='Kaer Seren'>Kaer Seren</a>
-        - opuszczona warownia Wiedźminów szkoły Gryfa
+        - opuszczona warownia Wiedźminów szkoły Gryfa,
+        - prawdopodobnie skonstruowana przez Aen Drisichean
 - <a id='l_redania' pattern='Redani*'>Redania</a>
     - <a id='l_novigrad' pattern='Novigrad*'>Novigrad</a>
         - Stolica wyznawców wiecznego Ognia
@@ -125,7 +126,16 @@
         - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
         - magowie nazywają zajście "fuszerką"
         - związane z pochodzeniem Ilany
+        - kompleks składał się z twierdzy postawionej przez Ortolana oraz odrestaurowanych przez niego lochów, prawdopodobnie zbudowanych przez Aen Drisichen i służących Zielonym Rycerzom jako "Twierdza na Północy"
+        - obecnie bezpieczeństwem i zapieczętowaniem kompleksu zajmuje się Stucco Zangenis
     - <a id='l_dorian' pattern='Dorian'>Dorian</a>
+        - <a id='l_pod_mantikora' pattern='Pod Mantikor*,Mantikor*'>Pod Mantikorą</a>
+            - lokalne centrum walk na pięści
+        - <a id='l_ogryzek' pattern='Ogryz*'>Ogryzek</a>
+            - karczma, mało brakuje by nazwać ją podłą
+        - <a id='l_zloty_sad' pattern='Złoty* Sad*'>Złoty sad</a>
+            - luksusowa karczma, kawałek za murami miasta
+    - <a id='l_rdestowa_laka' pattern='Rdestow* Łą*,Rdestow*'>Rdestowa Łąka</a>
     - <a id='l_maribor' pattern='Maribor*'>Maribor</a>
         - zniknął się po Dwójksiężycowej Nocy
         - szybko rozpoczęto odbudowę

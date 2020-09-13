@@ -53,6 +53,9 @@
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
     - potężny druid, poważany nawet przez magów
     - przebywa na Skellige
+- <a id='p_ortolan' pattern='Ortolan*'>Ortolan</a> - ?, mag, konstruktor Risbergu
+    - jego uczeń stworzył strażników i kontynuował badania swojego nauczyciela, nawet gdy te wypadły z łask Kapituły
+    - opracował recepturę eliksiru używanego przez magów do przedłużenia życia
 - <a id='p_radcliffe' pattern='Radcliffe'>Radcliffe z Oxenfurtu</a> - człowiek, mag, członek Nowej Kapituły
 - <a id='p_raffard' pattern='Raffard* Biał*,Raffard*'>✝ Raffard Biały</a> - człowiek, mag
     - zajmował się polityką, co skończyło się wojną "domową" wśród magów
@@ -68,6 +71,9 @@
 - <a id='p_vilgefortz' pattern='Vilgefortz*,Vilgefortz* z Roggeveen'>✝ Vilgefortz</a> - człowiek, mag, członek Kapituły
     - miał immunitet od Dwimerytu
     - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
+- <a id='p_zavist' pattern='Zavi*'>Zavist</a> - ?, mag
+    - kolega Stregobora
+    - byćmoże wie coś o Galawainie
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
     - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
         Ivar: brat
@@ -289,11 +295,21 @@
     - [Lord Dijkstra](Dijkstra) - ; władca Temerii pod Redanią
     - Dorian
         - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje worząc płody roli do innych miast
+        - <a id='p_dirguard_giancardi' pattern='Dirgurd* Giancardi*,Dirgurd*,Giandardi*'>Dirgurd Giancardi</a> - krasnolud, bankier
+    - Rdestowa Łąka
+        - <a id='p_wilhelm_hoffmeier' pattern='Wilhelm* Hoffmeier*,Wilhelm*,Hoffmeier*'>Wilhelm Hoffmeier</a> - niziołek, sołtys
     - Maribor
         - <a id='p_kaspar' pattern='Kaspar*'>_Tymaczasowy Burmistrz Nowobudowanego [Mariboru](Maribor) Z Łaski Regenta Dijkstry Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](Radowid) Błogisławiony Imć Komendant_ Kaspar</a>
             - współpracownik Larsa
             - wysoko postawiony agent Redańskich Sił Specjalnych, możliwe że podwładny samego Dijkstry
             - wyruszył do Wyzimy niedługo po tym, jak pozbyliśmy się naszych listów gończych z Brugge
+            - ma żonę, Agnes
+            - śpi ze sztyletem pod poduszką
+            - lubi wypić, choć niekoniecznie stać go na luksusowe trunki
+            - na wiosnę 1276PP:
+                - stwierdza że "maga nie ma w Brugge"
+                - wyrusza do Novigradu
+                - wspomina nazwisko Korin Tilli
         - <a id='p_oleg' pattern='Oleg*'>Permanentny Burmistrz Mariboru</a>
         - <a id='p_braunn' pattern='Braunn*'>Kapitan Braunn</a>
     - Wyzima
