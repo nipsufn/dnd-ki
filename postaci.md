@@ -294,8 +294,12 @@
         - żona [Radowida](#p_krol_radowid)
     - [Lord Dijkstra](#p_dijkstra) - ; władca [Temerii](#l_temeria) pod [Redanią](#l_redania)
     - [Dorian](#l_dorian)
-        - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje worząc płody roli do innych miast
+        - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje wożąc płody roli do innych miast
         - <a id='p_dirguard_giancardi' pattern='Dirgurd* Giancardi*,Dirgurd*,Giandardi*'>Dirgurd Giancardi</a> - krasnolud, bankier
+        - <a id='p_kaspian_de_ruyter' pattern='Kaspian*de*Ruyter*,Kaspian*, de*Ruyter*,De*Ruyter,Inżynier*'>Kaspian de Ruyter</a> - pseudonim: [Inżynier](#p_kaspian_de_ruyter)
+        - człowiek
+        - studiował na [Oxenfurcie](#l_oxenfurt)
+        - prowadzi nielegalne interesy w okolicy [Dorian](#l_dorian)
     - [Rdestowa Łąka](#l_rdestowa_laka)
         - <a id='p_wilhelm_hoffmeier' pattern='Wilhelm* Hoffmeier*,Wilhelm*,Hoffmeier*'>Wilhelm Hoffmeier</a> - niziołek, sołtys
     - [Maribor](#l_maribor)
