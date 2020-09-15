@@ -294,8 +294,12 @@
         - żona Radowida
     - [Lord Dijkstra](Dijkstra) - ; władca Temerii pod Redanią
     - Dorian
-        - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje worząc płody roli do innych miast
+        - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje wożąc płody roli do innych miast
         - <a id='p_dirguard_giancardi' pattern='Dirgurd* Giancardi*,Dirgurd*,Giandardi*'>Dirgurd Giancardi</a> - krasnolud, bankier
+        - <a id='p_kaspian_de_ruyter' pattern='Kaspian*de*Ruyter*,Kaspian*, de*Ruyter*,De*Ruyter,Inżynier*'>Kaspian de Ruyter</a> - pseudonim: Inżynier
+        - człowiek
+        - studiował na Oxenfurcie
+        - prowadzi nielegalne interesy w okolicy Dorian
     - Rdestowa Łąka
         - <a id='p_wilhelm_hoffmeier' pattern='Wilhelm* Hoffmeier*,Wilhelm*,Hoffmeier*'>Wilhelm Hoffmeier</a> - niziołek, sołtys
     - Maribor
