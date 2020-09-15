@@ -31,7 +31,7 @@
     - {czarodziejka}Keira zdaje się nie rozumieć albo nie słyszeć pytań o Gauntera, a {mag}Kajetan słyszy w uchu szept - "jeśli nie będę chciał - nikt nie będzie wiedział o moim istnieniu"
     - Kajetan, w chwili jasności umysłu, teraz raczej z zimną, celową furią, niż nieopanowanym gniewiem, pyta, czy cała ta szopka była po to, by go rozwścieczyć. Keira bez zbędnych komentarzy potwierdza jego podejrzenie - {elf}Kajetan przerywa połączenie, kwitując, że jeśli baba już wszytko wie to może się odczepić.
     - Udając się do swojego pokoju, Kajetan mija obejmujących się towarzyszy. Widok ten przypomina mu, że nie tylko znów jesteśmy w Mariborze, ale będzie musiał pomóc Ilanie wywiązać się z jej umowy, odwlekając wizytę w Kerrack do dalej nieustalonej przyszłości. Trzaska drzwiami, testując solidność swojej roboty.
-5. Zmiania - niezmiana planów
+5. Zmiana - niezmiana planów
     - Następnego ranka, nieco spokojniejszy, Kajetan wysyła wiadomości do Leiva, Ivara i Mirny, gdy {druidka}Ilana usiłuje wmówić mu, że powinniśmy jednak wybrać się najpierw do Kerrack, a dopiero stamtąd do Brugge, by dopełnić jej umowy.
     - Kajetan, nieprzekonany, marudzi, że pozbycie się Lloyda metodą, którą {dziewczyna}Ilana wyciągnęła z Lamberta, nie dopełni jej kontraktu. Skovik wydaje się być dziwnie nieobecny podczas tej wymiany zdań i zupełnie jej nie pamięta...
     - Leiv jest zły ale żywy. Piraci zostali wygnani z Kerrack bez ceregieli i żagli, płynąc tylko o wiosłach, a na niedomiar złego, w okolicach Gors Velen złapał ich sztorm. Wielu jego towarzyszy utonęło.
