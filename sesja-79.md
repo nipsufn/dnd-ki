@@ -4,8 +4,9 @@
     - Na rynku stawiana jest szubienica. Po chwili jakiś urzędnik zagaduje monterów i konstrukcja zaczyna być rozmontowywana ku dezaprobacie motłochu, który już się cieszył na darmowe widowisko.
     - Kajetan w tym czasie poprzez sowę sprawdza skarb. Skrzynia ma się dobrze - wykopana czeka sobie wciąż w tym samym miejscu w lesie na szczęśliwego znalazcę.
     - Rozważamy kwestię skrzynki. Skovik odradza przywłaszczanie skarbu tłumacząc, że piraci nie bez powodu zakopują zrabowane kosztowności na jakiś czas - dajmy na to, aż ten, kto mógłby się o nie upomnieć, zapomni o nich na dobre.
-    - Do miasta zjechała 6 konnych. W karczmie, przy piwie i kościach, rozmawiają cichcem o trójce rabusiów. Wygląda na to, że byli oni częścią oddziału lub dezerterami. Jeden z szóstki zostaje nazwany dziesiętnikiem.
+    - Do miasta zjechało 6 konnych, wszyscy w cywilu. W karczmie, przy piwie i kościach, rozmawiają cichcem o trójce rabusiów. Wygląda na to, że byli oni częścią oddziału lub dezerterami. Jeden z szóstki zostaje nazwany dziesiętnikiem. 
     - Dziesiętnik przebąkuje coś o Wyzimie i tym, że omawiana trójka nie odważyłaby się dać nogi z łupem. Zupełnie, jakby w Wyzimie ktoś czekał na zrabowane dobra. Czyżby Skovik miał szósty zmysł?
+    - Czuły słuch {elfa}Kajetan wyłapuje u któregoś nilfgaardzki akcent, kiedy jeden z szóstki klnie na wiadomość o kamracie wziętym po bójce do tutejszego aresztu.
     - Poniechawszy skarbu pakujemy się na wóz Remiego i tyle nas widzieli w Mariborze.
     - Pierwszego wieczoru zatrzymujemy się na noc w drodze. Podczas swojej warty Kajetan robi sobie żarty z Kaspara wysyłając mu złośliwe wiadomości. Próbuje go przekonać żeby ten się powiesił.
     - {Elf}Kajetan otrzymuje także telefon od Stregobora i Istredda, na temat Aen Drisichean - w związku z ich pracą w Kaer Seren. Proszą o dostarczenie fragmentu architektury pra-elfów aby mogli porównać ją ze znaleziskiem z północnej fortecy wiedźminów.
@@ -42,14 +43,14 @@
         - kontrakt Ilany brzmi:
             _"Zobowiązuję się wypełnić pakt zawarty przez Lloyda w zamian za uratowanie mojego ukochanego"_
         - dobrych rzemieślników powinien szukać na wybrzeżu, najlepsze szanse ma z Wyspiarzami
-    - Wziąć unikając konfrontacji z Ilaną, Kajetan wysyła wiadomość do Skovika informując o Lloydzie i ponagla towarzyszy. Ilana pokrótce opowiada Skovikowi kim jest Lloyd i dlaczego muszą jak najszybciej znaleźć się w drodze.
+    - Wciąż unikając konfrontacji z Ilaną, Kajetan wysyła wiadomość do Skovika informując o Lloydzie i ponagla towarzyszy. Ilana pokrótce opowiada Skovikowi kim jest Lloyd i dlaczego muszą jak najszybciej znaleźć się w drodze.
     - Remi nie jest zadowolony z tak wczesnego wyjazdu, jednak widząc powagę sytuacji zgadza się jechać prosto do Gors Velen. Przebąkuje coś, że doliczy nam to do rachunku. 
     - Przejeżdżając przez Rdestową Łąkę Ilana zeskakuje z wozu i odprowadza Alfonsa do domu. Nie mając już nic do stracenia oferuje niziołkowi przejażdżkę na dowolnie wybranym zwierzu. W rezultacie, ku zdziwieniu okolicznych przechodniów, dzik zawozi małego Alfonsa aż do sadu jego dziadka.
     - {Mag}Kajetan z pomocą swojej sowy obserwuje Lloyda i jego pomocników. Nabieramy do nich dystansu, jednak nikt w Dorian nie próbuje zatrzymać żywych trupów spacerujących przez środek miasta. Lloyd wygląda inaczej niż zwykle - z głowy wyrastają mu łodygi, które tarmosi i zrywa, ale te szybko odrastają niewzruszone.
 5. Bliżej niż dalej
     - Wieczorem docieramy do wzgórza, z którego rozpościera się widok na morze i już nie tak odległe Gors Velen. Horyzont przecina ostra sylwetka ruin wieży na Thanedd.
-    - Ilana prosi {elfa}Kajtan na stronę. Rozmawiają o tym co zaszło "Pod Mantikorą", dlaczego Kajetan zachował się w ten, nie inny sposób.
+    - Ilana prosi {elfa}Kajetan na stronę. Rozmawiają o tym co zaszło "Pod Mantikorą", dlaczego Kajetan zachował się w ten, nie inny sposób.
     - Rozmowie przez chwilę przysłuchuje się Skovik nim zostaje zauważony. Prosi {maga}Kajetan by skontaktował się z Leivem. 
-    - Podchmielony {młodszy wyspiarz}Leiv jest w doskonałym humorze, ma "świetny plan" i zaprasza nas na spotkanie w porcie na podgrodziu Gors Velen. Zapytany mówi, że w Kerrack dalej wiszą lity gończe za {najstarszym Drummondem}Skovik.
+    - Podchmielony {młodszy wyspiarz}Leiv jest w doskonałym humorze, ma "świetny plan" i zaprasza nas na spotkanie w porcie na podgrodziu Gors Velen. Zapytany mówi, że w Kerrack dalej wiszą listy gończe za {najstarszym Drummondem}Skovik.
     - Skonsternowany najściem i niespodziewaną prośbą Kajetan zostawia parę, sam wraca do obozu.
-    - Ilana po raz pierwszy widzi morze i jest zachwycona widokiem. Skovik zdaje się też, ale w momencie smutnieje na widok wraków przy Thanedd. {Druidka} stara się poprawić mu jakoś humor odciągając uwagę od przykrej świadomości.
+    - Ilana po raz pierwszy widzi morze i jest zachwycona widokiem. Skovik zdaje się też, ale w momencie smutnieje na widok wraków przy Thanedd. {Druidka}Ilana stara się poprawić mu jakoś humor odciągając uwagę od przykrej świadomości.
