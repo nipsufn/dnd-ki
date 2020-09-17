@@ -9,7 +9,7 @@
     - Czuły słuch {elfa}Kajetan wyłapuje u któregoś nilfgaardzki akcent, kiedy jeden z szóstki klnie na wiadomość o kamracie wziętym po bójce do tutejszego aresztu.
     - Poniechawszy skarbu pakujemy się na wóz Remiego i tyle nas widzieli w Mariborze.
     - Pierwszego wieczoru zatrzymujemy się na noc w drodze. Podczas swojej warty Kajetan robi sobie żarty z Kaspara wysyłając mu złośliwe wiadomości. Próbuje go przekonać żeby ten się powiesił.
-    - {Elf}Kajetan otrzymuje także telefon od Stregobora i Istredda, na temat Aen Drisichean - w związku z ich pracą w Kaer Seren. Proszą o dostarczenie fragmentu architektury pra-elfów aby mogli porównać ją ze znaleziskiem z północnej fortecy wiedźminów.
+    - {Elf}Kajetan otrzymuje także wiadomość od Stregobora i Istredda, na temat Aen Drisichean - w związku z ich pracą w Kaer Seren. Proszą o dostarczenie fragmentu architektury pra-elfów aby mogli porównać ją ze znaleziskiem z północnej fortecy wiedźminów.
     - W zamian za 7 żetonów pozwalających rzucić zaklęcie niekotwiczonej teleportacji oraz materiał na rzeźbę, której potrzebuje do zaklęcia, nad którym pracuje, Kajetan mówi gdzie znajdą fragmenty rzeźb wyniesionych z Craag An i lochów pod Risbergiem.
 2. Powtórka z rozrywki
     - Remi musi załatwić sprawunki w Dorian, zostaniemy tam więc na noc.

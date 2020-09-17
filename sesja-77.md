@@ -32,7 +32,7 @@
         - cytadelę Risberg próbowali wyczyścić najęci przez magów wiedźmini szkoły kota, bez powodzenia; wielu z nich poległo
         - Keira jeży się na pomysł mieszania w sprawę Gaetana; nie mamy pewności, ale chyba boi się, że wiedźmin szkoły kota mógłby chcieć narobić im smrodu ku pamięci poległych kamratów
         - gdy Kajetan wspomina o budowniczych {twierdzy}Risberg, zdaje się, że {czarodziejka}Keira dopiero orientuje się, iż opowieści o Crag An nie były czczymi przechwałkami
-    - {Mag}Kajetan wykonuje jeszcze jeden "telefon", tym razem do Ioli, dowiedzieć się co znalazła w archiwach. Kapłanka natknęła się na dziwny rytuał spisany przez jej poprzedniczkę, Nenneke. Wymaga on jednak aktywnego magicznie kryształu lub kamienia.
+    - {Mag}Kajetan wysyła jeszcze jedną wiadomość, tym razem do Ioli, dowiedzieć się co znalazła w archiwach. Kapłanka natknęła się na dziwny rytuał spisany przez jej poprzedniczkę, Nenneke. Wymaga on jednak aktywnego magicznie kryształu lub kamienia.
     - W międzyczasie, znużona zdaje się bezcelową paplaniną magów, Ilana wybiera się do miasta. U wyjścia z kanałów spotyka mężczyznę łowiącego ryby, więc próbuje zepsuć mu dzień przyzywając szczupaka, który porwałby wędkę.
     - Mężczyzna jest jakiś dziwny - łapie rybę, ale zaraz ją wypuszcza i łowi dalej. Ilana zmienia się więc w pająka i obserwuje typa z daleka.
     - W tym czasie Kajetan kończy swoje rozmowy i wychodzi zaczerpnąć świeżego powietrza. Rozpoznaje w rybaku Pana Lusterko z Brugge i niemal natychmiast na niego naskakuje prawie krzycząc, aby ten się od nas odwalił.
