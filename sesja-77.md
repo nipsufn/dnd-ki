@@ -32,7 +32,7 @@
         - cytadelę [Risberg](#l_gora_cremora) próbowali wyczyścić najęci przez magów wiedźmini szkoły kota, bez powodzenia; wielu z nich poległo
         - [Keira](#p_keira_metz) jeży się na pomysł mieszania w sprawę [Gaetana](#p_gaetan); nie mamy pewności, ale chyba boi się, że wiedźmin szkoły kota mógłby chcieć narobić im smrodu ku pamięci poległych kamratów
         - gdy [Kajetan](#g_kajetan) wspomina o budowniczych [twierdzy](#l_gora_cremora), zdaje się, że [czarodziejka](#p_keira_metz) dopiero orientuje się, iż opowieści o Crag An nie były czczymi przechwałkami
-    - [Mag](#g_kajetan) wykonuje jeszcze jeden "telefon", tym razem do [Ioli](#p_matka_iola), dowiedzieć się co znalazła w archiwach. Kapłanka natknęła się na dziwny rytuał spisany przez jej poprzedniczkę, Nenneke. Wymaga on jednak aktywnego magicznie kryształu lub kamienia.
+    - [Mag](#g_kajetan) wysyła jeszcze jedną wiadomość, tym razem do [Ioli](#p_matka_iola), dowiedzieć się co znalazła w archiwach. Kapłanka natknęła się na dziwny rytuał spisany przez jej poprzedniczkę, Nenneke. Wymaga on jednak aktywnego magicznie kryształu lub kamienia.
     - W międzyczasie, znużona zdaje się bezcelową paplaniną magów, [Ilana](#g_ilana) wybiera się do miasta. U wyjścia z kanałów spotyka mężczyznę łowiącego ryby, więc próbuje zepsuć mu dzień przyzywając szczupaka, który porwałby wędkę.
     - Mężczyzna jest jakiś dziwny - łapie rybę, ale zaraz ją wypuszcza i łowi dalej. [Ilana](#g_ilana) zmienia się więc w pająka i obserwuje typa z daleka.
     - W tym czasie [Kajetan](#g_kajetan) kończy swoje rozmowy i wychodzi zaczerpnąć świeżego powietrza. Rozpoznaje w rybaku Pana Lusterko z [Brugge](#l_m_brugge) i niemal natychmiast na niego naskakuje prawie krzycząc, aby ten się od nas odwalił.

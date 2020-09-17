@@ -9,7 +9,7 @@
     - Czuły słuch [elfa](#g_kajetan) wyłapuje u któregoś nilfgaardzki akcent, kiedy jeden z szóstki klnie na wiadomość o kamracie wziętym po bójce do tutejszego aresztu.
     - Poniechawszy skarbu pakujemy się na wóz [Remiego](#p_remi) i tyle nas widzieli w [Mariborze](#l_maribor).
     - Pierwszego wieczoru zatrzymujemy się na noc w drodze. Podczas swojej warty [Kajetan](#g_kajetan) robi sobie żarty z [Kaspara](#p_kaspar) wysyłając mu złośliwe wiadomości. Próbuje go przekonać żeby ten się powiesił.
-    - [Elf](#g_kajetan) otrzymuje także telefon od [Stregobora](#p_stregobor) i [Istredda](#p_istredd), na temat [Aen Drisichean](#r_aen_drisichean) - w związku z ich pracą w [Kaer Seren](#l_kaer_seren). Proszą o dostarczenie fragmentu architektury pra-elfów aby mogli porównać ją ze znaleziskiem z północnej fortecy wiedźminów.
+    - [Elf](#g_kajetan) otrzymuje także wiadomość od [Stregobora](#p_stregobor) i [Istredda](#p_istredd), na temat [Aen Drisichean](#r_aen_drisichean) - w związku z ich pracą w [Kaer Seren](#l_kaer_seren). Proszą o dostarczenie fragmentu architektury pra-elfów aby mogli porównać ją ze znaleziskiem z północnej fortecy wiedźminów.
     - W zamian za 7 żetonów pozwalających rzucić zaklęcie niekotwiczonej teleportacji oraz materiał na rzeźbę, której potrzebuje do zaklęcia, nad którym pracuje, [Kajetan](#g_kajetan) mówi gdzie znajdą fragmenty rzeźb wyniesionych z [Craag An](#l_craag_an) i lochów pod [Risbergiem](#l_gora_cremora).
 2. Powtórka z rozrywki
     - [Remi](#p_remi) musi załatwić sprawunki w [Dorian](#l_dorian), zostaniemy tam więc na noc.
