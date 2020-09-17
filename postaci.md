@@ -297,11 +297,13 @@
         - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje wożąc płody roli do innych miast
         - <a id='p_dirguard_giancardi' pattern='Dirgurd* Giancardi*,Dirgurd*,Giandardi*'>Dirgurd Giancardi</a> - krasnolud, bankier
         - <a id='p_kaspian_de_ruyter' pattern='Kaspian*de*Ruyter*,Kaspian*, de*Ruyter*,De*Ruyter,Inżynier*'>Kaspian de Ruyter</a> - pseudonim: Inżynier
-        - człowiek
-        - studiował na Oxenfurcie
-        - prowadzi nielegalne interesy w okolicy Dorian
+            - człowiek
+            - studiował na Oxenfurcie
+            - prowadzi nielegalne interesy w okolicy Dorian
     - Rdestowa Łąka
         - <a id='p_wilhelm_hoffmeier' pattern='Wilhelm* Hoffmeier*,Wilhelm*,Hoffmeier*'>Wilhelm Hoffmeier</a> - niziołek, sołtys
+        - <a id='p_alfons' pattern='Alfons* Biberveldt*,Alfons*'>Alfons Biberveldt</a> - niziołek, sierota
+            - wuj: Andy Biberveldt
     - Maribor
         - <a id='p_kaspar' pattern='Kaspar*'>_Tymaczasowy Burmistrz Nowobudowanego [Mariboru](Maribor) Z Łaski Regenta Dijkstry Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](Radowid) Błogisławiony Imć Komendant_ Kaspar</a>
             - współpracownik Larsa
@@ -346,7 +348,7 @@
     - <a id='p_karoll' pattern='Madame Karoll,Karoll'>Madame Karoll</a>
         - prowadzi(ła?) obwoźny burdel na granicach z Nilfgaardem, zarabiając na utrzymanie Wiewiórek
         - Enid, jako jedna z jej byłych "pracownic", pała doń rządzą zemsty
-    - <a id='p_andy' pattern='Andy*,Andi*,Andy*'>Andy Biberveldt</a>
+    - <a id='p_andy' pattern='Andy* Biberveldt,Andy*,Andi*,Andy*'>Andy Biberveldt</a>
         - niziołek, szukał dziewczyn i złota Karoll
         - przewiózł nas z Reganem pod Wyzimę
     - <a id='p_regan' pattern='Regan*'>Regan Breckenriggs</a>

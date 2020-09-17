@@ -120,7 +120,7 @@
         - chatka, jaskinia i krąg żywiołu ziemi
             - zamieszkują go Echinopsy i Archeospor
     - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
-        - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Aretuz*'>Wyspa Thanedd</a>
+        - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Aretuz*,Thanedd'>Wyspa Thanedd</a>
             zniszczona szkoła czarownic, Aretuza
     - <a id='l_gora_cremora' pattern='[Gg]ór* [CK]remor*,Risberg*'>Góra Cremora</a>
         - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
@@ -129,9 +129,9 @@
         - kompleks składał się z twierdzy postawionej przez Ortolana oraz odrestaurowanych przez niego lochów, prawdopodobnie zbudowanych przez Aen Drisichen i służących Zielonym Rycerzom jako "Twierdza na Północy"
         - obecnie bezpieczeństwem i zapieczętowaniem kompleksu zajmuje się Stucco Zangenis
     - <a id='l_dorian' pattern='Dorian'>Dorian</a>
-        - <a id='l_pod_mantikora' pattern='Pod Mantikor*,Mantikor*'>Pod Mantikorą</a>
+        - <a id='l_pod_mantikora' pattern='Mantikor*,Pod Mantikor*'>Pod Mantikorą</a>
             - lokalne centrum walk na pięści
-        - <a id='l_ogryzek' pattern='Ogryz*'>Ogryzek</a>
+        - <a id='l_ogryzek' pattern='Pod Ogryz*,Ogryz*'>Ogryzek</a>
             - karczma, mało brakuje by nazwać ją podłą
         - <a id='l_zloty_sad' pattern='Złoty* Sad*'>Złoty sad</a>
             - luksusowa karczma, kawałek za murami miasta
