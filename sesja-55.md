@@ -15,7 +15,7 @@
     - [Ilana](#g_ilana) wysyła przed snem wiadomość do wioski, do [Skovika](#p_skovik). Dziewczyna obiecuje sobie codziennie wysłać choć jedną wiadomość z podsumowaniem dnia i informacją o ich aktualnym położeniu. Wysławszy posłańca idzie spać bredząc pod nosem coś o potrzebie udania się do kościoła w [Brugge](#l_m_brugge).
 3. Do [Brugge](#l_m_brugge)
     - Późnym wieczorem docieramy do podgrodzia. W oczy od razu rzuca nam się spora liczba patroli i ogólne tłumy ludzi. Słuchając plotek dowiadujemy się, że to za sprawą starcia zbrojnych na północy, u żródła [Chotli](#l_chotla).
-    - Zatrzymujemy się "U Haliny". W knajpie panuje duży ruch, spać można co najwyżej w stajni, ale jadło podadzą.
+    - Zatrzymujemy się "[U Haliny](#l_u_haliny)". W knajpie panuje duży ruch, spać można co najwyżej w stajni, ale jadło podadzą.
     - [Ilana](#g_ilana) widzi przez nowowstawione okno kogoś łudząco podobnego do [Skovika](#p_skovik). Druidka wychodzi na ulicę, ale po mężczyźnie ani śladu. Szukając śladów zostaje niemal stratowana przez pędzącego jeźdźca.
     - [Kajetan](#g_kajetan) zamawia piwo i przysiada się do wolnego stolika. Rozmawia z siedzącymi przy nim strażnikami:
             - magia w [Nilfgaardzie](#l_nilfgaard) jest legalna tylko dla magów zrzeszonych w "gildii"

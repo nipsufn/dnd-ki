@@ -75,7 +75,7 @@
     - [Kajetan](#g_kajetan) rozmawia jeszcze z [Leivem](#p_leiv) i [Mirną](#p_mirna):
         - piraci są przez kogoś opłacani aby napadali na te właśnie statki, na których zależy [druidce](#p_mirna)
         - [Leiv](#p_leiv) mówi, że zlecenie na te konkretne statki nie pochodzi jednak od [Viraxasa](#p_ksiaze_viraxas) - on ma osobną listę statków
-        - w [Kerack](#l_kerack) podobno mieszkała kiedyś czarodziejka [Lytta "Koral" Neyd](#p_koral)
+        - w [Kerack](#l_kerack) podobno mieszkała kiedyś czarodziejka [Lytta "[Koral](#p_koral)" Neyd](#p_koral)
         - [Kerack](#l_kerack) jest kolebką wszelkiego piractwa i hultajstwa
     - Druid przybywa akurat gdy [elf](#g_kajetan) dowiaduje się od [dziewczyny](#p_mirna) o kredycie. <a title="Starsi Panowie Dwaj">Starsi panowie</a> decydują się skorzystać z sanatorium narzekając na młodzież.
     - [Ilana](#g_ilana) i [Skovik](#p_skovik) postanawiają nieco zakłócić nocny spokój uzdrowiska czułym pożegnaniem.

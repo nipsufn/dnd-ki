@@ -2,23 +2,23 @@
 1. W góry, za potworem
     - Ruszamy za potworem zgodnie ze wskazówkami elfki. W drodze mija nas kolumna 4 wozów obładowanych uzbrojonymi ludźmi w cywilu.
     - Całość zdaje się eskortować jeden z wozów, nieco bogatszy. Na drzwiach karety błyszczy w słońcu złoto-srebrny, bogaty herb z literą G.
-    - W międzyczasie dogania nas Alfons. Szczyl chce nam towarzyszyć. Mówi, że na zachód jest zasypana kopalnia, a bardziej na północ - osada drwali.
+    - W międzyczasie dogania nas [Alfons](#p_alfons). Szczyl chce nam towarzyszyć. Mówi, że na zachód jest zasypana kopalnia, a bardziej na północ - osada drwali.
     - U podnóża gór piętrzy się sporo błyskających bielą kamiennych ostańców. W jeden z nich ktoś wbudował kamienną więżę, jakby komin. Pod drzwiami do konstrukcji ktoś wartuje.
-    - [Ilana](#g_ilana) i Alfons zakradają się bliżej aby przyjrzeć się dziwnej konstrukcji. [Druidka](#g_ilana) zauważa dwójkę ludzi - jakiegoś typa z kuszą i znajomego nam oprycha-podżegacza z [Dorian](#l_dorian).
+    - [Ilana](#g_ilana) i [Alfons](#p_alfons) zakradają się bliżej aby przyjrzeć się dziwnej konstrukcji. [Druidka](#g_ilana) zauważa dwójkę ludzi - jakiegoś typa z kuszą i znajomego nam oprycha-podżegacza z [Dorian](#l_dorian).
     - Na północny wschód od wieży jest druga, identyczna, ale częściowo zawalona. Na południowy zachód zaś zauważamy zrujnowaną osadę.
-    - [Ilana](#g_ilana) odsyła Alfonsa do reszty, a sama, zmieniona w rysia, wspina się na wieżę sprawdzić co się tam święci. Na szczycie komina leży wartownik z kuszą i mierzy do stojących kawałek dalej [Kajetana](#g_kajetan) i [Skovika](#p_skovik).
+    - [Ilana](#g_ilana) odsyła [Alfonsa](#p_alfons) do reszty, a sama, zmieniona w rysia, wspina się na wieżę sprawdzić co się tam święci. Na szczycie komina leży wartownik z kuszą i mierzy do stojących kawałek dalej [Kajetana](#g_kajetan) i [Skovika](#p_skovik).
     - Skofundowany bliskim spotkaniem z rysiem mężczyzna na chwilę odkłada kuszę i zaczyna sięgać po jakieś ostrze. Ryś jednak odwraca się na pięcie i odchodzi, nie chcąc prowokować ataku.
     - Wieża, czy też komin, zdaje się mieć zamontowaną swego rodzaje drabinę w swoim wnętrzu, po której wartownik schodzi wgłąb tunelu, odpuszczając sobie strzelanie do drużyny.
     - Zbieramy się w kupę i idziemy rozbić obóz na noc w zrujnowanej osadzie. Zamiast szukać potwora poczekamy, aż sam nas znajdzie. Osiołki zostawiamy w bezpiecznej odległości, z dala od obozu żeby mieć na czym wracać.
 2. Nocne polowanie
     - [Ilana](#g_ilana) i [Skovik](#p_skovik) idą poszukać kolacji kiedy reszta rozstawia obóz. W lesie natykają się na spore ślady stóp i przewrócone drzewo. Wygląda to jakby bestia zastawiła pułapkę na dziki. Resztki jednego z nich leżą obok drzewa, z łbem rozgniecionym niczym arbuz.
     - W okolicy jest sporo śladów zwierzyny, ale las pozostaje głuchy i martwy, jakby akurat żadnej nie było w pobliżu.
-    - Przy ognisku [Ilana](#g_ilana) wypytuje Alfonsa o jego historię. Niziołek zdaje się nie mieć żadnej bliższej rodziny - wychowuje go dziadek [Andyego](#p_andy), który to nawiasem jest bratem jego matki. Temat wyraźnie jest dla niego niewygodny, chłopak unika wdawania się w szczegóły, a [Ilana](#g_ilana) taktownie nie drąży.
+    - Przy ognisku [Ilana](#g_ilana) wypytuje [Alfonsa](#p_alfons) o jego historię. Niziołek zdaje się nie mieć żadnej bliższej rodziny - wychowuje go dziadek [Andyego](#p_andy), który to nawiasem jest bratem jego matki. Temat wyraźnie jest dla niego niewygodny, chłopak unika wdawania się w szczegóły, a [Ilana](#g_ilana) taktownie nie drąży.
     - Bez ciepłej kolacji, aczkolwiek lekko pokrzepieni miodulą, wystawiamy warty. W nocy zrywa się burza, ciągnąca od morza, być może gdzieś z okolic Thanned, gdzie zdaje się uderzył pierwszy grom.
     - Na swojej warcie [Kajetan](#g_kajetan) dostrzega ruch w gałęziach i tak mocno szarpanych wiatrem. Do naszego obozu podchodzi bestia - wyliniały, nader muskularny niedźwiedź o przerośniętych uszach i dziwnym, zielonkawo sinym kolorze skóry. Węszy jakby wdychał ozon gromadzący się w powietrzu.
     - [Ilana](#g_ilana) zostaje obudzona, więc uskutecznia przeszpiegi. W tym czasie [Kajetan](#g_kajetan) przygotowuje zaklęcie. [Druidka](#g_ilana) ma niejasne przeczucie, że potwór ciągnie do magii. Rzuca mu jedną z muszli zabranych z [Col Serrai](#l_col_serrai). Bestia wydaje się być zaintrygowana, ale połyka błyskotkę.
     - [Ilana](#g_ilana) próbuje nawoływać do bestii w różnych językach, ale ta zdaje się na żaden jakoś specjalnie nie reagować. Wreszcie podchodzi do bombla i próbuje dosłownie zlizać z niego magię.
-    - Budzimy Alfonsa, który jest śmiertelnie przerażony tymi odwiedzinami i podwójnie skofundowany tym, co się właśnie dookoła niego wyprawia. Młodzik otrzymuje polecenie aby czekać w gotowości i na dany znak biec ile sił w nogach do najbliższego drzewa, kiedy my zajmiemy potwora.
+    - Budzimy [Alfonsa](#p_alfons), który jest śmiertelnie przerażony tymi odwiedzinami i podwójnie skofundowany tym, co się właśnie dookoła niego wyprawia. Młodzik otrzymuje polecenie aby czekać w gotowości i na dany znak biec ile sił w nogach do najbliższego drzewa, kiedy my zajmiemy potwora.
 3. Walka ze strażnikiem
     - [Kajetan](#g_kajetan) kończy zaklęcie przywołania ognistego krasnoluda, kiedy [Ilana](#g_ilana), przemieniona w niedźwiedzia, wychodzi ze schronienia i próbuje ściągnąć na siebie uwagę bestii. Dzieje się coś nieopisanego - potwór szarżuje, jakby chciał zaatakować, po czym przystaje i liże [niedźwiedzia](#g_ilana) - zupełnie jak wcześniej bombel.
     - Niestety [druidka](#g_ilana) nie ma czasu na dalsze eksperymenty, bo zza jej pleców wytacza się reszta, atakując potwora tym co mają na podorędziu - [Skovik](#p_skovik) swoją bronią, a [Kajetan](#g_kajetan) -  z dystansu, magią, posiłkując się ognistym przyzwańcem.
@@ -27,7 +27,7 @@
 4. Pogoń do leża
     - [Ilana](#g_ilana), nadal w formie niedźwiedzia, puszcza się w pogoń za potworem. Coś jej mówi, że ta bestia może być z nią w jakiś sposób związana. Może rozpoznała w niej swój pierwiastek i dlatego nie chciała atakować [dzieczyny](#g_ilana)?
     - [Kajetan](#g_kajetan), wyraźnie niezadowolony z obrotu walki, przywołuje do siebie niziołka i tworzy dla pozostałej dwójki bąbelek. [Skovik](#p_skovik), nie chcąc czekać, biegnie w ślad za [Ilaną](#g_ilana) aby upewnić się, że [druidka](#g_ilana) jest cała i zdrowa.
-    - [Mag](#g_kajetan) tymczasem wysyła za [Skovikiem](#p_skovik) swoją sowę i - nie bacząc już na obecność Alfonsa - śledzi sytuację oczami ptaka.
+    - [Mag](#g_kajetan) tymczasem wysyła za [Skovikiem](#p_skovik) swoją sowę i - nie bacząc już na obecność [Alfonsa](#p_alfons) - śledzi sytuację oczami ptaka.
     - [Ilanie](#g_ilana) udaje się nie zgubić potwora, ale ten wpełza do zrujnowanej wieży i przykrywa wejście wielkim, ciężkim głazem. 
     - {Niedźwiedź-Ilana}Ilana chwilę mocuje się ze skałą, ale nie mogąc go odwalić w pojedynkę, rozgląda się za inną drogą pod ziemię. Pod osuniętą ziemią znajduje szczelinę w skale, więc zamienia się w borsuka i przeciska do środka.
     - Wewnątrz panuje mrok. Tunel wypełnia zapach stęchłej ziemi, któremu wtóruje kwaśny smród rozkładu i krwi. [Druidka](#g_ilana) penetruje tunel w poszukiwaniu bestii. Natyka się przy tym na dwa rozdroża.
@@ -51,7 +51,7 @@
     - [Stucco](#p_zangenis) rzuca jeszcze w potwora jakąś wiązanką w niezrozumiałym dla [Ilany](#g_ilana) języku. Bestia syczy i usuwa się w mrok pokoju, zabierając ze sobą skamieniałego [wyspiarza](#p_skovik).
     - [Druidka](#g_ilana) stoi jeszcze przez chwilę skołowana, ale bardzo szybko niedowierzanie ustępuje białej furii. [Ilana](#g_ilana) jest wściekła na [maga](#p_zangenis) - obwinia go o wszystko, co ich dzisiaj spotkało, zarzucając niekompetencję jego konfraterii w sprzątaniu swojego bałaganu związanego z niesławnym laboratorium.
     - [Stucco](#p_zangenis) nie broni się jak na maga przystało, lecz częściowo przyznaje do błędu. Oferuje pomoc w odzyskaniu "przyjaciela".
-    - Obserwujący wszystko [Kajetan](#g_kajetan) wysyła do [maga](#p_zangenis) mentalną wiadomość. W odpowiedzi zostaje nazwany "klakierem [Keiry](#p_keira_metz)", co prowokuje wybuch złości i donos do [sponsorki w Kapitule](#p_keira_metz). [Elf](#g_kajetan) w afekcie zwija obóz i przegania ostro niczemu winnego Alfonsa do domu. Sam zaś przywołuje swoją sowę, której każe się prowadzić do złamanej wieży.
+    - Obserwujący wszystko [Kajetan](#g_kajetan) wysyła do [maga](#p_zangenis) mentalną wiadomość. W odpowiedzi zostaje nazwany "klakierem [Keiry](#p_keira_metz)", co prowokuje wybuch złości i donos do [sponsorki w Kapitule](#p_keira_metz). [Elf](#g_kajetan) w afekcie zwija obóz i przegania ostro niczemu winnego [Alfonsa](#p_alfons) do domu. Sam zaś przywołuje swoją sowę, której każe się prowadzić do złamanej wieży.
     - W rozmowie ze [starcem](#p_zangenis) dowiadujemy się, że:
         - nasz rozmówca jest jedynym ocalałym z [Risbergu](#l_gora_cremora) i jednocześnie jego kustoszem
         - cytadela była jedną z trzech oryginalnych szkół magii na Północy

@@ -166,7 +166,7 @@
         - <a id='p_de_pons' pattern='De Pons*,Pons*'>Lord De Pons</a> - człowiek; szara eminencja, głowa (nie da się tego udowodnić) Redańskich sił specjalnych w [Brugge](#l_m_brugge)
         - <a id='p_skaags' pattern='Skaags*'>✝Skaags</a> - człowiek, sierżant; pracuje dla specjalnych sił Redańskich, stracony w [Brugge](#l_m_brugge) po potyczce nad [Chotlą](#l_chotla)
         - <a id='p_lloyd' pattern='Lloyd*'>✝ Lloyd</a> - człowiek, strażnik; uciekliśmy mu w [Medownej](#l_medowna), bezpodstawnie wierzy że wyrżnęliśmy całą wieś, nadużywał nadanego mu autorytetu. Wrócił jako zjawa by nas gnębić
-        - <a id='p_wilpost' pattern='Wilpos*'>Wilpost</a> - gnom; alchemik; pędzi "Izzotonik"
+        - <a id='p_wilpost' pattern='Wilpos*'>Wilpost</a> - gnom; alchemik; pędzi "[Izzotonik](#r_izzotonik)"
     - [Dillingen](#l_dillingen)
         - <a id='p_zielarz'>Regis</a><a id='p_regis' pattern='Regis*'></a> - ?; zielarz;
             Destylował nalewkę z Mandragory
@@ -193,7 +193,7 @@
     - <a id='p_rodzina_harevard' pattern='Harevard'>R. Harevard</a> - ; n/a;
         rodzina władająca [Ellander](#l_ellander) przed Niilfgaardczykami
     - <a id='p_viggo_regner' pattern='Vigg*,Vigg* Regner*'>Viggo Regner</a> - ; alchemik/mag;
-        Prowadzi sklep alchemiczny/zielarski "Fiolka Zdrowia", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
+        Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
         ? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
     - <a id='p_lukrecja_schattenwort' pattern='Lukrecj*,Lukrecj* Schattenwort,Janus*'>[Lukrecja](Lukrecja) aka Janus Schattenwort</a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem [Janus](#p_lukrecja_schattenwort);
         [Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
@@ -225,13 +225,13 @@
         mieszka na podgrodziu;
         [Otto](#p_otto_kranmer) [Kranmer](#p_otto_kranmer): pracodawca; [Hans](#p_hans_kranmer) [Kranmer](#p_otto_kranmer): pracodawca
     - <a id='p_maria' pattern='Maria,Marii,Marię'>Maria</a> - półelf; gospodarz;
-        prowadzi gospodę "Różyczka" z mężem;
+        prowadzi gospodę "[Różyczka](#l_rozyczka)" z mężem;
         [Walerian](#p_walerian): mąż, partner
     - <a id='p_walerian' pattern='Walerian*'>Walerian</a> - półelf; gospodarz;
-        prowadzi gospodę "Różyczka" z żoną;
+        prowadzi gospodę "[Różyczka](#l_rozyczka)" z żoną;
         [Maria](#p_maria): żona, partner
     - <a id='p_mlody_kaplan' pattern='Undyr*'>Młody Kapłan Undyr</a> - ; kapłan;
-        kapłan Wiecznego Ognia, chce zastąpić głównego kapłana [Ellander](#l_ellander), kombinuje przeciwko nieludziom (podburzanie robotników, przedstawienie w "Różyczce");
+        kapłan Wiecznego Ognia, chce zastąpić głównego kapłana [Ellander](#l_ellander), kombinuje przeciwko nieludziom (podburzanie robotników, przedstawienie w "[Różyczce](#l_rozyczka)");
         [Kapłan Matias](#p_kaplan_matias): przełożony
     - <a id='p_kaplan_matias' pattern='Kapłan* Matias*,Matias*'>✝ Kapłan Matias</a> - ; kapłan;
         główny kapłan Wiecznego Ognia w [Ellander](#l_ellander), mocno starszy; umarł przed Solstitum zimowym pierwszego roku po Zetknięciu Sfer
@@ -297,11 +297,13 @@
         - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje wożąc płody roli do innych miast
         - <a id='p_dirguard_giancardi' pattern='Dirgurd* Giancardi*,Dirgurd*,Giandardi*'>Dirgurd Giancardi</a> - krasnolud, bankier
         - <a id='p_kaspian_de_ruyter' pattern='Kaspian*de*Ruyter*,Kaspian*, de*Ruyter*,De*Ruyter,Inżynier*'>Kaspian de Ruyter</a> - pseudonim: [Inżynier](#p_kaspian_de_ruyter)
-        - człowiek
-        - studiował na [Oxenfurcie](#l_oxenfurt)
-        - prowadzi nielegalne interesy w okolicy [Dorian](#l_dorian)
+            - człowiek
+            - studiował na [Oxenfurcie](#l_oxenfurt)
+            - prowadzi nielegalne interesy w okolicy [Dorian](#l_dorian)
     - [Rdestowa Łąka](#l_rdestowa_laka)
         - <a id='p_wilhelm_hoffmeier' pattern='Wilhelm* Hoffmeier*,Wilhelm*,Hoffmeier*'>Wilhelm Hoffmeier</a> - niziołek, sołtys
+        - <a id='p_alfons' pattern='Alfons* Biberveldt*,Alfons*'>Alfons Biberveldt</a> - niziołek, sierota
+            - wuj: [Andy Biberveldt](#p_andy)
     - [Maribor](#l_maribor)
         - <a id='p_kaspar' pattern='Kaspar*'>_Tymaczasowy Burmistrz Nowobudowanego [Mariboru](Maribor) Z Łaski Regenta Dijkstry Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wyskokości [Radowida](Radowid) Błogisławiony Imć Komendant_ Kaspar</a>
             - współpracownik [Larsa](#p_lars)
@@ -346,7 +348,7 @@
     - <a id='p_karoll' pattern='Madame Karoll,Karoll'>Madame Karoll</a>
         - prowadzi(ła?) obwoźny burdel na granicach z [Nilfgaardem](#l_nilfgaard), zarabiając na utrzymanie Wiewiórek
         - [Enid](#p_enid), jako jedna z jej byłych "pracownic", pała doń rządzą zemsty
-    - <a id='p_andy' pattern='Andy*,Andi*,Andy*'>Andy Biberveldt</a>
+    - <a id='p_andy' pattern='Andy* Biberveldt,Andy*,Andi*,Andy*'>Andy Biberveldt</a>
         - niziołek, szukał dziewczyn i złota [Karoll](#p_karoll)
         - przewiózł nas z [Reganem](#p_regan) pod [Wyzimę](#l_wyzima)
     - <a id='p_regan' pattern='Regan*'>Regan Breckenriggs</a>

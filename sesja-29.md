@@ -42,7 +42,7 @@
     - [Kajetan](#g_kajetan) znów słyszy kobiecy głos:
         - _"Mogę Ci pomóc"_
         - _"Pokażę Ci magię o jakiej nie śniłeś, ze światów, o których istnieniu nie wiesz"_
-        - _"Galawain jest przeciwko wam, nie pozwoli wam wejść do [Craag An](#l_craag_an)"_
+        - _"[Galawain](#p_galawain) jest przeciwko wam, nie pozwoli wam wejść do [Craag An](#l_craag_an)"_
         - [elf](#g_kajetan) kwituje te wiadomości _"za mało, zbyt ogólnie, zbyt późno"_
     - Zaklęcie światła dziennego nie jest miłe atakującemu widmu, które z kłębów mgły materializuje się wewnątrz magicznego bąbla, jednak nie robi mu większej krzywdy.
     - Po chwili wyczerpującej walki, [mag](#g_kajetan) zauważa, że zaczyna świtać. Walczące duchy zniknęły, a mgła utrzymuje się zaledwie wewnątrz magicznego schronienia. Opuszcza jego obszar, kończąc ochronne zaklęcie

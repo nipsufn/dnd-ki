@@ -66,7 +66,7 @@
 3. Akcja telekomunikacja
     - Zanim [Kajetan](#g_kajetan) zdąży uspokoić się po chamskim zachowaniu [Dijkstry](#p_dijkstra) i zacznie zadawać pytania o [Skovika](#p_skovik), [Ilana](#g_ilana) przypomina [elfowi](#g_kajetan), że powinien poinformować [Ignę](#p_igna) o tym co zaszło, i wyrusza samodzielnie odebrać [wyspiarza](#p_skovik) z lasu. Zabiera ze sobą jeden z kamieni komunikacyjnych.
     - [Bras](#p_bras) też wychodzi, gdy [mag](#g_kajetan) zaczyna rozsyłać wiadomości:
-        - do [Igny](#p_igna): _"Dijkstra dotarł do [Kapituły](#r_kapitula) w trzy dni, i jego wystąpienie jest w centrum uwagi. [Dusek](#p_dusek) chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji [Myrtona](#p_lord_myrton)"_
+        - do [Igny](#p_igna): _"[Dijkstra](#p_dijkstra) dotarł do [Kapituły](#r_kapitula) w trzy dni, i jego wystąpienie jest w centrum uwagi. [Dusek](#p_dusek) chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji [Myrtona](#p_lord_myrton)"_
         - z [Leivem](#p_leiv): _"Kto jeszcze steruje [Ragnarem](#p_ragnar), bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się [Cerys](#p_cerys), dał mu magiczne urządzenie do śledzenia statków które ma napadać."_
         - z Radcliffem dzieli się wiadomościami od [Leiva](#p_leiv) o [Ragnarze](#p_ragnar); w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w Kerrack
         - z [Stregoborem](#p_stregobor):

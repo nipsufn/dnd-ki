@@ -13,12 +13,12 @@
     - Na polanie unosi się specyficzny, chemiczny zapach.
     - [Kajetan](#g_kajetan) w krzakach na obrzeżu polany znajduje trawę wygniecioną od ciężkich skrzyń i trochę rozsypanej soli. Po samych skrzyniach ani śladu, jakby uleciały z miejsca, w którym stały.
     - W międzyczasie na polanie zjawia się niziołcza ekipa dochodzeniowa. Wnoszą niewiele nowego do sprawy, ciężko im też uwierzyć, że ktoś mógłby pozorować potwora i szkodzić własnej wiosce.
-    - Zostaje nam wskazany do pomocy jeden z młodszych Biberveldtów, Alfons. Młodziak nosi za duży hełm po wujku-weteranie, naszym znajomku [Andym](#p_andy).
+    - Zostaje nam wskazany do pomocy jeden z młodszych Biberveldtów, [Alfons](#p_alfons). Młodziak nosi za duży hełm po wujku-weteranie, naszym znajomku [Andym](#p_andy).
     - Po odejściu niziołków badamy okolicę z pomocą sówki [Kajetana](#g_kajetan). Natykamy się na duże, czerwone pióro przywiązane do drzewa. 
     - Pod drzewem, pod gęstym runem, oprócz wilczego dołu znajdujemy ukryte pod deskami wejście do tunelu, który zdaje się prowadzić do jakiejś jaskini.
 3. Polowanie na potwora, podejście pierwsze
     - Wracamy do folwarku. Pożyczamy konia od sołtysa i - podobnie jak poprzednicy - wieczorem zasadzamy się na potwora w sadzie niziołków, nieopodal jeziora. Rozkładamy "obóz", wystawiając na zachętę juki wypchane sianem i czekamy na wizytę bestii.
-    - Alfons zabawia nas opowieścią o tym jaki widok zastał nad ranem po poprzedniej ekipie łowiącej potwora. Ciała zostały rozwleczone na drzewach, a jedno z nich utworzyło jelitami całkiem ciekawą girlandę.
+    - [Alfons](#p_alfons) zabawia nas opowieścią o tym jaki widok zastał nad ranem po poprzedniej ekipie łowiącej potwora. Ciała zostały rozwleczone na drzewach, a jedno z nich utworzyło jelitami całkiem ciekawą girlandę.
     - Młodzian obiecuje przynieść nam śniadanie jeśli jeszcze będziemy rano dychać.
     - W namiocie [Kajetan](#g_kajetan) tworzy swoje bezpieczne, magiczne schronienie, na wszelki wypadek gdyby potwór okazał się prawdziwy lub szczególnie niebezpieczny.
     - Noc mija spokojnie, oprócz dzików nic nas nie nawiedza. W okolicy lata sporo dziwnych, jaskrawoczerwonych robaczków.

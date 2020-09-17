@@ -39,7 +39,7 @@
     - W oddali widzimy łódkę wiozącą pasażera z olbrzymim plecakiem. Czyżby [Grimma](#p_grimma) zbierał swoje grzyby na bagnach?
     - Podróż łódką nie trwa długo. Na lądzie mija nas dwójka "fachowców" od potworów, elfka i jakiś osiłek, za którymi - oprócz alkoholu - ciągnie się duszący smród kadzidła.
     - [Łowczy](#p_feliks) Królewski, [Feliks](#p_feliks) z [Dorian](#l_dorian), oferuje 25GP za ubitą oszalałą [kikimorę](#b_kikimora), ale też 750GP za permanentne rozwiązanie problemu.
-    - Witając się [Kajetan](#g_kajetan) przedstawia [druidkę](#g_ilana) jako _"Ilanę Brokilońską"_, co spotyka się z lekceważącym parsknięciem niedowierzania ze strony [Łowczego](#p_feliks).
+    - Witając się [Kajetan](#g_kajetan) przedstawia [druidkę](#g_ilana) jako _"[Ilanę](#g_ilana) Brokilońską"_, co spotyka się z lekceważącym parsknięciem niedowierzania ze strony [Łowczego](#p_feliks).
     - Dowiadujemy się, że [Kikimory](#b_kikimora) ciągną od południa, jakby przed czymś uciekały. [Wioska](#l_wioska) cegielników została opuszczona, bliższa, drwali, jeszcze się ponoć trzyma.
     - wiedźmin który miał się nimi zająć, przerwał negocjacje w sprawie ceny nagle znikając niecały miesiąc temu (pewnikiem był to [Gaetan](#p_gaetan))
     - Pomoc ze szkicem mapy bagien też może zostać wynagrodzona - wszelkie stare dokumenty zaginęły w wojnie, a teren przydałoby się jednak rozrysować.
@@ -47,7 +47,7 @@
     - [Feliks](#p_feliks) słyszał o rzezi wiosek przy [górze Cremora](#l_gora_cremora). W [Dorian](#l_dorian) było o tym dosyć głośno przez chwilę. Podobno wysłano tam nawet kilku wiedźminów do zbadania sprawy. Ci z kolei rzekomo natknęli się na ślady wilkołaka. Było to jakieś dwadzieścia parę lat temu.
     - Snując przypuszczenia na temat nagłej agresji [kikimor](#b_kikimora) [Kajetan](#g_kajetan) wypala jakąś głupotę związaną z [Duskiem](#p_dusek), w skutek czego [Feliks](#p_feliks) zaczyna łypać na nas podejrzliwym okiem.
     - Ulatniamy się nim zdążymy napytać sobie więcej biedy lub, co gorsza, rzucić nieuzasadnione podejrzenia na [Duska](#p_dusek).
-    - Już w drodze [Ilana](#g_ilana), swoim zwyczajem, zwraca [elfowi](#g_kajetan) uwagę, że ten czasem za dużo kłapie jęzorem i powinien pomyśleć zanim coś palnie. [Kajetan](#g_kajetan) upiera się, że [Ilana](#g_ilana) musi przedstawiać się z imienia i nazwiska, więc ta każe się mianować _"Ilaną z Zadupia"_.
+    - Już w drodze [Ilana](#g_ilana), swoim zwyczajem, zwraca [elfowi](#g_kajetan) uwagę, że ten czasem za dużo kłapie jęzorem i powinien pomyśleć zanim coś palnie. [Kajetan](#g_kajetan) upiera się, że [Ilana](#g_ilana) musi przedstawiać się z imienia i nazwiska, więc ta każe się mianować _"[Ilaną](#g_ilana) z Zadupia"_.
 7. Szukając igły w stogu błota
     - Prowadząc ożywioną, niemniej cichą dyskusję kierujemy się do dalszej, opuszczonej już osady. W drodze natykamy się na ślady ciężkich, krasnoludzkich butów. Ślady skręcają przed dalszą wioską i odbijają w bok, w lekko wydeptaną ścieżkę. My jednak trzymamy się oryginalnego planu.
     - Docieramy do osady wokół cegielni, na samym brzegu jeziora. Zatrzymujemy się na noc w jednej z porzuconych chat, starając się nie prowokować licznych, żerujących w okolicy [utopców](#b_utopiec).
