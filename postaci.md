@@ -39,7 +39,7 @@
     - przebywał też w Craag An gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
 - <a id='p_keira_metz' pattern='Keir*,Keir* Metz,Metz'>Keira Metz</a> - ?, mag
     - była/jest magiem specjalizującym się w leczeniu
-- <a id='p_koral' pattern='Koral,Keir* Neyd,Neyd'>Lytta "Koral" Neyd</a> - ?, mag
+- <a id='p_koral' pattern='Lytt*,Koral,Lytt* Neyd,Neyd'>Lytta "Koral" Neyd</a> - ?, mag
     - zginęła w drugiej bitwie pod Sodden
 - <a id='p_lambert' pattern='Lamber*'>Lambert</a> - człowiek, wiedźmin
 - <a id='p_lyssa' pattern='Lyss*,Firg Thearg'>Lyssa, Firg Thearg</a> - elf, dowodzi komandem Scoia'tael
