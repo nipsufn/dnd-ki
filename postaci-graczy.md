@@ -47,10 +47,11 @@
             - 1 miarki [Izzotoniku](#r_izzotonik) (zamiennik [Alkahestu](#r_alkahest); d20: efekt x2 on 20, wild magic on 1)
             - 10 złotych zębów
             - kamień warty 50gp
-            - 121.8.6 gp
+            - 38.3.6 gp
             - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-            - 5 butelek bimbru
+            - 4 butelek bimbru
             - Thieves Tools
+            - 5 żetonów do teleportacji
             - Z [Craag An](#l_craag_an):
                 - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
                 - Notatki belfra z [Biblioteki](#l_biblioteka) [Craag An](#l_craag_an)
@@ -61,7 +62,26 @@
                 - Medalion bibliotekarza z [Craag An](#l_craag_an)
                 - Medalion posłusznika zakonu Zielonych Rycerzy
                 - 2 kryształy na zaklęcia
-    - Znane kręgi aportacyjne:
+        - W [Mariborze](#l_maribor):
+            - Kotwice do innych płaszczyzn:
+                - Kula wyrzeźbiona w nieskończenie zapętlający się labirynt po którym ktoś zdaje się biegać - pustynny świat, martwy w wiecznym czerwonym świetle słońca, wielkie czerwie (?), porzucone metalowe miasto
+                - Mosiężna lampa olejowa, wiecznie gorąca w dotyku, z odręczną mapą jakiegoś miasta na boku - lodowy świat dysków, w którym można zobaczyć własne plecy, zamieszkały przez potwory
+                - Brudny bursztyn - inkluz, z skrzydlatym pająkiem w środku - dżungla zamieszkała przez gigantyczne owady
+            - Słój z grubego szkła z zębem pływającym w środku
+            - Czarna perła - komponent, kosztowne świecidełko
+            - Wieczne pióro w porcelanowej szkatule, ciepłe w dotyku, koloru świeżej krwi, jaży się światłem podczas pisania
+            - Kawałki półek z białego drewna
+            - Zdrewniała pestka
+            - Kamizelka z 10cioma naszywkami i śladami po innych
+            - przewodnik [Corneirosa](#p_corneiros) po płaszczyznach, opisuje powyższe kotwice oraz "kawał kwarcu z ogniem w środku", pochodzący z płaszczyzny ifrytów i [djinni](#b_djinni) ognia
+            - Księga z rubinem w obwolucie
+            - "kościany dings stormfag can be activated by sufficient spell slot"
+            - kawałek białego metalu przypominający rękojeść, zdobiony złotą spiralą, razi prądem 
+                - magiczny krótki miecz,
+                - 2nd lvl to activate, 1 minuta + ekstra minuta za kolejny spellslot
+                - INT do ataku zamiast STR/DEX
+                - 2d8 DMG
+    - Znane kręgi teleportacyjne:
         - [Ban Ard](#l_ban_ard)
         - [Craag An](#l_craag_an)
         - [Maribor](#l_maribor)
@@ -70,16 +90,17 @@
     - Plany:
         - Obejrzeć medalion i monety znalezione w warowni w [Craag An](#l_craag_an)
         - wrócić do podziemnego jeziora koło [Col Serrai](#l_col_serrai)
-        - odwiedzić [Mirnę](#p_mirna) w Kerrack
         - odwiedzić [Dorregaraya](#p_dorregaray) - co da się zrobić z chorobą
         - dowiedzieć się co się przytrafiło [Assire var Anahid](#p_assaire) - hak na [Floriana](#p_florian_z_vicovaro)
         - odzyskać miecz z [Domu Aukcyjnego Braci Borsodych](#l_dom_borsodych)
-        - zdobyć artefakty chroniące przed podglądaniem
         - Zaklęcia do transkrypcji:
             - [Life Transference](https://5e.tools/spells.html#life%20transference_xge)
             - [Planar Binding](https://5e.tools/spells.html#planar%20binding_phb)
             - [Create Undead](https://5e.tools/spells.html#create%20undead_phb)
             - [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
+            - nieczytelne (jeszcze) 8go poziomu
+            - [Planar Ally](https://5e.tools/spells.html#planar%20ally_phb)
+            - [Plane Shift](https://5e.tools/spells.html#plane%20shift_phb)
     - Mechanika
         - Nowe zaklęcia czarodzieja:
             - 10XP za level zaklęcia, przy dowolnym długim odpoczynku
