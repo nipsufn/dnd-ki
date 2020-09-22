@@ -1,42 +1,71 @@
 ### Sesja 78
 1. Pierwsze rysy
-    - [Ilana](#g_ilana) kłóci się ze [Skovikiem](#p_skovik)
-    - Po dojeździe do [Gors Velen](#l_gors_velen) [Kajetan](#g_kajetan) ucieka w miasto by załatwić swoje sprawy zanim towarzysze wypytają o co mu chodzi gdy mówi że będzie w mieście z powrotem z [Mirną](#p_mirna) pod wieczór
-2. Jarmark - [Skovik](#p_skovik) i [Ilana](#g_ilana)
-    - Jedzą obiad w "Szafranie i Pieprzu"
-    - [Ilana](#g_ilana), słysząc pytania [Kajetana](#g_kajetan) o najlepszą karczmę w mieście za nim uciekł, stwierdza że też należy jej się trochę komfortu - rezerwuje dla siebie i wyspiarza ostatni pokój w przybytku
-    - bohaterowie znajdują [Leiva](#p_leiv) w spelunie w portowej części podgrodzia
-    - towarzyszy mu pięciu chłopa, między innymi słynny Regner Czarny, oraz kobieta przedstawiająca się jako Rea bon Due
-    - [Ilana](#g_ilana) jest skonsternowana zachowianiem {wielkiej baby z wysp}Rea, która traktuje [Skovika](#p_skovik) jak gdyby byli w związku
-    - z wyjątkiem niewiasty wyspiarze wyglądają na przybitych, nie mając grosza ani statku
-    - [Leiv](#p_leiv) przedstawia swój wyśmienity plan - wydobyć skarb który mieli na statku - tego samego który wczoraj [Skovik](#p_skovik) zauważył z punktu widokowego
-    - [Ilana](#g_ilana) przystaje na pomysł [młodszego Drunmonda](#p_leiv)
-    - [Skovik](#p_skovik) i [Ilana](#g_ilana) zamierzali zobaczyć walki z potworami dzisiejszego wieczoru - [Leiv](#p_leiv) i, ku niezadowoleniu [Ilany](#g_ilana), Rea, wpraszają się i idą razem z parą
-    - [Ilana](#g_ilana) wciąż ciska z oczu gromami w plecy Rei prowadzącej pod rękę [Skovika](#p_skovik), gdy zauważa wjeżdżających do podgrodzia na koniu [Kajetana](#g_kajetan) z [Mirną](#p_mirna), do których podchodzi by wymienić kilka słów
-    - Z potworami będą walczyć dwie drużyny na raz - zeszłoroczni zwycięzcy, Rębacze z Crinfid oraz banda Yarpena Zigrina, która nazwała się [nie pamiętam, "Duple i Kurduple"?]
-    - na arenę zagoniono mantikorę oraz wiwernę w której [Ilana](#g_ilana) rozpoznaje Dianę, zwierzątko [Lentinusa](#p_lentinus)
-    - Zanim śmiałkom udaje się poważnie skrzywdzić stworzenia, jakiś mag niszczy namiot i kratownice otaczające arenę, pozwalając uciec wiwernie
-    - w wielkim rozgardiaszu ludzie się rozpierzchają. Grupa bohaterów również opuszcza zrujnowany cyrk, zmierzając w stronę miasta
-3. Wizyta w Kerrack - [Kajetan](#g_kajetan)
-    - {elf} zostawiając towarzyszy dowiaduje się o najlepszą karczmę w mieście
-    - Rezerwując pokój w Srebrnej Czapli, zajeździe niegdyś obsługującym wyłącznie gości [Aretuzy](#l_wyspa_thanedd), dowiaduje się:
-        - Na rynku koło ratusza jest biblioteka publiczna
-        - na podgrodziu niedaleko portu jest sklepik słynnego podróżnika Pablo Sanche gdzie można znaleźć mapy i przewodniki
+    - [Ilana](#g_ilana) kłóci się ze [Skovikiem](#p_skovik). [Wyspiarz](#p_skovik) uważa, że ona i [elf](#g_kajetan) nie dzielą się z nim wszystkimi nowinami i mają jakieś tajemnice na boku. Zarzuca w złości, że mają go za przygłupa. Chce wiedzieć co dokładnie stało się kiedy wszedł za [Ilaną](#g_ilana) do tunelu.
+    - [Druidka](#g_ilana) podejmuje desperackie próby wytłumaczenia [Skovikowi](#p_skovik) co się wtedy wydarzyło, jednak za każdym razem kiedy zbyt mocno wdaje się w szczegóły, coś jakby magicznie sprawia, że [Skovik](#p_skovik) nie zapamiętuje niczego z rozmowy i piekli się jeszcze bardziej.
+    - [Ilana](#g_ilana) przestaje ukrywać rękę ze znamieniem widząc, że to niczego nie zmienia i prosi [Skovika](#p_skovik) aby był dla niej wyrozumiały w tej jednej kwestii, bo nie jest w stanie mu tego wytłumaczyć i nie chodzi tu o jego zdolność pojmowania.
+2. Nareszcie u celu
+    - Nazajutrz sprawy mają się już nieco lepiej. [Skovik](#p_skovik) jest albo zrezygnowany i dobrze ukrywa rozgoryczenie, albo przemyślał to, co powiedziała mu [Ilana](#g_ilana) i doszedł do własnych konkluzji.
+    - Ruszamy w drogę. Docieramy do [Gors Velen](#l_gors_velen) w sam raz na kulminację święta [Birke](#r_birke). [Remi](#p_remi) na odchodne poleca oberżę "Pieprz i Sól" serwującą najlepsze owoce morza. Wychwala także pewną instytucję o wdzięcznej nazwie "Pod Rozsznurowanym Gorsetem" patrząc przy tym znacząco na [Skovika](#p_skovik), czego [Ilana](#g_ilana) - pomna wczorajszej sprzeczki - przezornie nie kwituje kąśliwym komentarzem.
+    - [Półelf](#p_remi) zgadza się zabrać do [Rdestowej Łąki](#l_rdestowa_laka) pakunek z prezentem dla [Alfonsa](#p_alfons). Poleca siebie szukać w okolicach Złodziejskiej Baszty.
+    - Gdy [Ilana](#g_ilana) pertraktuje z [Remim](#p_remi), [Kajetan](#g_kajetan) zaczepia jakiegoś dostatnio odzianego jegomościa i pyta o najlepszy lokal w mieście. Pada nazwa "Srebrna Czapla".
+    - [Kajetan](#g_kajetan) ucieka w miasto by załatwić swoje sprawy zanim towarzysze wypytają o co mu chodzi, gdy mówi, że wybiera się po [Mirnę](#p_mirna) i będzie z powrotem pod wieczór.
+    - Rzuca nam się w oczy parę szczegółów - herb [Gors Velen](#l_gors_velen) to muszla i wieża, nie widać jednak śladów wpływów redańskich. Ulice zaś nawet za dnia oświetlają jaskrawo pomarańczowe, niekopcące latarnie.
+    - W całym mieście rozbrzmiewają dzwony. Prze bramy przewalają się tabuny mieszczan z dziećmi niosącymi słomiane lalki, wszyscy pielgrzymują w stronę głównego portu za placem targowym. Sporo dzieciaków biega także z koszyczkami pełnymi kolorowych jajek. Wygląda to na miejscowy obyczaj związany z [Birke](#r_birke).
+3. Jarmark - [Skovik](#p_skovik) i [Ilana](#g_ilana)
+    - [Ilana](#g_ilana) i [Skovik](#p_skovik) zostają porwani przez falę ludzi ciągnącą do głównego portu. W pewnym momencie dzwony milkną, zastąpione wieloma płaczliwymi dziecięcymi głosikami. Herold z metalową tubą swym donośnym głosem ogłasza czas [utopienia](#b_utopiec) marzanny, a także zaprasza na wieczorne widowisko - finał walk z potworami.
+    - Parze udaje się wyswobodzić z tłumu. Pierwszym punktem wycieczki na liście sprawunków [Ilany](#g_ilana) jest zakup małej kuszy dla [Alfonsa](#p_alfons). Dwójka trafia dość szybko na krasnoludzki kram, przy którym jakiś gnom dwoi się i troi prezentując swój nowy, przełomowy wynalazek.
+    - Owym wynalazkiem jest ręczna pistoletowa kusza. Cena wywoławcza nie odpowiada [druidce](#g_ilana), co nie uchodzi uwadze sprzedawcy. Gnom jest tak pewny swojego dzieła, że proponuje mały zakład - [Ilana](#g_ilana) ze swoim łukiem ma się zmierzyć z nim w konkursie celności. Jeżeli wygra - dostanie rabat. Tak czy owak będzie to niezłą reklamą dla gnoma.
+    - [Dziewczyna](#g_ilana) zgadza się i wygrywa pojedynek w widowiskowym stylu - trzy perfekcyjne, niemal identycznie oddane strzały zostają nagrodzone rabatem, przyciągają też uwagę innego kupca.
+    - [Skovik](#p_skovik) przygląda się wszystkiemu z boku, gdy w pewnym momencie dostrzega coś i zaczyna desperackie próby niemal zapadnięcia się pod ziemię. [Ilana](#g_ilana) dostrzega to, jednak nie drąży, nawoływana przez rosłego kupca w myśliwskim kołpaku. Oboje podchodzą więc do jego kramu.
+    - Myśliwy pochodzi z [Kaedwen](#l_kaedwen) i oferuje pierwszego sortu łuki. Ma chrapkę na driadzki łuk [Ilany](#g_ilana), ale dziewczyna zbywa jego ofertę wymiany pytając o strzały. W efekcie dobija targu i odchodzi z kompletem strzał z [zeulga](#b_zeulg), a także miłym gratisem - pojedynczą strzałą wykonaną z kolca wiwerny.
+    - Para błądzi po targu w poszukiwaniu [Remiego](#p_remi). [Skovik](#p_skovik) rozgląda się po straganach jakby czegoś szukał. Zapytany przez [Ilanę](#g_ilana) zakłopotany wyznaje, że chciałby nauczyć się czytać we wspólnym, więc rozgląda się za książkami. 
+    - [Druidka](#g_ilana) zagaja jednego z kramikarzy handlującego rzeźbionymi muszlami. Mężczyzna opowiada trochę o swoich dziełach, ale nie ma pojęcia gdzie szukać książek. Oferuje im za to swój śpiewnik szant w gratisie do dowolnej muszli. [Skovik](#p_skovik) odchodzi zadowolony z muszlą opowiadającą historię krakena i wymemłanym żeglarskim śpiewnikiem pod pachą.
+    - Odnalazłszy [Remiego](#p_remi) i przekazawszy mu pakunek, para udaje się na obiad do tak wychwalanej oberży. [Ilana](#g_ilana) nie skąpi ani na obiad, ani na późniejsze zakwaterowanie w Srebrnej Czapli.
+    - Spróbowawszy smacznych, acz niehybnie przepłaconych specjałów morskich, [druidka](#g_ilana) stwierdza, że też należy jej się trochę komfortu - rezerwuje dla siebie i [wyspiarza](#p_skovik) ostatni pokój w przybytku. Następnie dwójka idzie odnaleźć [Leiva](#p_leiv).
+4. Genialny plan
+    - Znajdujemy [Leiva](#p_leiv) w portowej części podgrodzia w spelunie o adekwatnej nazwie "Dziura". Towarzyszy mu pięciu chłopa, między innymi słynny [Roeggner Czarny](#p_roeggner), oraz rosła kobieta upchana w połączenie gorsetu i kolczugi, o łapie rozmiarów uda [Ilany](#g_ilana), którą [Leiv](#p_leiv) przedstawia jako [Reah](#p_reah) Bon-Duh.
+    - [Ilana](#g_ilana) jest skonsternowana zachowaniem [wielkiej baby z wysp](#p_reah), która zamyka [Skovika](#p_skovik) w nazbyt czułym, niedźwiedzim uścisku. [Reah](#p_reah) obwieszcza jej, że jest [Skovika](#p_skovik) przyrzeczoną.
+    - Z wyjątkiem niewiasty, wyspiarze wyglądają na przybitych - nie mają grosza ani statku. [Reah](#p_reah) przygrywa na swoich dudach aby nieco rozweselić kompanię. Na niewiele się to zdaje, a jedynie dokłada męk karczmarzowi, wyraźnie umęczonemu goszczeniem artystki.
+    - [Leiv](#p_leiv) przedstawia swój wyśmienity plan: [Ilana](#g_ilana) i [Kajetan](#g_kajetan) mieliby pomóc wydobyć z dna morza zatopiony skarb ze statku - tego samego, który wczoraj [Skovik](#p_skovik) zauważył z punktu widokowego.
+    - [Ilana](#g_ilana) przystaje na pomysł [młodszego Drummonda](#p_leiv), ku głosom zwątpienia i niedowierzania ze strony reszty pirackiej kompanii. Ich zdaniem nawet poławiacze pereł nie są w stanie zejść na 100-150 metrów, gdzie spoczywa ich dobytek, a co dopiero takie chuchro jak [Ilana](#g_ilana). Zdaje się więc, że [Leiv](#p_leiv) nie wyjawił swoim kamratom kim jesteśmy.
+    - [Druidka](#g_ilana), chcąc wydostać się nareszcie z tej dziwnej sytuacji, pyta [Leiva](#p_leiv), czy wybierze się z nią i [Skovikiem](#p_skovik) na wieczorne show. Ku niezadowoleniu [Ilany](#g_ilana), Rea wprasza się i biorąc [Skovika](#p_skovik) pod rękę, przewodzi towarzystwu do namiotu.
+5. Wizyta w Kerrack - [Kajetan](#g_kajetan)
+    - {Elf}, zostawiając towarzyszy, wypytuje przechodnia o najlepszą karczmę w mieście. Otrzymuje namiary na Srebbrną Czaplę.
+    - Rezerwując pokój w Srebrnej Czapli, zajeździe niegdyś obsługującym wyłącznie gości [Aretuzy](#l_wyspa_thanedd), [mag](#g_kajetan) dowiaduje się, że:
+        - na rynku koło ratusza jest biblioteka publiczna
+        - na podgrodziu niedaleko portu jest sklepik słynnego podróżnika Fabio Sachsa, gdzie można znaleźć mapy i przewodniki
         - stajnie znajdują się na podgrodziu
-    - odwiedzając bibliotekę [czarodziej](#g_kajetan) zauważa [Dorregaray](#p_dorregaray)'a na wystawie i aukcji obrazów pod szyldem "Wiedźmin w pracy", nie przeszkadza mu jednak
-    - z pomocą ślepego elfa-bibliotekarza znajduje opis Kerrack. Do teleportacji lepsza była by rycina, jednak księga opisuje bardzo charakterystyczny posąg [Lytty Neyd](#p_koral) na rynku miasta
-    - [Kajetan](#g_kajetan) wynajmuje konia i wyjeżdża za miasto, pamiętając komentarze konfratrów o teleportacyjnej niestabilności okolicy Tor Lara
-    - znajdując zagajnik kilka godzin drogi od miasta, teleportuje siebie i konia używając artefaktów które niedawno otrzymał
-    - ląduje z nieprzytomnym koniem dokładnie w fontannie. Cuci konia i wyciąga z fontanny, a skonfrontowany przez zainteresowanych strażników przeprasza i czyści fontannę
-    - w Kerrack magia rzeczywiście nie jest kontrolowana
-    - Niedaleko od fontanny na ławcie siedzi [Mirna](#p_mirna), w towarzystwie kogoś kto wygląda jak oprych starający nie wyglądać się na oprycha - to [Bron](#p_bron)
-    - [Bron](#p_bron) wygląda na nieco zaszokowanego albo przestraszonego, ma nadzieję że [Mirnie](#p_mirna) nic się nie stanie i zmyka tak szybko jak tylko może
-    - Wyruszamy z {druidką} do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai
-    - początkowo niechętnie, stary pirat podejmuje pracę zleconą przez [elfa](#g_kajetan)
-    - odchodząc słyszymy opowieść o nachodzącym marynarzy [Łowczym](#p_feliks), wiecznie wypytującym o kogoś z wysp z listem gończym
-    - wyruszamy na molo, ku rozbawieniu pospólstwa i przerażeniu konia
-    - teleportujemy się, słysząc przeraźliwy krzyk. Już w okolicy [Gors Velen](#l_gors_velen), widzimy rękę zwisającą z splamionej krwią torby [Mirny](#p_mirna) - ktoś próbował okraść podróżującego maga, nie wiedząc czym ryzykuje
-    - ruszamy do miasta. Na podgrodziu spotykamy [Ilanę](#g_ilana), idącą gdzieś w towarzystwie które zdaje się nie do końca jej odpowiada
-    - zatrzymujemy się w Srebrnej Czapli, przy obiedzie widząc unoszący się w oddali namiot, który po chwili zwija się w kulkę
-4. Nieco luksusu
-    - obie pary spędzają wieczór zajęte sobą
+    - Odwiedzając bibliotekę [czarodziej](#g_kajetan) zauważa [Dorregaray](#p_dorregaray)'a serdecznie rozmawiającego z jakimś jegomościem na wystawie obrazów pod szyldem "Wiedźmin w pracy", nie przeszkadza mu jednak i wraca do realizacji swoich planów.
+    - Z pomocą ślepego elfa-bibliotekarza znajduje opis Kerrack. Do teleportacji lepsza była by rycina, jednak księga opisuje bardzo charakterystyczny posąg [Lytty Neyd](#p_koral) na rynku miasta.
+    - [Kajetan](#g_kajetan) wynajmuje konia i wyjeżdża za miasto, pamiętając komentarze konfratrów o teleportacyjnej niestabilności okolicy Tor Lara. Wysyła także wiadomość do [Mirny](#p_mirna) aby potwierdzić miejsce spotkania.
+    - Znajdując zagajnik kilka godzin drogi od miasta, teleportuje siebie i konia używając artefaktów, które niedawno otrzymał. W efekcie ląduje z nieprzytomnym koniem dokładnie w fontannie. Cuci konia i wyciąga z wody, a skonfrontowany przez zainteresowanych strażników przeprasza i czyści wiernie oddane narodowe dobro kultury.
+    - Przy okazji dowiaduje się, że w Kerrack magia rzeczywiście nie jest kontrolowana.
+    - Niedaleko od fontanny na ławce siedzi [Mirna](#p_mirna), w towarzystwie kogoś, kto wygląda jak oprych bardzo starający się nie wyglądać na oprycha - to [Bron](#p_bron).
+    - [Bron](#p_bron) wygląda na nieco zaszokowanego albo przestraszonego spektakularnym przybyciem [Kajetana](#g_kajetan). Żywi nadzieję, że [Mirnie](#p_mirna) nic się nie stanie jeśli pozostawi swą współpracowniczę w rękach [elfa](#g_kajetan) i zmyka tak szybko jak tylko może.
+    - Wyruszamy z [druidką](#p_mirna) do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai - specjalistę od rzeźbienia misternych rzeczy. Kerrack jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
+    - [Kajetan](#g_kajetan) wyłuszcza swoje zlecenie. Aby zaskarbić sobie sympatię wyspiarzy obecnych w zakładzie, robi to w ich ojczystym języku, stawiając przy tym flaszkę krasnoludzkiego bimbru na stół.
+    - Początkowo niechętny, stary pirat podejmuje pracę zleconą przez [elfa](#g_kajetan). Naprędce nakreślony szkic przedstawia... wieżę z iluzji [Gauntera](#p_gaunter). Cacko będzie jednak trochę kosztować, w dodatku brakuje materiału. Wszystko jednak da się załatwić, za określone pieniądze. Wieża będzie do odbioru za 3-4 tygodnie.
+    - Odchodząc słyszymy opowieść o nachodzącym marynarzy [Łowczym](#p_feliks), wiecznie wypytującym o kogoś z wysp z listem gończym. [Kajetan](#g_kajetan) przypuszcza, że może chodzić o [Skovika](#p_skovik). Jeden z młodszych skelligijczyków opowiada, jak łowczy przygwoździł mu nożem rękę do stołu kiedy ten dość dosadnie kazał mu się wypchać, odmawiając donoszenia na innego wyspiarza.
+    - Wyruszamy na molo, ku rozbawieniu pospólstwa i przerażeniu konia. Teleportujemy się, słysząc przeraźliwy krzyk. Już w okolicy [Gors Velen](#l_gors_velen), widzimy rękę zwisającą ze splamionej krwią torby [Mirny](#p_mirna) - ktoś próbował okraść podróżującego maga nie wiedząc czym ryzykuje.
+6. Nieco luksusu po ciężkim dniu
+    - [Kajetan](#g_kajetan) z [Mirną](#p_mirna) ruszają do miasta by oddać straumatyzowanego konia. Na podgrodziu spotykają [Ilanę](#g_ilana), idącą gdzieś w towarzystwie, które zdaje się nie do końca jej odpowiada.
+    - [Ilana](#g_ilana) idąc rozmawia z [Leivem](#p_leiv) poza zasięgiem uszu gruchających gołąbków - [Skovika](#p_skovik) i przyklejonej do niego [Reahi](#p_reah), gdy ku swemu zaskoczeniu zauważa wjeżdżających na podgrodzie [Kajetana](#g_kajetan) z [Mirną](#p_mirna).
+    - [Druidka](#g_ilana) podchodzi do konnej dwójki nie wierząc, że [Kajetan](#g_kajetan) faktycznie przywlókł tu [Mirnę](#p_mirna). Na pytanie o [Reahę](#p_reah) odpowiada tylko kąśliwym komentarzem. Zostawia jednak parę samym sobie i wraca do [Leiva](#p_leiv) i reszty.
+    - W drodze na widowisko [Ilana](#g_ilana) dowiaduje się kilku rzeczy od wziętego na spytki Levia:
+        - [Reah](#p_reah) jest córką słynnego skalda Draiga Bon-Duh i przełożonej kapłanek [Freyji](#r_freya); po ojcu odziedziczyła umysł, talent już niekoniecznie
+        - ze [Skovikiem](#p_skovik) zna się od dziecka - kiedy on trenował, ona przerzucała kłody na równi z nim
+        - przyrzeczenie zostało złożone przez ojczyma [Skovika](#p_skovik), a biologicznego ojca młodszych Drummondów wobec Draiga
+        - kiedy [Lugosowi](#p_lugos) urodził się prawy syn, [Skovik](#p_skovik) musiał opuścić twierdzę swojego ojca i wrócić do rodzinnego domu, gdzie lekko zawadzał ojcowi [Leiva](#p_leiv) i [Ivara](#p_ivar)
+        - przyrzeczenie to małżeństwo zaaranżowane przez głowy dwóch rodzin - ojcowie dogadują się między sobą, że ich dzieci się pobiorą
+        - często używano takiego swatania jako elementu transakcji wiązanej pieczętującej umowę
+        - [Skovik](#p_skovik) mógłby się postawić, ale oznaczałoby to wykluczenie z klanu
+        - jako, że ojciec bliźniaków [Drummond](#p_drummond) także był już zszedł, przyrzeczenie przestaje być wiążące; chyba, że upomni się o nie ojciec przyszłej panny młodej, dochodząc wykonania reszty umowy, której treści nie zna chyba nikt po za ojcami obu stron
+    - Na wejściu [Reah](#p_reah) robi małą scenę i o dziwo udaje jej się tak zbajerować krasnoluda-bileciarza, że przepuszcza wyspiarkę za darmo, oferując nam przy tym lepsze miejsca.
+    - Z potworami będą walczyć dwie drużyny na raz - zeszłoroczni zwycięzcy, Rębacze z Crinfid oraz banda Yarpena Zigrina, _Między Młotem, a Toporem_. Tym razem jednak obie drużyny zmierzą się z bestiami na raz na jednej arenie.
+    - Na arenę zagoniono [kikimorę](#b_kikimora) oraz wiwernę, w której [Ilana](#g_ilana) rozpoznaje Dianę, pupilkę [Lentinusa](#p_lentinus). Nim jednak śmiałkom udaje się poważnie skrzywdzić stworzenia, jakiś mag niszczy kratownice otaczające arenę, wypuszczając bestie.
+    - Namiot zaczyna lewitować, wiwerna odlatuje wraz z wierzgającymi, ucapionymi lin krasnoludami. Na arenie zostają Rębacze i Yarpen, kłócący się z nimi nad zwłokami kikimory-wojowniczki. W dłoni krasnoluda błyska znajomy topór o czarnym ostrzu.
+    - Całe widowisko z bezpiecznej odległości werandy w Czapli obserwuje [Kajetan](#g_kajetan), zabawiąjąc [Mirnę](#p_mirna) komentarzami na temat nietypowego pokazu.
+    - W wielkim rozgardiaszu ludzie się rozpierzchają. Grupa bohaterów również opuszcza zrujnowany cyrk, zmierzając w stronę miasta.
+    - [Ilana](#g_ilana) żegna się z [Leivem](#p_leiv) i dobitnie daje [Reahi](#p_reah) do zrozumienia, że jej czas ze [Skovikiem](#p_skovik) dobiegł końca. [Wyspiarka](#p_reah) cmoka na odchodne [osiłka](#p_skovik) w policzek i życzy nam dobrej nocy. Z [Leivem](#p_leiv) umawiamy się nazajutrz rano.
+    - [Druidka](#g_ilana) pomna kosztu noclegu obiecuje nie psuć sobie reszty wieczoru, ewentualną awanturę zostawia więc na rano.
+    - Przy kolacji mijamy się życząc sobie nawzajem udanego wieczoru. Obie pary spędzają wieczór zajęte sobą.
