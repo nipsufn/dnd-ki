@@ -360,15 +360,25 @@
     - Lokij
         - <a id='p_niemoj' pattern='Niem[óo]*,Sołtys* Niem[óo]*'>Sołtys Niemój</a>
 - Wyspy Skellige
-    - <a id='p_cerys' pattern='Cerys an Craite,Cerys'>Cerys an Craite</a> - ; jarl wysp Skellige
-        córka Crach an Craite'a
-        pierwsza kobieta na tronie Wysp
-    - <a id='p_hjalmar' pattern='Hjalmar an Craite,Hjalmar'>Hjalmar an Craite</a> - ; kandydat do tronu Skellige
-        brat Cerys
-    - <a id='p_druid_artis' pattern='Druid* Artis*,Artis*'>Druid Artis</a> - ; druid
-        przewodzi Vildkaarlom
-    - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a><a id='p_drummond' pattern='Drummond'></a> - ;
-        zwany też Szalonym, głowa klanu Drummond
-        ma na pieńku z klanem an Craite
-        wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](Skellige), Cerys an Craite
-    - <a id='p_ragnar' pattern='Ragnar* Czarn*,Ragnar*'>Ragnar Czarny</a> - człowiek, pirat
+    - <a id='p_cerys' pattern='Cerys an Craite,Cerys'>Cerys an Craite</a>
+        - jarl wysp Skellige
+        - córka Crach an Craite'a
+        - pierwsza kobieta na tronie Wysp
+    - <a id='p_hjalmar' pattern='Hjalmar an Craite,Hjalmar'>Hjalmar an Craite</a> 
+        - kandydat do tronu Skellige
+        - brat Cerys
+    - <a id='p_druid_artis' pattern='Druid* Artis*,Artis*'>Druid Artis</a> 
+        - druid
+        - przewodzi Vildkaarlom
+        - popchnął Skovika do zamachu na Cerys
+    - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a><a id='p_drummond' pattern='Drummond'></a>
+        - zwany też Szalonym, głowa klanu Drummond
+        - ma na pieńku z klanem an Craite (i periodycznie chyba kilkoma innymi)
+        - wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](Skellige), Cerys an Craite
+    - <a id='p_roeggner' pattern='Roeggner* Czarn*,Roeggner*'>Roeggner Czarny</a>
+        - pirat
+        - głowa rodu Dimun
+    - <a id='p_reah' pattern='Reah* Bon-Dhu*,Reah*'>Reah Bon-Dhu</a>
+        - córka słynnego skalda, Draiga Bon-Dhu
+        - towarzyszy Dimunom w rejsach
+        - przyrzeczona Skovika
