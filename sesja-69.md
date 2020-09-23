@@ -41,7 +41,7 @@
         - wyspa Undvik, miejsce gdzie rozpoczęła się "Zapaść", jest celem wypraw wyspiarzy polujących na obudzone czy też nowo przybyłe lodowe giganty; dzięki tej rozrywce mniej się biją między sobą
     - Radcliffe i Mozaik, Kerrack:
         - mag musiał interweniować, ponieważ Viraxas jest obrażony na czarodziejów, a szczególnie na żeńską część kasty, przez to jak jego żona była traktowana na Aretuzie - jego asystentka, Mozaik, nie mogła nic wskórać
-        - {władyka}Viraxas nasłał (nieoficjalnie ma się rozumieć) piratów ze Skellige pod przywództwem Ragnara Czarnego, by grabił statki transportujące zaklęte przedmioty
+        - {władyka}Viraxas nasłał (nieoficjalnie ma się rozumieć) piratów ze Skellige pod przywództwem Roeggnera Czarnego, by grabił statki transportujące zaklęte przedmioty
         - piratów podjudza jeszcze ktoś inny, identyfikujący się broszą o kształcie Salamandry - Keira wspomina, że jakiś Wyzimski gang tak się znaczył, a Triss może wiedzieć więcej (miała z nimi osobiste porachunki)
         - Przejęte przez {władcę Kerrack}Viraxas magiczne artefakty są bezpiecznie przechowywane poza granicami kraju; jest skłonny pertraktować, ale nie z czarodziejkami
         - gdy Ida sarkastycznie komentuje zachowanie władców, za jej plecami zauważamy Filavandrela
@@ -67,7 +67,7 @@
     - Zanim Kajetan zdąży uspokoić się po chamskim zachowaniu Dijkstry i zacznie zadawać pytania o Skovika, Ilana przypomina {elfowi}Kajetan, że powinien poinformować Ignę o tym co zaszło, i wyrusza samodzielnie odebrać {wyspiarza}Skovik z lasu. Zabiera ze sobą jeden z kamieni komunikacyjnych.
     - Bras też wychodzi, gdy {mag}Kajetan zaczyna rozsyłać wiadomości:
         - do Igny: _"Dijkstra dotarł do Kapituły w trzy dni, i jego wystąpienie jest w centrum uwagi. Dusek chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji Myrtona"_
-        - z Leivem: _"Kto jeszcze steruje Ragnarem, bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się Cerys, dał mu magiczne urządzenie do śledzenia statków które ma napadać."_
+        - z Leivem: _"Kto jeszcze steruje Roeggnerem, bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się Cerys, dał mu magiczne urządzenie do śledzenia statków, które ma napadać."_
         - z Radcliffem dzieli się wiadomościami od Leiva o Ragnarze; w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w Kerrack
         - z Stregoborem:
             - punkt zwarcia sfer Pardwy nie jest zakotwiczony; budowniczy wież uznali, że teren jest zbyt trudny
