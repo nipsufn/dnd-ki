@@ -9,6 +9,7 @@
     - [Półelf](#p_remi) zgadza się zabrać do [Rdestowej Łąki](#l_rdestowa_laka) pakunek z prezentem dla [Alfonsa](#p_alfons). Poleca siebie szukać w okolicach Złodziejskiej Baszty.
     - Gdy [Ilana](#g_ilana) pertraktuje z [Remim](#p_remi), [Kajetan](#g_kajetan) zaczepia jakiegoś dostatnio odzianego jegomościa i pyta o najlepszy lokal w mieście. Pada nazwa "Srebrna Czapla".
     - [Kajetan](#g_kajetan) ucieka w miasto by załatwić swoje sprawy zanim towarzysze wypytają o co mu chodzi, gdy mówi, że wybiera się po [Mirnę](#p_mirna) i będzie z powrotem pod wieczór.
+    - Na odchodne [mag](#g_kajetan) sprawdza jeszcze położenie [Lloyda](#p_lloyd). Upiór wlecze się w naszą stronę, jednak zamiast dwóch oprychów, ma teraz do pomocy zwłoki jednego z nich i jakiegoś niziołka. Nie powinien jednak dotrzeć do miasta przed jutrem.
     - Rzuca nam się w oczy parę szczegółów - herb [Gors Velen](#l_gors_velen) to muszla i wieża, nie widać jednak śladów wpływów redańskich. Ulice zaś nawet za dnia oświetlają jaskrawo pomarańczowe, niekopcące latarnie.
     - W całym mieście rozbrzmiewają dzwony. Prze bramy przewalają się tabuny mieszczan z dziećmi niosącymi słomiane lalki, wszyscy pielgrzymują w stronę głównego portu za placem targowym. Sporo dzieciaków biega także z koszyczkami pełnymi kolorowych jajek. Wygląda to na miejscowy obyczaj związany z [Birke](#r_birke).
 3. Jarmark - [Skovik](#p_skovik) i [Ilana](#g_ilana)
@@ -30,7 +31,7 @@
     - [Ilana](#g_ilana) przystaje na pomysł [młodszego Drummonda](#p_leiv), ku głosom zwątpienia i niedowierzania ze strony reszty pirackiej kompanii. Ich zdaniem nawet poławiacze pereł nie są w stanie zejść na 100-150 metrów, gdzie spoczywa ich dobytek, a co dopiero takie chuchro jak [Ilana](#g_ilana). Zdaje się więc, że [Leiv](#p_leiv) nie wyjawił swoim kamratom kim jesteśmy.
     - [Druidka](#g_ilana), chcąc wydostać się nareszcie z tej dziwnej sytuacji, pyta [Leiva](#p_leiv), czy wybierze się z nią i [Skovikiem](#p_skovik) na wieczorne show. Ku niezadowoleniu [Ilany](#g_ilana), Rea wprasza się i biorąc [Skovika](#p_skovik) pod rękę, przewodzi towarzystwu do namiotu.
 5. Wizyta w Kerrack - [Kajetan](#g_kajetan)
-    - {Elf}, zostawiając towarzyszy, wypytuje przechodnia o najlepszą karczmę w mieście. Otrzymuje namiary na Srebbrną Czaplę.
+    - [Elf](#g_kajetan), zostawiając towarzyszy, wypytuje przechodnia o najlepszą karczmę w mieście. Otrzymuje namiary na Srebbrną Czaplę.
     - Rezerwując pokój w Srebrnej Czapli, zajeździe niegdyś obsługującym wyłącznie gości [Aretuzy](#l_wyspa_thanedd), [mag](#g_kajetan) dowiaduje się, że:
         - na rynku koło ratusza jest biblioteka publiczna
         - na podgrodziu niedaleko portu jest sklepik słynnego podróżnika Fabio Sachsa, gdzie można znaleźć mapy i przewodniki
@@ -44,6 +45,7 @@
     - [Bron](#p_bron) wygląda na nieco zaszokowanego albo przestraszonego spektakularnym przybyciem [Kajetana](#g_kajetan). Żywi nadzieję, że [Mirnie](#p_mirna) nic się nie stanie jeśli pozostawi swą współpracowniczę w rękach [elfa](#g_kajetan) i zmyka tak szybko jak tylko może.
     - Wyruszamy z [druidką](#p_mirna) do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai - specjalistę od rzeźbienia misternych rzeczy. Kerrack jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
     - [Kajetan](#g_kajetan) wyłuszcza swoje zlecenie. Aby zaskarbić sobie sympatię wyspiarzy obecnych w zakładzie, robi to w ich ojczystym języku, stawiając przy tym flaszkę krasnoludzkiego bimbru na stół.
+    - Okazuje się, że piraci pochodzą z klanu Tordarroch, słynącego ze znamienitych płatnerzy.
     - Początkowo niechętny, stary pirat podejmuje pracę zleconą przez [elfa](#g_kajetan). Naprędce nakreślony szkic przedstawia... wieżę z iluzji [Gauntera](#p_gaunter). Cacko będzie jednak trochę kosztować, w dodatku brakuje materiału. Wszystko jednak da się załatwić, za określone pieniądze. Wieża będzie do odbioru za 3-4 tygodnie.
     - Odchodząc słyszymy opowieść o nachodzącym marynarzy [Łowczym](#p_feliks), wiecznie wypytującym o kogoś z wysp z listem gończym. [Kajetan](#g_kajetan) przypuszcza, że może chodzić o [Skovika](#p_skovik). Jeden z młodszych skelligijczyków opowiada, jak łowczy przygwoździł mu nożem rękę do stołu kiedy ten dość dosadnie kazał mu się wypchać, odmawiając donoszenia na innego wyspiarza.
     - Wyruszamy na molo, ku rozbawieniu pospólstwa i przerażeniu konia. Teleportujemy się, słysząc przeraźliwy krzyk. Już w okolicy [Gors Velen](#l_gors_velen), widzimy rękę zwisającą ze splamionej krwią torby [Mirny](#p_mirna) - ktoś próbował okraść podróżującego maga nie wiedząc czym ryzykuje.
@@ -54,8 +56,8 @@
     - W drodze na widowisko [Ilana](#g_ilana) dowiaduje się kilku rzeczy od wziętego na spytki Levia:
         - [Reah](#p_reah) jest córką słynnego skalda Draiga Bon-Duh i przełożonej kapłanek [Freyji](#r_freya); po ojcu odziedziczyła umysł, talent już niekoniecznie
         - ze [Skovikiem](#p_skovik) zna się od dziecka - kiedy on trenował, ona przerzucała kłody na równi z nim
-        - przyrzeczenie zostało złożone przez ojczyma [Skovika](#p_skovik), a biologicznego ojca młodszych Drummondów wobec Draiga
-        - kiedy [Lugosowi](#p_lugos) urodził się prawy syn, [Skovik](#p_skovik) musiał opuścić twierdzę swojego ojca i wrócić do rodzinnego domu, gdzie lekko zawadzał ojcowi [Leiva](#p_leiv) i [Ivara](#p_ivar)
+        - przyrzeczenie zostało złożone Draigowi przez ojczyma [Skovika](#p_skovik) (biologicznego ojca młodszych Drummondów)
+        - kiedy [Lugosowi](#p_lugos) urodził się prawowity syn, [Skovik](#p_skovik) musiał opuścić twierdzę swojego ojca i wrócić do rodzinnego domu, gdzie lekko zawadzał ojczymowi
         - przyrzeczenie to małżeństwo zaaranżowane przez głowy dwóch rodzin - ojcowie dogadują się między sobą, że ich dzieci się pobiorą
         - często używano takiego swatania jako elementu transakcji wiązanej pieczętującej umowę
         - [Skovik](#p_skovik) mógłby się postawić, ale oznaczałoby to wykluczenie z klanu
