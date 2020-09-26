@@ -1,4 +1,4 @@
-### Sesja 78
+### Sesja 81
 1. W morze
     - [Skovik](#p_skovik) i [Ilana](#g_ilana) znowu się pokłócili - synek powinien był się postawić [Reahi](#p_reah)
     - Spotykamy się z wyspiarzami. [Osiłek](#p_skovik) dostaje w twarz na dzień dobry od [wyspiarki](#p_reah), po czym dowiaduje się że zostanie na brzegu razem z dwoma innymi marynarzami
@@ -10,7 +10,7 @@
     - dzięki wprawie wyspiarzy udaje nam się bezpiecznie wrócić do portu
 2. Łupy
     - Piraci, w wyśmienitych humorach, zaciągają skarby do "Dziury", gdzie zaczynają ucztować. [Ilana](#g_ilana) zauważa [Skovika](#p_skovik), siedzącego samotnie przy jednym ze stołów, przy dwóch butelkach
-    - w pewnym momencie czas się zatrzymuje - odwiedza nas Gauner O'Dimm. Przestawia kilka kubków o kawałeczek, mówiąc że jeden z pomocników [Lloyda](#p_lloyd) jest u drzwi karczmy.
+    - w pewnym momencie czas się zatrzymuje - odwiedza nas [Gaunter O'Dimm](#p_gaunter). Przestawia kilka kubków o kawałeczek, mówiąc że jeden z pomocników [Lloyda](#p_lloyd) jest u drzwi karczmy.
     - pozostała dwójka jest dalej, jako że próbowała podążać za [Kajetanem](#g_kajetan) do Kerrack. W wizjii, przedstawionej nam w czyimś kuflu z piwem, widzimy jak ciało które kontrolował [Lloyd](#p_lloyd) rozpada się, a z resztek wyrastają dwa drzwa przypominające ludzi, podobne do tych które spotkaliśmy pierwszy raz odwiedzając [Medowną](#l_medowna)
     - ścigająca nas dusza zasiedliła jedno z ciał które widzieliśmy w okolicach wraku wcześniej
     - przybysz potwierdza, przynajmniej na [Kajetanowe](#g_kajetan) uszy, że to [Formorian](#p_formorian) zabił rodzinę [upiora](#p_lloyd)
@@ -25,7 +25,7 @@
         - według propagandy [Cerys](#p_cerys), [Lugos Drummond](#p_lugos) był w jakiejś zmowie z [Nilfgaardczykami](#l_nilfgaard)
         - Po rodach można się spodziewać:
             - [Drummond](#p_drummond), Dimun - przychylne [Skovikowi](#p_skovik)
-            - an Craite, Anhindal, Brokvar - nieprzychylne osiłkowi
+            - an Craite, an Hindar, Brokvar - nieprzychylne osiłkowi
             - Tuirseach  - trudno powiedzieć
         - Svanrige, dziedzic rodu Tuirseach, był jednym z niewielu pretendentów do tronu który nie umarł na pomnej uczcie
         - Hialmar, brat [Cerys](#p_cerys), był oryginalnym kandydatem na tron z rody an Craite
@@ -33,11 +33,11 @@
     - w miedzyczasie [Kajetan](#g_kajetan) wybiera swoją część łupu, mówi [Ilanie](#g_ilana) że znika za kwadrans i wychodzi z karczmy. Na odchodne [Roeggner](#p_roeggner), przerywając swoją rozmowę, wręcza mu hak z kości wieloryba, mówiąc że z tym przedmiotem nikt na wyspach nie będzie wątpił jeśli powie, że jest przyjacielem pirata
     - [Ilanie](#g_ilana) udaje się namówić [elfa](#g_kajetan) by wyruszyli później, tak aby mogła dokończyć swoją rozmowę i zająć się pijanym [Skovikiem](#p_skovik)
 3. Nogi za pas
-    - Wynajmujemy wóz i wyruszamy za miasto. Ponieważ w sprawę wmieszał się [Formorian](#p_formorian), w braku lepszych propozycji, [Kajetan](#g_kajetan) teleporuje całą drużynę pod [Wioskę](#l_wioska) druidów
-    - [Wioska](#l_wioska) jest teraz otoczona palisadą, a chatka Finnarina ma teraz piętro
+    - Wynajmujemy wóz i wyruszamy za miasto. Ponieważ w sprawę wmieszał się [Formorian](#p_formorian), w braku lepszych propozycji, [Kajetan](#g_kajetan) teleportuje całą drużynę pod [Wioskę](#l_wioska) druidów
+    - [Wioska](#l_wioska) jest teraz otoczona palisadą, a chatka [Finarrina](#p_druid_finarrin) ma teraz piętro
     - W domostwie zastajemy [Gardiego](#p_gardi), który niechętnie nas wita. [Ilana](#g_ilana) jak zwykle nie kryje swojej antypatii do kulawego druida
-    - wkrótce przybywa Finnarin, z którym spożywamy wieczerzę, podczas której dyskutujemy o [Formorianie](#p_formorian). Ku rosnącej złości i frustracji zmęczonego przygodami [elfa](#g_kajetan), miast jasnego planu akcji, wyłaniamy cztery możliwości:
-        - wytłumaczyć [Lloydowi](#p_lloyd) kto jest jego przeciwnikiem
+    - wkrótce przybywa [Finarrin](#p_druid_finarrin), z którym spożywamy wieczerzę, podczas której dyskutujemy o [Formorianie](#p_formorian). Ku rosnącej złości i frustracji zmęczonego przygodami [elfa](#g_kajetan), miast jasnego planu akcji, wyłaniamy cztery możliwości:
+        - skończyć ze sobą jeśli to my jesteśmy jego celem 
         - przyzwać [Formoriana](#p_formorian) z powrotem na naszą płaszczyznę i zabić go raczej niż tylko przegnać
-        - ?
-        - ?
+        - uzmysłowić [Lloydowi](#p_lloyd), że to on sam jest winien śmierci swojej rodziny i nie ważne, kogo by nie ścigał - jego gniew powinien skierować na siebie, tylko wtedy zazna spokoju, o który prosił w pakcie (odejść w przekonaniu, że pomścił rodzine)
+        - pokazać [Lloydowi](#p_lloyd) prawdziwego mordercę i przekierować na niego jego wściekłość, dać mu wymierzyć sprawiedliwość
