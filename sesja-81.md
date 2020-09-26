@@ -1,4 +1,4 @@
-### Sesja 78
+### Sesja 81
 1. W morze
     - Skovik i Ilana znowu się pokłócili - synek powinien był się postawić Reahi
     - Spotykamy się z wyspiarzami. {Osiłek}Skovik dostaje w twarz na dzień dobry od {wyspiarki}Reah, po czym dowiaduje się że zostanie na brzegu razem z dwoma innymi marynarzami
@@ -10,7 +10,7 @@
     - dzięki wprawie wyspiarzy udaje nam się bezpiecznie wrócić do portu
 2. Łupy
     - Piraci, w wyśmienitych humorach, zaciągają skarby do "Dziury", gdzie zaczynają ucztować. Ilana zauważa Skovika, siedzącego samotnie przy jednym ze stołów, przy dwóch butelkach
-    - w pewnym momencie czas się zatrzymuje - odwiedza nas Gauner O'Dimm. Przestawia kilka kubków o kawałeczek, mówiąc że jeden z pomocników Lloyda jest u drzwi karczmy.
+    - w pewnym momencie czas się zatrzymuje - odwiedza nas Gaunter O'Dimm. Przestawia kilka kubków o kawałeczek, mówiąc że jeden z pomocników Lloyda jest u drzwi karczmy.
     - pozostała dwójka jest dalej, jako że próbowała podążać za Kajetanem do Kerrack. W wizjii, przedstawionej nam w czyimś kuflu z piwem, widzimy jak ciało które kontrolował Lloyd rozpada się, a z resztek wyrastają dwa drzwa przypominające ludzi, podobne do tych które spotkaliśmy pierwszy raz odwiedzając Medowną
     - ścigająca nas dusza zasiedliła jedno z ciał które widzieliśmy w okolicach wraku wcześniej
     - przybysz potwierdza, przynajmniej na Kajetanowe uszy, że to Formorian zabił rodzinę {upiora}Lloyd
@@ -25,7 +25,7 @@
         - według propagandy Cerys, Lugos Drummond był w jakiejś zmowie z Nilfgaardczykami
         - Po rodach można się spodziewać:
             - Drummond, Dimun - przychylne Skovikowi
-            - an Craite, Anhindal, Brokvar - nieprzychylne osiłkowi
+            - an Craite, an Hindar, Brokvar - nieprzychylne osiłkowi
             - Tuirseach  - trudno powiedzieć
         - Svanrige, dziedzic rodu Tuirseach, był jednym z niewielu pretendentów do tronu który nie umarł na pomnej uczcie
         - Hialmar, brat Cerys, był oryginalnym kandydatem na tron z rody an Craite
@@ -33,11 +33,11 @@
     - w miedzyczasie Kajetan wybiera swoją część łupu, mówi Ilanie że znika za kwadrans i wychodzi z karczmy. Na odchodne Roeggner, przerywając swoją rozmowę, wręcza mu hak z kości wieloryba, mówiąc że z tym przedmiotem nikt na wyspach nie będzie wątpił jeśli powie, że jest przyjacielem pirata
     - Ilanie udaje się namówić {elfa}Kajetan by wyruszyli później, tak aby mogła dokończyć swoją rozmowę i zająć się pijanym Skovikiem
 3. Nogi za pas
-    - Wynajmujemy wóz i wyruszamy za miasto. Ponieważ w sprawę wmieszał się Formorian, w braku lepszych propozycji, Kajetan teleporuje całą drużynę pod Wioskę druidów
-    - Wioska jest teraz otoczona palisadą, a chatka Finnarina ma teraz piętro
+    - Wynajmujemy wóz i wyruszamy za miasto. Ponieważ w sprawę wmieszał się Formorian, w braku lepszych propozycji, Kajetan teleportuje całą drużynę pod Wioskę druidów
+    - Wioska jest teraz otoczona palisadą, a chatka Finarrina ma teraz piętro
     - W domostwie zastajemy Gardiego, który niechętnie nas wita. Ilana jak zwykle nie kryje swojej antypatii do kulawego druida
-    - wkrótce przybywa Finnarin, z którym spożywamy wieczerzę, podczas której dyskutujemy o Formorianie. Ku rosnącej złości i frustracji zmęczonego przygodami {elfa}Kajetan, miast jasnego planu akcji, wyłaniamy cztery możliwości:
-        - wytłumaczyć Lloydowi kto jest jego przeciwnikiem
+    - wkrótce przybywa Finarrin, z którym spożywamy wieczerzę, podczas której dyskutujemy o Formorianie. Ku rosnącej złości i frustracji zmęczonego przygodami {elfa}Kajetan, miast jasnego planu akcji, wyłaniamy cztery możliwości:
+        - skończyć ze sobą jeśli to my jesteśmy jego celem 
         - przyzwać Formoriana z powrotem na naszą płaszczyznę i zabić go raczej niż tylko przegnać
-        - ?
-        - ?
+        - uzmysłowić Lloydowi, że to on sam jest winien śmierci swojej rodziny i nie ważne, kogo by nie ścigał - jego gniew powinien skierować na siebie, tylko wtedy zazna spokoju, o który prosił w pakcie (odejść w przekonaniu, że pomścił rodzine)
+        - pokazać Lloydowi prawdziwego mordercę i przekierować na niego jego wściekłość, dać mu wymierzyć sprawiedliwość
