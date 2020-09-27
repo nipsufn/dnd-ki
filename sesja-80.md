@@ -1,4 +1,4 @@
-### Sesja 78
+### Sesja 80
 1. Pierwsze rysy
     - Ilana kłóci się ze Skovikiem. {Wyspiarz}Skovik uważa, że ona i {elf}Kajetan nie dzielą się z nim wszystkimi nowinami i mają jakieś tajemnice na boku. Zarzuca w złości, że mają go za przygłupa. Chce wiedzieć co dokładnie stało się kiedy wszedł za Ilaną do tunelu.
     - {Druidka}Ilana podejmuje desperackie próby wytłumaczenia Skovikowi co się wtedy wydarzyło, jednak za każdym razem kiedy zbyt mocno wdaje się w szczegóły, coś jakby magicznie sprawia, że Skovik nie zapamiętuje niczego z rozmowy i piekli się jeszcze bardziej.
@@ -53,7 +53,7 @@
     - Kajetan z Mirną ruszają do miasta by oddać straumatyzowanego konia. Na podgrodziu spotykają Ilanę, idącą gdzieś w towarzystwie, które zdaje się nie do końca jej odpowiada.
     - Ilana idąc rozmawia z Leivem poza zasięgiem uszu gruchających gołąbków - Skovika i przyklejonej do niego Reahi, gdy ku swemu zaskoczeniu zauważa wjeżdżających na podgrodzie Kajetana z Mirną.
     - {Druidka}Ilana podchodzi do konnej dwójki nie wierząc, że Kajetan faktycznie przywlókł tu Mirnę. Na pytanie o Reahę odpowiada tylko kąśliwym komentarzem. Zostawia jednak parę samym sobie i wraca do Leiva i reszty.
-    - W drodze na widowisko Ilana dowiaduje się kilku rzeczy od wziętego na spytki Levia:
+    - W drodze na widowisko Ilana dowiaduje się kilku rzeczy od wziętego na spytki Leiva:
         - Reah jest córką słynnego skalda Draiga Bon-Duh i przełożonej kapłanek Freyji; po ojcu odziedziczyła umysł, talent już niekoniecznie
         - ze Skovikiem zna się od dziecka - kiedy on trenował, ona przerzucała kłody na równi z nim
         - przyrzeczenie zostało złożone Draigowi przez ojczyma Skovika (biologicznego ojca młodszych Drummondów)
@@ -69,5 +69,5 @@
     - Całe widowisko z bezpiecznej odległości werandy w Czapli obserwuje Kajetan, zabawiąjąc Mirnę komentarzami na temat nietypowego pokazu.
     - W wielkim rozgardiaszu ludzie się rozpierzchają. Grupa bohaterów również opuszcza zrujnowany cyrk, zmierzając w stronę miasta.
     - Ilana żegna się z Leivem i dobitnie daje Reahi do zrozumienia, że jej czas ze Skovikiem dobiegł końca. {Wyspiarka}Reah cmoka na odchodne {osiłka}Skovik w policzek i życzy nam dobrej nocy. Z Leivem umawiamy się nazajutrz rano.
-    - {Druidka}Ilana pomna kosztu noclegu obiecuje nie psuć sobie reszty wieczoru, ewentualną awanturę zostawia więc na rano.
+    - {Druidka}Ilana, pomna kosztu noclegu, obiecuje nie psuć sobie reszty wieczoru. Ewentualną awanturę zostawia więc na rano.
     - Przy kolacji mijamy się życząc sobie nawzajem udanego wieczoru. Obie pary spędzają wieczór zajęte sobą.
