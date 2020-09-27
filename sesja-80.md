@@ -1,4 +1,4 @@
-### Sesja 78
+### Sesja 80
 1. Pierwsze rysy
     - [Ilana](#g_ilana) kłóci się ze [Skovikiem](#p_skovik). [Wyspiarz](#p_skovik) uważa, że ona i [elf](#g_kajetan) nie dzielą się z nim wszystkimi nowinami i mają jakieś tajemnice na boku. Zarzuca w złości, że mają go za przygłupa. Chce wiedzieć co dokładnie stało się kiedy wszedł za [Ilaną](#g_ilana) do tunelu.
     - [Druidka](#g_ilana) podejmuje desperackie próby wytłumaczenia [Skovikowi](#p_skovik) co się wtedy wydarzyło, jednak za każdym razem kiedy zbyt mocno wdaje się w szczegóły, coś jakby magicznie sprawia, że [Skovik](#p_skovik) nie zapamiętuje niczego z rozmowy i piekli się jeszcze bardziej.
@@ -53,7 +53,7 @@
     - [Kajetan](#g_kajetan) z [Mirną](#p_mirna) ruszają do miasta by oddać straumatyzowanego konia. Na podgrodziu spotykają [Ilanę](#g_ilana), idącą gdzieś w towarzystwie, które zdaje się nie do końca jej odpowiada.
     - [Ilana](#g_ilana) idąc rozmawia z [Leivem](#p_leiv) poza zasięgiem uszu gruchających gołąbków - [Skovika](#p_skovik) i przyklejonej do niego [Reahi](#p_reah), gdy ku swemu zaskoczeniu zauważa wjeżdżających na podgrodzie [Kajetana](#g_kajetan) z [Mirną](#p_mirna).
     - [Druidka](#g_ilana) podchodzi do konnej dwójki nie wierząc, że [Kajetan](#g_kajetan) faktycznie przywlókł tu [Mirnę](#p_mirna). Na pytanie o [Reahę](#p_reah) odpowiada tylko kąśliwym komentarzem. Zostawia jednak parę samym sobie i wraca do [Leiva](#p_leiv) i reszty.
-    - W drodze na widowisko [Ilana](#g_ilana) dowiaduje się kilku rzeczy od wziętego na spytki Levia:
+    - W drodze na widowisko [Ilana](#g_ilana) dowiaduje się kilku rzeczy od wziętego na spytki [Leiva](#p_leiv):
         - [Reah](#p_reah) jest córką słynnego skalda Draiga Bon-Duh i przełożonej kapłanek [Freyji](#r_freya); po ojcu odziedziczyła umysł, talent już niekoniecznie
         - ze [Skovikiem](#p_skovik) zna się od dziecka - kiedy on trenował, ona przerzucała kłody na równi z nim
         - przyrzeczenie zostało złożone Draigowi przez ojczyma [Skovika](#p_skovik) (biologicznego ojca młodszych Drummondów)
@@ -69,5 +69,5 @@
     - Całe widowisko z bezpiecznej odległości werandy w Czapli obserwuje [Kajetan](#g_kajetan), zabawiąjąc [Mirnę](#p_mirna) komentarzami na temat nietypowego pokazu.
     - W wielkim rozgardiaszu ludzie się rozpierzchają. Grupa bohaterów również opuszcza zrujnowany cyrk, zmierzając w stronę miasta.
     - [Ilana](#g_ilana) żegna się z [Leivem](#p_leiv) i dobitnie daje [Reahi](#p_reah) do zrozumienia, że jej czas ze [Skovikiem](#p_skovik) dobiegł końca. [Wyspiarka](#p_reah) cmoka na odchodne [osiłka](#p_skovik) w policzek i życzy nam dobrej nocy. Z [Leivem](#p_leiv) umawiamy się nazajutrz rano.
-    - [Druidka](#g_ilana) pomna kosztu noclegu obiecuje nie psuć sobie reszty wieczoru, ewentualną awanturę zostawia więc na rano.
+    - [Druidka](#g_ilana), pomna kosztu noclegu, obiecuje nie psuć sobie reszty wieczoru. Ewentualną awanturę zostawia więc na rano.
     - Przy kolacji mijamy się życząc sobie nawzajem udanego wieczoru. Obie pary spędzają wieczór zajęte sobą.
