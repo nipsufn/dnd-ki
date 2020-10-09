@@ -44,14 +44,14 @@
             - 2 porcje kadzidła
             - 3 porcje pyłu kamieni szlachetnych
             - 4 porcji kredy
-            - 1 miarki Izzotoniku (zamiennik Alkahestu; d20: efekt x2 on 20, wild magic on 1)
+            - 1 miarka Izzotoniku (zamiennik Alkahestu; d20: efekt x2 on 20, wild magic on 1)
             - 10 złotych zębów
-            - kamień warty 50gp
-            - 38.3.6 gp
+            - kamienie szlachetne warte 350gp
+            - 238.3.6 gp
             - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-            - 4 butelek bimbru
+            - 4 butelki bimbru
             - Thieves Tools
-            - 5 żetonów do teleportacji
+            - 3 żetony do teleportacji
             - Z Craag An:
                 - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
                 - Notatki belfra z Biblioteki Craag An
@@ -61,7 +61,7 @@
                 - Medalion i ceramiczne (?) monety z Craag An
                 - Medalion bibliotekarza z Craag An
                 - Medalion posłusznika zakonu Zielonych Rycerzy
-                - 2 kryształy na zaklęcia
+                - 3 kryształów na zaklęcia
         - W Mariborze:
             - Kotwice do innych płaszczyzn:
                 - Kula wyrzeźbiona w nieskończenie zapętlający się labirynt po którym ktoś zdaje się biegać - pustynny świat, martwy w wiecznym czerwonym świetle słońca, wielkie czerwie (?), porzucone metalowe miasto
