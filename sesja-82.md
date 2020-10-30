@@ -2,13 +2,13 @@
 1. Pogaduchy i ploteczki
 	- Rankiem [Finarrin](#p_druid_finarrin) zaprasza wszystkich na śniadanie. Skacowany [Kajetan](#g_kajetan), po oddaleniu się poprzedniego wieczora w sobie jedynie znanym kierunku, zostaje znaleziony pod palisadą i skierowany do chaty [kasztelana](#p_druid_finarrin).
 	- [Ivar](#p_ivar) zaczął rozbudowywać swoją chatę o jakieś dodatkowe pomieszczenie. Przybyło tam także różnych znalezisk i ozdób, między innymi trącący magią kamienny rycerz, jak się okazuje, pamiątka z [Craag An](#l_craag_an).
-	- [Finarrin](#p_druid_finarrin) opowiada nam jak mają się sprawy w lesie. Podobno król Viraksas ostrzy sobie zęby na brokilońskie drewno, czym skutecznie załazi [Eithne](#p_eithne) za skórę.
-	- Z [Verden](#l_verden) [stara driada](#p_eithne) na razie jest w stosunkowo pokojowych relacjach. Między innymi dzięki nowej roli [Finarrina](#p_druid_finarrin).
-	- By spisać wiedzę druidów książe [Kistrin](#p_ksiaze_kistrin) przysłał Verdankę, młodą, robiącą wrażenie niezdarnej, skrybę. Dziewczyna opiekuje się także dotychczasowym księgozbiorem.
-	- [Ilana](#g_ilana) prosi Verdankę o swoją książkę z dzieciństwa - spis legend i baśni. Oddaje książkę [Skovikowi](#p_skovik) żeby ten miał coś bardziej interesującego do nauki czytania.
+	- [Finarrin](#p_druid_finarrin) opowiada nam jak mają się sprawy w lesie. Podobno król [Viraksas](#p_ksiaze_viraxas) ostrzy sobie zęby na brokilońskie drewno, czym skutecznie załazi [Eithne](#p_eithne) za skórę.
+	- Z [Verden](#l_verden) [stara driada](#p_eithne) na razie jest w stosunkowo pokojowych relacjach, między innymi dzięki nowej roli [Finarrina](#p_druid_finarrin).
+	- By spisać wiedzę druidów książe [Kistrin](#p_ksiaze_kistrin) przysłał [Verdankę](#p_verdanka), młodą, robiącą wrażenie niezdarnej, skrybę. Dziewczyna opiekuje się także dotychczasowym księgozbiorem.
+	- [Ilana](#g_ilana) prosi [Verdankę](#p_verdanka) o swoją książkę z dzieciństwa - zbiór legend i baśni. Oddaje książkę [Skovikowi](#p_skovik) żeby ten miał coś bardziej interesującego do nauki czytania.
 2. Wróżenie z fusów
 	- [Finarrin](#p_druid_finarrin) zabiera nas na pobliską polankę aby odprawić rytuał, o którym wspominał.
-	- Na polanie stoi totem Protektora. Okazuje się, że obeliski druidów zbierają Moc z okolicy i wysyłają ją wprost do [Duen Canell](#l_duen_canell).
+	- Na polanie stoi totem [Protektora](#b_bizoktor). Okazuje się, że obeliski druidów zbierają Moc z okolicy i wysyłają ją wprost do [Duen Canell](#l_duen_canell).
 	- [Finarrin](#p_druid_finarrin) przyzywa [Galawaina](#p_galawain) druidzkim rytuałem krwi. Protektor wychodzi nam na spotkanie w obstawie kilku olbrzymich wilków.
 	- [Ilana](#g_ilana) dowiaduje się, że:
 		- [Lloyd](#p_lloyd) miał żonę Ellen i córkę, Serat; ojcem kobiety był Rokki, pszczelarz z [Medownej](#l_medowna), który handlował z druidami
@@ -30,20 +30,20 @@
 	- Wracamy ze zmęczonym [druidem](#p_druid_finarrin) do wioski. [Kajetan](#g_kajetan) - wyraźnie podminowany i poirytowany wiedzą, którą otrzymał - zbywa [Ilanę](#g_ilana) drążącą temat [Lloyda](#p_lloyd) i udaje się w sobie znanym kierunku.
 3. Chwila na refleksje
 	- [Finarrin](#p_druid_finarrin) z [Ilaną](#g_ilana) mijają w drodze do chaty [Enid](#p_enid). [Druidka](#p_enid) przewraca tylko oczami na widok stanu [hierofanty](#p_druid_finarrin), ale pomaga [Ilanie](#g_ilana) zaprowadzić go do pokoju.
-	- Kiedy {druid} odpoczywa, [Ilana](#g_ilana) bierze [Enid](#p_enid) na spytki. [Mentorka](#p_enid) opowiada, że to nie pierwszy raz kiedy widzi [Finarrina](#p_druid_finarrin) wracającego z lasu o resztkach sił, słaniając się na nogach. Podobno [druid](#p_druid_finarrin) chadza tam szukać odpowiedzi na palące go pytanie. Ma to związek z przysięgą, którą złożył.
+	- Kiedy [druid](#p_druid_finarrin) odpoczywa, [Ilana](#g_ilana) bierze [Enid](#p_enid) na spytki. [Mentorka](#p_enid) opowiada, że to nie pierwszy raz kiedy widzi [Finarrina](#p_druid_finarrin) wracającego z lasu o resztkach sił, słaniając się na nogach. Podobno [druid](#p_druid_finarrin) chadza tam szukać odpowiedzi na palące go pytanie. Ma to związek z przysięgą, którą złożył.
 	- Wspomina też, że [Ivar](#p_ivar) ostatnimy czasy rzadko bywa gościem w swojej chacie, do której, na modłę wyspiarską, zaczął dobudowywać saunę.
-	- Zapytana o jej humor [Enid](#p_enid) odpowiada, że w danej chwili tylko jedno z nich w danym momencie bawi się nożem. Sugeruje, że ona sama ma ostatnio zbyt dużo obowiązków żeby o tym myśleć, co potęguje w [Ilanie](#g_ilana) troskę o [opiekuna](#p_druid_finarrin).
+	- Zapytana o jej humor [Enid](#p_enid) odpowiada, że w danej chwili tylko jedno z nich w danym momencie "bawi się nożem". Sugeruje, że ona sama ma ostatnio zbyt dużo obowiązków żeby o tym myśleć, co potęguje w [Ilanie](#g_ilana) troskę o [opiekuna](#p_druid_finarrin).
 	- [Kajetan](#g_kajetan) w tym czasie wybiera się z [Mirną](#p_mirna) na spacer. Wędrują aż w okolice chatki [Enid](#p_enid), gdzie [elf](#g_kajetan), dostrzegłszy ciekawą okazję, konstruuje w rzece "wannę" zasilaną wodą z wodospadu.
 	- Dwójka umila sobie czas kąpielą, jednak zdaje się, że nie są tam sami - w górnym basenie coś pluska w wodę, a kłębiące się dookoła motyle zdają się zupełnie nie po motylemu cichutko chichotać.
 	- [Mirna](#p_mirna), oprócz pieniędzy i znajomości, dorobiła się także trwałej ozdoby - malutkiego tatuażu za uchem przedstawiającego jaszczurkę.
 	- [Ilana](#g_ilana) prosi [Gebo](#p_gebo) aby nazajutrz poszukał [Ivara](#p_ivar) w okolicy [Craag An](#l_craag_an) i [Col Serrai](#l_col_serrai). Jeżeli znajdzie jego trop, ma jej zameldować.
 	- Następnie [druidka](#g_ilana) odnajduje [Skovika](#p_skovik) szukającego sobie zajęcia w wiosce. Do wieczora para ślęczy nad książką. O dziewo pierwsza lekcja czytania we wspólnym przynosi nad podziw dobre rezultaty.
-	- Wieczorek [Kajetan](#g_kajetan) znów nęka [Kaspara](#p_kaspar). Tym razem jednak zamiast poirytowanego sługusa [Dijkstry](#p_dijkstra) odpowiada mu młody, kobiecy głos. We śnie odbywa spotkanie z jego właścicielką - onejromantką, wiedźmę od snów, zatrudnioną przez [Kaspara](#p_kaspar) do zbadania uprzykrzającego życie głosu w głowie.
+	- Wieczorem [Kajetan](#g_kajetan) znów nęka [Kaspara](#p_kaspar). Tym razem jednak zamiast poirytowanego sługusa [Dijkstry](#p_dijkstra) odpowiada mu młody, kobiecy głos. We śnie odbywa spotkanie z jego właścicielką - onejromantką, wiedźmę od snów, zatrudnioną przez [Kaspara](#p_kaspar) do zbadania uprzykrzającego życie głosu w głowie.
 	- Dziewczyna sprawia wrażenie jakby nie chciała brnąć w to kim jest [Kajetan](#g_kajetan). Dowiedziawszy się, że to on jest autorem wiadomości, lekko spanikowana tłumaczy się ze zlecenia i szybko kończy rozmowę.
 	- [Elf](#g_kajetan), pozbawiony możliwości wyładowania frustracji, a i potencjalnie odkryty przed ofiarą, budzi się wściekły.
 4. Nerwy i dyskusje
-	- Nazajutrz spotykamy się znów przy wspólnym śniadaniu. Przygotowania przerywa nadiągnięcie chmury-gradowej [Enid](#p_enid). [Druidka](#p_enid) robi aferę o kamienną wannę pod wodospadem nieopodal jej chatki, jednak chce by wanna została na miejscu. Ma jedynie za złe [Kajetanowi](#g_kajetan) i [Mirnie](#p_mirna), że teraz musi wysłuchiwać szczwgółowych relacji wróżek z ich wizyty nad wodą.
-	- Kiedy zaczyna się kłótnia, [Ilana](#g_ilana) wybucha i niemal groźbą zarządza spokój. Podejmuje temat odprawienia formoriana i dopełnienia zemsty [Lloyda](#p_lloyd). Wyjawia swój plan aby podszyć się pod żonę natręta i dać mu do zrozumienia, że mści się na niewłaściwych osobach.
+	- Nazajutrz spotykamy się znów przy wspólnym śniadaniu. Przygotowania przerywa nadiągnięcie chmury-gradowej [Enid](#p_enid). [Druidka](#p_enid) robi aferę o kamienną wannę pod wodospadem nieopodal jej chatki, jednak chce by wanna została na miejscu. Ma jedynie za złe [Kajetanowi](#g_kajetan) i [Mirnie](#p_mirna), że teraz musi wysłuchiwać szczegółowych relacji wróżek z ich wizyty nad wodą.
+	- Kiedy zaczyna się kłótnia, [Ilana](#g_ilana) wybucha i niemal groźbą zarządza spokój. Podejmuje temat odprawienia [Formoriana](#p_formorian) i dopełnienia zemsty [Lloyda](#p_lloyd). Wyjawia swój plan aby podszyć się pod żonę natręta i dać mu do zrozumienia, że mści się na niewłaściwych osobach.
 	- [Kajetan](#g_kajetan) neichętnie przystaje na ten plan. Uzgadniamy, że wybierzemy się do [Medownej](#l_medowna). Być może nawet rozważymy poproszenie o pomoc magów i [Ivara](#p_ivar) - łącząc siły mamy nadzieję, że uda się ze zmorą rozprawić raz na zawsze.
 	- Po śniadaniu [Ilana](#g_ilana) bierze [Finarrina](#p_druid_finarrin) na osobność, na spytki:
 		- aby zwolnić [Ilanę](#g_ilana) z przysięgi, którą złożył, [hierofanta](#p_druid_finarrin) musi znaleźć kogoś, kto z wolnej woli będzie skłonny zająć jej miejsce

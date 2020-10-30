@@ -122,6 +122,7 @@
         - przyjaciółka [Ilany](#g_ilana)
     - <a id="p_sariel" pattern='Sariel*,Flamin* Sariel*,Flamin*'>Sariel</a> - elf;
         [Flaminka](#p_sariel), poprzedniczka [Finarrina](#p_druid_finarrin)
+    - <a id='p_verdanka' pattern='Verdan*'>Verdanka</a> - człowiek; skryba
     - <a id='p_yaevinn' pattern='Yaevinn*'>Yaevinn</a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
     - <a id='p_zeff' pattern='Zeff*'>✝ Zeff</a>
@@ -260,8 +261,8 @@
 - [Kaedwen](#l_kaedwen)
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
 - [Kerack](#l_kerack)
-    -<a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*'>Książę Viraxas</a> - ;
-    -<a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
+    - <a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*,Ksi* Viraksas*,Viraksas*'>Książę Viraxas</a> - ;
+    - <a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
 - [Nilfgaard](#l_nilfgaard)
     - <a id='p_emhyr' pattern='Cesarz* Emhyr*,Emhyr*'>✝ Emhyr</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
     - <a id='p_morvran' pattern='Cesarz* Morvran*,Morvran* Voorhis*,Morvran*,Voorhis*'>Cesarz Morvran Voorhis</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
