@@ -122,6 +122,7 @@
         - przyjaciółka Ilany
     - <a id="p_sariel" pattern='Sariel*,Flamin* Sariel*,Flamin*'>Sariel</a> - elf;
         Flaminka, poprzedniczka Finarrina
+    - <a id='p_verdanka' pattern='Verdan*'>Verdanka</a> - człowiek; skryba
     - <a id='p_yaevinn' pattern='Yaevinn*'>Yaevinn</a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)
     - <a id='p_zeff' pattern='Zeff*'>✝ Zeff</a>
@@ -260,8 +261,8 @@
 - Kaedwen
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
 - Kerack
-    -<a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*'>Książę Viraxas</a> - ;
-    -<a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył Mirnie 1000GP, spodziewa się 1500GP z powrotem
+    - <a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*,Ksi* Viraksas*,Viraksas*'>Książę Viraxas</a> - ;
+    - <a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył Mirnie 1000GP, spodziewa się 1500GP z powrotem
 - Nilfgaard
     - <a id='p_emhyr' pattern='Cesarz* Emhyr*,Emhyr*'>✝ Emhyr</a> - ; cesarz Nilfgaardu
     - <a id='p_morvran' pattern='Cesarz* Morvran*,Morvran* Voorhis*,Morvran*,Voorhis*'>Cesarz Morvran Voorhis</a> - ; cesarz Nilfgaardu
