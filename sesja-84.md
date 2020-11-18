@@ -27,7 +27,7 @@
     - Jeden z rycerzy, w czarnej zbroi, został wyrzucony oknem. Tym samym, które wcześniej sprzedał knajpie Pan Lusterko. Okno przecięło mu gardło, aż głowa poleciała. Następnie - ku przerażeniu zebranych - trup wstał, otrzepał się, zabrał głowę i jakby nigdy nic odjechał na koniu w siną dal.
     - Gnomy jadą w stronę Cidaris, przez Kerrack. Swoją eskortę stracili w Brugge, w bijatyce, podróżują więc dalej w lekkim strachu.
     - Oferujemy im eskortę w zamian za podwózkę do Kerrack Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
-3. Stary Olsa
+4. Stary Olsa
     - Na miejscu spotykamy dwóch bardów, kilku chłopów i dwóch kupców. Rozpalają ognisko, minstrele przygrywają snując historie, alkohol zaczyna płynąć.
     - W ruinach panuje zdumiewająco przyjazna atmosfera, a ogień bucha aż miło, jakby się sam podsycał. Kajetan odkorkowuje flaszkę krasnoludzkiego bimbru i dosiada się do towarzystwa. Dowiadujemy się, że:
         - bardowie śpiewają o chwalebnych czynach Ivara, jakich dokonuje wzdłóż granic boru
