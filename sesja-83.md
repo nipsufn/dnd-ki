@@ -12,6 +12,7 @@
     - Na "spacerze" Ilanę dogania Skovik, rozumiejąc doskonale z autopsji przyczyny nerwów {dziewczyny}Ilana. Dwójka rozmawia chwilę o Ivarze. 
     - Ilana wyciąga ręke na zgodę i przeprasza Ivara za wtrącanie się w jego decyzje. Tłumaczenie, że to z troski o niego i poczucia winy za wpakowanie go w tę kabałę na pierwszym miejscu zostaje zaakceptowane. Ostatecznie {młody Drummond}Ivar zgadza się pomóc i zabiera się za naprawę swojego podniszczonego rynsztunku.
 2. Plany
+    - Kajetan zaszywa się w chatce Mirny aby magicznym rytuałem przywołać swojego skrzydlatego chowańca. Zainhalowany kadzidłem zanosi się kaszlem, w skutek czego wykasłuje trochę dwimerytu.
     - Ilana dzieli się z Kajetanem swoim planem. Chce spróbować zwabić Lloyda i podszywając się pod jego żonę przekonać upiora, że to nie my jesteśmy jego wrogiem, a Formorian, który na nim żeruje.
     - Kajetan rozmawia z Verenestrą, a raczej jej nowym wcieleniem. Dowiaduje się, że Formorian jest jak jemioła - nie zabija swojego nosiciela, który z resztą nosi w sobie coś, co bestę przyciąga.
     - Ilana kontaktuje się z Keirą. Czarodziejka jest zajęta konfliktem w Aedirn. Tłumaczy, że Formoriana najłatwiej będzie przyzwać destabilizując na powrót punkt mocy pod Carreras wraz z kilkoma innymi, okolicznymi. Poleca szukać pomocy u Zangenisa.
@@ -35,5 +36,6 @@
     - Drzewo niewiele robi sobie ze strzał, jednak podobnie jak wcześniej Lloyd, nie jest w stanie przekroczyć rzeki. Próbuje uciec przed nadciągającymi posiłkami, ale Kajetan używa telekinezy do pochwycenia drzewa i przygwożdżenia go do bariery. 
     - Bariera pali Formoriana i jego marionetki żywcem. Ivar rąbie bezlitośnie swoim toporem z każdym ciosem poszerzając bruzdę w drzewie. Skovik, rozzłoszczony nie na żarty miota się spętany przez gałęzie Formoriana. Ilana, przemieniona w niedźwiedzia, strąca marionetki z gałęzi drzewa.
     - Wspólnymi siłami, po raz kolejny unieszkodliwiamy Formoriana, tym razem już chyba na dobre.
-    - Po walce odwiedza nas Lusterko. Jakby nieco sarkastycznie gratuluje sprytu i oznajmia, że kontrakt został wypełniony.
-    - Umęczeni walką, pobrużdżeni, rozbijamy obóz, aby rano ruszyć na powrót do wioski, obwieścić dobrą nowinę.
+    - Po walce odwiedza nas Lusterko. Jakby nieco sarkastycznie gratuluje sprytu i oznajmia, że kontrakt został wypełniony. Wyrywa z bezgłowego ciała czarne serce i na naszych oczach zamienia je w kamień, który niemal natychmiast rozsypuje się w pył.
+    - Kajetan przygląda się chwilę szabli, którą to upiór dokonał swego żywota, ale po krótkim namyśle ciska ją do rzeki.
+    - Umęczeni walką, pobrużdżeni, myślimy nad rozbiciem obozu na noc, aby rano ruszyć na powrót do wioski, obwieścić dobrą nowinę.
