@@ -12,6 +12,7 @@
     - Na "spacerze" [Ilanę](#g_ilana) dogania [Skovik](#p_skovik), rozumiejąc doskonale z autopsji przyczyny nerwów [dziewczyny](#g_ilana). Dwójka rozmawia chwilę o [Ivarze](#p_ivar). 
     - [Ilana](#g_ilana) wyciąga ręke na zgodę i przeprasza [Ivara](#p_ivar) za wtrącanie się w jego decyzje. Tłumaczenie, że to z troski o niego i poczucia winy za wpakowanie go w tę kabałę na pierwszym miejscu zostaje zaakceptowane. Ostatecznie [młody Drummond](#p_ivar) zgadza się pomóc i zabiera się za naprawę swojego podniszczonego rynsztunku.
 2. Plany
+    - [Kajetan](#g_kajetan) zaszywa się w chatce [Mirny](#p_mirna) aby magicznym rytuałem przywołać swojego skrzydlatego chowańca. Zainhalowany kadzidłem zanosi się kaszlem, w skutek czego wykasłuje trochę [dwimerytu](#r_dwimeryt).
     - [Ilana](#g_ilana) dzieli się z [Kajetanem](#g_kajetan) swoim planem. Chce spróbować zwabić [Lloyda](#p_lloyd) i podszywając się pod jego żonę przekonać upiora, że to nie my jesteśmy jego wrogiem, a [Formorian](#p_formorian), który na nim żeruje.
     - [Kajetan](#g_kajetan) rozmawia z [Verenestrą](#p_verenestra), a raczej jej nowym wcieleniem. Dowiaduje się, że [Formorian](#p_formorian) jest jak jemioła - nie zabija swojego nosiciela, który z resztą nosi w sobie coś, co bestę przyciąga.
     - [Ilana](#g_ilana) kontaktuje się z [Keirą](#p_keira_metz). Czarodziejka jest zajęta konfliktem w [Aedirn](#l_aedirn). Tłumaczy, że [Formoriana](#p_formorian) najłatwiej będzie przyzwać destabilizując na powrót punkt mocy pod [Carreras](#l_carreras) wraz z kilkoma innymi, okolicznymi. Poleca szukać pomocy u [Zangenisa](#p_zangenis).
@@ -35,5 +36,6 @@
     - Drzewo niewiele robi sobie ze strzał, jednak podobnie jak wcześniej [Lloyd](#p_lloyd), nie jest w stanie przekroczyć rzeki. Próbuje uciec przed nadciągającymi posiłkami, ale [Kajetan](#g_kajetan) używa telekinezy do pochwycenia drzewa i przygwożdżenia go do bariery. 
     - Bariera pali [Formoriana](#p_formorian) i jego marionetki żywcem. [Ivar](#p_ivar) rąbie bezlitośnie swoim toporem z każdym ciosem poszerzając bruzdę w drzewie. [Skovik](#p_skovik), rozzłoszczony nie na żarty miota się spętany przez gałęzie [Formoriana](#p_formorian). [Ilana](#g_ilana), przemieniona w niedźwiedzia, strąca marionetki z gałęzi drzewa.
     - Wspólnymi siłami, po raz kolejny unieszkodliwiamy [Formoriana](#p_formorian), tym razem już chyba na dobre.
-    - Po walce odwiedza nas Lusterko. Jakby nieco sarkastycznie gratuluje sprytu i oznajmia, że kontrakt został wypełniony.
-    - Umęczeni walką, pobrużdżeni, rozbijamy obóz, aby rano ruszyć na powrót do wioski, obwieścić dobrą nowinę.
+    - Po walce odwiedza nas Lusterko. Jakby nieco sarkastycznie gratuluje sprytu i oznajmia, że kontrakt został wypełniony. Wyrywa z bezgłowego ciała czarne serce i na naszych oczach zamienia je w kamień, który niemal natychmiast rozsypuje się w pył.
+    - [Kajetan](#g_kajetan) przygląda się chwilę szabli, którą to upiór dokonał swego żywota, ale po krótkim namyśle ciska ją do rzeki.
+    - Umęczeni walką, pobrużdżeni, myślimy nad rozbiciem obozu na noc, aby rano ruszyć na powrót do wioski, obwieścić dobrą nowinę.
