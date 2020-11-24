@@ -262,7 +262,10 @@
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
 - [Kerack](#l_kerack)
     - <a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*,Ksi* Viraksas*,Viraksas*'>Książę Viraxas</a> - ;
-    - <a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz, pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
+    - <a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz
+        - pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
+        - zaczął współpracować z dziewczyną gdy okazało się że jej biznes zaczyna przynosić dochody a potrzebny jest figurant bez domieszki nieludzkiej krwi
+    - <a id='p_de_santis' pattern='De Santis*'>De Santis</a> - ; komisarz (?)
 - [Nilfgaard](#l_nilfgaard)
     - <a id='p_emhyr' pattern='Cesarz* Emhyr*,Emhyr*'>✝ Emhyr</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
     - <a id='p_morvran' pattern='Cesarz* Morvran*,Morvran* Voorhis*,Morvran*,Voorhis*'>Cesarz Morvran Voorhis</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
@@ -357,7 +360,8 @@
         - przewiózł nas z [Andym](#p_andy) pod [Wyzimę](#l_wyzima)
         - ma na przedramieniu wytatuowany symbol [Novigradzkiego](#l_novigrad) gangu [Tasaka](#p_tasak)
 - [Verden](#l_verden)
-    -<a id='p_ksiaze_kistrin' pattern='Ksi* Kistrin*,Kistrin*'>Kistrin</a> - ;
+    - <a id='p_ksiaze_kistrin' pattern='Ksi* Kistrin*,Kistrin*'>Kistrin</a> - ;
+    - <a id='p_wehr' pattern='Kapitan* Aleksand* Wehr*,Kapitan* Wehr*,Aleksand* Wehr*,Wehr*'>Kapitan Aleksander Wehr</a> - człowiek; Kapitan ekspedycji karnej przciwko [ghulom](#b_ghul) na północnej granicy we wsi [Skalnica](#l_skalnica)
     - [Lokij](#l_lokij)
         - <a id='p_niemoj' pattern='Niem[óo]*,Sołtys* Niem[óo]*'>Sołtys Niemój</a>
 - [Wyspy Skellige](#l_wyspy_skellige)

@@ -80,6 +80,8 @@
     - <a id='l_m_kerack' pattern='Kerack'>Kerack</a>
         - [Mirna](#p_mirna) otworzyła tam sklepik i warsztat
     - <a id='l_ansegis' pattern='Ansegis'>Ansegis</a>
+    - <a id='l_sotonin' pattern='Sotonin*'>Sotonin</a>
+        - przygraniczna (od strony [Verden](#l_verden)) osada
 - <a id='l_kovir' pattern='Kovir*'>Kovir</a>
     - <a id='l_port_vanis' pattern='Port Vanis'>Port Vanis</a>
 - <a id='l_mahakam' pattern='Mahakam*'>Mahakam</a>
@@ -164,6 +166,9 @@
         - wieś pod [Brokilonem](#l_brokilon)
         - nazwa wywodzi się z narzecza [Skellige](#l_wyspy_skellige)
     - <a id='l_siestrzen' pattern='Siestrze*'>Siestrzeń</a>
+    - <a id='l_skalnica' pattern='Skalnic*'>Skalnica</a>
+        - Wymordowana przez [ghule](#b_ghul)
+        - Pod kaplicą [Kreve](#r_kreve) miejsce kultu [Lwiogłowego Pająka](#r_lwioglowy_pajak)
     - <a id='l_lendawa' pattern='Lendaw*'>Lendawa</a>
 - <a id='l_wyspy_skellige' pattern='Wysp* Skellige,Skellige'>Wyspy Skellige</a>
     - <a id='l_ard_skellig' pattern='Ard Skellig'>Ard Skellig</a>
