@@ -16,8 +16,8 @@
     - [Elf](#g_kajetan) pomaga jej posprzątać, opowiada o [Lentinusie](#p_lentinus) i Feinwedd, które zdaje się być otoczone folklorem przypominającym nieco legendy o dziwostręcie.
     - [Ilana](#g_ilana), chcąc się odwdzięczyć [Ivarowi](#p_ivar) pięknym za nadobne i wyzwolić go od niechcianego brzemienia, wraca do dyskusji o wyciąganiu [Galawaina](#p_galawain) z więzienia [Eithne](#p_eithne) przy [Finarrinie](#p_druid_finarrin). Początkowo przerażony i niechętny [Kajetan](#g_kajetan), nieznacznie daje [druidce](#g_ilana) znać, by przedyskutować to w bardziej kameralnym gronie, w cztery oczy.
     - [Druid](#p_druid_finarrin) odradza nam tak jego zdaniem irracjonalny pomysł. Boi się, że po uwolnieniu Protektora druidzi z [Brokilonu](#l_brokilon) mogą przestać być potrzebni. 
-3. Ku Kerrack
-    - [Mirna](#p_mirna) chce wracać do Kerrack. Najszybciej będzie nam drogą do [Verden](#l_verden). Z kolei [Ilana](#g_ilana) pali się żeby w końcu ruszyć na [Wyspy](#l_wyspy_skellige), więc Kerrack jest dobrym miejscem na znalezienie statku w tamtą stronę.
+3. Ku [Kerrack](#l_kerack)
+    - [Mirna](#p_mirna) chce wracać do [Kerrack](#l_kerack). Najszybciej będzie nam drogą do [Verden](#l_verden). Z kolei [Ilana](#g_ilana) pali się żeby w końcu ruszyć na [Wyspy](#l_wyspy_skellige), więc [Kerrack](#l_kerack) jest dobrym miejscem na znalezienie statku w tamtą stronę.
     - Spakowawszy się i pożegnawszy z [Finarrinem](#p_druid_finarrin), opuszczamy wioskę. [Skovik](#p_skovik) prosi [Gebo](#p_gebo) aby do czasu naszego powrotu pilnował wioski i [Finarrina](#p_druid_finarrin). Nie chce narażać niedźwiadka na niebezpieczeństwa podróży, a i całej drużyny pakować w problemy ze względu na towarzystwo niedźwiedzia.
     - Ruszamy w stronę Starego Olsy, ruin młynu, gdzie - według [Mirny](#p_mirna) - powinniśmy bez problemu znaleźć podwózkę do miasta piratów.
     - W drodze rozmawiamy o użyciu artefaktu, który posiadamy. [Ilana](#g_ilana) jest tak rozsierdzona i urażona komentarzami [smarkacza](#p_ivar), że raczej niż kiwając głową w odpowiedzi na monolog [elfa](#g_kajetan), jak raz opowiada co jej leży na wątrobie.
@@ -25,13 +25,13 @@
     - Po trzech dniach drogi zatrzymujemy się na noc przy trakcie. Do naszego obozu dołącza grupa gnomów z wozem i zaprzężonym do niego osiołkiem. Początkowo nieufne pokurcze mierzą do nas z kuszy - takiej samej, jaką [Ilana](#g_ilana) kupiła dla [Alfonsa](#p_alfons). [Kajetan](#g_kajetan) przywołuje ich jednak do porządku i zaprasza do naszego ogniska.
     - Gnomy idą od [Brugge](#l_m_brugge), gdzie byli świadkami bójki w znanej nam karczmie na podgrodziu. Grupka zbrojnych starła się tam z innymi rycerzami. 
     - Jeden z rycerzy, w czarnej zbroi, został wyrzucony oknem. Tym samym, które wcześniej sprzedał knajpie [Pan Lusterko](#p_gaunter). Okno przecięło mu gardło, aż głowa poleciała. Następnie - ku przerażeniu zebranych - trup wstał, otrzepał się, zabrał głowę i jakby nigdy nic odjechał na koniu w siną dal.
-    - Gnomy jadą w stronę [Cidaris](#l_cidaris), przez Kerrack. Swoją eskortę stracili w [Brugge](#l_m_brugge), w bijatyce, podróżują więc dalej w lekkim strachu.
-    - Oferujemy im eskortę w zamian za podwózkę do Kerrack. Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
+    - Gnomy jadą w stronę [Cidaris](#l_cidaris), przez [Kerrack](#l_kerack). Swoją eskortę stracili w [Brugge](#l_m_brugge), w bijatyce, podróżują więc dalej w lekkim strachu.
+    - Oferujemy im eskortę w zamian za podwózkę do [Kerrack](#l_kerack). Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
 4. Stary Olsa
     - Na miejscu spotykamy dwóch bardów, kilku chłopów i dwóch kupców. Rozpalają ognisko, minstrele przygrywają snując historie, alkohol zaczyna płynąć.
     - W ruinach panuje zdumiewająco przyjazna atmosfera, a ogień bucha aż miło, jakby się sam podsycał. [Kajetan](#g_kajetan) odkorkowuje flaszkę krasnoludzkiego bimbru i dosiada się do towarzystwa. Dowiadujemy się, że:
         - bardowie śpiewają o chwalebnych czynach [Ivara](#p_ivar), jakich dokonuje wzdłóż granic boru
-        - w Kerrack znajduje się pewien dom uciech, zachwalany przez jednego z kupców
+        - w [Kerrack](#l_kerack) znajduje się pewien dom uciech, zachwalany przez jednego z kupców
         - Stary Olsa był młynarzem, który postawił młyn niedługo po lądowaniu ludzi na kontynencie
         - młynarz handlował zamiennie - często walutą były trunki
         - pewnego razu oddał życie przerywając pijacką bójkę - wpadł do huczącego ogniska i spłonął

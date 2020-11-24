@@ -51,6 +51,6 @@
     - Wieczorem docieramy do wzgórza, z którego rozpościera się widok na morze i już nie tak odległe [Gors Velen](#l_gors_velen). Horyzont przecina ostra sylwetka ruin wieży na [Thanedd](#l_wyspa_thanedd).
     - [Ilana](#g_ilana) prosi [elfa](#g_kajetan) na stronę. Rozmawiają o tym co zaszło "[Pod Mantikorą](#l_pod_mantikora)", dlaczego [Kajetan](#g_kajetan) zachował się w ten, nie inny sposób.
     - Rozmowie przez chwilę przysłuchuje się [Skovik](#p_skovik) nim zostaje zauważony. Prosi [maga](#g_kajetan) by skontaktował się z [Leivem](#p_leiv). 
-    - Podchmielony [młodszy wyspiarz](#p_leiv) jest w doskonałym humorze, ma "świetny plan" i zaprasza nas na spotkanie w porcie na podgrodziu [Gors Velen](#l_gors_velen). Zapytany mówi, że w Kerrack dalej wiszą listy gończe za [najstarszym Drummondem](#p_skovik).
+    - Podchmielony [młodszy wyspiarz](#p_leiv) jest w doskonałym humorze, ma "świetny plan" i zaprasza nas na spotkanie w porcie na podgrodziu [Gors Velen](#l_gors_velen). Zapytany mówi, że w [Kerrack](#l_kerack) dalej wiszą listy gończe za [najstarszym Drummondem](#p_skovik).
     - Skonsternowany najściem i niespodziewaną prośbą [Kajetan](#g_kajetan) zostawia parę, sam wraca do obozu.
     - [Ilana](#g_ilana) po raz pierwszy widzi morze i jest zachwycona widokiem. [Skovik](#p_skovik) zdaje się też, ale w momencie smutnieje na widok wraków przy [Thanedd](#l_wyspa_thanedd). [Druidka](#g_ilana) stara się poprawić mu jakoś humor odciągając uwagę od przykrej świadomości.

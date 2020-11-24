@@ -1,6 +1,6 @@
 ### Sesja 85
 1. W dalszą drogę
-    - Budzimy się koło południa w wyśmienitych humorach, niezwykle wypoczęci i o dziwo bez kaca. Do Kerrack zostały nam jeszcze ze 4 dni drogi. Sama droga jest wyboista, zaczyna się powoli robić górzysta.
+    - Budzimy się koło południa w wyśmienitych humorach, niezwykle wypoczęci i o dziwo bez kaca. Do [Kerrack](#l_kerack) zostały nam jeszcze ze 4 dni drogi. Sama droga jest wyboista, zaczyna się powoli robić górzysta.
     - W drodze mijamy wiele opustoszałych, popalonych wsi. Drugiego dnia drogi natykamy się na skupisko ludzi w trakcie czegoś, co przypomina masowy pogrzeb.
     - [Ilana](#g_ilana), zmieniona w lisa, podkrada się bliżej aby sprawdzić co dokładnie ma miejsce. Kilku kapłanów w bieli prowadzi obrządek, podczas którego w palące się snopy składają zawinięte w prześcieradła ciała. Wnioskujemy, że są to ofiary niedawnej zarazy.
     - Nie chcąc ściągać na siebie uwagi ruszamy dalej. Trzeciego dnia mija nas karawana 3 wozów. Starszy, dobrze odziany jegomość pyta nas o drogę do Starego Olsy.
@@ -26,18 +26,18 @@
     - Za przyzwoleniem kapitana przeszukujemy też świątynię, która jak się okazuje, należała do bogini [Kreve](#r_kreve). Pod jednym z sarkofagów stojących w kapliczce znajdujemy przejście z drabinką prowadzące do podziemi, wprost do kryjówki kultystów.
     - [Ilana](#g_ilana) przygląda się zawieszce z "obroży" ghoula. Przypomina ni to krzyż, ni to miecz i definitywnie jest w znacznej mierze z czystego srebra, bo pali [druidkę](#g_ilana) w dłonie. Bibelot otrzymuje więc na przechowanie [Kajetan](#g_kajetan).
     - [Elf](#g_kajetan) wysyła wiadomość do [Larsa](#p_lars) o tym, co znaleźliśmy pod świątynią [Kreve](#r_kreve). [Nadworny mag Verden](#p_lars) obiecuje przekazać wieści komu trzeba i zaprasza do stolicy na kolację na jego koszt.
-5. U progu Kerrack
-    - Okazuje się, że na bombę zeszła o dziwo tylko niewielka część wyszabrowanej gorzałki, tak więc resztę wieczoru spędzamy w towarzystwie świętujących zwycięstwo wojaków, a rano żegnamy się i ruszamy dalej do Kerrack.
-    - Zatrzymujemy się na noc w osadzie [Sotonin](#l_sotonin) należącej już do włości Kerrack. Trafiamy do jedynej karczmy w okolicy. [Kajetan](#g_kajetan) dąsa się na żarcie, piwo i nocleg wątpliwej jakości.
+5. U progu [Kerrack](#l_kerack)
+    - Okazuje się, że na bombę zeszła o dziwo tylko niewielka część wyszabrowanej gorzałki, tak więc resztę wieczoru spędzamy w towarzystwie świętujących zwycięstwo wojaków, a rano żegnamy się i ruszamy dalej do [Kerrack](#l_kerack).
+    - Zatrzymujemy się na noc w osadzie [Sotonin](#l_sotonin) należącej już do włości [Kerrack](#l_kerack). Trafiamy do jedynej karczmy w okolicy. [Kajetan](#g_kajetan) dąsa się na żarcie, piwo i nocleg wątpliwej jakości.
     - W karczmie spotykamy znajomego gnoma z rodziną. Mówi, że do miasta póki co wpuszczają tylko mieszkańców, ma to niby związek z dziwnymi zajściami w okolicy. Kilku zamożnych i poważanych ludzi albo zaginęło, albo zostało wyłowionych martwych z kanału.
     - Nad kuflem dyskutujemy na temat dalszego planu działania. [Mirna](#p_mirna) jest mieszkańcem, może więc spróbować załatwić nam wejściówkę do miasta. Stamtąd moglibyśmy złapać statek na wyspy, jednak [Kajetan](#g_kajetan) upiera się, że na żadną łajbę nie wejdzie, woli teleportować nas prosto na [Skellige](#l_wyspy_skellige), co z kolei spotyka się z silnym sprzeciwem [Ilany](#g_ilana).
     - Noc spędzamy na wspólnej hali śpiąc w hamakach z rybich sieci - zupełnie jak na statku. [Kajetan](#g_kajetan) demonstruje swoje niezadowolenie wszem i wobec, nie mogąc doczekać się bardziej cywilizowanych warunków.
 6. W ogórdku, witając się z gąską
-    - Rezygnując z i tak wątpliwej jakości śniadania, nazajutrz ruszamy do głównej (i chyba jedynej) bramy miasta Kerrack. Brama jest faktycznie zamknięta, a przed nią rozstawił się mały oddział ze stołem do papierologii stosowanej. Zatrzymują nas strażnicy i proszą [Mirnę](#p_mirna) o wyjaśnienie.
+    - Rezygnując z i tak wątpliwej jakości śniadania, nazajutrz ruszamy do głównej (i chyba jedynej) bramy miasta [Kerrack](#l_kerack). Brama jest faktycznie zamknięta, a przed nią rozstawił się mały oddział ze stołem do papierologii stosowanej. Zatrzymują nas strażnicy i proszą [Mirnę](#p_mirna) o wyjaśnienie.
     - [Mirna](#p_mirna) tłumaczy, że jest z miasta i prowadzi tu warsztat, a my jesteśmy jej rodziną (obecną i możliwe, że częściowo przyszłą), ale i tak stróże prawa żądają świadka-rezydenta, który by to potwierdził.
     - [Kajetan](#g_kajetan) wysyła więc wiadomość do [Brona](#p_bron). Ten odpowiada bardzo szybko. Instruuje, by [elf](#g_kajetan) ogłosił się oficjalnie magiem i pod żadnym pozorem nie prowokował ludzi [De Santisa](#p_de_santis). Wszelkie poniesione koszta [lichwiarz](#p_bron) zwróci jak tylko się zobaczą.
     - Idąc za radą [Brona](#p_bron), [Kajetan](#g_kajetan) wyrabia oficjalny dokument i tak wchodzimy do miasta. Za bramą czeka już na nas [Bron](#p_bron) i w drodze opowiada o co ta cała afera:
         - w mieście zaginęlo ostatnio kilka znanych osobistości, w tym jeden słynny bard
         - wyłowiono kilka ciał i wszyscy byli akurat gośćmi jednego z przybytków [lichwiarza](#p_bron)
-        - rzeczony przybytek to Cyklamen, najbardziej luksusowy ~~burdel~~ hotel w Kerrack
+        - rzeczony przybytek to Cyklamen, najbardziej luksusowy ~~burdel~~ hotel w [Kerrack](#l_kerack)
     
