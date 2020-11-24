@@ -12,6 +12,7 @@
 - <a id="r_feinewed" pattern='[Ff]einewe*'>Feinewed</a>
     - kwiaty rosnące tylko na ziemi splamionej krwią starszą krwią
 - <a id="r_goecja" pattern='[Gg]oecj*'>Goecja</a> - szkoła magi skupiająca się na kontrolowaniu dusz i sił życiowych
+- <a id="r_kreve" pattern='Kreve'>Kreve</a> - bóstwo jednej z religii północy
 - <a id="r_lwioglowy_pajak" pattern='Lwiogłow* Pają*'>Lwiogłowy Pająk (Coram Agh Terra)</a> - bóg, zły. Stary kult. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów Foltesta na terenach Temerii. Po śmierci Foltesta wiernych przybywa
 - <a id="r_leopatis" pattern='Leopatis'>Leopatis</a> - stare bóstwo i jego kult
 - <a id="r_wodni_panowie" pattern='Wodn* Pan*'>Wodni Panowie</a> - stare bóstwa i ich kult

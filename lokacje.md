@@ -80,6 +80,8 @@
     - <a id='l_m_kerack' pattern='Kerack'>Kerack</a>
         - Mirna otworzyła tam sklepik i warsztat
     - <a id='l_ansegis' pattern='Ansegis'>Ansegis</a>
+    - <a id='l_sotonin' pattern='Sotonin*'>Sotonin</a>
+        - przygraniczna (od strony Verden) osada
 - <a id='l_kovir' pattern='Kovir*'>Kovir</a>
     - <a id='l_port_vanis' pattern='Port Vanis'>Port Vanis</a>
 - <a id='l_mahakam' pattern='Mahakam*'>Mahakam</a>
@@ -164,6 +166,9 @@
         - wieś pod Brokilonem
         - nazwa wywodzi się z narzecza Skellige
     - <a id='l_siestrzen' pattern='Siestrze*'>Siestrzeń</a>
+    - <a id='l_skalnica' pattern='Skalnic*'>Skalnica</a>
+        - Wymordowana przez ghule
+        - Pod kaplicą Kreve miejsce kultu Lwiogłowego Pająka
     - <a id='l_lendawa' pattern='Lendaw*'>Lendawa</a>
 - <a id='l_wyspy_skellige' pattern='Wysp* Skellige,Skellige'>Wyspy Skellige</a>
     - <a id='l_ard_skellig' pattern='Ard Skellig'>Ard Skellig</a>
