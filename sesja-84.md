@@ -1,4 +1,4 @@
-### Sesja 83
+### Sesja 84
 1. Powrót do [Wioski](#l_wioska)
     - Nasze rozważania o noclegu zostają przerwane przez dochodzące nas z oddali dźwięki konnych.
     - Nie chcąc wpakować się na jakiś przypadkowy oddział idący z [Brugge](#l_m_brugge), umykamy za rzekę. [Kajetan](#g_kajetan) wysyła na zwiad swoją sowę, która potwierdza nasze przypuszczenia.
