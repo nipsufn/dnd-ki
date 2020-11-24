@@ -17,7 +17,7 @@
     - Piraci w wyśmienitych humorach zaciągają skarby do "Dziury", gdzie zaczynają ucztować. Ilana zauważa Skovika, siedzącego samotnie przy jednym ze stołów, przy dwóch butelkach - jednej pustej, drugiej na wpół pełnej.
     - {Druidka}Ilana próbuje wyciągnąć {osiłka}Skovik z wisielczego nastroju, gdy jej znamię napływa krwią. Z czasem krwi przybywa tak, że Ilana musi zakryć dłoń.
     - Chwilę później czas się zatrzymuje - odwiedza nas Gaunter O'Dimm. Przestawia o kawałeczek napitki Roeggnera i jednego z jego ludzi - Stiga, mówiąc, że jeden z pomocników Lloyda jest u drzwi karczmy.
-    - Pozostała dwójka jest dalej, jako że próbowała podążać za Kajetanem do Kerrack. Gaunter gratuluje nam pomysłowości. W wizjii przedstawionej nam w czyimś kuflu z piwem widzimy jak ciało, które kontrolował Lloyd, rozpada się, a z resztek wyrastają dwa drzewa przypominające ludzi - podobne do tych, które spotkaliśmy pierwszy raz odwiedzając Medowną.
+    - Pozostała dwójka jest dalej, jako że próbowała podążać za Kajetanem do Kerack. Gaunter gratuluje nam pomysłowości. W wizjii przedstawionej nam w czyimś kuflu z piwem widzimy jak ciało, które kontrolował Lloyd, rozpada się, a z resztek wyrastają dwa drzewa przypominające ludzi - podobne do tych, które spotkaliśmy pierwszy raz odwiedzając Medowną.
     - Ścigająca nas dusza Lloyda zasiedliła jedno z ciał, które widzieliśmy w okolicach wraku wcześniej. W tej chwili ciało jest rozrywane przez monstrualnego kraba.
     - Przybysz podsuwa nam myśl, że być może to Formorian zabił rodzinę {upiora}Lloyd.
     - Czas zaczyna znów płynąć, przesunięte piwo początkuje łańcuch wydarzeń, który skutkuje bójką między Roeggnerem, a jednym z marynarzy. Wygląda to na zwykłą bitkę, dopóki rozjuszony Stig nie wyciąga noża.

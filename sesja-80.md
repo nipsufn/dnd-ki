@@ -30,20 +30,20 @@
     - Leiv przedstawia swój wyśmienity plan: Ilana i Kajetan mieliby pomóc wydobyć z dna morza zatopiony skarb ze statku - tego samego, który wczoraj Skovik zauważył z punktu widokowego.
     - Ilana przystaje na pomysł {młodszego Drummonda}Leiv, ku głosom zwątpienia i niedowierzania ze strony reszty pirackiej kompanii. Ich zdaniem nawet poławiacze pereł nie są w stanie zejść na 100-150 metrów, gdzie spoczywa ich dobytek, a co dopiero takie chuchro jak Ilana. Zdaje się więc, że Leiv nie wyjawił swoim kamratom kim jesteśmy.
     - {Druidka}Ilana, chcąc wydostać się nareszcie z tej dziwnej sytuacji, pyta Leiva, czy wybierze się z nią i Skovikiem na wieczorne show. Ku niezadowoleniu Ilany, Rea wprasza się i biorąc Skovika pod rękę, przewodzi towarzystwu do namiotu.
-5. Wizyta w Kerrack - Kajetan
+5. Wizyta w Kerack - Kajetan
     - {Elf}Kajetan, zostawiając towarzyszy, wypytuje przechodnia o najlepszą karczmę w mieście. Otrzymuje namiary na Srebbrną Czaplę.
     - Rezerwując pokój w Srebrnej Czapli, zajeździe niegdyś obsługującym wyłącznie gości Aretuzy, {mag}Kajetan dowiaduje się, że:
         - na rynku koło ratusza jest biblioteka publiczna
         - na podgrodziu niedaleko portu jest sklepik słynnego podróżnika Fabio Sachsa, gdzie można znaleźć mapy i przewodniki
         - stajnie znajdują się na podgrodziu
     - Odwiedzając bibliotekę {czarodziej}Kajetan zauważa Dorregaray'a serdecznie rozmawiającego z jakimś jegomościem na wystawie obrazów pod szyldem "Wiedźmin w pracy", nie przeszkadza mu jednak i wraca do realizacji swoich planów.
-    - Z pomocą ślepego elfa-bibliotekarza znajduje opis Kerrack. Do teleportacji lepsza była by rycina, jednak księga opisuje bardzo charakterystyczny posąg Lytty Neyd na rynku miasta.
+    - Z pomocą ślepego elfa-bibliotekarza znajduje opis Kerack. Do teleportacji lepsza była by rycina, jednak księga opisuje bardzo charakterystyczny posąg Lytty Neyd na rynku miasta.
     - Kajetan wynajmuje konia i wyjeżdża za miasto, pamiętając komentarze konfratrów o teleportacyjnej niestabilności okolicy Tor Lara. Wysyła także wiadomość do Mirny aby potwierdzić miejsce spotkania.
     - Znajdując zagajnik kilka godzin drogi od miasta, teleportuje siebie i konia używając artefaktów, które niedawno otrzymał. W efekcie ląduje z nieprzytomnym koniem dokładnie w fontannie. Cuci konia i wyciąga z wody, a skonfrontowany przez zainteresowanych strażników przeprasza i czyści wiernie oddane narodowe dobro kultury.
-    - Przy okazji dowiaduje się, że w Kerrack magia rzeczywiście nie jest kontrolowana.
+    - Przy okazji dowiaduje się, że w Kerack magia rzeczywiście nie jest kontrolowana.
     - Niedaleko od fontanny na ławce siedzi Mirna, w towarzystwie kogoś, kto wygląda jak oprych bardzo starający się nie wyglądać na oprycha - to Bron.
     - Bron wygląda na nieco zaszokowanego albo przestraszonego spektakularnym przybyciem Kajetana. Żywi nadzieję, że Mirnie nic się nie stanie jeśli pozostawi swą współpracowniczę w rękach {elfa}Kajetan i zmyka tak szybko jak tylko może.
-    - Wyruszamy z {druidką}Mirna do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai - specjalistę od rzeźbienia misternych rzeczy. Kerrack jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
+    - Wyruszamy z {druidką}Mirna do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai - specjalistę od rzeźbienia misternych rzeczy. Kerack jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
     - Kajetan wyłuszcza swoje zlecenie. Aby zaskarbić sobie sympatię wyspiarzy obecnych w zakładzie, robi to w ich ojczystym języku, stawiając przy tym flaszkę krasnoludzkiego bimbru na stół.
     - Okazuje się, że piraci pochodzą z klanu Tordarroch, słynącego ze znamienitych płatnerzy.
     - Początkowo niechętny, stary pirat podejmuje pracę zleconą przez {elfa}Kajetan. Naprędce nakreślony szkic przedstawia... wieżę z iluzji Gauntera. Cacko będzie jednak trochę kosztować, w dodatku brakuje materiału. Wszystko jednak da się załatwić, za określone pieniądze. Wieża będzie do odbioru za 3-4 tygodnie.

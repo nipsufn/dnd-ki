@@ -39,11 +39,11 @@
         - {władczyni}Cerys trzyma na dworze druida (Myszowora?), który uratował ją od trucizny po nieudanym zamachu
         - trucizna była połączeniem alchemii i magii (skąd to Skovik miał?)
         - wyspa Undvik, miejsce gdzie rozpoczęła się "Zapaść", jest celem wypraw wyspiarzy polujących na obudzone czy też nowo przybyłe lodowe giganty; dzięki tej rozrywce mniej się biją między sobą
-    - Radcliffe i Mozaik, Kerrack:
+    - Radcliffe i Mozaik, Kerack:
         - mag musiał interweniować, ponieważ Viraxas jest obrażony na czarodziejów, a szczególnie na żeńską część kasty, przez to jak jego żona była traktowana na Aretuzie - jego asystentka, Mozaik, nie mogła nic wskórać
         - {władyka}Viraxas nasłał (nieoficjalnie ma się rozumieć) piratów ze Skellige pod przywództwem Roeggnera Czarnego, by grabił statki transportujące zaklęte przedmioty
         - piratów podjudza jeszcze ktoś inny, identyfikujący się broszą o kształcie Salamandry - Keira wspomina, że jakiś Wyzimski gang tak się znaczył, a Triss może wiedzieć więcej (miała z nimi osobiste porachunki)
-        - Przejęte przez {władcę Kerrack}Viraxas magiczne artefakty są bezpiecznie przechowywane poza granicami kraju; jest skłonny pertraktować, ale nie z czarodziejkami
+        - Przejęte przez {władcę Kerack}Viraxas magiczne artefakty są bezpiecznie przechowywane poza granicami kraju; jest skłonny pertraktować, ale nie z czarodziejkami
         - gdy Ida sarkastycznie komentuje zachowanie władców, za jej plecami zauważamy Filavandrela
         - ktoś musiał donieść Viraxasowi o transportach, sam by się nie dowiedział
     - Bras:
@@ -68,7 +68,7 @@
     - Bras też wychodzi, gdy {mag}Kajetan zaczyna rozsyłać wiadomości:
         - do Igny: _"Dijkstra dotarł do Kapituły w trzy dni, i jego wystąpienie jest w centrum uwagi. Dusek chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji Myrtona"_
         - z Leivem: _"Kto jeszcze steruje Roeggnerem, bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się Cerys, dał mu magiczne urządzenie do śledzenia statków, które ma napadać."_
-        - z Radcliffem dzieli się wiadomościami od Leiva o Ragnarze; w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w Kerrack
+        - z Radcliffem dzieli się wiadomościami od Leiva o Ragnarze; w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w Kerack
         - z Stregoborem:
             - punkt zwarcia sfer Pardwy nie jest zakotwiczony; budowniczy wież uznali, że teren jest zbyt trudny
             - Kajetan wspomina o płaskorzeźbie przedstawiającej punkty zwarcia sfer oraz dostępie do archiwów Aen Drisichean

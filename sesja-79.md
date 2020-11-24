@@ -51,6 +51,6 @@
     - Wieczorem docieramy do wzgórza, z którego rozpościera się widok na morze i już nie tak odległe Gors Velen. Horyzont przecina ostra sylwetka ruin wieży na Thanedd.
     - Ilana prosi {elfa}Kajetan na stronę. Rozmawiają o tym co zaszło "Pod Mantikorą", dlaczego Kajetan zachował się w ten, nie inny sposób.
     - Rozmowie przez chwilę przysłuchuje się Skovik nim zostaje zauważony. Prosi {maga}Kajetan by skontaktował się z Leivem. 
-    - Podchmielony {młodszy wyspiarz}Leiv jest w doskonałym humorze, ma "świetny plan" i zaprasza nas na spotkanie w porcie na podgrodziu Gors Velen. Zapytany mówi, że w Kerrack dalej wiszą listy gończe za {najstarszym Drummondem}Skovik.
+    - Podchmielony {młodszy wyspiarz}Leiv jest w doskonałym humorze, ma "świetny plan" i zaprasza nas na spotkanie w porcie na podgrodziu Gors Velen. Zapytany mówi, że w Kerack dalej wiszą listy gończe za {najstarszym Drummondem}Skovik.
     - Skonsternowany najściem i niespodziewaną prośbą Kajetan zostawia parę, sam wraca do obozu.
     - Ilana po raz pierwszy widzi morze i jest zachwycona widokiem. Skovik zdaje się też, ale w momencie smutnieje na widok wraków przy Thanedd. {Druidka}Ilana stara się poprawić mu jakoś humor odciągając uwagę od przykrej świadomości.

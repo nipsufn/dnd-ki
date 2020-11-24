@@ -43,7 +43,7 @@
         - Kajetan prosi o audiencję Kapituły
         - w Nilfgaardzie władzę przejął nowy Cesarz, ale nie wiadomo jaki ma stosunek do czarodziejów i jak ich pozycja zmieni się w cesarstwie; raczej nie będzie się od razu pchał na wojnę z północą
         - poprzedniego cesarza zasztyletowali jego sojusznicy
-        - agent z Kerrack donosi, że Kistrin, władca Verden, ma nowego nadwornego maga
+        - agent z Kerack donosi, że Kistrin, władca Verden, ma nowego nadwornego maga
         - Lars był uczniem Doregaraia
         - Florian miał starszą siostrę, Assire, która została zamordowana w Loc Muinne w niewyjaśnionych okolicznościach kilka lat temu; informacje o jej śmierci mogą być dobrą zachętą do współpracy
         - Brass jest mistrzem fechtunku

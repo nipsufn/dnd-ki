@@ -29,7 +29,7 @@
     - [Młodzian](Ivar) wyraźnie się wyrobił i nabrał formy biegając po lesie. Rozkojarzony dopiero po chwili zauważa Ilanę i wita się z nią, nieco skrępowany jej obecnością. 
     - [Druidka](Ilana) proponuje śniadanie, ale [chłopak](Ivar) pada z nóg i niemal natychmiast idzie się położyć. Pyta na jak długo Ilana wpadła z wizytą i obiecuje poopowiadać co u niego jak tylko odeśpi zmęczenie.
     - W okolicach późnego popołudnia Ivar wraca do żywych i dołącza do rozmawiającej pary. Chwali się i opowiada:
-        +  był ostatnio w Ansegis - wiosce na granicy Kerrack i Brokilonu; wioska była atakowana przez potwory przypominające przerośnięte pasikoniki
+        +  był ostatnio w Ansegis - wiosce na granicy Kerack i Brokilonu; wioska była atakowana przez potwory przypominające przerośnięte pasikoniki
         +  wraz z Eithne udał się też niedawno do Craag An; wszystkie drzewa rozpadły się tam w pył, a Eithne była dość przejęta czymś, co napawało ją niepokojem, jakby czaiło się w ruinach - nalegała, aby opuścić to miejsce jak najszybciej
         +  jelonek Ivara to podobno peryton; jest stworzeniem magicznym i ciągle nosi w sobie cząstkę Verenestry, a kiedy dorośnie, możliwe, że wyrosną mu skrzydła
     - Skovik martwi się o [młodszego brata](Ivar). Uważa, że [stara elfia wiedźma](Eithne) za bardzo miesza mu w głowie.

@@ -16,8 +16,8 @@
     - {Elf}Kajetan pomaga jej posprzątać, opowiada o Lentinusie i Feinwedd, które zdaje się być otoczone folklorem przypominającym nieco legendy o dziwostręcie.
     - Ilana, chcąc się odwdzięczyć Ivarowi pięknym za nadobne i wyzwolić go od niechcianego brzemienia, wraca do dyskusji o wyciąganiu Galawaina z więzienia Eithne przy Finarrinie. Początkowo przerażony i niechętny Kajetan, nieznacznie daje {druidce}Ilana znać, by przedyskutować to w bardziej kameralnym gronie, w cztery oczy.
     - {Druid}Finarrin odradza nam tak jego zdaniem irracjonalny pomysł. Boi się, że po uwolnieniu Protektora druidzi z Brokilonu mogą przestać być potrzebni. 
-3. Ku Kerrack
-    - Mirna chce wracać do Kerrack. Najszybciej będzie nam drogą do Verden. Z kolei Ilana pali się żeby w końcu ruszyć na {Wyspy}Skellige, więc Kerrack jest dobrym miejscem na znalezienie statku w tamtą stronę.
+3. Ku Kerack
+    - Mirna chce wracać do Kerack. Najszybciej będzie nam drogą do Verden. Z kolei Ilana pali się żeby w końcu ruszyć na {Wyspy}Skellige, więc Kerack jest dobrym miejscem na znalezienie statku w tamtą stronę.
     - Spakowawszy się i pożegnawszy z Finarrinem, opuszczamy wioskę. Skovik prosi Gebo aby do czasu naszego powrotu pilnował wioski i Finarrina. Nie chce narażać niedźwiadka na niebezpieczeństwa podróży, a i całej drużyny pakować w problemy ze względu na towarzystwo niedźwiedzia.
     - Ruszamy w stronę Starego Olsy, ruin młynu, gdzie - według Mirny - powinniśmy bez problemu znaleźć podwózkę do miasta piratów.
     - W drodze rozmawiamy o użyciu artefaktu, który posiadamy. Ilana jest tak rozsierdzona i urażona komentarzami {smarkacza}Ivar, że raczej niż kiwając głową w odpowiedzi na monolog {elfa}Kajetan, jak raz opowiada co jej leży na wątrobie.
@@ -25,13 +25,13 @@
     - Po trzech dniach drogi zatrzymujemy się na noc przy trakcie. Do naszego obozu dołącza grupa gnomów z wozem i zaprzężonym do niego osiołkiem. Początkowo nieufne pokurcze mierzą do nas z kuszy - takiej samej, jaką Ilana kupiła dla Alfonsa. Kajetan przywołuje ich jednak do porządku i zaprasza do naszego ogniska.
     - Gnomy idą od Brugge, gdzie byli świadkami bójki w znanej nam karczmie na podgrodziu. Grupka zbrojnych starła się tam z innymi rycerzami. 
     - Jeden z rycerzy, w czarnej zbroi, został wyrzucony oknem. Tym samym, które wcześniej sprzedał knajpie Pan Lusterko. Okno przecięło mu gardło, aż głowa poleciała. Następnie - ku przerażeniu zebranych - trup wstał, otrzepał się, zabrał głowę i jakby nigdy nic odjechał na koniu w siną dal.
-    - Gnomy jadą w stronę Cidaris, przez Kerrack. Swoją eskortę stracili w Brugge, w bijatyce, podróżują więc dalej w lekkim strachu.
-    - Oferujemy im eskortę w zamian za podwózkę do Kerrack. Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
+    - Gnomy jadą w stronę Cidaris, przez Kerack. Swoją eskortę stracili w Brugge, w bijatyce, podróżują więc dalej w lekkim strachu.
+    - Oferujemy im eskortę w zamian za podwózkę do Kerack. Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
 4. Stary Olsa
     - Na miejscu spotykamy dwóch bardów, kilku chłopów i dwóch kupców. Rozpalają ognisko, minstrele przygrywają snując historie, alkohol zaczyna płynąć.
     - W ruinach panuje zdumiewająco przyjazna atmosfera, a ogień bucha aż miło, jakby się sam podsycał. Kajetan odkorkowuje flaszkę krasnoludzkiego bimbru i dosiada się do towarzystwa. Dowiadujemy się, że:
         - bardowie śpiewają o chwalebnych czynach Ivara, jakich dokonuje wzdłóż granic boru
-        - w Kerrack znajduje się pewien dom uciech, zachwalany przez jednego z kupców
+        - w Kerack znajduje się pewien dom uciech, zachwalany przez jednego z kupców
         - Stary Olsa był młynarzem, który postawił młyn niedługo po lądowaniu ludzi na kontynencie
         - młynarz handlował zamiennie - często walutą były trunki
         - pewnego razu oddał życie przerywając pijacką bójkę - wpadł do huczącego ogniska i spłonął

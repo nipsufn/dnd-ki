@@ -86,7 +86,7 @@
         - Craag An
         - Maribor
         - Świątynia Melitele
-        - Kerrack (eksperymantalny)
+        - Kerack (eksperymantalny)
     - Plany:
         - Obejrzeć medalion i monety znalezione w warowni w Craag An
         - wrócić do podziemnego jeziora koło Col Serrai

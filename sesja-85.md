@@ -1,6 +1,6 @@
 ### Sesja 85
 1. W dalszą drogę
-    - Budzimy się koło południa w wyśmienitych humorach, niezwykle wypoczęci i o dziwo bez kaca. Do Kerrack zostały nam jeszcze ze 4 dni drogi. Sama droga jest wyboista, zaczyna się powoli robić górzysta.
+    - Budzimy się koło południa w wyśmienitych humorach, niezwykle wypoczęci i o dziwo bez kaca. Do Kerack zostały nam jeszcze ze 4 dni drogi. Sama droga jest wyboista, zaczyna się powoli robić górzysta.
     - W drodze mijamy wiele opustoszałych, popalonych wsi. Drugiego dnia drogi natykamy się na skupisko ludzi w trakcie czegoś, co przypomina masowy pogrzeb.
     - Ilana, zmieniona w lisa, podkrada się bliżej aby sprawdzić co dokładnie ma miejsce. Kilku kapłanów w bieli prowadzi obrządek, podczas którego w palące się snopy składają zawinięte w prześcieradła ciała. Wnioskujemy, że są to ofiary niedawnej zarazy.
     - Nie chcąc ściągać na siebie uwagi ruszamy dalej. Trzeciego dnia mija nas karawana 3 wozów. Starszy, dobrze odziany jegomość pyta nas o drogę do Starego Olsy.
@@ -26,18 +26,18 @@
     - Za przyzwoleniem kapitana przeszukujemy też świątynię, która jak się okazuje, należała do bogini Kreve. Pod jednym z sarkofagów stojących w kapliczce znajdujemy przejście z drabinką prowadzące do podziemi, wprost do kryjówki kultystów.
     - Ilana przygląda się zawieszce z "obroży" ghoula. Przypomina ni to krzyż, ni to miecz i definitywnie jest w znacznej mierze z czystego srebra, bo pali {druidkę}Ilana w dłonie. Bibelot otrzymuje więc na przechowanie Kajetan.
     - {Elf}Kajetan wysyła wiadomość do Larsa o tym, co znaleźliśmy pod świątynią Kreve. {Nadworny mag Verden}Lars obiecuje przekazać wieści komu trzeba i zaprasza do stolicy na kolację na jego koszt.
-5. U progu Kerrack
-    - Okazuje się, że na bombę zeszła o dziwo tylko niewielka część wyszabrowanej gorzałki, tak więc resztę wieczoru spędzamy w towarzystwie świętujących zwycięstwo wojaków, a rano żegnamy się i ruszamy dalej do Kerrack.
-    - Zatrzymujemy się na noc w osadzie Sotonin należącej już do włości Kerrack. Trafiamy do jedynej karczmy w okolicy. Kajetan dąsa się na żarcie, piwo i nocleg wątpliwej jakości.
+5. U progu Kerack
+    - Okazuje się, że na bombę zeszła o dziwo tylko niewielka część wyszabrowanej gorzałki, tak więc resztę wieczoru spędzamy w towarzystwie świętujących zwycięstwo wojaków, a rano żegnamy się i ruszamy dalej do Kerack.
+    - Zatrzymujemy się na noc w osadzie Sotonin należącej już do włości Kerack. Trafiamy do jedynej karczmy w okolicy. Kajetan dąsa się na żarcie, piwo i nocleg wątpliwej jakości.
     - W karczmie spotykamy znajomego gnoma z rodziną. Mówi, że do miasta póki co wpuszczają tylko mieszkańców, ma to niby związek z dziwnymi zajściami w okolicy. Kilku zamożnych i poważanych ludzi albo zaginęło, albo zostało wyłowionych martwych z kanału.
     - Nad kuflem dyskutujemy na temat dalszego planu działania. Mirna jest mieszkańcem, może więc spróbować załatwić nam wejściówkę do miasta. Stamtąd moglibyśmy złapać statek na wyspy, jednak Kajetan upiera się, że na żadną łajbę nie wejdzie, woli teleportować nas prosto na Skellige, co z kolei spotyka się z silnym sprzeciwem Ilany.
     - Noc spędzamy na wspólnej hali śpiąc w hamakach z rybich sieci - zupełnie jak na statku. Kajetan demonstruje swoje niezadowolenie wszem i wobec, nie mogąc doczekać się bardziej cywilizowanych warunków.
 6. W ogórdku, witając się z gąską
-    - Rezygnując z i tak wątpliwej jakości śniadania, nazajutrz ruszamy do głównej (i chyba jedynej) bramy miasta Kerrack. Brama jest faktycznie zamknięta, a przed nią rozstawił się mały oddział ze stołem do papierologii stosowanej. Zatrzymują nas strażnicy i proszą Mirnę o wyjaśnienie.
+    - Rezygnując z i tak wątpliwej jakości śniadania, nazajutrz ruszamy do głównej (i chyba jedynej) bramy miasta Kerack. Brama jest faktycznie zamknięta, a przed nią rozstawił się mały oddział ze stołem do papierologii stosowanej. Zatrzymują nas strażnicy i proszą Mirnę o wyjaśnienie.
     - Mirna tłumaczy, że jest z miasta i prowadzi tu warsztat, a my jesteśmy jej rodziną (obecną i możliwe, że częściowo przyszłą), ale i tak stróże prawa żądają świadka-rezydenta, który by to potwierdził.
     - Kajetan wysyła więc wiadomość do Brona. Ten odpowiada bardzo szybko. Instruuje, by {elf}Kajetan ogłosił się oficjalnie magiem i pod żadnym pozorem nie prowokował ludzi De Santisa. Wszelkie poniesione koszta {lichwiarz}Bron zwróci jak tylko się zobaczą.
     - Idąc za radą Brona, Kajetan wyrabia oficjalny dokument i tak wchodzimy do miasta. Za bramą czeka już na nas Bron i w drodze opowiada o co ta cała afera:
         - w mieście zaginęlo ostatnio kilka znanych osobistości, w tym jeden słynny bard
         - wyłowiono kilka ciał i wszyscy byli akurat gośćmi jednego z przybytków {lichwiarza}Bron
-        - rzeczony przybytek to Cyklamen, najbardziej luksusowy ~~burdel~~ hotel w Kerrack
+        - rzeczony przybytek to Cyklamen, najbardziej luksusowy ~~burdel~~ hotel w Kerack
     
