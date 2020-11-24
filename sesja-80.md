@@ -30,20 +30,20 @@
     - [Leiv](#p_leiv) przedstawia swój wyśmienity plan: [Ilana](#g_ilana) i [Kajetan](#g_kajetan) mieliby pomóc wydobyć z dna morza zatopiony skarb ze statku - tego samego, który wczoraj [Skovik](#p_skovik) zauważył z punktu widokowego.
     - [Ilana](#g_ilana) przystaje na pomysł [młodszego Drummonda](#p_leiv), ku głosom zwątpienia i niedowierzania ze strony reszty pirackiej kompanii. Ich zdaniem nawet poławiacze pereł nie są w stanie zejść na 100-150 metrów, gdzie spoczywa ich dobytek, a co dopiero takie chuchro jak [Ilana](#g_ilana). Zdaje się więc, że [Leiv](#p_leiv) nie wyjawił swoim kamratom kim jesteśmy.
     - [Druidka](#g_ilana), chcąc wydostać się nareszcie z tej dziwnej sytuacji, pyta [Leiva](#p_leiv), czy wybierze się z nią i [Skovikiem](#p_skovik) na wieczorne show. Ku niezadowoleniu [Ilany](#g_ilana), Rea wprasza się i biorąc [Skovika](#p_skovik) pod rękę, przewodzi towarzystwu do namiotu.
-5. Wizyta w [Kerrack](#l_kerack) - [Kajetan](#g_kajetan)
+5. Wizyta w [Kerack](#l_kerack) - [Kajetan](#g_kajetan)
     - [Elf](#g_kajetan), zostawiając towarzyszy, wypytuje przechodnia o najlepszą karczmę w mieście. Otrzymuje namiary na Srebbrną Czaplę.
     - Rezerwując pokój w Srebrnej Czapli, zajeździe niegdyś obsługującym wyłącznie gości [Aretuzy](#l_wyspa_thanedd), [mag](#g_kajetan) dowiaduje się, że:
         - na rynku koło ratusza jest biblioteka publiczna
         - na podgrodziu niedaleko portu jest sklepik słynnego podróżnika Fabio Sachsa, gdzie można znaleźć mapy i przewodniki
         - stajnie znajdują się na podgrodziu
     - Odwiedzając bibliotekę [czarodziej](#g_kajetan) zauważa [Dorregaray](#p_dorregaray)'a serdecznie rozmawiającego z jakimś jegomościem na wystawie obrazów pod szyldem "Wiedźmin w pracy", nie przeszkadza mu jednak i wraca do realizacji swoich planów.
-    - Z pomocą ślepego elfa-bibliotekarza znajduje opis [Kerrack](#l_kerack). Do teleportacji lepsza była by rycina, jednak księga opisuje bardzo charakterystyczny posąg [Lytty Neyd](#p_koral) na rynku miasta.
+    - Z pomocą ślepego elfa-bibliotekarza znajduje opis [Kerack](#l_kerack). Do teleportacji lepsza była by rycina, jednak księga opisuje bardzo charakterystyczny posąg [Lytty Neyd](#p_koral) na rynku miasta.
     - [Kajetan](#g_kajetan) wynajmuje konia i wyjeżdża za miasto, pamiętając komentarze konfratrów o teleportacyjnej niestabilności okolicy Tor Lara. Wysyła także wiadomość do [Mirny](#p_mirna) aby potwierdzić miejsce spotkania.
     - Znajdując zagajnik kilka godzin drogi od miasta, teleportuje siebie i konia używając artefaktów, które niedawno otrzymał. W efekcie ląduje z nieprzytomnym koniem dokładnie w fontannie. Cuci konia i wyciąga z wody, a skonfrontowany przez zainteresowanych strażników przeprasza i czyści wiernie oddane narodowe dobro kultury.
-    - Przy okazji dowiaduje się, że w [Kerrack](#l_kerack) magia rzeczywiście nie jest kontrolowana.
+    - Przy okazji dowiaduje się, że w [Kerack](#l_kerack) magia rzeczywiście nie jest kontrolowana.
     - Niedaleko od fontanny na ławce siedzi [Mirna](#p_mirna), w towarzystwie kogoś, kto wygląda jak oprych bardzo starający się nie wyglądać na oprycha - to [Bron](#p_bron).
     - [Bron](#p_bron) wygląda na nieco zaszokowanego albo przestraszonego spektakularnym przybyciem [Kajetana](#g_kajetan). Żywi nadzieję, że [Mirnie](#p_mirna) nic się nie stanie jeśli pozostawi swą współpracowniczę w rękach [elfa](#g_kajetan) i zmyka tak szybko jak tylko może.
-    - Wyruszamy z [druidką](#p_mirna) do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai - specjalistę od rzeźbienia misternych rzeczy. [Kerrack](#l_kerack) jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
+    - Wyruszamy z [druidką](#p_mirna) do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai - specjalistę od rzeźbienia misternych rzeczy. [Kerack](#l_kerack) jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
     - [Kajetan](#g_kajetan) wyłuszcza swoje zlecenie. Aby zaskarbić sobie sympatię wyspiarzy obecnych w zakładzie, robi to w ich ojczystym języku, stawiając przy tym flaszkę krasnoludzkiego bimbru na stół.
     - Okazuje się, że piraci pochodzą z klanu Tordarroch, słynącego ze znamienitych płatnerzy.
     - Początkowo niechętny, stary pirat podejmuje pracę zleconą przez [elfa](#g_kajetan). Naprędce nakreślony szkic przedstawia... wieżę z iluzji [Gauntera](#p_gaunter). Cacko będzie jednak trochę kosztować, w dodatku brakuje materiału. Wszystko jednak da się załatwić, za określone pieniądze. Wieża będzie do odbioru za 3-4 tygodnie.

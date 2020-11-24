@@ -29,7 +29,7 @@
     - [Młodzian](#p_ivar) wyraźnie się wyrobił i nabrał formy biegając po lesie. Rozkojarzony dopiero po chwili zauważa [Ilanę](#g_ilana) i wita się z nią, nieco skrępowany jej obecnością. 
     - [Druidka](#g_ilana) proponuje śniadanie, ale [chłopak](#p_ivar) pada z nóg i niemal natychmiast idzie się położyć. Pyta na jak długo [Ilana](#g_ilana) wpadła z wizytą i obiecuje poopowiadać co u niego jak tylko odeśpi zmęczenie.
     - W okolicach późnego popołudnia [Ivar](#p_ivar) wraca do żywych i dołącza do rozmawiającej pary. Chwali się i opowiada:
-        +  był ostatnio w [Ansegis](#l_ansegis) - wiosce na granicy [Kerrack](#l_kerack) i [Brokilonu](#l_brokilon); wioska była atakowana przez potwory przypominające przerośnięte pasikoniki
+        +  był ostatnio w [Ansegis](#l_ansegis) - wiosce na granicy [Kerack](#l_kerack) i [Brokilonu](#l_brokilon); wioska była atakowana przez potwory przypominające przerośnięte pasikoniki
         +  wraz z [Eithne](#p_eithne) udał się też niedawno do [Craag An](#l_craag_an); wszystkie drzewa rozpadły się tam w pył, a [Eithne](#p_eithne) była dość przejęta czymś, co napawało ją niepokojem, jakby czaiło się w ruinach - nalegała, aby opuścić to miejsce jak najszybciej
         +  jelonek [Ivara](#p_ivar) to podobno [peryton](#b_peryton); jest stworzeniem magicznym i ciągle nosi w sobie cząstkę [Verenestry](#p_verenestra), a kiedy dorośnie, możliwe, że wyrosną mu skrzydła
     - [Skovik](#p_skovik) martwi się o [młodszego brata](#p_ivar). Uważa, że [stara elfia wiedźma](#p_eithne) za bardzo miesza mu w głowie.

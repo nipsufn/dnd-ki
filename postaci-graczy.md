@@ -86,7 +86,7 @@
         - [Craag An](#l_craag_an)
         - [Maribor](#l_maribor)
         - [Świątynia Melitele](#l_smelitele)
-        - [Kerrack](#l_kerack) (eksperymantalny)
+        - [Kerack](#l_kerack) (eksperymantalny)
     - Plany:
         - Obejrzeć medalion i monety znalezione w warowni w [Craag An](#l_craag_an)
         - wrócić do podziemnego jeziora koło [Col Serrai](#l_col_serrai)

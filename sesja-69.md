@@ -39,11 +39,11 @@
         - [władczyni](#p_cerys) trzyma na dworze druida ([Myszowora](#p_myszowor)?), który uratował ją od trucizny po nieudanym zamachu
         - trucizna była połączeniem alchemii i magii (skąd to [Skovik](#p_skovik) miał?)
         - wyspa [Undvik](#l_undvik), miejsce gdzie rozpoczęła się "Zapaść", jest celem wypraw wyspiarzy polujących na obudzone czy też nowo przybyłe lodowe giganty; dzięki tej rozrywce mniej się biją między sobą
-    - [Radcliffe](#p_radcliffe) i [Mozaik](#p_mozaik), [Kerrack](#l_kerack):
+    - [Radcliffe](#p_radcliffe) i [Mozaik](#p_mozaik), [Kerack](#l_kerack):
         - mag musiał interweniować, ponieważ [Viraxas](#p_ksiaze_viraxas) jest obrażony na czarodziejów, a szczególnie na żeńską część kasty, przez to jak jego żona była traktowana na [Aretuzie](#l_wyspa_thanedd) - jego asystentka, [Mozaik](#p_mozaik), nie mogła nic wskórać
         - [władyka](#p_ksiaze_viraxas) nasłał (nieoficjalnie ma się rozumieć) piratów ze [Skellige](#l_wyspy_skellige) pod przywództwem [Roeggnera Czarnego](#p_roeggner), by grabił statki transportujące zaklęte przedmioty
         - piratów podjudza jeszcze ktoś inny, identyfikujący się broszą o kształcie Salamandry - [Keira](#p_keira_metz) wspomina, że jakiś [Wyzimski](#l_wyzima) gang tak się znaczył, a [Triss](#p_triss_merigold) może wiedzieć więcej (miała z nimi osobiste porachunki)
-        - Przejęte przez [władcę Kerrack](#p_ksiaze_viraxas) magiczne artefakty są bezpiecznie przechowywane poza granicami kraju; jest skłonny pertraktować, ale nie z czarodziejkami
+        - Przejęte przez [władcę Kerack](#p_ksiaze_viraxas) magiczne artefakty są bezpiecznie przechowywane poza granicami kraju; jest skłonny pertraktować, ale nie z czarodziejkami
         - gdy [Ida](#p_ida) sarkastycznie komentuje zachowanie władców, za jej plecami zauważamy [Filavandrela](#p_filavandrel)
         - ktoś musiał donieść [Viraxasowi](#p_ksiaze_viraxas) o transportach, sam by się nie dowiedział
     - [Bras](#p_bras):
@@ -68,7 +68,7 @@
     - [Bras](#p_bras) też wychodzi, gdy [mag](#g_kajetan) zaczyna rozsyłać wiadomości:
         - do [Igny](#p_igna): _"[Dijkstra](#p_dijkstra) dotarł do [Kapituły](#r_kapitula) w trzy dni, i jego wystąpienie jest w centrum uwagi. [Dusek](#p_dusek) chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji [Myrtona](#p_lord_myrton)"_
         - z [Leivem](#p_leiv): _"Kto jeszcze steruje [Roeggnerem](#p_roeggner), bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się [Cerys](#p_cerys), dał mu magiczne urządzenie do śledzenia statków, które ma napadać."_
-        - z Radcliffem dzieli się wiadomościami od [Leiva](#p_leiv) o Ragnarze; w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w [Kerrack](#l_kerack)
+        - z Radcliffem dzieli się wiadomościami od [Leiva](#p_leiv) o Ragnarze; w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w [Kerack](#l_kerack)
         - z [Stregoborem](#p_stregobor):
             - punkt zwarcia sfer [Pardwy](#r_pardwa) nie jest zakotwiczony; budowniczy wież uznali, że teren jest zbyt trudny
             - [Kajetan](#g_kajetan) wspomina o płaskorzeźbie przedstawiającej punkty zwarcia sfer oraz dostępie do archiwów [Aen Drisichean](#r_aen_drisichean)

@@ -43,7 +43,7 @@
         - [Kajetan](#g_kajetan) prosi o audiencję [Kapituły](#r_kapitula)
         - w [Nilfgaardzie](#l_nilfgaard) władzę przejął nowy Cesarz, ale nie wiadomo jaki ma stosunek do czarodziejów i jak ich pozycja zmieni się w cesarstwie; raczej nie będzie się od razu pchał na wojnę z północą
         - poprzedniego cesarza zasztyletowali jego sojusznicy
-        - agent z [Kerrack](#l_kerack) donosi, że [Kistrin](#p_ksiaze_kistrin), władca [Verden](#l_verden), ma nowego nadwornego maga
+        - agent z [Kerack](#l_kerack) donosi, że [Kistrin](#p_ksiaze_kistrin), władca [Verden](#l_verden), ma nowego nadwornego maga
         - [Lars](#p_lars) był uczniem Doregaraia
         - [Florian](#p_florian_z_vicovaro) miał starszą siostrę, Assire, która została zamordowana w [Loc Muinne](#l_loc_muinne) w niewyjaśnionych okolicznościach kilka lat temu; informacje o jej śmierci mogą być dobrą zachętą do współpracy
         - [Brass](#p_bras) jest mistrzem fechtunku
