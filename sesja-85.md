@@ -7,24 +7,24 @@
 2. Na odsiecz wojakom
     - Czwartego dnia, zaraz po wyruszeniu, napotykamy lekko ponad tuzin zbrojnych w barwach Verden. Trójka z nich jest ranna. Kapitan Aleksander Wehr przywołuje nas do obozu, więc aby uniknąć zbędnych nieprzyjemności, posłusznie podchodzimy.
     - Wojacy są z ekspedycji karnej posłanej do tępienia trupojadów w pobliskiej wsi. {Kapitan}Wehr oferuje nam pieniądze za wszelką pomoc, czy tą w walce, czy choćby w rekonesansie i opatrywaniu rannych.
-    - Druidki łatają pokiereszowanych zwiadowców wysłanych na przeszpiegi do leża ghouli, którym wdało się już zakażenie od trupiego jadu. Dostajemy za to trochę grosza, a Ilana dodatkowo - przyrównanie do anioła wywołane chwilowym zamroczeniem pacjenta. Przyłączamy się do obozu i snujemy plan jak skutecznie zrobić zwiad.
-    - Idziemy sprawdzić wioskę. Kajetan wysyła na przeszpiegi sowę. Chaty są zrujnowane wewnątrz. Kapliczka, która była w wiosce także ma się nienajlepiej - drzewo przygniotło jej dach.
+    - Druidki łatają pokiereszowanych zwiadowców wysłanych na przeszpiegi do leża ghuli, którym wdało się już zakażenie od trupiego jadu. Dostajemy za to trochę grosza, a Ilana dodatkowo - przyrównanie do anioła wywołane chwilowym zamroczeniem pacjenta. Przyłączamy się do obozu i snujemy plan jak skutecznie zrobić zwiad.
+    - Idziemy sprawdzić wioskę. Kajetan wysyła na przeszpiegi sowę. Chaty są zrujnowane wewnątrz. Kapliczka, która była w wiosce także ma się nie najlepiej - drzewo przygniotło jej dach.
     - Kajetan, posługując się swoimi przywańcami, przeczesuje okolicę i znajduje w studni ujście do podziemnej jaskini. W jaskini jedna ze ścian jest wyrobiona i kiedyś miała drzwi, które teraz leżą wyłamane tuż obok. Zabudowanie wydaje się znajdować wprost pod kapliczką.
     - W jaskini, oprócz zabudowania, jest strumyk, a w nim ogromna góra kości. Kiedy chochliki się zbliżają, kości eksplodują, a spod nich wyskakuje ghoul - wielki niczym goryl, pozbawiony skóry, z kolczystymi wyrostkami. Całą jaskinię wypełnia mdlący, wwiercający się w nozdrza odór rozkładu.
     - Zdajemy {kapitanowi}Wehr szczegółowy raport. Zostajemy z wojakami do rana i pomagamy w realizacji ich planu wykurzenia i/lub ubicia ghouli.
     - Dowiadujemy się też, że kapliczka została wzniesiona ku czci Kreve.
-3. Polowanie na ghoule
+3. Polowanie na ghule
     - Z odzyskanej z chat gorzałki i innych substancji łatwopalnych oraz szmat, smoły i słomy majstrujemy spory pakunek. Wojacy wrzucają go do studni, a Kajetan, używając jednego z koralików ognistego naszyjnika, podpala bombę.
     - Przez moment nic się nie dzieje, lecz po chwili koralik ciśnięty wgłąb studni eksploduje, detonując prowizoryczną bombę, wstrząsając całą okolicą. Część ghouli dosłownie wylatuje studnią, tarzając się, próbując ugasić płomienie na grzbiecie. Pozostałe trupojady wypadają z kaplicy, a zaraz za nimi największy z nich, ten z kupy kości.
     - Ilana i część wojaków zasadzili się na dachu i szyją z odległości do trupojadów. Kajetan także trzyma się na dystans posiłkując się magią. Mirna zdecydowała się obserwować całe zajście z bezpiecznej odległości pobliskiego wzgórza.
     - Kilku wojaków zostało na ziemi i walczy w zwarciu, podobnie jak Skovik. Ghoule rozerwały już paru ludzi na strzępy i teraz obskoczyły {wyspiarza}Skovik, stanowiąc poważny problem. Ilana nie chcąc ryzykować przemiany przy świadkach rzuca się tylko na pomoc Skovikowi.
-    - Używając telekinezy Kajetan próbuje zrzucić ghoula-goryla z dachu, na który ten wskoczył by dosięgnąć kuszników. Bestia jest niestety uparta, ale kruchy dach zapada się pod nią i ghoul ląduje z gruchotem we wnętrzu chaty. 
+    - Używając telekinezy Kajetan próbuje zrzucić ghula-goryla z dachu, na który ten wskoczył by dosięgnąć kuszników. Bestia jest niestety uparta, ale kruchy dach zapada się pod nią i ghoul ląduje z gruchotem we wnętrzu chaty. 
     - Ilana widząc to wskakuje do środka, gdzie w postaci niedźwiedzia, bezpieczna przed widownią, wykańcza dużego trupojada. Stwór miał na szyi omotany na wzór obroży łańcuch, a na nim zawieszone coś na kształt wisiorka. Wygląda to jakby ktoś go... hodował?
 4. Ciekawe znaleziska
     - Udaje nam się załatwić wszystkie ghoule bez znacznych strat w ludziach. Wraz z {kapitanem}Wehr i paroma jego ludźmi przeczesujemy podziemną jaskinię, gdzie w budynku odkrywamy symbole Lwiogłowego Pająka. Drzwi faktycznie zostały wyważone od środka, jakby coś próbowało się stamtąd wydostać. Znajdujemy też ślady dawno zaschniętej krwi i resztki białej szaty, najwyraźniej kapłańskiej.
     - Opowiadamy {kapitanowi}Wehr co nieco o kulcie pajęczej bogini i uświadamiamy, że sprawą powinien zająć się ktoś umyślny. {Kapitan}Wehr zarządza wartę i obóz do nadejścia posiłków. Otrzymujemy niemałą zapłatę za swój udział - weksel na 350 GP na okaziciela w banku Cianfanellich.
     - Za przyzwoleniem {kapitana}Wehr przeszukujemy też świątynię, która należała niegdyś do bogini Kreve. Pod jednym z sarkofagów stojących w kapliczce znajdujemy przejście z drabinką prowadzące do podziemi, wprost do kryjówki kultystów.
-    - Ilana przygląda się zawieszce z "obroży" ghoula. Przypomina ni to krzyż, ni to miecz i definitywnie jest w znacznej mierze z czystego srebra, bo pali {druidkę}Ilana w dłonie. Bibelot otrzymuje więc na przechowanie Kajetan.
+    - Ilana przygląda się zawieszce z "obroży" ghula. Przypomina ni to krzyż, ni to miecz i definitywnie jest w znacznej mierze z czystego srebra, bo pali {druidkę}Ilana w dłonie. Bibelot otrzymuje więc na przechowanie Kajetan.
     - {Elf}Kajetan wysyła do Larsa wiadomość o tym, co znaleźliśmy pod świątynią Kreve. {Nadworny mag Verden}Lars obiecuje przekazać wieści komu trzeba i zaprasza do stolicy na kolację na jego koszt.
 5. U progu Kerack
     - Okazuje się, że na bombę zeszła o dziwo tylko niewielka część wyszabrowanej gorzałki, tak więc resztę wieczoru spędzamy w towarzystwie świętujących zwycięstwo wojaków, a rano żegnamy się i ruszamy dalej do Kerack.
