@@ -75,7 +75,7 @@
 - <a id='l_kaedwen' pattern='Kaedwen'>Kaedwen</a>
     - <a id='l_ban_ard' pattern='Ban Ard'>Ban Ard</a>
         siedziba szkoły magów zniszczonej(?) przez Redańczyków
-- <a id='l_kerack' pattern='Kerack'>Kerack</a>
+- <a id='l_kerack' pattern='Kerack,Kerrack'>Kerack</a>
     - niepodległe księstwo między Verden a Temerią
     - <a id='l_m_kerack' pattern='Kerack'>Kerack</a>
         - Mirna otworzyła tam sklepik i warsztat
