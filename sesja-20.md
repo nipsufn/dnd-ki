@@ -29,9 +29,9 @@
         - serdeczna przyjaciółka (partnerka) [Finarrina](#p_druid_finarrin), [Enid](#p_enid), zmieniła się w szopa pracza - w ciągu ostatnich kilku dni, buszując po spiżarni [Finarrina](#p_druid_finarrin) została kilkukrotnie przepędzona miotłą/butem przez nieświadomą [Ilanę](#g_ilana)
     - Razem z [Kajetanem](#g_kajetan) przygotowują śniadanie, na które schodzi się też reszta.
     - [Kajetan](#g_kajetan) dowiaduje się, że [nalewkę z mandragory](#r_nalewka) pędził niejaki [Pan Regis](#p_regis) z [Dillingen](#l_dillingen). Niestety, jakiś czas temu wyprowadził się ze swoją kobietą, zdaje się do [Beauclair](#l_beauclair).
-    - Brokoloński Krąg Druidów powstał w czasach gdy lokalne elfy i ludzie zawarli rozejm, ich zadaniem jest utrzymać status quo.
-    - [Bizoktor](Bizoktor), zwany "Leszym" (wg [Kajetana](#g_kajetan) "Leszkiem"), broni lasu na podstawie paktu zawieranego przez [Hierofanta](#p_druid_finarrin) Druidów.
-    - [Hierofant](#p_druid_finarrin) wyznacza też swojego następce, który będzie dalej podtrzymywał pakt.
+    - Brokiloński Krąg Druidów powstał w czasach gdy lokalne elfy i ludzie zawarli rozejm, ich zadaniem jest utrzymać status quo.
+    - [Bizoktor](Bizoktor), zwany "Leszym" (wg [Kajetana](#g_kajetan) "Leszkiem"), broni lasu na podstawie paktu zawieranego przez [Hierofanty](#p_druid_finarrin) Druidów.
+    - [Hierofanta](#p_druid_finarrin) wyznacza też swojego następce, który będzie dalej podtrzymywał pakt.
     - [Ilana](#g_ilana) oficjalnie "przyznaje się" do [Skovika](#p_skovik), czym wprawia [Finarrina](#p_druid_finarrin) w lekką konsternację.
     - [Skovik](#p_skovik) prosi [Finarrina](#p_druid_finarrin) o pomoc w swoim treningu. Niestety druid nie jest w stanie dokończyć jego przemiany, bo nauki druidów ze [Skellige](#l_wyspy_skellige) różnią się znacząco od tradycji i metod druidycznych z kontynentu. Decydujemy, że w takim wypadku trzeba nam bezzwłocznie ruszać na [Skellige](#l_wyspy_skellige), szczególnie że kompania zdaje się skłaniać ku opinii iż [Aen Eldrin](#r_aen_eldrin) należy omijać szerokim łukiem.
     - Po śniadaniu [Mirna](#p_mirna), ku niezadowoleniu [Kajetana](#g_kajetan), zaszywa się w swojej pracowni do końca dnia robiąc obiecane eliksiry. 

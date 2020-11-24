@@ -8,13 +8,13 @@
     - Jeszcze przed świtaniem [Ivar](#p_ivar) opuszcza drużynę, gdy tylko jego latający rumak przybywa. Bez pożegnania wyrusza do [Wioski](#l_wioska), do której reszta, bez większych przygód, dociera po dwóch dniach.
 2. Nietęgie nastroje
     - [Wioskę](#l_wioska) odwiedził poborca podatkowy, którego "karoca" zaparkowała przed kasztelem. Ku uldze [Finarrina](#p_druid_finarrin) odrywamy go od przykrych obowiązków aby porozmawiać na osobności.
-    - [Mag](#g_kajetan) pyta [Finarrina](#p_druid_finarrin) co sądzi o wyciągnięciu [Galawaina](#p_galawain) spod [Duen Canell](#l_duen_canell) z użyciem artefaktu, którego nie musieliśmy użyć. [Stary Druid](#p_druid_finarrin) odradza pomysł i próbuje grać na zwłokę zanim wymyśli dobre argumenty przeciw konceptowi - rzuca niejasne podejrzenia na [Zangenisa](#p_zangenis), prowokując atak paranoi u [Kajetana](#g_kajetan).
+    - [Mag](#g_kajetan) pyta [Finarrina](#p_druid_finarrin) co sądzi o wyciągnięciu [Galawaina](#p_galawain) spod [Duen Canell](#l_duen_canell) z użyciem artefaktu, którego nie musieliśmy marnować na formoriana. [Stary Druid](#p_druid_finarrin) odradza pomysł i próbuje grać na zwłokę zanim wymyśli dobre argumenty przeciw konceptowi - rzuca niejasne podejrzenia na [Zangenisa](#p_zangenis), prowokując atak paranoi u [Kajetana](#g_kajetan).
     - [Kajetan](#g_kajetan) ucieka gryziony tysiącem natrętnych myśli, gdy [Ilana](#g_ilana) idzie poszukać [Ivara](#p_ivar). Słyszy jak [Ivar](#p_ivar) i [Skovik](#p_skovik) kłócą się w chacie. [Paladyn](#p_ivar) zarzuca bratu, że ucieka od swoich obowiązków i problemów, które sam na siebie ściągnął - jak z resztą zdaje się wszyscy wokół.
     - [Druidce](#g_ilana) też się obrywa kiedy proponuje [Ivarowi](#p_ivar) przejęcie jej przysięgi wobec Protektora wierząc, że pomoże mu to w nawiązaniu kontaktu z patronem. [Młody Drummond](#p_ivar) wyjątkowo celnie wbija jej dwie szpile - ucieczkę od odpowiedzialności i bezpardonowe żądanie pomocy bez słowa podzięki.
     - Dwójka rozchodzi się w swadzie, bo [Ivar](#p_ivar) musi wracać do swoich obowiązków, które - w przeciwieństwie do reszty - dzielnie bierze na swoje barki.
     - [Kajetan](#g_kajetan) zastaje straszny bałagan w chatce [Mirny](#p_mirna), a samą dziewczynę śpiącą w laboratorium. Rozniosła pół domu w złości, gdy kolejna próba chodowania mandragory jej się nie powiodła.
     - [Elf](#g_kajetan) pomaga jej posprzątać, opowiada o [Lentinusie](#p_lentinus) i Feinwedd, które zdaje się być otoczone folklorem przypominającym nieco legendy o dziwostręcie.
-    - [Ilana](#g_ilana), chcąc się odwdzięczyć [Ivarowi](#p_ivar) pięknym za nadobne i wyzwolić go od niechcianego brzemienia, wraca do dyskusji o wyciąganiu [Galawaina](#p_galawain) z więzienia [Eithne](#p_eithne) przy [Finarrinie](#p_druid_finarrin). Początkowo przerażony i niechętny [Kajetan](#g_kajetan), nieznacznie dając [druidce](#g_ilana) znać, by przedyskutować to w bardziej kameralnym gronie, w cztery oczy.
+    - [Ilana](#g_ilana), chcąc się odwdzięczyć [Ivarowi](#p_ivar) pięknym za nadobne i wyzwolić go od niechcianego brzemienia, wraca do dyskusji o wyciąganiu [Galawaina](#p_galawain) z więzienia [Eithne](#p_eithne) przy [Finarrinie](#p_druid_finarrin). Początkowo przerażony i niechętny [Kajetan](#g_kajetan), nieznacznie daje [druidce](#g_ilana) znać, by przedyskutować to w bardziej kameralnym gronie, w cztery oczy.
     - [Druid](#p_druid_finarrin) odradza nam tak jego zdaniem irracjonalny pomysł. Boi się, że po uwolnieniu Protektora druidzi z [Brokilonu](#l_brokilon) mogą przestać być potrzebni. 
 3. Ku Kerrack
     - [Mirna](#p_mirna) chce wracać do Kerrack. Najszybciej będzie nam drogą do [Verden](#l_verden). Z kolei [Ilana](#g_ilana) pali się żeby w końcu ruszyć na [Wyspy](#l_wyspy_skellige), więc Kerrack jest dobrym miejscem na znalezienie statku w tamtą stronę.
@@ -24,9 +24,9 @@
     - Nieco przekonana argumentami [maga](#g_kajetan), zgadza się wrócić do tematu za jakiś czas, być może gdy się uspokoimy i dowiemy nieco więcej o [Galawainie](#p_galawain).
     - Po trzech dniach drogi zatrzymujemy się na noc przy trakcie. Do naszego obozu dołącza grupa gnomów z wozem i zaprzężonym do niego osiołkiem. Początkowo nieufne pokurcze mierzą do nas z kuszy - takiej samej, jaką [Ilana](#g_ilana) kupiła dla [Alfonsa](#p_alfons). [Kajetan](#g_kajetan) przywołuje ich jednak do porządku i zaprasza do naszego ogniska.
     - Gnomy idą od [Brugge](#l_m_brugge), gdzie byli świadkami bójki w znanej nam karczmie na podgrodziu. Grupka zbrojnych starła się tam z innymi rycerzami. 
-    - Jeden z rycerzy, w czarnej zbroi, został wyrzucony oknem. Tym samym, które wcześniej sprzedał knajpie Pan Lusterko. Okno przecięło mu gardło, aż głowa poleciała. Następnie - ku przerażeniu zebranych - trup wstał, otrzepał się, zabrał głowę i jakby nigdy nic odjechał na koniu w siną dal.
+    - Jeden z rycerzy, w czarnej zbroi, został wyrzucony oknem. Tym samym, które wcześniej sprzedał knajpie [Pan Lusterko](#p_gaunter). Okno przecięło mu gardło, aż głowa poleciała. Następnie - ku przerażeniu zebranych - trup wstał, otrzepał się, zabrał głowę i jakby nigdy nic odjechał na koniu w siną dal.
     - Gnomy jadą w stronę [Cidaris](#l_cidaris), przez Kerrack. Swoją eskortę stracili w [Brugge](#l_m_brugge), w bijatyce, podróżują więc dalej w lekkim strachu.
-    - Oferujemy im eskortę w zamian za podwózkę do Kerrack Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
+    - Oferujemy im eskortę w zamian za podwózkę do Kerrack. Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
 4. Stary Olsa
     - Na miejscu spotykamy dwóch bardów, kilku chłopów i dwóch kupców. Rozpalają ognisko, minstrele przygrywają snując historie, alkohol zaczyna płynąć.
     - W ruinach panuje zdumiewająco przyjazna atmosfera, a ogień bucha aż miło, jakby się sam podsycał. [Kajetan](#g_kajetan) odkorkowuje flaszkę krasnoludzkiego bimbru i dosiada się do towarzystwa. Dowiadujemy się, że:
@@ -40,12 +40,12 @@
     - Bawiąc się i opowiadając historie, [Kajetan](#g_kajetan) honoruje wiekowy zwyczaj krasnoludzkim półtorakiem [Ilany](#g_ilana). W pewnym momencie zdaje mu się, że wesoło strzelające ognisko prosi go o więcej mioduli. Za przyzwoleniem [Ilany](#g_ilana), która trzyma pieczę nad trunkiem, zabiera się za butelkę pamiętając, by częstować mitycznego gospodarza.
     - [Skovik](#p_skovik) i [Mirna](#p_mirna) grają w karty z drugim kupcem. Panowie nie wylewają przy tym za kołnierz. Błoga atmosfera zdaje się skłaniać zebranych do plecenia historii - tych wyśnionych i tych prawdziwych, a także prawd skrywanych dotąd przed światłem dziennym.
     - [Ilana](#g_ilana), swoim zwyczajem, nie pije, a poczęstowana przez towarzystwo wylewa napitek na zdrowie gospodarza. Mimo to czuje się jak na lekkim rauszu. 
-    - Przysłuchując się rozmowom [druidka](#g_ilana) przyłapuje [Skovika](#p_skovik) na zadziwiająco szczerym wyznaniu: [wyspiarz](#p_skovik) chce wrócić na [Skellige](#l_wyspy_skellige) zająć miejsce ojca i kultywować linię swojego rodu z nią u swego boku.
+    - Przysłuchując się rozmowom [druidka](#g_ilana) przyłapuje [Skovika](#p_skovik) na zadziwiająco szczerym wyznaniu: [wyspiarz](#p_skovik) chce wrócić na [Skellige](#l_wyspy_skellige) by zająć miejsce ojca i kultywować linię swojego rodu z [Ilaną](#g_ilana) u swego boku.
     - Para opuszcza towarzystwo i udaje się w ustronne miejsce kontynuować miły wieczór we dwoje.
     - [Mag](#g_kajetan), bawiony historiami, w pewnym momencie zauważa szczelinę w ścianie, i ma wrażenie jakby został zaproszony do środka.
     - W normalnie niedostępnej piwnicy spotyka pół-elfa pół-zwierzę, Sylvana, przedstawiającego się jako Stary Olsa. Szybko domyśla się, że postać może mieć coś wspólnego z mieszkańcami [Craag An](#l_craag_an).
-    - wśród toastów i bajań, [elf](#g_kajetan) dowiaduje się, że:
-        - [Aen Drisichean](#r_aen_drisichean) przybyli z innej płaszczyzny przez portal, pierwszy, w [Brokilonie](#l_brokilon), w miejscu którego wybudowali wieżę
+    - Wśród toastów i bajań, [elf](#g_kajetan) dowiaduje się, że:
+        - [Aen Drisichean](#r_aen_drisichean) przybyli z innej płaszczyzny przez portal, pierwszy w [Brokilonie](#l_brokilon), w miejscu którego wybudowali wieżę
         - w sercu lasu powstało miasto, które znamy jako [Craag An](#l_craag_an)
         - stworzenia, które nie posługiwały się Mocą [Aen Drisichean](#r_aen_drisichean) uważały za zwierzęta
         - o [Wranach](#r_wran) mało kto wiedział, ich istnienie próbowano zatuszować - jak zwierzęta mogły by być w stanie odebrać dumnym elfom panowanie nad Mocą albo nawet i życie

@@ -3,24 +3,24 @@
     - Rankiem [Skovik](#p_skovik) i [Ilana](#g_ilana) znowu się kłócą - [osiłek](#p_skovik) powinien był się postawić [Reahi](#p_reah). [Druidka](#g_ilana) ma żal do niego, że wystawił jej cierpliwość na próbę. Czarę goryczy przelewa jednak fakt, że [Skovik](#p_skovik) przedłożył przyjaźń z [Reahą](#p_reah) nad to, cokolwiek czuje do [Ilany](#g_ilana), tłumacząc się przy tym, że nie chciał ubliżyć [Reahi](#p_reah) odmową udziału w jej teatrzyku.
     - Spotykamy się wszyscy przy późnym śniadaniu. [Kajetan](#g_kajetan) i [Mirna](#p_mirna) są w zdecydowanie lepszych humorach. Planujemy co dalej zrobić.
     - [Mirna](#p_mirna) nie jest w stanie pomóc nam w połowie, więc pozwiedza miasto i zaczeka na nas w porcie.
-    - Spotykamy się z wyspiarzami. [Osiłek](#p_skovik) dostaje na dzień dobry w twarz od [wyspiarki](#p_reah), po czym dowiaduje się, że zostanie na brzegu razem z dwoma innymi marynarzami kiedy reszta popłynie po skarb.
+    - Spotykamy się z wyspiarzami. [Osiłek](#p_skovik) dostaje na dzień dobry w twarz od [wyspiarki](#p_reah), po czym dowiaduje się, że zostanie na brzegu razem z dwoma innymi marynarzami, kiedy reszta popłynie po skarb.
     - Piraci traktują [Kajetana](#g_kajetan) z jeszcze większą rezerwą i niedowierzaniem niż [druidkę](#g_ilana). Dobijamy jednak targu - mamy dostać 1/4 z tego, co uda się odzyskać.
-    - Dopływamy w okolicę wraku. Marynarze są niezadowoleni widząc magię, ale widok pierwszej skrzyni wyciągniętej z dna przez [Ilanę](#g_ilana), z pomiędzy krabów (niektórych dziwnych, błyszczących jak perły) uspokaja ich wątpliwości.
+    - Dopływamy w okolicę wraku. Marynarze są niezadowoleni widząc magię, ale widok pierwszej skrzyni wyciągniętej z dna przez [Ilanę](#g_ilana), spomiędzy krabów (niektórych dziwnych, błyszczących jak perły) uspokaja ich wątpliwości.
     - Wygląda na to, że drugą skrzynię - z półsłówek rzucanych przez wyspiarzy, zawierającą magiczne przedmioty - coś zabrało razem ze sporą częścią burty.
     - Wyruszamy pod dziób statku zawieszony na jednej z licznych skał w okolicy, w którym to powinna znajdować się ostatnia skrzynia.
     - [Mag](#g_kajetan) wyciąga skrzynię z pomocą magii - niezbyt delikatnie, wrak osuwa się ze skały powodując wielką falę, która posyła łódź w morze.
-    - [Ilana](#g_ilana) robi na łodzi miejsce dla drugiej skrzyni. Wskakuje do wody i obserwuje, czy nic im nie zagraża, kiedy pomiędzy skałami dostrzega ogromnego kraba o szczypcach wielkości ich łodzi.
+    - [Ilana](#g_ilana) robi na łodzi miejsce dla drugiej skrzyni. Wskakuje do wody i obserwuje, czy nic nam nie zagraża, kiedy pomiędzy skałami dostrzega ogromnego kraba o szczypcach wielkości naszej łodzi.
     - Krab ma kute metalowe obręcze wokół szczypców. Na obręczach tych [Ilana](#g_ilana) dostrzega magiczne runy. Wygląda na to, że ktoś się upewnił aby Thanned, teraz pozbawione magów, nadal miało strażnika.
     - Dzięki wprawie wyspiarzy udaje nam się bezpiecznie wrócić do portu. [Kajetan](#g_kajetan) jest setnie umęczony wiosłowaniem połączonym z magicznymi sztuczkami. [Ilana](#g_ilana) za to tryska energią, niemniej oboje wzbudzili równy respekt u piratów.
     - Na brzegu wita nas [Mirna](#p_mirna) w nowych ubraniach. Wręcza nam także podarki, które dla nas upolowała. I tak [Kajetan](#g_kajetan) dostaje nowe ubranie, a [Ilana](#g_ilana) - jedną z dwóch bliźniaczych bransoletek z muszelkami.
 2. Łupy
     - Piraci w wyśmienitych humorach zaciągają skarby do "Dziury", gdzie zaczynają ucztować. [Ilana](#g_ilana) zauważa [Skovika](#p_skovik), siedzącego samotnie przy jednym ze stołów, przy dwóch butelkach - jednej pustej, drugiej na wpół pełnej.
-    - [Druidka](#g_ilana) próbuje wyciągnąć osiłka z wisielczego nastroju, gdy jej znamię napływa krwią. Z czasem krwi przybywa tak, że [Ilana](#g_ilana) musi zakryć dłoń.
+    - [Druidka](#g_ilana) próbuje wyciągnąć [osiłka](#p_skovik) z wisielczego nastroju, gdy jej znamię napływa krwią. Z czasem krwi przybywa tak, że [Ilana](#g_ilana) musi zakryć dłoń.
     - Chwilę później czas się zatrzymuje - odwiedza nas [Gaunter O'Dimm](#p_gaunter). Przestawia o kawałeczek napitki [Roeggnera](#p_roeggner) i jednego z jego ludzi - Stiga, mówiąc, że jeden z pomocników [Lloyda](#p_lloyd) jest u drzwi karczmy.
-    - Pozostała dwójka jest dalej, jako że próbowała podążać za [Kajetanem](#g_kajetan) do Kerrack. [Gaunter](#p_gaunter) gratuluje nam pomysłowości. W wizjii przedstawionej nam w czyimś kuflu z piwem widzimy, jak ciało, które kontrolował [Lloyd](#p_lloyd) rozpada się, a z resztek wyrastają dwa drzewa przypominające ludzi - podobne do tych, które spotkaliśmy pierwszy raz odwiedzając [Medowną](#l_medowna).
+    - Pozostała dwójka jest dalej, jako że próbowała podążać za [Kajetanem](#g_kajetan) do Kerrack. [Gaunter](#p_gaunter) gratuluje nam pomysłowości. W wizjii przedstawionej nam w czyimś kuflu z piwem widzimy jak ciało, które kontrolował [Lloyd](#p_lloyd), rozpada się, a z resztek wyrastają dwa drzewa przypominające ludzi - podobne do tych, które spotkaliśmy pierwszy raz odwiedzając [Medowną](#l_medowna).
     - Ścigająca nas dusza [Lloyda](#p_lloyd) zasiedliła jedno z ciał, które widzieliśmy w okolicach wraku wcześniej. W tej chwili ciało jest rozrywane przez monstrualnego kraba.
     - Przybysz podsuwa nam myśl, że być może to [Formorian](#p_formorian) zabił rodzinę [upiora](#p_lloyd).
-    - Czas zaczyna znów płynąć, przesunięte piwo początkuje łańcuch wydarzeń, który skutkuje bójką między [Roeggnerem](#p_roeggner) a jednym z marynarzy. Wygląda to na zwykłą bitkę, dopóki rozjuszony Stig nie wyciąga noża.
+    - Czas zaczyna znów płynąć, przesunięte piwo początkuje łańcuch wydarzeń, który skutkuje bójką między [Roeggnerem](#p_roeggner), a jednym z marynarzy. Wygląda to na zwykłą bitkę, dopóki rozjuszony Stig nie wyciąga noża.
     - [Ilana](#g_ilana) interweniuje, broniąc [Roeggnera](#p_roeggner) przed dźgnięciem. Nóż ląduje wbity w stół, marynarz - przytrzymany - opamiętuje się i dociera do niego, jakie konsekwencje piraci wyciągają z uniesienia ostrza na kapitana.
     - Podczas gdy piraci stosują swoją krwawą sprawiedliwość, w drzwiach karczmy staje sztywna, wytarmoszona postać znajomego nam wąsatego niziołka z [Rdestowej](#l_rdestowa_laka). Próbując go odprawić, [Kajetan](#g_kajetan) zauważa po drugiej stronie portalu [Formoriana](#p_formorian), utrudniającego mu robotę.
     - Denat doskakuje do [druidki](#g_ilana) i [maga](#g_kajetan), zanim zrobi im jednak krzywdę, [elfowi](#g_kajetan) udaje się go odprawić.
@@ -41,12 +41,12 @@
         - podobno [Cerys](#p_cerys) dowiodła, że winnym kaźni na uczcie był ich majordomus, który zatruł wino
         - jeśli będziemy go szukać, [Roeggnera](#p_roeggner) znajdziemy w najbliższym czasie w okolicach [Cidaris](#l_cidaris) i [Bremervoord](#l_bremervoord)
     - [Druidka](#g_ilana) także otrzymuje nietypową, charakterystyczną biżuterię w podzięce od [Roeggnera](#p_roeggner). Udaje jej się wytargować dodatkowe 500GP dla [Skovika](#p_skovik) za udział w przedsięzwięciu.
-    - Kiedy [Kajetan](#g_kajetan) czeka poirytowany na zewnątrz, [Ilana](#g_ilana) żegna się z marynarzami. Levoiwi przekazuje flet z rogu [morvudda](#b_bizoktor), dla [Reahi](#p_reah), po czym - klasycznie - wymierza cios w brzuch za szopkę związaną z końskimi zalotami przyrzeczonej. [Wyspiarkę](#p_reah) za to prosi o odprowadzenie.
+    - Kiedy [Kajetan](#g_kajetan) czeka poirytowany na zewnątrz, [Ilana](#g_ilana) żegna się z marynarzami. [Leivowi](#p_leiv) przekazuje flet z rogu [morvudda](#b_bizoktor), dla [Reahi](#p_reah), po czym - klasycznie - wymierza cios w brzuch za szopkę związaną z końskimi zalotami przyrzeczonej. [Wyspiarkę](#p_reah) za to prosi o odprowadzenie.
     - [Ilanie](#g_ilana) udaje się namówić [elfa](#g_kajetan) by wyruszyli później, tak aby mogła zająć się pijanym [Skovikiem](#p_skovik) i porozmawiać z [Reahą](#p_reah).
-    - [mag](#g_kajetan) i [Mirna](#p_mirna) idą na obiad, rozmawiają o [Bronie](#p_bron):
-        - Sytuacja jest teraz zupełnie polubowna, dług został spłacony
-        - Człowiek jest jej potrzebny, bo nieludziom i mieszańcom nie wolno prowadzić samodzielnie biznesu
-        - W warsztacie są też asystenci zajmujący się codzienną pracą - dziewczyna skupia się nad opracowywaniem nowych receptur
+    - [Mag](#g_kajetan) i [Mirna](#p_mirna) idą na obiad, rozmawiają o [Bronie](#p_bron):
+        - sytuacja jest teraz zupełnie polubowna, dług został spłacony
+        - człowiek jest jej potrzebny, bo nieludziom i mieszańcom nie wolno prowadzić samodzielnie biznesu
+        - w warsztacie są też asystenci zajmujący się codzienną pracą - dziewczyna skupia się nad opracowywaniem nowych receptur
     - [Druidka](#g_ilana) prosi [Reahę](#p_reah) na słowo. Dowiaduje się, że ona właściwie niczego od [Skovika](#p_skovik) nie chce, a cały ten cyrk był tylko po to aby zmusić [Skovika](#p_skovik) do "zejścia z płotu" i podjęcia jak raz męskiej decyzji. [Ilana](#g_ilana) chłodno oznajmia, że kolejne takie akcje skończą się mordobiciem i żegna się z [wyspiarką](#p_reah).
 3. Nogi za pas
     - Wynajmujemy wóz i wyruszamy za miasto. Ponieważ w sprawę wmieszał się [Formorian](#p_formorian), z braku lepszych propozycji, [Kajetan](#g_kajetan) teleportuje całą drużynę pod wioskę druidów.

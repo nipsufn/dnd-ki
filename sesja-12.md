@@ -48,7 +48,7 @@
     - Fundamenty to ruiny wieży [Triss Merigold](#p_triss_merigold).
     - Ochroniarz to wiedźmin, [Lambert](#p_lambert), jego oczy wyglądały normalnie dzięki iluzji rzuconej przez [Metz](#p_keira_metz).
     - W laboratorium, 3 poziomy/piętra poniżej obecnej powierzchni cały czas aktywny jest portal z którego wyłażą różnorakie monstra.
-    - Czarodziejce i wiedźminowi trzeba pomóc - czarodziejka podniesie gruzy, [Lambert](#p_lambert) upewni się że nic jej się nie stanie - my oczyścimy niższe piętra.
+    - Czarodziejce i wiedźminowi trzeba pomóc - czarodziejka podniesie gruzy, [Lambert](#p_lambert) upewni się, że nic jej się nie stanie - my oczyścimy niższe piętra.
     - [Kajetan](#g_kajetan) zamknie portal zaklęciem zapisanym przez [Keirę](#p_keira_metz), w zamian czarodziejka podleczy wyniszczonego elfa.
     - Portal udaje się zamknąć, a potwory, które zdołały się przedostać, zostają zabite (jeden przez [Lamberta](#p_lambert) na wyższym poziomie, drugi dzięki naszej drużynie).
     - [Kajetan](#g_kajetan) znajduje w bibliotece na dole kilka magicznych artefaktów, w tym kamień komunikacyjny (który zdaje się być zrobiony z tego samego materiału, co jego niedawno sprzedany topór).

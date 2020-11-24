@@ -35,7 +35,7 @@
     - [Mag](#g_kajetan) wysyła jeszcze jedną wiadomość, tym razem do [Ioli](#p_matka_iola), dowiedzieć się co znalazła w archiwach. Kapłanka natknęła się na dziwny rytuał spisany przez jej poprzedniczkę, Nenneke. Wymaga on jednak aktywnego magicznie kryształu lub kamienia.
     - W międzyczasie, znużona zdaje się bezcelową paplaniną magów, [Ilana](#g_ilana) wybiera się do miasta. U wyjścia z kanałów spotyka mężczyznę łowiącego ryby, więc próbuje zepsuć mu dzień przyzywając szczupaka, który porwałby wędkę.
     - Mężczyzna jest jakiś dziwny - łapie rybę, ale zaraz ją wypuszcza i łowi dalej. [Ilana](#g_ilana) zmienia się więc w pająka i obserwuje typa z daleka.
-    - W tym czasie [Kajetan](#g_kajetan) kończy swoje rozmowy i wychodzi zaczerpnąć świeżego powietrza. Rozpoznaje w rybaku Pana Lusterko z [Brugge](#l_m_brugge) i niemal natychmiast na niego naskakuje prawie krzycząc, aby ten się od nas odwalił.
+    - W tym czasie [Kajetan](#g_kajetan) kończy swoje rozmowy i wychodzi zaczerpnąć świeżego powietrza. Rozpoznaje w rybaku [Pana Lusterko](#p_gaunter) z [Brugge](#l_m_brugge) i niemal natychmiast na niego naskakuje prawie krzycząc, aby ten się od nas odwalił.
     - Wywiązuje się rozmowa:
         - Lusterko czeka tu na konkretną rybę z palcem z pierścieniem
         - twierdzi, że to my wpadamy na niego, nie na odwrót

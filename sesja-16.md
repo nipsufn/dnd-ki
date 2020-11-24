@@ -29,7 +29,7 @@
     - Przed rynkiem doprowadzamy się do względnego porządku. [Leiv](#p_leiv) decyduje się zostać w mieście, nam udaje się przekonać strażników bramy aby nas wypuścili.
 2. W drodze
     - Obchodzimy miasto od północy w promieniu kilku kilometrów, jako że wyszliśmy południowo-wschodnią bramą, a droga nam na północny zachód.
-    - Widzimy jak [D'jinni]([Djinni](#b_djinni)) podpala znaczną część miasta, po czym jakaś latająca postać, zdaje się nam [Magister [Florian](#p_florian_z_vicovaro) z Vicovaro](#p_florian_z_vicovaro), pokonuje go i sprowadza nad miasto śnieżycę aby opanować pożar.
+    - Widzimy jak [D'jinni]([Djinni](#b_djinni)) podpala znaczną część miasta, po czym jakaś latająca postać, zdaje się nam [Magister Florian](#p_florian_z_vicovaro) z [Vicovaro](#l_vicovaro), pokonuje go i sprowadza nad miasto śnieżycę aby opanować pożar.
     - W biegu [Ilana](#g_ilana) zauważa, że coś frunie po niebie naszym śladem, mimo szalejącej śnieżycy. Kształt ten wygląda jak szara sowa ([Filippa Eilhart](#p_filippa_eilhart)?), ale finalnie nas nie dogania, bo znajdujemy kryjówkę.
     - Po drodze rozmawiamy o istotach mieszkających w [Brokilonie](#l_brokilon):
         - wilki
@@ -54,7 +54,7 @@
         - tego samego wieczora do [Cintry](#l_cintra): 60GP za rejs, 20GP jeśli będziemy pomagać w ochronie, 100GP za dodatkowy postój
         - za 1 - 2 dni do [Cintry](#l_cintra): 10 - 30GP zależnie jakie inne zlecenia znajdą na transport towaru
     - [Ilana](#g_ilana) wraca do urzędu ze "zniszczonym" glejtem, prosząc o wystawienie nowych, tym razem już oddzielnych dokumentów dla każdego. I tak [Ivar](#p_ivar) zostaje Civrilem Regner, a [Skovik](#p_skovik) - Jonasem Skaggs
-    - Spotykamy się grupą w ["[Perełce](#l_perelka)"](#l_perelka) - przybytku poleconym jako lokalna atrakcja przez jednego ze strażników na moście (który nawiasem okazuje się być portowym, dość ekskluzywnym burdelem).
+    - Spotykamy się grupą w "[Perełce](#l_perelka)" - przybytku poleconym jako lokalna atrakcja przez jednego ze strażników na moście (który nawiasem okazuje się być portowym, dość ekskluzywnym burdelem).
     - [Skovik](#p_skovik) był głównym organizatorem puczu przeciw obecnej władczyni [Wysp](#l_wyspy_skellige). Osobiście targnął się na życie [Cerys](#p_cerys) i jej brata próbując pomścić zamordowanego ojca, dlatego nie tylko nie może tam wrócić, ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny.
     - W drużynie następuje brak zgody co do dalszych planów:
         - [Ilana](#g_ilana) uważa, że należy podróżować dalej na zachód lądem, przekroczyć Wstążkę i na wysokości [Bodrogu](#l_bodrog) wkroczyć do [Brokilonu](#l_brokilon) całą drużyną; wierzy, że Driady znają ją i ufają jej na tyle, by przepuścić ją wraz z nieznajomymi dalej do druidzkiego kręgu, w którym się wychowała

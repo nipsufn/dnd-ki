@@ -31,7 +31,7 @@
     - Wieczorem [Ilana](#g_ilana) suszy zakupione jedzenie na drogę.
     - Druidka orientuje się że [Zielarka](#p_zielarka) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym [Kajetanowi](#g_kajetan).
 2. [Carreras](#l_carreras) - dzień drugi
-    - [Kajetanowi](#g_kajetan) zdaje się że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](#p_zielarka), odzyskać pukiel i potencjalnie skrócić babę o głowę.
+    - [Kajetanowi](#g_kajetan) zdaje się, że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](#p_zielarka), odzyskać pukiel i potencjalnie skrócić babę o głowę.
     - Drużyna wyrusza w poszukiwaniu [Zielarki](#p_zielarka), kierując się w stronę menhiru - mamy podejrzenia, że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy.
     - [Ilana](#g_ilana) używa magii aby odszukać swoje włosy, wyczuwa je w trzech punktach
     - W pół drogi do menhiru atakuje nas dwóch żaboludzi, próbując porwać [Ilanę](#g_ilana).

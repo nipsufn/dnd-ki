@@ -23,7 +23,7 @@
     - Właścicielami wozu są, okazuje się, nasi ulubieńcy - [Regan](#p_regan) i [Andy](#p_andy). Ich misja spaliła na panewce - nie mają ani złota, ani dziewczyn. Nie trzeba przekonywać ich długo, aby podjęli się przetransportowania podróżnych do [Wyzimy](#l_wyzima).
     - [Ilana](#g_ilana), ustaliwszy miejsce i czas odjazdu, zbiera się już do wyjścia, gdy otrzymuje wiadomość od [Kajetana](#g_kajetan). Elf prosi aby rozejrzała się za solidnym kawałkiem srebra potrzebnym do ukończenia reperacji kręgu.
     - [Druidka](#g_ilana) rozmawia z dwoma obwoźnymi handlarzami wskazanymi niezawodnie przez Oskara. Od pierwszego, lekko starszego domokrążcy kupuje srebrny dzbanuszek. Mężczyzna ma kilka innych ciekawych towarów, między innymi misternie wyrzeźbionego z kości słoniowej żołnierzyka przywiezionego z samej [Aretuzy](#l_wyspa_thanedd). Dziewczyna zadowala się jednak drobiazgiem w postaci malachitowego naszyjnika oprawnego w mosiądz.
-    - Drugi z kupców, natrętnie kojarzący się jej z Panem Lusterko spod [Brugge](#l_m_brugge), układa tarota. [Ilanie](#g_ilana) udaje się podejrzeć kilka kart:
+    - Drugi z kupców, natrętnie kojarzący się jej z [Panem Lusterko](#p_gaunter) spod [Brugge](#l_m_brugge), układa tarota. [Ilanie](#g_ilana) udaje się podejrzeć kilka kart:
         - 1: dziewczynka przed bramą
         - 2: drzewo w kręgu złożonym z 7 kamieni
         - 3: pęknięte drzwi
