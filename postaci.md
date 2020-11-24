@@ -20,7 +20,7 @@
 - <a id='p_fiona' pattern='Fion*'>Fiona</a>
     - podąża ścieżką wiedźminów
     - może korzystać i ma dostęp do ich eliksirów
-- <a id='p_gaunter' pattern="Gaunter*,Gaunter* O'Dimm">Gaunter O'Dimm</a> - ?
+- <a id='p_gaunter' pattern="Gaunter*,Gaunter* O'Dimm,Pan* Lusterko*">Gaunter O'Dimm</a> - ?
     - potężny byt, odpowiadający opowieściom o diable oferującym cyrografy
 - <a id='p_geralt' pattern='Geral*,Geral* z Rivii,Biał* Wilk*,Vadgern*'>Greralt z Rivii</a> - człowiek, wiedźmin
     - odczarował chłopa zamienionego w kormorana w Kerack

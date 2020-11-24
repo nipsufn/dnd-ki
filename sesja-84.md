@@ -8,13 +8,13 @@
     - Jeszcze przed świtaniem Ivar opuszcza drużynę, gdy tylko jego latający rumak przybywa. Bez pożegnania wyrusza do Wioski, do której reszta, bez większych przygód, dociera po dwóch dniach.
 2. Nietęgie nastroje
     - Wioskę odwiedził poborca podatkowy, którego "karoca" zaparkowała przed kasztelem. Ku uldze Finarrina odrywamy go od przykrych obowiązków aby porozmawiać na osobności.
-    - {Mag}Kajetan pyta Finarrina co sądzi o wyciągnięciu Galawaina spod Duen Canell z użyciem artefaktu, którego nie musieliśmy użyć. {Stary Druid}Finarrin odradza pomysł i próbuje grać na zwłokę zanim wymyśli dobre argumenty przeciw konceptowi - rzuca niejasne podejrzenia na Zangenisa, prowokując atak paranoi u Kajetana.
+    - {Mag}Kajetan pyta Finarrina co sądzi o wyciągnięciu Galawaina spod Duen Canell z użyciem artefaktu, którego nie musieliśmy marnować na formoriana. {Stary Druid}Finarrin odradza pomysł i próbuje grać na zwłokę zanim wymyśli dobre argumenty przeciw konceptowi - rzuca niejasne podejrzenia na Zangenisa, prowokując atak paranoi u Kajetana.
     - Kajetan ucieka gryziony tysiącem natrętnych myśli, gdy Ilana idzie poszukać Ivara. Słyszy jak Ivar i Skovik kłócą się w chacie. {Paladyn}Ivar zarzuca bratu, że ucieka od swoich obowiązków i problemów, które sam na siebie ściągnął - jak z resztą zdaje się wszyscy wokół.
     - {Druidce}Ilana też się obrywa kiedy proponuje Ivarowi przejęcie jej przysięgi wobec Protektora wierząc, że pomoże mu to w nawiązaniu kontaktu z patronem. {Młody Drummond}Ivar wyjątkowo celnie wbija jej dwie szpile - ucieczkę od odpowiedzialności i bezpardonowe żądanie pomocy bez słowa podzięki.
     - Dwójka rozchodzi się w swadzie, bo Ivar musi wracać do swoich obowiązków, które - w przeciwieństwie do reszty - dzielnie bierze na swoje barki.
     - Kajetan zastaje straszny bałagan w chatce Mirny, a samą dziewczynę śpiącą w laboratorium. Rozniosła pół domu w złości, gdy kolejna próba chodowania mandragory jej się nie powiodła.
     - {Elf}Kajetan pomaga jej posprzątać, opowiada o Lentinusie i Feinwedd, które zdaje się być otoczone folklorem przypominającym nieco legendy o dziwostręcie.
-    - Ilana, chcąc się odwdzięczyć Ivarowi pięknym za nadobne i wyzwolić go od niechcianego brzemienia, wraca do dyskusji o wyciąganiu Galawaina z więzienia Eithne przy Finarrinie. Początkowo przerażony i niechętny Kajetan, nieznacznie dając {druidce}Ilana znać, by przedyskutować to w bardziej kameralnym gronie, w cztery oczy.
+    - Ilana, chcąc się odwdzięczyć Ivarowi pięknym za nadobne i wyzwolić go od niechcianego brzemienia, wraca do dyskusji o wyciąganiu Galawaina z więzienia Eithne przy Finarrinie. Początkowo przerażony i niechętny Kajetan, nieznacznie daje {druidce}Ilana znać, by przedyskutować to w bardziej kameralnym gronie, w cztery oczy.
     - {Druid}Finarrin odradza nam tak jego zdaniem irracjonalny pomysł. Boi się, że po uwolnieniu Protektora druidzi z Brokilonu mogą przestać być potrzebni. 
 3. Ku Kerrack
     - Mirna chce wracać do Kerrack. Najszybciej będzie nam drogą do Verden. Z kolei Ilana pali się żeby w końcu ruszyć na {Wyspy}Skellige, więc Kerrack jest dobrym miejscem na znalezienie statku w tamtą stronę.
@@ -26,7 +26,7 @@
     - Gnomy idą od Brugge, gdzie byli świadkami bójki w znanej nam karczmie na podgrodziu. Grupka zbrojnych starła się tam z innymi rycerzami. 
     - Jeden z rycerzy, w czarnej zbroi, został wyrzucony oknem. Tym samym, które wcześniej sprzedał knajpie Pan Lusterko. Okno przecięło mu gardło, aż głowa poleciała. Następnie - ku przerażeniu zebranych - trup wstał, otrzepał się, zabrał głowę i jakby nigdy nic odjechał na koniu w siną dal.
     - Gnomy jadą w stronę Cidaris, przez Kerrack. Swoją eskortę stracili w Brugge, w bijatyce, podróżują więc dalej w lekkim strachu.
-    - Oferujemy im eskortę w zamian za podwózkę do Kerrack Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
+    - Oferujemy im eskortę w zamian za podwózkę do Kerrack. Wóz jednak wlecze się niemożliwie, ruszamy więc dalej sami. Docieramy do Starego Olsy, gdzie stajemy na noc.
 4. Stary Olsa
     - Na miejscu spotykamy dwóch bardów, kilku chłopów i dwóch kupców. Rozpalają ognisko, minstrele przygrywają snując historie, alkohol zaczyna płynąć.
     - W ruinach panuje zdumiewająco przyjazna atmosfera, a ogień bucha aż miło, jakby się sam podsycał. Kajetan odkorkowuje flaszkę krasnoludzkiego bimbru i dosiada się do towarzystwa. Dowiadujemy się, że:
@@ -40,12 +40,12 @@
     - Bawiąc się i opowiadając historie, Kajetan honoruje wiekowy zwyczaj krasnoludzkim półtorakiem Ilany. W pewnym momencie zdaje mu się, że wesoło strzelające ognisko prosi go o więcej mioduli. Za przyzwoleniem Ilany, która trzyma pieczę nad trunkiem, zabiera się za butelkę pamiętając, by częstować mitycznego gospodarza.
     - Skovik i Mirna grają w karty z drugim kupcem. Panowie nie wylewają przy tym za kołnierz. Błoga atmosfera zdaje się skłaniać zebranych do plecenia historii - tych wyśnionych i tych prawdziwych, a także prawd skrywanych dotąd przed światłem dziennym.
     - Ilana, swoim zwyczajem, nie pije, a poczęstowana przez towarzystwo wylewa napitek na zdrowie gospodarza. Mimo to czuje się jak na lekkim rauszu. 
-    - Przysłuchując się rozmowom {druidka}Ilana przyłapuje Skovika na zadziwiająco szczerym wyznaniu: {wyspiarz}Skovik chce wrócić na Skellige zająć miejsce ojca i kultywować linię swojego rodu z nią u swego boku.
+    - Przysłuchując się rozmowom {druidka}Ilana przyłapuje Skovika na zadziwiająco szczerym wyznaniu: {wyspiarz}Skovik chce wrócić na Skellige by zająć miejsce ojca i kultywować linię swojego rodu z Ilaną u swego boku.
     - Para opuszcza towarzystwo i udaje się w ustronne miejsce kontynuować miły wieczór we dwoje.
     - {Mag}Kajetan, bawiony historiami, w pewnym momencie zauważa szczelinę w ścianie, i ma wrażenie jakby został zaproszony do środka.
     - W normalnie niedostępnej piwnicy spotyka pół-elfa pół-zwierzę, Sylvana, przedstawiającego się jako Stary Olsa. Szybko domyśla się, że postać może mieć coś wspólnego z mieszkańcami Craag An.
-    - wśród toastów i bajań, {elf}Kajetan dowiaduje się, że:
-        - Aen Drisichean przybyli z innej płaszczyzny przez portal, pierwszy, w Brokilonie, w miejscu którego wybudowali wieżę
+    - Wśród toastów i bajań, {elf}Kajetan dowiaduje się, że:
+        - Aen Drisichean przybyli z innej płaszczyzny przez portal, pierwszy w Brokilonie, w miejscu którego wybudowali wieżę
         - w sercu lasu powstało miasto, które znamy jako Craag An
         - stworzenia, które nie posługiwały się Mocą Aen Drisichean uważały za zwierzęta
         - o Wranach mało kto wiedział, ich istnienie próbowano zatuszować - jak zwierzęta mogły by być w stanie odebrać dumnym elfom panowanie nad Mocą albo nawet i życie

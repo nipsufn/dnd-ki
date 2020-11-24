@@ -44,7 +44,7 @@
 3. Brugge
     - Rankiem wyruszamy do Brugge, bez przerwy, nie zatrzymując się na noc.
     - Pomimo wyczerpania, decydujemy od razu udać się do maga.
-    - Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną [karczmę](Ostoja) w porównaniu do tych, w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, [Magistrem Florianem z Vicovaro](Florian) nazajutrz.
+    - Straż wartująca przy rezydencji traktuje nas zupełnie poważnie, głównie dzięki listowi polecającemu. Zalecają jednak odpoczynek (polecają nam rozsądną [karczmę](Ostoja) w porównaniu do tych, w których byliśmy dotychczas), obiecują umówić widzenie z magiem rezydentem, Magistrem Florianem z Vicovaro nazajutrz.
     - Setnie zmęczeni udajemy się pomimo wczesnej pory dnia na spoczynek. Bierzemy dwa pokoje żeby każdy mógł wyspać się w wygodnym łóżku i należycie wypocząć.
     - Skovik ma żal do Ilany. Myślał, że druidka porzuciła ich, zostawiła na pastwę bestii i w przestrachu uciekła do miasta.
     - Ilana poważnie deklaruje, że nigdy nie porzuciłaby swojej kompanii i mogą jej w tej kwestii zaufać. Przeprasza też za swoje zachowanie, za to, co robiła kiedy nie panowała nad sobą, a czego do końca nie pamięta. 

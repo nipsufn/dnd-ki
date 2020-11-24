@@ -29,7 +29,7 @@
     - Przed rynkiem doprowadzamy się do względnego porządku. Leiv decyduje się zostać w mieście, nam udaje się przekonać strażników bramy aby nas wypuścili.
 2. W drodze
     - Obchodzimy miasto od północy w promieniu kilku kilometrów, jako że wyszliśmy południowo-wschodnią bramą, a droga nam na północny zachód.
-    - Widzimy jak [D'jinni](Djinni) podpala znaczną część miasta, po czym jakaś latająca postać, zdaje się nam [Magister Florian z Vicovaro](Florian), pokonuje go i sprowadza nad miasto śnieżycę aby opanować pożar.
+    - Widzimy jak [D'jinni](Djinni) podpala znaczną część miasta, po czym jakaś latająca postać, zdaje się nam Magister Florian z Vicovaro, pokonuje go i sprowadza nad miasto śnieżycę aby opanować pożar.
     - W biegu Ilana zauważa, że coś frunie po niebie naszym śladem, mimo szalejącej śnieżycy. Kształt ten wygląda jak szara sowa (Filippa Eilhart?), ale finalnie nas nie dogania, bo znajdujemy kryjówkę.
     - Po drodze rozmawiamy o istotach mieszkających w Brokilonie:
         - wilki
@@ -54,7 +54,7 @@
         - tego samego wieczora do Cintry: 60GP za rejs, 20GP jeśli będziemy pomagać w ochronie, 100GP za dodatkowy postój
         - za 1 - 2 dni do Cintry: 10 - 30GP zależnie jakie inne zlecenia znajdą na transport towaru
     - Ilana wraca do urzędu ze "zniszczonym" glejtem, prosząc o wystawienie nowych, tym razem już oddzielnych dokumentów dla każdego. I tak Ivar zostaje Civrilem Regner, a Skovik - Jonasem Skaggs
-    - Spotykamy się grupą w ["Perełce"](Perełka) - przybytku poleconym jako lokalna atrakcja przez jednego ze strażników na moście (który nawiasem okazuje się być portowym, dość ekskluzywnym burdelem).
+    - Spotykamy się grupą w "Perełce" - przybytku poleconym jako lokalna atrakcja przez jednego ze strażników na moście (który nawiasem okazuje się być portowym, dość ekskluzywnym burdelem).
     - Skovik był głównym organizatorem puczu przeciw obecnej władczyni [Wysp](Skellige). Osobiście targnął się na życie Cerys i jej brata próbując pomścić zamordowanego ojca, dlatego nie tylko nie może tam wrócić, ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny.
     - W drużynie następuje brak zgody co do dalszych planów:
         - Ilana uważa, że należy podróżować dalej na zachód lądem, przekroczyć Wstążkę i na wysokości Bodrogu wkroczyć do Brokilonu całą drużyną; wierzy, że Driady znają ją i ufają jej na tyle, by przepuścić ją wraz z nieznajomymi dalej do druidzkiego kręgu, w którym się wychowała

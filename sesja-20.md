@@ -29,9 +29,9 @@
         - serdeczna przyjaciółka (partnerka) Finarrina, Enid, zmieniła się w szopa pracza - w ciągu ostatnich kilku dni, buszując po spiżarni Finarrina została kilkukrotnie przepędzona miotłą/butem przez nieświadomą Ilanę
     - Razem z Kajetanem przygotowują śniadanie, na które schodzi się też reszta.
     - Kajetan dowiaduje się, że nalewkę z mandragory pędził niejaki [Pan Regis](Regis) z Dillingen. Niestety, jakiś czas temu wyprowadził się ze swoją kobietą, zdaje się do Beauclair.
-    - Brokoloński Krąg Druidów powstał w czasach gdy lokalne elfy i ludzie zawarli rozejm, ich zadaniem jest utrzymać status quo.
-    - [Bizoktor](Bizoktor), zwany "Leszym" (wg Kajetana "Leszkiem"), broni lasu na podstawie paktu zawieranego przez Hierofanta Druidów.
-    - Hierofant wyznacza też swojego następce, który będzie dalej podtrzymywał pakt.
+    - Brokiloński Krąg Druidów powstał w czasach gdy lokalne elfy i ludzie zawarli rozejm, ich zadaniem jest utrzymać status quo.
+    - [Bizoktor](Bizoktor), zwany "Leszym" (wg Kajetana "Leszkiem"), broni lasu na podstawie paktu zawieranego przez Hierofanty Druidów.
+    - Hierofanta wyznacza też swojego następce, który będzie dalej podtrzymywał pakt.
     - Ilana oficjalnie "przyznaje się" do Skovika, czym wprawia Finarrina w lekką konsternację.
     - Skovik prosi Finarrina o pomoc w swoim treningu. Niestety druid nie jest w stanie dokończyć jego przemiany, bo nauki druidów ze Skellige różnią się znacząco od tradycji i metod druidycznych z kontynentu. Decydujemy, że w takim wypadku trzeba nam bezzwłocznie ruszać na Skellige, szczególnie że kompania zdaje się skłaniać ku opinii iż Aen Eldrin należy omijać szerokim łukiem.
     - Po śniadaniu Mirna, ku niezadowoleniu Kajetana, zaszywa się w swojej pracowni do końca dnia robiąc obiecane eliksiry. 

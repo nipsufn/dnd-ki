@@ -31,7 +31,7 @@
     - Wieczorem Ilana suszy zakupione jedzenie na drogę.
     - Druidka orientuje się że [Zielarka](Esme) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym Kajetanowi.
 2. Carreras - dzień drugi
-    - Kajetanowi zdaje się że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](Esme), odzyskać pukiel i potencjalnie skrócić babę o głowę.
+    - Kajetanowi zdaje się, że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](Esme), odzyskać pukiel i potencjalnie skrócić babę o głowę.
     - Drużyna wyrusza w poszukiwaniu [Zielarki](Esme), kierując się w stronę menhiru - mamy podejrzenia, że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy.
     - Ilana używa magii aby odszukać swoje włosy, wyczuwa je w trzech punktach
     - W pół drogi do menhiru atakuje nas dwóch żaboludzi, próbując porwać Ilanę.

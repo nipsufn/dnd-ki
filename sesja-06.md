@@ -30,7 +30,7 @@
     - U stóp wzgórza, na którym stoi świątynia, zastajemy kolumnę obozującego wojska Redanii.
     - W namiotach leży wielu rannych, którym kapłanki odmówiły pomocy.
     - Komendant obozu Redańczyków pozwala nam odwiedzić Świątynię życząc szczęścia.
-    - [Matka Iola Druga](Matka Iola) wpuszcza nas - zna Kajetana i to za jego sprawą bramy zostają dla nas otwarte.
+    - Matka Iola Druga wpuszcza nas - zna Kajetana i to za jego sprawą bramy zostają dla nas otwarte.
     - Kapłanki wpuszczają nawet Kasimira i chorego strażnika.
     - Poznajemy źródło problemów kapłanek, przez które świątynia odcięła się od świata. W szklarni jakieś złe pnącza obrosły prastary dąb rosnący w Punkcie Mocy.
     - Jeśli usuniemy pnącze, kapłanki obiecują w zamian pomóc nie tylko nam, ale także i miastu.
