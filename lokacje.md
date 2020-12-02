@@ -46,6 +46,8 @@
     - leży nad morzem, między ujściem Jarugi a [Temerią](#l_temeria), od wschodu graniczy z [Verden](#l_verden)
     - <a id='l_m_cidaris' pattern='Cidaris'>Cidaris</a>
     - <a id='l_bremervoord' pattern='Bremervoord'>Bremervoord</a>
+    - <a id='l_ravelin' pattern='Ravelin'>Ravelin</a>
+    - <a id='l_vole' pattern='Vole'>Vole</a>
 - <a id='l_cintra' pattern='Cintr*'>Cintra</a>
 - <a id='l_ellander' pattern='Ellander'>Ellander</a>
     - Lenno [Temerii](#l_temeria), a więc i [Redianii](#l_redania)
@@ -80,6 +82,7 @@
     - <a id='l_m_kerack' pattern='Kerack'>Kerack</a>
         - [Mirna](#p_mirna) otworzyła tam sklepik i warsztat
     - <a id='l_ansegis' pattern='Ansegis'>Ansegis</a>
+    - <a id='l_cizmar' pattern='Cizmar'>Cizmar</a>
     - <a id='l_sotonin' pattern='Sotonin*'>Sotonin</a>
         - przygraniczna (od strony [Verden](#l_verden)) osada
 - <a id='l_kovir' pattern='Kovir*'>Kovir</a>
