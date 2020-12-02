@@ -266,6 +266,7 @@
         - pożyczył Mirnie 1000GP, spodziewa się 1500GP z powrotem
         - zaczął współpracować z dziewczyną gdy okazało się że jej biznes zaczyna przynosić dochody a potrzebny jest figurant bez domieszki nieludzkiej krwi
     - <a id='p_de_santis' pattern='De Santis*'>De Santis</a> - ; komisarz (?)
+    - <a id='p_instygator' pattern='Instygator*,Ferant*,De Lettehoff,Ferant* De Lettehoff'>Freant De Lettehoff</a> - ; instygator królewski (?)
 - Nilfgaard
     - <a id='p_emhyr' pattern='Cesarz* Emhyr*,Emhyr*'>✝ Emhyr</a> - ; cesarz Nilfgaardu
     - <a id='p_morvran' pattern='Cesarz* Morvran*,Morvran* Voorhis*,Morvran*,Voorhis*'>Cesarz Morvran Voorhis</a> - ; cesarz Nilfgaardu
