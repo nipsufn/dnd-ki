@@ -261,12 +261,18 @@
 - [Kaedwen](#l_kaedwen)
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
 - [Kerack](#l_kerack)
+    - <a id='p_osmyk' pattern='Osmyk*,Osmyk* I,Król* Osmyk* I'>✝ Król Osmyk I</a> - ; założyciel [Kerrack](#l_kerack)
     - <a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*,Ksi* Viraksas*,Viraksas*'>Książę Viraxas</a> - ;
     - <a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz
         - pożyczył [Mirnie](#p_mirna) 1000GP, spodziewa się 1500GP z powrotem
         - zaczął współpracować z dziewczyną gdy okazało się że jej biznes zaczyna przynosić dochody a potrzebny jest figurant bez domieszki nieludzkiej krwi
-    - <a id='p_de_santis' pattern='De Santis*'>De Santis</a> - ; komisarz (?)
-    - <a id='p_instygator' pattern='Instygator*,Ferant*,De Lettehoff,Ferant* De Lettehoff'>Freant De Lettehoff</a> - ; instygator królewski (?)
+    - <a id='p_nikolai' pattern='Nikolai*'>Nikolai</a> - ; rzemieślnik
+    - <a id='p_otyg' pattern='Otyg*'>Otyg</a> - ; kmiotek, wnuk [Nikolaia](#p_nikolai)
+    - <a id='p_jenne' pattern='Jenne'>Jenne</a> - ; burdelmama z [Cyklamenu](#l_cyklamen), podwładna [Brona](#p_bron)
+    - <a id='p_de_santis' pattern='[dD]e Santis*'>De Santis</a> - ; komisarz
+    - <a id='p_marid' pattern='Marid*,Marid* z Vole'>✝ Marid z Vole</a> - ; bard
+    - <a id='p_vett' pattern='Konrad* [dD]e Vett*,[dD]e Vett*'>Konrad De Vett</a> - ; właściciel [Cyklamenu](#l_cyklamen)
+    - <a id='p_instygator' pattern='Instygator*,Ferrant*,[dD]e Lettenhove,Ferrant* [dD]e Lettenhove'>Freant De Lettenhove</a> - ; instygator królewski
 - [Nilfgaard](#l_nilfgaard)
     - <a id='p_emhyr' pattern='Cesarz* Emhyr*,Emhyr*'>✝ Emhyr</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)
     - <a id='p_morvran' pattern='Cesarz* Morvran*,Morvran* Voorhis*,Morvran*,Voorhis*'>Cesarz Morvran Voorhis</a> - ; cesarz [Nilfgaardu](#l_nilfgaard)

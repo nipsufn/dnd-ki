@@ -43,7 +43,7 @@
     - Przy okazji dowiaduje się, że w [Kerack](#l_kerack) magia rzeczywiście nie jest kontrolowana.
     - Niedaleko od fontanny na ławce siedzi [Mirna](#p_mirna), w towarzystwie kogoś, kto wygląda jak oprych bardzo starający się nie wyglądać na oprycha - to [Bron](#p_bron).
     - [Bron](#p_bron) wygląda na nieco zaszokowanego albo przestraszonego spektakularnym przybyciem [Kajetana](#g_kajetan). Żywi nadzieję, że [Mirnie](#p_mirna) nic się nie stanie jeśli pozostawi swą współpracowniczę w rękach [elfa](#g_kajetan) i zmyka tak szybko jak tylko może.
-    - Wyruszamy z [druidką](#p_mirna) do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai - specjalistę od rzeźbienia misternych rzeczy. [Kerack](#l_kerack) jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
+    - Wyruszamy z [druidką](#p_mirna) do gorszych dzielnic miasta, by znaleźć wyspiarza mianem [Nikolai](#p_nikolai) - specjalistę od rzeźbienia misternych rzeczy. [Kerack](#l_kerack) jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
     - [Kajetan](#g_kajetan) wyłuszcza swoje zlecenie. Aby zaskarbić sobie sympatię wyspiarzy obecnych w zakładzie, robi to w ich ojczystym języku, stawiając przy tym flaszkę krasnoludzkiego bimbru na stół.
     - Okazuje się, że piraci pochodzą z klanu Tordarroch, słynącego ze znamienitych płatnerzy.
     - Początkowo niechętny, stary pirat podejmuje pracę zleconą przez [elfa](#g_kajetan). Naprędce nakreślony szkic przedstawia... wieżę z iluzji [Gauntera](#p_gaunter). Cacko będzie jednak trochę kosztować, w dodatku brakuje materiału. Wszystko jednak da się załatwić, za określone pieniądze. Wieża będzie do odbioru za 3-4 tygodnie.
