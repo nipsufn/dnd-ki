@@ -36,8 +36,5 @@
     - Rezygnując z i tak wątpliwej jakości śniadania, nazajutrz ruszamy do głównej (i chyba jedynej) bramy miasta Kerack. Brama jest faktycznie zamknięta, a przed nią rozstawił się mały oddział ze stołem do papierologii stosowanej. Zatrzymują nas strażnicy i proszą Mirnę o wyjaśnienie.
     - Mirna tłumaczy, że jest z miasta i prowadzi tu warsztat, a my jesteśmy jej rodziną (obecną i przyszłą), ale i tak stróże prawa żądają świadka-rezydenta, który by to potwierdził.
     - Kajetan wysyła więc wiadomość do Brona. Ten odpowiada bardzo szybko. Instruuje, by {elf}Kajetan ogłosił się oficjalnie magiem i pod żadnym pozorem nie prowokował ludzi De Santisa. Wszelkie poniesione koszta {lichwiarz}Bron zwróci jak tylko się zobaczą.
-    - Idąc za radą Brona, Kajetan wyrabia oficjalny dokument i tak wchodzimy do miasta. Za bramą czeka już na nas Bron i w drodze opowiada o co ta cała afera:
-        - w mieście zaginęlo ostatnio kilka znanych osobistości, w tym jeden słynny bard
-        - wyłowiono kilka ciał i wszyscy byli akurat gośćmi jednego z przybytków {lichwiarza}Bron
-        - rzeczony przybytek to Cyklamen, najbardziej luksusowy ~~burdel~~ hotel w Kerack
+    - Idąc za radą Brona, Kajetan wyrabia oficjalny dokument i tak wchodzimy do miasta.
     
