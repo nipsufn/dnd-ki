@@ -81,6 +81,17 @@
     - niepodległe księstwo między Verden a Temerią
     - <a id='l_m_kerack' pattern='Kerack'>Kerack</a>
         - Mirna otworzyła tam sklepik i warsztat
+        - <a id='l_palmera' pattern='Palmer*'>Palmera</a>
+            - gorsza część miasta
+            - <a id='l_krab_i_belona' pattern='Pod Krabem i Beloną'>Pod Krabem i Beloną</a>   
+        - <a id='l_cyklamen' pattern='Cyklamen*'>Cyklamen</a>
+            - ekskluzywny hotel
+            - część budynku pochodzenia elfiego, może nawet Aen Drisichean
+            - oferuje też "przyjemności cielesne"
+            - zarządzany przez Brona, własność Konrada de Vett
+        - <a id='l_pod_szubienica' pattern='Pod Szubienicą'>Pod Szubienicą</a>
+        - <a id='l_baszta_mordercow' pattern='Basz* Morderców'>Baszta Mroderców</a>
+            - służy jako budynek urzędowy
     - <a id='l_ansegis' pattern='Ansegis'>Ansegis</a>
     - <a id='l_cizmar' pattern='Cizmar'>Cizmar</a>
     - <a id='l_sotonin' pattern='Sotonin*'>Sotonin</a>
@@ -127,7 +138,7 @@
     - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
         - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Aretuz*,Thanedd'>Wyspa Thanedd</a>
             zniszczona szkoła czarownic, Aretuza
-    - <a id='l_gora_cremora' pattern='[Gg]ór* [CK]remor*,Risberg*'>Góra Cremora</a>
+    - <a id='l_gora_cremora' pattern='[Gg]ór* [CK]remor*,Risberg*,Cytadel*'>Góra Cremora</a>
         - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
         - magowie nazywają zajście "fuszerką"
         - związane z pochodzeniem Ilany

@@ -15,13 +15,13 @@
     * W drodze mijamy tawernę. Zwabiona skoczną melodią Ilana nalega aby zatrzymać się w melinie "Pod Krabem i Beloną", kusząc piwem. Piwo okazuje się kwaśne i słabe, ale krótkowłosa, urocza minstrelka śpiewa o okolicznym wilkołaku, którego kila dekad temu odczarował wiedźmin miast bestię ubić. Historia rzecze, że chłop ten został jednak wygnany przez nieufnych wieśniaków.
     * Przy jednym ze stołów zaczyna się robić tłoczno od wytykających nas bywalców-obwiesiów. Pomio marudzenia i protestów Kajetana, wysłuchujemy całego utworu. Ilana zauważa też jakiegoś zakapturzonego jegomościa przyglądającego nam się z cienia półpiętra nad barem.
     * Piosenka się kończy, opuszczamy lokal i udajemy się do wyspiarzy Kajetana. Za nami idzie pół tuzina obwiesiów z tawerny - jeden miast ręki ma hak rybacki.
-    * Oprychy nie dadzą nam spokoju dopóki nie odejmą {elfowi}Kajetan ręki, którą ich prowodyr stracił w niedawnym spotkaniu z magiem przy fontannie.
+    * Oprychy nie dadzą nam spokoju dopóki nie odejmą {elfowi}Kajetan ręki, którą ich prowodyr stracił w niedawnym spotkaniu z magiem na molo.
     * Wywiązuje się krótka utarczka, z której menele uciekają spanikowani znikającymi ludźmi, wilkołakiem i błyskawicami.
     * Kajetan, z roztrzaskanym łukiem brwiowym, zarządza wycieczkę do urzędnika celem wprowadzenia poprawki do magowskiego glejtu - w końcu nie planował i nie uiścił opłaty za czarowanie wewnątrz miasta.
     * Odsyłani od jednego do drugiego, trafiamy do Baszty Morderców, za którą jest parczek z pomnikiem kogoś przypominającego kapitana - Króla Osmyka I.
 3. Ciekawe historie
     * W samej baszcie ulokowane jest biuro, po chwili oczekiwania zostajemy przedstawieni Instygatorowi Królewskiemu Ferrantowi De Lettenhove:
-        * Kajenatnowi udało się za pierwszym razem z niskim mandatem za aportację - trafił na niekompetentnego strażnika
+        * Kajetanowi udało się za pierwszym razem z niskim mandatem za aportację - trafił na niekompetentnego strażnika
         * magia w mieście jest legalna, ale opodatkowana
         * magom nie wolno posiadać w mieście nieruchomości
         * za opłatę za czarowanie uiszczoną po fakcie, pomimo użycia w obronie własnej, zostaje naliczona dodatkowa opłata
@@ -47,7 +47,7 @@
     * {Wspólnik Mirny}Bron byłby w stanie załatwić mandolinę dla minstrelki, ale sam prosi nas o pomoc w zakończeniu śledztwa jak najszybciej. Zdradza, że instygator jest człowiekiem niezwykle oddanym swojej pracy, służbistą.
     * Podobno bard przyjechał do Cyklamenu ze swoją muzą, eteryczną blondynką o zielonych oczach, którą zdaje się darzył niesamowitym wręcz uwielbieniem.
     * Mewa-szewc także był tydzień temu gościem w Cyklamenie, gdy poszedł się napić po kłótni z żoną. Spotkał tam pewną kobietę o płomiennych włosach. Ostatnie, co pamięta to te włosy gdy pił w barze, a gdy się obudził, był na dachu i trzepotał już skrzydłami.
-    * Na nocleg zatrzymujemy się na Placu Wisielców, w poleconej przez brona karczmie o wdzięcznej nazwie "Pod Szubienicą". W drodze mamy wrażenie, że ktoś nas znowu obserwuje, ale nikt nam się tym razem nie naprzykrza.
+    * Na nocleg zatrzymujemy się na Placu Wisielców, w poleconej przez Brona karczmie o wdzięcznej nazwie "Pod Szubienicą". W drodze mamy wrażenie, że ktoś nas znowu obserwuje, ale nikt nam się tym razem nie naprzykrza.
     * Rozmowa się nie klei, Kajetan jest wściekły i poza niekończącymi się docinkami o zaklętej mewie nie ma nic do powiedzenia. Rozchodzimy się do pokojów.
     * Wieczorem, przy Mirnie, {elf}Kajetan odbywa rozmowę z Zangenisem:
         * mag miał też styczność z Wranami, uniknął losu Kajetana usuwając ciało ze swojej ręki - pod rękawicą nie ma nic poza animowanymi kośćmi
