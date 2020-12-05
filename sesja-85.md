@@ -36,8 +36,5 @@
     - Rezygnując z i tak wątpliwej jakości śniadania, nazajutrz ruszamy do głównej (i chyba jedynej) bramy miasta [Kerack](#l_kerack). Brama jest faktycznie zamknięta, a przed nią rozstawił się mały oddział ze stołem do papierologii stosowanej. Zatrzymują nas strażnicy i proszą [Mirnę](#p_mirna) o wyjaśnienie.
     - [Mirna](#p_mirna) tłumaczy, że jest z miasta i prowadzi tu warsztat, a my jesteśmy jej rodziną (obecną i przyszłą), ale i tak stróże prawa żądają świadka-rezydenta, który by to potwierdził.
     - [Kajetan](#g_kajetan) wysyła więc wiadomość do [Brona](#p_bron). Ten odpowiada bardzo szybko. Instruuje, by [elf](#g_kajetan) ogłosił się oficjalnie magiem i pod żadnym pozorem nie prowokował ludzi [De Santisa](#p_de_santis). Wszelkie poniesione koszta [lichwiarz](#p_bron) zwróci jak tylko się zobaczą.
-    - Idąc za radą [Brona](#p_bron), [Kajetan](#g_kajetan) wyrabia oficjalny dokument i tak wchodzimy do miasta. Za bramą czeka już na nas [Bron](#p_bron) i w drodze opowiada o co ta cała afera:
-        - w mieście zaginęlo ostatnio kilka znanych osobistości, w tym jeden słynny bard
-        - wyłowiono kilka ciał i wszyscy byli akurat gośćmi jednego z przybytków [lichwiarza](#p_bron)
-        - rzeczony przybytek to Cyklamen, najbardziej luksusowy ~~burdel~~ hotel w [Kerack](#l_kerack)
+    - Idąc za radą [Brona](#p_bron), [Kajetan](#g_kajetan) wyrabia oficjalny dokument i tak wchodzimy do miasta.
     
