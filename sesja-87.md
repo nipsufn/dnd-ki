@@ -1,0 +1,42 @@
+### Sesja 87
+1. Na miasto
+    - [Kajetan](#g_kajetan) wysyła sowę, aby szukała [Otyga](#p_otyg) podążając traktem do [Cidaris](#l_cidaris)
+	- [Mirna](#p_mirna) opowiada - kilku klientów z [Cyklamenu](#l_cyklamen) zaklina się, że widziało [barda](#p_marid) po jego rzekomej śmierci
+	- gdy wychodzimy, znów przyczepia się do nas menel:
+	    - na jednym z trzech mostów do [Palmery](#l_palmera) znaleziono kolejną ofiarę - dziewkę portową
+		- niedaleko od miejsca zabójstwa mieszkańcy znaleźli hałasującą kozę - co jest dziwne, w mieście mało kto trzyma zwierzęta
+		- rzeczona koza nie ma ponoć jednej nogi
+		- dowiadujemy się kto trzyma tę kozę teraz
+	- kojarząc kozę z opowieści z oprychem, który nas napadł, domyślamy się że padł ofiarą grasującego mordercy-przemieniacza
+	- idąc do [Palmery](#l_palmera) zauważamy zwłoki otoczone wciąż prowadzącymi śledztwo strażnikami - wygląda na podobnie zasuszone jak ciało [Marida](#p_marid)
+	- kozę odkupujemy od karczmarza, który rad jest pozbyć się problemu, bo dogonić jej by skrócić o głowę nie potrafił
+	- nie mamy wątpliwości, że zwierzę to agresywny delikwent, czuć jednak że zaklęty jest nieco inaczej niż mewa - klątwa jest definitywnie świeższa, zdaje się być rzuconą bardziej naprędce
+	- próbując wybadać, co wie koza, zatrzymujemy się w jakimś zaułku - do dziewki przyczepił się jakiś typ, który zaatakowany zamienił napastnika w zwierzę. Bandzior nie pamięta jednak jak mężczyzna wyglądał
+2. Nowe kłopoty
+	- godzeni jakimiś strzałkami, padamy wszyscy nieprzytomni
+	- [Ilana](#g_ilana) budzi się, czując jak ktoś ją obszukuje
+	- [Skovik](#p_skovik) zniknął. Szybko obezwładniamy dwóch z czterech smarkaczy którzy nas przeszukiwali - obudziliśmy się w dobrym momencie, nie udało im się świsnąć więcej niż 150gp
+	- Chuligani przedstawiają się jako sieroty, Suchy i Wąski. Ich kolega, Gruby, i szef zamieszania, lepiej sytuowany (wykorzystuje sieroty do swoich szemranych interesów), Franc, uciekli.
+	- Wyruszamy w stronę magazynu, w którym chowają się bezdomne młodziki
+	- Wysyłamy Wąskiego do reszty "ekipy" - żądamy naszego złota i poinformowania Franca, że ma się stawić na rozmowę z nami, jeśli nie chce aby należący do niego magazyn spłonął
+	- w międzyczasie Suchy opowiada, że śledzili nas dla [Łowczego](#p_feliks) od kiedy pojawiliśmy się w mieście - z Francem w roli ich przywódcy
+	- [Łowczy](#p_feliks) ma czarny, opancerzony wóz, zaprzężony w jednego konia
+	- [Ilana](#g_ilana) wysyła wiadomość do [Brona](#p_bron), prosząc aby znaleźć i zatrzymać napastnika
+	- Próbujemy nakłonić bandę sierot do współpracy - bezpośredniej, z pominięciem Franca - zapłacimy za informacje o kręcących się po mieście rudych osobach które przybyły mniej-więcej w tym samym czasie co bard, może po nim, ale przed jego śmiercią
+	- [Kajetan](#g_kajetan), chcąc wybadać co na prawdę wie koza, rzuca rzadko używany czar, Wykrycie Myśli. Widzi, że bandzior odpowiada tak szczerze jak potrafi.
+	- Rozluźniając koncentrację, [mag](#g_kajetan) pozwala błądzić zaklęciu po myślach otaczających go istot - nagle napotyka się na "mam cię!" połączone z mentalnym obrazem jego postaci
+	- mając w głowie ten obraz, zbliża się w kierunku, z którego musi patrzeć śledząca go osoba
+	- uprzedzony, nie daje się zaskoczyć atakiem całkowicie. Wywiązuje się krótka szarpanina między dwoma czarodziejami - [Kajetanem](#g_kajetan) a [Elatan](#p_elatan), postacią z przeszłości {elfa}
+	- zaalarmowana [Ilana](#g_ilana) zamienia się w niedźwiedzia i zmusza [czarodziejkę](#p_elatan) do ucieczki, po czym zajmuje się nieprzytomnym [towarzyszem](#g_kajetan)
+	- [Elatan](#p_elatan) zakrywała częściowo pozbawioną ciała twarz porcelanową maską, zaklętą, o aurze iluzji
+	- udajemy się porozmawiać z [Bronem](#p_bron):
+	    - ma ładną mapę królestw północy, od [Redanii](#l_redania) po [Cintrę](#l_cintra)
+		- [Łowczy](#p_feliks) wyjechał z miasta kilka godzin temu, po krótkiej dyskusji na bramie z [De Ponsem](#p_de_pons) i [De Lettenhove](#p_instygator)
+		- O losach [Otyga](#p_otyg) może wiedzieć ktoś o mianie "Wielebnego" w [Ravelin](#l_ravelin), który z resztą był kapłanem, jednym z niewielu którzy przetrwali pogrom w [Kerrack](#l_kerack)
+	- [Kajetan](#g_kajetan) jest zbyt zmęczony aby w jakikolwiek sposób przydać się w pościgu, a [Łowczy](#p_feliks) ma za dużą przewagę, by [Ilana](#g_ilana) dała sobie radę samodzielnie, nawet pod postacią zwierzęcia. Decydujemy się na ciepły posiłek i krótki odpoczynek w Natura Rerum
+	- [Elf](#g_kajetan) przekonuje się że jego sowa nie dała rady odnaleźć [wnuka Nikolaia](#p_otyg), więc wysyła ją tropem [Łowczego](#p_feliks), po czym udaje się na spoczynek. Ktoś go wciąż śledzi magicznymi sposobami.
+	- [Ilana](#g_ilana) wybiera się do [Mirny](#p_mirna), zdeponować zwierzęta - po drodze znajduje kota - strażnika, najnowszą ofiarę mordercy-dziwaka. Ostatnią rzeczą jaką kot widział, były żółte ślepia szlochającej w zaułku kobiety, o której myślał, że potrzebuje pomocy
+	- [Mirna](#p_mirna) niechętnie przyjmuje zwierzyniec i daje [dziewczynie](#g_ilana) na drogę 3 eliksiry leczące
+	- Sowa [Kajetana](#g_kajetan) obserwuje:
+	    - Do [Skalnicy](#l_skalnica) przybyły posiłki
+		- Ślady wozu prowadzą w dół klifów, już w [Verden](#l_verden), do jaskini, przy ujściu której sześciu wyspiarzy przygotowuje drakkar do wypłynięcia w pierwszych promieniach słońca
