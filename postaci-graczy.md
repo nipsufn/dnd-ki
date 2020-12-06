@@ -25,15 +25,14 @@
             - Pierścień ochrony +1 do rzutów obronnych
             - Elficka Kolcza Koszula (chain shirt, AC13 + DEX (nie więcej niż 2), można używać magii - lekka)
             - Krasnoludzki Sihill 2d4/3d4 (jedno/dwu ręczny) + 1
-            - Śnieżka Aurila 8/10 ładunków, każdy ładunek: użyj akcji aby odzyskać spell slot do 3go poziomu, wyższe - zostają sprowadzone do 3go
+            - Śnieżka Aurila 7/10 ładunków, każdy ładunek: użyj akcji aby odzyskać spell slot do 3go poziomu, wyższe - zostają sprowadzone do 3go
             - Elficki sztylet (+1 jeśli użyty z DEX, 18,19,20=CRIT)
             - Ciężka kusza
             - 35 bełtów
             - 1 Piersiówka z nalewką z mandragory, 1/2
-            - naszyjnik kul ognia, 4 nieodnawialne użycia
+            - naszyjnik kul ognia, 3 nieodnawialne użycia
         - Schowany:
             - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
-            - Podręcznik alchemiczny
             - Księga magiczna +1 arcana
             - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
             - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
@@ -44,12 +43,9 @@
             - 2 porcje kadzidła
             - 3 porcje pyłu kamieni szlachetnych
             - 4 porcji kredy
-            - 1 miarka Izzotoniku (zamiennik Alkahestu; d20: efekt x2 on 20, wild magic on 1)
-            - 10 złotych zębów
             - kamienie szlachetne warte 350gp
-            - 238.3.6 gp
+            - 188.3.6 gp
             - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-            - 4 butelki bimbru
             - Thieves Tools
             - 3 żetony do teleportacji
             - Z Craag An:
@@ -61,7 +57,7 @@
                 - Medalion i ceramiczne (?) monety z Craag An
                 - Medalion bibliotekarza z Craag An
                 - Medalion posłusznika zakonu Zielonych Rycerzy
-                - 3 kryształów na zaklęcia
+                - 1 kryształów na zaklęcia
         - W Mariborze:
             - Kotwice do innych płaszczyzn:
                 - Kula wyrzeźbiona w nieskończenie zapętlający się labirynt po którym ktoś zdaje się biegać - pustynny świat, martwy w wiecznym czerwonym świetle słońca, wielkie czerwie (?), porzucone metalowe miasto
@@ -75,7 +71,6 @@
             - Kamizelka z 10cioma naszywkami i śladami po innych
             - przewodnik Corneirosa po płaszczyznach, opisuje powyższe kotwice oraz "kawał kwarcu z ogniem w środku", pochodzący z płaszczyzny ifrytów i djinni ognia
             - Księga z rubinem w obwolucie
-            - "kościany dings stormfag can be activated by sufficient spell slot"
             - kawałek białego metalu przypominający rękojeść, zdobiony złotą spiralą, razi prądem 
                 - magiczny krótki miecz,
                 - 2nd lvl to activate, 1 minuta + ekstra minuta za kolejny spellslot

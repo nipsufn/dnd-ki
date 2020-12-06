@@ -12,6 +12,7 @@
 - <a id='p_carduin' pattern='Carduin* z Lan Exeter,Carduin*'>Carduin z Lan Exeter</a> - mag, człowiek, drugi w Nowej Kapitule (?)
 - <a id='p_dorregaray' pattern='Dorregaray*'>Dorregaray z Vole</a> - człowiek, mag, członek Nowej Kapituły
     - uczeń: Lars
+- <a id='p_elatan' pattern='Elatan'>Elatan</a> - elf, mag;
 - <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy Triss Merigold
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek Kapituły
     - potrafi się zamieniać w sowę, możliwe inne zwierzęta
