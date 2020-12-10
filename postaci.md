@@ -271,7 +271,7 @@
     - <a id='p_otyg' pattern='Otyg*'>Otyg</a> - ; kmiotek, wnuk Nikolaia
     - <a id='p_jenne' pattern='Jenne'>Jenne</a> - ; burdelmama z Cyklamenu, podwładna Brona
     - <a id='p_de_santis' pattern='[dD]e Santis*'>De Santis</a> - ; komisarz
-    - <a id='p_marid' pattern='Marid*,Marid* z Vole'>✝ Marid z Vole</a> - ; bard
+    - <a id='p_marrid' pattern='Marrid*,Marrid* z Vole'>✝ Marrid z Vole</a> - ; bard
     - <a id='p_vett' pattern='Konrad* [dD]e Vett*,[dD]e Vett*'>Konrad De Vett</a> - ; właściciel Cyklamenu
     - <a id='p_instygator' pattern='Instygator*,Ferrant*,[dD]e Lettenhove,Ferrant* [dD]e Lettenhove'>Freant De Lettenhove</a> - ; instygator królewski
 - Nilfgaard
