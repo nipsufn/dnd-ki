@@ -271,7 +271,7 @@
     - <a id='p_otyg' pattern='Otyg*'>Otyg</a> - ; kmiotek, wnuk [Nikolaia](#p_nikolai)
     - <a id='p_jenne' pattern='Jenne'>Jenne</a> - ; burdelmama z [Cyklamenu](#l_cyklamen), podwładna [Brona](#p_bron)
     - <a id='p_de_santis' pattern='[dD]e Santis*'>De Santis</a> - ; komisarz
-    - <a id='p_marid' pattern='Marid*,Marid* z Vole'>✝ Marid z Vole</a> - ; bard
+    - <a id='p_marrid' pattern='Marrid*,Marrid* z Vole'>✝ Marrid z Vole</a> - ; bard
     - <a id='p_vett' pattern='Konrad* [dD]e Vett*,[dD]e Vett*'>Konrad De Vett</a> - ; właściciel [Cyklamenu](#l_cyklamen)
     - <a id='p_instygator' pattern='Instygator*,Ferrant*,[dD]e Lettenhove,Ferrant* [dD]e Lettenhove'>Freant De Lettenhove</a> - ; instygator królewski
 - [Nilfgaard](#l_nilfgaard)

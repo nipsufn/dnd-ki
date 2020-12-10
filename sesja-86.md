@@ -26,7 +26,7 @@
         * magom nie wolno posiadać w mieście nieruchomości
         * za opłatę za czarowanie uiszczoną po fakcie, pomimo użycia w obronie własnej, zostaje naliczona dodatkowa opłata
         * [Instygator](#p_instygator) jest skłonny wypłacić 300gp (netto, więc 650 w sumie) za rozwiązanie kwestii tajemniczych zniknięć/morderstw
-        * zaczęło się rzeczywiście od barda [Marida z Vole](#p_marid), zdaniem [Ferranta](#p_instygator), otrutego
+        * zaczęło się rzeczywiście od barda Marida z [Vole](#l_vole), zdaniem [Ferranta](#p_instygator), otrutego
         * [Mirna](#p_mirna) jest przesłuchiwana, ponieważ możliwe, że domniemana trutka wyszła z jej warsztatu pod nieobecność druidki
         * reszta zwłok nosiła ślady niekonwencjonalnej śmierci - możliwe, że magicznej: ktoś spadł z bardzo wysoka, ktoś inny zginął od końskich kopyt, choć w mieście koni jak na lekarstwo
         * minstrel pojawiał się w mieście może raz do roku, niezbyt regularnie
