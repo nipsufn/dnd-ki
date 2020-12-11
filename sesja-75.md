@@ -3,7 +3,7 @@
     - Niziołki od rana biegają poddenerwowane. Wykrzykują coś między sobą w ich dialekcie. Do miasta zajechał na wierzchowcu, tj. kucyku, starszy, siwiejący niziołek z kuszą u boku, przyodziany w hełm.
     - Podobno na drodze do Gors Velen potwór zaatakował kolejny wóz. Z ludzi niewiele zostało, zapytane nizołki nie są w stanie też określić kto powoził wozem ani czy pojazd miał jakiś znak na drzwiach. Podejrzewamy, że ofiarą potwora mógł paść znajomy księgowy z Mariboru.
     - Idziemy to sprawdzić. Ruszamy jeszcze nim oddelegowany do zbadania sprawy oddział karzełków zdąży się zebrać by nam towarzyszyć.
-    - Za rozwidleniem do Biberveldtów znajdujemy ślady wskazujące na uszkodzenie koła na uskoku w trakcie. Dalsze ślady prowadzą w las, do polany.
+    - Za rozwidleniem do Biberveltów znajdujemy ślady wskazujące na uszkodzenie koła na uskoku w trakcie. Dalsze ślady prowadzą w las, do polany.
 2. Na miejscu zbrodni
     - Na polanie, oparty dachem o pień drzewa, leży porysowany wóz ze śladami pazurów o dość dużym, niepodobnym do niczego rozstawie.
     - Po polanie buszuje rodzinka dzików z młodymi, grzecznie "sprzątając" wszelkie poszlaki. Przeganiamy je, ale niestety zdążyły zatrzeć sporo śladów.
@@ -13,7 +13,7 @@
     - Na polanie unosi się specyficzny, chemiczny zapach.
     - Kajetan w krzakach na obrzeżu polany znajduje trawę wygniecioną od ciężkich skrzyń i trochę rozsypanej soli. Po samych skrzyniach ani śladu, jakby uleciały z miejsca, w którym stały.
     - W międzyczasie na polanie zjawia się niziołcza ekipa dochodzeniowa. Wnoszą niewiele nowego do sprawy, ciężko im też uwierzyć, że ktoś mógłby pozorować potwora i szkodzić własnej wiosce.
-    - Zostaje nam wskazany do pomocy jeden z młodszych Biberveldtów, Alfons. Młodziak nosi za duży hełm po wujku-weteranie, naszym znajomku Andym.
+    - Zostaje nam wskazany do pomocy jeden z młodszych Biberveltów, Alfons. Młodziak nosi za duży hełm po wujku-weteranie, naszym znajomku Andym.
     - Po odejściu niziołków badamy okolicę z pomocą sówki Kajetana. Natykamy się na duże, czerwone pióro przywiązane do drzewa. 
     - Pod drzewem, pod gęstym runem, oprócz wilczego dołu znajdujemy ukryte pod deskami wejście do tunelu, który zdaje się prowadzić do jakiejś jaskini.
 3. Polowanie na potwora, podejście pierwsze
