@@ -12,7 +12,7 @@
     - Wchodzimy przez bramę Młyńską w południowo-wschodniej części muru. Strażnicy - w przeciwieństwie do tych z [Brugge](#l_m_brugge) - nie naprzykrzają się. Polecają jednak [Kajetanowi](#g_kajetan) zatrzymać się w dzielnicy nieludzi żeby nie prowokować zamieszek.
     - Z bramy trafiamy do Dzielnicy Handlowej, która przypomina istny jarmark.
     - Kiedy stoimy na targowisku, jakiś ciemno odziany mężczyzna w podróżnym stroju intensywnie się nam przygląda znad kufla piwa.
-    - Widzimy też kobietę sprzedającą świerze "[Feinewed](#r_feinewed)", kwiaty rosnące zwykle tylko w [Dol Blatahanna](#l_dol_blatahanna), ziemi splamionej krwią starszych elfich rodów
+    - Widzimy też kobietę sprzedającą świeże "[Feinewed](#r_feinewed)", kwiaty rosnące zwykle tylko w [Dol Blatahanna](#l_dol_blatahanna), ziemi splamionej krwią starszych elfich rodów
     - Nie bardzo wiedząc gdzie lub jak znaleźć [Ignę](#p_igna), udajemy się na poszukiwania wspomnianej przez strażnika świątyni Wiecznego Ognia.
     - Zachodzimy do Dzielnicy Klasztornej, gdzie znajdujemy niewielki szpital Proroka Lebiody. Wokół szpitala rośnie niewielki sad z licznymi drzewkami, a także pomniejszymi krzewinami. Pomiędzy krzewami kręcą się kobiety zbierające jakieś owoce.
     - Niestety, w Dzielnicy Klasztornej nie ma żadnej świątyni Zakonu. Zostajemy pokierowani do starego klasztoru na wzgórzu.
@@ -45,7 +45,7 @@
 6. W dobrej wierze, do klasztoru
     - O zmroku wracamy na wzgórze. Rzeczywiście, warta zmienia się - schodzą głowy, przychodzą płonące miecze, czemu towarzyszy "wymiana uprzejmości". Gdyby mogli, zakonnicy skoczyliby sobie do gardeł.
     - Tym razem zostajemy zapytani o broszę, a nie przegonieni. Jeden ze strażników odprowadza nas na pokoje.
-    - Zostaliśmy wpuszczeni do pokoju dziennego, połączenia salonu, jadalni i pracowni, raczej bogato urządzonego. Na półkach stoją księgi, których raczej nie spodziewalibyśmy się w fortecy należącej do [Łowców](#r_lowca). Między almanachami i księgami o historii religi znajdują się pozycje takie jak "Bramy Tajemnicy" pióra Ransanta Alvaro czy "O koniunkcji Sfer".
+    - Zostaliśmy wpuszczeni do pokoju dziennego, połączenia salonu, jadalni i pracowni, raczej bogato urządzonego. Na półkach stoją księgi, których raczej nie spodziewalibyśmy się w fortecy należącej do [Łowców](#r_lowca). Między almanachami i księgami o historii religii znajdują się pozycje takie jak "Bramy Tajemnicy" pióra Ransanta Alvaro czy "O koniunkcji Sfer".
     - Po kilku chwilach z przyległego pomieszczenia wchodzi książę [Myrton](#p_lord_myrton) w towarzystwie [Igny](#p_igna). Zaprasza nas do stołu.
     - Rozmawiamy przy posiłku. [Myrton](#p_lord_myrton) dzieli się z nami informacjami, które rzucają nowe światło na nasze dotychczasowe perypetie.
 5. Wywiad z księciem
@@ -54,9 +54,9 @@
     - Co więcej, najbliżsi doradcy [władcy](#p_krol_radowid) zaczynają pracować nad przywróceniem magów do społeczeństwa, mając nadzieję kontrolować ich wpływy i przywileje na modłę [Nilfgaardzką](#l_nilfgaard) jeśli będzie to możliwe.
     - Istnieje kilka równoległych planów, jak tego dokonać. Wiemy, że arcyszpieg [Dijkstra](#p_dijkstra) pracuje nad swoim. [Myrton](#p_lord_myrton) ma własny pomysł, w realizacji którego mu pomożemy.
     - Mamy skontaktować się z Nową [Kapitułą](#r_kapitula) ([Myrton](#p_lord_myrton) nie wie, że nazywają się "Nową") z następującą ofertą: polowanie na czarownice i czarodziejów zakończy się, jeśli pomogą zidentyfikować i pojmać napastnika.
-    - Padają podejrzenia jakoby sprawcą miał być zmieniający osobowości niczym rękawiczki[mag z Verden](#p_lars), ale mając okazję z nim pracować wydaje nam się, że zamiana w zwierzę lekko wykracza po za jego kompetencje. Wręcz sama nasuwa się jednak myśl, iż ten mógł z kimś współpracować.
+    - Padają podejrzenia jakoby sprawcą miał być zmieniający osobowości niczym rękawiczki [mag z Verden](#p_lars), ale mając okazję z nim pracować wydaje nam się, że zamiana w zwierzę lekko wykracza po za jego kompetencje. Wręcz sama nasuwa się jednak myśl, iż ten mógł z kimś współpracować.
     - [Myrton](#p_lord_myrton) oznajmia, że [Łowcy](#r_lowca) Czarownic to przeżytek, ich dni są policzone.
-    - Zdaniem Mytrona celem [Kapituły](#r_kapitula) jest niekoniecznie utrzymanie kamraterii wśród magów, czy ograniczenie ich destruktywności, a kontrola nad młodymi ludźmi, którzy przejawiają predyspozycje ku kontrolowaniu Mocy, czym obecnie sam się zajmuje (wspomina o [Darii](#p_daria), dziewczynce, którą odstawiliśmy do [Świątyni Melitele](#l_smelitele)).
+    - Zdaniem Mytrona celem [Kapituły](#r_kapitula) jest niekoniecznie utrzymanie kamraderii wśród magów, czy ograniczenie ich destruktywności, a kontrola nad młodymi ludźmi, którzy przejawiają predyspozycje ku kontrolowaniu Mocy, czym obecnie sam się zajmuje (wspomina o [Darii](#p_daria), dziewczynce, którą odstawiliśmy do [Świątyni Melitele](#l_smelitele)).
     - Dowiadujemy się, że Zakon [Łowców](#r_lowca) "skądś" się dowiedział o [Kajetanie](#g_kajetan) i jego towarzyszach z naukowej wyprawy. Po fiasku jakim okazała się próba pojmania [maga](#g_kajetan), udało się im złapać [Isilme](#p_isilme), który został "zaproszony" do laboratoriów [Menge](#p_menge).
     - Z eksperymentów na niefortunnym [zwiadowcy](#p_isilme), Łowcom udało się wzbogacić swoją broń o [dwimeryt](#r_dwimeryt).
     - [Władyka z Ellander](#p_lord_myrton) nie wspomina jednak, dlaczego [Ilana](#g_ilana) skończyła w tym samym wozie, zbywając pytanie o donosach o kobiecie zmieniającej się w zwierzę.
