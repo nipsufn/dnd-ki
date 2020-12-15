@@ -27,7 +27,7 @@
     - Zastajemy [Duska](#p_dusek) w trakcie rozmowy z jakimś dostatnio odzianym jegomościem. Zaznaczany swoją obecność i taktownie czekamy na swoją kolej na rozmowę.
     - [Dusek](#p_dusek) twierdzi, że na bagnach powinny znajdować się ruiny wieży elfiego maga, [Alzura](#p_alzur). Niestety nie ma żadnych map, zaginęły podczas wojny.
     - Mamy odszukać ruiny i zapewnić [Duskowi](#p_dusek) bezpieczną przeprawę do nich w zamian za wybór w zaklętych przedmiotach z jego inwentarza.
-    - Handlarz napomyka, że na bagnach grasują [kikimory](#b_kikimora). Możemy zapytać o radę [Łowczego](#p_feliks) Królewskiego, który tam stacjonuje. Podobno za każdą ubitą bestię jest nagroda pieniężna.
+    - Handlarz napomyka, że na bagnach grasują [kikimory](#b_kikimora). Możemy zapytać o radę Łowczego Królewskiego, który tam stacjonuje. Podobno za każdą ubitą bestię jest nagroda pieniężna.
     - Ostałe zapiski i zebrane notatki skupiają się na południowej części bagna jako lokacji wspomnianych wież. Tam też mielibyśmy rozpocząć nasze poszukiwania.
 5. Zaproszenie do burdelu
     - Chcąc załatwić mniejsze sprawunki przed wyruszeniem na bagna, wracamy z okularami do Anzelma. Zastajemy tam zabawę w najlepsze, tj. tradycyjne pijackie zapasy i karczmarza siłującego się na rękę z [Grimmą](#p_grimma).
@@ -38,8 +38,8 @@
     - Rybacy najwyraźniej zwęszyli dobry interes, bo łódek jest od groma i kursują non-stop na trasie miasto-bagno-miasto za - jak nam się słusznie zdaje - podwojoną regularną cenę.
     - W oddali widzimy łódkę wiozącą pasażera z olbrzymim plecakiem. Czyżby [Grimma](#p_grimma) zbierał swoje grzyby na bagnach?
     - Podróż łódką nie trwa długo. Na lądzie mija nas dwójka "fachowców" od potworów, elfka i jakiś osiłek, za którymi - oprócz alkoholu - ciągnie się duszący smród kadzidła.
-    - [Łowczy](#p_feliks) Królewski, [Feliks](#p_feliks) z [Dorian](#l_dorian), oferuje 25GP za ubitą oszalałą [kikimorę](#b_kikimora), ale też 750GP za permanentne rozwiązanie problemu.
-    - Witając się [Kajetan](#g_kajetan) przedstawia [druidkę](#g_ilana) jako _"[Ilanę](#g_ilana) Brokilońską"_, co spotyka się z lekceważącym parsknięciem niedowierzania ze strony [Łowczego](#p_feliks).
+    - Łowczy Królewski, [Feliks](#p_feliks) z [Dorian](#l_dorian), oferuje 25GP za ubitą oszalałą [kikimorę](#b_kikimora), ale też 750GP za permanentne rozwiązanie problemu.
+    - Witając się [Kajetan](#g_kajetan) przedstawia [druidkę](#g_ilana) jako _"[Ilanę](#g_ilana) Brokilońską"_, co spotyka się z lekceważącym parsknięciem niedowierzania ze strony Łowczego.
     - Dowiadujemy się, że [Kikimory](#b_kikimora) ciągną od południa, jakby przed czymś uciekały. [Wioska](#l_wioska) cegielników została opuszczona, bliższa, drwali, jeszcze się ponoć trzyma.
     - wiedźmin który miał się nimi zająć, przerwał negocjacje w sprawie ceny nagle znikając niecały miesiąc temu (pewnikiem był to [Gaetan](#p_gaetan))
     - Pomoc ze szkicem mapy bagien też może zostać wynagrodzona - wszelkie stare dokumenty zaginęły w wojnie, a teren przydałoby się jednak rozrysować.

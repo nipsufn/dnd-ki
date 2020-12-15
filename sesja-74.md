@@ -9,7 +9,7 @@
     - Jeden ze strażników rozpoznaje [Skovika](#p_skovik), na którego postawił w walkach w [Mantikorze](#l_pod_mantikora). Ponoć wygrał dzięki niemu trochę sztuk złota, więc odpala [wyspiarzowi](#p_skovik) parę groszy na piwo.
     - Idziemy do ratusza wypytać o potwora. Okazuje się, że nagroda podskoczyła do 750GP. Udaje nam się rzutem na taśmę spotkać z burmistrzem.
 2. U burmistrza
-    - Burmistrz, starszy, acz wciąż dobrze trzymający się jegomość, zdaje się być spokrewniony z Wielkim [Łowczym](#p_feliks) z [Wyzimy](#l_wyzima). W jego gabinecie wisi portret przedstawiający jego za młodszych lat z wyrostkiem podobnym do [Feliksa](#p_feliks) usadzonym na kolanach.
+    - Burmistrz, starszy, acz wciąż dobrze trzymający się jegomość, zdaje się być spokrewniony z Wielkim [Łowczym z Wyzimy](#p_feliks). W jego gabinecie wisi portret przedstawiający jego za młodszych lat z wyrostkiem podobnym do [Feliksa](#p_feliks) usadzonym na kolanach.
     - Dowiadujemy się, że na bestię szło już kilka grup śmiałków, w tym [Łowcy](#r_lowca) Czarownic i jakiś kapłan. Nikt jednak żyw nie powrócił.
     - Więcej informacji mamy szukać w [Rdestowej Łące](#l_rdestowa_laka), u tamtejszego sołtysa.
     - Burmistrz poznaje, że [Skovik](#p_skovik) podczas ostatniej wizyty posprzątał agentów [Dijkstry](#p_dijkstra) i karze swoim podwładnym mieć nas na oku.

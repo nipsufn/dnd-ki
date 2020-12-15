@@ -13,7 +13,7 @@
         - interesujące lokacje w okolicy:
             - [Craag An](#l_craag_an) - nietknięte ruiny dużego elfickiego miasta w środku [Brokilonu](#l_brokilon)
             - [Sowie Wzgórza](#l_sowie_wzgorza) - kopalnie węgla
-            - [Świątynia Kreve](#l_swiatynia_kreve) - opuszczona świątynia [Kreve](#r_kreve), bogini sprawiedliwości, w [Sowich Wzgórzach](#l_sowie_wzgorza) na południe od [Brugge](#l_m_brugge)
+            - Świątynia [Kreve](#r_kreve) - opuszczona świątynia [Kreve](#r_kreve), bogini sprawiedliwości, w [Sowich Wzgórzach](#l_sowie_wzgorza) na południe od [Brugge](#l_m_brugge)
         - żadne z miejsc opisanych w księgach nie wydaje się być bezpiecznym miejscem do zwiedzania/eksploracji, decydujemy się wyruszać w dalszą drogę, do [Dillingen](#l_dillingen)
     - [Kajetan](#g_kajetan) podsuwa [Ilanie](#g_ilana) znaleziony dziennik polowy [Myszowora](#p_myszowor) z jego wyprawy do [Brokilonu](#l_brokilon). Druid pisze, że pomimo dobrych relacji z [Eithne](#p_eithne), królową [Brokilonu](#l_brokilon), nigdy nie zaufano mu na tyle, by wpuścić go do [Duen Canell](#l_duen_canell) - serca dzikiego lasu. Wspomina też o [protektorze](Bizoktor) [Brokilonu](#l_brokilon) - mistycznej istocie, która ma przyjść z pomocą puszczy w największej potrzebie. W części lasu, gdzie populacje wilków i kruków są największe, [Myszowór](#p_myszowor) natknął się na totemy wyrzeźbione w kamieniu, ozdobione kośćmi.
     - [Kajetan](#g_kajetan) próbuje jeszcze dostać się do [maga](#p_florian_z_vicovaro), żeby pokazać mu nasz dziwny kamień, ale ochrona informuje nas, że [mag](#p_florian_z_vicovaro) jest w mieście - pomaga leczyć rannych wojaków.

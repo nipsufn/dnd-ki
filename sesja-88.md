@@ -1,0 +1,51 @@
+### Sesja 88
+1. Zabieramy co nasze
+    - Przyglądamy się jeszcze chwilę za pośrednictwem sowy
+    - wyspiarze, wnioskując po jednej z tarcz zdobiących drakkar, pochodzą z rodu Türsea - łeb niedźwiedzia z profilu w polu niebieskim
+    - klif jest podmyty bardzo głęboko, właściwie jest to jaskinia z której można wypłynąć wprost na morze
+    - do jaskini wjeżdża wóz - Łowczy zajeździł konia na kraj śmierci
+    - widząc jak postać dobija biedne zwierzę, rozpoczynamy akcję
+    - [Kajetan](#g_kajetan) teleportuje duet do jaskini
+    - bohaterzy przypadają do wozu po czym [mag](#g_kajetan) teleportuje siebie, [druidkę](#g_ilana) i wóz z powrotem do [Kerrack](#l_kerack), pod pomnik [Koral](#p_koral)
+    - w wozie, ku rozpaczy [Ilany](#g_ilana), nie ma [Skovika](#p_skovik), jedynie legowisko, nieco broni i skrzynia z rozbitymi flaszkami po jakichś konkokcjach
+    - skołowani strażnicy dają nam chwilę spokoju gdy [elf](#g_kajetan) okazuje swój glejt, jednak posyłają po [Instygatora](#p_instygator)
+    - [Kajetan](#g_kajetan) znajduje wyglądającego na martwego {osiłka} w skrzyni przypominającej trumnę, leżącej na wozie
+    - [elf](#g_kajetan) wysyła wiadomości do:
+        - [Brona](#p_bron): musimy się jak najszybciej pozbyć wozu z placu, [dziewczyna](#g_ilana) zapłaci ile trzeba
+        - [Mirny](#p_mirna): potrzebujemy medyka do martwawego [wyspiarza](#p_skovik)
+    - ludzie [Brona](#p_bron) szybko się zjawiają i zajmują wozem
+    - niesiemy [Skovika](#p_skovik) do magazynu wskazanego przez [Mirnę](#p_mirna)
+    - zdaniem [dziewczyny](#p_mirna) [osiłek](#p_skovik) dokonał żywota
+    - przybywa [Bron](#p_bron):
+        - każe wrócić przyglądającym szemranym typom do pracy. Zauważamy, że niektórzy z nich noszą znak jaszczurki
+        - [Ilana](#g_ilana) uiszcza opłatę za wyciszenie sprawy, łącznie z aportacją w środku miasta - 500GP plus cokolwiek łotrzyk odzyska od Franca
+        - podobno z morza, niedaleko od wylotu z kanałów wygrzebał się ktoś podający za oszukanego wspólnika Łowczego, twierdzi że wóz jest jego - stąd solidna opłata za przysługę o którą prosimy
+        - do zwierząt zostawionych u [Mirny](#p_mirna) potrzebny jest Kapłan, to może pomóc z rozwiązaniem problemu mordercy - my nie możemy w obecnej sytuacji drążyć tematu
+    - [Kajetan](#g_kajetan) maluje krąg teleportacyjny i przenosi drużynę do [Świątyni Melitele](#l_smelitele) pod [Ellander](#l_ellander)
+2. Prosząc i odbierając obiecane przysługi
+    - pojawiamy się w kręgu sprytnie zamaskowanym w kapliczce Melitele, w sadzie śwątynnym
+    - jedna z adeptek z przerażenia pada nieprzytomna, drugę - w której rozpoznajemy [Darię](#p_daria) - wysyłamy po [Matkę Iolę](#p_matka_iola)
+    - Kapłanka jest zaszokowana i zła, pełna niechęci do magów, jednak miała okazję spotkać [Kajetana](#g_kajetan), nie ma też serca - albo ma zasady - by nie odmówić pomocy
+    - [Skovik](#p_skovik) nie jest martwy, ale jest o krok od śmierci - jego ciało zostało zatrzymane, pracując wolniej nawet niż zwierzęcia pogrążonego w zimowym śnie
+    - kolce, którymi załatwił nas Łowczy pochodzą z najeżki, jednak to, czym potraktował [osiłka](#p_skovik), to coś innego, wzmacnianego alchemicznie lub magicznie - nie może mu pomóc, jedynie spowolnić działanie trucizny
+    - [Daria](#p_daria) definitywnie posiada zdolności magiczne, które teraz jednak kontroluje - by robić głupie żarty. Zdaje się nie być pod wrażeniem komentarzy [Kajetana](#g_kajetan), który próbuje wytłumaczyć że wpędzi się tak w kłopoty
+    - [Ilana](#g_ilana) wysyła wiadomość do [Keiry](#p_keira_metz), jednak zamiast odpowiedzi, zostaje wciągnięta w rozmowę przez megaskop z [Lambertem](#p_lambert):
+        - [Keira](#p_keira_metz) powstrzymała zamach w [Aedirn](#l_aedirn) (na [Stennisa](#p_stennis)?), kosztowało ją to jednak sporo, i, póki co, leży nieprzytomna pod opieką wiedźmina, który posłał po [Merigold](#p_triss_merigold)
+        - co do mordercy z [Kerrack](#l_kerack) - klątwy magowie mogą zwykle odczynić tylko jeśli są bardzo świeże, po jakimś czasie zostają tylko bardzo mozolne metody wymagające nakładu czasu - i kapłani
+        - kolega [Myszowora](#p_myszowor), zwany Gremnistą czy Gremlistą specjalizuje się w truciznach (czyżby typ przedstawiający się niektórym jako [Artis](#p_druid_artis)?)
+    - do [Kajetana](#g_kajetan) odzywa się [Stregobor](#p_stregobor):
+        - pojawia się w równie nowatorski sposób co [Zangenis](#p_zangenis) - jednak, miast ognia, używa ziemi by ukształtować swoją postać
+        - zaklęcie stworzył z pomocą wiedzy, jaką podzielił się [elf](#g_kajetan) o [Aen Drisichean](#r_aen_drisichean)
+        - chce się owym zaklęciem podzielić, zapytany obiecuje też kilka zwojów do teleportacji
+        - proponuje pomoc lub współudział w ekspedycji do Crag An
+        - jego zdaniem, tak jak ludzie dostosowują świat wokół siebie do swoich potrzeb, tak moc w danej płaszczyźnie dostosowuje elfy do swoich - co miało by tłumaczyć ogromne różnice między szczepami elfów
+        - obiecuje skontaktować [Kajetana](#g_kajetan) z [Dorregaray](#p_dorregaray)'em, czarodziejem z którym kilka razy już się minęliśmy (uratował wiwernę [Lentinusa](#p_lentinus) w [Gors Velen](#l_gors_velen) i kupował tam jakiś obraz na aukcji pod biblioteką) - podobno specjalizuje się w truciznach
+        - [Ortolan](#p_ortolan) i [Filavandrel](#p_filavandrel) byli sponsorami projektu, którego efektem miał być zabójca magów, niewrażliwy na Moc - wykonawcą był tajemniczy uczeń [Ortolana](#p_ortolan)
+        - to tłumaczy, dlaczego [Kapituła](#r_kapitula) ukrywa temat jak tylko może
+        - krążą nawet plotki, że bitwa pod [Sodden](#l_sodden) była na prawdę spowodowana tym projektem - a raczej faktem że dowiedzieli się o tym magowie południa
+        - [Stucco Zangenis](#p_zangenis) brał udział w tym projekcie, [Stregobor](#p_stregobor) więc nie powie więcej, a jego stary kolega powie ile sam uzna
+    - Kajtan wysyła prośbę o pomoc do [Viggo](#p_viggo_regner) - zostaje z [Ilaną](#g_ilana) zaproszony na kolację
+    - [druidka](#g_ilana) zamienia się w wierzchowca i w ten sposób docieramy do miasta
+    - na bramie spotykamy [Toma](#p_tom), teraz dziesiętnika, który wypisuje nam papier - gdybyśmy mieli problemy na bramie do wewnętrznej części miasta, gdzie mieszka teraz [Viggo](#p_viggo_regner)
+    - [Różyczka](#l_rozyczka) zmieniła nazwę na "Płomienna [Różyczka](#l_rozyczka)" po tym, jak Książę [Myrton](#p_lord_myrton), czy też jego ludzie, uratowali populację nieludzi w mieście przed spiskiem kapłanów
+    - nasza ulubiona karczma ma się dobrze

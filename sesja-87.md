@@ -21,7 +21,7 @@
 	- Wyruszamy w stronę magazynu w porcie, w którym chowają się bezdomne młodziki.
 	- Wysyłamy Wąskiego do reszty "ekipy" - żądamy naszego złota i poinformowania Franca, że ma się stawić na rozmowę z nami, jeśli nie chce aby należący do niego magazyn spłonął.
 	- W międzyczasie Suchy opowiada, że na zlecenie Franca śledzili nas dla łowczego od kiedy pojawiliśmy się w mieście. Typ nie jest tutejszy, przybył do miasta chwilę po przegnaniu piratów i wypytywał o [Skovika](#p_skovik).
-	- [Łowczy](#p_feliks) ma czarny, opancerzony wóz zaprzężony w jednego konia.  Gdy pozbył się nas w zaułku, wpakował [wyspiarza](#p_skovik) na wóz i odjechał.
+	- Łowczy ma czarny, opancerzony wóz zaprzężony w jednego konia.  Gdy pozbył się nas w zaułku, wpakował [wyspiarza](#p_skovik) na wóz i odjechał.
 	- [Ilana](#g_ilana) przygląda się strzałkom, których użyto do obezwładnienia nas. Wyglądają jak kolec rośliny lub jakiegoś zwierzęcia, definitywnie są organiczne.
 	- [Druidka](#g_ilana) uprasza [Kajetana](#g_kajetan) o kryształ i wysyła wiadomość do [Brona](#p_bron), prosząc aby znaleźć i zatrzymać napastnika nim uda mu się gdzieś zaszyć lub co gorsza wyjechać z miasta. [Bron](#p_bron) obiecuje pomóc i zaprasza nas do swojego sklepu na rozmowę. Następnie [dziewczyna](#g_ilana) bierze się znów za kozę.
 	- Koza odpuszcza stupor po groźbach ze strony [Kajetana](#g_kajetan) i mówi, co zaszło:
