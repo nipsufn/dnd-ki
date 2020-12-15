@@ -340,7 +340,7 @@
             - Karczmarz, prowadzi "Pod Lisem" w dzielnicy nieludzi
         - <a id='p_vivaldi' pattern='Vime Vivaldi*,Vivaldi*'>Vime Vivaldi</a>
             - właściciel banku Vivaldich (w Wyzimie?)
-        - <a id='p_feliks' pattern='Łowcz*,Łowcz* Feliks*,Feliks*'>Łowczy Królewski Feliks z Dorian</a>
+        - <a id='p_feliks' pattern='Łowcz* z Wyzimy,Łowcz* Feliks*,Feliks*'>Łowczy Królewski Feliks z Dorian</a>
         - <a id='p_iloria' pattern='Ilor*'>Iloria</a>
             - Lichwiarka z dzielnicy nieludzi
     - Bagna

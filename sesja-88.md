@@ -1,0 +1,51 @@
+### Sesja 88
+1. Zabieramy co nasze
+    - Przyglądamy się jeszcze chwilę za pośrednictwem sowy
+    - wyspiarze, wnioskując po jednej z tarcz zdobiących drakkar, pochodzą z rodu Türsea - łeb niedźwiedzia z profilu w polu niebieskim
+    - klif jest podmyty bardzo głęboko, właściwie jest to jaskinia z której można wypłynąć wprost na morze
+    - do jaskini wjeżdża wóz - Łowczy zajeździł konia na kraj śmierci
+    - widząc jak postać dobija biedne zwierzę, rozpoczynamy akcję
+    - Kajetan teleportuje duet do jaskini
+    - bohaterzy przypadają do wozu po czym {mag}Kajetan teleportuje siebie, {druidkę}Ilana i wóz z powrotem do Kerrack, pod pomnik Koral
+    - w wozie, ku rozpaczy Ilany, nie ma Skovika, jedynie legowisko, nieco broni i skrzynia z rozbitymi flaszkami po jakichś konkokcjach
+    - skołowani strażnicy dają nam chwilę spokoju gdy {elf}Kajetan okazuje swój glejt, jednak posyłają po Instygatora
+    - Kajetan znajduje wyglądającego na martwego {osiłka} w skrzyni przypominającej trumnę, leżącej na wozie
+    - {elf}Kajetan wysyła wiadomości do:
+        - Brona: musimy się jak najszybciej pozbyć wozu z placu, {dziewczyna}Ilana zapłaci ile trzeba
+        - Mirny: potrzebujemy medyka do martwawego {wyspiarza}Skovik
+    - ludzie Brona szybko się zjawiają i zajmują wozem
+    - niesiemy Skovika do magazynu wskazanego przez Mirnę
+    - zdaniem {dziewczyny}Mirna {osiłek}Skovik dokonał żywota
+    - przybywa Bron:
+        - każe wrócić przyglądającym szemranym typom do pracy. Zauważamy, że niektórzy z nich noszą znak jaszczurki
+        - Ilana uiszcza opłatę za wyciszenie sprawy, łącznie z aportacją w środku miasta - 500GP plus cokolwiek łotrzyk odzyska od Franca
+        - podobno z morza, niedaleko od wylotu z kanałów wygrzebał się ktoś podający za oszukanego wspólnika Łowczego, twierdzi że wóz jest jego - stąd solidna opłata za przysługę o którą prosimy
+        - do zwierząt zostawionych u Mirny potrzebny jest Kapłan, to może pomóc z rozwiązaniem problemu mordercy - my nie możemy w obecnej sytuacji drążyć tematu
+    - Kajetan maluje krąg teleportacyjny i przenosi drużynę do Świątyni Melitele pod Ellander
+2. Prosząc i odbierając obiecane przysługi
+    - pojawiamy się w kręgu sprytnie zamaskowanym w kapliczce Melitele, w sadzie śwątynnym
+    - jedna z adeptek z przerażenia pada nieprzytomna, drugę - w której rozpoznajemy Darię - wysyłamy po Matkę Iolę
+    - Kapłanka jest zaszokowana i zła, pełna niechęci do magów, jednak miała okazję spotkać Kajetana, nie ma też serca - albo ma zasady - by nie odmówić pomocy
+    - Skovik nie jest martwy, ale jest o krok od śmierci - jego ciało zostało zatrzymane, pracując wolniej nawet niż zwierzęcia pogrążonego w zimowym śnie
+    - kolce, którymi załatwił nas Łowczy pochodzą z najeżki, jednak to, czym potraktował {osiłka}Skovik, to coś innego, wzmacnianego alchemicznie lub magicznie - nie może mu pomóc, jedynie spowolnić działanie trucizny
+    - Daria definitywnie posiada zdolności magiczne, które teraz jednak kontroluje - by robić głupie żarty. Zdaje się nie być pod wrażeniem komentarzy Kajetana, który próbuje wytłumaczyć że wpędzi się tak w kłopoty
+    - Ilana wysyła wiadomość do Keiry, jednak zamiast odpowiedzi, zostaje wciągnięta w rozmowę przez megaskop z Lambertem:
+        - Keira powstrzymała zamach w Aedirn (na Stennisa?), kosztowało ją to jednak sporo, i, póki co, leży nieprzytomna pod opieką wiedźmina, który posłał po Merigold
+        - co do mordercy z Kerrack - klątwy magowie mogą zwykle odczynić tylko jeśli są bardzo świeże, po jakimś czasie zostają tylko bardzo mozolne metody wymagające nakładu czasu - i kapłani
+        - kolega Myszowora, zwany Gremnistą czy Gremlistą specjalizuje się w truciznach (czyżby typ przedstawiający się niektórym jako Artis?)
+    - do Kajetana odzywa się Stregobor:
+        - pojawia się w równie nowatorski sposób co Zangenis - jednak, miast ognia, używa ziemi by ukształtować swoją postać
+        - zaklęcie stworzył z pomocą wiedzy, jaką podzielił się {elf}Kajetan o Aen Drisichean
+        - chce się owym zaklęciem podzielić, zapytany obiecuje też kilka zwojów do teleportacji
+        - proponuje pomoc lub współudział w ekspedycji do Crag An
+        - jego zdaniem, tak jak ludzie dostosowują świat wokół siebie do swoich potrzeb, tak moc w danej płaszczyźnie dostosowuje elfy do swoich - co miało by tłumaczyć ogromne różnice między szczepami elfów
+        - obiecuje skontaktować Kajetana z Dorregaray'em, czarodziejem z którym kilka razy już się minęliśmy (uratował wiwernę Lentinusa w Gors Velen i kupował tam jakiś obraz na aukcji pod biblioteką) - podobno specjalizuje się w truciznach
+        - Ortolan i Filavandrel byli sponsorami projektu, którego efektem miał być zabójca magów, niewrażliwy na Moc - wykonawcą był tajemniczy uczeń Ortolana
+        - to tłumaczy, dlaczego Kapituła ukrywa temat jak tylko może
+        - krążą nawet plotki, że bitwa pod Sodden była na prawdę spowodowana tym projektem - a raczej faktem że dowiedzieli się o tym magowie południa
+        - Stucco Zangenis brał udział w tym projekcie, Stregobor więc nie powie więcej, a jego stary kolega powie ile sam uzna
+    - Kajtan wysyła prośbę o pomoc do Viggo - zostaje z Ilaną zaproszony na kolację
+    - {druidka}Ilana zamienia się w wierzchowca i w ten sposób docieramy do miasta
+    - na bramie spotykamy Toma, teraz dziesiętnika, który wypisuje nam papier - gdybyśmy mieli problemy na bramie do wewnętrznej części miasta, gdzie mieszka teraz Viggo
+    - Różyczka zmieniła nazwę na "Płomienna Różyczka" po tym, jak Książę Myrton, czy też jego ludzie, uratowali populację nieludzi w mieście przed spiskiem kapłanów
+    - nasza ulubiona karczma ma się dobrze
