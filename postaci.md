@@ -192,14 +192,17 @@
 - [Dol Blatahanna](#l_dol_blatahanna)
     - <a id="p_francesca" pattern='Francesc*,Francesc* Findabair'>Francesca Findabair</a> - elf, mag, włada [Dol Blatahanna](#l_dol_blatahanna)
 - [Ellander](#l_ellander)
+    - <a id='p_alicja_harevard' pattern='Alicja'>Alicja Myrton-Harevard</a> - ; n/a;
+        Podobno zaginiona dziedziczka swojego rodu, Slyz [Myrton](#p_lord_myrton) odnalazł i poślubił stając się diukiem [Ellander](#l_ellander)
+        [Ilana](#g_ilana) miała okazję zauważyć ją w łaźniach publicznych zanim opuściliśmy miasto
     - <a id='p_rodzina_harevard' pattern='Harevard'>R. Harevard</a> - ; n/a;
         rodzina władająca [Ellander](#l_ellander) przed Niilfgaardczykami
     - <a id='p_viggo_regner' pattern='Vigg*,Vigg* Regner*'>Viggo Regner</a> - ; alchemik/mag;
         Prowadzi sklep alchemiczny/zielarski "[Fiolka Zdrowia](#l_fiolka_zdrowia)", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
-        ? [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
+        Sybil [Regner](#p_viggo_regner): żona; [Lukrecja](#p_lukrecja_schattenwort) Janus Schattenwort: podwładny, uczeń
     - <a id='p_lukrecja_schattenwort' pattern='Lukrecj*,Lukrecj* Schattenwort,Janus*'>[Lukrecja](Lukrecja) aka Janus Schattenwort</a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem [Janus](#p_lukrecja_schattenwort);
         [Viggo Regner](#p_viggo_regner): przełożony, nauczyciel;
-    - <a id='p_pani_regner'>? Regner</a> - ; mag;
+    - <a id='p_pani_regner'>Sybil Regner</a> - ; mag;
         w śpiączce wg [Lukrecja](#p_lukrecja_schattenwort) (?);
         śpiączka spowodowana klątwą uruchomioną w czasie prac archeologicznych w [Ysgyth](#l_ysgyth)
         [Viggo Regner](#p_viggo_regner): mąż
