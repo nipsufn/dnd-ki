@@ -31,6 +31,7 @@
             - 35 bełtów
             - 1 Piersiówka z nalewką z mandragory, 1/2
             - naszyjnik kul ognia, 3 nieodnawialne użycia
+            - porcelanowa maska - Disguise Self at will
         - Schowany:
             - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
             - Księga magiczna +1 arcana
@@ -38,16 +39,16 @@
             - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
             - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
             - 2 krystaliczny kawałek dwimerytu, odbierający Moc
-            - Nalewka z mandragory, 2²/₃ butelki
+            - Nalewka z mandragory, 2¹/₃ butelki
             - 12 porcji inkaustu
             - 2 porcje kadzidła
-            - 3 porcje pyłu kamieni szlachetnych
-            - 4 porcji kredy
+            - 2 porcje pyłu kamieni szlachetnych
+            - 3 porcji kredy
             - kamienie szlachetne warte 350gp
-            - 188.3.6 gp
+            - 133.3.6 gp
             - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
             - Thieves Tools
-            - 3 żetony do teleportacji
+            - 1 żetony do teleportacji
             - Z Craag An:
                 - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
                 - Notatki belfra z Biblioteki Craag An
@@ -64,8 +65,6 @@
                 - Mosiężna lampa olejowa, wiecznie gorąca w dotyku, z odręczną mapą jakiegoś miasta na boku - lodowy świat dysków, w którym można zobaczyć własne plecy, zamieszkały przez potwory
                 - Brudny bursztyn - inkluz, z skrzydlatym pająkiem w środku - dżungla zamieszkała przez gigantyczne owady
             - Słój z grubego szkła z zębem pływającym w środku
-            - Czarna perła - komponent, kosztowne świecidełko
-            - Wieczne pióro w porcelanowej szkatule, ciepłe w dotyku, koloru świeżej krwi, jaży się światłem podczas pisania
             - Kawałki półek z białego drewna
             - Zdrewniała pestka
             - Kamizelka z 10cioma naszywkami i śladami po innych

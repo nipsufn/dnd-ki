@@ -192,14 +192,17 @@
 - Dol Blatahanna
     - <a id="p_francesca" pattern='Francesc*,Francesc* Findabair'>Francesca Findabair</a> - elf, mag, włada Dol Blatahanna
 - Ellander
+    - <a id='p_alicja_harevard' pattern='Alicja'>Alicja Myrton-Harevard</a> - ; n/a;
+        Podobno zaginiona dziedziczka swojego rodu, Slyz Myrton odnalazł i poślubił stając się diukiem Ellander
+        Ilana miała okazję zauważyć ją w łaźniach publicznych zanim opuściliśmy miasto
     - <a id='p_rodzina_harevard' pattern='Harevard'>R. Harevard</a> - ; n/a;
         rodzina władająca Ellander przed Niilfgaardczykami
     - <a id='p_viggo_regner' pattern='Vigg*,Vigg* Regner*'>Viggo Regner</a> - ; alchemik/mag;
         Prowadzi sklep alchemiczny/zielarski "Fiolka Zdrowia", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
-        ? [Regner](Viggo): żona; Lukrecja Janus Schattenwort: podwładny, uczeń
+        Sybil [Regner](Viggo): żona; Lukrecja Janus Schattenwort: podwładny, uczeń
     - <a id='p_lukrecja_schattenwort' pattern='Lukrecj*,Lukrecj* Schattenwort,Janus*'>[Lukrecja](Lukrecja) aka Janus Schattenwort</a><a id='p_janus'></a> - gnom; alchemik ukrywa się pod iluzją i imieniem Janus;
         Viggo Regner: przełożony, nauczyciel;
-    - <a id='p_pani_regner'>? Regner</a> - ; mag;
+    - <a id='p_pani_regner'>Sybil Regner</a> - ; mag;
         w śpiączce wg Lukrecja (?);
         śpiączka spowodowana klątwą uruchomioną w czasie prac archeologicznych w Ysgyth
         Viggo Regner: mąż
