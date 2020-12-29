@@ -39,16 +39,19 @@
             - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
             - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
             - 2 krystaliczny kawałek dwimerytu, odbierający Moc
-            - Nalewka z mandragory, 2¹/₃ butelki
+            - Nalewka z mandragory, 2 butelki
             - 12 porcji inkaustu
             - 2 porcje kadzidła
             - 2 porcje pyłu kamieni szlachetnych
             - 3 porcji kredy
             - kamienie szlachetne warte 350gp
-            - 133.3.6 gp
+            - 183.3.6 gp
             - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
             - Thieves Tools
             - 1 żetony do teleportacji
+            - 2 zwoje do teleportacji
+            - 1 zwój komunikacyjny
+            - fragment zaklęcia 5go poziomu
             - Z Craag An:
                 - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
                 - Notatki belfra z Biblioteki Craag An

@@ -20,11 +20,12 @@
     - Udajeemy się na spoczynek. W pokoju Kajetan na prośbę Ilany wysyła dwie wiadomości:
         - Bron: na mocy jakiegoś przepisu, łowca Cerys skumał się z instygatorem i ten musi mu pomagać w rozwiązaniu sprawy zbiega; morderca zaś zniknął, podobnie jak bardowa mandolina
         - onejromantka: wiadomość nie znajduje właściwego odbiorcy; można się więc spodziewać, że postać, z którą Kajetan rozmawiał we śnie w rzeczywistości wygląda z goła inaczej
+        - Kaspar: zdaje mu się że wiadomości {elfa}Kajetan to koszmary; Łowcy przyprawiają go o ból głowy, pokazali mu "to coś" ({mag}Kajetan w paranoicznym stylu natychmiast myśli o Isilme)
 3. Sprawunki i zlecenia
     - Rankiem odwiedzamy Kasimira celem zasięgnięcia informacji na temat nawiedzonego domu i gryfa. Za dom zapłaty nie ma, ale co znajdziemy w domu to nasze. Zaś co do gryfa, sprawę przejęła straż miejska, to i więcej dowiemy się u kapitana Kraave na bramie miasta.
     - Obiecujemy zrobić dziś zwiad i zająć się jutro sprawą. {Komendant}Kasimir może oddelegować z nami kapłana, który pomoże nam oczyścić dom. Poinformuje też strażników pilnujących posiadłości aby nam się nie naprzykrzali i wpuścili nas na rekonesans. 
     - Kajetan korzystając ze sposobności przygląda się przez sowę gniazdu. Głaz, na którym jest zbudowane faktycznie przypomina klepsydrę, a woda, choć dawno nie padało, ma niezmieniony poziom. Na kamieniu pod mchem są wyryte jakieś inskrypcje. {Elf}Kajetan rozpoznaje jedną ze starych run oznaczającą wodę.
-    - Niestety Kaspar stacjonuje w tym mieście od niedawna, nie ma więc pojęcia gdzie dokładnie może się znajdować opisywane przez Kajetana górskie jeziorko.
+    - Niestety Kasimir stacjonuje w tym mieście od niedawna, nie ma więc pojęcia gdzie dokładnie może się znajdować opisywane przez Kajetana górskie jeziorko.
     - Idąc pod strażnicę Ilana zauważa znajomy wóz handlarza z Kaedwen zaparkowany pod Kuropatwą i szarpiącego się w sttajni sporego, pięknego rumaka. Zostawia Kajetana samego z biznesem i podchodzi do stajni.
     - Właściciele wozu i dwóch rumaków to piątka Kaedweńczyków: Ure, Kraska, Zywik (głowa interesu) i Lud - weterani Burej Chorągwi oraz Ywi zwany Drabem (o jakże zgodnej fizjonomii). Wszyscy są specjalistami w łuku.
     - Ilanie udaje się uspokoić konia, czym zyskuje zainteresowanie Ure, ospowatego Kaedweńczyka z wyszczerbionym uśmiechem. Okazuje się, że banda ze wschodu zjechała do miasta zapolować na gryfa. Podobno w ich okolicach roi się od tych bestii, więc mają już wprawę.
