@@ -398,3 +398,5 @@
         - córka słynnego skalda, Draiga Bon-Dhu
         - towarzyszy Dimunom w rejsach
         - przyrzeczona [Skovika](#p_skovik)
+    - <a id='p_lodborke' pattern='L.dbroke*'>Lödbroke</a>
+        - legendarny wprost łowca głów z Wysp; bez Klanu i seniora
