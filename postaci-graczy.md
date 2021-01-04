@@ -33,6 +33,7 @@
             - naszyjnik kul ognia, 3 nieodnawialne użycia
             - porcelanowa maska - Disguise Self at will
         - Schowany:
+		    - Szata wysokiego elfiego rodu, stealth advanage 
             - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
             - Księga magiczna +1 arcana
             - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
@@ -40,17 +41,21 @@
             - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
             - 2 krystaliczny kawałek dwimerytu, odbierający Moc
             - Nalewka z mandragory, 2 butelki
-            - 12 porcji inkaustu
+            - 6 porcji inkaustu
             - 2 porcje kadzidła
             - 2 porcje pyłu kamieni szlachetnych
             - 3 porcji kredy
             - kamienie szlachetne warte 350gp
-            - 183.3.6 gp
+			- podłóżna zamknięta szkatułka
+			- pusty (?) elfi dziennik
+			- 3 czarne jedwabne szaty
+			- naszyjnik z symbolem lwiogłowego pająka
+			- 3 pierścionki warte po 20 - 50GP
+            - 26.8.6 gp
             - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
             - Thieves Tools
             - 1 żetony do teleportacji
             - 2 zwoje do teleportacji
-            - 1 zwój komunikacyjny
             - fragment zaklęcia 5go poziomu
             - Z Craag An:
                 - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.

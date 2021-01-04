@@ -12,12 +12,12 @@
     - Mijamy dwóch rubasznych, przysadzistych mężczyzn w bobrzych kołpakach. Głośno dyskutują jak to dobrze zdjąć rzyć z kulbaki, przebąkują też coś o intratnym zleceniu.
     - W Różyczce Walerian opowiada nam nieco więcej o nawiedzonym domu:
         - budynek to bliźniak, w jednej połowie mieszka stary szewc, w drugiej - bogatsza mieszczka z dwójką dzieci
-        - szewc został znaleziony martwy jako ostatni; leżal na schodach ze skręconym karkiem, wyglądał jakby przed czymś uciekał
+        - szewc został znaleziony martwy jako ostatni; leżał na schodach ze skręconym karkiem, wyglądał jakby przed czymś uciekał
     - W tym czasie Ilana nadaje wiadomość. Rola posłańca przypada grubemu kocurowi. Proponujemy dwie daty: dziś wieczór lub nazajutrz. Odpowiedź ma zostać dostarczona do Różyczki.
     - Bierzemy pokój na noc i siadamy przy napitku. Ilana podłapuje rozmowę między krasnoludem i dwoma niziołkami. Dyskutują o tym, że gryf się rozpanoszył na dobre, w związku z czym do miasta zjechało kilku śmiałków. Trzeba więc podnieść ceny za strzały, kusze i tym podobną broń zasięgową.
     - Kiedy siedzimy przy piwie do karczmy wpada czerwony jak cegła Hans Krammer - bez włosów i bez brody.
     - Zaproszony do stolika opowiada, że wiózł partię drewna ze swojego tartaku, gdy nadleciał gryf, porwał jego juczną kozę, roztrzaskał wóz z drewnem, a jego samego ozdobił kloaką na odchodne. Smrodu nie dało się zmyć, więc {krasnolud}Hans był zmuszony ogolić się na gładko. Zapłaci nam 250GP za zmycie tej zniewagi i dostarczenie mu łba bestii.
-    - Udajeemy się na spoczynek. W pokoju Kajetan na prośbę Ilany wysyła dwie wiadomości:
+    - Udajemy się na spoczynek. W pokoju Kajetan na prośbę Ilany wysyła dwie wiadomości:
         - Bron: na mocy jakiegoś przepisu, łowca Cerys skumał się z instygatorem i ten musi mu pomagać w rozwiązaniu sprawy zbiega; morderca zaś zniknął, podobnie jak bardowa mandolina
         - onejromantka: wiadomość nie znajduje właściwego odbiorcy; można się więc spodziewać, że postać, z którą Kajetan rozmawiał we śnie w rzeczywistości wygląda z goła inaczej
         - Kaspar: zdaje mu się że wiadomości {elfa}Kajetan to koszmary; Łowcy przyprawiają go o ból głowy, pokazali mu "to coś" ({mag}Kajetan w paranoicznym stylu natychmiast myśli o Isilme)
@@ -33,9 +33,10 @@
     - Ilana zdradza, że wie gdzie gryf gniazduje. Zywik proponuje jej mały pojedynek łuczniczy. Kajetan swoją magią dopomaga strzałom {dziewczyny}Ilana aby zrobić lepsze wrażenie. Turniej kończy się zwycięstwem Zywika, ale głównie dlatego, że swoją lekką przewagę w punktach zdobył strzelając dwoma strzałami naraz.
     - Po próbie sił Zywik zaprasza nas na piwo. Trochę krzywi się na metody Kajetana - ma uraz do magów po widowiskowym całospaleniu przez Sabrinę Glevissig kwiatu rycerstwa obu stron konfliktu kaedweńskiego.
     - Finalnie dobijamy targu z Kaedweńczykami. Pojutrze ruszamy na gryfa, ale mamy nie uszkodzić piór ani szponów, które są dla nich najcenniejsze. Do tego czasu chłopaki przygotują nam wyprawkę.
+	- Banda generalnie jedzie do Ban Glen
 4. Dom strachów
     - Umówieni z łowczymi, idziemy zrobić przed kolacją wizję lokalną w nawiedzonym domu. Przy furtce siedzi dwóch strażników rżnących w karty. Przy posesji przybito tablicę "Wejście na własną odpowiedzialność", tak więc nikt nie czuje się zanadto w obowiązku nas zatrzymywać.
-    - W ogrodzie stoi samotne, uschnięte drzewo, a na nim - chmara kruków. Ptaki płoszą się gdy przechodzimy zostwiając za sobą kłęby piór. Kajetan zauważa, że układają się w napis w staroelfim: "_odejdźcie_". Jak na rozsądnych przystało, ignorujemmy go i wchodzimy najpierw do części należącej do szewca.
+    - W ogrodzie stoi samotne, uschnięte drzewo, a na nim - chmara kruków. Ptaki płoszą się gdy przechodzimy zostawiając za sobą kłęby piór. Kajetan zauważa, że układają się w napis w staroelfim: "_odejdźcie_". Jak na rozsądnych przystało, ignorujemy go i wchodzimy najpierw do części należącej do szewca.
     - Ilana dostrzega w oknie majaczącą dziecięcą postać, która po chwili znika. Wewnątrz panuje lekki bałagan. Na ladzie leżą buty w nieporządku. Drzwi do pracowni są uchylone.
     - Gdy wchodzimy, okiennice zatrzaskują się. Ilana uruchamia więc perłę od Zangenisa. {Druidka}Ilana wpada na pomysł by zaanonsować nasze przybycie i "pogawędzić" z duchem. Wyjmuje papier i węgiel, które rozkłada po podłodze nauczona eksperymentem z Esme.
     - Z pomocą Kajetana w roli tłumacza udaje nam się nawiązać kontakt z elfim duchem (czyżby Ilana miała rację względem uwolnionego przez nas banshee?). Wiadomości na kartkach powtarzają słowo "_odejdźcie_". Oprócz elfa po domu pałętają się duchy pozostałych denatów: szewca, dwójki dzieci i ich matki z domu obok. Wszystkie zdają się być spętane łańcuchami biegnącymi jakby do piwnicy sąsiedniego domostwa.
@@ -51,7 +52,7 @@
     - Ilana proponuje aby na wszelki wypadek posiekać Łowcę tak jak rabusiów, na wypadek zmartwychwstania. Próbuje wyrwać mu z rąk miecz, co kończy się bolesnym zetknięciem ze srebrem. Miecz przygarnia więc Kajetan.
     - W ścianie jest spora wyrwa prowadząca dalej w głąb. Nim zdążymy się do niej zbliżyć, ze ścian wypływają duchy i rzucają się na nas, więc Ilana wydobywa więcej światła z perły. Duchy krzywią się, ale nadal nie dają za wygraną. Kajetan dobrze sobie z nimi radzi srebrnym mieczem Łowcy, gdy Ilana siłuje się samymi pazurami.
     - Rozprawiamy się ze zjawami wyjątkowo czułymi na srebro. Zabieramy miecz i zapuszczamy się dalej, przez wyrwę, wprost do znajomej nam już jaskini z potrzaskanym ołtarzem.
-    - Nad ołtarzem unosi się skuty łańcuchami duch elfiej kobiety. Tutaj też znajdujemy drugiego z Łowców, który na swoje nieszczęście nie zdążył oderbać sobie życia.
+    - Nad ołtarzem unosi się skuty łańcuchami duch elfiej kobiety. Tutaj też znajdujemy drugiego z Łowców, który na swoje nieszczęście nie zdążył odebrać sobie życia.
     - Elfka, której ładną twarz rujnują łzy, stara się podążać za naszymi instrukcjami, ale ołtarz, niczym myśląca istota, zmusza ducha Łowcy do walki z nami. Duch, sterując ciałem jak kukiełką na sznurkach, rzuca go w naszą stronę.
     - Ilana, mocno wycieńczona poprzednim starciem z duchami, od razu zmienia się w niedźwiedzia i osłania Kajetana, który ma się skupić na banshee.
     - Łowca, wyposażony podobnie jak jego kolega w srebrny miecz, trzema celnie wymierzonymi sztychami niemal posyła przemienioną {druidkę}Ilana na kolana. Kajetan słysząc krzyk banshee traci przytomność, więc Ilana wlewa mu jeden z eliksirów i odprawiwszy elfkę w niebyt, oboje uciekamy ostatkiem sił na powierzchnię zaczerpnąć tchu.
@@ -59,5 +60,5 @@
     - W biegu wypadamy za płot, przy którym Tom oraz 3 innych strażników robią zakłady o to, czy wyjdziemy stamtąd żywi.
     - Tom wyjawia, że Łowcy zlecili kapłanom Wiecznego Ognia oczyszczenie tego miejsca po naszej akcji. Tym samym kapłanom, którzy później, po akcji w Różyczce, spłonęli na stosie.
     - Prosimy {strażnika}Tom aby poinformował Kasimira, że potrzebujemy kapłana teraz, do dokończenia roboty. I lepiej żeby miał ze sobą zapas wody święconej.
-    - Kajetan sprawdza zawartość mieszka rabusiów, który w przebłysku geniuszu podniósł w pędzie do wyjścia. Oprócz rupieci i srebrnych utensyliów urodowych tudzież kuchennych, znajduje elfi notatnik z fragmentem jakiegoś zaklęcia wciśniętym między kartki.
+    - Kajetan sprawdza zawartość mieszka rabusiów, który w przebłysku geniuszu podniósł w pędzie do wyjścia. Oprócz rupieci i srebrnych utensyliów rodowych tudzież kuchennych, znajduje elfi notatnik z fragmentem jakiegoś zaklęcia wciśniętym między kartki.
     - Dostajemy część wygranej Toma, który jako jedyny obstawił, że wyjdziemy z tego cało. Dwóch pozostałych dało nam zerowe szanse, a trzeci stwierdził, że co najwyżej dobiegniemy do bramy i tam dokonamy swego żywota. Odpoczywając czekamy na kapłana.

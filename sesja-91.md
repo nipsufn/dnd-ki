@@ -1,0 +1,67 @@
+### Sesja 91
+1. Skończyć robotę
+- Kasimir przysyła kapłana, Brata Riordana, przekazując przez dziesiętnika{Tom}, że powinniśmy "uważać na plecy"
+- braciszek, podobnie jak my, jest winny Diukowi Myrtonowi przysługę
+- opędzając się od latających mebli, schodzimy do podziemi
+- Ilana i Kajetan odciągają uwagę duchów, podczas gdy, wyglądający na przerażonego, Riordan, odprawia rytuał oczyszczenia
+- Banshee na odchodnym wskazuje na plecak {maga}Kajetan, szepcząc "Shaerrawedd"
+- Wycieńczeni rozmawiamy z Kasimirem i przeszukujemy domy:
+    - Mieszkanie po szewcu możemy przepisać na siebie jeśli znajdziemy akt własności
+	- Komendant skupuje od nas srebrne miecze Łowców, polecając Hatoriego z Novigradu jako kogoś kto mógłby wykonać podobne na zamówienie
+	- przejście do lochu zasłania elfi płaszcz, pomagający się ukryć
+	- obraz zasłaniający zejście do piwnicy przedstawia, zdaniem Kasimira, nieistniejący zameczek widłach Buiny i Nimnaru
+	- znajdujemy też nieco mosiężnych sztućców, podłużne zamknięte pudełko, 3 pierścionki, trochę złota, dwa obrazy ("Podróżniczka", przedstawia elfkę kojarzącą nam się z właśnie odprawioną Banshee, w podobnym płaszczu do tego który znaleźliśmy oraz dzienniczek z którego wyciągneliśmy kawałek zaklęcia, Kajetanowi zdaje się że widział ją kilka razy w Górach Sinych; autoportret z niedokończonym mężczyzną w tle, z ręką na ramieniu autorki, sygnowany podpisem "ELP")
+	- akt własności mieszkania szewca udaje nam się znaleźć w skromnym sejfiku, wymienia z nazwiska Edgara Buttes, niech mu ziemia lekką będzie
+- Jemy kolację z Viggo:
+    - malarka była dobrze sytuowana, w mieście od jakiegoś roku, w bliźniaku mieszkała z prawa zasiedzenia (?)
+	- pazury Gryfów czernieją w obecności trucizn, poza tym serce i jaja mogą być używane w procesach alchemicznych
+	- zapytany, czy nie potrzebuje jakiejś przysługi, prosi by upewnić się że profesor Szezlok z Oxenfurtu, specjalista od magii teoretycznej, jest w dobrym zdrowiu po zamieszkach na uniwersytecie - możliwe że mógłby pomóc jego małżonce, Sybil
+2. Dzień by odetchnąć
+- Ranem Kajetan wysyła wiadomość do Rei, dowiadując się, że:
+    - Lödbrok to skurwysyn
+	- żeglował na "Postrachu Mórz"
+	- z Morgwargiem napadli na ogród Freyi
+	- Łowca nie jest Wildcarlem
+	- jego przywódca, herszt, przełożony (którego jednak chyba ma) jest wilkołakiem
+	- wyzwany i pokonany, zrobi czegokolwiek się od niego nie zażąda
+	- w świątyni (na świętej ziemi?) nie podniesie na nikogo ręki - nie może
+	- wyzwać można go na dowolny rodzaj walki - nie wolno mu odmówić
+- Kajetan kupuje u jubilera, Ruprechta, spory kawałek Aleksandrytu, do zaklęcia komunikacyjnego które dostał od Stregobora. Jest obruszony gdy Ilana, miast dołożyć się po prostu z pieniędzy które trzyma na rzecz drużyny, komplikuje i opowiada o rachowaniu, płaci więc z własnej kieszeni
+- odbieramy naszą butelkę "Białej Mewy" od Lukrecji
+- załatwiamy przepisanie aktu własności mieszkania po Edgarze, rzecz potrwa jakiś tydzień i będzie kosztowała 150GP
+- Ilana pisze wiecej z Lambertem, próbując dowiedzieć się o Gryfach:
+    - bestii najlepiej przypalić skrzydła żeby nie latała
+	- Keira dalej jest nieprzytomna, ale Merigold przybyła i się nią zajmuje
+	- Triss Merigold przywiozła ze sobą jakiś eskel, ale wiedźmin nie chce powiedzieć co to takiego
+3. Na Gryfa
+- Wyruszamy w górę Iny, przez Dornhal, do jednego z jej źródeł, z bandą Zywika
+- Gryf zauważa nas na terytorium które uznał za swoje, jednak dzięki wiedzy Kaedweńczyków, unikamy przedwczesnej potyczki
+- U stóp gór rozdzielamy się. Ilana, Kajetan i Zywik zasadzą się na bestię w jej leżu, a reszta bandy przyciągnie jego uwagę i wymęczy w obozowisku
+- Samotrzeć docieramy do jeziorka. Napisy na obelisku na środku są wyryte w dialekcie druidycznym, jednak {dziewczyna}Ilana słysząc komentarz {elfa}Kajetan na temat druidów, morderców i gwałcicieli, jest bardzo dotknięta. Treść inskrypcji zachowuje dla siebie, stwierdając że już nic mu nie powie
+- Widocznie skłóceni, zaczynamy walkę z nie najlepszych pozycji, nie udaje nam się zaskoczyć Gryfa, jednak, dzięki łutowi szczęścia i szczypcie przygotowań, pokonujemy go łatwiej niż się spodziewaliśmy
+- Czekając aż nasze wsparcie dotrze, by przenieść truchło, Kajetan przygotowuje Aleksandryt do użycia, korzystając z punktu mocy na którym stoi obelisk
+- Ilana pomaga wyciąć z truchła wszystko co wartościowe, pisze też o radę do Lamberta, odpowiada jej jednak inny wiedźmin, Eskel. {Druidka}Ilana dowiaduje się że krew jest wartościowa i wykorzystywana do uzdrawiania
+- Wyruszamy w drogę z powrotem. {Mag}Kajetan chłodzi krew Gryfa w wiadrze z lodem
+- W drodze Kajetan i Ilana kłócą się semantykę, o tym, co mają na myśli gdy generalizują, kogo jak kategoryzują. Choć konkretne konkluzje z takich dyskusji wyciągnąć trudno, wychodzi na to, że {elf}Kajetan powinien był zaznaczyć na ile przykre są mu przytyki {dziewczyny}Ilana wobec magów, i nie zakładać, że może wyzywać druidów w jego mniemaniu analogiczny sposób
+- Ilana przez ostatnie noce ma koszmary, podczas których jej ciało nie zawsze trzyma ludzką formę. Ostatecznie, po dziewięciu koszmarach, rozmawia we śnie z Druidem Artisem:
+    - Artis to starszy mężczyzna z krzaczastymi brwiami i głęboko osadzonymi oczami
+	- Ilanę odkrył przez sny Skovika, które najwyraźniej śnią razem
+	- twierdzi że nie jest wrogiem {dziewczyny}Ilana
+	- obiecuje że nie życzy ani {osiłkowi}Skovik ani {druidce}Ilana nieprzygody
+	- przyrównuje Lödbroka do żelaznego cepa, potężnego i prostego
+	- twierdzi że przykazał Łowcy nikogo nie krzywdzić
+	- "nikt" nie spodziewał się że w życiu Skovika pojawi się ktoś taki jak Ilana (czy miał na myśli uczucie? umiejętności?)
+	- rozumie rozsierdzenie i wrogość {dziewczyny}Ilana
+	- twierdzi że może {wyspiarza}Skovik bezpiecznie obudzić tutaj (gdzieś na Wyspach)
+	- jego zdaniem jesteśmy z Lödbrokiem (który widzi siebie jako myśliwego) kwita po tym jak ukradliśmy my Skovika; Łowca może rządać satysfakcji, ale nie zabić
+	- mówi, że wbrew temu, co Ilana może myśleć, ma z rozmówcą więcej wspólnego niż podejrzewa
+	- nie spotka się z nami u Starego Olzy by negocjować, ale wyśle Lod Broka tak, by dotarł na kolejną pełnię, trzy tygodnie od teraz
+	- całe porwanie miało być przedstawieniem - wyglądające na martwe ciało Skovika miało być przedstawione Cerys, która nie upewiając się w żaden sposób że to żeczywiście on i martwy, miała by pozwolić by "zwłoki" wylądowały u Artisa, który by {Drummonda}Skovik wskrzesił i dał mu wybór
+	- pokrętnie tłumaczy, że pozwolenie {osiłkowi}Skovik na wybór na kontynencie nie uwolniło by go od zemsty Cerys, a przedstawienia nie udało by się sprzedać
+	- twierdzi, że dla Cerys od wzroku ważniejsze są uczucia (w kontekście wiary w niebyłą szopkę z niby-zwłokami)
+	- jego zdaniem Myszowór nie poznałby się na jego fortelu
+	- nie potrafi wytłumaczyć, po co trucizna w dodatku do klątwy która utrzymuje Skovika w stanie pół-śmierci
+	- bełkocze o dopadającym {Drummonda}Skovik przeznaczeniu, kiedy jedyne co go dopadło to spiski starca z wysp
+	- Lödbrok użył na {osiłku}Skovik więcej trucizny niż miał przykazane
+	- opowiada, że spotkanie Skovika i Ilany, i ich potrzeba odwiedzenia wysp nie jest przypadkiem
+	- nie odnosi się do pomysłu {dziewczyny}Ilana, by to ona, pod przybraną postacią, zajęła miejsce {wyspiarza}Skovik w planowanym przedstawieniu
