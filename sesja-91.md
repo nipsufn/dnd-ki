@@ -1,0 +1,67 @@
+### Sesja 91
+1. Skończyć robotę
+- [Kasimir](#g_kasimir) przysyła kapłana, Brata Riordana, przekazując przez dziesiętnika{Tom}, że powinniśmy "uważać na plecy"
+- braciszek, podobnie jak my, jest winny Diukowi [Myrtonowi](#p_lord_myrton) przysługę
+- opędzając się od latających mebli, schodzimy do podziemi
+- [Ilana](#g_ilana) i [Kajetan](#g_kajetan) odciągają uwagę duchów, podczas gdy, wyglądający na przerażonego, Riordan, odprawia rytuał oczyszczenia
+- [Banshee](#b_banshee) na odchodnym wskazuje na plecak [maga](#g_kajetan), szepcząc "Shaerrawedd"
+- Wycieńczeni rozmawiamy z [Kasimirem](#g_kasimir) i przeszukujemy domy:
+    - Mieszkanie po szewcu możemy przepisać na siebie jeśli znajdziemy akt własności
+	- Komendant skupuje od nas srebrne miecze [Łowców](#r_lowca), polecając Hatoriego z [Novigradu](#l_novigrad) jako kogoś kto mógłby wykonać podobne na zamówienie
+	- przejście do lochu zasłania elfi płaszcz, pomagający się ukryć
+	- obraz zasłaniający zejście do piwnicy przedstawia, zdaniem [Kasimira](#g_kasimir), nieistniejący zameczek widłach Buiny i Nimnaru
+	- znajdujemy też nieco mosiężnych sztućców, podłużne zamknięte pudełko, 3 pierścionki, trochę złota, dwa obrazy ("Podróżniczka", przedstawia elfkę kojarzącą nam się z właśnie odprawioną [Banshee](#b_banshee), w podobnym płaszczu do tego który znaleźliśmy oraz dzienniczek z którego wyciągneliśmy kawałek zaklęcia, [Kajetanowi](#g_kajetan) zdaje się że widział ją kilka razy w [Górach Sinych](#l_gory_sine); autoportret z niedokończonym mężczyzną w tle, z ręką na ramieniu autorki, sygnowany podpisem "ELP")
+	- akt własności mieszkania szewca udaje nam się znaleźć w skromnym sejfiku, wymienia z nazwiska Edgara Buttes, niech mu ziemia lekką będzie
+- Jemy kolację z [Viggo](#p_viggo_regner):
+    - malarka była dobrze sytuowana, w mieście od jakiegoś roku, w bliźniaku mieszkała z prawa zasiedzenia (?)
+	- pazury [Gryfów](#b_gryf) czernieją w obecności trucizn, poza tym serce i jaja mogą być używane w procesach alchemicznych
+	- zapytany, czy nie potrzebuje jakiejś przysługi, prosi by upewnić się że profesor Szezlok z [Oxenfurtu](#l_oxenfurt), specjalista od magii teoretycznej, jest w dobrym zdrowiu po zamieszkach na uniwersytecie - możliwe że mógłby pomóc jego małżonce, Sybil
+2. Dzień by odetchnąć
+- Ranem [Kajetan](#g_kajetan) wysyła wiadomość do Rei, dowiadując się, że:
+    - [Lödbrok](#p_lodborke) to skurwysyn
+	- żeglował na "Postrachu Mórz"
+	- z Morgwargiem napadli na ogród [Freyi](#r_freya)
+	- Łowca nie jest Wildcarlem
+	- jego przywódca, herszt, przełożony (którego jednak chyba ma) jest wilkołakiem
+	- wyzwany i pokonany, zrobi czegokolwiek się od niego nie zażąda
+	- w świątyni (na świętej ziemi?) nie podniesie na nikogo ręki - nie może
+	- wyzwać można go na dowolny rodzaj walki - nie wolno mu odmówić
+- [Kajetan](#g_kajetan) kupuje u jubilera, [Ruprechta](#p_ruprecht), spory kawałek Aleksandrytu, do zaklęcia komunikacyjnego które dostał od [Stregobora](#p_stregobor). Jest obruszony gdy [Ilana](#g_ilana), miast dołożyć się po prostu z pieniędzy które trzyma na rzecz drużyny, komplikuje i opowiada o rachowaniu, płaci więc z własnej kieszeni
+- odbieramy naszą butelkę "[Białej Mewy](#r_biala_mewa)" od [Lukrecji](#p_lukrecja_schattenwort)
+- załatwiamy przepisanie aktu własności mieszkania po Edgarze, rzecz potrwa jakiś tydzień i będzie kosztowała 150GP
+- [Ilana](#g_ilana) pisze wiecej z [Lambertem](#p_lambert), próbując dowiedzieć się o [Gryfach](#b_gryf):
+    - bestii najlepiej przypalić skrzydła żeby nie latała
+	- [Keira](#p_keira_metz) dalej jest nieprzytomna, ale [Merigold](#p_triss_merigold) przybyła i się nią zajmuje
+	- [Triss Merigold](#p_triss_merigold) przywiozła ze sobą jakiś eskel, ale wiedźmin nie chce powiedzieć co to takiego
+3. Na [Gryfa](#b_gryf)
+- Wyruszamy w górę Iny, przez Dornhal, do jednego z jej źródeł, z bandą Zywika
+- [Gryf](#b_gryf) zauważa nas na terytorium które uznał za swoje, jednak dzięki wiedzy Kaedweńczyków, unikamy przedwczesnej potyczki
+- U stóp gór rozdzielamy się. [Ilana](#g_ilana), [Kajetan](#g_kajetan) i Zywik zasadzą się na bestię w jej leżu, a reszta bandy przyciągnie jego uwagę i wymęczy w obozowisku
+- Samotrzeć docieramy do jeziorka. Napisy na obelisku na środku są wyryte w dialekcie druidycznym, jednak [dziewczyna](#g_ilana) słysząc komentarz [elfa](#g_kajetan) na temat druidów, morderców i gwałcicieli, jest bardzo dotknięta. Treść inskrypcji zachowuje dla siebie, stwierdając że już nic mu nie powie
+- Widocznie skłóceni, zaczynamy walkę z nie najlepszych pozycji, nie udaje nam się zaskoczyć [Gryfa](#b_gryf), jednak, dzięki łutowi szczęścia i szczypcie przygotowań, pokonujemy go łatwiej niż się spodziewaliśmy
+- Czekając aż nasze wsparcie dotrze, by przenieść truchło, [Kajetan](#g_kajetan) przygotowuje Aleksandryt do użycia, korzystając z punktu mocy na którym stoi obelisk
+- [Ilana](#g_ilana) pomaga wyciąć z truchła wszystko co wartościowe, pisze też o radę do [Lamberta](#p_lambert), odpowiada jej jednak inny wiedźmin, [Eskel](#p_eskel). [Druidka](#g_ilana) dowiaduje się że krew jest wartościowa i wykorzystywana do uzdrawiania
+- Wyruszamy w drogę z powrotem. [Mag](#g_kajetan) chłodzi krew [Gryfa](#b_gryf) w wiadrze z lodem
+- W drodze [Kajetan](#g_kajetan) i [Ilana](#g_ilana) kłócą się semantykę, o tym, co mają na myśli gdy generalizują, kogo jak kategoryzują. Choć konkretne konkluzje z takich dyskusji wyciągnąć trudno, wychodzi na to, że [elf](#g_kajetan) powinien był zaznaczyć na ile przykre są mu przytyki [dziewczyny](#g_ilana) wobec magów, i nie zakładać, że może wyzywać druidów w jego mniemaniu analogiczny sposób
+- [Ilana](#g_ilana) przez ostatnie noce ma koszmary, podczas których jej ciało nie zawsze trzyma ludzką formę. Ostatecznie, po dziewięciu koszmarach, rozmawia we śnie z [Druidem Artisem](#p_druid_artis):
+    - [Artis](#p_druid_artis) to starszy mężczyzna z krzaczastymi brwiami i głęboko osadzonymi oczami
+	- [Ilanę](#g_ilana) odkrył przez sny [Skovika](#p_skovik), które najwyraźniej śnią razem
+	- twierdzi że nie jest wrogiem [dziewczyny](#g_ilana)
+	- obiecuje że nie życzy ani [osiłkowi](#p_skovik) ani [druidce](#g_ilana) nieprzygody
+	- przyrównuje [Lödbroka](#p_lodborke) do żelaznego cepa, potężnego i prostego
+	- twierdzi że przykazał [Łowcy](#r_lowca) nikogo nie krzywdzić
+	- "nikt" nie spodziewał się że w życiu [Skovika](#p_skovik) pojawi się ktoś taki jak [Ilana](#g_ilana) (czy miał na myśli uczucie? umiejętności?)
+	- rozumie rozsierdzenie i wrogość [dziewczyny](#g_ilana)
+	- twierdzi że może [wyspiarza](#p_skovik) bezpiecznie obudzić tutaj (gdzieś na Wyspach)
+	- jego zdaniem jesteśmy z [Lödbrokiem](#p_lodborke) (który widzi siebie jako myśliwego) kwita po tym jak ukradliśmy my [Skovika](#p_skovik); Łowca może rządać satysfakcji, ale nie zabić
+	- mówi, że wbrew temu, co [Ilana](#g_ilana) może myśleć, ma z rozmówcą więcej wspólnego niż podejrzewa
+	- nie spotka się z nami u Starego Olzy by negocjować, ale wyśle Lod Broka tak, by dotarł na kolejną pełnię, trzy tygodnie od teraz
+	- całe porwanie miało być przedstawieniem - wyglądające na martwe ciało [Skovika](#p_skovik) miało być przedstawione [Cerys](#p_cerys), która nie upewiając się w żaden sposób że to żeczywiście on i martwy, miała by pozwolić by "zwłoki" wylądowały u [Artisa](#p_druid_artis), który by [Drummonda](#p_skovik) wskrzesił i dał mu wybór
+	- pokrętnie tłumaczy, że pozwolenie [osiłkowi](#p_skovik) na wybór na kontynencie nie uwolniło by go od zemsty [Cerys](#p_cerys), a przedstawienia nie udało by się sprzedać
+	- twierdzi, że dla [Cerys](#p_cerys) od wzroku ważniejsze są uczucia (w kontekście wiary w niebyłą szopkę z niby-zwłokami)
+	- jego zdaniem [Myszowór](#p_myszowor) nie poznałby się na jego fortelu
+	- nie potrafi wytłumaczyć, po co trucizna w dodatku do klątwy która utrzymuje [Skovika](#p_skovik) w stanie pół-śmierci
+	- bełkocze o dopadającym [Drummonda](#p_skovik) przeznaczeniu, kiedy jedyne co go dopadło to spiski starca z wysp
+	- [Lödbrok](#p_lodborke) użył na [osiłku](#p_skovik) więcej trucizny niż miał przykazane
+	- opowiada, że spotkanie [Skovika](#p_skovik) i [Ilany](#g_ilana), i ich potrzeba odwiedzenia wysp nie jest przypadkiem
+	- nie odnosi się do pomysłu [dziewczyny](#g_ilana), by to ona, pod przybraną postacią, zajęła miejsce [wyspiarza](#p_skovik) w planowanym przedstawieniu
