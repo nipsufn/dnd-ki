@@ -48,7 +48,7 @@ def prepare_files(args, whitelist, logger):
 
 def process_tags(files, logger, prefix=""):
     TickTock.tick()
-    tag_retriever = TagParser()
+    tag_retriever = TagParser(logger)
     # pass 1 - generate tags
     for file_path in files:
         with open(file_path, 'r', encoding='utf-8') as file_stream:
@@ -71,7 +71,7 @@ def process_tags(files, logger, prefix=""):
             write_time += TickTock.tock()
             tagger.close()
             text = tagger.text
-
+        # pull pair id + textblock from tag_retreiver object
         file_path = prefix + file_path
         with open(file_path, 'w', encoding='utf-8') as file_stream:
             file_stream.write(text)

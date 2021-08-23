@@ -1,0 +1,54 @@
+### Sesja 92
+1. Koszmary bohaterów pary
+    - Ilana śni o rozmowach z druidem Artisem:
+        - Artis to starszy mężczyzna z krzaczastymi brwiami i głęboko osadzonymi oczami
+        - Ilanę odkrył przez sny Skovika, które najwyraźniej śnią razem
+        - twierdzi że nie jest wrogiem {dziewczyny}Ilana
+        - obiecuje, że nie życzy ani {osiłkowi}Skovik ani {druidce}Ilana nieprzygody
+        - przyrównuje Lödbrokea do żelaznego cepa, potężnego i prostego
+        - twierdzi, że przykazał Łowcy nikogo nie krzywdzić
+        - "nikt" nie spodziewał się, że w życiu Skovika pojawi się ktoś taki jak Ilana (czy miał na myśli uczucie? umiejętności?)
+        - rozumie rozsierdzenie i wrogość {dziewczyny}Ilana
+        - twierdzi, że może {wyspiarza}Skovik bezpiecznie obudzić u siebie (gdzieś na Wyspach)
+        - jego zdaniem jesteśmy z Lödbrokeiem (który widzi siebie jako myśliwego) kwita po tym jak ukradliśmy my Skovika; łowca może rządać satysfakcji, ale nie zabić
+        - mówi, że wbrew temu, co Ilana może myśleć, ma z rozmówcą więcej wspólnego niż podejrzewa
+        - nie spotka się z nami u Starego Olzy by negocjować, ale wyśle Lödbrokea tak, by dotarł na kolejną pełnię, trzy tygodnie od teraz
+        - całe porwanie miało być przedstawieniem - wyglądające na martwe ciało Skovika miało być przedstawione Cerys, która nie upewiając się w żaden sposób, że to żeczywiście on i martwy, miała by pozwolić by "zwłoki" wylądowały u Artisa, który by {Drummonda}Skovik wskrzesił i dał
+mu wybór
+        - pokrętnie tłumaczy, że pozwolenie {osiłkowi}Skovik na wybór na kontynencie nie uwolniło by go od zemsty Cerys, a przedstawienia nie udało by się sprzedać
+        - twierdzi, że dla Cerys od wzroku ważniejsze są uczucia (w kontekście wiary w niebyłą szopkę z niby-zwłokami)
+        - jego zdaniem Myszowór nie poznałby się na jego fortelu
+        - bełkocze o dopadającym {Drummonda}Skovik przeznaczeniu, kiedy jedyne co go dopadło to spiski starca z wysp
+        - Lödbroke użył na {osiłku}Skovik więcej trucizny niż miał przykazane
+        - opowiada, że spotkanie Skovika i Ilany, i ich potrzeba odwiedzenia wysp to nie przypadkek
+        - nie odnosi się do pomysłu {dziewczyny}Ilana, by to ona, pod przybraną postacią, zajęła miejsce {wyspiarza}Skovik w planowanym przedstawieniu
+    - Kajetan również śni, tułając się po zakamarkach swoich wspomnień
+        - {mag} nie był zaledwie asystentem a jednym z badaczy
+        - z kamratami opracowywali jakiś eksperyment, mający zdaje się uodpornić istoty na działanie Mocy
+        - Elatan poddała się doświadczeniu pierwsza, jednak szybko widać było że coś jest nie tak. Kajetan ustawił się między źródłem zmian a (zdaje się nieobojętną) elfką
+        - dochodzi do wybuchu
+        - jak przez mgłę {elf}Kajetan słyszy Filavandrela, niezadowolnego z obrotu spraw i decydującego się zmodyfikować wspomnienia poszkodowanych badaczy
+    - Budzimy się po około trzech miesiącach. Najemnicy zostawili nas i naszą część nagrody w Różyczce. W międzyczasie wiele się wydarzyło:
+        - Nilfgaard uderzył na północ, zajmując Majeną i Maribor, gdzie się zatrzymali z sobie tylko znanych powodów
+        - Radowid nie żyje. Philippa, pozbawiona ponoć umiejętności czarowania gnije w lochu w oczekiwaniu na Stryczek
+        - Redanią rządzi Dijsktra, jako regent
+        - Temerią rządzi królowa matka Adda, ma też w pieczy księcia Foltesta dopóki nie dorośnie
+        - Kaedwen jest niepodległe, panuje wojna domowa o władzę
+        - Magia nie jest już zabroniona
+        - Łowcy Czarownic odegrali jakąś rolę w tych wydarzeniach, jednak ich los jest niepewny - jeśli używanie Mocy nie jest zabronione, ich zakon jest bezcelowy
+        - Diuk Myrton nie wrócił do Ellander, mało tego, wezwał do siebie pozostałych w mieście ludzi.
+        - Kasimir miał do nas sprawę, niestety nie byliśmy w stanie rozmawiać
+        - pod nieobecność męża miastem rządzi księżna Alicja
+        - w mieście panuje głód - uchodźcy z południowych miast zżerają wszystkie zapasy
+        - w napiętej sytuacji, w strachu przed Nilfgaardzkimi agentami oraz grasującym mordercą bramy miejskie zostały zamknięte
+2. Na miasto
+    - wszędzie jest pełno bezdomnych, domyślamy się uciekinierów z południa kraju
+    - Odwiedzamy Lukrecję w Fiolce Zdrowia. Pomaga nam się skontaktować z Viggo. Jakiś wiedźmin (Geatan?) zastraszając ukradł wszystkie receptury z Fiolki
+    - Wybieramy się do Urzędu, upewnić się że tytuł własności domu jest dalej ważny. Dom rzeczywiście należy do nas, zalęgli się w nim jednak koczownicy (przez co podniesiono podatek) a ponadto, co przemilczano gdy załatwialiśmy wpisy w księgach kwartał temu, po elfce-artystce został dług w postaci nieopłaconych podatków. Suma to 500GP.
+    - w urzędzie widzimy dwójkę oprychów nieładnie traktujących dziada żebraczego
+    - Odwiedzamy Vigga. Cieszy się że nas widzi obudzonych, martwił się że skończymy jak jego żona. Oferuje nam pomoc z podatkami (Kajetan uważa że prezent/płatność miasta za pomoc z kultystami nie powinna być obciążona długami) jeśli rozwiążemy sprawę morderstw:
+        - ludzie znikają od trzech tygodni, do tej pory w sumie pięć osób: 2 strażników, 2 uchodźców i jeden mieszczanin (ostatni, właściciel Ziołowego Kufelka, powieszony na własnym jelicie na strychu).
+        - wszystkie morderstwa są brutalne i "widowiskowe", w okolicy dzielnicy nieludzi
+    - wybieramy się do naszego domu, pozbyć się koczowników. Po drodze zauważamy że straż miejska przemieściła część motłochu. Natykamy się też na tego samego żebraka, teraz z rozbitą głową, rozmawiającego z jakąś dziewczynką, zdaje się wnuczką. Ilana zostawia mu pieniążek a Kajetan, ze swoją manierą, leczy nieco jego potłuczony łeb. Dziecko wygląda jakby nie wiedziało co myśleć, ale wywiera wrażenie jakby potrafiło zamordować wzrokiem.
+    - w naszym domu nie siedzą koczownicy a jakaś zorganizowana banda. Po krótkiej bitce ich herszt, najspokojniejszy z całego towarzystwa, daje radę namówić nas do rozmowy. Nie mówiąc wprost, sugeruje że są przemytnikami, i pokryje nasze koszta i dorzuci małe co-nieco. Mamy przyjść po złoto wieczorem.
+    - przychodzimy po pieniądze w przebraniu. Chwilę trwa zanim bandyci dają się przekonać że to z nami rozmawiali wcześniej. Ledwie przekazują nam sakiewkę a coś atakuje całe zgrupowanie. Kajetan i Ilana uciekają, obserwując z bezpiecznej odległości jak coś, w cieniach zachodzącego słońca, wypruwa flaki przemytników.
