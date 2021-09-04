@@ -33,7 +33,7 @@
             - naszyjnik kul ognia, 3 nieodnawialne użycia
             - porcelanowa maska - Disguise Self at will
         - Schowany:
-		    - Szata wysokiego elfiego rodu, stealth advanage 
+            - Szata wysokiego elfiego rodu, stealth advanage 
             - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
             - Księga magiczna +1 arcana
             - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
@@ -43,15 +43,15 @@
             - Nalewka z mandragory, 2 butelki
             - 6 porcji inkaustu
             - 2 porcje kadzidła
-            - 2 porcje pyłu kamieni szlachetnych
-            - 3 porcji kredy
+            - 5 porcje pyłu kamieni szlachetnych
+            - 6 porcji kredy
             - kamienie szlachetne warte 350gp
-			- podłóżna zamknięta szkatułka
-			- pusty (?) elfi dziennik
-			- 3 czarne jedwabne szaty
-			- naszyjnik z symbolem lwiogłowego pająka
-			- 3 pierścionki warte po 20 - 50GP
-            - 26.8.6 gp
+            - podłóżna zamknięta szkatułka
+            - pusty (?) elfi dziennik
+            - 3 czarne jedwabne szaty
+            - naszyjnik z symbolem lwiogłowego pająka
+            - 3 pierścionki warte po 20 - 50GP
+            - 220.3.6 gp
             - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
             - Thieves Tools
             - 1 żetony do teleportacji
@@ -86,6 +86,7 @@
     - Znane kręgi teleportacyjne:
         - Ban Ard
         - Craag An
+        - Gors Velen
         - Maribor
         - Świątynia Melitele
         - Kerack (eksperymantalny)
@@ -103,6 +104,7 @@
             - nieczytelne (jeszcze) 8go poziomu
             - [Planar Ally](https://5e.tools/spells.html#planar%20ally_phb)
             - [Plane Shift](https://5e.tools/spells.html#plane%20shift_phb)
+            - [Comprehend Languages](https://5e.tools/spells.html#comprehend%20languages_phb)
     - Mechanika
         - Nowe zaklęcia czarodzieja:
             - 10XP za level zaklęcia, przy dowolnym długim odpoczynku

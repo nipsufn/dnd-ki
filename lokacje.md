@@ -196,5 +196,7 @@
         - port na jendnej z Wysp
     - <a id='l_kaer_trolde' pattern='Kaer Trolde'>Kaer Trolde</a>
         - siedziba rodu An Craite
+    - <a id='l_tor_gvalchca' pattern='Tor Gvalch'>Tor Gvalch'ca</a>
+        jedna z elfich wież
 - <a id='l_zerrikania' pattern='Zerrikania'>Zerrikania</a>
     - daleko

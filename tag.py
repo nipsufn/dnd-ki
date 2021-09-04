@@ -228,3 +228,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# regex to get object description (group1) or parent tag (group0)
+# (((\t| )*)- <.*?\n(\2(\t| ).+?\n)*)|- .+?\n

@@ -13,6 +13,9 @@
 - <a id='p_dorregaray' pattern='Dorregaray*'>Dorregaray z Vole</a> - człowiek, mag, członek Nowej Kapituły
     - uczeń: Lars
 - <a id='p_elatan' pattern='Elatan'>Elatan</a> - elf, mag;
+    - brała udział w wyprawie archeologicznej w wyniku której Kajetan nie mógł czarować
+    - poszkodowana w wypadku, połowa jej twarzy to goła kość
+    - próbowała zamordować Kajetana na polecenie Filavandrela
 - <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy Triss Merigold
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek Kapituły
     - potrafi się zamieniać w sowę, możliwe inne zwierzęta
@@ -71,7 +74,7 @@
     - miała siedzibę w Mariborze
 - <a id='p_vilgefortz' pattern='Vilgefortz*,Vilgefortz* z Roggeveen'>✝ Vilgefortz</a> - człowiek, mag, członek Kapituły
     - miał immunitet od Dwimerytu
-    - jedno z jego labolatoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
+    - jedno z jego laboratoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
 - <a id='p_zavist' pattern='Zavi*'>Zavist</a> - ?, mag
     - kolega Stregobora
     - byćmoże wie coś o Galawainie
@@ -181,7 +184,7 @@
     - <a id='p_zielarka' pattern='Esme'>Zielarka</a> - ; wiedźma;
         dziecko przybite do pobliskego Menhiru, uwięzione jako wykonawca klątwy rzuconej przez druidów
         są podejrzenia, że była nią córka Carrerasów, Esme<a id='p_esme_carreras'></a>
-    - <a id='p_trott' pattern='Trott*'>Trott</a> - krasonlud ; ?;
+    - <a id='p_trott' pattern='Trott*'>Trott</a> - krasnolud ; ?;
         - sprzedaje broń z ukrytymi wadami, zrobił na szaro Skovika i Ivara
 - Cintra
     - <a id='p_calanthe' pattern='Calanthe'>✝ Calanthe</a> - ; władczyni
@@ -212,7 +215,7 @@
     - <a id='p_daria' pattern='Dari*'>Daria</a> - ; dziecko;
         widziała zmarłego ojca w potworze, wyrusza z matką do Świątyni Melitele nauczyć się kontrolować Moc do której ma predyspozycje;
         Eliza: matka; Ethar: ojciec
-    - <a id='p_ethar' pattern='Ethar*'>✝ Ethar</a> - ; żołnież;
+    - <a id='p_ethar' pattern='Ethar*'>✝ Ethar</a> - ; żołnierz;
         zmarł na wojnie;
         Eliza: żona; Daria: córka
     - <a id='p_otto_kranmer' pattern='Ott*'>Otto Kranmer</a> - krasnolud; artysta;
@@ -255,11 +258,13 @@
         Prawa ręka Myrtona
         Walczy długim mieczem, który płonie jeśli zatnie się nim
         [Lord Slyz Myrton](Myrton): przełożony; Kasimir: podwładny
+    - <a id='p_esmeralda' pattern='Esmerald*'>Lady Esmeralda</a> - człowiek; ?
+        Członek rady miejskiej w Ellander
 - Góry Sine
     - <a id='p_filavandrel' pattern='Filavandrel* Aen Fidhail,Filavandrel*'>Filavandrel Aen Fidhail ze Srebrnych Wież</a> - elf; mag
         potężny i stary elfi mag
         zorganizował wyprawę archeologiczną w której brał udział Kajetan
-    - <a id='p_isilme' pattern='Isilme*'>Isilme</a> - elf, ziwadowca;
+    - <a id='p_isilme' pattern='Isilme*'>Isilme</a> - elf, zwiadowca;
         brał udział w tej samej wyprawie co Kajetan
         pojmany i wykorzystany do badań nad dwimerytową zarazą przez Łowców i Menge
 - Kaedwen
@@ -297,6 +302,9 @@
             - gangster, jeden z czterech trzęsących miastem
             - wyjechał po kłótni z bratem
             - brat: Tasak
+    - Oxenfurt
+        - <a id='p_shani' pattern='Shani*'>Shani</a>
+            rektorka Katedry Medycyny
 - Świątynia Melitele:
     - <a id='p_matka_iola' pattern='Mat* Iol*,Iol*'>Matka Iola</a> - ; kapłanka;
 - Temeria
@@ -372,7 +380,7 @@
         - ma na przedramieniu wytatuowany symbol Novigradzkiego gangu Tasaka
 - Verden
     - <a id='p_ksiaze_kistrin' pattern='Ksi* Kistrin*,Kistrin*'>Kistrin</a> - ;
-    - <a id='p_wehr' pattern='Kapitan* Aleksand* Wehr*,Kapitan* Wehr*,Aleksand* Wehr*,Wehr*'>Kapitan Aleksander Wehr</a> - człowiek; Kapitan ekspedycji karnej przciwko ghulom na północnej granicy we wsi Skalnica
+    - <a id='p_wehr' pattern='Kapitan* Aleksand* Wehr*,Kapitan* Wehr*,Aleksand* Wehr*,Wehr*'>Kapitan Aleksander Wehr</a> - człowiek; Kapitan ekspedycji karnej przeciwko ghulom na północnej granicy we wsi Skalnica
     - Lokij
         - <a id='p_niemoj' pattern='Niem[óo]*,Sołtys* Niem[óo]*'>Sołtys Niemój</a>
 - Wyspy Skellige
