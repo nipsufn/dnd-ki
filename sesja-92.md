@@ -67,4 +67,4 @@ mu wybór
     - Ledwie przekazują nam sakiewkę, a coś atakuje całe zgrupowanie. Kajetan bierze nogi za pas. Ilana odsuwa się w cień i obserwuje z bezpiecznej odległości jak coś, w cieniach zachodzącego słońca, wypruwa flaki przemytników.
     - {Druidka}Ilana, zmieniona w kota, przysiada na płotku by przyjrzeć się mordercy. Wygląda jak rusałka o małej, bladej twarzyczce, z tą różnicą, że miast dłoni ma całkiem okazałe szpony. Przysiada przy kocie i obserwuje go z zainteresowaniem.
     - Ilana postanawia nie nadwyrężać szczęścia i oddala się doganiając Kajetana. Wędrujemy do Różyczki, gdzie {druidka}Ilana sprawdza raz jeszcze kamień komunikacyjny. Tym razem widzi odpowiedź, niezawodnie, spod pióra mistrza Lamberta.
-    - Oboje z Keirą martwili się o nas i po braku kontaktu, uznając za martwych, spisali na straty. Pytają kiedy mamy zamiar zakończyć "wakacje" i wrócić do pracy.
+    - Oboje z Keirą "martwili się" o nas i po braku kontaktu, uznając za martwych, spisali na straty. Pytają kiedy mamy zamiar zakończyć "wakacje" i wrócić do pracy.
