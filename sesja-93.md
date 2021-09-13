@@ -70,3 +70,5 @@
         - Magowie otwierają swoje szkoły, by "dbać o bezpieczeństwo" dzieci z predyspozycjami do posługiwania się Mocą
         - Ida rozpuszczała plotki wg. których mielibyśmy nie żyć
         - Shani może być w stanie pomóc nam oczyścić krew Skovika z trucizny, jest rektorką Katedry Medycyny w Oxenfurcie
+        - Kajetan prosi Keirę żeby ta spróbowała wybadać dlaczego Filavandrel i Ida chcą odprawić go na tamten świat
+    - Elf{Kajetan}, nie mogąc wysłać wiadomości do Mirny, kontaktuje się z Bronem. Ze wzgędu na sytuację w Kerrack, stary łotrzyk wysłał dziewczynę{Mirna} na termin u alchemika mieszkającego w latarni morskiej w Cidaris.

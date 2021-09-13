@@ -42,7 +42,7 @@
             - 2 krystaliczny kawałek dwimerytu, odbierający Moc
             - Nalewka z mandragory, 2 butelki
             - 6 porcji inkaustu
-            - 2 porcje kadzidła
+            - 1 porcja kadzidła
             - 5 porcje pyłu kamieni szlachetnych
             - 6 porcji kredy
             - kamienie szlachetne warte 350gp

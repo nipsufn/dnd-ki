@@ -136,8 +136,13 @@
         - chatka, jaskinia i krąg żywiołu ziemi
             - zamieszkują go Echinopsy i Archeospor
     - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
-        - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Aretuz*,Thanedd'>Wyspa Thanedd</a>
-            zniszczona szkoła czarownic, Aretuza
+        - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Thanedd'>Wyspa Thanedd</a>
+            - <a id='l_loxia' pattern='Loxi*'>Loxia</a>
+                pałacowa część twierdzy czarodziejek, gościnna
+            - <a id='l_aretuza' pattern='Aretuz*'>Aretuza</a>
+                właściwa szkoła czarodziejek
+            - <a id='l_garstang' pattern='Garstang*'>Garstang</a>
+                wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszysz czarodziejek na Północy
     - <a id='l_gora_cremora' pattern='[Gg]ór* [CK]remor*,Risberg*,Cytadel*'>Góra Cremora</a>
         - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
         - magowie nazywają zajście "fuszerką"
