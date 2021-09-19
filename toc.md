@@ -3,7 +3,7 @@
     - [Postaci Graczy](#g_)
 - [Lokacje](#l_)
 - [Ogłoszenia](#o_)
-- [Bestariusz](#b_)
+- [Bestiariusz](#b_)
 - [Heraldyka](#h_)
 - [Zadania](#z_)
 - [Różne](#r_)
@@ -103,3 +103,5 @@
     - [Sesja 92](#sesja-92)
     - [Sesja 93](#sesja-93)
     - [Sesja 94](#sesja-94)
+    - [Sesja 95](#sesja-95)
+
