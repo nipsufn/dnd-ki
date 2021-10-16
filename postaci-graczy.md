@@ -22,17 +22,30 @@
         W końcu wyruszył w świat, szukając miejsca dla siebie, a może i lekarstwa na blokadę.
     - Ekwipunek:
         - Założony:
-            - Pierścień ochrony +1 do rzutów obronnych
+            - ⒶPierścień ochrony +1 do rzutów obronnych
             - Elficka Kolcza Koszula (chain shirt, AC13 + DEX (nie więcej niż 2), można używać magii - lekka)
             - Krasnoludzki Sihill 2d4/3d4 (jedno/dwu ręczny) + 1
-            - Śnieżka Aurila 7/10 ładunków, każdy ładunek: użyj akcji aby odzyskać spell slot do 3go poziomu, wyższe - zostają sprowadzone do 3go
+            - <details>
+                    <summary>Aleksandryt Mocy</summary>
+                        When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
+                        You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                        Spells:
+                        - Tsunami
+                        - Maelstrom
+                        - Tidal Waves
+                </details>
             - Elficki sztylet (+1 jeśli użyty z DEX, 18,19,20=CRIT)
             - Ciężka kusza
             - 35 bełtów
             - 1 Piersiówka z nalewką z mandragory, 1/2
             - naszyjnik kul ognia, 3 nieodnawialne użycia
-            - porcelanowa maska - Disguise Self at will
+            - Ⓐporcelanowa maska - Disguise Self at will
+            - <details>
+                    <summary>ⒶPierścień Ucieczki</summary>
+                        This ring has 1 charge. When attuned you can use a charge to cast the spell Teleport without using a spell slot. For every 24 hours this ring spends within 15 ft of a Place of Power, the ring regains 1 charge.e an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+                </details>
         - Schowany:
+            - Śnieżka Aurila 7/10 ładunków, każdy ładunek: użyj akcji aby odzyskać spell slot do 3go poziomu, wyższe - zostają sprowadzone do 3go
             - Szata wysokiego elfiego rodu, stealth advanage 
             - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
             - Księga magiczna +1 arcana
@@ -51,7 +64,7 @@
             - 3 czarne jedwabne szaty
             - naszyjnik z symbolem lwiogłowego pająka
             - 3 pierścionki warte po 20 - 50GP
-            - 220.3.6 gp
+            - 117.2.6 gp
             - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
             - Thieves Tools
             - 1 żetony do teleportacji
@@ -91,9 +104,7 @@
         - Świątynia Melitele
         - Kerack (eksperymantalny)
     - Plany:
-        - Obejrzeć medalion i monety znalezione w warowni w Craag An
         - wrócić do podziemnego jeziora koło Col Serrai
-        - odwiedzić Dorregaraya - co da się zrobić z chorobą
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych
         - Zaklęcia do transkrypcji:
@@ -117,21 +128,5 @@
             Można nauczyć się zaklęć innej klasy, jeśli:
                 - Poziom zaklęcia mniejszy lub równy Spellcasting Ability Modifier
                 - Zdany test nauki `Spellcasting Ability check z DC = 10 + 2x Spell Level`
-        - Choroba / Pasożyt
-        Mimo zabiegów twój stan zdrowia pogarsza się, a dwimeryt zaczyna mocniej reagować, wpływać na przebieg magii przez organizm i modyfikować go. Co więcej, fragmenty kryształków które wypluwasz zdają się powiększać, rosnąć. Przybywa ich mimo braku kontaktu z dwimerytem z zewnątrz. 
-
-| Poziom | Efekt                                                                                                                                              | 
-| :---   | ---                                                                                                                                                | 
-| 0      | Całkowite wyleczenie z infekcji                                                                                                                    | 
-| 1      | Alergia na magiczne pokarmy `CON save DC 15 || no effect`                                                                                          |
-| 2      | Rzucanie zaklęć `CON save DC 10 + spell level || spell level damage`                                                                               | 
-| 3      | Wrażliwość na **Miejsca Mocy**/lokacje z permanentnymi efektami magicznymi (ataki kaszlu, krwotoki, etc)                                           |
-| **4**  | [Detect Magic](https://5etools.com/spells.html#detect%20magic_phb) działa pasywnie, ale tylko na dotyk                                             | 
-| 5      | Rzucanie zaklęć `CON save DC 10 + spell level || spell level x d4 damage`                                                                          |
-| 6      | Natywne rzucanie [Dispel Magic](https://5etools.com/spells.html#dispel%20magic_phb) przez dotyk na bazie `CON - spellcasting ability, CON mod/day` |
-| 7      | Całkowice odcięcie od Mocy                                                                                                                         |
-| 8      | Odporność na działanie magii (resistance on magic damage, advantage on saving throws, resistance on healing)                                       |
-| 9      | Permanentnie pod wpływem [Antimagic Field](https://5etools.com/spells.html#antimagic%20field_phb) zasięg 5ft                                       |
-| 10     | Śmierć                                                                                                                                             | 
 
 - <a id='g_kasimir' pattern='Kasimir*'>Kasimir</a> - człowiek, łotrzyk, Łowca Czarownic/Potworów, łysy z brodą, dobrze zbudowany
