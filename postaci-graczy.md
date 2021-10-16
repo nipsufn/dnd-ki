@@ -36,7 +36,7 @@
             - ⒶPierścień ochrony +1 do rzutów obronnych
             - <details>
                 <summary>ⒶPierścień Ucieczki</summary>
-                    This ring has 1 charge. When attuned you can use a charge to cast the spell Teleport without using a spell slot. For every 24 hours this ring spends within 15 ft of a Place of Power, the ring regains 1 charge.e an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+                    This ring has 1 charge. When attuned you can use a charge to cast the spell Teleport without using a spell slot. For every 24 hours this ring spends within 15 ft of a Place of Power, the ring regains 1 charge.
                 </details>
             - <details>
                 <summary>Aleksandryt Mocy</summary>
@@ -142,13 +142,13 @@
     - Mechanika
         - Nowe zaklęcia czarodzieja:
             - 10XP za level zaklęcia, przy dowolnym długim odpoczynku
+            - Niestandadowe zaklęcia:
             Im więcej elementów zostaje opisane, tym trudniejszy test (w pełni losowe zaklęcie jest do odkrycia łatwe, każdy dodany element zwiększa DC).
             Formuła:
             ```
             Test Arcana z DC = 10 + Spell Level + Element Mod
             ```
             - Nauka zaklęć innych klas
-            Można nauczyć się zaklęć innej klasy, jeśli:
                 - Poziom zaklęcia mniejszy lub równy Spellcasting Ability Modifier
                 - Zdany test nauki `Spellcasting Ability check z DC = 10 + 2x Spell Level`
 
