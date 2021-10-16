@@ -22,64 +22,86 @@
         W końcu wyruszył w świat, szukając miejsca dla siebie, a może i lekarstwa na blokadę.
     - Ekwipunek:
         - Założony:
-            - ⒶPierścień ochrony +1 do rzutów obronnych
             - Elficka Kolcza Koszula (chain shirt, AC13 + DEX (nie więcej niż 2), można używać magii - lekka)
             - Krasnoludzki Sihill 2d4/3d4 (jedno/dwu ręczny) + 1
-            - <details>
-                    <summary>Aleksandryt Mocy</summary>
-                        When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
-                        You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-                        Spells:
-                        - Tsunami
-                        - Maelstrom
-                        - Tidal Waves
-                </details>
             - Elficki sztylet (+1 jeśli użyty z DEX, 18,19,20=CRIT)
             - Ciężka kusza
             - 35 bełtów
             - 1 Piersiówka z nalewką z mandragory, 1/2
             - naszyjnik kul ognia, 3 nieodnawialne użycia
-            - Ⓐporcelanowa maska - Disguise Self at will
             - <details>
-                    <summary>ⒶPierścień Ucieczki</summary>
-                        This ring has 1 charge. When attuned you can use a charge to cast the spell Teleport without using a spell slot. For every 24 hours this ring spends within 15 ft of a Place of Power, the ring regains 1 charge.e an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+                <summary>ⒶPorcelanowa maska przebierania</summary>
+                    While wearing this hat, you can use an action to cast the disguise self spell from it at will. The spell ends if the hat is removed.
+                </details>
+            - ⒶPierścień ochrony +1 do rzutów obronnych
+            - <details>
+                <summary>ⒶPierścień Ucieczki</summary>
+                    This ring has 1 charge. When attuned you can use a charge to cast the spell Teleport without using a spell slot. For every 24 hours this ring spends within 15 ft of a Place of Power, the ring regains 1 charge.e an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+                </details>
+            - <details>
+                <summary>Aleksandryt Mocy</summary>
+                    Spell focus.
+                    When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
+                    You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                    Spells:
+                    - Tsunami
+                    - Maelstrom
+                    - Tidal Waves
                 </details>
         - Schowany:
-            - Śnieżka Aurila 7/10 ładunków, każdy ładunek: użyj akcji aby odzyskać spell slot do 3go poziomu, wyższe - zostają sprowadzone do 3go
-            - Szata wysokiego elfiego rodu, stealth advanage 
-            - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
-            - Księga magiczna +1 arcana
-            - Skórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
-            - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
-            - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
-            - 2 krystaliczny kawałek dwimerytu, odbierający Moc
-            - Nalewka z mandragory, 2 butelki
-            - 6 porcji inkaustu
-            - 1 porcja kadzidła
-            - 5 porcje pyłu kamieni szlachetnych
-            - 6 porcji kredy
-            - kamienie szlachetne warte 350gp
-            - podłóżna zamknięta szkatułka
-            - pusty (?) elfi dziennik
-            - 3 czarne jedwabne szaty
-            - naszyjnik z symbolem lwiogłowego pająka
-            - 3 pierścionki warte po 20 - 50GP
-            - 117.2.6 gp
-            - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-            - Thieves Tools
-            - 1 żetony do teleportacji
-            - 2 zwoje do teleportacji
-            - fragment zaklęcia 5go poziomu
-            - Z Craag An:
+            - Odzież
+                - <details>
+                    <summary>Szata wysokiego elfiego rodu</summary>
+                        While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action
+                    </details>
+                - Ⓢ3 czarne jedwabne szaty
+                - ⓈSkórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
+            - Księgi:
+                - Księga magiczna +1 arcana
+                - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
+                - pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander
+                - fragment zaklęcia 5go poziomu
                 - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
                 - Notatki belfra z Biblioteki Craag An
+            - Komponenty:
+                - Nalewka z mandragory, 2 butelki
+                - 6 porcji inkaustu
+                - 3 porcja kadzidła
+                - 5 porcji pyłu kamieni szlachetnych
+                - 6 porcji kredy
+            - Fundusze:
+                - 117.2.6 gp
+                - kamienie szlachetne warte 350gp
+                - 3 pierścionki warte po 20 - 50GP
+            - Magiczne różności:
+                - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
+                - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
+                - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
+                - 1 zwój do teleportacji
+                - 1 kryształ na zaklęcia
+                - 2 krystaliczny kawałek dwimerytu, odbierający Moc
+                - <details>
+                        <summary>Śnieżka Aurila</summary>
+                            When attuned, increased Cold damage done by all spells by 1 per dice rolled
+                            You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                            Spells:
+                            - Cone of Cold
+                            - Ice Storm
+                            - Wall of Ice
+                            While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+                    <details>
+            - Thieves Tools
+            - Do rozpracowania:
+                - podłóżna zamknięta szkatułka
                 - Kryształowa kasetka na zaklęcie; żółta
                 - Kryształowa kasetka na zaklęcie; niebieska
-                - Różdżka, iluzja; *"Jak liść na wietrze"*
+                - Różdżka, iluzja; *"Jak liść na wietrze"*; z Craag An
+            - Do wyrzucenia:
+                - naszyjnik z symbolem lwiogłowego pająka
+            - Z Craag An:
                 - Medalion i ceramiczne (?) monety z Craag An
                 - Medalion bibliotekarza z Craag An
                 - Medalion posłusznika zakonu Zielonych Rycerzy
-                - 1 kryształów na zaklęcia
         - W Mariborze:
             - Kotwice do innych płaszczyzn:
                 - Kula wyrzeźbiona w nieskończenie zapętlający się labirynt po którym ktoś zdaje się biegać - pustynny świat, martwy w wiecznym czerwonym świetle słońca, wielkie czerwie (?), porzucone metalowe miasto
@@ -116,6 +138,7 @@
             - [Planar Ally](https://5e.tools/spells.html#planar%20ally_phb)
             - [Plane Shift](https://5e.tools/spells.html#plane%20shift_phb)
             - [Comprehend Languages](https://5e.tools/spells.html#comprehend%20languages_phb)
+            - [Teleport](https://5e.tools/spells.html#teleport_phb)
     - Mechanika
         - Nowe zaklęcia czarodzieja:
             - 10XP za level zaklęcia, przy dowolnym długim odpoczynku
