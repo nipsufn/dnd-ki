@@ -130,15 +130,15 @@
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych
         - Zaklęcia do transkrypcji:
-            - [Life Transference](https://5e.tools/spells.html#life%20transference_xge)
-            - [Planar Binding](https://5e.tools/spells.html#planar%20binding_phb)
-            - [Create Undead](https://5e.tools/spells.html#create%20undead_phb)
-            - [Elemental Weapon](https://5e.tools/spells.html#elemental%20weapon_phb)
+            - [Life Transference (3)](https://5e.tools/spells.html#life%20transference_xge)
+            - [Planar Binding (5)](https://5e.tools/spells.html#planar%20binding_phb)
+            - [Create Undead (6)](https://5e.tools/spells.html#create%20undead_phb)
+            - [Elemental Weapon (3)](https://5e.tools/spells.html#elemental%20weapon_phb)
             - nieczytelne (jeszcze) 8go poziomu
-            - [Planar Ally](https://5e.tools/spells.html#planar%20ally_phb)
-            - [Plane Shift](https://5e.tools/spells.html#plane%20shift_phb)
-            - [Comprehend Languages](https://5e.tools/spells.html#comprehend%20languages_phb)
-            - [Teleport](https://5e.tools/spells.html#teleport_phb)
+            - [Planar Ally (6)](https://5e.tools/spells.html#planar%20ally_phb)
+            - [Plane Shift (7)](https://5e.tools/spells.html#plane%20shift_phb)
+            - [Comprehend Languages (1R)](https://5e.tools/spells.html#comprehend%20languages_phb)
+            - [Teleport (7)](https://5e.tools/spells.html#teleport_phb)
     - Mechanika
         - Nowe zaklęcia czarodzieja:
             - 10XP za level zaklęcia, przy dowolnym długim odpoczynku
