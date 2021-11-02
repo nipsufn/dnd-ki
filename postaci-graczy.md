@@ -81,15 +81,15 @@
                 - 1 kryształ na zaklęcia
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - <details>
-                        <summary>Śnieżka Aurila</summary>
-                            When attuned, increased Cold damage done by all spells by 1 per dice rolled
-                            You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-                            Spells:
-                            - Cone of Cold
-                            - Ice Storm
-                            - Wall of Ice
-                            While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
-                    <details>
+                    <summary>Śnieżka Aurila</summary>
+                        When attuned, increased Cold damage done by all spells by 1 per dice rolled
+                        You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                        Spells:
+                        - Cone of Cold
+                        - Ice Storm
+                        - Wall of Ice
+                        While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+                    </details>
             - Thieves Tools
             - Do rozpracowania:
                 - podłóżna zamknięta szkatułka
@@ -125,6 +125,17 @@
         - Maribor
         - Świątynia Melitele
         - Kerack (eksperymantalny)
+    - Własne zaklęcia
+        - <details>
+            <summary>Kajetan's Reasonable Lodging</summary>
+                5th-level conjuration (ritual)
+                Casting Time: 1 minute
+                Range: Touch
+                Components: V,S,M (A model of an elven tower worth at least 250 GP, and 1 GP per person, which the spell consumes)
+                Duration: 12 hours
+                You conjure a dwelling matching the area. You and up to 10 creatures you designate when you cast the spell can enter the dwelling, but it appears to be inexplicably inaccessible to others.
+                You can create any floor plan you like that matches the exterior, but the space can't exceed 5 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
+            </details>
     - Plany:
         - wrócić do podziemnego jeziora koło Col Serrai
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana

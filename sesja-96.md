@@ -1,6 +1,6 @@
 ### Sesja 96
 1. Miasto kultu
-    - Nad ranem dopływamy do Novigradu - ogromnego miasta portowego i głównego ośrodka kultu Wiecznego Ognia. Port, mimo że mieści setki okrętów, posiada ruchliwą redę. Wśród przybijających statków są trzy ze znajomą banderą rodu Dimun. W dzielnicy portowej widzimy tysiące ludzi i wielki plac targowy.
+    - Nad ranem dopływamy do Novigradu - ogromnego miasta portowego i głównego ośrodka kultu Wiecznego Ognia. Port, mimo że mieści setki okrętów, posiada ruchliwą redę. Wśród cumujących statków są trzy ze znajomą banderą rodu Dimun. W dzielnicy portowej widzimy tysiące ludzi i wielki plac targowy.
     - Kompleks świątynny jest na osobnej wysepce, jednej z wielu w delcie Pontaru. Widzimy łączący go most, który jest remontowany.
     - Wyruszamy w poszukiwaniu zapasów. W dzielnicy zwanej Zarzeczem znajdujemy mniejszy Targ Rybny, zdaje się nastawiony bardziej na wymiany między kupcami, udaje nam się jednak korzystnie zakupić jedzenie.
     - Na tablicy ogłoszeń zauważamy, że miasto przygotowuje się do obchodów Lammas, letniego święta. Okazuje się, że świątynia jest zamknięta, potrzebne są ręce do pracy, ktoś też szukał wiedźmina na jakiegoś potwora grasującego w lasach na południowym brzegu rzeki
