@@ -8,7 +8,10 @@
     - Magią stabilizujemy nieszczęśnika i podążając za rektorką opuszczamy cmentarz, pomagając przetransportować poszkodowanego do kliniki na Szuwarach.
     - Rektor Shani zgadza się przyjąć Skovika. Okazuje się też, że Ilana ma niezbędne komponenty - pazury gryfa.
     - W zamian za swoją pomoc, Shani prosi o finansowe wsparcie dla młodej pary (Aldony i Jawunta) z okolicznej wsi, Bronowic.
-    - Dziękujemy medyczce i obiecujemy wrócić za 2-3 dni, po przedstawieniu. Tymczasem teleportujemy się na zachód, do Kerack, odebrać długo zaległe zamówienie {maga}Kajetan.
+    - Dziękujemy medyczce i obiecujemy wrócić za 2-3 dni, po przedstawieniu. Tymczasem zamiarowujemy teleportować się na zachód, do Kerack, odebrać długo zaległe zamówienie {maga}Kajetan. Oddalamy się w poszukiwaniu dobrego miejsca do dalszej podróży.
+    - Nie chcąc ściągać na siebie ciekawskich spojrzeń, zachodzimy pod jeden z mostków. Jakiś rybak przycupnięty nieopodal gwiżdże pod nosem znajomą melodię - to nikt inny jak Pan Lusterko.
+    - Lusterko, jak zwykle nie wprost, przestrzega nas przed podróżą w okolice górskie na północ od Kerack.
+    - Żegnamy "starego przyjaciela" i skaczemy na krótką wizytę do nadmorskiego miasta.
 2. Nad morze
     - W porcie w Kerrack cumuje blisko tuzin okrętów ze Skellige - łodzie rodu Drummond w liczbie sztuk jednej, dziesięć łajb Dimun oraz jedna, "nieoznakowana", z białym łbem niedźwiedzia w polu niebieskim na jednej z tarcz u burty.
     - Odwiedzamy starego wyspiarza. Nikolai niezręcznie tłumaczy Kajetanowi, że dwa tygodnie temu po jego zamówienie zjawiła się Mirna. Fant zabrała z sobą do Rawelin, na nauki w Saer Q'an, zaś dla {elfa}Kajetan zostawiła pożegnalny, nieco uszczypliwy list.
