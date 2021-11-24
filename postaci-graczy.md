@@ -67,8 +67,8 @@
                 - Nalewka z mandragory, 2 butelki
                 - 6 porcji inkaustu
                 - 3 porcja kadzidła
-                - 4 porcji pyłu kamieni szlachetnych
-                - 5 porcji kredy
+                - 3 porcji pyłu kamieni szlachetnych
+                - 4 porcji kredy
             - Fundusze:
                 - 117.3.1 gp
                 - kamienie szlachetne warte 350gp
