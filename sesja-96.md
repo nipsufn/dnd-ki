@@ -4,25 +4,25 @@
     - Kompleks świątynny jest na osobnej wysepce, jednej z wielu w delcie Pontaru. Widzimy łączący go most, który jest remontowany.
     - Wyruszamy w poszukiwaniu zapasów. W dzielnicy zwanej Zarzeczem znajdujemy mniejszy Targ Rybny, zdaje się nastawiony bardziej na wymiany między kupcami, udaje nam się jednak korzystnie zakupić jedzenie.
     - Na tablicy ogłoszeń zauważamy, że miasto przygotowuje się do obchodów Lammas, letniego święta. Okazuje się, że świątynia jest zamknięta, potrzebne są ręce do pracy, ktoś też szukał wiedźmina na jakiegoś potwora grasującego w lasach na południowym brzegu rzeki
-    - W tłumie zauważamy znajomą rosłą [wyspiarkę]Reah głośno werbującą ludzi dla Roeggnera. Jak na złość wzrok Reah wyławia z tłumu Ilanę.
+    - W tłumie zauważamy znajomą rosłą [wyspiarkę]Reah głośno werbującą ludzi dla Roegnera. Jak na złość wzrok Reah wyławia z tłumu Ilanę.
     - Reah zabiera nas na piwo do karczmy "Na Oxenfurt". Ku niezadowoleniu Ilany, Kajetan opowiada jej nieco o tym, co przytrafiło się Skovikowi, a i my poznajemy wieści:
-        - Lödbroke nie podbił Kerrack; pomógł natomiast, razem z Roeggnerem Czarnym, dokonać przewrotu - gdy Roeggner z załogą otwierali bramy siłom Eggmunda, brata Króla Viraksasa, legendarny wój w widowiskowy sposób skupił na sobie uwagę znacznej części sił zbrojnych w mieście
-        - Leiv zaręczył się z młodszą siostrą Roeggnera, Aslev; młody Drummond wydaje się być prawą ręką pirata
-        - Jest bardzo możliwe, że Roeggner zostanie Jarlem swojego rodu, gdy obecny, Holger Dimun, umrze
-        - Udział Dimunów i Drummondów w przewrocie w Kerrack powiększył rozłam między frakcjami na wyspach, niektórzy barbarzyńcy nawołują do wojny domowej
+        - Lödbroke nie podbił Kerack; pomógł natomiast, razem z Roegnerem Czarnym, dokonać przewrotu - gdy Roegner z załogą otwierali bramy siłom Egmunda, brata Króla Viraxasa, legendarny wój w widowiskowy sposób skupił na sobie uwagę znacznej części sił zbrojnych w mieście
+        - Leiv zaręczył się z młodszą siostrą Roegnera, Aslev; młody Drummond wydaje się być prawą ręką pirata
+        - Jest bardzo możliwe, że Roegner zostanie Jarlem swojego rodu, gdy obecny, Holger Dimun, umrze
+        - Udział Dimunów i Drummondów w przewrocie w Kerack powiększył rozłam między frakcjami na wyspach, niektórzy barbarzyńcy nawołują do wojny domowej
         - Lödbroke nie słucha się nikogo; niejaki Morkvarg był jedyną osobą, którą uznawał jako zwierzchnika, a i to do czasu - odmówił ataku na świątynię Freyi, będąc od tamtego czasu sobie samemu sterem i okrętem
-        - Morkvarg za swój czyn został przeklęty przez kapłanki i grasował po wyspie Hindersvjal jako wilkołak, wiecznie głodny - boginii zamieniała cokolwiek próbował zjeść w popiół; ponoć jego cierpienia rok temu ukrócił jakiś wiedźmin
+        - Morkvarg za swój czyn został przeklęty przez kapłanki i grasował po wyspie Hindersvjal jako wilkołak, wiecznie głodny - bogini zamieniała cokolwiek próbował zjeść w popiół; ponoć jego cierpienia rok temu ukrócił jakiś wiedźmin
         - Reah wybiera się na występ mistrza Jaskra; Kajetan podarował jej odpis jednego z jego wierszy, namawiając, by poprosiła o autograf
-        - W Novigradzie jest drugi, mnieszy port - rzeczny; barka jest najszybszą drogą do Oxenfurtu
+        - W Novigradzie jest drugi, mnieszjy port - rzeczny; barka jest najszybszą drogą do Oxenfurtu
     - Przy stoliku obok słyszymy grupkę bardzo pijanych studentów, którzy właśnie orientują się, że muszą wrócić na uczelnię:
-        - Henryk - histornia, ledwie kontaktuje
+        - Henryk - historia, ledwie kontaktuje
         - Iva - medycyna, nie czuje się najlepiej
         - Artur - literatura, nigdy nie dopuszczany do słowa
         - Klaus - inżynieria i magia teoretyczna, zaledwie pijany
         - Franc - inżynieria i militarystyka, też trzyma się nieźle
     - Studenci marudzą, że rektorka medycyny uparła się na przedstawienie i jego próby z okazji zbliżającego się święta Lammas. Część studentów ma ponadto jutro zajęcia.
     - Młodzieży wysyła do naszego stolika poselstwo w postaci najmniej sponiewieranego z nich z zapytaniem, czy nie chcemy się zabrać z nimi do Oxenfurtu.
-    - Oferta jest kusząca, ale stawiamy dwa warunki: płyniemy barką, a na miejcu ich koleżanka z medycyny pomoże nam załatwić spotkanie z rektorką jej katedry.
+    - Oferta jest kusząca, ale stawiamy dwa warunki: płyniemy barką, a na miejscu ich koleżanka z medycyny pomoże nam załatwić spotkanie z rektorką jej katedry.
     - Regulujemy rachunki w knajpie. Karczmarz - przysadzisty krasnolud - ma znajomy tatuaż, skrzyżowane bosak i tasak. Zupełnie jak Regan. 
     - Żegnamy się z Reah i zabieramy młodzież do Oxenfurtu barką - bełkoczących nie jest trudno namówić.
 2. Miasto nauki
@@ -39,6 +39,6 @@
     - Przed udaniem się na spoczynek wysyłamy wiadomości:
         - Ilana: pyta ojca o zdrowie i obiecuje, że będzie wysyłać wiadomości częściej
         - Kajetan: rozmawia z Margaritą:
-            - Punkty mocy: stare, uschłe drzewo w okolicy Oxenfurtu, inne w okolicy Velen, fontanna w Cyklamenie (przybytku Brona) w Kerrack (jest to też zwierciadło do dywinacji)
+            - Punkty mocy: stare, uschłe drzewo w okolicy Oxenfurtu, inne w okolicy Velen, fontanna w Cyklamenie (przybytku Brona) w Kerack (jest to też zwierciadło do dywinacji)
             - Shani nie cierpi Triss Merigold
             - Wampir i dziecko, z którym mieliśmy styczność w Ellander to niekoniecznie ta sama osoba, Kajetan dzieli się swoimi wątpliwościami na temat tej teorii

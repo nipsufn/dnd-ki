@@ -17,6 +17,7 @@
 - <a id="r_leopatis" pattern='Leopatis'>Leopatis</a> - stare bóstwo i jego kult
 - <a id="r_wodni_panowie" pattern='Wodn* Pan*'>Wodni Panowie</a> - stare bóstwa i ich kult
 - <a id="r_freya" pattern='Frey*'>Freya</a> - bogini Wyspiarzy, główny kult na wyspach Skellige
+- <a id="r_morkvarg" pattern='Morkvarg*'>Morkvarg</a> - pirat który ograbił świątynię Freyi na wyspie Hindersvjal
 - <a id='r_aen_eldrin' pattern='Aen Eldrin'>Aen Eldrin</a>
     - podgatunek elfów
     - "Lud Lasu", cztery elfy "pomagające" Brokilonowi i Eithne zaliczają się do nich

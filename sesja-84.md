@@ -12,7 +12,7 @@
     - Kajetan ucieka gryziony tysiącem natrętnych myśli, gdy Ilana idzie poszukać Ivara. Słyszy jak Ivar i Skovik kłócą się w chacie. {Paladyn}Ivar zarzuca bratu, że ucieka od swoich obowiązków i problemów, które sam na siebie ściągnął - jak z resztą zdaje się wszyscy wokół.
     - {Druidce}Ilana też się obrywa kiedy proponuje Ivarowi przejęcie jej przysięgi wobec Protektora wierząc, że pomoże mu to w nawiązaniu kontaktu z patronem. {Młody Drummond}Ivar wyjątkowo celnie wbija jej dwie szpile - ucieczkę od odpowiedzialności i bezpardonowe żądanie pomocy bez słowa podzięki.
     - Dwójka rozchodzi się w swadzie, bo Ivar musi wracać do swoich obowiązków, które - w przeciwieństwie do reszty - dzielnie bierze na swoje barki.
-    - Kajetan zastaje straszny bałagan w chatce Mirny, a samą dziewczynę śpiącą w laboratorium. Rozniosła pół domu w złości, gdy kolejna próba chodowania mandragory jej się nie powiodła.
+    - Kajetan zastaje straszny bałagan w chatce Mirny, a samą dziewczynę śpiącą w laboratorium. Rozniosła pół domu w złości, gdy kolejna próba hodowania mandragory jej się nie powiodła.
     - {Elf}Kajetan pomaga jej posprzątać, opowiada o Lentinusie i Feinwedd, które zdaje się być otoczone folklorem przypominającym nieco legendy o dziwostręcie.
     - Ilana, chcąc się odwdzięczyć Ivarowi pięknym za nadobne i wyzwolić go od niechcianego brzemienia, wraca do dyskusji o wyciąganiu Galawaina z więzienia Eithne przy Finarrinie. Początkowo przerażony i niechętny Kajetan, nieznacznie daje {druidce}Ilana znać, by przedyskutować to w bardziej kameralnym gronie, w cztery oczy.
     - {Druid}Finarrin odradza nam tak jego zdaniem irracjonalny pomysł. Boi się, że po uwolnieniu Protektora druidzi z Brokilonu mogą przestać być potrzebni. 
@@ -30,7 +30,7 @@
 4. Stary Olsa
     - Na miejscu spotykamy dwóch bardów, kilku chłopów i dwóch kupców. Rozpalają ognisko, minstrele przygrywają snując historie, alkohol zaczyna płynąć.
     - W ruinach panuje zdumiewająco przyjazna atmosfera, a ogień bucha aż miło, jakby się sam podsycał. Kajetan odkorkowuje flaszkę krasnoludzkiego bimbru i dosiada się do towarzystwa. Dowiadujemy się, że:
-        - bardowie śpiewają o chwalebnych czynach Ivara, jakich dokonuje wzdłóż granic boru
+        - bardowie śpiewają o chwalebnych czynach Ivara, jakich dokonuje wzdłuż granic boru
         - w Kerack znajduje się pewien dom uciech, zachwalany przez jednego z kupców
         - Stary Olsa był młynarzem, który postawił młyn niedługo po lądowaniu ludzi na kontynencie
         - młynarz handlował zamiennie - często walutą były trunki

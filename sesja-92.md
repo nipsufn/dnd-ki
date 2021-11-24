@@ -13,24 +13,24 @@
         - jego zdaniem jesteśmy z Lödbrokiem (który widzi siebie jako myśliwego) kwita po tym jak ukradliśmy mu Skovika; łowca może żądać satysfakcji, ale nie zabić
         - mówi, że wbrew temu, co Ilana może myśleć, ma z rozmówcą więcej wspólnego, niż podejrzewa
         - nie spotka się z nami u Starego Olzy by negocjować, ale wyśle Lödbrokea tak, by dotarł na kolejną pełnię, trzy tygodnie od teraz
-        - całe porwanie miało być przedstawieniem - wyglądające na martwe ciało Skovika miało być przedstawione Cerys, która nie upewniając się w żaden sposób, że to żeczywiście on i martwy, miała by pozwolić by "zwłoki" wylądowały u Artisa, który by {Drummonda}Skovik wskrzesił i dał
+        - całe porwanie miało być przedstawieniem - wyglądające na martwe ciało Skovika miało być przedstawione Cerys, która nie upewniając się w żaden sposób, że to rzeczywiście on i martwy, miała by pozwolić by "zwłoki" wylądowały u Artisa, który by {Drummonda}Skovik wskrzesił i dał
 mu wybór
         - pokrętnie tłumaczy, że pozwolenie {osiłkowi}Skovik na wybór na kontynencie nie uwolniło by go od zemsty Cerys, a przedstawienia nie udało by się sprzedać
         - twierdzi, że dla Cerys od wzroku ważniejsze są uczucia (w kontekście wiary w niebyłą szopkę z niby-zwłokami)
         - jego zdaniem Myszowór nie poznałby się na jego fortelu
         - bełkocze o dopadającym {Drummonda}Skovik przeznaczeniu, kiedy jedyne, co go dopadło to spiski starca z wysp
         - Lödbroke użył na {osiłku}Skovik więcej trucizny niż miał przykazane
-        - opowiada, że spotkanie Skovika i Ilany, i ich potrzeba odwiedzenia wysp to nie przypadkek
+        - opowiada, że spotkanie Skovika i Ilany, i ich potrzeba odwiedzenia wysp to nie przypadek
         - nie odnosi się do pomysłu {dziewczyny}Ilana, by to ona, pod przybraną postacią, zajęła miejsce {wyspiarza}Skovik w planowanym przedstawieniu
     - Kajetan również śni, tułając się po zakamarkach swoich wspomnień
         - {mag}Kajetan nie był zaledwie asystentem, a jednym z badaczy
         - z kamratami opracowywali jakiś eksperyment, mający zdaje się uodpornić istoty na działanie Mocy
         - Elatan poddała się doświadczeniu pierwsza, jednak szybko widać było, że coś jest nie tak. Kajetan ustawił się między źródłem zmian, a - zdaje się nieobojętną mu - elfką
         - dochodzi do wybuchu
-        - jak przez mgłę {elf}Kajetan słyszy Filavandrela, niezadowolnego z obrotu spraw i decydującego się zmodyfikować wspomnienia poszkodowanych badaczy
+        - jak przez mgłę {elf}Kajetan słyszy Filavandrela, niezadowolonego z obrotu spraw i decydującego się zmodyfikować wspomnienia poszkodowanych badaczy
     - Budzimy się w jakiejś prostej izbie. Do pokoju zagląda Maria - półelfka z Różyczki. Ilanie z miejsca rzuca się w oczy jej lekko zaokrąglony brzuch.
     - Schodzimy do karczmy na posiłek. Główna izba przypomina obozowisko - po podłodze walają się śpiwory i pakunki, jest też nawet kilka rozbitych namiotów.
-    - Walerian rozlewa kolejce pospólstwa cieńką polewkę. Po nim, jak i po reszcie ludzi widać, że w mieście nie dzieje się obecnie zbyt dobrze. Wyglądają na zmęczonych i przestraszonych.
+    - Walerian rozlewa kolejce pospólstwa cienką polewkę. Po nim, jak i po reszcie ludzi widać, że w mieście nie dzieje się obecnie zbyt dobrze. Wyglądają na zmęczonych i przestraszonych.
     - Siadamy do stołu z gospodarzami. Dowiadujemy się, że "przespaliśmy" prawie trzy miesiące. Żyjemy głównie dzięki pomocy Viggo i bandy Zyvika. To najemnicy, po tym jak pozbierali nas do kupy po walce, zostawili nas, nasze bagaże i część nagrody za gryfa w Różyczce. W międzyczasie wiele się wydarzyło:
         - Nilfgaard uderzył na północ, zajmując Majeną i Maribor, gdzie się zatrzymali z sobie tylko znanych powodów
         - Radowid nie żyje; Filippa, pozbawiona ponoć umiejętności czarowania gnije w lochu w oczekiwaniu na stos

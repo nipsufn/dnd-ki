@@ -13,7 +13,7 @@
     - Lusterko, jak zwykle nie wprost, przestrzega nas przed podróżą w okolice górskie na północ od Kerack.
     - Żegnamy "starego przyjaciela" i skaczemy na krótką wizytę do nadmorskiego miasta.
 2. Nad morze
-    - W porcie w Kerrack cumuje blisko tuzin okrętów ze Skellige - łodzie rodu Drummond w liczbie sztuk jednej, dziesięć łajb Dimun oraz jedna, "nieoznakowana", z białym łbem niedźwiedzia w polu niebieskim na jednej z tarcz u burty.
+    - W porcie w Kerack cumuje blisko tuzin okrętów ze Skellige - łodzie rodu Drummond w liczbie sztuk jednej, dziesięć łajb Dimun oraz jedna, "nieoznakowana", z białym łbem niedźwiedzia w polu niebieskim na jednej z tarcz u burty (ród Türseach?).
     - Odwiedzamy starego wyspiarza. Nikolai niezręcznie tłumaczy Kajetanowi, że dwa tygodnie temu po jego zamówienie zjawiła się Mirna. Fant zabrała z sobą do Rawelin, na nauki w Saer Q'an, zaś dla {elfa}Kajetan zostawiła pożegnalny, nieco uszczypliwy list.
     - Na miejscu zastajemy też o dziwo wnuka Nikolaia. Spotkała go niefortunna przygoda - chcąc być mężnym wdał się w bójkę z harpiami, które zaatakowały jego karawanę. Upadł i stracił przytomność. Przeżył jednak dzięki medycznej pomocy Mirny i dostarczył potrzebne narzędzia swojemu dziadkowi.
     - Zachodzimy do Cyklamenu, gdzie Ilana decyduje się porozmawiać z Lödbroke. Jej żądania zwrotu własności Skovika zostają wyśmiane, a honor {dziewczyny}Ilana zakwestionowany.

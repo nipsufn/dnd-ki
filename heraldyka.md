@@ -15,3 +15,4 @@
 - Słońce złote w polu czarnym - Nilfgaard
 - Lew złoty w polu niebieskim - Cintra
 - Szachownica pól złotych i czarnych - Verden
+- łeb niedźwiedzia z profilu w polu niebieskim - ród Türseach

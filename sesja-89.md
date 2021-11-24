@@ -22,14 +22,14 @@
         - dostarczyli napitek wyskokowy, który jak się okazało, był zatruty
         - interwencja Myrtona wywołała panikę, część kapłanów zmieniła się w zezwierzęcone potwory
         - ktoś w szamotaninie podpalił skład z alkoholem, jak gruchnęło to po kamienicy nie było co zbierać
-        - Walerian, podbnie jak kilku innych gości tego feralnego wydarzenia, do tej pory boryka się ze skutkiem ubocznym trutki - paraliż objął połowę jego twarzy
+        - Walerian, podobnie jak kilku innych gości tego feralnego wydarzenia, do tej pory boryka się ze skutkiem ubocznym trutki - paraliż objął połowę jego twarzy
     - Karczmarka dziękuje nam za lek i oferuje wygodny pokój. Płacimy za nocleg i kolację, po czym udajemy się na spoczynek.
     - Z pokoju Kajetan wysyła wiadomości:
         - do Brona: Niejaki Dyjin Ognaj na zlecenie Cerys szuka jak się okazuje nie tylko Skovika, ale już też naszej dwójki (to akurat przez akcję z wozem); jego rzekomy wspólnik, Lödbroke, też wyspiarz, jak dotąd nie wrócił do miasta
         - do Leiva: dowiadujemy się, że dwaj wyspiarze to żywe legendy; nie ma lepszego łowczego niż Ognaj, a Lödbroke jest człowiekiem bez klanu i bez wodza, twierdzi, że odpowiada tylko przed samymi bogami; {młody Drummond}Leiv przestrzega przed wdawaniem się z nim w walkę - kiedy o nim opowiada, można z łatwością wyczuć strach i respekt
     - Ilana, z trudem uprosiwszy Kajetana o kryształ, wysyła wiadomość do bezpańskiego łowcy. Oferuje mu pieniądze lub przysługę za jakiekolwiek informacje o truciźnie toczącej Skovika. Odpowiada jej gromki śmiech i propozycja nie do odrzucenia: mamy 3 dni aby oddać mu {osiłka}Skovik, nim odpłynie na wyspy, a wtedy bardzo możliwe, że Skovik już nigdy się nie obudzi.
     - Łowca robi wrażenie jakby znał nas i obserwował już od dłuższego czasu. Nie zaskoczyła go ani wiadomość {druidki}Ilana, ani też jej forma - zupełnie jakby spodziewał się kontaktu z naszej strony.
-3. Powrót do światyni
+3. Powrót do świątyni
     - Schodzimy na śniadanie. Przysiada się do nas Kasimir. Twierdzi, że wyczuł czary Kajetana i przyszedł sprawdzić czy to my, czy ktoś jeszcze łamie prawo.
     - Myrton poinformował Kasimira, że możemy się któregoś dnia zjawić od strony świątyni. Jakże wspaniałomyślnie zaoferował, że charytatywnie podejmiemy się zlecenia, jeśli jakieś akurat się znajdzie.
     - Tak się składa, że komendant Kasimir ma dla nas zlecenie: jakiś elfi duch najpierw nawiedzał jeden z domów w dolnych wałach, a później wymordował jego mieszkańców i każdego, kto od tamtej pory postawił tam nogę.

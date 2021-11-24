@@ -4,7 +4,7 @@
     - Kajetan, nie wiedzieć czemu, nie może męczyć Kaspara wiadomościami.
     - Ilana kontynuuje wymianę wiadomości z kamienną tabliczką. Szybko wychodzi na jaw kłamstewko Lamberta - Keira nie napisała tego wieczora ni jednej wiadomości, to on podszywał się pod {czarodziejkę}Keira.
     - Ich drogi rozeszły się, bo zmartwychwstała Keira bawi się w politykę w Aedirn. {Wiedźmin}Lambert poluje na potwory w Górach Sinych. Odpisał {druidce}Ilana, bo "lepsze to od gadania z koniem".
-    - Lambert dość niechętnie dzieli się z Ilaną przypuszczeniami co do potwora - z opisu obstawia bruksę lub alpa (czyli wampiry). Wiedźmini na ogół walczą z nimi srebrem i specjalnym eliksirem-trucizną, zwanym Czarnym Miodem, który piją przed walką aby zatruć potwora, gdy ten się w nich wgryzie.
+    - Lambert dość niechętnie dzieli się z Ilaną przypuszczeniami co do potwora - z opisu obstawia bruxę lub alpa (czyli wampiry). Wiedźmini na ogół walczą z nimi srebrem i specjalnym eliksirem-trucizną, zwanym Czarnym Miodem, który piją przed walką aby zatruć potwora, gdy ten się w nich wgryzie.
     - Udajemy się na spoczynek. Ilanę nachodzi w nocy dziwny, erotyczny sen, z którego rano nic nie pamięta. {Druidka}Ilana budzi się spocona i lekko zmęczona.
 2. Pracowity dzień
     - Przy śniadaniu zauważamy w kolejce ślepego dziada proszalnego, tym razem w pojedynkę, bez wnuczki.
@@ -45,10 +45,10 @@
     - Skovik ma się dobrze - jego stan jest bez zmian, trochę tylko zarósł zielenią, ale kapłanki, mimo braku czasu, doglądały go co chwilę.
     - Zdaje się, że podświadomie {wyspiarz}Skovik reaguje na bliskość {druidki}Ilana - jego sen staje się bardziej niespokojny.
     - Ilana prosi Iolę o powtórzenie transu, w którym już raz uczestniczyła w świątyni. Chce spróbować odwiedzić sen Skovika i pomóc mu z czymkolwiek się mierzy. {Osiłek}Skovik śni koszmar:
-        - znajduje się na Wyspach, w tle widać zrójnowaną osadę i warownię rodu Drummond, także popadającą w ruinę
-        - przez okolicę zdaje się przeszed pożar lub wojna
+        - znajduje się na Wyspach, w tle widać zrujnowaną osadę i warownię rodu Drummond, także popadającą w ruinę
+        - przez okolicę zdaje się przeszedł pożar lub wojna
         - na gęsto usianych palach są nabici mieszkańcy - wojowie, ale też kobiety i dzieci
-        - Skovik klęczy przy kurchanie, obok niego, z kikutów uschniętego drzewa, wisi łysy starzec z długą, siwą brodą i tabliczką głoszącą "zdrajca"
+        - Skovik klęczy przy kurhanie, obok niego, z kikutów uschniętego drzewa, wisi łysy starzec z długą, siwą brodą i tabliczką głoszącą "zdrajca"
         - {wyspiarz}Skovik znajduje się w oku cyklonu; Ilana musi zmagać się z silnym wiatrem by do niego dotrzeć
         - gdy podchodzi bliżej, Skovik zdaje się dostrzegać jej obecność; łapie go za rękę, a w tle jakiś obcy, złowrogi głos oznajmia: __"to się stanie jeśli nie popłyniesz na Skellige"__
     - Wizja kończy się. Ilana dostrzega, że Skovik wyraźnie się nieco uspokoił.
@@ -71,4 +71,4 @@
         - Ida rozpuszczała plotki wg. których mielibyśmy nie żyć
         - Shani może być w stanie pomóc nam oczyścić krew Skovika z trucizny, jest rektorką Katedry Medycyny w Oxenfurcie
         - Kajetan prosi Keirę żeby ta spróbowała wybadać dlaczego Filavandrel i Ida chcą odprawić go na tamten świat
-    - Elf{Kajetan}, nie mogąc wysłać wiadomości do Mirny, kontaktuje się z Bronem. Ze wzgędu na sytuację w Kerrack, stary łotrzyk wysłał dziewczynę{Mirna} na termin u alchemika mieszkającego w latarni morskiej w Cidaris.
+    - Elf{Kajetan}, nie mogąc wysłać wiadomości do Mirny, kontaktuje się z Bronem. Ze względu na sytuację w Kerack, stary łotrzyk wysłał dziewczynę{Mirna} na termin u alchemika mieszkającego w latarni morskiej w Cidaris.

@@ -194,6 +194,8 @@
         - największa wyspa na Skellige
     - <a id='l_undvik' pattern='Undvik'>Undvik</a>
         - jedna z wysp Skellige, dom lodowych gigantów
+    - <a id='l_hindersvjal' pattern='Hindersvjal'>Hindersvjal</a>
+        - wyspa na Skellige
     - <a id='l_fornhala' pattern='Fornhal*'>Fornhala</a>
         - jedna z osad na Wyspach
         - siedziba Vildcaarlów

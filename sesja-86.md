@@ -13,7 +13,7 @@
 2. Okoliczny folklor
     * Wyruszamy znaleźć rzemieślnika strugającego wieżę {maga}Kajetan, do szemranej części aglomeracji, której radzono nam unikać.
     * W drodze mijamy tawernę. Zwabiona skoczną melodią Ilana nalega aby zatrzymać się w melinie "Pod Krabem i Beloną", kusząc piwem. Piwo okazuje się kwaśne i słabe, ale krótkowłosa, urocza minstrelka śpiewa o okolicznym wilkołaku, którego kila dekad temu odczarował wiedźmin miast bestię ubić. Historia rzecze, że chłop ten został jednak wygnany przez nieufnych wieśniaków.
-    * Przy jednym ze stołów zaczyna się robić tłoczno od wytykających nas bywalców-obwiesiów. Pomio marudzenia i protestów Kajetana, wysłuchujemy całego utworu. Ilana zauważa też jakiegoś zakapturzonego jegomościa przyglądającego nam się z cienia półpiętra nad barem.
+    * Przy jednym ze stołów zaczyna się robić tłoczno od wytykających nas bywalców-obwiesiów. Pomimo marudzenia i protestów Kajetana, wysłuchujemy całego utworu. Ilana zauważa też jakiegoś zakapturzonego jegomościa przyglądającego nam się z cienia półpiętra nad barem.
     * Piosenka się kończy, opuszczamy lokal i udajemy się do wyspiarzy Kajetana. Za nami idzie pół tuzina obwiesiów z tawerny - jeden miast ręki ma hak rybacki.
     * Oprychy nie dadzą nam spokoju dopóki nie odejmą {elfowi}Kajetan ręki, którą ich prowodyr stracił w niedawnym spotkaniu z magiem na molo.
     * Wywiązuje się krótka utarczka, z której menele uciekają spanikowani znikającymi ludźmi, wilkołakiem i błyskawicami.
@@ -33,7 +33,7 @@
         * dziewczyny pracujące rotują i mieszkają w Sotoninie, odpowiada za nie Jenne
         * urzędnik uważa, że w sprawę może być zamieszany właściciel Cyklamenu, Konrad de Vett, i jego prawa ręka, Bron
     * Opuszczamy Basztę, by spróbować wreszcie znaleźć rzemieślnika z wysp, Nikolaia.
-    * Znjadujemy go wpatrzonego w horyzont. Przy chatce, z której widać zatokę i port, starszy pan opowiada nam o opóźnieniu - jego wnuk, Otyg, miał mu przywieźć z Cidaris specjalne dłutko, ale jeszcze nie wrócił. Jeśli pomożemy go odnaleźć - i narządko - praca będzie terminowa, obiecuje też upust, którego Kajetan uprzejmie odmawia.
+    * Znajdujemy go wpatrzonego w horyzont. Przy chatce, z której widać zatokę i port, starszy pan opowiada nam o opóźnieniu - jego wnuk, Otyg, miał mu przywieźć z Cidaris specjalne dłutko, ale jeszcze nie wrócił. Jeśli pomożemy go odnaleźć - i narządko - praca będzie terminowa, obiecuje też upust, którego Kajetan uprzejmie odmawia.
     * Dowiadujemy się, że chłopak szedł na północ, raczej przez Vole.
     * Kajetan przedstawia Skovika jako druida, ale fortel chyba się nie udaje. Skovik i Nikolai zdają się rozpoznawać siebie nawzajem, każdy z opowieści.
     * W międzyczasie Ilana poluje na dziwnie zachowującą się mewę. Mewa jest wygłodniała, bo ostatni raz jadła tydzień temu, gdy była jeszcze miejscowym szewcem. 
@@ -52,8 +52,8 @@
     * Wieczorem, przy Mirnie, {elf}Kajetan odbywa rozmowę z Zangenisem:
         * mag miał też styczność z Wranami, uniknął losu Kajetana usuwając ciało ze swojej ręki - pod rękawicą nie ma nic poza animowanymi kośćmi
         * "Wężowa Pani" w Risbergu była efektem eksperymentów magów z genami Wranów
-        * jaszczuroludzi wybiła pospolita grypa
-        * strażnik "zero" został stworzony przez maga, o którym już słyszeliśmy w kontekście góry Kremora, ale którego imię spowite jest tajemnicą
+        * {jaszczuroludzi}Wran wybiła pospolita grypa
+        * strażnik "zero" został stworzony przez maga, o którym już słyszeliśmy w kontekście góry Cremora, ale którego imię spowite jest tajemnicą
         * w Cytadeli znajduje się szkielet Wrana, któremu, z pomocą Zangenisa, można by zadać kilka pytań
         * do czegoś takiego trzeba by jednak unieszkodliwić strażników
         * tych tematów generalnie nie porusza się wśród magów

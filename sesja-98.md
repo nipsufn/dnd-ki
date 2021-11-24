@@ -19,15 +19,16 @@
 	- {Druidka}Mirna nadal trochę się dąsa. Jest zafascynowana "wizytą" i na początku nie może uwierzyć, że Kajetan tego dokonał. Szybko jednak odzyskuje rezun i opowiada, co u niej:
 		- czuła się porzucona przez Kajetana, kiedy ten, po wyruszeniu do Ellander, przez długi czas nie dawał znaku życia
 		- próbowała wysyłać listy, ale adresowała je nie do miasta, a do świątyni i do banku, bo powiedziano jej, że musiałaby wskazać jakiś konkretny przybytek w mieście, do którego poczta miałaby trafić
+		- jej termin w Rawelinie dobiega końca - za jakiś tydzień powinna być z powrotem w Kerack
 	- Opiera się o krzesło, na którym wiszą jej ubrania i nagle przerywa zaklęcie {elfa}Kajetan.
 	- Kajetan paskudnie obrywa sprzężeniem zwrotnym. Szybko odnawia połączenie i tłumaczy Mirnie, co zaszło. Sprawcą tego okazuje się być przypięta do ubrań broszka, którą {dziewczyna}Mirna dostała od Wielebnego z przykazem noszenia wszędzie ze sobą. Broszka miała służyć do identyfikowania jej w mieście, ale jak się okazuje, ma też inną funkcję, o której to już nikt {druidki}Mirna nie raczył poinformować - stwarza barierę dla magii komunikacyjno-lokalizującej.
 	- Żegna się z obietnicą częstszego kontaktu, po czym postanawia skontaktować się z zamaskowanym kamratem Hazima. Nie wiedząc jednak jak dokładnie wygląda jego rozmówca, na cel obiera sobie samego Hazima.
 	- Kajetan materializuje się w ciemnym lokum Hazima. Zauważa, że tym razem jego medium jest kawa. Swoim przybyciem straszy innych gości przybytku i ptactwo. Jak się okazuje, Hazim, oprócz poczty, prowadzi w tym miejscu spelunę z kawą, herbatą i czymś jak fajka, tylko o bardziej orientalnej, skomplikowanej budowie.
 	- Sam Hazim siedzi z Czcigodnym na osobności, obaj rozparci na poduszkach, przy niskim stoliku z postawioną nań rzeczoną fajką. Wydają się być pod wpływem jakiegoś lekkiego narkotyku, być może właśnie z tegoż urządzenia.
-	- Kajtean odbywa... ciekawą rozmowę z Czcigodnym, z której to wynurza się kilka rzeczy:
+	- Kajetan odbywa... ciekawą rozmowę z Czcigodnym, z której to wynurza się kilka rzeczy:
 		- Mirna nie potrafiła przetłumaczyć alchemicznych traktatów, które dostała od Kajetana, więc podzieliła się nimi z Inżynierem i poprosiła o pomoc w translacji
 		- {druidka}Mirna jest na naukach u Inżyniera - tego samego, który szantażował nas w Dorian, Pod Mantikorą, kiedy próbowaliśmy wyjaśnić sprawę dziwnego potwora
-		- rozmówca zamierza rozpocząć produkcję "płynnej magii" w oparciu o tłumaczone dokumenty i sprzedawać je zarówno Nilfgrardczykom jak i Nordlingom
+		- rozmówca zamierza rozpocząć produkcję "płynnej magii" w oparciu o tłumaczone dokumenty i sprzedawać je zarówno Nilfgaardczykom jak i Nordlingom
 		- docieka również, z kąd pochodzi ta wiedza, kusząc pieniędzmi
 2. Krótka rozłąka - sprawunki Ilany
 	- Ilana po pożegnaniu Kajetana ptasim posłańcem wysyła wiadomość do Margarity. Oferuje swoją pomoc dopóki przebywa w Ellander. Niestety nie otrzymuje odpowiedzi - ptak albo nie znalazł adresatki, albo ta nie czuje się zainteresowana propozycją.

@@ -15,7 +15,7 @@
         - szewc został znaleziony martwy jako ostatni; leżał na schodach ze skręconym karkiem, wyglądał jakby przed czymś uciekał
     - W tym czasie Ilana nadaje wiadomość. Rola posłańca przypada grubemu kocurowi. Proponujemy dwie daty: dziś wieczór lub nazajutrz. Odpowiedź ma zostać dostarczona do Różyczki.
     - Bierzemy pokój na noc i siadamy przy napitku. Ilana podłapuje rozmowę między krasnoludem i dwoma niziołkami. Dyskutują o tym, że gryf się rozpanoszył na dobre, w związku z czym do miasta zjechało kilku śmiałków. Trzeba więc podnieść ceny za strzały, kusze i tym podobną broń zasięgową.
-    - Kiedy siedzimy przy piwie do karczmy wpada czerwony jak cegła Hans Krammer - bez włosów i bez brody.
+    - Kiedy siedzimy przy piwie do karczmy wpada czerwony jak cegła Hans Kranmer - bez włosów i bez brody.
     - Zaproszony do stolika opowiada, że wiózł partię drewna ze swojego tartaku, gdy nadleciał gryf, porwał jego juczną kozę, roztrzaskał wóz z drewnem, a jego samego ozdobił kloaką na odchodne. Smrodu nie dało się zmyć, więc {krasnolud}Hans był zmuszony ogolić się na gładko. Zapłaci nam 250GP za zmycie tej zniewagi i dostarczenie mu łba bestii.
     - Udajemy się na spoczynek. W pokoju Kajetan na prośbę Ilany wysyła dwie wiadomości:
         - Bron: na mocy jakiegoś przepisu, łowca Cerys skumał się z instygatorem i ten musi mu pomagać w rozwiązaniu sprawy zbiega; morderca zaś zniknął, podobnie jak bardowa mandolina
@@ -26,12 +26,12 @@
     - Obiecujemy zrobić dziś zwiad i zająć się jutro sprawą. {Komendant}Kasimir może oddelegować z nami kapłana, który pomoże nam oczyścić dom. Poinformuje też strażników pilnujących posiadłości aby nam się nie naprzykrzali i wpuścili nas na rekonesans. 
     - Kajetan korzystając ze sposobności przygląda się przez sowę gniazdu. Głaz, na którym jest zbudowane faktycznie przypomina klepsydrę, a woda, choć dawno nie padało, ma niezmieniony poziom. Na kamieniu pod mchem są wyryte jakieś inskrypcje. {Elf}Kajetan rozpoznaje jedną ze starych run oznaczającą wodę.
     - Niestety Kasimir stacjonuje w tym mieście od niedawna, nie ma więc pojęcia gdzie dokładnie może się znajdować opisywane przez Kajetana górskie jeziorko.
-    - Idąc pod strażnicę Ilana zauważa znajomy wóz handlarza z Kaedwen zaparkowany pod Kuropatwą i szarpiącego się w sttajni sporego, pięknego rumaka. Zostawia Kajetana samego z biznesem i podchodzi do stajni.
-    - Właściciele wozu i dwóch rumaków to piątka Kaedweńczyków: Ure, Kraska, Zywik (głowa interesu) i Lud - weterani Burej Chorągwi oraz Ywi zwany Drabem (o jakże zgodnej fizjonomii). Wszyscy są specjalistami w łuku.
+    - Idąc pod strażnicę Ilana zauważa znajomy wóz handlarza z Kaedwen zaparkowany pod Kuropatwą i szarpiącego się w stajni sporego, pięknego rumaka. Zostawia Kajetana samego z biznesem i podchodzi do stajni.
+    - Właściciele wozu i dwóch rumaków to piątka Kaedweńczyków: Ure, Kraska, Zyvik (głowa interesu) i Lud - weterani Burej Chorągwi oraz Ywi zwany Drabem (o jakże zgodnej fizjonomii). Wszyscy są specjalistami w łuku.
     - Ilanie udaje się uspokoić konia, czym zyskuje zainteresowanie Ure, ospowatego Kaedweńczyka z wyszczerbionym uśmiechem. Okazuje się, że banda ze wschodu zjechała do miasta zapolować na gryfa. Podobno w ich okolicach roi się od tych bestii, więc mają już wprawę.
     - W tym czasie Kajetan dowiaduje się od kapitana co nieco o zleceniu. Za bestię jest 400GP nagrody, zgłosiło się już kilku chętnych. Na dowód należy przynieść łeb zwierza, ale nie trzeba go zdawać - ot, można zachować na pamiątkę.
-    - Ilana zdradza, że wie gdzie gryf gniazduje. Zywik proponuje jej mały pojedynek łuczniczy. Kajetan swoją magią dopomaga strzałom {dziewczyny}Ilana aby zrobić lepsze wrażenie. Turniej kończy się zwycięstwem Zywika, ale głównie dlatego, że swoją lekką przewagę w punktach zdobył strzelając dwoma strzałami naraz.
-    - Po próbie sił Zywik zaprasza nas na piwo. Trochę krzywi się na metody Kajetana - ma uraz do magów po widowiskowym całospaleniu przez Sabrinę Glevissig kwiatu rycerstwa obu stron konfliktu kaedweńskiego.
+    - Ilana zdradza, że wie gdzie gryf gniazduje. Zyvik proponuje jej mały pojedynek łuczniczy. Kajetan swoją magią dopomaga strzałom {dziewczyny}Ilana aby zrobić lepsze wrażenie. Turniej kończy się zwycięstwem Zyvika, ale głównie dlatego, że swoją lekką przewagę w punktach zdobył strzelając dwoma strzałami naraz.
+    - Po próbie sił Zyvik zaprasza nas na piwo. Trochę krzywi się na metody Kajetana - ma uraz do magów po widowiskowym całospaleniu przez Sabrinę Glevissig kwiatu rycerstwa obu stron konfliktu kaedweńskiego.
     - Finalnie dobijamy targu z Kaedweńczykami. Pojutrze ruszamy na gryfa, ale mamy nie uszkodzić piór ani szponów, które są dla nich najcenniejsze. Do tego czasu chłopaki przygotują nam wyprawkę.
 	- Banda generalnie jedzie do Ban Glen
 4. Dom strachów

@@ -15,21 +15,21 @@
         - w jaskini, po drugiej stronie balkonu, ktoś zaczął drążyć drugie przejście
         - obraz zasłaniający zejście do piwnicy przedstawia, zdaniem Kasimira, nieistniejący zameczek w widłach Buiny i Nimnaru
         - znajdujemy też nieco mosiężnych sztućców, podłużne zamknięte pudełko, 3 pierścionki, trochę złota i dwa obrazy:
-            - "__Podróżniczka__" - przedstawia elfkę kojarzącą nam się z właśnie odprawioną Banshee, w identycznym płaszczu jak ten, który znaleźliśmy; w rękach ma dzienniczek z którego wyciągneliśmy kawałek zaklęcia; Kajetanowi zdaje się, że widział ją kilka razy w Górach Sinych; 
+            - "__Podróżniczka__" - przedstawia elfkę kojarzącą nam się z właśnie odprawioną Banshee, w identycznym płaszczu jak ten, który znaleźliśmy; w rękach ma dzienniczek z którego wyciągnęliśmy kawałek zaklęcia; Kajetanowi zdaje się, że widział ją kilka razy w Górach Sinych; 
             - autoportret z niedokończonym mężczyzną w tle, z ręką na ramieniu autorki; sygnowany podpisem "ELP"
         - akt własności mieszkania szewca udaje nam się znaleźć w skromnym sejfiku; dokument wymienia z nazwiska Edgara Buttes, niech mu ziemia lekką będzie
     - Setnie umęczeni wracamy do Różyczki. Zastajemy tam Viggo z Janusem. {Zielarz}Viggo przyjął nasze zaproszenie, gawędzimy przy kolacji:
         - malarka była dobrze sytuowana, w mieście od jakiegoś roku, w bliźniaku mieszkała z prawa zasiedzenia(?)
         - pazury Gryfów czernieją w obecności trucizn, poza tym serce i jaja mogą być używane w procesach alchemicznych
         - zapytany, czy nie potrzebuje jakiejś przysługi, Viggo prosi by upewnić się, że profesor Szezlok z Oxenfurtu, specjalista od magii teoretycznej, jest w dobrym zdrowiu po zamieszkach na uniwersytecie - możliwe, że mógłby pomóc jego małżonce, Sybil
-        - {zielarz}Viggo wspomina o prymusce z katedry medycyny, Shanni, która także powinna coś wiedzieć o dializie
-        - Oxenfurt posiada katedrę magii teoretycznej, której ani Radowid, ani Łowcy nie gnebią - sama uczelnia jest apolityczna i dobrze się trzyma
-    - Pożegnawszy Vigga udajemy się na spoczynek. Ilana znów śni dziwny sen o Skoviku. Tym razem ma jednak więcej kontroli. W jaskini, oprócz Skovika jest ona sama i trzecia postać: Lödbroke. Wszyscy troje są pobróżdżeni i w skrwawionych bandażach. Za nimi czają się niedźwiedzie. Ilana czuje szczęki zaciskające się na jej szyi. Potem ciemność, z której budzi się na powrót w jaskini. Słysząc maniakalny śmiech Lödbrokea w tle obserwuje, jak jej rany goją się w mgnieniu oka.
+        - {zielarz}Viggo wspomina o prymusce z katedry medycyny, Shani, która także powinna coś wiedzieć o dializie
+        - Oxenfurt posiada katedrę magii teoretycznej, której ani Radowid, ani Łowcy nie gnębią - sama uczelnia jest apolityczna i dobrze się trzyma
+    - Pożegnawszy Vigga udajemy się na spoczynek. Ilana znów śni dziwny sen o Skoviku. Tym razem ma jednak więcej kontroli. W jaskini, oprócz Skovika jest ona sama i trzecia postać: Lödbroke. Wszyscy troje są pobrużdżeni i w skrwawionych bandażach. Za nimi czają się niedźwiedzie. Ilana czuje szczęki zaciskające się na jej szyi. Potem ciemność, z której budzi się na powrót w jaskini. Słysząc maniakalny śmiech Lödbrokea w tle obserwuje, jak jej rany goją się w mgnieniu oka.
 2. Dzień by odetchnąć
     - Ranem Ilana budzi się w poszarpanej pościeli. Tknięta przeczuciem prosi Kajetana o wysłanie wiadomości do Rei. Dowiadujemy się, że:
         - Lödbroke to skurwysyn
         - żeglował na "Postrachu Mórz"
-        - z Morkwargiem napadli na Ogród Freyi
+        - z Morkvarg napadli na Ogród Freyi
         - łowca nie jest Wildcarlem
         - jego przywódca/herszt/przełożony (którego jednak chyba ma) jest wilkołakiem
         - wyzwany i pokonany, zrobi czegokolwiek się od niego nie zażąda
@@ -45,11 +45,11 @@
         - Triss Merigold przywiozła ze sobą jakiś eskel, ale wiedźmin nie chce powiedzieć co to takiego
     - W nocy Ilana ma znów ten sam sen. Tym razem klęczą tylko ona i Skovik. Wokół leżą zwłoki kilkorga ludzi, w tym Lödbrokea, a Ilana w zakrwawionych dłoniach trzyma jego serce. Skovik patrzy na nią z niemą aprobatą. Za {druidką}Ilana coś wydaje wilczy warkot i znów na jej szyi zaciskają się kły. Tym razem jednak budzi się w jaskini bez ran, za to z posmakiem krwi z nadgryzionego serca.
 3. Na Gryfa
-    - Wyruszamy w górę Iny, przez Dornhal, do jednego z jej źródeł, z bandą Zywika.
+    - Wyruszamy w górę Iny, przez Dornhal, do jednego z jej źródeł, z bandą Zyvika.
     - W drodze nocami męczy Ilanę ten sam sen, ale z różnymi zakończeniami. W jednym z nich, oprócz serca łowcy, {druidka}Ilana trzyma też serce Skovika, a głos wielkiego, szarego wilka mówi, że to jej przeznaczenie.
     - Podróż zajmuje nam kilka dni. W drodze gryf zauważa nas na terytorium, które uznał za swoje, jednak dzięki wiedzy Kaedweńczyków unikamy przedwczesnej potyczki.
-    - U stóp gór rozdzielamy się. Ilana, Kajetan i Zywik zasadzą się na bestię w jej leżu, a reszta bandy przyciągnie jego uwagę i wymęczy w obozowisku
-    - Samotrzeć docieramy do jeziorka. Napisy na obelisku na środku są wyryte w dialekcie druidycznym, jednak {dziewczyna}Ilana, słysząc komentarz {elfa}Kajetan na temat druidów - morderców i gwałcicieli, jest bardzo dotknięta. Dokładną treść inskrypcji zachowuje dla siebie, stwierdając tylko, że jej zdaniem Kajetan nic nie wskóra, bo nie jest godzien i że już nic mu więcej nie powie.
+    - U stóp gór rozdzielamy się. Ilana, Kajetan i Zyvik zasadzą się na bestię w jej leżu, a reszta bandy przyciągnie jego uwagę i wymęczy w obozowisku
+    - Samotrzeć docieramy do jeziorka. Napisy na obelisku na środku są wyryte w dialekcie druidycznym, jednak {dziewczyna}Ilana, słysząc komentarz {elfa}Kajetan na temat druidów - morderców i gwałcicieli, jest bardzo dotknięta. Dokładną treść inskrypcji zachowuje dla siebie, stwierdzając tylko, że jej zdaniem Kajetan nic nie wskóra, bo nie jest godzien i że już nic mu więcej nie powie.
     - Widocznie skłóceni, zaczynamy walkę z nie najlepszych pozycji. Nie udaje nam się zaskoczyć Gryfa, jednak, dzięki łutowi szczęścia i szczypcie przygotowań, pokonujemy go łatwiej niż się spodziewaliśmy.
     - Czekając aż nasze wsparcie upora się z oporządzeniem truchła, Kajetan przygotowuje aleksandryt do użycia. W tym celu wykorzystuje jeziorko - punkt mocy, na którym stoi obelisk.
     - Ilana powoli dochodzi do siebie po tym jak oślepiony gryf zrzucił ją z wysokości. Szczęśliwy traf sprawił, że trafiła w wodę, inaczej nie byłoby co zbierać. Kątem oka obserwuje poczynania {elfa}Kajetan.

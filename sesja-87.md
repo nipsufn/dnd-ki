@@ -32,9 +32,9 @@
 	- Próbujemy nakłonić bandę sierot do współpracy - bezpośredniej, z pominięciem Franca - zapłacimy za informacje o kręcących się po mieście rudych osobach które przybyły mniej-więcej w tym samym czasie co bard, może po nim, ale przed jego śmiercią.
 	- Kajetan, chcąc wybadać co naprawdę wie koza, rzuca rzadko używany czar, Wykrycie Myśli. Widzi, że bandzior odpowiada tak szczerze jak potrafi.
 	- Rozluźniając koncentrację, {mag}Kajetan pozwala błądzić zaklęciu po myślach otaczających go istot - nagle napotyka się na "mam cię!" połączone z mentalnym obrazem jego postaci. Mając w głowie ten obraz, zbliża się w kierunku, z którego musi patrzeć śledząca go osoba, idąc prosto w zaułek.
-	- Uprzedzony, nie daje się zaskoczyć atakiem całkowicie. Wywiązuje się krótka szarpanina między Kajetanem a zakapturzoną postacią w procelanowej masce, która oprócz sztyletu dzierży w dłoni różdżkę.
+	- Uprzedzony, nie daje się zaskoczyć atakiem całkowicie. Wywiązuje się krótka szarpanina między Kajetanem a zakapturzoną postacią w porcelanowej masce, która oprócz sztyletu dzierży w dłoni różdżkę.
 	- Skrytobójczyni to postać z przeszłości {elfa}Kajetan, elfka o imieniu Elatan. Atakując Kajetana przekazuje mu "pozdrowienia" od Filavandrela.
-	- Zaalarmowana Ilana doskakuje widząc jak Kajetan zostaje ugodzony niemal na wylot i osuwa się silnie brocząc krwią. W zaułku zamienia się w niedźwiedzia i zmusza {czarodziejkę}Elatan do ucieczki, po czym zajmuje się potrubowanym {towarzyszem}Kajetan.
+	- Zaalarmowana Ilana doskakuje widząc jak Kajetan zostaje ugodzony niemal na wylot i osuwa się silnie brocząc krwią. W zaułku zamienia się w niedźwiedzia i zmusza {czarodziejkę}Elatan do ucieczki, po czym zajmuje się poturbowanym {towarzyszem}Kajetan.
 	- Skrytobójczyni w wyniku starcia z niedźwiedziem traci swoją maskę. Ilana dostrzega, co skrywał bibelot: połowę twarzy pozbawioną jakiejkolwiek żywej tkanki.
 	- Kajetan, który cudem uszedł ze starcia z życiem, przygląda się masce. Odkrywa na bibelocie aurę iluzji.
 	- {Elf}Kajetan upiera się, że nie będzie siedział na skrzyniach z rybami i czekał aż jego koleżanka po fachu wróci dokończyć dzieła. Jest zbyt zmęczony aby w jakikolwiek sposób przydać się w pościgu, a łowczy ma za dużą przewagę, by Ilana dała sobie radę samodzielnie, nawet pod postacią zwierzęcia. Decydujemy się na ciepły posiłek i krótki odpoczynek w Natura Rerum.
@@ -44,8 +44,8 @@
 	- W drodze do noclegu zaczepia nas kiełbasiarz i przekazuje wiadomość od Brona, który przypomina o spotkaniu. Udajemy się więc na rozmowę:
 	    - lichwiarz ma ładną mapę królestw północy, od Redanii po Cintrę
 		- gnomi posłaniec przynosi wieści: łowczy wyjechał z miasta kilka godzin temu, po krótkiej dyskusji na bramie z ludźmi De Santisa i De Lettenhovem.
-		- Lettenhove podobno znalazł kruczek prawny, który pozwolił mimo sprzeciwów tych od De Santisa wypuścić łowczego działającego rzekomo z ramienia Skellige, wyworzącego poszukiwanego listem gończym zbiega
-		- O losach Otyga może wiedzieć ktoś o mianie "Wielebnego" w Ravelin, który z resztą był kapłanem, jednym z niewielu, którzy przetrwali pogrom w Kerrack
+		- Lettenhove podobno znalazł kruczek prawny, który pozwolił mimo sprzeciwów tych od De Santisa wypuścić łowczego działającego rzekomo z ramienia Skellige, wywożącego poszukiwanego listem gończym zbiega
+		- O losach Otyga może wiedzieć ktoś o mianie "Wielebnego" w Ravelin, który z resztą był kapłanem, jednym z niewielu, którzy przetrwali pogrom w Kerack
 	- Dzięki poleceniu Brona udaje nam się zdobyć pokój w Natura Rerum. Udajemy się więc na krótki odpoczynek chcąc zaplanować dalsze działanie.
 	- {Elf}Kajetan przekonuje się, że jak dotąd jego sowa nie dała rady odnaleźć {wnuka Nikolaia}Otyg, więc wysyła ją tropem łowczego, po czym udaje się na spoczynek. Ktoś go wciąż śledzi magicznymi sposobami.
 	- Ilana wybiera się do Mirny, zdeponować zwierzęta na czas akcji odbijania Skovika. Po drodze znajduje kota - strażnika, najnowszą ofiarę mordercy-dziwaka. Ostatnią rzeczą, jaką kot widział, były żółte ślepia szlochającej w zaułku kobiety, o której myślał, że potrzebuje pomocy.

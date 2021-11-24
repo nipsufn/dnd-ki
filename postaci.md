@@ -260,6 +260,8 @@
         [Lord Slyz Myrton](Myrton): przełożony; Kasimir: podwładny
     - <a id='p_esmeralda' pattern='Esmerald*'>Lady Esmeralda</a> - człowiek; ?
         Członek rady miejskiej w Ellander
+    - <a id='p_esmeralda' pattern='Bra* Riordan*,Riordan*'>Brat Riordan</a> - człowiek; ?
+        Zakonnik, był winny Myrtonowi przysługę
 - Góry Sine
     - <a id='p_filavandrel' pattern='Filavandrel* Aen Fidhail,Filavandrel*'>Filavandrel Aen Fidhail ze Srebrnych Wież</a> - elf; mag
         potężny i stary elfi mag
@@ -271,7 +273,8 @@
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
 - Kerack
     - <a id='p_osmyk' pattern='Osmyk*,Osmyk* I,Król* Osmyk* I'>✝ Król Osmyk I</a> - ; założyciel Kerrack
-    - <a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*,Ksi* Viraksas*,Viraksas*'>Książę Viraxas</a> - ;
+    - <a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*,Ksi* Viraksas*,Viraksas*'>✝ Książę Viraxas</a> - ;
+    - <a id='p_ksiaze_egmund' pattern='Ksi* Egmund*,Egmund*'>Książę Eggmund</a> - ;
     - <a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz
         - pożyczył Mirnie 1000GP, spodziewa się 1500GP z powrotem
         - zaczął współpracować z dziewczyną gdy okazało się że jej biznes zaczyna przynosić dochody a potrzebny jest figurant bez domieszki nieludzkiej krwi
@@ -302,6 +305,8 @@
             - gangster, jeden z czterech trzęsących miastem
             - wyjechał po kłótni z bratem
             - brat: Tasak
+        - <a id='p_bosak' pattern='Bosak*'>Bosak</a>
+
     - Oxenfurt
         - <a id='p_shani' pattern='Shani*'>Shani</a>
             rektorka Katedry Medycyny
