@@ -260,7 +260,7 @@
         [Lord Slyz Myrton](Myrton): przełożony; Kasimir: podwładny
     - <a id='p_esmeralda' pattern='Esmerald*'>Lady Esmeralda</a> - człowiek; ?
         Członek rady miejskiej w Ellander
-    - <a id='p_esmeralda' pattern='Bra* Riordan*,Riordan*'>Brat Riordan</a> - człowiek; ?
+    - <a id='p_riordan' pattern='Bra* Riordan*,Riordan*'>Brat Riordan</a> - człowiek; ?
         Zakonnik, był winny Myrtonowi przysługę
 - Góry Sine
     - <a id='p_filavandrel' pattern='Filavandrel* Aen Fidhail,Filavandrel*'>Filavandrel Aen Fidhail ze Srebrnych Wież</a> - elf; mag
@@ -305,8 +305,8 @@
             - gangster, jeden z czterech trzęsących miastem
             - wyjechał po kłótni z bratem
             - brat: Tasak
-        - <a id='p_bosak' pattern='Bosak*'>Bosak</a>
-
+        - <a id='p_hatori' pattern='Hatori*'>Hatori</a>
+            - kowal (?) wykonujący srebrne miecze
     - Oxenfurt
         - <a id='p_shani' pattern='Shani*'>Shani</a>
             rektorka Katedry Medycyny
