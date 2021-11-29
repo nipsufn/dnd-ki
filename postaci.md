@@ -77,7 +77,7 @@
     - jedno z jego laboratoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
 - <a id='p_zavist' pattern='Zavi*'>Zavist</a> - ?, mag
     - kolega Stregobora
-    - byćmoże wie coś o Galawainie
+    - być może wie coś o Galawainie
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
     - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
         Ivar: brat
@@ -169,7 +169,7 @@
         - <a id='p_gyf' pattern='Gyf*'>Gyf</a> - człowiek; w sile wieku, lekko siwiejący; kapitan straży granicznej w Brugge, współpracuje z magiem Florianem
         - <a id='p_burchard' pattern='Burchard*'>Burchard</a> - człowiek; Kapłan Proroka Lebiody
         - <a id='p_de_pons' pattern='De Pons*,Pons*'>Lord De Pons</a> - człowiek; szara eminencja, głowa (nie da się tego udowodnić) Redańskich sił specjalnych w Brugge
-        - <a id='p_skaags' pattern='Skaags*'>✝Skaags</a> - człowiek, sierżant; pracuje dla specjalnych sił Redańskich, stracony w Brugge po potyczce nad Chotlą
+        - <a id='p_skaags' pattern='Skaags*'>✝ Skaags</a> - człowiek, sierżant; pracuje dla specjalnych sił Redańskich, stracony w Brugge po potyczce nad Chotlą
         - <a id='p_lloyd' pattern='Lloyd*'>✝ Lloyd</a> - człowiek, strażnik; uciekliśmy mu w Medownej, bezpodstawnie wierzy że wyrżnęliśmy całą wieś, nadużywał nadanego mu autorytetu. Wrócił jako zjawa by nas gnębić
         - <a id='p_wilpost' pattern='Wilpos*'>Wilpost</a> - gnom; alchemik; pędzi "Izzotonik"
     - Dillingen
@@ -182,7 +182,7 @@
             odeskortowani z Brychnej do Brugge po ataku Barghestów
 - Carreras
     - <a id='p_zielarka' pattern='Esme'>Zielarka</a> - ; wiedźma;
-        dziecko przybite do pobliskego Menhiru, uwięzione jako wykonawca klątwy rzuconej przez druidów
+        dziecko przybite do pobliskiego Menhiru, uwięzione jako wykonawca klątwy rzuconej przez druidów
         są podejrzenia, że była nią córka Carrerasów, Esme<a id='p_esme_carreras'></a>
     - <a id='p_trott' pattern='Trott*'>Trott</a> - krasnolud ; ?;
         - sprzedaje broń z ukrytymi wadami, zrobił na szaro Skovika i Ivara
@@ -199,7 +199,7 @@
         Podobno zaginiona dziedziczka swojego rodu, Slyz Myrton odnalazł i poślubił stając się diukiem Ellander
         Ilana miała okazję zauważyć ją w łaźniach publicznych zanim opuściliśmy miasto
     - <a id='p_rodzina_harevard' pattern='Harevard'>R. Harevard</a> - ; n/a;
-        rodzina władająca Ellander przed Niilfgaardczykami
+        rodzina władająca Ellander przed Nilfgaardczykami
     - <a id='p_viggo_regner' pattern='Vigg*,Vigg* Regner*'>Viggo Regner</a> - ; alchemik/mag;
         Prowadzi sklep alchemiczny/zielarski "Fiolka Zdrowia", skłonny kupić części potworów, zlecić pracę, sprzedaje eliksiry;
         Sybil [Regner](Viggo): żona; Lukrecja Janus Schattenwort: podwładny, uczeń
@@ -250,7 +250,7 @@
         zasiada w radzie miejskiej
     - <a id='p_lord_myrton' pattern='Lord* Myrton*,Myrton*'>Lord Slyz Myrton</a> - ; dowódca;
         rządzi zakonem Łowców Czarownic/Potworów w Ellander, nie ma wody z mózgu, da się z nim dogadać;
-        Możlwe że po niedawnej śmierci Przywódcy Menge rządzi całym zakonem.
+        Możliwe że po niedawnej śmierci Przywódcy Menge rządzi całym zakonem.
         Menge: przełożony
         Kasimir: podwładny
         Igna: prawa ręka
@@ -272,7 +272,7 @@
 - Kaedwen
     - <a id='p_krol_henselt' pattern='Król* Henselt*,Henselt*'>✝? Król Henselt</a> -;
 - Kerack
-    - <a id='p_osmyk' pattern='Osmyk*,Osmyk* I,Król* Osmyk* I'>✝ Król Osmyk I</a> - ; założyciel Kerrack
+    - <a id='p_osmyk' pattern='Osmyk*,Osmyk* I,Król* Osmyk* I'>✝ Król Osmyk I</a> - ; założyciel Kerack
     - <a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*,Ksi* Viraksas*,Viraksas*'>✝ Książę Viraxas</a> - ;
     - <a id='p_ksiaze_egmund' pattern='Ksi* Egmund*,Egmund*'>Książę Eggmund</a> - ;
     - <a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz
@@ -289,7 +289,7 @@
     - <a id='p_emhyr' pattern='Cesarz* Emhyr*,Emhyr*'>✝ Emhyr</a> - ; cesarz Nilfgaardu
     - <a id='p_morvran' pattern='Cesarz* Morvran*,Morvran* Voorhis*,Morvran*,Voorhis*'>Cesarz Morvran Voorhis</a> - ; cesarz Nilfgaardu
 - Redania
-    - <a id='p_krol_radowid' pattern='Król* Radowid*,Radowid*'>Król Radowid V</a> - ; król [Redianii](Redania)
+    - <a id='p_krol_radowid' pattern='Król* Radowid*,Radowid*'>Król Radowid V</a> - ; król [Redanii](Redania)
     - <a id='p_dijkstra' pattern='Dijkstr*'>Dijkstra</a> - ; szef redańskiego wywiadu, obecnie hrabia Redanii na Temerię
         przez jakiś czas rządził Novigradem
         rządzi w Wyzimie twardą ręką; grał kluczową rolę w podboju Temerii

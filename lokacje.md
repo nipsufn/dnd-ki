@@ -8,7 +8,7 @@
     - w stanie wojny z Brugge
     - rozrósł się po Dwójksiężycowej Nocy
     - <a id='l_craag_an' pattern='Craag An'>Craag An</a>
-        - nietknęte ruiny dużeko elfickeigo miasta
+        - nietknięte ruiny dużego elfiego miasta
     - <a id='l_duen_canell' pattern='Duen Canell'>Duen Canell</a>
         - osada/miasto/stolica Driad
         - _"Serce Brokilonu"_
@@ -37,7 +37,7 @@
         - <a id='l_brychna' pattern='Brychn*'>Brychna</a>
         - <a id='l_prochnowa' pattern='Próchn*'>Próchnowa</a>
         - <a id='l_fen_carn' pattern='Fen Carn'>Fen Carn</a>
-            jedno z najstarszych istniejących elfich nekropoliów, po drugiej stronie Hotli, na przeciwko Próchnowej
+            jedno z najstarszych istniejących elfich nekropolii, po drugiej stronie Chotli, na przeciwko Próchnowej
     - <a id='l_medowna' pattern='Medown*'>Medowna</a>
     - <a id='l_sowie_wzgorza' pattern='Sowi* Wzgórza*'>Sowie Wzgórza</a>
          - kopalnie węgla
@@ -90,7 +90,7 @@
             - oferuje też "przyjemności cielesne"
             - zarządzany przez Brona, własność Konrada de Vett
         - <a id='l_pod_szubienica' pattern='Pod Szubienicą'>Pod Szubienicą</a>
-        - <a id='l_baszta_mordercow' pattern='Basz* Morderców'>Baszta Mroderców</a>
+        - <a id='l_baszta_mordercow' pattern='Basz* Morderców'>Baszta Morderców</a>
             - służy jako budynek urzędowy
     - <a id='l_ansegis' pattern='Ansegis'>Ansegis</a>
     - <a id='l_cizmar' pattern='Cizmar'>Cizmar</a>
@@ -114,8 +114,10 @@
     - <a id='l_oxenfurt' pattern='Oxenfur*'>Oxenfurt</a>
         Viggo [Regner](Viggo) - miejsce nauki
         - <a id='l_dom_borsodych' pattern='Dom* Aukcyjn* Braci Borsodych'>Dom Aukcyjny Braci Borsodych</a>
+        - <a id='l_klinika' pattern='[Kk]lini*, [Ss]zpital*'>Szpital im. Milo Vanderberg</a>
+            - klinika prowadzona przez Shani
     - <a id='l_rinbe' pattern='Rinbe'>Rinbe</a>
-        - Położone nad północym brzegiem Pontaru
+        - Położone nad północnym brzegiem Pontaru
         - Lokacja jednego z laboratoriów Vilgefortza
 - <a id='l_temeria' pattern='Temer*'>Temeria</a>
     - <a id='l_wyzima' pattern='Wyzim*'>Wyzima</a>
@@ -142,7 +144,7 @@
             - <a id='l_aretuza' pattern='Aretuz*'>Aretuza</a>
                 właściwa szkoła czarodziejek
             - <a id='l_garstang' pattern='Garstang*'>Garstang</a>
-                wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszysz czarodziejek na Północy
+                wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszych czarodziejek na Północy
     - <a id='l_gora_cremora' pattern='[Gg]ór* [CK]remor*,Risberg*,Cytadel*'>Góra Cremora</a>
         - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
         - magowie nazywają zajście "fuszerką"
@@ -200,7 +202,7 @@
         - jedna z osad na Wyspach
         - siedziba Vildcaarlów
     - <a id='l_holmstein' pattern='Holmstein'>Holmstein</a>
-        - port na jendnej z Wysp
+        - port na jednej z Wysp
     - <a id='l_kaer_trolde' pattern='Kaer Trolde'>Kaer Trolde</a>
         - siedziba rodu An Craite
     - <a id='l_tor_gvalchca' pattern='Tor Gvalch'>Tor Gvalch'ca</a>

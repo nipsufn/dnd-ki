@@ -182,11 +182,14 @@ def main():
     # variables
     whitelist = [
         ".gitignore",
+        ".github",
         "local",
         "requirements.txt",
         ".travis.yml",
+        ".vscode"
         "test.py",
-        "tag.py"
+        "tag.py",
+        ".vimrc"
         ]
 
     # code

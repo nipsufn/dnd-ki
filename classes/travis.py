@@ -8,11 +8,11 @@ from classes.console import Console
 class Travis:
     git_dir = ''
     @staticmethod
-    def git_setup(user="Travis CI", email="travis@travis-ci.org"):
+    def git_setup(user="GitHub Actions", email="noreply@github.com"):
         """git config --global user.email, user.name
         Args:
-            user (str, optional): username, defaults to "Travis CI"
-            email (str, optional): e-mail, defaults to "travis@travis-ci.org"
+            user (str, optional): username, defaults to "GitHub Actions"
+            email (str, optional): e-mail, defaults to "noreply@github.com"
         """
         if 'CI' not in os.environ:
             return
@@ -22,19 +22,19 @@ class Travis:
                     Travis.git_dir)
 
     @staticmethod
-    def git_unbork_travis_root(repo_slug=None):
+    def git_unbork_gha_root(repo_slug=None):
         """git remove and re-add origin
         Args:
             repo_slug (str, optional): "user/repo", defaults to the one used
-                by Travis
+                by GHA
         """
         if 'CI' not in os.environ:
             return
         if not repo_slug:
-            repo_slug = os.environ['TRAVIS_REPO_SLUG']
+            repo_slug = os.environ['GITHUB_REPOSITORY']
         Console.run('git remote rm origin')
         Console.run('git remote add origin '
-                    + 'https://${github_user}:${github_token}@github.com/'
+                    + 'https://${GH_USER}:${GH_TOKEN}@github.com/'
                     + repo_slug + '.git > /dev/null 2>&1')
 
     @staticmethod
@@ -47,7 +47,7 @@ class Travis:
         if 'CI' not in os.environ:
             return
         Console.run('git clone '
-                    + 'https://${github_user}:${github_token}@github.com/'
+                    + 'https://${GH_USER}:${GH_TOKEN}@github.com/'
                     + repo_slug + '.git > /dev/null 2>&1')
 
     @staticmethod
@@ -130,6 +130,6 @@ class Travis:
                                 + commit.rstrip() + '/comments',
                                 json={"body": message},
                                 auth=requests.auth.HTTPBasicAuth(
-                                    os.environ['github_user'],
-                                    os.environ['github_token']))
+                                    os.environ['GH_USER'],
+                                    os.environ['GH_TOKEN']))
         return request.ok
