@@ -1,0 +1,16 @@
+on:
+  push:
+    branches:
+      - master
+jobs:
+  default:
+    runs-on: ubuntu-latest
+    environment: master
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: run the script
+        env:
+          GH_USER: ${{ secrets.GH_USER }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: ./tag.py

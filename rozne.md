@@ -21,7 +21,7 @@
 - <a id='r_aen_eldrin' pattern='Aen Eldrin'>Aen Eldrin</a>
     - podgatunek elfów
     - "Lud Lasu", cztery elfy "pomagające" Brokilonowi i Eithne zaliczają się do nich
-    - prawdopodobie pochodzą z innej płaszczyzny magicznej
+    - prawdopodobnie pochodzą z innej płaszczyzny magicznej
     - społecznie dzielą się na cztery frakcje, Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role" od których zależy ich zachowanie i umiejętności
 - <a id='r_tor_corax' pattern='Tor Corax'>Tor Corax</a>
     - portal do innego świata
@@ -35,7 +35,7 @@
 
 | Nr. | Osoba | Napis na pomniku | Napis na nagrobku | Szkoła magii pochodząca od broni | 
 | :--- | :--- | :---: | :---: | :--- |
-| I   | Rel'rion Sprawiedliwy     | _Podsycaj swe światło_ | The ugly truth is this my firends,<br />Written cold and plain | transmutation |
+| I   | Rel'rion Sprawiedliwy     | _Podsycaj swe światło_ | The ugly truth is this my friends,<br />Written cold and plain | transmutation |
 | II  | Alivara Obrończyni        | _Chroń swe światło_    | Cowards justify the ends<br />And run from their own pain      | enchantment   |
 | III | Caemiris Artystka         | _Zachowaj swe światło_ | Heroes leave an epitaph,<br />They who pay the price           | evocation     |
 | IV  | Lernejos Noiosący Światło | _Bądź światłem_        | No graves filled on their behalf                               | necromancy    |

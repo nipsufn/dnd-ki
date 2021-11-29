@@ -1,11 +1,11 @@
-# travis.py
-"""Helper module for repo operations inside TravisCI environment
+# GHA.py
+"""Helper module for repo operations inside GHA CI environment
 """
 import os
 import requests
 from classes.console import Console
 
-class Travis:
+class GHA:
     git_dir = ''
     @staticmethod
     def git_setup(user="GitHub Actions", email="noreply@github.com"):
@@ -17,9 +17,9 @@ class Travis:
         if 'CI' not in os.environ:
             return
         Console.run('git config --global user.email "' + email + '"',
-                    Travis.git_dir)
+                    GHA.git_dir)
         Console.run('git config --global user.name "' + user + '"',
-                    Travis.git_dir)
+                    GHA.git_dir)
 
     @staticmethod
     def git_unbork_gha_root(repo_slug=None):
@@ -32,9 +32,9 @@ class Travis:
             return
         if not repo_slug:
             repo_slug = os.environ['GITHUB_REPOSITORY']
-        Console.run('git remote rm origin')
-        Console.run('git remote add origin '
-                    + 'https://${GH_USER}:${GH_TOKEN}@github.com/'
+        token = os.environ['GH_TOKEN']
+        Console.run('git remote set-url origin https://'
+                    + token + '@github.com/'
                     + repo_slug + '.git > /dev/null 2>&1')
 
     @staticmethod
@@ -42,12 +42,14 @@ class Travis:
         """git clone
         Args:
             repo_slug (str): "user/repo", defaults to the one used
-                by Travis
+                by GHA
         """
         if 'CI' not in os.environ:
             return
+        token = os.environ['GH_TOKEN']
         Console.run('git clone '
-                    + 'https://${GH_USER}:${GH_TOKEN}@github.com/'
+                    + 'https://'
+                    + token + '@github.com/'
                     + repo_slug + '.git > /dev/null 2>&1')
 
     @staticmethod
@@ -56,15 +58,13 @@ class Travis:
         Args:
             branch (str): branch name
         Returns:
-            bool: non-False if script is running on Travis CI
+            bool: non-False if script is running on GHA CI
         """
         if 'CI' not in os.environ:
             return False
-        if not repo_slug:
-            repo_slug = os.environ['TRAVIS_REPO_SLUG']
-        Console.run('cd ' + Travis.git_dir)
-        Console.run('git fetch', Travis.git_dir)
-        Console.run('git checkout ' + branch, Travis.git_dir)
+        Console.run('cd ' + GHA.git_dir)
+        Console.run('git fetch', GHA.git_dir)
+        Console.run('git checkout ' + branch, GHA.git_dir)
         return True
 
     @staticmethod
@@ -77,9 +77,9 @@ class Travis:
         """
         if 'CI' not in os.environ:
             return False
-        Console.run('git add ' + pathspec, Travis.git_dir)
+        Console.run('git add ' + pathspec, GHA.git_dir)
 
-        return Console.run('git rev-parse HEAD', Travis.git_dir)
+        return Console.run('git rev-parse HEAD', GHA.git_dir)
 
     @staticmethod
     def git_commit_all(message, sanitize=True):
@@ -95,11 +95,11 @@ class Travis:
             return False
         if sanitize:
             Console.run('git commit -am "' + message.replace('"', '\\"') + '"',
-                        Travis.git_dir)
+                        GHA.git_dir)
         else:
-            Console.run('git commit -am "' + message + '"', Travis.git_dir)
+            Console.run('git commit -am "' + message + '"', GHA.git_dir)
 
-        return Console.run('git rev-parse HEAD', Travis.git_dir)
+        return Console.run('git rev-parse HEAD', GHA.git_dir)
 
     @staticmethod
     def git_push(target_branch='master'):
@@ -111,20 +111,33 @@ class Travis:
         """
         if 'CI' not in os.environ:
             return False
+        Console.run('pwd', GHA.git_dir)
+        Console.run('env', GHA.git_dir)
+        Console.run('cat .git/config', GHA.git_dir)
         Console.run('git push origin $(git rev-parse --abbrev-ref HEAD):'
                     + target_branch
                     + ' --quiet',
-                    Travis.git_dir)
-        return Console.run('git rev-parse HEAD', Travis.git_dir)
+                    GHA.git_dir)
+        return Console.run('git rev-parse HEAD', GHA.git_dir)
+
+    @staticmethod
+    def git_get_commit():
+        """get latest git commit message from current branch/repo
+        Returns:
+            str: commit hash or False
+        """
+        if 'CI' not in os.environ:
+            return False
+        return Console.run('git log -1 --pretty=%B', GHA.git_dir)
 
     @staticmethod
     def git_comment(message, commit=None, repo_slug=None):
         if 'CI' not in os.environ:
             return False
         if not commit:
-            commit = os.environ['TRAVIS_COMMIT']
+            commit = os.environ['GITHUB_SHA']
         if not repo_slug:
-            repo_slug = os.environ['TRAVIS_REPO_SLUG']
+            repo_slug = os.environ['GITHUB_REPOSITORY']
         request = requests.post('https://api.github.com/repos/'
                                 + repo_slug + '/commits/'
                                 + commit.rstrip() + '/comments',

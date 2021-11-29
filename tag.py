@@ -12,7 +12,7 @@ from classes.console import Console
 from classes.ticktock import TickTock
 from classes.tag_creator import TagCreator
 from classes.tag_parser import TagParser
-from classes.travis import Travis
+from classes.gha import GHA
 
 def prepare_logger(args):
     logging.TRACE = 5
@@ -71,7 +71,7 @@ def process_tags(files, logger, prefix=""):
             write_time += TickTock.tock()
             tagger.close()
             text = tagger.text
-        # pull pair id + textblock from tag_retreiver object
+        # pull pair id + textblock from tag_retriever object
         file_path = prefix + file_path
         with open(file_path, 'w', encoding='utf-8') as file_stream:
             file_stream.write(text)
@@ -185,7 +185,7 @@ def main():
         ".github",
         "local",
         "requirements.txt",
-        ".travis.yml",
+        ".GHA.yml",
         ".vscode"
         "test.py",
         "tag.py",
@@ -198,7 +198,8 @@ def main():
     logger.info("Initialization time: {:.5f}sec".format(TickTock.tock()))
     feedback = test_files(files)
     # comment test result on source repo and bail if needed
-    Travis.git_comment(feedback)
+    GHA.git_setup()
+    GHA.git_comment(feedback)
     if feedback != "Test passed!":
         for line in feedback.splitlines():
             logger.error(line)
@@ -207,31 +208,28 @@ def main():
     commit_message = ""
     if 'CI' in os.environ:
         prefix = "dnd-ki/"
-        commit_message = os.environ['TRAVIS_COMMIT_MESSAGE']
-        Travis.git_clone('nipsufn/dnd-ki')
+        commit_message = GHA.git_get_commit()
+        GHA.git_clone('nipsufn/dnd-ki')
     process_tags(files, logger, prefix)
     feedback = test_files(files, prefix)
     if feedback != "Test passed!":
         if 'CI' in os.environ:
-            Travis.git_comment('Parsing failed: ' + feedback)
+            GHA.git_comment('Parsing failed: ' + feedback)
         for line in feedback.splitlines():
             logger.error(line)
         sys.exit(1)
     else:
         if 'CI' in os.environ:
-            Travis.git_dir = os.environ['PWD'] + '/' + prefix
-            # Travis.git_setup()
-            Travis.git_add('*.md')
-            Travis.git_commit_all('Parsed: ' + commit_message)
-            commit = Travis.git_push()
-            Travis.git_comment(feedback, commit, 'nipsufn/dnd-ki')
+            GHA.git_dir = os.environ['PWD'] + '/' + prefix
+            # GHA.git_setup()
+            GHA.git_add('*.md')
+            GHA.git_commit_all('Parsed: ' + commit_message)
+            GHA.git_unbork_gha_root('nipsufn/dnd-ki')
+            commit = GHA.git_push()
+            GHA.git_comment(feedback, commit, 'nipsufn/dnd-ki')
         else:
             logger.info(feedback)
         sys.exit(0)
 
 if __name__ == "__main__":
     main()
-
-
-# regex to get object description (group1) or parent tag (group0)
-# (((\t| )*)- <.*?\n(\2(\t| ).+?\n)*)|- .+?\n

@@ -13,7 +13,7 @@
         - Lödbroke nie słucha się nikogo; niejaki Morkvarg był jedyną osobą, którą uznawał jako zwierzchnika, a i to do czasu - odmówił ataku na świątynię Freyi, będąc od tamtego czasu sobie samemu sterem i okrętem
         - Morkvarg za swój czyn został przeklęty przez kapłanki i grasował po wyspie Hindersvjal jako wilkołak, wiecznie głodny - bogini zamieniała cokolwiek próbował zjeść w popiół; ponoć jego cierpienia rok temu ukrócił jakiś wiedźmin
         - Reah wybiera się na występ mistrza Jaskra; Kajetan podarował jej odpis jednego z jego wierszy, namawiając, by poprosiła o autograf
-        - W Novigradzie jest drugi, mnieszjy port - rzeczny; barka jest najszybszą drogą do Oxenfurtu
+        - W Novigradzie jest drugi, mniejszy port - rzeczny; barka jest najszybszą drogą do Oxenfurtu
     - Przy stoliku obok słyszymy grupkę bardzo pijanych studentów, którzy właśnie orientują się, że muszą wrócić na uczelnię:
         - Henryk - historia, ledwie kontaktuje
         - Iva - medycyna, nie czuje się najlepiej
