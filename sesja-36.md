@@ -4,14 +4,14 @@
     - Przeszukując dalej stosy książek zauważamy, że sporo z nich ma wyrwane strony. Ilanie udaje się odnaleźć kilka z nich.
     - Podczas gdy my pogrążamy się w lekturze, [obcy elf](Lanemin) spędza sporo czasu w sali treningowej walcząc ze zbroją.
     - Kajetan do późnego wieczora studiuje księgi, znajdując w nich odpowiedzi na kilka swoich pytań:
-        - okolice w kórych mag eksplorował ruiny zamieszkiwała niegdyś rasa jaszczurowatych stworzeń, większych od ludzi, potrafiących zablokować Moc; Aen Drisichean nie zamierzali dalej zwiedzać tych obszarów
+        - okolice, w kórych mag eksplorował ruiny zamieszkiwała niegdyś rasa jaszczurowatych stworzeń, większych od ludzi, potrafiących zablokować Moc; Aen Drisichean nie zamierzali dalej zwiedzać tych obszarów
         - magia to tkanina rzeczywistości, drobne nierówności miałyby tworzyć rzeczywistość, świadomość; większe zagięcia to miejsca szczególnej Mocy, których nie zastąpi największy nawet talent i umiejętności
-        - jedyna rasa o którjej wspominają w swoich kronikach Aen Drisichean, która zdaje się przetrwała do dzisiejszych lat to Krasnoludy czy Gnomy, "Ludzie Ziemi"
-        - Aen Drisichean przybyli do tego świata portalem który próbowała otworzyć Eithne. Do dzikiego, pustynnego świata wtłaczali Moc czerpaną z portalu którym przybyli. Budowali miasta wokół większości portali prowadzących do innych światów, same rozłamy w rzeczywistości kotwicząc strzelistymi wieżami:
-            - Miasto wokół portalu Sokolicy było ośrodkiem badawczym
+        - jedyna rasa, o której wspominają w swoich kronikach Aen Drisichean, a która zdaje się przetrwała do dzisiejszych lat to Krasnoludy czy Gnomy, "Ludzie Ziemi"
+        - Aen Drisichean przybyli do tego świata tym samym portalem, który później próbowała otworzyć Eithne. Do dzikiego, pustynnego świata wtłaczali Moc czerpaną z portalu, którym przybyli. Budowali miasta wokół większości portali prowadzących do innych światów, same rozłamy w rzeczywistości kotwicząc strzelistymi wieżami:
+            - miasto wokół portalu Sokolicy było ośrodkiem badawczym
             - wyrwa w Górach Smoczych leży w miejscu tak niedostępnym, że pomysł jej umocnienia został porzucony
             - jedno z przejść było ufortyfikowane przez wrogo nastawiony lud uskrzydlonych gadów, stąd przezwane "kością niezgody"
-        - w dolinie we wschodniej części [lasu](Brokilon) znajduje się jaskinia, bogata w rudę meteorytową i kryształy, z których stworzono znane nam szkiełka
+        - w dolinie we wschodniej części [lasu](Brokilon) znajduje się jaskinia bogata w rudę meteorytową i kryształy, z których stworzono znane nam szkiełka
         - szkiełka odsłaniają wpływy innych światów oraz miejsca Mocy
         - w północnej części lasu znajduje się kolejna Warownia, którą kontrolował Zakon Rycerzy Galawaina czy raczej jego następcy, "Zakon Zielonych Rycerzy"
         - Moc można inerpretować dwojako aby nagiąć do swojej woli:

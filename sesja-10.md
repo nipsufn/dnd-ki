@@ -7,28 +7,28 @@
     - Rada składa się z 7 osób:
         - Lord Myrton (ku naszemu zdziwieniu!)
         - Viggo Regner
-        - Młody, szczupły mężczyzna wyglądający na czyjegoś przedstawiciela z przymusu
-        - Kapitan straży miejskiej
+        - młody, szczupły mężczyzna wyglądający na czyjegoś przedstawiciela z przymusu
+        - kapitan straży miejskiej
         - [Kupiec Mandrej](Mandrej)
-        - Nieco starsza pani
-        - Puste miejsce (po Kapłanie Matiasie?)
+        - nieco starsza pani
+        - puste miejsce (po Kapłanie Matiasie?)
     - Rada zupełnie nie kryje swojej niezgody:
-        - są podzieleni na dwa obozy, religijny/mistyczny (Myrton, Viggo, młody mężczyzna) i świecki (Kapitan, Kupiec Mendrej, starsza pani)
+        - są podzieleni na dwa obozy, religijny/mistyczny (Myrton, Viggo, młody mężczyzna) i świecki (kapitan, Kupiec Mendrej, starsza pani)
         - chętnie używają petentów i informacji, które ci przynoszą do niekrytej rozgrywki politycznej
         - żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego lub dostarczenie dowodów jednoznacznie potwierdzających nasze podejrzenia - Igna ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**
 3. Polowanie na Sczurołapa
-    - Ruszamy w stronę magazynu gdzie złapaliśmy poprzednio szczura. Ivar zakuwa się w zbroję w Różyczce.
+    - Ruszamy w stronę magazynu, gdzie złapaliśmy poprzednio szczura. Ivar zakuwa się w zbroję w Różyczce.
     - Ilana i Leiv idą osobno aby "otoczyć lokację" - Ilana patrzy oczami jakiegoś losowo złapanego szczura (nie mogła tego zrobić przy Ignie), odnajduje kryjówkę Szczurołapa.
     - Drużyna spotyka się pod magazynem, razem biegniemy do budynku wskazanego przez Ilanę.
     - Odkrywamy stary pokój z zakrwawionym ołtarzem na końcu tunelu, który znaleźliśmy w piwnicy. W pokoju widać wiele wejść do tuneli o różnych rozmiarach.
-    - Dostrzegamy Szczurołapa, pokonujemy go i obezwładniamy.
-        - szczury zaczęły zachowywać się normalnie gdy stracił przytomność
-        - stracił rękę którą grał na flecie wykonanym ze szczątków elfiego niemowlęcia
+    - Dostrzegamy Szczurołapa, pokonujemy go i obezwładniamy:
+        - szczury zaczęły zachowywać się normalnie, gdy stracił przytomność
+        - grajek stracił rękę, którą grał na flecie wykonanym ze szczątków elfiego niemowlęcia
     - Skovik niszczy ołtarz na prośbę Kajetana, Igna zauważa na ołtarzu znak Lwiogłowego Pająka.
     - Uciekamy z podziemi gonieni przez elfie Banshee uwolnione z ołtarza.
-    - Ilana mając na uwadze dobro drużyny i potrzebę wyciągnięcia nas natychmiast z tunelu, ryzykuje przemianę w niedźwiedzia mimo obecności Igny. 
-    - Chcąc nie chcąc druidka demaskuje się także przed Skovikiem, czego dotąd próbowała uniknąć po pytaniach jakie zadał jej podczas gry w karty.
-    - Sam Skovik wydaje się być zaś zaskoczony i zachwycony widząc, że mimo wymijających odpowiedzi Ilany ta potwierdza jego przypuszczenia na temat druidów - potrafi zmienić się w niedźwiedzia.
+    - Ilana, mając na uwadze dobro drużyny i potrzebę wyciągnięcia nas natychmiast z tunelu, ryzykuje przemianę w niedźwiedzia mimo obecności Igny. 
+    - Chcąc nie chcąc druidka demaskuje się także przed Skovikiem, czego dotąd próbowała uniknąć po pytaniach, jakie zadał jej podczas gry w karty.
+    - Sam Skovik wydaje się być zaś zaskoczony i zachwycony widząc, że mimo wymijających odpowiedzi Ilany ta potwierdza jego przypuszczenia na temat druidów - potrafi zmienić się w niedźwiedzia. Określa ją słowem Vildkaarl.
 4. Siedziba Łowców
     - Szczurołap zostaje skuty srebrem i zamknięty w lochach.
     - Lord Myrton nie wydaje się być rozwścieczony faktem, że pytaliśmy o nagrodę Radę zamiast niego (potencjalnie nadwyrężając jego pozycję polityczną).
@@ -39,16 +39,16 @@
     - Świętujemy sukces dużą ilością mocnego alkoholu.
     - Skovik opowiada:
         - Svalblod jest jednym z bogów na Skellige
-        - Vildcaarlowie to wojownicy potrafiący przemieniać się w zwierzęta podobnie jak Ilana; ich siedzibą jest Fornhala
-        - [druid Artis](Artis) uczył kandydatów na Vildcaarla kontrolować przemianę
+        - Vildkaarlowie to wojownicy potrafiący przemieniać się w zwierzęta podobnie jak Ilana; ich siedzibą jest Fornhala
+        - [druid Artis](Artis) uczył kandydatów na Vildkaarla kontrolować przemianę
         - Skovik siedział w więzieniu za przedłożenie lojalności wobec klanu nad lojalność wobec obecnej [władczyni Skellige](Cerys)
-        - nie dokończył swojego treningu u druidów, do pełnej inicjacji brakuje mu "próby krwi"; żywi nadzieję, że druidzi z kontynentu będą w stanie mu pomóc dokończyć trening
+        - nie dokończył swojego treningu u druidów, do pełnej inicjacji brakuje mu "próby krwi"; żywi nadzieję, że druidzi z kontynentu będą w stanie pomóc mu dokończyć trening
         - chwali się innym tatuażem, który otrzymał na początku swojego treningu - wytatuowaną na klatce sporą głową niedźwiedzia; tatuaż zdaje się być magiczny
         - na wyspach nie ma wyznawców Wiecznego Ognia ani Łowców, jednak o ile magów się nie zabija, nie są też lubiani
         - druidzi na wyspach cieszą się wielkim szacunkiem
         - na wyspach jest bardzo niewielu nieludzi
     - Mentorem Ilany był Druid Finarrin z Brokilonu. Druidka oferuje Skovikowi bezpieczną przeprawę do druidów pod jej eskortą.
-    - Korzystając z ogólnego rozweselenia i podpicia, Ilana zabiera Skovika na sparring by jako niedźwiedź dać mu okazję wybić sobie obiecany niedźwiedzi kieł do jego naszyjnika. Znajdują niewielki plac na tyłach Różyczki i tam toczą "walkę".
+    - Korzystając z ogólnego rozweselenia i podpicia, Ilana zabiera Skovika na sparring by pod postacią niedźwiedzia dać mu okazję wybić sobie obiecany kieł do jego naszyjnika. Znajdują niewielki plac na tyłach Różyczki i tam toczą "walkę".
     - Kajetan w tym czasie upija do nieprzytomności Leiva i kontynuuje opróżnianie drugiej butelki z Ivarem.
     - Wieczór kończy się odwleczeniem się do pokoju trójki pijących. 
     - Skovik z Ilaną biorą dla siebie osobny pokój i spędzają razem noc (biorąc sobie do serca skargi mieszczanina, którego obudzili sparringiem, przenoszą zapasy w zacisze pokoju i łóżka).

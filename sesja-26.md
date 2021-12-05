@@ -11,20 +11,20 @@
     - Rozchodzimy się każdy w swoją stronę - Ilana z zamiarem pójścia na polowanie, Kajetan z kolei idzie porozmawiać z Mirną.
     - Mirna nie zamierza wyruszyć z nami. Czuje się przytłoczona i w dalszym ciągu przerażona tym, co w ostatnim czasie zaszło w wiosce. Druidka rozważa podróż do Kerack, chce otworzyć w mieście sklep zielarski.
     - Ilana mija w progu braci Drummond. Ivar wygląda nie najgorzej, ale dalej wydaje się być mocno osłabiony.
-    - [Druidka](Ilana) porządkuje swoje rzeczy nosząc się z zamiarem wyruszenia do chaty Enid aby odzyskać kij, który obiecała przynieść mentorce poprzedniego wieczora. Zostawia figurkę podarowaną przez Skovika.
+    - [Druidka](Ilana) porządkuje swoje rzeczy nosząc się z zamiarem wyruszenia do chaty Enid, aby odzyskać kij, który obiecała przynieść mentorce poprzedniego wieczora. Zostawia figurkę podarowaną przez Skovika.
     - Kajetan sposobi się do grzybobrania. Chodzi po wiosce zbierając patyki do realizacji swojego planu. 
     - Ruszając w stronę lasu [elf](Kajetan) zauważa Drummondów przy porannej gimnastyce - Skovik pomaga bratu nabrać nieco sił przy wyraźnym trudzie i wysiłkach ze strony Ivara.
     - Skovik obrzuca Kajetana spojrzeniem godnym bazyliszka, gdy ten pyta Ivara _"Jak się czujesz po powrocie z zaświatów?"_
 2. Grzybobranie i wyprawa po kij
     - Kajetan, znalazłszy odpowiednie patyki do konstrukcji podbieraka do grzybów, idzie na pobliski cmentarz.
-    - Cmentarz druidów wydaje się być zbyt stary i zbyt suchy żeby wyrósł tam poszukiwany grzyb. [Elf](Kajetan) udaje się więc do lasu, szukać w wilgotniejszej ziemi przy strumieniu.
-    - Jedyne, co znajduje to wielki placek łajna, prawdopodobnie Morvudda. Ląduje w nim tak, że z trudem wyszarpuje nogę prawie tracąc przy tym but.
+    - Cmentarz druidów wydaje się być zbyt stary i zbyt suchy, żeby wyrósł tam poszukiwany grzyb. [Elf](Kajetan) udaje się więc do lasu, szukać w wilgotniejszej ziemi przy strumieniu.
+    - Jedyne, co znajduje, to wielki placek łajna, prawdopodobnie Morvudda. Ląduje w nim tak, że z trudem wyszarpuje nogę prawie tracąc przy tym but.
     - W tym samym czasie Ilana udaje się do chaty Enid. Kiedy dociera na miejsce, zastaje niecodzienny widok: 
         - chata jest porośnięta mchem i pnączami, ale nie kolczastymi, a zwykłymi
         - wszędzie pełno kwiatów
         - dookoła chaty fruwa chmara motyli i ważek
         - przed chatą rosną grzyby, wyglądają trochę jakby rosły w kręgu
-        - temperatura jest zdecydowanie zbyt wysoka jak na tą okolicę i obecną porę roku
+        - temperatura jest zdecydowanie zbyt wysoka jak na tę okolicę i obecną porę roku
     - Kiedy druidka podchodzi bliżej i zagląda przez okno, motyle kłębią się wokół niej wyraźnie zainteresowane.
     - Drzwi są zamknięte, a u ich dołu widać ślady drobnych pazurków (możliwe, że szopa). Korzystając ze znanej sobie skrytki mentorki, Ilana szybko znajduje zapasowy klucz i otwiera drzwi.
     - W środku panuje półmrok. Na łóżku leży trochę porozrzucanych ubrań. Na trójnogu za biurkiem stoi tarcza strzelnicza z przybitymi kawałkami pergaminu, a na nich imiona: Madame Karoll, Faolitarna, Rayla, [Yaewin](Yaevinn).
@@ -45,13 +45,13 @@
     - Między [partnerką Finarrina](Enid), a Kajetanem dochodzi do wymiany uprzejmości. Ku zdziwieniu wszystkich, a w szczególności samego elfa, Enid nie reaguje agresywnie, a wręcz przeciwnie, choć tradycyjnie nie przebiera w słowach i wali prosto z mostu, komentując przy tym "poprawę gustu Mirny".
     - Okazuje się że wracająca do zdrowia mentorka wyjątkową antypatią darzy Wiewiórki, a nie wszystkich elfów
     - Widząc zbliżających się do stołu wyspiarzy, Enid bezceremonialnie pyta Ilanę, z którym z nich druidka się spotyka.
-    - Nastroje przy stole poprawiają się dzięki luźnej dyskusji i butelce spirytusu "przyprawionej" sztuczką przez Kajetana smakiem bimbru z mandragory (Enid też rozpoznaje ten trunek, podoba jej się sztuczka). Sielski nastrój przerywa dopiero przybycie Aen Eldrin.
+    - Nastroje przy stole poprawiają się dzięki luźnej dyskusji i butelce spirytusu, sztuczką "przyprawionej" przez Kajetana smakiem bimbru z mandragory (Enid też rozpoznaje ten trunek, podoba jej się sztuczka). Sielski nastrój przerywa dopiero przybycie Aen Eldrin.
     - Czwórca pyta, kiedy planujemy wyruszyć w drogę. Przynosi też po jednym darze od każdego z elfów: 
         - od Tytanii dla Skovika - pukiel włosów gorejących jak płomień
         - od Aurila dla Kajetana - perłę zimną jak lód, naładowaną mocą (arcane focus)
         - od Verenestry dla Ivara - dar życia i cząstkę mocy jesiennej elfki, które otrzymał poprzedniego dnia
         - od Oberona dla Ilany - fletnię pana z rogu pokonanego Morvudda
-    - Ivar wyraźnie nie rozumie o czym mówi Verenestra. Pomimo komentarzy Kajetana i rozmowy z Ilaną, Skovik nie powiedział bratu, że ten był martwy.
+    - Ivar wyraźnie nie rozumie, o czym mówi Verenestra. Pomimo komentarzy Kajetana i rozmowy z Ilaną, Skovik nie powiedział bratu, że ten był martwy.
     - W trakcie rozmowy z Aen Eldrin Kajetan decyduje, że najwyższy czas powiedzieć Ivarowi o jego śmierci i zmartwychwstaniu.
     - Po odejściu elfów napięcie wiszące w powietrzu znika, Kajetan i Skovik, równocześnie i niemal chórem, najwyraźniej jeden próbując uprzedzić drugiego, wyjaśniają młodszemu wyspiarzowi, że dzięki Verenestrze wrócił z zaświatów.
     - Towarzystwu powoli wraca humor, choć Ivar jest wciąż zaszokowany informacją o własnym zmartwychwstaniu.

@@ -4,7 +4,7 @@
     - Ilana upiera się by iść brzegiem lasu z racji na patrole wojska stale krążące przy Wstążce. 
     - Driady godzą się finalnie na taką opcję, oferują się też poprowadzić nas na obóz żeby bezpiecznie przenocować do rana. 
     - W drodze Kajetan i Ilana próbują wypytać driady o nieco więcej szczegółów na temat dziwnych elfów-przybyszów i ogólnej sytuacji w Brokilonie. Dowiadują się, że:
-        - Finarrin, jako wysłannik starszyzny przybył do Eithne po radę
+        - Finarrin, jako wysłannik starszyzny, przybył do Eithne po radę
         - dziwne elfy pochodzą z Aen Eldrin, przybyła ich w sumie czwórka
         - [Protektor](Bizoktor) został przebudzony przez jednego z tych elfów
         - driady nazywają Kajetana, czy też może wszystkie elfy mieszkające na kontynencie, udawanymi; mag z trudem połyka dumę by uniknąć konfrontacji
@@ -45,7 +45,7 @@
     - Mirna opowiada, że ich trójka to jedyni druidzi w Wiosce. Podczas święta Równonocy:
         - druidzi zaczęli odprawiać przygotowany uprzednio rytuał zakorzeniony w magii Poznania[<sup>1</sup>](#ad1)
         - nastąpił wybuch dzikiej magii i większość starszyzny zmieniła się nieodwracalnie w dzikie zwierzęta
-        - Finarrin ocalał jako nieliczny ze starszyzny.
+        - Finarrin ocalał jako nieliczny ze starszyzny
         - druidzka młodzież prowadzona przez kilku ocalałych członków starszyzny ruszyła do Verden nieść pomoc ludziom, których dotknęła zaraza; nikt jak dotąd nie powrócił
         - zaraz po tym wypadku, Finarrin wyruszył do Col Serrai, szukać pomocy u Eithne, zostawiając po sobie bałagan w księgach i zwojach - wszystkie traktowały o koniunkcji sfer
     - Mirna prowadzi nas na nocleg do wolnych chat. Jak się dowiadujemy, kilka z nich zajmują ludzie z Verden, którzy przybyli tu po pomoc.
@@ -62,7 +62,7 @@
         - Mirna pomoże mu wyprodukować eliksiry leczące, łagodniejsze niż "jaskółka" Vigga, jeśli poszuka z nią ziół
     - Kajetan, uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku, że Verenestra jest rzeczywiście gościem i nie zna powszechnie stosowanych obyczajów. Postaniawia ją przeprosić i z nią porozmawiać:
         - elfka nie widziała afrontu w fakcie zwrócenia uwagi
-        - wywiązuje się pseudofilozoficzna debata, zdaje się, że Aen Eldrin albo nie odczuwają czasu albo są niesamowicie długowieczni; tak czy inaczej zdaje się, że kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
+        - wywiązuje się pseudofilozoficzna debata, zdaje się, że Aen Eldrin albo nie odczuwają czasu albo są niesamowicie długowieczni; tak czy inaczej kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
         - czterej Aen Eldrin dostali się do Brokilonu przez portal otwarty przez Eithne, która to zapadła w śpiączkę próbując powiększyć portal aby umożliwić przejście większej ilości "gości"
         - Aen Eldrin społecznie dzielą się na cztery grupy: Wiosnę, Lato, Jesień i Zimę, okresowo zmieniając swoje "role" 
         - Kajetanowi wydaje się, że jest to spowodowane ich długowiecznością i znudzeniem "odgrywania tej samej roli", bycia tą samą osobą

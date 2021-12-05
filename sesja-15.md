@@ -1,6 +1,6 @@
 ### Sesja 15
 1. Brugge
-    - po całodziennym odpoczynku Kajetan z braćmi Skovika wybierają się na spacer na rynek:
+    - Po całodziennym odpoczynku Kajetan z braćmi Skovika wybierają się na spacer na rynek:
         - sprawdzają potencjalne drogi ucieczki, spodziewając się, że Ilana może zrobić coś impulsywnego aby pomóc Sowiołakowi
         - zauważają jakichś pijaków wałęsających się po rynku, jeden z nich przypomina ciecia z Zielonej Świeczki
         - Leiv wstępuje do sklepu z łukami i tym podobnymi
@@ -12,7 +12,7 @@
         - nie bez trudu udaje jej się namówić opiekunkę potwora aby wpuściła ją do klatki zająć się ranami zwierzęcia
         - leczy i uspokaja nieco stworzenie, pobliscy strażnicy zdają się zauważać jej druidyczne/magiczne umiejętności, jednak nie reagują
         - w drodze powrotnej "pijacy", których zauważyła poprzednia grupa atakują Ilanę i Skovika z jakiegoś ciemnego zaułka 
-        - dodają przy tym, że przesyłają pozdrownienia od niejakiego Larsa.
+        - dodają przy tym, że przesyłają pozdrownienia od niejakiego Larsa
         - Ilana odnosi nieznaczną ranę, odwdzięczając się jednemu z napastników dużo poważniejszą, co skutkuje odwołaniem ataku przez bandytów
     - Rankiem wybieramy się do maga poznać wyznaczony czas wizyty. Zostajemy zaproszeni o zachodzie słońca.
     -  Mając dzień dla siebie decydujemy się obejrzeć cyrk, który najwyraźniej zostaje w mieście na dłużej:
@@ -27,7 +27,7 @@
         - wypłaca 100GP za czaszkę Barghesta
         - proponuje zapłacić po 100GP za okazy/próbki flory i fauny z obrzeży Brokilonu
     - Po wizycie u maga wracamy do Ostoji na nocleg. W swoim pokoju Ilana zauważa kawałek pergaminu leżący na łóżku. W liście tym napisano "Kobieto. Wiesz, że czarowanie bez zezwolenia to przestępstwo?". Podpisał go nikt inny, a sam Lars. 
-    - Druidka zastanawia się czy odpowiedzieć na list, a jeśli tak to co napisać.
+    - Druidka zastanawia się, czy odpowiedzieć na list, a jeśli tak, to co napisać.
     - Ilana wypytuje karczmarkę o ten liścik. Ta opowiada jej jak rzekomo wróciła do karczmy i poszła na chwilę po coś do pokoju w czasie, gdy cała grupa była w cyrku.
     - Kolejnego ranka wyruszamy do Medownej. 
     - Kajetan w drodze rozmyśla nad czymś intensywnie - pisze niewybredny, dość złośliwy limeryk o Larsie.
@@ -36,21 +36,21 @@
     - Docieramy tam o zmroku, decydujemy się spędzić noc zabarykadowani w jednej z chat.
     - Pierwszą wartę bierze Ilana. W nocy słyszy śpiew driad, które zdają się oddalać od wioski w stronę południa.
     - Drugą wartę bierze Kajetan. Pozornie nic się nie dzieje, aż w pewnym momencie już blisko ranka przysypia mu się.
-    - Wszyscy budzą się nie nad ranem, a w okolicach południa. Ucieka nam pół dnia którego nie pamiętamy, a nasze rzeczy leżą rozrzucone w chacie - zupełnie jakby ktoś w nich grzebał. 
+    - Wszyscy budzą się nie nad ranem, a w okolicach południa. Ucieka nam pół dnia, którego nie pamiętamy, a nasze rzeczy leżą rozrzucone w chacie - zupełnie jakby ktoś w nich grzebał. 
     - Brakuje nam jednego dnia racji żywności.
-    - Przed chatą stoi kilku drzewo-ludzi ustawionych w szpaler - rosną na nich kwiaty (na jednym osobniku kilka kwiatów różnych gatunków - dziwne i niecodzienne).
-    - Od razu, bez zbędnej zwłoki przeszukujemy chaty. Drzewo-ludzie oglądają się za nami powoli. 
+    - Przed chatą stoi kilku drzewoludzi ustawionych w szpaler - rosną na nich kwiaty (na jednym osobniku kilka kwiatów różnych gatunków - dziwne i niecodzienne).
+    - Od razu, bez zbędnej zwłoki przeszukujemy chaty. Drzewoludzie oglądają się za nami powoli. 
     - Na środku wioski stoi bardzo stary, rozłożysty dąb, którego widok przysparza gęsiej skórki.
     - Po kilku bezowocnych włamach do chat, znajdujemy tę właściwą - chatę pszczelarza, a w niej list przewozowy ze wszystkimi szmuglowanymi paczkami, które są schowane... w ulach.
     - Ilana rozmawia z pszczołami, aby ułatwić pokojowe wyjęcie paczek z uli. Dowiaduje się przy okazji, co robili rano - podobno chodzili po wiosce, szukając czegoś tak jak teraz paczek.
-    - Drzewo-ludzie podchodzą bliżej nas, zacieśniając wokół nas krąg w czasie, kiedy wyjmujemy paczki. 
+    - Drzewoludzie podchodzą bliżej, zacieśniając wokół nas krąg w czasie, kiedy wyjmujemy paczki. 
     - Ilana wpada na pewien pomysł i zaczyna nucić melodię, którą słyszała w nocy w wykonaniu driad. Mówi też do wielkiego dębu, który stał się lekko nadaktywny i poddenerwowany, aby puścił ich wolno i nie robił problemów. 
-    - Drzewo na dźwięk melodii nieco się uspokaja i rozluźnia szeregi drzewo-ludzi.
-    - Kajetan siłuje się z jedną z paczek uwięzionych w witkach drzewo-ludzia. Nie pomagają prośby ani groźby, więc wraz ze Skovikiem przemocą wydzierają ostatni pakunek drzewu i uciekają ile sił w nogach.
+    - Drzewo na dźwięk melodii nieco się uspokaja i rozluźnia szeregi drzewoludzi.
+    - Kajetan siłuje się z jedną z paczek uwięzionych w witkach drzewoludzia. Nie pomagają prośby ani groźby, więc wraz ze Skovikiem przemocą wydzierają ostatni pakunek drzewu i uciekają ile sił w nogach.
 3. Brugge
     - Pędzimy na złamanie karku bez chwili przerwy do Zielonej Świeczki.
     - Zdajemy paczki - 1 z Próchnej i 2 z Medownej.
-    - Przy piwie Ilana słysząc limeryk Kajetana prosi go o kartkę z wierszykiem i zawija ją w otrzymany wcześniej pergamin z wiadomością. Podchodzi do karczmarki i pyta wprost o Larsa
+    - Przy piwie Ilana słysząc limeryk Kajetana prosi go o kartkę z wierszykiem i zawija ją w otrzymany wcześniej pergamin z wiadomością. Podchodzi do karczmarki i pyta wprost o Larsa.
     - Lars siedzi przy kontuarze i z miejsca zabiera list, przedstawiając się przy tym bez zbędnych ceregieli (rządzi/jest wysoko postawiony w Towarzystwie?):
         - deeskaluje sytuację z cieciami
         - odkupuje 2 księgi z jednej z pozostałych paczek, które grupa zatrzymała; sugeruje przy tym, że w mieście powinien być kupiec na pozostałe dwie

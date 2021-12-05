@@ -45,14 +45,14 @@
     - Snują się opowieści przy kuflu:
         - Kajetan zmierzał do Vartburga licząc, że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
         - Ilana poszukuje druida imieniem Myszowór, który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej; opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
-    - Podjudzacz robotników](Undyr), którego Ilana rozpoznaje niemal natychmiast, pojawia się z towarzyszem w karczmie nieludzi. Niby-uprzejmie wypytuje [Marię co można zamówić (sprawia wrażenie pytającego jak źle jest).
-    - [Podjudzacz jest kapłanem](Undyr) który ostrzy zęby na pozycję [głównego kapłana](Matias) (przemawiający staruszek z Rynku) - wnioskujemy to z jego rozmowy z kompanem.
+    - [Podjudzacz robotników](Undyr), którego Ilana rozpoznaje niemal natychmiast, pojawia się z towarzyszem w karczmie nieludzi. Niby-uprzejmie wypytuje [Marię co można zamówić (sprawia wrażenie pytającego jak źle jest).
+    - [Podjudzacz](Undyr) jest kapłanem, który ostrzy zęby na pozycję [głównego kapłana](Matias) (przemawiający staruszek z Rynku) - wnioskujemy to z jego rozmowy z kompanem.
     - Do karczmy wchodzi (choć lepszym słowem byłoby wtargnięcie) znajoma już banda robotników i próbuje nawiązać bójkę. Zostaje jednak spacyfikowana i przepędzona przez [Kapłana](Undyr). 
     - Na zewnątrz niemal natychmiast zjawia się straż i aresztuje bojówkarzy.
     - Gospodarze są wdzięczni, Ilana jednak dostrzega, że to przedstawienie z użyciem magii i konfrontuje [Kapłana](Undyr).
     - Kajetan nie chce się mieszać i wychodzi do [Ziołowego Kufla](Ziołowy kufelek). Odnosi wrażenie że Różyczka skazana jest na zagładę, a jakiekolwiek akcje mogą tylko pogorszyć już i tak fatalną sytuację.
     - [Kapłan](Undyr) posiłkuje się magią żeby zakończyć starcie z Ilaną, co mu się o dziwo udaje.
-    - Ilana poirytowana nie na żarty wychodzi za Kajetanem po chwili zmieniając się w kota.
+    - Ilana, poirytowana nie na żarty, wychodzi za Kajetanem po chwili zmieniając się w kota.
     - Po drodze spotyka szczury, które próbują ją dopaść. Te także mają żółte gadzie oczy.
 7. [Ziołowy Kufel](Ziołowy kufelek)
     - Dowiadujemy się kilku ciekawych rzeczy:
@@ -65,7 +65,7 @@
         - w Wyzimie jest jeszcze gorzej niż w Ellander - tamtejszy Lord rządzi twardą ręką w czasie głodu
     - W tawernie spotykamy grupkę strażników. Jeden z nich został ugryziony przez szczura.
     - Ilana oferuje pomoc, strażnik niechętnie pokazuje ranę. 
-    - Jego stan jest poważny - potrzebuje pomocy medyka a najlepiej kapłanek Melitele. Druidka nie jest w stanie zdziałać zbyt wiele, tym bardziej przy świadkach.
+    - Jego stan jest poważny - potrzebuje pomocy medyka, a najlepiej kapłanek Melitele. Druidka nie jest w stanie zdziałać zbyt wiele, tym bardziej przy świadkach.
     - Polecamy mu udać się po doraźną pomoc do Viggo.
     - Zostajemy w Kufelku na noc, a nad ranem sami idziemy do Vigga.
 8. Viggo Regner

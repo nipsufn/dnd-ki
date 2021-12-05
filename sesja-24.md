@@ -22,10 +22,10 @@
         - wspomina, że kiedyś bywał częstym gościem w Brokilonie, także u [druidów](Wioska); uważał las za bezpieczne schronienie
         - jedna z driad przytulonych do jego boku ma jego rysy twarzy i urodę (córka?)
         - elf mówi nam o swoim kompanie, który poprzedniego dnia oddalił się z inną driadą i do tej pory nie wrócił
-        - posiada łuk z Gór Sinych, zwany Zefharem (od runy o identycznym kształcie); konstrukcja i zdobienia świadczą, że broń jest równie funkcjonalna jak ozdobna, zwykle używana przez elficką elitę
+        - posiada łuk z Gór Sinych, zwany Zefharem (od runy o identycznym kształcie); konstrukcja i zdobienia świadczą, że broń jest równie funkcjonalna jak ozdobna, zwykle używana przez elficką elitę
     - Zarówno driady jak i [Wiewiórka](Yaevinn) są nieobecni i dziwnie się zachowują, jak gdyby ktoś wpływał na ich rozumowanie albo wydawał im nieme polecenia.
-    - Kajetan pyta Yaevinna czy ten nie ma przypadkiem szklanego koralika. Zdziwiony Scoia'teal obiecuje oddać mu jeden ze swojego naszyjnika - pamiątki z rodzinnych stron - jeśli pomożemy odnaleźć jego kompana. **[Zadanie: Leśne igraszki](#z_q13)**
-    - Jedna z driad zdradza gdzie powinniśmy szukać zaginionej dwójki. Za jej wskazówkami udajemy się z Yaevinnem aż do znajomej nam altanki na wzgórzu.
+    - Kajetan pyta Yaevinna, czy ten nie ma przypadkiem szklanego koralika. Zdziwiony Scoia'teal obiecuje oddać mu jeden ze swojego naszyjnika - pamiątki z rodzinnych stron - jeśli pomożemy odnaleźć jego kompana. **[Zadanie: Leśne igraszki](#z_q13)**
+    - Jedna z driad zdradza, gdzie powinniśmy szukać zaginionej dwójki. Za jej wskazówkami udajemy się z Yaevinnem aż do znajomej nam altanki na wzgórzu.
     - W drodze Kajetan i Yaevinn dyskutują o:
         - [Filavandrelu Aen Fidhail ze Srebrnych Wież](Filavandrel), potężnym magu z Gór Sinych; to on zorganizował wyprawę, w której brał udział Kajetan
         - niemożliwości powrotu do miejsca pochodzenia obu elfów
@@ -44,7 +44,7 @@
     - Słowa urywają się, czar mija i nic więcej się nie dzieje. Wznawiamy poszukiwania drugiego Scoia'teal i jego driady.
     - Kajetan dyskutuje z Yaevinnem o pochodzeniu elfów: 
         - przybyły magicznymi portalami
-        - nie wiadomo gdzie się te portale znajdowały, kiedy się to dokładnie wydarzyło ani skąd przybyli
+        - nie wiadomo, gdzie się te portale znajdowały, kiedy się to dokładnie wydarzyło, ani skąd przybyli
     - Podążamy za pajęczynami w głąb lasu. Po drodze widzimy ślady krwi i fragmenty zwierząt rozrzucone po okolicy.
     - Po lekko ponad godzinnej wędrówce zauważamy w lesie ruiny jakiejś budowli okryte powalonymi drzewami. Pajęczyny są tu bardzo gęste, zdają się koncentrować u szczytu kamiennych resztek.
     - Ilana znajduje przy ziemi niewielką wyrwę w ścianie ruin. Początkowo przymierzamy się do wejścia, ale naszych uszu dochodzi chrobot, jakby setki par odnóży właśnie zmierzały w naszą stronę.

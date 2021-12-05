@@ -19,7 +19,7 @@
     - Kajetan, bez głębszego zastanowienia, podejmuje drugą próbę złamania szyfru. W tym celu dotyka po kolei każdego z symboli wymawiając w staroelfim słowo opowiadające danemu symbolowi.
     - Symbole znów się świecą, ale elf zostaje na moment sparaliżowany, a drzwi nie ustępują. Na szczęście nic złego po za tym się nie dzieje.
     - Analiza mapy pozwala nam ustalić, że 3 budynki: Warownia, Akademia i Pałac znjadują się, podobnie jak symbole na drzwiach, na planie celtyckiego krzyża.
-    - To oraz tekst na drzwiach nasuwa Ilanie na myśl, że kluczem do rozwiązania mogą być rogate posągi, a raczej hasła które cytują ich opisy. [Mag](Kajetan) nie jest przekonany jako że na drzwiach nie ma symbolu miecza o dwóch ostrzach.
+    - To oraz tekst na drzwiach nasuwa Ilanie na myśl, że kluczem do rozwiązania mogą być rogate posągi, a raczej hasła, które cytują ich opisy. [Mag](Kajetan) nie jest przekonany, jako że na drzwiach nie ma symbolu miecza o dwóch ostrzach.
     - Udajemy się pod Pałac w celu odnalezienia kolejnego posągu. Przy okazji zauważamy, że drzewo, przed którym uciekliśmy i dziwna mozaika znajdują się w samym centrum Craag An.
     - W połowie wzniesienia znajdujemy trzeci posąg: smukłą kobietę w rogatym hełmie z tarczą wspartą o ziemię. Kamień ukryto w dłoniach kobiety opartych na tarczy. Tabliczka zaś głosi: "_Chroń swe światło_" - Alivara Obrończyni.
     - Pałac znajduje się na lekkim wzniesieniu, z którego (gdyby nie magiczna ciemność kopuły) roztacza się widok na resztę miasta. W nieprzebitej ciemności widzimy snop światła czwartego posągu, którego lokacja pokrywa się z Akademią.
@@ -30,7 +30,7 @@
     - Rankiem, nieco wypoczęci i podbudowani odkryciami dnia poprzedniego idziemy zbadać Akademię. Szybki rzut oka przez wyłamane drzwi pozwalają stwierdzić, że budynek jest pilnowany przez "automatyczne" zbroje. To ich kroki niosły się w nocnej ciszy.
     - Wszędzie zalega gruba warstwa popiołu, w której wyraźnie widać ślad stóp (Ivryn musiał tu być), a który urywa się nagle przy wejściu do klatki schodowej (teleportował się? zmienił w coś latającego?).
     - Kajetan bierze na siebie zwiad. Czeka na dobry moment i czmycha przez okno do recepcji nieopodal głównego wejścia.
-    - Na recepcji nie ma "przepustek", które elf łudził się znaleźć, jest za to sejf, a na pułkach widać ślady po kilku brakujących książkach.
+    - Na recepcji nie ma "przepustek", które elf łudził się znaleźć, jest za to sejf, a na półkach widać ślady po kilku brakujących książkach.
     - Ilana pomaga dezaktywować magiczny zamek sejfu. W środku znajdujemy:
         - dwa identyczne naszyjniki z zielonym kryształem górskim (podobnym do kryształu znalezionego na zmumifikowanym elfie w rozsadzonej wieży)
         - mały, czarny, kościany kluczyk (raczej nie do drzwi)
@@ -39,9 +39,9 @@
         - pokój wygląda jak muzeum
         - w szklanych gablotach zabezpieczonych magicznymi zamkami leży kilka eksponatów - połamana broń itp.
         - jedno z ostrzy emanuje magią
-        - na pułkach widać ślady brakujących ksiąg
+        - na półkach widać ślady brakujących ksiąg
         - na stole ktoś przeglądał jakieś książki
     - Druid, dzięki medalionowi, przechodzi nietknięty obok zbroi. Uradowany Kajetan zabiera wisiorek i idzie zwiedzać pozostałe pomieszczenia.
     - W głębi Akademii natyka się na namiot, a wokół niego całą stertę książek. Znajduje też 5 medalionów z symbolem głowy jelenia. Wygląda na to, że Ivryn tu był i czegoś szukał.
-    - Kajetan przekazuje go Finarrinowi żeby ten sprawdził czy to przepustka, co zostaje potwierdzone
+    - Kajetan przekazuje go Finarrinowi, żeby ten sprawdził, czy to przepustka, co zostaje potwierdzone
     - Jako że medalionów nie ma dość dla wszystkich, dzielimy się na dwa zespoły: jeden pozostanie pod oświetlonym pomnikiem, drugi będzie przeszukiwał bibliotekę

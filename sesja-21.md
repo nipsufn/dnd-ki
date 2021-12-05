@@ -8,23 +8,23 @@
     - Tytania przebija grób zdrewniałej driady płomiennym mieczem - rozlega się przeszywający krzyk. 
     - Po chwili krzyk ustaje, a elfka zaczyna wyrywać coś z ziemi. 
     - Okoliczne pnączna zwijają się formując agresywne, humanoidalne postaci, przywodzące na myśl te z Medownej. Wywiązuje się walka.
-    - Pozostała część drużyny z Mirną (dotąd zamkniętą w pracowni z Ivarem przy robieniu obiecanych odtrutek) włącznie, słysząc krzyk szybko kieruje się w stronę cmentarza.
+    - Pozostała część drużyny z Mirną (dotąd zamkniętą w pracowni z Ivarem przy robieniu obiecanych odtrutek) włącznie, słysząc krzyk, szybko kieruje się w stronę cmentarza.
     - Aen Eldrin wyrywa z ziemi drewniane serce i spopiela je. Szybko radzimy sobie z pozostałymi pnączami. 
     - Jedynie Finarrin odniósł zauważalne rany, które oboje z Ilaną łatają "na miejscu".
     - Przybyszka obcesowo wypytuje drużynę, żądając pomocy. Potraktowana własnym lekarstwem przez Kajetana szybko traci cierpliwość. 
     - Zanim jednak dochodzi do rękoczynów, elf odchodzi w stronę Wioski nie czekając na resztę drużyny. 
-    - Między mniej i bardziej zawoalowanymi obelgami (wiemy już gdzie młode driady usłyszały o "gorszych" elfach) dowiadujemy się, że:
+    - Między mniej i bardziej zawoalowanymi obelgami (wiemy już, gdzie młode driady usłyszały o "gorszych" elfach) dowiadujemy się, że:
         - portal, który otworzyła Eithne jest spaczony - Aen Eldrin nie mogą nim wrócić do domu
         - goszczące elfy chcą za wszelką cenę wrócić do swojego świata
         - przez spaczony portal świat Aen Eldrin i nasz scalają się w jeden, proces postępuje
         - scalanie się płaszczyzn zaburza działanie Mocy
         - Aen Eldrin są uwięzieni w Brokilonie przez moc portalu, nie mogą wyjść po za granice lasu - dlatego właśnie próbują poszerzyć jego granice
-    - Ilana wspomina co widzieliśmy w Medownej, na prośbę Tytanii tłumaczy gdzie leży wieś. 
+    - Ilana wspomina, co widzieliśmy w Medownej i na prośbę Tytanii tłumaczy gdzie leży wieś. 
     - Tytania mówi na odchodne:<br/><br/>
                 *"Opowieści to rola Oberona, ja muszę ścigać Galfiasa."*<br/><br/>
         następnie znika zostawiając wszystkich z setką pytań.
 2. Pierwszy dzień po powrocie Finarrina - wieczorem
-    - [Finarin](Finarrin) też chce zobaczyć co się stało w Medownej, ale nie chce zostawiać wioski, zdaje się być rozdarty.
+    - [Finarin](Finarrin) też chce zobaczyć, co się stało w Medownej, ale nie chce zostawiać wioski, zdaje się być rozdarty.
     - Między Ilaną i Kajetanem dochodzi do burzliwej wymiany zdań.
         - elf uważa, że powinniśmy czym prędzej ruszyć na Skellige i zostawić problemy obcych elfów za sobą
         - Ilana jednak nie zgadza się z tym - nie chce zostawiać Finarrina samego z problemem portalu i Aen Eldrin, które dotyczą jej jako użytkownika magii w tym samym stopniu, co zresztą Kajetana
@@ -50,18 +50,18 @@
         - druidka pyta Mirnę gdzie jest ciało Enid
         - Mirna przechowała je w piwnicy, więc wracamy po nie i po szopa, planując zaryzykować eksperyment
         - listek trzymany przez Enid w bezwładnych dłoniach wskazuje, że czuwała przy niej Verenestra
-        - Finarrin też zauważa listek; wydaje się bić z myślami jakby prowadził wewnętrzny konflikt
-    - Kajetan zauważa Finarrina, Ilanę i Mirnę taszczących gdzieś wyrywającego się szopa i bezwładną nieco starszą druidkę. Majstruje z nimi tymczasowe nosze i pomaga nieść nieprzytomną nie pytając za wiele.
-    - Wspólnie skupiając się na aurze magicznej wokół ciała i szopa, decydujemy się wnieść szopa w pole antymagiczne podczas gdy ciało Enid będzie znajdowało się w pobliżu, jednak poza zasięgiem jego działania. 
+        - Finarrin też zauważa listek; wydaje się bić z myślami, jakby prowadził wewnętrzną polemikę
+    - Kajetan zauważa Finarrina, Ilanę i Mirnę taszczących gdzieś wyrywającego się szopa i bezwładną, nieco starszą druidkę. Majstruje z nimi tymczasowe nosze i pomaga nieść nieprzytomną nie pytając za wiele.
+    - Wspólnie, skupiając się na aurze magicznej wokół ciała i szopa, decydujemy się wnieść szopa w pole antymagiczne, podczas gdy ciało Enid będzie znajdowało się w pobliżu, jednak poza zasięgiem jego działania. 
     - Zgadywanie na podstawie poszlak udało się, i, całkiem brutalnie, Enid budzi się ze śpiączki, zachowując się nieco jak szop a nieco jak człowiek po wylewie. Zdaje się, że niebawem jednak wróci do siebie.
     - Kajetan nie może wejść na polanę aby pozbierać zwłoki Cedrika - wsadzenie zaledwie dłoni w obszar objęty polem energii mało nie kończy się tragicznie, więc robi to Ilana.
     - Ilana i Finarrin odprowadzają ledwie stawiającą nogi Enid do Wioski. Mirna i Kajetan wyprawiają Cedrika w ostatnią podróż na cmentarzu druidów.
-    - Podczas kolacji Finarrin prosi nas, żebyśmy zbadali dokładniej co stało się w Medownej. On sam nie chce zostawiać Enid zwłaszcza teraz, kiedy będzie potrzebowała pomocy aby wrócić do normy.
+    - Podczas kolacji Finarrin prosi nas, żebyśmy zbadali dokładniej co stało się w Medownej. On sam nie chce zostawiać Enid, zwłaszcza teraz, kiedy będzie potrzebowała pomocy aby wrócić do normy.
     - Ku własnemu zaskoczeniu Kajetan nie staje okoniem słysząc ten pomysł i widząc skłonność Ilany do podjęcia się tej niebezpiecznej misji. Zostają ułożone wstępne plany:
         - Finarrin zostaje w Wiosce aby zająć się Enid
         - Skovik i Ivar zostają w Wiosce - to dla nich zbyt niebezpieczna wyprawa
         - Kajetan z Ilaną wyruszą we dwoje, tak przynajmniej mają jakieś szanse przejść przez Brokilon
         - Finarrin musi wytłumaczyć nam dokładnie czego szukać, jako że raz już tam byliśmy i ogólne pojęcie co się dzieje mamy
-    - Po kolacji rozchodzimy się do chat. Ilana oddaje swój pokój Enid na tak długo, jak tylko druidka będzie go potrzebowała.
-    - Sama wprasza się do braci Drummond. Ivar nie szczędząc uszczypliwości decyduje się znaleźć sobie tymczasowo inne lokum, robiąc miejsce dla tej dwójki.
+    - Po kolacji rozchodzimy się do chat. Ilana oddaje swój pokój Enid na tak długo, jak tylko starsza druidka będzie go potrzebowała.
+    - Sama wprasza się do braci Drummond. Ivar, nie szczędząc uszczypliwości, decyduje się znaleźć sobie tymczasowo inne lokum, robiąc miejsce dla tej dwójki.
     - Kajetan odprowadza Mirnę i zostaje na noc.

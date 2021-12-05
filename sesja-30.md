@@ -17,10 +17,10 @@
     - Znajdujemy tu element brakujący w poprzednim obelisku - metalowy wierzchołek mający kształt czteropalczastych szponów, w których spoczywa kryształowa kula rozmiaru pięści.
     - Kula ma w sobie prawdopodobnie nieaktywne zaklęcie. Sam kamień nie wydaje żadnej magicznej aury.
     - Kajetan z użyciem magii aktywuje uśpione zaklęcie i dzięki temu przez chwilę ogląda okolicę z lotu ptaka:
-        - w oddali widać kawał lasu z wystającymi gdzieniegdzie resztkami budynków, otoczony pasem jałowej ziemi na której stoją obeliski, z daleka przypominające te, które już mijaliśmy
+        - w oddali widać kawał lasu z wystającymi gdzieniegdzie resztkami budynków, otoczony pasem jałowej ziemi, na której stoją obeliski, z daleka przypominające te, które już mijaliśmy
         - za murem drzew nadal faluje morze fioletowych traw, dalej stoi olbrzymie drzewo
         - przed końcem wizji coś dużego miga na horyzoncie
-    - Elf dzieli się tym, co zobaczył. Wspólnie podejmujemy decyzję aby kierować się prosto na niedalekie już ruiny.
+    - Elf dzieli się tym, co zobaczył. Wspólnie podejmujemy decyzję aby kierować się prosto na niedalekie już ruiny. Zabieramy ze sobą konstrukcję ze szczytu obelisku.
     - Zbieramy się do dalszej drogi. Ilana idzie przodem chcąc zapolować na to, co wczoraj dojadło po nas resztki zwierzyny.
     - Druidce udaje się wytropić żerowisko dzików, które urządziły sobie ucztę na mniejszych gniazdach skolopendromorfów. Ziemia jest przeorana, znaczą ją też ślady krwi i kawałki gałązek.
     - Z pozostawionych śladów wynika, że coś porwało jednego dzika w powietrze. To coś miało czteropalczaste szpony i musiało być duże (gryf?), ale nie na tyle, aby nie przelecieć przez wyrwę w koronie drzew (ok. 15 stóp). 
@@ -32,7 +32,7 @@
     - Kajetan przezornie tworzy bąbel na kilku złączonych kłodach na wypadek, gdyby w okolicy pałętały się te obmierzłe, [kretowate stwory](Nekker).
     - Noc mija bez dodatkowych atrakcji, żadna z wart nie zauważa podejrzanego ruchu w krzakach.
 3. Dzień drogi od Craag An
-    - Nad ranem, spakowawszy manatki przyglądamy się kościanemu totemowi z bliska. Twór wydaje się emanować aurą dywinacji trochę silniejszą od poprzedniego egzemplarza napotkanego przez nas na drodze.
+    - Nad ranem, spakowawszy już manatki, przyglądamy się kościanemu totemowi z bliska. Twór wydaje się emanować aurą dywinacji trochę silniejszą od poprzedniego egzemplarza napotkanego przez nas na drodze.
     - Ilana rozprasza magię zamkniętą w rzeźbie, na skutek czego drużyna musi w popłochu brać nogi za pas, ścigana przez nekkery i coś jeszcze - coś bardzo dużego, co przedziera się do nas przez drzewa powalając je po drodze.
     - Biegniemy co tchu na oślep w kierunku, w którym poprzedniego dnia Kajetan widział kawał lasu otoczony pierścieniem obelisków mając szczerą nadzieję, że to właśnie Craag An.
     - Zwodzone co jakiś czas magią, po piętach depczą nam nekkery. Udaje nam się dobiec do gołego pasa ziemi okalającego ruiny nim małe bestie uzyskują przewagę. Mamy za plecami magiczną barierę, zupełnie jak bombel Kajetana, a przed sobą narastającą falę nekkerów.
@@ -40,5 +40,5 @@
     - Przechodzimy jeden za drugim przez barierę - potwory przerywają pościg i rozwścieczone czekają na krawędzi lasu.
     - Ilana na odchodnym oddaje strzał z łuku do tego, co goniło nas waląc drzewa - olbrzymiego Morvudda, powodowanego przez siedzącego na jego grzbiecie sługę Królowej Cierni. Druidka recytuje przy tym słowa wyryte na broni. Będąc już niemal za barierą słyszy przeszywający ryk trafionego stwora.
     - Obszar wewnątrz obelisków przypomina Ogromną Kopułę Leomunda, wywiniętą na lewą stronę. Kajetan, zapominając o niebezpieczeństwie czyhającym po drugiej stronie, opiera rękę o powierzchnię magicznej pół-sfery - zaczyna się zastanawiać czy nie zostaliśmy uwięzieni
-    - Elf próbuje przełożyć na drugą stronę rękę w której trzyma, niczym klucz, iglicę totemu. Bariera nie stawia oporu, a mag prawie traci iglicę razem z ręką, brutalnie wyrwany z rozważań o potędze zaklęcia ochronnego, z którym eksperymentuje.
+    - Elf próbuje przełożyć na drugą stronę rękę, w której trzyma, niczym klucz, iglicę totemu. Bariera nie stawia oporu, a mag prawie traci iglicę razem z ręką, brutalnie wyrwany z rozważań o potędze zaklęcia ochronnego, z którym eksperymentuje.
     - Wciągnięty do wnętrza kręgu razem z ręką Kajetana nekker natychmiast zamienia się w proch, rozwiany na lekkim wietrze.

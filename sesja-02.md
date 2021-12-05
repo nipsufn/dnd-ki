@@ -13,7 +13,7 @@
     - Zastajemy ich w trakcie skromnego pogrzebu.
     - Zwłoki 3 drwali są palone, mszę nad nimi odprawia młody kapłan Wiecznego Ognia.
     - Czwartego z ciał drwali nie odnaleziono.
-    - Majster Wojciech opowiada nam o wycinkach które powinniśmy sprawdzić. Drwale pracowali w dwójkach - jedna para na wschód, druga nieco bardziej na południowy zachód od tartaku.
+    - Majster Wojciech opowiada nam o wycinkach, które powinniśmy sprawdzić. Drwale pracowali w dwójkach - jedna para na wschód, druga nieco bardziej na południowy zachód od tartaku.
     - Ilana badając ślady w ziemi i na drzewach określa miejsce, które idziemy zbadać jako pierwsze.
     - Dochodzimy do polany, na której oprócz wystającego z ziemi sporego głazu znajduje się mnóstwo śladów krwi i szczątek - nie tylko zwierzęcych, ale też kilka fragmentów ludzkich.
     - Sądząc po śladach, bestia ma co najmniej 3 pary łap i dziwną narośl (ogon? łeb?), którą uderzała o drzewa. Zdaje się też "migać" albo skakać z miejsca na miejsce, zdecydowanie nie jest to nic z naszego świata.

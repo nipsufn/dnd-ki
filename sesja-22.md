@@ -19,10 +19,9 @@
         - aligator to rzeczywiście starsza druidów, ale informacja ta kosztowała kobiety upolowanego jelonka 
         - Doreein okazuje się mieć młode w swojej obecnej postaci i być bardziej zezwierzęcona niż Enid pożyczająca ciała szopa
     - Kajetan wypytuje Finarrina o powierzoną misję zwiadu do Medownej:
-        - Medowna jest poza Brokilonem; jeśli pojawią się tam Aen Eldrin to albo las się rozrasta, albo mechanizm, który ich wiąże przestaje działać
-        - wyznaczenie granicy Brokilonu, stwierdzenie czy coś do niego należy czy nie, nie jest całkiem proste:
-            - las ma nieodpartą aurę pierwotności, dzikości - zawsze zdaje się być dziewiczą puszczą
-            - dostajemy zwój, który może nam pomóc zorientować się w stanie wioski
+        - Medowna jest poza Brokilonem; jeśli pojawią się tam Aen Eldrin to albo las się rozrasta, albo mechanizm, który ich wiąże, przestaje działać
+        - wyznaczenie granicy Brokilonu, stwierdzenie, czy coś do niego należy czy nie, nie jest całkiem proste - las ma nieodpartą aurę pierwotności, dzikości - zawsze zdaje się być dziewiczą puszczą
+        - dostajemy zwój, który może nam pomóc zorientować się w stanie wioski
         - mamy zweryfikować słowa przybyszów o scalaniu się światów
         - Kajetan poddaje pod dyskusję, iż przybysze mogli być oryginalnymi budowniczymi Craag An
         - dzieli się też informacją, że Aen Eldrin i im podobni wśród najstarszych elfów są bajędami
@@ -42,10 +41,10 @@
     - Drużyna udaje się na spoczynek.
     - Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę. Ilana na odchodne otrzymuje od Skovika prezent: wystruganą przez niego figurkę wilczycy z młodymi - symbol ochrony, jaką druidka roztacza nad drużyną.
 2. Droga do Medownej
-    - Udaje się nam przedostać przez terytorium Krabopająków - widocznie się rozszerzyło od pradawnych czasów gdy druidzi wyznaczyli ścieżkę przez las.
-    - Ich terytorium jest oznakowane uschniętymi ciernistymi pnączami.
+    - Udaje się nam przedostać przez terytorium Krabopająków - widocznie się rozszerzyło od pradawnych czasów, gdy druidzi wyznaczyli ścieżkę przez las.
+    - Ich terytorium jest oznakowane uschniętymi, ciernistymi pnączami.
     - Kajetan i Ilana rozmawiają o przyszłości drużyny:
-        - Kajetan zdaje się powoli zauważać, że jego butność sprawia kłopoty, ale cały czas nie dostrzega że nie dopuszcza nikogo do słowa
+        - Kajetan zdaje się powoli zauważać, że jego butność sprawia kłopoty, ale cały czas nie dostrzega, że nie dopuszcza nikogo do słowa
         - Ilanie udaje się wtrącić do elfiego monologu nieco o jej młodości i opuszczaniu trudnych lub denerwujących dyskusji, jako że w przeszłości zwykle kończyły się one bójką; podejście takie zostało jej wpojone różnymi sposobami przez opiekunów, Enid i Finarrina
         - Kajetan dowiaduje się nieco o nienawiści Enid do elfów; domyśla się, że jej metody wychowawcze sprowadzały się do kija wspomnianego przez Ilanę
         - Ilana proponuje aby udać się do Brugge 

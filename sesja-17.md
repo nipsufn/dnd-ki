@@ -24,16 +24,16 @@
     - Wojacy wskazują nam miejsce na nocleg. W nocy Ilana słyszy, jak żołnierze oddają strzały do ludzi po drugiej stronie, którzy siłą próbują sforsować most. Ich ciała, spadłszy do rzeki, są niemal od razu porywane przez utopce.
     - Rano od sierżanta dowiadujemy się kilku rzeczy:
         - przejście przez most jest pilnie strzeżone od czasu, gdy na jego drugim końcu poswtała strefa objęta kwarantanną
-        - ludzie tłumnie przybywający z Verden są zarażeni dziwną chorobą, którą Ilana identyfikuje jako zgnilczak (flesh rot) - rozwija się wolno, ale jest śmiertelna
+        - ludzie tłumnie przybywający z Verden są zarażeni dziwną chorobą, którą Ilana identyfikuje jako zgnilec (flesh rot) - rozwija się wolno, ale jest śmiertelna
         - zarażeni po kilku dniach wpadają w śpiączkę, a gdy się z niej budzą, atakują wszystko co się rusza, wyglądając przy tym jakby byli żywcem obdarci ze skóry 
         - rzekomym ogniskiem choroby ma być zbiorowa mogiła, którą postawiono w Verden
     - Sierżant prosi nas żebyśmy spalili tą mogiłę jeśli uda nam się przejść przez most i przeżyć, ale zgodnie ustalamy, że przeprawimy się przez Wstążkę inną drogą.
     - Nie marnując czasu oddalamy się od mostu i po kilku kilometrach odbijamy w stronę rzeki. 
     - Widzimy przed nami koniec kolumny wojska, które idzie na front. Podążamy chwilę ich śladem szukając dobrego miejsca do przejścia rzeki na stronę Brokilonu.
     - Po długiej wędrówce w górę Wstążki udaje nam się znaleźć dogodne miejsce na przeprawę. Rzeka jest na tym odcinku głęboka, ale drugi brzeg bliski. 
-    - Kajetan wpada na pomysł by przesunąć większe głazy i zwalone drzewo na brzeg rzeki robiąc z nich kładkę do skoku. 
+    - Kajetan wpada na pomysł, by przesunąć większe głazy i zwalone drzewo na brzeg rzeki robiąc z nich kładkę do skoku. 
     - Pod jednym z kamieni tworzy się osuwisko, z którego łeb wystawia nekker.
-    - Wszyscy po za Kajetanem lądują bezpiecznie na drugim brzegu. Elf w ostatniej chwili pomaga sobie magią żeby nie skończyć w rzece z utopcami.
+    - Wszyscy, po za Kajetanem, lądują bezpiecznie na drugim brzegu. Elf w ostatniej chwili pomaga sobie magią żeby nie skończyć w rzece z utopcami.
     - Ilana wyciąga kupioną w Dillingen kościaną piszczałkę i zaczyna grać melodię, którą kojarzy z driadami. Kajetan rozpoznaje melodię i dołącza się, pogwizdując.
     - Z lasu na spotkanie wyskakują nam nie driady, a grupka nekkerów.
     - Wywiązuje się walka, w której Kajetan traci sporo krwi, a Ivar ledwo uchodzi z życiem.

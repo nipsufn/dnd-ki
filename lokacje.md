@@ -200,7 +200,7 @@
         - wyspa na Skellige
     - <a id='l_fornhala' pattern='Fornhal*'>Fornhala</a>
         - jedna z osad na Wyspach
-        - siedziba Vildcaarlów
+        - siedziba Vildkaarlów
     - <a id='l_holmstein' pattern='Holmstein'>Holmstein</a>
         - port na jednej z Wysp
     - <a id='l_kaer_trolde' pattern='Kaer Trolde'>Kaer Trolde</a>

@@ -5,9 +5,9 @@
     - Robimy ostatnie zakupy na drogę (między innymi kupujemy od Marii ostatnie butelki nalewki z Mandragory).
     - Kajetan dopytuje czyjej produkcji jest nalewka. Dowiaduje się, że pędził ją jakiś zielarz z Dillingen.
     - Ilana kupuje lalkę i daje ją Elizie prosząc, żeby przekazała ją Darii przy następnej wizycie w świątyni.
-    - W drodze, już za Świątynią Melitele, mija nas silnie strzeżony transport wojska [Redańskiego](Redania) - 8 wozów podróżujących na północ.
+    - W drodze, już za świątynią Melitele, mija nas silnie strzeżony transport wojska [Redańskiego](Redania) - 8 wozów podróżujących na północ.
     - Zbliżając się do Carreras przeprawiamy się przez most utrzymywany przez Trolle żądające myta. Większość drużyny ucieka, Ilana i Ivar są zbyt wolni - rozmawiają z potworami, przekonując jednego z nich by ich puścił. Wkrótce drużyna rusza dalej.
-    - Na rozstaju dróg widać zerwane ogłoszenie nt. rekrutacji kapłanek i pomocy do Świątyni Melitele. Zawieszamy nowe ogłoszenie, Kajetan dodatkowo wiesza groźbę do kogokolwiek zrywającego ogłoszenia.
+    - Na rozstaju dróg widać zerwane ogłoszenie nt. rekrutacji kapłanek i pomocy do świątyni Melitele. Zawieszamy nowe ogłoszenie, Kajetan dodatkowo wiesza groźbę do kogokolwiek zrywającego ogłoszenia.
     - Zaraz przed bramami miasta, krótko po zachodzie słońca, otacza nas mgła, wyrządzając nam sporą krzywdę. Udaje nam się dobiec do bram w ostatniej chwili.
 2. Carreras - przybycie
     - Strażnicy kończą zamykać bramę i odprowadzają nas do karczmy. Miasteczko jest oświetlone niesamowitą ilością pochodni - jest to jedyny sposób by odgonić mgłę i panoszące się w niej ogniki - Mglaki.
@@ -26,13 +26,13 @@
         - dawniej od czasu do czasu Carreras odwiedzał [zielarz z Dillingen](Regis), destylował nalewkę z Mandragory
     - Strażnicy nie wiedzą aby była jakaś nagroda za rozwiązanie problemu z Mgłą.
     - Kupujemy zapasy mięsa na drogę - wymagają jednak przygotowania, czym obiecuje zająć się Ilana.
-    - Ilana wraca do [Zielarki](Esme), starając się wykryć magię. Dochodzi do krótkiej konfrontacji, stragan kończy na głowie druidki, a [Zielarki](Esme) ani widu, ani słychu.
+    - Ilana wraca do [zielarki](Esme), starając się wykryć magię. Dochodzi do krótkiej konfrontacji, stragan kończy na głowie druidki, a [zielarki](Esme) ani widu, ani słychu.
     - Ilana i Leiv wybierają się na polowanie na gigantyczne żaby. Reszta drużyny zaczyna przygotowywać zapasy.
     - Wieczorem Ilana suszy zakupione jedzenie na drogę.
-    - Druidka orientuje się że [Zielarka](Esme) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym Kajetanowi.
+    - Druidka orientuje się, że [zielarka](Esme) ucięła jej pukiel włosów podczas zamieszania przy straganie, mówi o tym Kajetanowi.
 2. Carreras - dzień drugi
-    - Kajetanowi zdaje się, że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [Zielarkę](Esme), odzyskać pukiel i potencjalnie skrócić babę o głowę.
-    - Drużyna wyrusza w poszukiwaniu [Zielarki](Esme), kierując się w stronę menhiru - mamy podejrzenia, że kobieta jest potężniejsza niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy.
+    - Kajetanowi zdaje się, że wiele klątw i innych niebezpiecznych magicznych procesów wymaga przedmiotu potencjalnej ofiary, naciska aby odszukać [zielarkę](Esme), odzyskać pukiel i potencjalnie skrócić babę o głowę.
+    - Drużyna wyrusza w poszukiwaniu [zielarki](Esme), kierując się w stronę menhiru - mamy podejrzenia, że kobieta jest potężniejsza, niż daje po sobie poznać, kierunek potwierdza jeden z łowców polujących w okolicy.
     - Ilana używa magii aby odszukać swoje włosy, wyczuwa je w trzech punktach
     - W pół drogi do menhiru atakuje nas dwóch żaboludzi, próbując porwać Ilanę.
     - Drużyna jest zmęczona, wracamy na noc do miasta planując zakończyć sprawę następnego dnia.
@@ -40,12 +40,12 @@
     - Kajetan zauważa przez okno nad ranem wielką ilość rechoczących żab, zdających się obserwować okno naszego pokoju.
 2. Carreras - dzień trzeci
     - Wszyscy w mieście źle spali, ulice wydają się opustoszałe.
-    - Wyruszamy tą samą drogą co poprzedniego dnia.
-    - Po drodze nie atakuje nas trzeci żaboludź którego się spodziewaliśmy.
+    - Wyruszamy tą samą drogą, co poprzedniego dnia.
+    - Po drodze nie atakuje nas trzeci żaboludź, którego się spodziewaliśmy.
     - Docieramy aż do samego Menhiru. W połowie drogi na jego szczyt zatrzymujemy się - zaczyna się robić grząsko, słyszymy płacz dziecka i widzimy wrony krążące nad nami.
     - Ilana żąda "audiencji", otwiera się przed nami tunel prowadzący w głąb rytualnego wzgórza.
-    - [Zielarka](Esme) okazuje się być materializacją duszy dziecka przybitego do właściwego menhiru, kamienia w środku kurhanu, przeklętego przez Arcydruida Ivryna, skazaną na nawiedzanie Carreras - miasta które zaczęło osuszać bagna, polować na okoliczną zwierzynę i zanieczyszczać wodę w rzece.
-    - [Zielarka](Esme) błaga aby ją uwolnić zanim klątwa zmusi ją aby zaatakować.
+    - [Zielarka](Esme) okazuje się być materializacją duszy dziecka przybitego do właściwego menhiru, kamienia w środku kurhanu, przeklętego przez Arcydruida Ivryna, skazaną na nawiedzanie Carreras - miasta, które zaczęło osuszać bagna, polować na okoliczną zwierzynę i zanieczyszczać wodę w rzece.
+    - [Zielarka](Esme) błaga, aby ją uwolnić zanim klątwa zmusi ją do ataku.
     - Sytuacja zdaje się beznadziejna. Kajetan decyduje się zaczerpnąć spore ilości Mocy, ryzykując życie, aby zniszczyć przeklęty menhir. Częściowo mu się to udaje, czym przełamuje swoją blokadę, znacząco się wyniszczając.
-    - Ilana ostatecznie rozbija rozkruszony Menhir, uwalniając [Zielarkę](Esme) od klątwy. Druidka zabiera kryształ, który znajdował się wewnątrz obelisku.
+    - Ilana ostatecznie rozbija rozkruszony Menhir, uwalniając [zielarkę](Esme) od klątwy. Druidka zabiera kryształ, który znajdował się wewnątrz obelisku.
     - Docieramy z powrotem do miasta, po zmroku. Mgły ustąpiły. Kierujemy się do karczmy na noc.

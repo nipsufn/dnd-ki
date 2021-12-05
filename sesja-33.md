@@ -10,17 +10,17 @@
     - Kajetan ma kolejną wizję we śnie, wizję drzewa i dwóch tronów zwróconych w stronę jakiejś ściany, tablicy, czy może pomnika. Słyszy: _Odszukaj mnie..._, widzi jak drgające powietrze przypominające kształtem postać przesuwa się z nad jednego z siedzisk pomiędzy korzenie drzewa.
 2. Dalsza droga
     - Uwalniamy się z więzienia niszcząc wewnętrzny krąg ochronny i czaszkę, która w nim leżała. Zdajemy sobie sprawę, że nekromanta, jeśli kiedykolwiek wróci, nie będzie już uwięziony.
-    - Wracamy do ostatniego miejsca gdzie widzieliśmy druidzkie znaki z mchu, aby za nimi podążać.
+    - Wracamy do ostatniego miejsca, gdzie widzieliśmy druidzkie znaki z mchu, aby za nimi podążać.
     - Docieramy do dwumetrowego pomnika wyobrażającego elfkę w rogatym hełmie zakrywającym twarz. 
-    - W rękach postać trzyma łuk, a nad hełmem, między rogami, wisi kula światła. W promieniu jego padania pomnik otacza fioletowa trawa, taka sama jaką widzieliśmy w sercu Brokilonu. 
+    - W rękach postać trzyma łuk, a nad hełmem, między rogami, wisi kula światła. W promieniu jego padania pomnik otacza fioletowa trawa, taka sama, jaką widzieliśmy w sercu Brokilonu. 
     - Pamiątkowa plakietka rzecze "_Zachowaj swój blask_" - Caemiris, Artystka. 
     - Bliższy rzut oka ujawnia na ubiorze posągu plamy z farby, a w kołczanie obok strzał znajduje się kilka pędzli.
     - Kierujemy się dalej za strzałką mchu na piersi posągu.
 3. Polana z wizji
-    - Na ścianie, wbudowanej w skarpę, widać piękny fresk - mapę świata przecinaną wijącymi się, niewidocznymi dla zwykłęgo oka liniami:
+    - Na ścianie, wbudowanej w skarpę, widać piękny fresk - mapę świata przecinaną wijącymi się, niewidocznymi dla zwykłego oka liniami:
         - jest 7 głównych miejsc przecięć:
             - Skellige, uformowane aby przypominać sokolicę, pokryte skorupą (magicznego domyślamy się) lodu, trzymającego takie szkiełko jak nasze
-            - Wyspa Thanedd, przypominająca Mewę, z centralnym kamykiem fresku, który eksplodował - pozostałe okruchy nie pozostawiają wątpliwości że to też było szkiełko jakie znamy
+            - Wyspa Thanedd, przypominająca Mewę, z centralnym kamykiem fresku, który eksplodował - pozostałe okruchy nie pozostawiają wątpliwości że to też było szkiełko, jakie znamy
             - Brokilon, Kruk, bez szkiełka
             - Metinna, Jaskółka, bez szkiełka
             - Góry Smocze, Pardwa, bez szkiełka

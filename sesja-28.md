@@ -13,7 +13,7 @@
         - chwilę później we mgle zarys postaci z ogonem i rogami (ożywiony elf z rozłupanej przez nas wieży), pojawiającej się i znikającej w okolicy obozowiska
         - jakieś nieczytelne runy połyskujące na jednym z drzew w świetle księżyca (zostało kilka dni do pełni)
 2. Czwarty dzień wędrówki do Craag An
-    - O świcie mglaki uciekają, kryjąc się w zwłokach przywieszonych do granicznych drzew, a zauważona przez maga rogata postać rozwiewa się z razem z mgłą.
+    - O świcie mglaki uciekają, kryjąc się w zwłokach przywieszonych do granicznych drzew, a zauważona przez maga rogata postać rozwiewa się razem z mgłą.
     - Runy zauważone poprzedniego wieczoru zniknęły, a przynajmniej nie są już widoczne. Decydujemy się zbadać sprawę:
         - Kajetan rozbraja strzelające pułapki w pobliżu runicznego drzewa
         - wszyscy trochę obrywamy rykoszetami strzał

@@ -12,22 +12,22 @@
     - Wspólnymi siłami wyciągamy Ivara na brzeg. Oplecione wokół jego szyi i klatki wiszą resztki trupich rąk.
     - Woda kotłuje się, a z jej głębi wyłaniają się 4 ogniki, od których aż bije nekrotycznym zimnem (czyżby mglaki?). Pokonane rozpraszają się z cichym westchnieniem, przybierając na moment postać ludzkiej twarzy.
     - W miarę jak słońce chyli się ku zachodowi, podnosi się gęsta mgła, przypominająca tą, którą spotkaliśmy w Carreras. [Młoda druidka](Ilana) rozprasza ją zaklęciem światła dziennego, aby pokonać jak największą część drogi.
-    - Widzimy teraz dokładnie co znajduje się pod wodą. Wygląda to jak cmentarzysko - wszędzie jest pełno kościotrupów w resztkach zbroi i szmat.
-    - Żaden z fragmentów ruin nie leży płasko na ziemi - z musu Kajetan stawia magiczny bąbel na najmniej błotnistym kawałku ziemi jaki udaje nam się znaleźć przed wyczerpaniem się czaru.
+    - Widzimy teraz dokładnie, co znajduje się pod wodą. Wygląda to jak cmentarzysko - wszędzie jest pełno kościotrupów w resztkach zbroi i szmat.
+    - Żaden z fragmentów ruin nie leży płasko na ziemi - z musu Kajetan stawia magiczny bąbel na najmniej błotnistym kawałku ziemi, jaki udaje nam się znaleźć przed wyczerpaniem się czaru.
 2. Nocna warta
     - W czasie swojej warty, [elf](Kajetan) widzi we mgle walczące zjawy otaczające bezpieczne schronienie ze wszystkich stron:
         - całe bagnisko zdaje się być pradawnym polem walki
         - obie strony mają zwierzęce przymioty, podobnie jak zwłoki, które napotkaliśmy uprzednio
         - jedna ze stron wygląda na regularną armię, w jednolitych zbrojach z symbolem uskrzydlonej wieży zamkniętej w pierścieniu, ich skrzyżowanie ze zwierzętami jest mniej zaznaczone
         - druga strona wygląda na partyzantkę, wyraźnie mocniej związaną ze swoją zwierzęcą naturą. Po ich stronie walczy więcej użytkowników Mocy, magów; noszą kaptury, podobne do tego, który miał na sobie w naszej wizji Galawain
-        - niektóre z walczących postaci są tak wielkie jak szkielety które spotkaliśmy pod Ellander, o rogach podobnych do Morvudda
+        - niektóre z walczących postaci są tak wielkie jak szkielety, które spotkaliśmy pod Ellander, o rogach podobnych do Morvudda
     - Przez ziemię w magicznym bąbelku zaczyna przesączać się powoli mgła.
     - Otaczający bitewny rozgardiasz wprowadza wartującego [maga](Kajetan) w trans. Słyszy kobiecy głos, ten sam, który stwierdził stanowczo _"dość"_ w niedawnej wizji w Medownej:
         - _"Jesteś silniejszy od swoich kompanów"_
-        - _"Podążasz za kimś kto nie jest tego warty"_
+        - _"Podążasz za kimś, kto nie jest tego warty"_
         - _"Ten las nie musi być twoim grobem"_
         - _"Wplątaliście się w wojnę, która trwa od tysięcy lat"_
-        - _"Zastanów się po której stronie konfliktu chcesz być"_
+        - _"Zastanów się, po której stronie konfliktu chcesz być"_
     - Skovik przerywa wizję [elfa](Kajetan) policzkując go.
     - Wszystkie duchy przerwały walkę i patrzą wprost na Kajetana, po chwili wracają jednak do swojej odwiecznej walki.
     - Z pomiędzy walczących wyłaniają się zwłoki elfa, które znaleźliśmy w ruinach wieży. Zjawa zaczyna drapać powierzchnię bąbla, nie mogąc nic nam zrobić przez magiczną barierę schronienia.
@@ -41,11 +41,11 @@
     - Po chwili przestaje, mgła wewnątrz bąbla zdaje się gęstnieć. Budzimy całą drużynę.
     - Kajetan znów słyszy kobiecy głos:
         - _"Mogę Ci pomóc"_
-        - _"Pokażę Ci magię o jakiej nie śniłeś, ze światów, o których istnieniu nie wiesz"_
+        - _"Pokażę Ci magię, o jakiej nie śniłeś, ze światów, o których istnieniu nie wiesz"_
         - _"Galawain jest przeciwko wam, nie pozwoli wam wejść do Craag An"_
         - [elf](Kajetan) kwituje te wiadomości _"za mało, zbyt ogólnie, zbyt późno"_
     - Zaklęcie światła dziennego nie jest miłe atakującemu widmu, które z kłębów mgły materializuje się wewnątrz magicznego bąbla, jednak nie robi mu większej krzywdy.
     - Po chwili wyczerpującej walki, [mag](Kajetan) zauważa, że zaczyna świtać. Walczące duchy zniknęły, a mgła utrzymuje się zaledwie wewnątrz magicznego schronienia. Opuszcza jego obszar, kończąc ochronne zaklęcie
     - Mgła razem z napastnikiem rozwiewa się w pierwszych promieniach prawdziwego słońca.
     - Odnajdujemy odrzuconą glewnię Skovika, przypadkiem wbitą w resztki jednego z pradawnych wojowników. Znajdujemy na nim skórzany pancerz i pierścionek, który zdaje się zachował kawałek ciała na palcu/
-    - Decydujemy się opuścić wewnętrzny krąg Brokilonu najszybciej jak to możliwe - nawet jeśli mamy zaryzykować spotkanie z [skolopendromorfami](Skolopendr).
+    - Decydujemy się opuścić wewnętrzny krąg Brokilonu najszybciej jak to możliwe - nawet jeśli mamy zaryzykować spotkanie ze [skolopendromorfami](Skolopendr).

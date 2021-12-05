@@ -25,11 +25,11 @@
     - Człowiek ten jest właścicielem zakładu, nazywa się Viggo Regner. 
     - W kantorku, w rogu sklepu przesiaduje drugi jegomość, który wygląda na nas tylko zza okienka. Zwie się Janus i pełni rolę ochroniarza.
     - Właściciel [Fiolki](Fiolka Zdrowia) skłonny jest odkupić od nas głowę potwora, którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](Otto) jej nie zażądają.
-    - Tymczasem Ilanie udaje się wynegocjować dobrą cenę za oba ogony i krew bestii. Zamiast pieniędzy decydujemy się na handel wymienny i tak otrzymujemy 3 *"jaskółki"- - eksperymentalne eliksiry, które Viggo stworzył zainspirowany wiedźmińskimi eliksirami.
+    - Tymczasem Ilanie udaje się wynegocjować dobrą cenę za oba ogony i krew bestii. Zamiast pieniędzy decydujemy się na handel wymienny i tak otrzymujemy 3 *"jaskółki"* - eksperymentalne eliksiry, które Viggo stworzył zainspirowany wiedźmińskimi eliksirami.
     - Kajetan przybija targ wymieniając uścisk dłoni z alchemikiem i prawie odskakuje jak rażony prądem. Okazuje się, że Viggo nosi na palcu obrączkę wykonaną z [*dwimerytu*](dwimeryt).
 5. Różyczka
     - Wracamy do Różyczki na umówione spotkanie z krasnoludami.
-    - [Kranmerowie](Otto) wypłacają nagrodę w postaci 40GP. Zobaczyli trofeum ale nie żądają aby je im zostawić.
+    - [Kranmerowie](Otto) wypłacają nagrodę w postaci 40GP. Zobaczyli trofeum, ale nie żądają aby je im zostawić.
 6. Viggo Regner
     - Decydujemy się zgodnie z planem sprzedać głowę alchemikowi. 
     - [Vigo](Viggo) mówi, że gdyby udało się nam przynieść nieuszkodzoną skórę bestii, byłby w stanie przerobić ją na płaszcz o podobnych właściwościach, co zdolność "migania" bestii.
@@ -67,6 +67,5 @@
         - trop faktycznie prowadzi do baraków robotniczych pod uszkodzonym murem 
         - Ilana widzi mężczyznę, który wygłasza do zebranych wokół niego robotników nienawistne, rasistowskie hasła podżegając do ataków na nieludzi
         - udaje jej się niemal niepostrzeżenie wrócić
-        - po drodze zauważają ją strażnicy i oferują się bezpiecznie odprowadzić do domu, co przyjmuje z wdzięcznością
+        - po drodze zauważają ją strażnicy i oferują bezpiecznie odprowadzić do domu, co przyjmuje z wdzięcznością
         - po powrocie dzieli się swoim odkryciem z Kajetanem
-    
