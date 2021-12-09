@@ -1,4 +1,5 @@
 ### Sesja 26
+[Sesja 25](#sesja-25) [Sesja 27](#sesja-27)
 1. [Wioska Druidów](Wioska) - dzień zmartwychwstania (dzień przygotowań)
     - Po odejściu Aen Eldrin rozmawiamy z Finarrinem:
         - w zależności od samopoczucia Ivara i Enid, wyruszamy najdalej za kilka dni

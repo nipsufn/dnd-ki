@@ -1,4 +1,5 @@
 ### Sesja 77
+[Sesja 76](#sesja-76) [Sesja 78](#sesja-78)
 1. Konsultacje
     - Rozmówiwszy się z Zangenisem, schodzimy do podnóży wzniesienia ze złamaną wieżą i dokańczamy nasz przerwany odpoczynek.
     - Kiedy Ilana siedzi nieobecna, Kajetan rozmawia z Iolą. Mimo wyraźnej niechęci do sposobu jakim komunikuje się {elf}Kajetan, kapłanka obiecuje sprawdzić księgi - będzie wiedziała czy {wyspiarza}Skovik da się uratować najprędzej nazajutrz.

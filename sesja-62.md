@@ -1,4 +1,5 @@
 ### Sesja 62
+[Sesja 61](#sesja-61) [Sesja 63](#sesja-63)
 1. Miejska eksterminacja robaków
     - Kajetan, wyczerpany sprzątaniem, rozmowami na odległość itp. namawia Ilanę aby udała się do [burmistrza](Oleg) opowiedzieć, że uwolnione opary to był nasz pomysł na przegonienie chrabąszczy, zanim ten wymyśli własną historię co narobiliśmy. Sam jest w dużej mierze bezużyteczny - gdyby okazało się, że trzeba będzie szybko uciekać, nie miałby jak, więc zostaje w podziemiach.
     - [Druidka](Ilana), w drodze do miasta, już z daleka słyszy, a wkrótce i widzi efekt naszych działań deratyzacyjnych. 

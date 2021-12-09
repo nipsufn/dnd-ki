@@ -1,4 +1,5 @@
 ### Sesja 70
+[Sesja 69](#sesja-69) [Sesja 71](#sesja-71)
 1. W odwiedziny u rodziny
     - Ilana zauważa Skovika rzeźbiącego coś w drewnie. Zapytany o to [wyspiarz](Skovik) zaskakuje ją spostrzeżeniem, że brakuje jej strzał w kołczanie i właśnie je dla niej struga.
     - [Druidka](Ilana) pyta o Ivara. Podobno młodzian przepada na całe dnie w lesie razem ze swoim jelonkiem, który już trochę podrósł. Zdaje się, że [młody Drummond](Ivar) wyperswadował bratu bawienie się w jego niańkę, co trochę Skovika zabolało.

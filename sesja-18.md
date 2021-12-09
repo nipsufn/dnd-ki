@@ -1,4 +1,5 @@
 ### Sesja 18
+[Sesja 17](#sesja-17) [Sesja 19](#sesja-19)
 1. Brokilon
     - Driady wspaniałomyślnie pozwalają nam przejść brzegiem rzeki do Wioski. 
     - Ilana upiera się by iść brzegiem lasu z racji na patrole wojska stale krążące przy Wstążce. 

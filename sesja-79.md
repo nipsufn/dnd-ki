@@ -1,4 +1,5 @@
 ### Sesja 79
+[Sesja 78](#sesja-78) [Sesja 80](#sesja-80)
 1. Jeszcze raz w drogę
     - Zbieramy manatki i tym razem płacąc Remiemu raczej niż pracując dla niego, planujemy podróż aż do Gors Velen.
     - Na rynku stawiana jest szubienica. Po chwili jakiś urzędnik zagaduje monterów i konstrukcja zaczyna być rozmontowywana ku dezaprobacie motłochu, który już się cieszył na darmowe widowisko.

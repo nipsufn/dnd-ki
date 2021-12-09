@@ -1,4 +1,5 @@
 ### Sesja 99
+[Sesja 98](#sesja-98) [Sesja 100](#sesja-100)
 1. Kto ma rękę do dzieci?
     - Pojawiamy się przed bramami świątynnymi. Upomniany o niebezpieczeństwie, jakie stanowi dziecko niekontrolujące swoich umiejętności, Kajetan udaje się po {Matkę Przełożoną}Iola.
     - Iola nie kojarzy drugiego dziecka z predyspozycjami ku kontroli Mocy. Wysyła Kajetana, by zabrał Darię z dala od Margarity.

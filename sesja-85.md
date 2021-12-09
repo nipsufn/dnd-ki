@@ -1,4 +1,5 @@
 ### Sesja 85
+[Sesja 84](#sesja-84) [Sesja 86](#sesja-86)
 1. W dalszą drogę
     - Budzimy się koło południa w wyśmienitych humorach, niezwykle wypoczęci i o dziwo bez kaca. Do Kerack zostały nam jeszcze ze 4 dni drogi. Sama droga jest wyboista, zaczyna się powoli robić górzysta.
     - W drodze mijamy wiele opustoszałych, popalonych wsi. Drugiego dnia drogi natykamy się na skupisko ludzi w trakcie czegoś, co przypomina masowy pogrzeb.

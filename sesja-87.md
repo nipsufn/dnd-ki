@@ -1,4 +1,5 @@
 ### Sesja 87
+[Sesja 86](#sesja-86) [Sesja 88](#sesja-88)
 1. Na miasto
 	- Przy śniadaniu Ilana otrzymuje liścik od Brona. W mieście nie ma mandoliny na podmianę, ale jeśli {druidka}Ilana ją załatwi i dostarczy, dostanie w zamian tą od Marrida.
     - Kajetan wysyła sowę, aby szukała Otyga podążając traktem do Cidaris.

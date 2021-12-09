@@ -1,4 +1,5 @@
 ### Sesja 93
+[Sesja 92](#sesja-92) [Sesja 94](#sesja-94)
 1. Psikusy
     - Po wieczornym starciu z potworą łapiemy oddech przy piwie w Różyczce.
     - Kajetan, nie wiedzieć czemu, nie może męczyć Kaspara wiadomościami.

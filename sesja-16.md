@@ -1,4 +1,5 @@
 ### Sesja 16
+[Sesja 15](#sesja-15) [Sesja 17](#sesja-17)
 1. Brugge
     - Opuszczamy szemraną spelunę i udajemy się na nocleg do [Ostoi](Ostoja).
     - Po drodze do karczmy, przechodząc przez rynek grupa zauważa, że cyrk już się zwinął, ale klatka z Sowiołakiem została. Stwór jest nakryty płachtą i oblazły przez muchy (znaczy, martwy). 

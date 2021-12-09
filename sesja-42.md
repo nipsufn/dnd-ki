@@ -1,6 +1,6 @@
 ### Sesja 42[<sup>1</sup>](#ad1)
 1. Rozterki i decyzje
-    - Ilana szybko potwierdza obawy Kajetana - skoro wszyscy oprócz ich dwojga piszą się na tą samobójczą misję to ona nie ma zamiaru zdezerterować.
+41 43
     - Snujemy plany podróży, rozważając przy tym, czy jesteśmy w stanie wziąć jeszcze kogoś do pomocy w walce.
     - Próbujemy nająć nowo napotkanego [wiedźmina](Gaetan) do pomocy z Formorianem. Kajetan nawiązuje z nim rozmowę na dystans. Niestety rzucona przez najemnika cena jest zbyt wysoka, wiedźmin nie godzi się też działać inaczej niż samodzielnie, w pojedynkę.
     - Nie mając innego wyboru, sami ruszamy do Mayeny, przyjrzeć się temu, co zostawił po sobie Formorian.

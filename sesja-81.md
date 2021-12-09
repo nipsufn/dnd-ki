@@ -1,4 +1,5 @@
 ### Sesja 81
+[Sesja 80](#sesja-80) [Sesja 82](#sesja-82)
 1. W morze
     - Rankiem Skovik i Ilana znowu się kłócą - {osiłek}Skovik powinien był się postawić Reahi. {Druidka}Ilana ma żal do niego, że wystawił jej cierpliwość na próbę. Czarę goryczy przelewa jednak fakt, że Skovik przedłożył przyjaźń z Reahą nad to, cokolwiek czuje do Ilany, tłumacząc się przy tym, że nie chciał ubliżyć Reahi odmową udziału w jej teatrzyku.
     - Spotykamy się wszyscy przy późnym śniadaniu. Kajetan i Mirna są w zdecydowanie lepszych humorach. Planujemy co dalej zrobić.

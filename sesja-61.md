@@ -1,4 +1,5 @@
 ### Sesja 61
+[Sesja 60](#sesja-60) [Sesja 62](#sesja-62)
 1. Śniadanie i szantażowanie
     - Idziemy do [karczmy](Nowy Zrąb) na śniadanie. Ilana znów zauważa przyglądającego się nam krasnoluda Regana, z trzema kuflami piwa. Jego towarzysza [Andy'ego](Andy) nie ma w okolicy.
     - Kajetan podchodzi i rozpoczyna rozmowę z Scoia'tael. Ten stwierdza, że niziołek widział naszą wczorajszą rozmowę z Radą Kapituły, i grozi zdradzeniem nas Łowcom jeśli nie pomożemy mu odszukać złota Madame Karoll. Zdaje się skutecznie grozimy sami - mieli nam dać spokój, jesteśmy tutaj wiedząc co ryzykujemy, i sugerujemy, że pracujemy dla samych Łowców. Krasnolud odchodzi z niczym, bardzo przestraszony.

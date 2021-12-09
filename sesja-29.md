@@ -1,4 +1,5 @@
 ### Sesja 29
+[Sesja 28](#sesja-28) [Sesja 30](#sesja-30)
 1. Czwarty dzień wędrówki do Craag An - popołudnie
     - Spomiędzy bujnych, falujących na wietrze, fioletowych traw wystają fragmenty ruin, przywodząc na myśl skaliste wybrzeże morza.
     - W oddali, na horyzoncie, widać _ogromne_ drzewo.

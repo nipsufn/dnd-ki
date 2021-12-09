@@ -1,4 +1,5 @@
 ### Sesja 65
+[Sesja 64](#sesja-64) [Sesja 66](#sesja-66)
 1. Dwie igły w stogu siana
     - Przed snem, na prośbę Ilany, Kajetan wysyła wiadomość do Finarrina. Druid jest zajęty - siedzi na bankiecie w Bodrogu i nie może teraz rozmawiać.
     - [Druidka](Ilana) zagaja o wspomnianego wcześniej Isilme. Kajetan opowiada:

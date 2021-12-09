@@ -1,4 +1,5 @@
 ### Sesja 86
+[Sesja 85](#sesja-85) [Sesja 87](#sesja-87)
 1. Miasto piratów
     - Bron z Mirną odłączają się od nas, odprowadzani przez strażników do Cyklamenu. {Druidka}Mirna tłumaczy się pracą, ale widać, że coś innego jest na rzeczy.
     - Samo miasto jest wyjątkowo... malownicze. Rzeka dzieli je na dwie części - tę bogatą i tę pełną drewnianych chat.

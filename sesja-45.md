@@ -1,4 +1,5 @@
 ### Sesja 45
+[Sesja 44](#sesja-44) [Sesja 46](#sesja-46)
 1. Chłodne pożegnanie z [Nowym Mariborem](Maribor)
     - Z samego rana robimy zakupy i sposobimy się do drogi. Na odchodnym Kajetan wypytuje o nazwisko Kaspara. Dowiadujemy się jedynie, że przybył on tu razem z kolumną wojskową z Wyzimy.
     - Ruszamy w drogę. Za miastem zauważamy w oddali kolumnę wojska, zmierzającą do miasta od północy, ale nie chcąc zwracać na siebie już bardziej uwagi przyspieszamy kroku i ewakuujemy się czym prędzej.

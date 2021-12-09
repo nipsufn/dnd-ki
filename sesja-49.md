@@ -1,4 +1,5 @@
 ### Sesja 49
+[Sesja 48](#sesja-48) [Sesja 50](#sesja-50)
 1. Pościg za czarodziejem
     - Larsowi udało się zabrać czarodziejowi rzecz kiedy ten się teleportował - idealnie przepołowiony sygnet. Mężczyzna twierdzi, że dzięki pierścieniowi możemy spróbować odnaleźć Vicovaro, bo to dzięki niemu właśnie mógł się teleportować.
     - Kajetan przygląda się sygnetowi i dedukuje, że napis wygrawerowany na pierścieniu (aktualnie przepołowiony) głosił "__Loc Grim__". Jest to nazwa miasta w Nilfgaardzie.

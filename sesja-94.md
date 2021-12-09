@@ -1,4 +1,5 @@
 ### Sesja 94
+[Sesja 93](#sesja-93) [Sesja 95](#sesja-95)
 1. W drogę
     - Ilana, poprzez ptasiego posłańca, informuje Kajetana o obecności Lödbrokea w Kerack. Poleca aby skontaktował się z Mirną lub Leivem i wypytał o sytuację w mieście.
     - Kajetan próbuje skontaktować się z Mirną, bezskutecznie - jego zaklęcie komunikacyjne nie odnajduje "adresata". {Mag}Kajetan składa więc "wizytę" Bronowi w czasie kąpieli z dziewkami. {Mężczyzna}Bron twierdzi, że Mirna jest w Cidaris na naukach u jakiegoś alchemika. Nie tłumaczy to jednak dlaczego zaklęcie nie złapało.

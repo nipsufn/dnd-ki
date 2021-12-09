@@ -1,4 +1,5 @@
 ### Sesja 78
+[Sesja 77](#sesja-77) [Sesja 79](#sesja-79)
 1. Nogi za pas
     - Kajetan podchodzi do Bleoberisa, by odprawić natarczywe widmo Lloyda z powrotem w zaświaty. Zmęczonemu {magowi}Kajetan zaklęcie się nie udaje - z wyjątkiem tego, że zwraca na siebie uwagę dotychczas niemrawego upiora.
     - Zmęczeni i niewyspani, nie jesteśmy w stanie podjąć walki. Uciekamy prosto do Mariboru, do którego docieramy nad ranem. Wygląda na to, że nasz arcywróg nauczył się konrolować martwe ptactwo...

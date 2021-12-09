@@ -1,4 +1,5 @@
 ### Sesja 53
+[Sesja 52](#sesja-52) [Sesja 54](#sesja-54)
 1. Dziwne sny, dziwne dni
     - Zarówno Ilanie jak i Kajetanowi śni się ten sam koszmar, w którym Lloyd wstaje z grobu i próbuje ich udusić. Budzą się zmęczeni wcześnie nad ranem nie mogąc dalej spać, na szyjach mają ślady niby tylko wyśnionego ataku.
     - Ilana, nie wiedząc co ze sobą uczynić zaczyna pakować rzeczy, które planuje zabrać ze sobą do Col Serrai. 

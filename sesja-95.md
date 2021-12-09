@@ -1,4 +1,5 @@
 ### Sesja 95
+[Sesja 94](#sesja-94) [Sesja 96](#sesja-96)
 1. Przez Garstang
     - Twierdza magów kryje w sobie wiele śmiertelnych ciekawostek - od przenikającej do kości lodowatej ciemności otaczającej niemal każde schody, poprzez standardowe mechanizmy obronne jak strzelające pociski i ruchome ściany, po osobliwe pokoje: czytelnię z agresywnymi, latającymi książkami, magiczną kuźnię zasilaną przez żywiołaki, laboratorium anatomii istot wszelakich, czy w końcu sale treningowe dla adeptów.
     - Niemal wszystko, co tu się znajduje, przypomina nam to, co widzieliśmy już w Craag An. Szczególnie znajome wydają się sale treningowe z wysypanymi białym piaskiem kręgami.

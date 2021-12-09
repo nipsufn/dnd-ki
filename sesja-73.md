@@ -1,4 +1,5 @@
 ### Sesja 73
+[Sesja 72](#sesja-72) [Sesja 74](#sesja-74)
 1. W domu
     - Odpocząwszy po krótkiej, acz intensywnej wyprawie, Kajetan spędza resztę dnia na identyfikacji przywiezionych znalezisk.
         - znaleziska pochodzą najwyraźniej z kolekcji Corneirosa

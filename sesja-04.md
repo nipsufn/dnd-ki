@@ -1,4 +1,5 @@
 ### Sesja 4
+[Sesja 3](#sesja-3) [Sesja 5](#sesja-5)
 1. Wejście do Kanałów
     - Przy śniadaniu opracowujemy plan działania do zlecenia alchemika.
     - Decydujemy się wejść do kanałów najbardziej oddalonym wejściem, za południowymi bramami miasta.

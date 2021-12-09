@@ -1,4 +1,5 @@
 ### Sesja 97
+[Sesja 96](#sesja-96) [Sesja 98](#sesja-98)
 1. Przedstawienie
     - Wstajemy skoro świt. Wypływamy z Oxenfurtu, podążając w swojej łupinie za innymi studentami zmierzającymi na próbę.
     - Dotarłszy na miejsce trzymamy się na uboczu cmentarza, podczas gdy studenci rozpoczynają próbę swojego przedstawienia, składając hołd wieszczom północy.

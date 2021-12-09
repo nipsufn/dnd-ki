@@ -1,4 +1,5 @@
 ### Sesja 35
+[Sesja 34](#sesja-34) [Sesja 36](#sesja-36)
 1. Akademia
 	- Kajetan, Finarrin i Enid idą zbadać Akademię. Reszta drużyny czeka pod oświetlonym posągiem.
 	- Zaczynamy metodycznie przeszukiwać pokoje na pierwszym piętrze - jest ich siedem:

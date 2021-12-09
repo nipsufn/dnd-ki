@@ -1,4 +1,5 @@
 ### Sesja 3
+[Sesja 2](#sesja-2) [Sesja 4](#sesja-4)
 1. Zakończenie zlecenia
     - Odcinamy łeb, ogony z "grzechotkami" (które nawiasem pozwalały bestii unikać ciosów - "blur"), dodatkowo Ilana napełnia swoją manierkę krwią potwora w nadziei, że uda się to sprzedać dla zysku.
     - Wracamy do tartaku zaraportować ubicie bestii.

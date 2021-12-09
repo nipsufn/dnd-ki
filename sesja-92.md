@@ -1,4 +1,5 @@
 ### Sesja 92
+[Sesja 91](#sesja-91) [Sesja 93](#sesja-93)
 1. Koszmary bohaterów pary
     - Ilana śni o rozmowach z druidem Artisem:
         - Artis to starszy mężczyzna z krzaczastymi brwiami i głęboko osadzonymi oczami

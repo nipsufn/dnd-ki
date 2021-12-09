@@ -1,4 +1,5 @@
 ### Sesja 38
+[Sesja 37](#sesja-37) [Sesja 39](#sesja-39)
 1. Warownia, podziemia
     - Po nocnym odpoczynku w dla odmiany wygodnych łóżkach w bezpiecznej (jak narazie) przestrzeni, przymierzamy się do uruchomienia kuźni.
     - Kajetan gorączkowo przeczesuje księgi w poszukiwaniu informacji na temat paliwa zasilającego piec i działania samej kuźni.

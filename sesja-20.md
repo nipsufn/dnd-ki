@@ -1,4 +1,5 @@
 ### Sesja 20
+[Sesja 19](#sesja-19) [Sesja 21](#sesja-21)
 1. Wioska w Brokilonie
     - Nad ranem temperatura wydaje się być zdecydowanie niższa, a powietrze bardziej rześkie. Na wschodzie kłębią się ciężkie, śniegowe chmury.
     - Zbieramy szczątki driad: tej przemienionej w drzewo i tej przez nią zabitej. Chowamy obie na cmentarzu druidów.

@@ -1,4 +1,5 @@
 ### Sesja 74
+[Sesja 73](#sesja-73) [Sesja 75](#sesja-75)
 1. Poranek w Dorian
     - Schodzimy na śniadanie. Za oknem ktoś się głośno awanturuje. Przed destylarnią motłoch z widłami i pałkami skanduje zarzuty przeciw destylarni, jakoby przez ich metody produkcji do Dorian ściągnął potwór - pożeracz koni.
     - Kajetan swoim podszeptywaniem próbuje sprowokować burdę. Zamiast tego udaje mu się sprawić, że jeden z osiłków cichcem podrzyna dwóch swoich kamratów.

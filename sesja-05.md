@@ -1,4 +1,5 @@
 ### Sesja 5
+[Sesja 4](#sesja-4) [Sesja 6](#sesja-6)
 ##### Pomiędzy Aequinoctuim jesiennym a Solistitium zimowym
 1. Fiolka Zdrowia
     - Po wyjściu z kanałów i dziwnej zmianie czasu swoje pierwsze kroki kierujemy do Fiolki, do Vigga.
@@ -45,7 +46,7 @@
     - Snują się opowieści przy kuflu:
         - Kajetan zmierzał do Vartburga licząc, że znajdzie ślady po magu odpornym na dwimeryt, ale nie jest przywiązany do tego kierunku ze względu na powiązanie Redanii z Wiecznym Ogniem i brak pewności co do poszlak
         - Ilana poszukuje druida imieniem Myszowór, który zdaniem jej poprzedniego mentora jest w stanie wyjaśnić skąd u dziewczyny takie zdolności i poprowadzić ją dalej; opowiada o tym, jak rodzice porzucili ją w lesie, o driadach i o druidach (ale bardzo zdawkowo)
-    - [Podjudzacz robotników](Undyr), którego Ilana rozpoznaje niemal natychmiast, pojawia się z towarzyszem w karczmie nieludzi. Niby-uprzejmie wypytuje [Marię co można zamówić (sprawia wrażenie pytającego jak źle jest).
+    - [Podjudzacz robotników](Undyr), którego Ilana rozpoznaje niemal natychmiast, pojawia się z towarzyszem w karczmie nieludzi. Niby-uprzejmie wypytuje Marię co można zamówić (sprawia wrażenie pytającego jak źle jest).
     - [Podjudzacz](Undyr) jest kapłanem, który ostrzy zęby na pozycję [głównego kapłana](Matias) (przemawiający staruszek z Rynku) - wnioskujemy to z jego rozmowy z kompanem.
     - Do karczmy wchodzi (choć lepszym słowem byłoby wtargnięcie) znajoma już banda robotników i próbuje nawiązać bójkę. Zostaje jednak spacyfikowana i przepędzona przez [Kapłana](Undyr). 
     - Na zewnątrz niemal natychmiast zjawia się straż i aresztuje bojówkarzy.

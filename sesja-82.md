@@ -1,4 +1,5 @@
 ### Sesja 82
+[Sesja 81](#sesja-81) [Sesja 83](#sesja-83)
 1. Pogaduchy i ploteczki
 	- Rankiem Finarrin zaprasza wszystkich na śniadanie. Skacowany Kajetan, po oddaleniu się poprzedniego wieczora w sobie jedynie znanym kierunku, zostaje znaleziony pod palisadą i skierowany do chaty {kasztelana}Finarrin.
 	- Ivar zaczął rozbudowywać swoją chatę o jakieś dodatkowe pomieszczenie. Przybyło tam także różnych znalezisk i ozdób, między innymi trącący magią kamienny rycerz, jak się okazuje, pamiątka z Craag An.

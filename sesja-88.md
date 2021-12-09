@@ -1,4 +1,5 @@
 ### Sesja 88
+[Sesja 87](#sesja-87) [Sesja 89](#sesja-89)
 1. Zabieramy co nasze
     - Kajetan na prośbę Ilany jeszcze przez chwilę przygląda się poprzez sowę rozwojowi sytuacji.
     - Wyspiarze, wnioskując po jednej z tarcz zdobiących drakkar, pochodzą z rodu Türseach - łeb niedźwiedzia z profilu w polu niebieskim. Tarcza jest dosyć stara, a symbol ledwo widoczny.

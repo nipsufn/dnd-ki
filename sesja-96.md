@@ -1,4 +1,5 @@
 ### Sesja 96
+[Sesja 95](#sesja-95) [Sesja 97](#sesja-97)
 1. Miasto kultu
     - Nad ranem dopływamy do Novigradu - ogromnego miasta portowego i głównego ośrodka kultu Wiecznego Ognia. Port, mimo że mieści setki okrętów, posiada ruchliwą redę. Wśród cumujących statków są trzy ze znajomą banderą rodu Dimun. W dzielnicy portowej widzimy tysiące ludzi i wielki plac targowy.
     - Kompleks świątynny jest na osobnej wysepce, jednej z wielu w delcie Pontaru. Widzimy łączący go most, który jest remontowany.

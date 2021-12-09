@@ -1,4 +1,5 @@
 ### Sesja 68
+[Sesja 67](#sesja-67) [Sesja 69](#sesja-69)
 1. Bagienna fauna i flora
     - Chata ma kształt litery "L". Z przodu i na tyłach znajdował się kiedyś ogródek, ale teraz zarósł niepomiernie, a chwasty w nim rosnące wydają się nader duże i bujne.
     - Dostępu do budynku bronią drzwi od spodu mocno obrośnięte przez drobne pnącza. Kajetan wyjmuje drzwi z przerdzewiałych zawiasów. Pędy wydają się być niepokojąco ruchliwe - straciwszy oparcie wyciągają się do trzymanych przez [elfa](Kajetan) drzwi niczym ręce.

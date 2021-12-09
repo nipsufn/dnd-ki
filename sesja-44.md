@@ -1,4 +1,5 @@
 ### Sesja 44
+[Sesja 43](#sesja-43) [Sesja 45](#sesja-45)
 1. Poranek po bitwie
     - Robimy plany. Decydujemy się udać wspólnie do Cleves aby uzupełnić zapasy i odpocząć w cywilizacji.
     - Plan jest taki, że Kajetan z Ilaną i Skovikiem pójdą dalej, w stronę Kaedwen, a Finarrin wraz z resztą dokończy sprawę Brokilońską.

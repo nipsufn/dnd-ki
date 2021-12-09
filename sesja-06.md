@@ -1,4 +1,5 @@
 ### Sesja 6
+[Sesja 5](#sesja-5) [Sesja 7](#sesja-7)
 1. Viggo Regner
     - Niespodziewanym gościem okazuje się Lord Myrton.
     - Zwierzchnik Łowców przybywa ze zleceniem. Obiecuje dać nam glejt jeśli eskortujemy jednego z Łowców Potworów (Kasimira) do Świątyni Melitele; **[Zadanie: Ku Świątyni!](#z_q7)**

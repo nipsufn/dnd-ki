@@ -1,4 +1,5 @@
 ### Sesja 56
+[Sesja 55](#sesja-55) [Sesja 57](#sesja-57)
 1. Glejtologia stosowana
     - Mury przed główną bramą miasta zdobi nietypowy dekor w postaci 6 wisielców. W jednym z nich Ilana rozpoznaje sierżanta Skaagsa. Wygląda na to, że po potyczce nad Chotlą przeprowadzono tu małe porządki.
     - Próbujemy wejść do miasta. Ustawiamy się w niemiłosiernie długiej kolejce. Posuwając się wolno do przodu rozgłaszamy plotki, że przy drugiej bramie jest lepiej i mniej ludzi, skracając tym nieco ogonek.

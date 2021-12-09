@@ -1,4 +1,5 @@
 ### Sesja 33
+[Sesja 32](#sesja-32) [Sesja 34](#sesja-34)
 1. Zwiedzanie wieży nekromanty
     - W piwnicy znajdujemy obłożony zaklęciem ciemności ołtarz maga.
     - Na przeciwległej ścianie jest nieukończony portal magiczny wymalowany na wyprawionej skórze ofiar.

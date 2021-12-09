@@ -1,4 +1,5 @@
 ### Sesja 84
+[Sesja 83](#sesja-83) [Sesja 85](#sesja-85)
 1. Powrót do Wioski
     - Nasze rozważania o noclegu zostają przerwane przez dochodzące nas z oddali dźwięki konnych.
     - Nie chcąc wpakować się na jakiś przypadkowy oddział idący z Brugge, umykamy za rzekę. Kajetan wysyła na zwiad swoją sowę, która potwierdza nasze przypuszczenia.

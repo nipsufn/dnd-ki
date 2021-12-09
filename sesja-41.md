@@ -1,4 +1,5 @@
 ### Sesja 41
+[Sesja 40](#sesja-40) [Sesja 42](#sesja-42)
 1. Na Łysej Górze
     - Z oddali obserwujemy jak na moście, chwilę za konnymi, zjawia się zakapturzona, uzbrojona postać.
     - Między konnymi, a przybyszem wywiązuje się najpierw rozmowa, a potem walka. Dwóch z rycerzy ginie z ręki przybysza, on sam także zostaje silnie ranny. Człowiek ten zdaje się wręcz nieludzko dobrze władać mieczem.

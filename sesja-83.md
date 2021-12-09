@@ -1,4 +1,5 @@
 ### Sesja 83
+[Sesja 82](#sesja-82) [Sesja 84](#sesja-84)
 1. Powrót paladyna
     - Nad ranem do wioski przybywa Ivar. Jego jeleń ma krucze skrzydła. Młodzian nie jest do końca zadowolony z nieco butnego wezwania Ilany. Przyjmuje jednak wyjaśnienie, że to Kajetan - jak zwykle - plótł w wiadomości co mu ślina na język przyniesie, bez głębszego zastanowienia.
     - {Młoda druidka}Ilana prosi o pomoc z Formorianem. Zanim jednak {wyspiarz}Ivar zdąży wypytać o szczegóły, zmuszony jest wysłuchać tyrady na temat jego współpracy z Eithne.

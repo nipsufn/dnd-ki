@@ -1,4 +1,5 @@
 ### Sesja 80
+[Sesja 79](#sesja-79) [Sesja 81](#sesja-81)
 1. Pierwsze rysy
     - Ilana kłóci się ze Skovikiem. {Wyspiarz}Skovik uważa, że ona i {elf}Kajetan nie dzielą się z nim wszystkimi nowinami i mają jakieś tajemnice na boku. Zarzuca w złości, że mają go za przygłupa. Chce wiedzieć co dokładnie stało się kiedy wszedł za Ilaną do tunelu.
     - {Druidka}Ilana podejmuje desperackie próby wytłumaczenia Skovikowi co się wtedy wydarzyło, jednak za każdym razem kiedy zbyt mocno wdaje się w szczegóły, coś jakby magicznie sprawia, że Skovik nie zapamiętuje niczego z rozmowy i piekli się jeszcze bardziej.

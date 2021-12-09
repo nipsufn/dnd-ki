@@ -1,4 +1,5 @@
 ### Sesja 58
+[Sesja 57](#sesja-57) [Sesja 59](#sesja-59)
 1. Wielka chryja
     - Wychodzimy przed karczmę, ledwie widać jutrzenkę.
     - Przy wozie jedną z panienek poddusza kijem zakapturzona postać, w której rozpoznajemy Enid. Krzyczy coś w stronę wozu. W okolicy jest druga postać, pewnie Finarrin.

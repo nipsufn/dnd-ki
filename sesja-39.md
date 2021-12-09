@@ -1,4 +1,5 @@
 ### Sesja 39
+[Sesja 38](#sesja-38) [Sesja 40](#sesja-40)
 1. Kuźnia, druga próba Ivara
     - Z jaja zamkniętego w bloku użytym jako opał wykluwa się coś pomiędzy smokiem, jaszczurką, a wężem. Gad ma pionowe źrenice i skórę pokrytą łuską w kolorze gorejącego płomienia.
     - Stworzenie rzuca się na nas, atakując kogo popadnie. Kajetan próbuje coś kombinować magicznego, ale niezbyt mu idzie. Szybko wpadamy na pomysł aby płomiennego gada utopić w jak największej ilości wody.

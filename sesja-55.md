@@ -1,4 +1,5 @@
 ### Sesja 55
+[Sesja 54](#sesja-54) [Sesja 56](#sesja-56)
 1. W drogę, nareszcie!
     - Wyruszamy do Mariboru, przez Brugge, aby po drodze zrobić zakupy i uzupełnić braki w prowiancie tudzież ekwipunku. Najlepiej znamy drogę przez Medowną toteż nią właśnie podążamy.
     - W Medownej, z jednego z okolicznych wzgórz widzimy jakąś postać wpatrującą się tępo w to, co zostało z jednej z chat. 
