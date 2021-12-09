@@ -1,5 +1,5 @@
 ### Sesja 0
--1 1
+[Sesja 1](#sesja-1)
 ##### Przed Aequinoctium jesiennym
 1. Dwójksiężycowa Noc
     - Ilana i Kajetan budzą się w wozie Łowców Czarownic, skuci, w samych gaciach, gdy wóz zatrzymuje się na nocny postój.
