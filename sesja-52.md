@@ -1,5 +1,5 @@
 ### Sesja 52
-[Sesja 51](#sesja-51) [Sesja 53](#sesja-53)
+##### [Sesja 51](#sesja-51) [Sesja 53](#sesja-53)
 1. Nieproszeni goście i rozmowy niekontrolowane
     - w Wiosce zastajemy tlące się jeszcze ognisko. Drzwi do wszystkich 4 chat, które się ostały są otwarte. Większość wyniesionego z nich dobytku po druidach leży na kupie, a Ilana słyszy dźwięk rozbijanego szkła z chatki Mirny.
     - Zostawiając gości pod opieką Finarrina, Ilana i Kajetan sprawdzają co się dzieje. W podpiwniczeniu domku zaskakują trzech kmiotków.

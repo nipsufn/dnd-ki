@@ -1,5 +1,5 @@
 ### Sesja 69
-[Sesja 68](#sesja-68) [Sesja 70](#sesja-70)
+##### [Sesja 68](#sesja-68) [Sesja 70](#sesja-70)
 1. Przygotowania do obrad
     - Wygląda na to, że Bras załatwił swoje sprawy w Mayenie i teraz wybiera się do Carreras.
     - Przed zebraniem, z pomocą {elfa}Kajetan, Ilana wysyła wiadomość do Finarrina. {Druid}Finarrin prosi o księgi podatkowe, bo chyba podpisał jakąś umowę z księciem Kistrinem względem nadań ziemskich.

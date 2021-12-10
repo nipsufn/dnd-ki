@@ -1,5 +1,5 @@
 ### Sesja 9
-[Sesja 8](#sesja-8) [Sesja 10](#sesja-10)
+##### [Sesja 8](#sesja-8) [Sesja 10](#sesja-10)
 1. Różyczka
     - [Grupa Skovika](#p_wedrowna_banda_skovika) podróżowała z Dorian do Wyzimy, potem do Ellander, gdzie eskortowali wóz z ptakami (kruki).
     - Dowiadujemy się, że Emhyr, cesarz Nilfgaardu został zabity przez szlachtę po trzecim najeździe na północ - najazdy nie przynosiły konkretnych korzyści dla ich kraju.

@@ -1,5 +1,5 @@
 ### Sesja 59
-[Sesja 58](#sesja-58) [Sesja 60](#sesja-60)
+##### [Sesja 58](#sesja-58) [Sesja 60](#sesja-60)
 1. W drogę!
     - Przed naszym schronieniem wbita jest driadzia strzała, osmalona i pokryta krwią. Nie wiemy skąd się tu wzięła.
     - W drodze do Mariboru mijają nas konni w barwach Temerii i Redanii. Rzucają nam niechętne, lekko podejrzliwe spojrzenia. Zdają się wieźć zaopatrzenie do obozu.

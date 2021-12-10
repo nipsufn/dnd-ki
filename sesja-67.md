@@ -1,5 +1,5 @@
 ### Sesja 67
-[Sesja 66](#sesja-66) [Sesja 68](#sesja-68)
+##### [Sesja 66](#sesja-66) [Sesja 68](#sesja-68)
 1. Im dalej w bagno tym więcej... wody w butach
     - Żegnamy się z Lentinusem i podejmujemy poszukiwania wspomnianej przez druida jaskini przypuszczając, że możemy natknąć się tam na, naszym zdaniem, źródło całego zamieszania z kikimorami - ukrytą na bagnach wytwórnię dziwnego narkotyku z kadzidłem.
     - Po drodze mijamy krąg menhirów skoncentrowanych wokół obrobionego kamienia stojącego w samym centrum. Głaz przypomina rzeźbę o ludzkich kształtach. Brakuje jednak ręki, a w miejscu głowy artysta autor zatknął metalowy pręt.

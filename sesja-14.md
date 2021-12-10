@@ -1,5 +1,5 @@
 ### Sesja 14
-[Sesja 13](#sesja-13) [Sesja 15](#sesja-15)
+##### [Sesja 13](#sesja-13) [Sesja 15](#sesja-15)
 ####Solistitium zimowe
 1. Brugge
     - Zielona Świeczka to praktycznie speluna. Tania. Śpi się na "hali". Siedzą w niej jacyś menele po nocce w manufakturze, poza tym jest pusta.

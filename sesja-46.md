@@ -1,5 +1,5 @@
 ### Sesja 46
-[Sesja 45](#sesja-45) [Sesja 47](#sesja-47)
+##### [Sesja 45](#sesja-45) [Sesja 47](#sesja-47)
 1. Nowe wieści o poranku
     - Budzimy się w "bąbelku" otoczeni aromatem końskich odchodów. Zbieramy się do wymarszu kiedy znajduje nas ptasi posłaniec, tym razem to najzwyklejszy niemagiczny wróbel.
     - Ptak przyniósł wiadomość od Finarrina. Ilana relacjonuje ją po krótce Kajetanowi celowo pomijając szczegóły nieistotne dla elfa. 

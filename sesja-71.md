@@ -1,5 +1,5 @@
 ### Sesja 71
-[Sesja 70](#sesja-70) [Sesja 72](#sesja-72)
+##### [Sesja 70](#sesja-70) [Sesja 72](#sesja-72)
 1. Z igły widły
     - Keira poirytowana zakrywa lampę, którą zostawił Bras. Mówi, że razem z Stregoborem przyglądali się remontowi prowadzonemu przez Kajetana.
     - {Czarodziejka}Keira opowiada:

@@ -1,5 +1,5 @@
 ### Sesja 8
-[Sesja 7](#sesja-7) [Sesja 9](#sesja-9)
+##### [Sesja 7](#sesja-7) [Sesja 9](#sesja-9)
 1. Fiolka Zdrowia
     - Viggo dał nam pismo umożliwiające pełnoprawne wejście do kanałów.
 2. Kanały

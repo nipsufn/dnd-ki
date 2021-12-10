@@ -1,5 +1,5 @@
 ### Sesja 76
-[Sesja 75](#sesja-75) [Sesja 77](#sesja-77)
+##### [Sesja 75](#sesja-75) [Sesja 77](#sesja-77)
 1. W góry, za potworem
     - Ruszamy za potworem zgodnie ze wskazówkami elfki. W drodze mija nas kolumna 4 wozów obładowanych uzbrojonymi ludźmi w cywilu.
     - Całość zdaje się eskortować jeden z wozów, nieco bogatszy. Na drzwiach karety błyszczy w słońcu złoto-srebrny, bogaty herb z literą G.

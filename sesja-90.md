@@ -1,5 +1,5 @@
 ### Sesja 90
-[Sesja 89](#sesja-89) [Sesja 91](#sesja-91)
+##### [Sesja 89](#sesja-89) [Sesja 91](#sesja-91)
 1. Miejskie sprawunki
     - Nie chcąc nadużywać gościnności kapłanek, zostawiamy wiadomość dla Matki Ioli, że udajemy się na jakiś czas do miasta. 
     - Na odchodnym tknięta przeczuciem Ilana sprawdza odzyskany dobytek Skovika. W jego rzeczach, oprócz miecza, brakuje też dwóch wystruganych przez niego figurek: wilczycy i totemu niedźwiedzia.

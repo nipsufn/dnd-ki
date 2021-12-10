@@ -1,5 +1,5 @@
 ### Sesja 28
-[Sesja 27](#sesja-27) [Sesja 29](#sesja-29)
+##### [Sesja 27](#sesja-27) [Sesja 29](#sesja-29)
 1. Trzeci dzień wędrówki do Craag An
     - Podążamy za melodią wzdłuż szeregu ponuro wyglądających drzew, na których widać zawieszone i częściowo wrośnięte bardzo stare zwłoki - ślady wskazują na kilka do kilkunastu lat rozkładu.
     - Ciała wyglądają jakby zostały podwieszone za którąś z kończyn lub za szyję. Z niektórych miejsc sterczą strzały, powodując myśl, że być może wisielcy służyli driadom do ćwiczeń strzelania do celu.

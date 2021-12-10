@@ -1,5 +1,5 @@
 ### Sesja 36
-[Sesja 35](#sesja-35) [Sesja 37](#sesja-37)
+##### [Sesja 35](#sesja-35) [Sesja 37](#sesja-37)
 1. Akademia, dzień zmartwychwstania ostatniego Aen Drisichean
     - [Obcy elf](Lanemin) zamyka się w pokoju z martwą Arkanistką. Zaglądając tam zauważamy, że wyprawił Riv'yvre "pogrzeb".
     - Przeszukując dalej stosy książek zauważamy, że sporo z nich ma wyrwane strony. Ilanie udaje się odnaleźć kilka z nich.

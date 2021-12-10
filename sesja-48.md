@@ -1,5 +1,5 @@
 ### Sesja 48
-[Sesja 47](#sesja-47) [Sesja 49](#sesja-49)
+##### [Sesja 47](#sesja-47) [Sesja 49](#sesja-49)
 1. Łapiąc oddech
     - Otrzymawszy pokój, podpity Kajetan urządza wielką kąpiel. Ilana w tym czasie eksperymentuje z modyfikacją swojego wyglądu. Przy użyciu swoich dziwnych zdolności zmienia kolor włosów, skóry i oczu, a następnie rusza na miasto poszukać posłańca z wiadomością od Finarrina.
     - W drodze do wyjścia z przybytku zaczepia ją karczmarz, niziołek. Co ciekawe, jest bardzo podobny do niziołków z Zielonej Świeczki. Nie rozpoznaje druidki, więc "przebranie" działa. Wskazuje dziewczynie drogę do wyjścia marudząc coś pod nosem.

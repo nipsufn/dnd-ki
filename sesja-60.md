@@ -1,5 +1,5 @@
 ### Sesja 60
-[Sesja 59](#sesja-59) [Sesja 61](#sesja-61)
+##### [Sesja 59](#sesja-59) [Sesja 61](#sesja-61)
 1. Wieści i zlecenie
     - Budzimy się rano w miarę wypoczęci. Idziemy do ratusza dopytać o szczegóły zlecenia na chrabąszcza. [Burmistrza](Oleg) nie zastajemy - strażnicy odsyłają nas do karczmy.
     - W Nowym Zrębie Oleg przekazuje mieszczanom wieści jakie otrzymał od gońca - Addę, królową Temerii, oraz nowonarodzonego księcia Foltesta zaatakowała jakaś czarownica, pewnikiem sama Filippa Eilhart. Królowej nic nie jest, jednak książę został zauroczony.

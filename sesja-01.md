@@ -1,5 +1,5 @@
 ### Sesja 1
-[Sesja 0](#sesja-0) [Sesja 2](#sesja-2)
+##### [Sesja 0](#sesja-0) [Sesja 2](#sesja-2)
 1. Do Pontaru i z powrotem
     - Wyruszamy na północ od obozowiska, z dala od niepokojących krzyków dobiegających z lasu.
     - Ilana wypytuje wiewiórki o zbiegłego Łowcę. Gryzonie wspominają tylko, że widziały jak niedawno ktoś w popłochu uciekał na drzewo.

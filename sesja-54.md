@@ -1,5 +1,5 @@
 ### Sesja 54
-[Sesja 53](#sesja-53) [Sesja 55](#sesja-55)
+##### [Sesja 53](#sesja-53) [Sesja 55](#sesja-55)
 1. Jak sójki za morze
     - Skovik śpi jak zabity, mamy sporo czasu do zmarnowania w Col Serrai
     - Ilana, korzystając ze sposobności, przygląda się dziwnej muszli-kryształowi z bliska. Cacko zdaje się odbijać wszystkie z kolorów magii, zupełnie jak masa perłowa, która mieni się odbitym światłem na wszystkie kolory tęczy.

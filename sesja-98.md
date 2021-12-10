@@ -1,5 +1,5 @@
 ### Sesja 98
-[Sesja 97](#sesja-97) [Sesja 99](#sesja-99)
+##### [Sesja 97](#sesja-97) [Sesja 99](#sesja-99)
 1. Krótka rozłąka - sprawunki Kajetana
 	- Kajetan dociera do górskiego punktu mocy. Rozbija obóz i zabezpiecza swój "skarb" przed porwaniem przez jakąś przypadkową srokę/wronę, czy inną wiewiórkę na czas ładowania się mocą.
 	- Korzystając z wolnej chwili zagląda, co u sowy:

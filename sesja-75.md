@@ -1,5 +1,5 @@
 ### Sesja 75
-[Sesja 74](#sesja-74) [Sesja 76](#sesja-76)
+##### [Sesja 74](#sesja-74) [Sesja 76](#sesja-76)
 1. Poranek w Rdestowej
     - Niziołki od rana biegają poddenerwowane. Wykrzykują coś między sobą w ich dialekcie. Do miasta zajechał na wierzchowcu, tj. kucyku, starszy, siwiejący niziołek z kuszą u boku, przyodziany w hełm.
     - Podobno na drodze do Gors Velen potwór zaatakował kolejny wóz. Z ludzi niewiele zostało, zapytane nizołki nie są w stanie też określić kto powoził wozem ani czy pojazd miał jakiś znak na drzwiach. Podejrzewamy, że ofiarą potwora mógł paść znajomy księgowy z Mariboru.

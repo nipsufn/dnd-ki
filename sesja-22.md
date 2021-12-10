@@ -1,5 +1,5 @@
 ### Sesja 22
-[Sesja 21](#sesja-21) [Sesja 23](#sesja-23)
+##### [Sesja 21](#sesja-21) [Sesja 23](#sesja-23)
 1. Trzeci dzień po powrocie Finarrina
     - Kajetan i Mirna nie pojawiają się na śniadaniu.
     - Ilana i Skovik zastają na śniadaniu jedynie Ivara.

@@ -1,5 +1,5 @@
 ### Sesja 64
-[Sesja 63](#sesja-63) [Sesja 65](#sesja-65)
+##### [Sesja 63](#sesja-63) [Sesja 65](#sesja-65)
 1. Na pobojowisku
     - [Wojowniczka](Fiona), zanim traci przytomność, nalega aby odszukać jej konia i przynieść z juków antidotum na truciznę stwora, którą nazywa Trupim Jadem. Bełkocze, że jeśli trucizna dotrze do jej serca, nie będzie już kogo ratować.
     - Andy pędzi po Regana żeby przynieść nosze dla [nieprzytomnej](Fiona) - trzeba zabrać ją do obozu.

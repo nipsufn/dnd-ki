@@ -1,5 +1,5 @@
 ### Sesja 24
-[Sesja 23](#sesja-23) [Sesja 25](#sesja-25)
+##### [Sesja 23](#sesja-23) [Sesja 25](#sesja-25)
 1. Spotkanie z Oberonem
     - Odprowadzani skowytem [protektora Brokilonu](Bizoktor), przewodzeni przez Yaevinna, idziemy na polanę położoną na zboczu wzgórza, z którego roztacza się widok na Medowną. 
     - Na jasnej i ciepłej polanie widzimy samego Oberona, wiosennego Aen Eldrin o zielonej karnacji, niebieskich oczach, włosach w nieładzie i zwiewnej tunice, oraz dwie zapatrzone w niego driady.

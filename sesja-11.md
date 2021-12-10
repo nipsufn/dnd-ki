@@ -1,5 +1,5 @@
 ### Sesja 11
-[Sesja 10](#sesja-10) [Sesja 12](#sesja-12)
+##### [Sesja 10](#sesja-10) [Sesja 12](#sesja-12)
 #### 2 tygodnie przed Solistitium zimowym
 1. Do Carreras
     - Kajetan przypomina sobie że elfy też świętują Solistitium zimowe, Midivern - w tym czasie granica między płaszczyznami magicznymi jest najsłabsza.

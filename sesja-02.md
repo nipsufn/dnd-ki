@@ -1,5 +1,5 @@
 ### Sesja 2
-[Sesja 1](#sesja-1) [Sesja 3](#sesja-3)
+##### [Sesja 1](#sesja-1) [Sesja 3](#sesja-3)
 1. W Różyczce
     - Różyczka okazuje się być całkiem schludnym i przyzwoitym miejscem prowadzonym przez parę półelfów, Marię i Waleriana. Goszczą tutaj nie tylko nieludzie, ale też kilku zwykłych ludzi, robotników.
     - W Różyczce poznajemy drugiego Kranmera, Hansa, brata Otta. Zapraszają nas do swojego stolika.

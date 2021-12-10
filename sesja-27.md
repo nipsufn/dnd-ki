@@ -1,5 +1,5 @@
 ### Sesja 27
-[Sesja 26](#sesja-26) [Sesja 28](#sesja-28)
+##### [Sesja 26](#sesja-26) [Sesja 28](#sesja-28)
 1. Przygotowania do drogi
     - Przed wieczorem Ilana pomaga Ivarowi przerobić resztki jego zbroi w coś nadającego się do użytku i dającego choć trochę ochrony.
     - Finarrin wyjawia, że:

@@ -1,5 +1,5 @@
 ### Sesja 12
-[Sesja 11](#sesja-11) [Sesja 13](#sesja-13)
+##### [Sesja 11](#sesja-11) [Sesja 13](#sesja-13)
 #### Tydzień przed Solistitium zimowym
 1. Carreras - wieczorem
     - Wracamy do karczmy z Kajetanem wyglądającym jak żywy trup.

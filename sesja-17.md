@@ -1,5 +1,5 @@
 ### Sesja 17
-[Sesja 16](#sesja-16) [Sesja 18](#sesja-18)
+##### [Sesja 16](#sesja-16) [Sesja 18](#sesja-18)
 1. Dillingen
     - W drodze do pokoju Ilana podchwytuje rozmowę kilku marynarzy w korytarzu. Mówią, że od ostatniego odpływu w Bremervoord morze wypluło dziwne rzeczy na brzeg, a kilka statków zatonęło.
     - Wieczorem, po wejściu do pokoju, Ilana organizuje się: odlicza pieniądze na mapę i flaszkę bimbru z mandragory. Resztę złota i swoje graty zostawia w pokoju, a sama wychodzi.

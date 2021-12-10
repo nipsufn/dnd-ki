@@ -1,5 +1,5 @@
 ### Sesja 25
-[Sesja 24](#sesja-24) [Sesja 26](#sesja-26)
+##### [Sesja 24](#sesja-24) [Sesja 26](#sesja-26)
 1. [Wioska Druidów](Wioska) - powrót
     - Wpadamy w sam środek konfliktu, niezauważeni przez żadną z walczących stron.
     - Na prośbę Finarrina próbujemy odciągnąć od niego uwagę Morvudda.

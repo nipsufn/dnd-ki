@@ -1,5 +1,5 @@
 ### Sesja 30
-[Sesja 29](#sesja-29) [Sesja 31](#sesja-31)
+##### [Sesja 29](#sesja-29) [Sesja 31](#sesja-31)
 1. Ucieczka z mokradeł
     - Po starciu z widziadłami, decydujemy się opuścić mokradła. Przedzieramy się ponownie przez las - tym razem drzewa o dziwo nas nie zatrzymują.
     - Wychodzimy wprost na gniazdo skolopendromorfów.

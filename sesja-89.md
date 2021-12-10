@@ -1,5 +1,5 @@
 ### Sesja 89
-[Sesja 88](#sesja-88) [Sesja 90](#sesja-90)
+##### [Sesja 88](#sesja-88) [Sesja 90](#sesja-90)
 1. W odwiedziny do alchemika
     - Z pisemnym poleceniem Toma wchodzimy do wewnętrznego miasta, gdzie Viggo ma swój nowy dom i warsztat. Eskortują nas przystrojeni strażnicy, którzy zdaje się po ubiorze mają nas za awanturników i rabusiów.
     - W progach posiadłości, która zdaje się być w trakcie modernizacji, wita nas kamerdyner - łudząco podobny do Janusa-gnomki. Darzy nas równie ufnym, sympatycznym spojrzeniem, co nasza eskorta.

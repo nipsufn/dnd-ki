@@ -1,5 +1,5 @@
 ### Sesja 23
-[Sesja 22](#sesja-22) [Sesja 24](#sesja-24)
+##### [Sesja 22](#sesja-22) [Sesja 24](#sesja-24)
 1. W drodze do Medownej
     - Docieramy nad rzekę w miejscu, gdzie bród jest dość szeroki i niezbyt głęboki, a nurt nieco spowolniony pływającymi w rzece grudami śniegu.
     - Kajetan bada, czy da się rzekę przebrodzić bez potrzeby instalowania liny łączącej brzegi i tym podobnych. 

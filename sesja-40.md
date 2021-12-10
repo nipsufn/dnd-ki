@@ -1,5 +1,5 @@
 ### Sesja 40
-[Sesja 39](#sesja-39) [Sesja 41](#sesja-41)
+##### [Sesja 39](#sesja-39) [Sesja 41](#sesja-41)
 1. Dyskusja Lanemina z Finarrinem
     - Za czasów Aen Drisichean Brokilon nie miał innych mieszkańców - ani driad, ani nikogo innego.
     - [Starożytny mag](Lanemin) podejrzewa, że Eithne zbudowała królestwo driad na ruinach jego cywilizacji. Możliwe, że natknęła się na posągi i rzeźby przedstawiające Galawaina i uznając go za bóstwo mianowała protektorem Brokilonu.

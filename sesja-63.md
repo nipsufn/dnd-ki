@@ -1,5 +1,5 @@
 ### Sesja 63
-[Sesja 62](#sesja-62) [Sesja 64](#sesja-64)
+##### [Sesja 62](#sesja-62) [Sesja 64](#sesja-64)
 1. Poranek, po porządkach
     - Kajetana budzą dziwne szepty dochodzące od strony portalu. Dźwięk wydobywa się ze szczeliny przypominającej gojącą się ranę po kalibracji portalu. Anatomiczne przyrównanie zdaje się być trafne - głosy i ślad powinny zniknąć z czasem same.
     - Wypocząwszy należycie, zbieramy się do miasta aby zdążyć coś zjeść przed wyruszeniem do Wyzimy.

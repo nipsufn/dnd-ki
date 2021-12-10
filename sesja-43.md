@@ -1,5 +1,5 @@
 ### Sesja 43
-[Sesja 42](#sesja-42) [Sesja 44](#sesja-44)
+##### [Sesja 42](#sesja-42) [Sesja 44](#sesja-44)
 1. W ślad za drzewem
     - Budzimy się nad ranem i zgodnie z naszymi przewidywaniami, Formorian ruszył nocą w dalszą drogę.
     - Podążając w ślad za drzewem trafiamy na trakt, na którym znajdujemy przewrócony wóz. Nieopodal wozu leżą rozkładające się zwłoki woła pociągowego. 

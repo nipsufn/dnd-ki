@@ -1,5 +1,5 @@
 ### Sesja 13
-[Sesja 12](#sesja-12) [Sesja 14](#sesja-14)
+##### [Sesja 12](#sesja-12) [Sesja 14](#sesja-14)
 1. Maribor - dzień drugi
     - Kajetan poddaje się procesowi leczenia, nie będzie w stanie się ruszyć do kolejnego poranka.
     - W krótkim momencie przytomności słyszy rozmowę Keiry z Triss Merigold za pomocą kamienia komunikacyjnego:

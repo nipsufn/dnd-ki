@@ -1,5 +1,5 @@
 ### Sesja 72
-[Sesja 71](#sesja-71) [Sesja 73](#sesja-73)
+##### [Sesja 71](#sesja-71) [Sesja 73](#sesja-73)
 1. Potyczka
     - Ilana cuci Kajetana i zanim ten, rozwścieczony, rzuci się gołymi rękami na poczwarę, klaruje mu, że to nie jest najlepszy pomysł.
     - Skovik dosłownie zmiata potwora na schody rzucając weń kamiennymi drzwiami, które wbijają się w sufit i częściowo blokują przejście.

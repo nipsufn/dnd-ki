@@ -1,5 +1,5 @@
 ### Sesja 57
-[Sesja 56](#sesja-56) [Sesja 58](#sesja-58)
+##### [Sesja 56](#sesja-56) [Sesja 58](#sesja-58)
 1. Karczma, po zamachu
     - Korzystając z sytuacji już po walce, Ilana chowa do kieszeni jeden ze srebrnych widelców, które podano do obiadu.
     - Florian przywołuje straż aby zabrali pojmanego. Mag, spytany przez Ilanę wprost czy to była prowokacja z jego strony, nie zaprzecza, a pyta jedynie czy druidka zna grę w szachy.

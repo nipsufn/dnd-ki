@@ -1,5 +1,5 @@
 ### Sesja 19
-[Sesja 18](#sesja-18) [Sesja 20](#sesja-20)
+##### [Sesja 18](#sesja-18) [Sesja 20](#sesja-20)
 1. Wioska w Brokilonie
     - Z samego rana Ilana zbiera grupę przy śniadaniu. Oboje z Kajetanem informują braci Drummond o swoich planach podróży do Col Serrai. 
     - Ivar z widoczną ulgą przyjmuje fakt, że nie zamierzają ich brać ze sobą, ale Skovik niechętnie przystaje na taki układ.

@@ -1,5 +1,5 @@
 ### Sesja 100
-[Sesja 99](#sesja-99) [Sesja 101](#sesja-101)
+##### [Sesja 99](#sesja-99) [Sesja 101](#sesja-101)
 1. Pobudka śpiącego królewicza
     - Skovik budzi się. Jest skołowany, ale fizycznie sprawny - nawet jeśli głodny i nieco odwodniony.
     - Ostatnie, co pamięta to jak Lödbroke odbił go z rąk oryginalnego łowcy głów.

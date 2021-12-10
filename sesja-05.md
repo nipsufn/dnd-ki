@@ -1,5 +1,5 @@
 ### Sesja 5
-[Sesja 4](#sesja-4) [Sesja 6](#sesja-6)
+##### [Sesja 4](#sesja-4) [Sesja 6](#sesja-6)
 ##### Pomiędzy Aequinoctuim jesiennym a Solistitium zimowym
 1. Fiolka Zdrowia
     - Po wyjściu z kanałów i dziwnej zmianie czasu swoje pierwsze kroki kierujemy do Fiolki, do Vigga.
