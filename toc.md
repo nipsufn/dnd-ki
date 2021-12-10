@@ -1,4 +1,4 @@
-## Spis treści {toc}
+## Spis treści
 - [Postaci](#p_)
     - [Postaci Graczy](#g_)
 - [Lokacje](#l_)
