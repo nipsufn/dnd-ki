@@ -43,6 +43,7 @@
         - chwali się, że złapał ostatniego napastnika
         - przekazuje rzemieślnikowi duży klejnot, wciąż zamknięty w zaciśniętej dłoni porywacza 
         - wspomina, że zleceniodawca, tj. jego przyjaciółka, byłby bardzo niezadowolony, gdyby klejnotu do osadzenia nie udało się odzyskać
-    - Mężczyzna w czerwonym ucina rozmowę i poczęstowawszy surowym pierogiem, wyrzuca {kota}Ilana.
+    - Mężczyzna w czerwonym, po oczach zdaje się wiedźmin, ucina rozmowę i poczęstowawszy surowym pierogiem, wyrzuca {kota}Ilana.
     - W tym czasie Kajetan rozmawia z Ivarem, zapraszając go w imieniu Leiva do Kerack. Młodzieniec podróżuje z Ebbą i Chidą, w okolicach góry Cremora, poluje na smoka który podobno grasuje po okolicy.
     - {Mag}Kajetan rozmawia też z Viggo, dzieląc się smutnymi nowinami.
+    - {elf} rozmawia też z Zyvikiem. Najemnicy zaciągnęli się do czyjejś służby i raczej nie będą pracować dla Kapłanek pod Ellander.

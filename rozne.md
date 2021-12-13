@@ -71,7 +71,7 @@
 - Punkty zwarcia sfer:
     - Skellige - <a id='r_sokol' pattern='Sok*'>Sokół</a>, pokryte lodem
     - Wyspa Thanedd - <a id='r_mewa' pattern='Mew*'>Mewa</a>, szkiełko wybuchło
-    - Brokilon- <a id='r_kruk' pattern='Kruk*'>Kruk</a>, bez szkiełka
+    - Brokilon <a id='r_kruk' pattern='Kruk*'>Kruk</a>, bez szkiełka
     - Metinna, <a id='r_jaskolka' pattern='Jaskół*'>Jaskółka</a>, bez szkiełka
     - Góry Smocze, <a id='r_pardwa' pattern='Pardw*'>Pardwa</a>, bez szkiełka
     - Patelnia, <a id='r_kukawka' pattern='Kukaw*'>Kukawka</a>, bez szkiełka

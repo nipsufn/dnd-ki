@@ -119,6 +119,8 @@
     - <a id='l_rinbe' pattern='Rinbe'>Rinbe</a>
         - Położone nad północnym brzegiem Pontaru
         - Lokacja jednego z laboratoriów Vilgefortza
+    - <a id='l_bronowice' pattern='Bronowic*'>Bronowice</a>
+    - <a id='l_trupia_knieja' pattern='Trupi* Kniej*'>Trupia Knieja</a>
 - <a id='l_temeria' pattern='Temer*'>Temeria</a>
     - <a id='l_wyzima' pattern='Wyzim*'>Wyzima</a>
         - stolica Temerii
@@ -172,6 +174,8 @@
         - fort wojskowy, niedaleko Mariboru
     - <a id='l_burdoff' pattern='Burdoff'>Burdoff</a>
     - <a id='l_zavada' pattern='Zavada*'>Zavada</a>
+    - <a id='l_jawornik' pattern='Jawornik*'>Jawornik</a>
+        - Punkt mocy pod Drzewem Wisielców, niedaleko cmentarza
 - <a id='l_sodden' pattern='Sodden'>Sodden</a>
 - <a id='l_toussaint' pattern='Toussaint'>Toussaint</a>
     - <a id='l_beauclair' pattern='Beauclair'>Beauclair</a>
