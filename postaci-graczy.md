@@ -65,7 +65,7 @@
                 - Notatki belfra z Biblioteki Craag An
             - Komponenty:
                 - Nalewka z mandragory, 2 butelki
-                - 6 porcji inkaustu
+                - 5 porcji inkaustu
                 - 3 porcja kadzidła
                 - 3 porcji pyłu kamieni szlachetnych
                 - 4 porcji kredy
