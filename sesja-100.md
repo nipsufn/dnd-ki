@@ -19,7 +19,7 @@
     - Skovik absolutnie odrzuca jakąkolwiek myśl o tym, że Lödbroke mógłby chcieć go wykorzystać, jest, okazuje się, jego bliskim przyjacielem. 
     - Z {nieokrzesanym berserkiem}Lödbroke znają się odkąd {osiłek}Skovik, jeszcze jako dzieciak, musiał ustąpić miejsca na ojcowskim dworze jego prawowitemu dziedzicowi. Tak trafił do Fornhali, gdzie Lödbroke, jako starszy chłopak, wziął go pod swoje skrzydła.
 2. Zaczynając spłacać długi
-    - W Oxenfurcie zatrzymujemy się w sklepie noszącym miano "Miecze i pierogi", by uzbroić {osiłka}Skovik. W sklepie zastajemy pracownika oraz dwóch zbrojnych. Ilana próbuje targować się, a gdy słyszy, że sklep należy do niejakiego Hatoriego, uprasza z nim rozmowy, powołując się na Diuka Myrtona.
+    - W Oxenfurcie zatrzymujemy się w sklepie noszącym miano "Miecze i Pierogi", by uzbroić {osiłka}Skovik. W sklepie zastajemy pracownika oraz dwóch zbrojnych. Ilana próbuje targować się, a gdy słyszy, że sklep należy do niejakiego Hatoriego, uprasza z nim rozmowy, powołując się na Diuka Myrtona.
     - Kajetan, zniecierpliwiony targami i urażony kolejnym nieprzemyślanym komentarzem {druidki}Ilany, wyrusza przodem do karczmy "Rozlewiska", w której już raz byliśmy.
     - {Dziewczyna}Ilana dowiaduje się, że Hatori rzeczywiście ma warsztat w Novigradzie, jednak rezyduje w Oxenfurcie ze względu na atmosferę miasta oraz klientelę - wskazuje na jedną z czekających osób, mężczyznę w rudej, ćwiekowanej zbroi z mocno okaleczoną, pobliźnioną, częściowo sparaliżowaną twarzą, który zdaje się niecierpliwić i ponaglać mistrza.
     - Ilanie udaje się wynegocjować dla Skovika broń "spod lady" oraz cenę "po znajomości". W zamian otrzymuje pozdrowienia dla Myrtona.
@@ -39,11 +39,11 @@
     - {Druidka}Ilana prosi Skovika, aby zaczekał na nią w pokoju. Sama zaś zamienia się w kota i wyrusza na przeszpiegi. Przed sklepem leży trzech rozpłatanych ludzi, w kałużach posoki, wewnątrz kolejnych dwóch. W całym przybytku krew znajduje się nawet na suficie. Jeden z agresorów ma przepołowioną głowę - od ucha po żuchwę. Z zaplecza dochodzą jednak dźwięki pracy na kowadle.
     - Ilana-kot zapuszcza się do warsztatu, gdzie widzi Hatoriego, całego i zdrowego, ubabranego krwią i pochłoniętego pracą nad wykuwaniem dwóch mieczy: jednego długiego i wąskiego oraz drugiego, szerokiego i skośnie zakończonego, niczym miecz kata. 
     - Mistrz przygotowuje się do wprawienia w jelec pokaźnego kryształu, zdaje się brylantu.
-    - Po chwili bez do pomieszczenia wchodzi bezszelestnie postać, którą {dziewczyna}Ilana już widziała - mężczyzna w czerwonej kurcie. Zdziwiony obecnością zwierzaka łapie kota za frak i rozmawia z Hatorim: 
+    - Po chwili do pomieszczenia wchodzi bezszelestnie postać, którą {dziewczyna}Ilana już widziała - mężczyzna w czerwonej kurcie. Zdziwiony obecnością zwierzaka łapie kota za frak i rozmawia z Hatorim: 
         - chwali się, że złapał ostatniego napastnika
-        - przekazuje rzemieślnikowi duży klejnot, wciąż zamknięty w zaciśniętej dłoni porywacza 
+        - przekazuje rzemieślnikowi duży klejnot, wciąż zamknięty w zaciśniętej dłoni porywacza - identyczny jak ten, który Hatori właśnie wprawia w broń
         - wspomina, że zleceniodawca, tj. jego przyjaciółka, byłby bardzo niezadowolony, gdyby klejnotu do osadzenia nie udało się odzyskać
     - Mężczyzna w czerwonym, po oczach zdaje się wiedźmin, ucina rozmowę i poczęstowawszy surowym pierogiem, wyrzuca {kota}Ilana.
-    - W tym czasie Kajetan rozmawia z Ivarem, zapraszając go w imieniu Leiva do Kerack. Młodzieniec podróżuje z Ebbą i Chidą, w okolicach góry Cremora, poluje na smoka który podobno grasuje po okolicy.
+    - W tym czasie Kajetan rozmawia z Ivarem, zapraszając go w imieniu Leiva do Kerack. Młodzieniec podróżuje z Ebbą i Chidą, w okolicach góry Cremora, poluje na smoka, który podobno grasuje po okolicy.
     - {Mag}Kajetan rozmawia też z Viggo, dzieląc się smutnymi nowinami.
-    - {elf} rozmawia też z Zyvikiem. Najemnicy zaciągnęli się do czyjejś służby i raczej nie będą pracować dla Kapłanek pod Ellander.
+    - Przed snem {elf} kontaktuje się z Zyvikiem celem załatwienia sprawy ochroniarzy dla kapłanek. Kaedweńscy najemnicy zaciągnęli się do czyjejś służby i raczej nie będą pracować dla kapłanek pod Ellander, choć z pijackiej rozmowy ciężko jest wyciągnąć jednoznaczne wnioski.
