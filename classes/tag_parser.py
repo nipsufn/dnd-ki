@@ -1,6 +1,7 @@
 # tag_parser.py
 """Module detecting keywords to be used as tags
 """
+import re
 from html.parser import HTMLParser
 import logging
 
@@ -16,7 +17,7 @@ class TagParser(HTMLParser):
         super().__init__()
 
     def handle_starttag(self, tag, attrs):
-        #self.__logger.trace("tag  %s", tag)
+        self.__logger.trace("tag  %s", tag)
         if tag != "a":
             return
         attr_dict = dict(attrs)
@@ -30,13 +31,16 @@ class TagParser(HTMLParser):
             regex = '|'.join(pattern_list) if pattern_list \
                 else attr_dict['pattern']
             regex = regex.replace(r"*", r"\w{0,7}")
-
-            self.tags.append([attr_dict['id'], regex])
+            regex_usr = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + regex + r")\)?")
+            regex_std = re.compile(r"([ (\"])(" + regex +r")([ ,.)?!:;\"'\n])")
+            self.tags.append([attr_dict['id'], regex_usr, regex_std])
         elif 'regex' in attr_dict.keys():
-            self.tags.append([attr_dict['id'], attr_dict['regex']])
+            regex_usr = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + attr_dict['regex'] + r")\)?")
+            regex_std = re.compile(r"([ (\"])(" + attr_dict['regex'] +r")([ ,.)?!:;\"'\n])")
+            self.tags.append([attr_dict['id'], regex_usr, regex_std])
         else:
             return
-    #def handle_data(self, data):
-        #self.__logger.trace("data %s", data)
+    def handle_data(self, data):
+        self.__logger.trace("data %s", data)
     def error(self, message):
         return

@@ -7,7 +7,7 @@ import sys
 import argparse
 import logging
 import re
-from multiprocessing import Pool
+from multiprocessing import Pool, cpu_count
 
 from classes.console import Console
 from classes.ticktock import TickTock
@@ -45,18 +45,24 @@ def prepare_files(args, whitelist, logger):
     files = [f for f in os.listdir() if os.path.isfile(f)]
     files = list(set(files) - set(whitelist))
     files = sorted(files, key = lambda x: os.stat(x).st_size, reverse = True)
-    logger.trace("List of files: %s", str(files))
+    logger.debug("List of files: %s", str(files))
     return files
 
-def process_tags_in_file(file_path, logger, prefix, tags):
+def parse_tags_in_file(file_path, logger):
+    tag_retriever = TagParser(logger)
+    with open(file_path, 'r', encoding='utf-8') as file_stream:
+        tag_retriever.feed(file_stream.read())
+    return tag_retriever.tags
+
+def create_tags_in_file(file_path, logger, prefix, tags):
     text = None
-    #logger.trace(file_path)
+    #logger.debug(file_path)
     with open(file_path, 'r', encoding='utf-8') as file_stream:
         TickTock.tick()
         text = file_stream.read()
         tagger = TagCreator(tags)
         tagger.feed(text)
-        logger.trace("{} processing time: {:.5f}sec".format(file_path, TickTock.tock()))
+        logger.debug("{} processing time: {:.5f}sec".format(file_path, TickTock.tock()))
         write_time = TickTock.tock()
         tagger.close()
         text = tagger.text
@@ -68,26 +74,32 @@ def process_tags_in_file(file_path, logger, prefix, tags):
 
 def process_tags(files, logger, prefix=""):
     TickTock.tick()
-    tag_retriever = TagParser(logger)
+    thread_no = cpu_count()
+    logger.debug("CPU Core count: %s", str(thread_no))
     # pass 1 - generate tags
-    for file_path in files:
-        with open(file_path, 'r', encoding='utf-8') as file_stream:
-            tag_retriever.feed(file_stream.read())
-
-    logger.debug("Tag count: %s", str(len(tag_retriever.tags)))
-    # pass 2 - use tags to create links
-    write_time = 0.0
-    logger.info("Tag lookup time: {:.5f}sec".format(TickTock.tock()))
-    TickTock.tick()
-    with Pool(processes=16) as thread_pool:
+    tags = []
+    with Pool(processes=thread_no) as thread_pool:
         threads = []
         for file_path in files:
-            logger.trace("file process added to pool: {}".format(file_path))
-            threads.append(thread_pool.apply_async(process_tags_in_file, (file_path, logger, prefix, tag_retriever.tags,)))
+            logger.debug("Tag parse process added to pool for file: {}".format(file_path))
+            threads.append(thread_pool.apply_async(parse_tags_in_file, (file_path, logger,)))
+        for thread in threads:
+            tags.extend(thread.get())
+
+    logger.debug("Tag count: %s", str(len(tags)))
+    logger.info("Tag lookup time: {:.5f}sec".format(TickTock.tock()))
+    # pass 2 - use tags to create links
+    write_time = 0.0
+    TickTock.tick()
+    with Pool(processes=thread_no) as thread_pool:
+        threads = []
+        for file_path in files:
+            logger.debug("Tag create process added to pool for file: {}".format(file_path))
+            threads.append(thread_pool.apply_async(create_tags_in_file, (file_path, logger, prefix, tags,)))
         for thread in threads:
             write_time += thread.get()
-    logger.info("tag writing sum time: {:.5f}sec".format(write_time))
-    logger.info("Tag writing real time: {:.5f}sec".format(TickTock.tock()))
+    logger.info("Tag creating sum time: {:.5f}sec".format(write_time))
+    logger.info("Tag creating real time: {:.5f}sec".format(TickTock.tock()))
 
 def test_files(files, prefix=""):
     tags = []
