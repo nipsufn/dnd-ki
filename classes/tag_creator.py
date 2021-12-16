@@ -26,14 +26,14 @@ class TagCreator(HTMLParser):
         if len(self.current_html_tag) == 0:
             for pair in self.tags:
                 #all user-tags `{whatever}Actual Name` or `[whatever](Actual Name)`
-                regex = r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + pair[1] + r")\)?"
-                substitute = r"[\1](#" + pair[0] + r")"
-                data = re.sub(regex, substitute, data)
+                regex_user = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + pair[1] + r")\)?")
+                substitute_user = r"[\1](#" + pair[0] + r")"
+                data = regex_user.sub(substitute_user, data)
 
                 #all standard tags unless it is already tagged [] or in between ><
-                regex = r"([ (\"])(" + pair[1] +r")([ ,.)?!:;\"'\n])"
-                substitute = r"\1[\2](#" + pair[0] + r")\3"
-                data = re.sub(regex, substitute, data)
+                regex_std = re.compile(r"([ (\"])(" + pair[1] +r")([ ,.)?!:;\"'\n])")
+                substitute_std = r"\1[\2](#" + pair[0] + r")\3"
+                data = regex_std.sub(substitute_std, data)
         self.text += data
 
     def clean(self):

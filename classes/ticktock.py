@@ -7,7 +7,7 @@ class TickTock:
     __ticktock = float()
     @staticmethod
     def tick():
-        TickTock.__ticktock = time.time()
+        TickTock.__ticktock = time.perf_counter()
     @staticmethod
     def tock():
-        return time.time() - TickTock.__ticktock
+        return time.perf_counter() - TickTock.__ticktock

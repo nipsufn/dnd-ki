@@ -7,6 +7,7 @@ import sys
 import argparse
 import logging
 import re
+from multiprocessing import Pool
 
 from classes.console import Console
 from classes.ticktock import TickTock
@@ -43,8 +44,27 @@ def prepare_files(args, whitelist, logger):
     logger.debug("Ignored files: %s", str(whitelist))
     files = [f for f in os.listdir() if os.path.isfile(f)]
     files = list(set(files) - set(whitelist))
+    files = sorted(files, key = lambda x: os.stat(x).st_size, reverse = True)
     logger.trace("List of files: %s", str(files))
     return files
+
+def process_tags_in_file(file_path, logger, prefix, tags):
+    text = None
+    #logger.trace(file_path)
+    with open(file_path, 'r', encoding='utf-8') as file_stream:
+        TickTock.tick()
+        text = file_stream.read()
+        tagger = TagCreator(tags)
+        tagger.feed(text)
+        logger.trace("{} processing time: {:.5f}sec".format(file_path, TickTock.tock()))
+        write_time = TickTock.tock()
+        tagger.close()
+        text = tagger.text
+    # pull pair id + textblock from tag_retriever object
+    file_path = prefix + file_path
+    with open(file_path, 'w', encoding='utf-8') as file_stream:
+        file_stream.write(text)
+    return write_time
 
 def process_tags(files, logger, prefix=""):
     TickTock.tick()
@@ -58,24 +78,16 @@ def process_tags(files, logger, prefix=""):
     # pass 2 - use tags to create links
     write_time = 0.0
     logger.info("Tag lookup time: {:.5f}sec".format(TickTock.tock()))
-
-    for file_path in files:
-        text = None
-        logger.trace(file_path)
-        with open(file_path, 'r', encoding='utf-8') as file_stream:
-            TickTock.tick()
-            text = file_stream.read()
-            tagger = TagCreator(tag_retriever.tags)
-            tagger.feed(text)
-            logger.trace("processing time: {:.5f}sec".format(TickTock.tock()))
-            write_time += TickTock.tock()
-            tagger.close()
-            text = tagger.text
-        # pull pair id + textblock from tag_retriever object
-        file_path = prefix + file_path
-        with open(file_path, 'w', encoding='utf-8') as file_stream:
-            file_stream.write(text)
-    logger.info("tag writing time: {:.5f}sec".format(write_time))
+    TickTock.tick()
+    with Pool(processes=16) as thread_pool:
+        threads = []
+        for file_path in files:
+            logger.trace("file process added to pool: {}".format(file_path))
+            threads.append(thread_pool.apply_async(process_tags_in_file, (file_path, logger, prefix, tag_retriever.tags,)))
+        for thread in threads:
+            write_time += thread.get()
+    logger.info("tag writing sum time: {:.5f}sec".format(write_time))
+    logger.info("Tag writing real time: {:.5f}sec".format(TickTock.tock()))
 
 def test_files(files, prefix=""):
     tags = []
@@ -189,7 +201,9 @@ def main():
         ".vscode"
         "test.py",
         "tag.py",
-        ".vimrc"
+        ".vimrc",
+        "tag_old.py",
+        "tag_mid.py"
         ]
 
     # code
