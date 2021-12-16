@@ -39,13 +39,13 @@ def prepare_logger(args):
 
 def prepare_files(args, whitelist, logger):
     whitelist.extend(args.ignore)
-    with open(".gitignore") as gitignore:
+    with open(".gitignore", 'r', encoding='utf-8') as gitignore:
         whitelist.extend(gitignore.read().splitlines())
-    logger.debug("Ignored files: %s", str(whitelist))
+    logger.debug(f'Ignored files: {str(whitelist)}')
     files = [f for f in os.listdir() if os.path.isfile(f)]
     files = list(set(files) - set(whitelist))
     files = sorted(files, key = lambda x: os.stat(x).st_size, reverse = True)
-    logger.debug("List of files: %s", str(files))
+    logger.debug(f'List of files: {files}')
     return files
 
 def parse_tags_in_file(file_path, logger):
@@ -56,13 +56,12 @@ def parse_tags_in_file(file_path, logger):
 
 def create_tags_in_file(file_path, logger, prefix, tags):
     text = None
-    #logger.debug(file_path)
     with open(file_path, 'r', encoding='utf-8') as file_stream:
         TickTock.tick()
         text = file_stream.read()
-        tagger = TagCreator(tags)
+        tagger = TagCreator(tags, logger)
         tagger.feed(text)
-        logger.debug("{} processing time: {:.5f}sec".format(file_path, TickTock.tock()))
+        logger.debug(f'{file_path} processing time: {TickTock.tock():.5f}sec')
         write_time = TickTock.tock()
         tagger.close()
         text = tagger.text
@@ -75,31 +74,31 @@ def create_tags_in_file(file_path, logger, prefix, tags):
 def process_tags(files, logger, prefix=""):
     TickTock.tick()
     thread_no = cpu_count()
-    logger.debug("CPU Core count: %s", str(thread_no))
+    logger.debug(f'CPU Core count: {thread_no}')
     # pass 1 - generate tags
     tags = []
     with Pool(processes=thread_no) as thread_pool:
         threads = []
         for file_path in files:
-            logger.debug("Tag parse process added to pool for file: {}".format(file_path))
+            logger.debug(f'Tag parse process added to pool for file: {file_path}')
             threads.append(thread_pool.apply_async(parse_tags_in_file, (file_path, logger,)))
         for thread in threads:
             tags.extend(thread.get())
 
-    logger.debug("Tag count: %s", str(len(tags)))
-    logger.info("Tag lookup time: {:.5f}sec".format(TickTock.tock()))
+    logger.debug(f'Tag count: {str(len(tags))}')
+    logger.info(f'Tag lookup time: {TickTock.tock():.5f}sec')
     # pass 2 - use tags to create links
     write_time = 0.0
     TickTock.tick()
     with Pool(processes=thread_no) as thread_pool:
         threads = []
         for file_path in files:
-            logger.debug("Tag create process added to pool for file: {}".format(file_path))
+            logger.debug(f'Tag create process added to pool for file: {file_path}')
             threads.append(thread_pool.apply_async(create_tags_in_file, (file_path, logger, prefix, tags,)))
         for thread in threads:
             write_time += thread.get()
-    logger.info("Tag creating sum time: {:.5f}sec".format(write_time))
-    logger.info("Tag creating real time: {:.5f}sec".format(TickTock.tock()))
+    logger.info(f'Tag creating sum time: {write_time:.5f}sec')
+    logger.info(f'Tag creating real time: {TickTock.tock():.5f}sec')
 
 def test_files(files, prefix=""):
     tags = []
@@ -200,7 +199,7 @@ def main():
                         action="store_true", help="debug mode")
     parser.add_argument("-i", "--ignore", nargs='+', type=str,
                         help="space separated list of files to be ignored",
-                        default=list())
+                        default=[])
     args = parser.parse_args()
 
     # variables
@@ -214,14 +213,13 @@ def main():
         "test.py",
         "tag.py",
         ".vimrc",
-        "tag_old.py",
-        "tag_mid.py"
+        "tag_old.py"
         ]
 
     # code
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
-    logger.info("Initialization time: {:.5f}sec".format(TickTock.tock()))
+    logger.info(f'Initialization time: {TickTock.tock():.5f}sec')
     feedback = test_files(files)
     # comment test result on source repo and bail if needed
     GHA.git_setup()

@@ -1,14 +1,15 @@
 # tag_creator.py
 """Module rewriting detected tag strings with actual tags
 """
-import re
 from html.parser import HTMLParser
 
 class TagCreator(HTMLParser):
-    def __init__(self, tags):
+    __logger = None
+    def __init__(self, tags, logger):
         self.current_html_tag = []
         self.tags = tags
         self.text = ""
+        self.__logger = logger
         super().__init__()
 
     def handle_starttag(self, tag, attrs):
@@ -38,4 +39,4 @@ class TagCreator(HTMLParser):
         self.text = ""
 
     def error(self, message):
-        return
+        self.__logger.trace(message)

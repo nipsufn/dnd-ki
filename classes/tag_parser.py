@@ -3,17 +3,14 @@
 """
 import re
 from html.parser import HTMLParser
-import logging
 
 class TagParser(HTMLParser):
     __logger = None
     def __init__(self, logger):
         self.tags = []
-        # extract descriptions
         self.descriptions = []
-        # overwrite super.feed to pull blocks of text then call super.feed
         self.__logger = logger
-        
+
         super().__init__()
 
     def handle_starttag(self, tag, attrs):
@@ -43,4 +40,4 @@ class TagParser(HTMLParser):
     def handle_data(self, data):
         self.__logger.trace("data %s", data)
     def error(self, message):
-        return
+        self.__logger.trace(message)
