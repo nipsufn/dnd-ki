@@ -16,6 +16,7 @@ from classes.tag_parser import TagParser
 from classes.gha import GHA
 
 def prepare_logger(args):
+    """create global logger, add trace loglevel"""
     logging.TRACE = 5
     logging.addLevelName(5, "TRACE")
     logger = logging.getLogger('journal_tagger')
@@ -38,30 +39,33 @@ def prepare_logger(args):
     return logger
 
 def prepare_files(args, whitelist, logger):
+    """read directory to create file list, exclude some and sort by size"""
     whitelist.extend(args.ignore)
     with open(".gitignore", 'r', encoding='utf-8') as gitignore:
         whitelist.extend(gitignore.read().splitlines())
-    logger.debug(f'Ignored files: {str(whitelist)}')
+    logger.debug('Ignored files: %s', whitelist)
     files = [f for f in os.listdir() if os.path.isfile(f)]
     files = list(set(files) - set(whitelist))
     files = sorted(files, key = lambda x: os.stat(x).st_size, reverse = True)
-    logger.debug(f'List of files: {files}')
+    logger.debug('List of files: %s', files)
     return files
 
 def parse_tags_in_file(file_path, logger):
+    """wrap parsing files for tags - multiprocess"""
     tag_retriever = TagParser(logger)
     with open(file_path, 'r', encoding='utf-8') as file_stream:
         tag_retriever.feed(file_stream.read())
     return tag_retriever.tags
 
 def create_tags_in_file(file_path, logger, prefix, tags):
+    """wrap creating tags in files - multiprocess"""
     text = None
     with open(file_path, 'r', encoding='utf-8') as file_stream:
         TickTock.tick()
         text = file_stream.read()
         tagger = TagCreator(tags, logger)
         tagger.feed(text)
-        logger.debug(f'{file_path} processing time: {TickTock.tock():.5f}sec')
+        logger.debug('%s processing time: %.5fsec', file_path, TickTock.tock())
         write_time = TickTock.tock()
         tagger.close()
         text = tagger.text
@@ -72,35 +76,39 @@ def create_tags_in_file(file_path, logger, prefix, tags):
     return write_time
 
 def process_tags(files, logger, prefix=""):
+    """process tags - find anchors and fix references"""
     TickTock.tick()
     thread_no = cpu_count()
-    logger.debug(f'CPU Core count: {thread_no}')
+    logger.debug('CPU Core count: %d', thread_no)
     # pass 1 - generate tags
     tags = []
     with Pool(processes=thread_no) as thread_pool:
         threads = []
         for file_path in files:
-            logger.debug(f'Tag parse process added to pool for file: {file_path}')
+            logger.debug('Tag parse process added to pool for file: %s', file_path)
             threads.append(thread_pool.apply_async(parse_tags_in_file, (file_path, logger,)))
         for thread in threads:
             tags.extend(thread.get())
 
-    logger.debug(f'Tag count: {str(len(tags))}')
-    logger.info(f'Tag lookup time: {TickTock.tock():.5f}sec')
+    logger.debug('Tag count: %d', len(tags))
+    logger.info('Tag lookup time: %.5fsec', TickTock.tock())
     # pass 2 - use tags to create links
     write_time = 0.0
     TickTock.tick()
     with Pool(processes=thread_no) as thread_pool:
         threads = []
         for file_path in files:
-            logger.debug(f'Tag create process added to pool for file: {file_path}')
-            threads.append(thread_pool.apply_async(create_tags_in_file, (file_path, logger, prefix, tags,)))
+            logger.debug('Tag create process added to pool for file: %s', file_path)
+            threads.append(
+                thread_pool.apply_async(
+                    create_tags_in_file, (file_path, logger, prefix, tags,)))
         for thread in threads:
             write_time += thread.get()
-    logger.info(f'Tag creating sum time: {write_time:.5f}sec')
-    logger.info(f'Tag creating real time: {TickTock.tock():.5f}sec')
+    logger.info('Tag creating sum time: %.5fsec', write_time)
+    logger.info('Tag creating real time: %.5fsec', TickTock.tock())
 
 def test_files(files, prefix=""):
+    """try to find malformed tags"""
     tags = []
     refs = []
     feedback = ""
@@ -162,6 +170,9 @@ def test_files(files, prefix=""):
             if merge_conflict:
                 feedback += "Merge conflict in file: " + file_path + "\n"
 
+    # Hey! pylints! leave them iterators alone!
+    # pylint: disable-next=invalid-name
+    # pylint: disable-next=invalid-name
     for n, x in enumerate(tags):
         for o, y in enumerate(tags):
             if o > n and x[0] == y[0]:
@@ -190,6 +201,7 @@ def test_files(files, prefix=""):
     return feedback
 
 def main():
+    """wrap main for entrypoint"""
     TickTock.tick()
     # argparse
     parser = argparse.ArgumentParser()
@@ -219,7 +231,7 @@ def main():
     # code
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
-    logger.info(f'Initialization time: {TickTock.tock():.5f}sec')
+    logger.info('Initialization time: %.5fsec', TickTock.tock())
     feedback = test_files(files)
     # comment test result on source repo and bail if needed
     GHA.git_setup()

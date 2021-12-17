@@ -403,6 +403,7 @@
         "Thanedd",
         "Thearg",
         "Tilli",
+        "tock",
         "Triss",
         "Trolde",
         "Trott",
@@ -422,10 +423,6 @@
         "Vigga",
         "Viggiem",
         "Viggo",
-<<<<<<< HEAD
-        "Vildkaarlów",
-=======
->>>>>>> cdac83a6f98a048e182bc6726da0a7ccd133e5df
         "Vildkaarlom",
         "Vildkaarlów",
         "Vilgefortz",
@@ -462,5 +459,7 @@
         "Zerrikanii",
         "Zyvik",
         "Zyvika"
-    ]
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }

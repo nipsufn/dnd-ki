@@ -5,15 +5,17 @@ import re
 from html.parser import HTMLParser
 
 class TagParser(HTMLParser):
+    """find HTML anchors and create list of re expressions"""
     __logger = None
     def __init__(self, logger):
+        """override parent constructor, set up and then call parent's constructor"""
         self.tags = []
         self.descriptions = []
         self.__logger = logger
-
         super().__init__()
 
     def handle_starttag(self, tag, attrs):
+        """override partent method - assemble list of id, regex 1 and regex 2"""
         self.__logger.trace("tag  %s", tag)
         if tag != "a":
             return
@@ -37,7 +39,3 @@ class TagParser(HTMLParser):
             self.tags.append([attr_dict['id'], regex_usr, regex_std])
         else:
             return
-    def handle_data(self, data):
-        self.__logger.trace("data %s", data)
-    def error(self, message):
-        self.__logger.trace(message)

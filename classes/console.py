@@ -5,9 +5,11 @@ import subprocess
 import logging
 
 class Console:
+    """shell wrapper"""
     __logger = None
     @staticmethod
     def __init__(loglevel=logging.WARN):
+        """constructor, set up logging including extra loglevel"""
         logging.TRACE = 5
         logging.addLevelName(5, "TRACE")
         Console.__logger = logging.getLogger('console')
@@ -23,6 +25,14 @@ class Console:
 
     @staticmethod
     def run(command, pwd=None, return_stderr=False):
+        """run shell command
+        Args:
+            command (str): command to execute
+            pwd (str, optional): directory to execute in
+            return_stderr (bool, optional): include stderr in return value if set to true
+        Returns:
+            str: command output
+        """
         if not Console.__logger:
             Console.__init__()
         if pwd:
@@ -41,6 +51,10 @@ class Console:
 
     @staticmethod
     def set_log_level(loglevel):
+        """set loglevel
+        Args:
+            loglevel (int): loglevel to set
+        """
         if not Console.__logger:
             Console.__init__()
         Console.__logger.setLevel(loglevel)

@@ -4,8 +4,10 @@
 from html.parser import HTMLParser
 
 class TagCreator(HTMLParser):
+    """substitute given re expr with Markdown anchor"""
     __logger = None
     def __init__(self, tags, logger):
+        """override parent constructor, set up and then call parent's constructor"""
         self.current_html_tag = []
         self.tags = tags
         self.text = ""
@@ -13,10 +15,12 @@ class TagCreator(HTMLParser):
         super().__init__()
 
     def handle_starttag(self, tag, attrs):
+        """override partent method - store for reassembly"""
         self.current_html_tag.append(tag)
         self.text += self.get_starttag_text()
 
     def handle_endtag(self, tag):
+        """override partent method - store for reassembly"""
         if len(self.current_html_tag) == 0 or self.current_html_tag[0] == tag:
             self.current_html_tag.pop()
         if tag == "br":
@@ -24,6 +28,8 @@ class TagCreator(HTMLParser):
         self.text += "</" + tag + ">"
 
     def handle_data(self, data):
+        """override partent method - substitute and store for reassembly"""
+        self.__logger.trace("data %s", data)
         if len(self.current_html_tag) == 0:
             for pair in self.tags:
                 #all user-tags `{whatever}Actual Name` or `[whatever](Actual Name)`
@@ -34,9 +40,3 @@ class TagCreator(HTMLParser):
                 substitute_std = r"\1[\2](#" + pair[0] + r")\3"
                 data = pair[2].sub(substitute_std, data)
         self.text += data
-
-    def clean(self):
-        self.text = ""
-
-    def error(self, message):
-        self.__logger.trace(message)

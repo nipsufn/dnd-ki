@@ -4,10 +4,16 @@
 import time
 
 class TickTock:
-    __ticktock = float()
+    """measure time between tic and toc calls"""
+    __ticktock = []
     @staticmethod
     def tick():
-        TickTock.__ticktock = time.perf_counter()
+        """mark start of measurement"""
+        TickTock.__ticktock.append(time.perf_counter())
     @staticmethod
     def tock():
-        return time.perf_counter() - TickTock.__ticktock
+        """mark end of measurement"""
+        try:
+            return time.perf_counter() - TickTock.__ticktock.pop()
+        except IndexError:
+            return 0.0

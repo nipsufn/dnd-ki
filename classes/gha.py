@@ -6,6 +6,7 @@ import requests
 from classes.console import Console
 
 class GHA:
+    """shell / api wrapper for operations on git(hub)"""
     git_dir = ''
     @staticmethod
     def git_setup(user="GitHub Actions", email="noreply@github.com"):
@@ -132,6 +133,15 @@ class GHA:
 
     @staticmethod
     def git_comment(message, commit=None, repo_slug=None):
+        """post a comment on a commit
+        Optional args will be pulled from CI Environment variables if possible
+        Args:
+            message (str): message to post
+            commit (str, optional): SHA checksum of commit
+            repo_slug (str, optional): string of 'user/repo'
+        Returns:
+            bool: if HTTP request to post comment succeeded True
+        """
         if 'CI' not in os.environ:
             return False
         if not commit:
