@@ -224,8 +224,9 @@ def main():
         ".vscode"
         "test.py",
         "tag.py",
+        "tag_old.py",
+        "tag_old.prof",
         ".vimrc",
-        "tag_old.py"
         ]
 
     # code
