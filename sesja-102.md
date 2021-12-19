@@ -19,7 +19,7 @@
     - Ilana i Skovik są wyczerpani swoim transem, ale nic poważnego im się nie stało. Idziemy z powrotem do młyna, zobaczyć czy jeszcze coś ciekawego znajdziemy
     - w Młynie {mag}Kajetan teleportuje się na strych, obiecując towarzyszom że zaraz wróci
     - {elfa}Kajetan atakuje duch młynarza, jawiący się jako cień na ścianie. Nim Kajetan pada nieprzytomny, znajduje wianek pod jednym z sienników
-    - przeczuwając co może się wydarzyć, {druidka} i {wyspiarz} biegną na górę młyna, wyciągając nieprzytomnego {maga}Kajetan
+    - przeczuwając co może się wydarzyć, {druidka}Ilana i {wyspiarz}Skovik biegną na górę młyna, wyciągając nieprzytomnego {maga}Kajetan
     - uciekamy z młyna i odpoczywamy nieco. Wianek zdaje się nas ciągnąć głębiej w wieś po tej stronie rzeki.
     - dajemy się prowadzić fantowi do wiejskiej studni, mętnej i definitywnie nie nadającej się do czerpania wody.
     - używając różnych sztuczek, stwierdzamy że na dnie studni spoczywa ciało córki młynarza - najwyraźniej się utopiła, nie wiedząc co począć
