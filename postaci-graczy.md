@@ -78,7 +78,7 @@
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
                 - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
                 - 1 zwój do teleportacji
-                - 1 kryształ na zaklęcia
+                - 1 kryształ na zaklęcia (False Life, 25HP)
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - <details>
                     <summary>Śnieżka Aurila</summary>

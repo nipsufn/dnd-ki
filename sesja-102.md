@@ -1,2 +1,74 @@
 ### Sesja 102
 ##### [Sesja 101](#sesja-101) [Sesja 103](#sesja-103)
+1. Nie ma na co czekać
+    - budzimy się o świtaniu. Kajetan przez noc obmyślił plan.
+    - śniadanie przynosi nam chłopak na posyłki, Adelbert. Mówi że Bris, chłop którego brat zmarł w polu zwykle jest w okolicy jeziora, łowi ryby. Był z resztą sąsiadem Iorwiego, młynarza.
+    - interesujący nas rybak wypłynął już na jezioro, więc kierujemy się do młyna. Po drodze atakują nas psy, od których Ilana dowiaduje się że na polach jest gorąco, a w młynie zimno. W wiatraku są też szczury.
+    - młyn wygląda na porzucony w pośpiechu, widać kilka rozerwanych worków mąki. W budynku rzeczywiście panuje nieprzyjemny chłód, a sowa {maga}Kajetan marznie tak bardzo że nie może wlecieć wyżej jak na pierwsze piętro
+    - ściągamy okiennice i drzwi, {elf}Kajetan myśli że może słońce ogrzeje budynek
+    - wyruszamy na pola. Widać ślady porzuconej na wiosnę pracy. Kajetan konstruuje swój bąbelek i medytuje, by rozumieć języki których nie zna.
+    - Koło południa do naszego schronienia zbliża się tuman kurzu, jakby małe tornado. Ilana wychodzi z kopuły, by zobaczyć cóż to takiego i zwabić zjawisko bliżej
+    - W środku zawieruchy widzimy dziewczynę. {Druidka}Ilana i Skovik wpadają w trans, a Kajetan, widząc że póki co nic im się nie dzieje, zadaje postaci pytania. Co prawda nie słyszy odpowiedzi, ale sondując myśli istoty dowiaduje się:
+        - południca chce kwiatków i wianka
+        - zgubiła gdzieś swój ślubny wianek
+        - przezywa się głupią, oddała swój wianek jakiemuś paniczowi przedstawiającemu się Ednund z Blaviken
+        - spotykali się na strychu młyna
+        - szlachetka naobiecywał niestworzonych rzeczy, po czym zniknął, zostawiając dziewczynę z dzieckiem w drodze
+        - dziewczyna bez wianka nie może iść do ołtarza
+    - demon ostatnie myśli przekazuje wchodząc do bąbelka, Kajetan szykuje się do walki gdy widzidło znika
+    - Ilana i Skovik są wyczerpani swoim transem, ale nic poważnego im się nie stało. Idziemy z powrotem do młyna, zobaczyć czy jeszcze coś ciekawego znajdziemy
+    - w Młynie {mag}Kajetan teleportuje się na strych, obiecując towarzyszom że zaraz wróci
+    - {elfa}Kajetan atakuje duch młynarza, jawiący się jako cień na ścianie. Nim Kajetan pada nieprzytomny, znajduje wianek pod jednym z sienników
+    - przeczuwając co może się wydarzyć, {druidka} i {wyspiarz} biegną na górę młyna, wyciągając nieprzytomnego {maga}Kajetan
+    - uciekamy z młyna i odpoczywamy nieco. Wianek zdaje się nas ciągnąć głębiej w wieś po tej stronie rzeki.
+    - dajemy się prowadzić fantowi do wiejskiej studni, mętnej i definitywnie nie nadającej się do czerpania wody.
+    - używając różnych sztuczek, stwierdzamy że na dnie studni spoczywa ciało córki młynarza - najwyraźniej się utopiła, nie wiedząc co począć
+    - wrzucamy wianek do studni, zwracając go duszy umęczonej. Woda wygotowuje się, a dalej szczątki obracają w popiół
+    - odnosimy wrażenie, że postać odeszła w pokoju, jednak wyruszymy na pola kolejnego dnia aby się upewnić, zanim uznamy sprawę za załatwioną
+2. Gość w dom, bogowie w dom
+    - Jawunt zdaje się tęsknić za częstymi wizytami z miasta, spędza więc z nami popołudnie pod stodołą, opowiadając:
+        - córkę młynarza wołali Desana
+        - w okolicy dworku Arn Skrone zrobiły się moczary
+        - posiadłość należała niegdyś do rodziny Romili, której dziedzic wpadł w długi
+        - podobno rzeczony szlachcic zdecydował się porywać ludzi dla okupów
+        - Erde, wieś którą mijaliśmy w lesie, należała do tej rodziny, żyła z drwalstwa
+    - Kajetan zabawia gospodarzy magicznymi sztuczkami
+    - Ilana rozmawia ze Skovikiem na stronie:
+        - Kaen Win to dwór rodu Drummond
+        - Skovik nie chce Ilany na wyspach póki jego ród jest podupadły
+        - chce wrócić na wyspy z Lödbroke, by zbudować dla niej godny dom
+        - {wyspiarz}Skovik nie wie jak wygląda sytuacja na {wyspach}Skellige od kiedy je opuścił
+        - {dziewczyna}Ilana mówi o działaniach Roeggnera, które zaogniły sytuację na Skellige - o ile wie, może wybuchnąć wojna domowa
+        - zdaniem {osiłka}Skovik to nie jest żadna nowość, pytanie tylko kiedy się to wydarzy, a on zamierza wziąć udział w imieniu swojego rodu - też dla dobra Ilany
+        - Ilana, nie myśląc o swoim przeznaczeniu, obiecuje że cokolwiek Skovik postanowi - ona się dostosuje
+    - Następnego dnia wyruszamy na pola. Spędzamy południe tułając się po zaniedbanych uprawach i wracamy całkiem przekonani że problem został rozwiązany - na polach, bo od młyna dalej trzeba trzymać się z daleka
+    - Gospodarze dziękują nam, proszą o rozwieszenie kilku ogłoszeń w mieście w jakim będziemy oraz przekazują kilka butelek wina prosząc o reklamę
+3. Do Gors Velen
+    - Pod kręgiem motłoch protestuje przeciwko magom. Dziwi nas to - podczas rządów Redańskich, bez magów miasto podupadało, a sytuacja wyraźnie poprawiła się gdy byliśmy tu ostatni raz, gdy magia nie była już nielegalna
+    - niektóre sklepy noszą ślady aktów wandalizmu - "precz z czarodziejami", "wiedźm nie obsługuje się"...
+    - rozdzielamy się. Skovik i Ilana poszukają statku do Kerack, a Kajetan uda się na chwilę na Thanedd
+    - {mag}Kajetan spotyka Margaritę. Dowiaduje się:
+        - część mieszczan zawsze była niezadowolona z obecności magów, protesty to nic nowego
+        - Kaer Seren dalej jest niedostępna, szaleje nad nią potężna burza śnieżna
+        - Radcliffe jest w stabilnym stanie, teraz na Thanedd, dalej nieprzytomny
+        - Świeczkę której użyliśmy by pomóc {wyspiarzowi}Skovik Zangenis odzyskał z pod Góry Cremora, czy wszystkie jej części powinny zniknąć - nie wiadomo
+        - do Kaer Seren organizowana będzie ekspedycja pod wodzą Carduina - Kajetan, jeśli chce, może się zapisać. Wyprawa zostanie zaplanowana gdy zbierze się dość chętnych
+        - Ban Ard póki co jest porzucone, i nie ma jak go odbić nie mieszając się politycznie w sytuację w Kaedwen - w Kapitule toczy się debata czy i co zrobić
+        - póki co Thanedd uczy zarówno dziewczęta jak i chłopaków
+        - Kajetan razem z pierścieniem otrzymał rangę Wolnego Maga. Daje mu to pewne przywileje:
+            - dostęp do biblioteki na wyspie
+            - możliwość kupna zwojów zawierających zaklęcia do trzeciego poziomu włącznie
+            - prywatną kwaterę na zewnętrznym pierścieniu
+            - może brać udział w otwartych inicjatywach:
+                - ustabilizować punkt mocy w Carreras
+                - sprawdzić rozbłysk mocy w Ysgyth
+                - sprawdzić fluktuacje Mocy między Carreras a Mariborem
+                - ekspedycja do Kaer Seren (za zaproszeniem)
+            - inicjatywami i administracją zajmuje się Mordin
+        - szajka, która ma odpisy alchemiczne których Kajetan nie zamierzał upubliczniać, kojarzy się {czarodziejce}Margarita z bandą którą kilka lat temu, ponoć zupełnie, rozbiła Triss. Jeden z kierujących bandytami był magiem z Zerrikani
+        - Specjalistą od nekropolii, w tym Ysgyth, jest Zawist - vide żona Viggo
+        - Margarita może pomóc zlokalizować Isilme przy artefakcie w Kerack, jednak nie może obiecać kiedy będzie miała czas
+    - Ilana i Skovik znajdują jeden statek płynący do Nastrogu:
+        - jest to "Rzeźnik" pod banderą Bosaka i Tasaka
+        - załoga, krasnoludy, niechętnie zgadzają się rozważyć prośbę o transport, jednak ani myślą zawijać do Kerack - jeśli przybędziemy kolejnego wieczora, zanim odbiją, może pozwolą nam się zabrać i odłączyć w odpowiednim momencie na szalupie
+        - W porcie cumuje wiele statków z Poviss
