@@ -6,21 +6,21 @@
     - Interesujący nas rybak wypłynął już na jezioro, więc kierujemy się do młyna. Po drodze atakują nas zdziczałe gospodarskie psy, od których Ilana dowiaduje się, że na polach jest gorąco, a w młynie zimno - zwierzęta noszą ślady zarówno poparzeń, jak i odmrożeń. W wiatraku są też szczury.
     - Młyn wygląda na porzucony w pośpiechu, widać kilka rozerwanych worków mąki i ślady butów. W budynku rzeczywiście panuje nieprzyjemny chłód, a posłana na zwiad sowa {maga}Kajetan marznie tak bardzo, że nie może wlecieć wyżej, jak na pierwsze piętro. W około walają się truchła zamarzniętych szczurów.
     - Nie bez trudu ściągamy okiennice i drzwi. {Elf}Kajetan myśli, że może słońce ogrzeje budynek. Nie chcąc jednak tracić nazbyt dużo czasu, wyruszamy na pola.
-    - Na polach widać ślady porzuconej na wiosnę pracy. Oprócz martwych, wysuszinych gryzoni znajdujemy też zakrwawioną kosę. Kajetan, zgodnie ze swym planem, konstruuje swój bąbelek i medytuje, by rozumieć języki, których nie zna.
+    - Na polach widać ślady porzuconej na wiosnę pracy. Oprócz martwych, wysuszonych gryzoni znajdujemy też zakrwawioną motykę. Kajetan, zgodnie ze swym planem, konstruuje swój bąbelek i medytuje, by rozumieć języki, których nie zna.
     - Koło południa do naszego schronienia zbliża się tuman kurzu, jakby małe tornado. Ilana wychodzi z kopuły, by zobaczyć cóż to takiego i zwabić zjawisko bliżej.
     - W środku zawieruchy widzimy pląsającą, nucącą dziewczynę. {Druidka}Ilana i Skovik wpadają w dziwny trans kołysząc się w rytm przyśpiewki, a Kajetan, widząc, że póki co nic im się nie dzieje, zadaje postaci pytania. Co prawda nie słyszy odpowiedzi, ale sondując myśli istoty dowiaduje się, że:
         - południca stroiła się na swój ślub
         - zgubiła gdzieś swój ślubny wianek
-        - przezywa się głupią, oddała swój wianek jakiemuś paniczowi przedstawiającemu się jako Ednund z Blaviken
+        - przezywa się głupią, oddała swój wianek jakiemuś paniczowi przedstawiającemu się jako Edmund z Blaviken
         - spotykali się na strychu młyna
         - szlachetka naobiecywał niestworzonych rzeczy, po czym zniknął, zostawiając dziewczynę z dzieckiem w drodze
         - dziewczyna bez wianka nie może iść do ołtarza
-    - Demon swe ostatnie myśli przekazuje wchodząc do naszego schronienia. Kajetan szykuje się do walki, gdy widzidło rozpływa się w powietrzu.
+    - Demon swe ostatnie myśli przekazuje wchodząc do naszego schronienia. Kajetan szykuje się do walki, gdy widziadło rozpływa się w powietrzu.
     - Ilana i Skovik są wyczerpani swoim transem, ale nic poważnego im się nie stało. Kajetan, wiedziony przeczuciem, nakłania resztę do ponownych odwiedzin w młynie.
-    - w Młynie {mag}Kajetan wprasza się do środka i rozgląda za duchem młynarza. Znalzłszy go, znów próbuje sztuczki z zadawaniem pytań i sondowaniem myśli:
+    - w Młynie {mag}Kajetan wprasza się do środka i rozgląda za duchem młynarza. Znalazłszy go, znów próbuje sztuczki z zadawaniem pytań i sondowaniem myśli:
         - młynarz miał plan wydać córkę za syna piekarza z sąsiedztwa
         - wściekł się, gdy odkrył mezalians i ciążę
-        - spoliczkował dziewczynę, która w rezultacie bez słowa uciekła z domu
+        - pijany, w kłótni spoliczkował dziewczynę, która w rezultacie bez słowa uciekła z domu
         - prośba o pomoc w znalezieniu wianka młynarzówny doprowadza ducha do białej furii - wyzywa córkę od ladacznic
     - Po nieudanych negocjacjach z duchem Kajetan teleportuje się na strych, obiecując towarzyszom, że zaraz wróci.
     - Duch młynarza, jawiący się jako cień na ścianie, atakuje {intruza}Kajetan. Nim Kajetan pada nieprzytomny, znajduje wianek pod jednym z sienników, o dziwo ciepłym i niepokrytym szronem.
@@ -32,7 +32,7 @@
     - Odnosimy wrażenie, że postać odeszła w pokoju, jednak wyruszymy na pola kolejnego dnia aby się upewnić, zanim uznamy sprawę za załatwioną.
 2. Gość w dom, bogowie w dom
     - Wracamy do wsi ze sforą psów na ogonie. Wśród przybyłych czworonogów Adelbert rozpoznaje swojego pupila.
-    - Czeka na nas Bris. Dowiadujemy się, że wraz z bratem pracował w polu, gdy nawiedzia ich południca. Ma przypalone pół twarzy i niesprawne oko, jakby kto przyłożył mu gorejącą patelnią. Jego brata znaleźli wysuszonego niczym śliwka.
+    - Czeka na nas Bris. Dowiadujemy się, że wraz z bratem pracował w polu, gdy nawiedziła ich południca. Ma przypalone pół twarzy i niesprawne oko, jakby kto przyłożył mu gorejącą patelnią. Jego brata znaleźli wysuszonego niczym śliwka.
     - Żegnamy rybaka i udajemy się na spoczynek. Jawunt zdaje się tęsknić za częstymi wizytami z miasta, spędza więc z nami popołudnie pod stodołą, opowiadając:
         - córkę młynarza wołali Desana
         - w okolicy dworku Arn Skrone zrobiły się moczary
@@ -40,10 +40,10 @@
         - podobno rzeczony szlachcic zdecydował się porywać ludzi dla okupów
         - Erde - wieś, którą mijaliśmy w lesie, należała do tej rodziny, żyła z drwalstwa
     - Do towarzystwa wkrótce dołącza Aldona z koszem z kolacją. Kajetan zabawia gospodarzy magicznymi sztuczkami, gdy tak snują opowieści. Jawunt posyła nawet po książkę, w której wspomniane są południce.
-    - Kajetan czyta na głos opis, który wypisz wymaluj pasuje do przypadku młynarzówny: porzucona panna młoda tuż przed lub po zaślubinach. Ilana rzuca tematycznym żartem, na który Skovik reaguje dziwnym zmieszaniem. 
+    - Kajetan czyta na głos opis, który wypisz wymaluj pasuje do przypadku młynarzówny: porzucona panna młoda tuż przed lub zaraz po zaślubinach. Ilana rzuca tematycznym żartem, na który Skovik reaguje dziwnym zmieszaniem. 
     - {Wyspiarz}Skovik w pewnym momencie opuszcza "imprezę" udając się na stronę i długo nie wraca. Zaniepokojona Ilana idzie go poszukać. Znajduje go nad jeziorem, rzucającego kamieniami w jezioro. Wywiązuje się rozmowa na stronie:
         - Skovik jest mimo wszystko wdzięczny losowi twierdząc, że to dzięki konieczności ucieczki z wysp miał szansę poznać Ilanę
-        - Skovik chciałby móc zaprosić {druidkę}Ilana do siebie, do Kaen Muire (dwór rodu Drummond), ale boli go, że jego ród jest podupadły, a ich dom - obrócony w ruinę.
+        - chciałby móc zaprosić {druidkę}Ilana do siebie, do Kaer Muire (dwór rodu Drummond), ale boli go, że jego ród jest podupadły, a ich dom - obrócony w ruinę.
         - chce wrócić na wyspy, całkiem możliwe, że z Lödbrokiem
         - nie wie jak wygląda sytuacja na {wyspach}Skellige od kiedy je opuścił
         - {dziewczyna}Ilana mówi o działaniach Roeggnera, które zaogniły sytuację na Skellige - o ile wie, może wybuchnąć wojna domowa
@@ -52,7 +52,7 @@
         - Skovik przypomina o legendzie swojego rodu i sugeruje, że {dziewczyna}Ilana ze swoim usposobieniem idealnie wpisuje się w jego charakter - klan, którego potomkowie rzucają wyzwanie każdej nawet najbardziej szalonej przygodzie, szukając swojego ja
         - na potwierdzenie tych słów, z inicjatywy Ilany wieczór kończą niebyt rozsądną nocną kąpielą w jeziorze
     - Następnego dnia wyruszamy na powrót na pola. Spędzamy południe tułając się po zaniedbanych uprawach i wracamy całkiem przekonani, że problem został rozwiązany - na polach, bo od młyna dalej trzeba trzymać się z daleka. Duch zabarykadował się w środku skuwając lodem wszystkie okiennice i drzwi.
-    - Gospodarze dziękują nam, proszą o rozwieszenie kilku ogłoszeń w mieście, w jakim będziemy oraz przekazują kilka butelek wina własnej produkcji prosząc o reklamę wśród magów.
+    - Gospodarze dziękują nam, proszą o rozwieszenie kilku ogłoszeń w najbliższym mieście, w jakim będziemy oraz przekazują kilka butelek wina własnej produkcji z prośbą o reklamę wśród magów.
     - Na odchodne wpisujemy się do pamiątkowej księgi gości. Kajetan, oprócz podpisu, zostawia specjalną, magiczną dedykację.
     - Wraz z winem otrzymujemy mały pakunek na drogę, do którego z grzeczności i pośpiechu nie zaglądamy. 
     - Okazuje się, że znaleziony w stodole grzebyk, podobnie jak zatopiony w oczku wodnym, błyskający broszką bucik należą do koleżanek Aldony i są pozostałościami po imprezie weselnej. Ilana zwraca więc błyskotkę i tak, za pośrednictwem kręgu Kajetana, przenosimy się do Gors Velen.
@@ -68,7 +68,7 @@
         - świeczkę, której użyliśmy by pomóc {wyspiarzowi}Skovik, Zangenis odzyskał spod Góry Cremora; czy wszystkie jej części powinny zniknąć - nie wiadomo
         - do Kaer Seren organizowana będzie ekspedycja pod wodzą Carduina - Kajetan, jeśli chce, może się zapisać; wyprawa zostanie zaplanowana, gdy zbierze się dość chętnych
         - Ban Ard póki co jest porzucone i nie ma jak go odbić nie mieszając się politycznie w sytuację w Kaedwen - w Kapitule toczy się debata czy i co zrobić
-        - póki co Thanedd uczy zarówno dziewczęta jak i chłopaków
+        - póki co Thanedd uczy zarówno dziewczęta jak i chłopców
         - Kajetan razem z pierścieniem otrzymał rangę Wolnego Maga; daje mu to pewne przywileje:
             - dostęp do biblioteki na wyspie
             - możliwość kupna zwojów zawierających zaklęcia do trzeciego poziomu włącznie
@@ -87,5 +87,5 @@
         - jest to "Rzeźnik" pod banderą Novigradu, z symbolem Bosaka i Tasaka
         - załoga, krasnoludy, niechętnie zgadzają się rozważyć prośbę o transport, jednak ani myślą zawijać do Kerack
         - Skovik pociąga za sznurki swoich znajomości i negocjuje z kapitanem wspominając o Roeggnerze i jego piratach
-        - jeśli stawimy się w porcie nazajutrz wieczór, zanim odbiją, może pozwolą nam się zabrać i odłączyć w odpowiednim momencie na szalupie
+        - jeśli stawimy się w porcie nazajutrz wieczór, zanim odbiją, może pozwolą nam się zabrać i odłączyć w odpowiednim momencie na szalupie, oczywiście za opłatą
     - Dwójka rusza na dalsze poszukiwania. Schodząc z Rzeźnika Ilana czuje się odprowadzana nieprzyjaznymi spojrzeniami, niczym kot spacerujący przez wybieg dla psów.
