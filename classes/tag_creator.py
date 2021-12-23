@@ -29,7 +29,7 @@ class TagCreator(HTMLParser):
 
     def handle_data(self, data):
         """override partent method - substitute and store for reassembly"""
-        self.__logger.trace("data %s", data)
+        #self.__logger.trace("data %s", data)
         if len(self.current_html_tag) == 0:
             for pair in self.tags:
                 #all user-tags `{whatever}Actual Name` or `[whatever](Actual Name)`

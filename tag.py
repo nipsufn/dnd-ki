@@ -227,6 +227,7 @@ def main():
         "tag_old.py",
         "tag_old.prof",
         ".vimrc",
+        ".DS_Store"
         ]
 
     # code
