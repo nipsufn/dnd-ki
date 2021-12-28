@@ -78,7 +78,7 @@
                 - sprawdzić rozbłysk mocy w Ysgyth
                 - sprawdzić fluktuacje Mocy między Carreras a Mariborem
                 - ekspedycja do Kaer Seren (za zaproszeniem)
-        - na Thanedd wszelkimi inicjatywami i administracją kapituły zajmuje się Mordin
+        - na Thanedd wszelkimi inicjatywami i administracją kapituły zajmuje się Mardin
         - szajka, która ma odpisy alchemiczne, których Kajetan nie zamierzał upubliczniać, kojarzy się {czarodziejce}Margarita z bandą, którą kilka lat temu, ponoć zupełnie, rozbiła Triss; jeden z kierujących bandytami był magiem z Zerrikanii
         - Specjalistą od nekropolii, w tym Ysgyth, jest Zawist - vide żona Viggo
         - Margarita może pomóc zlokalizować Isilme przy artefakcie w Kerack, jednak nie może obiecać kiedy będzie miała czas
