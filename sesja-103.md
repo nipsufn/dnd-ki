@@ -7,7 +7,7 @@
         - {mag}Kajetan jest obecnie "Wolnym Czarodziejem", dalej może awansować na "Mentora", "Mistrza", i, być może, ostatecznie, na "Członka Kapituły"
     - Kajetan odwiedza bibliotekę oraz artefaktorium:
         - Zavist jest arcymistrzem abjuracji
-        - {bibliotekarz}Zavist za papiery z Crag An oferuje {elfowi}Kajetan 1000GP albo "upominek" z artefaktorium - {bohater}Kajetan decyduje się na ten drugi, otrzymując przedmiot (do ustalenia)
+        - {bibliotekarz}Zavist za papiery z Craag An oferuje {elfowi}Kajetan 1000GP albo "upominek" z artefaktorium - {bohater}Kajetan decyduje się na ten drugi, otrzymując przedmiot (do ustalenia)
         - {mag}Kajetan kupuje zaklęcia Heat Metal oraz Invisibility, zamawia Fly do odbioru za kilka dni
     - Włócząc się po Thanedd, Kajetan zauważa plotkujące czarodziejki: Keirę i Margaritę. Metz jest z czegoś wyraźnie zadowolona i podekscytowana. Przebąkuje coś o Triss, która niebawem zjawi się w Gors Velen i coś o najlepszych sukniach.
     - W szkole jest około tuzin uczniów
