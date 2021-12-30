@@ -67,6 +67,9 @@
     - archeolog
     - mistrz iluzji
     - nie jest zainteresowany polityką jak na maga
+- <a id='p_tizjana' pattern='Tizjan*'>Tizjana Frevi</a> - człowiek, czarodziejka
+    - sprawuje pieczę nad Artefaktorium na Thanedd
+    - jest Divmueandrą, wędrowną czarodziejką
 - <a id='p_zangenis' pattern='Stucco,Zangenis*,Stucco Zangenis*'>Stucco Zangenis</a> - człowiek, mag
 - <a id='p_triss_merigold' pattern='Triss,Triss Merigold,Merigold'>Triss Merigold</a> - ?, mag
     - członek Kapituły, zajmowała się intrygami politycznymi
@@ -75,9 +78,12 @@
 - <a id='p_vilgefortz' pattern='Vilgefortz*,Vilgefortz* z Roggeveen'>✝ Vilgefortz</a> - człowiek, mag, członek Kapituły
     - miał immunitet od Dwimerytu
     - jedno z jego laboratoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
-- <a id='p_zavist' pattern='Zavi*'>Zavist</a> - ?, mag
+- <a id='p_zavist' pattern='Zavi*'>Zavist z Koviru</a> - człowiek, mag
     - kolega Stregobora
     - być może wie coś o Galawainie
+    - opiekun biblioteki na Thanedd
+    - arcymistrz abjuracji
+    - specjalista od elfich ruin, między innymi Ysgyth
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
     - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
         Ivar: brat

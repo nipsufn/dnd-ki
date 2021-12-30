@@ -7,7 +7,6 @@ import sys
 import argparse
 import logging
 import re
-from multiprocessing import Pool, cpu_count
 
 from classes.console import Console
 from classes.ticktock import TickTock
@@ -46,7 +45,6 @@ def prepare_files(args, whitelist, logger):
     logger.debug('Ignored files: %s', whitelist)
     files = [f for f in os.listdir() if os.path.isfile(f)]
     files = list(set(files) - set(whitelist))
-    files = sorted(files, key = lambda x: os.stat(x).st_size, reverse = True)
     logger.debug('List of files: %s', files)
     return files
 
@@ -78,34 +76,23 @@ def create_tags_in_file(file_path, logger, prefix, tags):
 def process_tags(files, logger, prefix=""):
     """process tags - find anchors and fix references"""
     TickTock.tick()
-    thread_no = cpu_count()
-    logger.debug('CPU Core count: %d', thread_no)
     # pass 1 - generate tags
     tags = []
-    with Pool(processes=thread_no) as thread_pool:
-        threads = []
-        for file_path in files:
-            logger.debug('Tag parse process added to pool for file: %s', file_path)
-            threads.append(thread_pool.apply_async(parse_tags_in_file, (file_path, logger,)))
-        for thread in threads:
-            tags.extend(thread.get())
+    for file_path in files:
+        logger.debug('Tag parse for file: %s', file_path)
+        tags.extend(parse_tags_in_file(file_path, logger))
 
     logger.debug('Tag count: %d', len(tags))
     logger.info('Tag lookup time: %.5fsec', TickTock.tock())
     # pass 2 - use tags to create links
+    oldtock = TickTock.tock()
     write_time = 0.0
     TickTock.tick()
-    with Pool(processes=thread_no) as thread_pool:
-        threads = []
-        for file_path in files:
-            logger.debug('Tag create process added to pool for file: %s', file_path)
-            threads.append(
-                thread_pool.apply_async(
-                    create_tags_in_file, (file_path, logger, prefix, tags,)))
-        for thread in threads:
-            write_time += thread.get()
+    for file_path in files:
+        logger.debug('Tag create for file: %s', file_path)
+        write_time += create_tags_in_file(file_path, logger, prefix, tags)
     logger.info('Tag creating sum time: %.5fsec', write_time)
-    logger.info('Tag creating real time: %.5fsec', TickTock.tock())
+    logger.info('Tag creating real time: %.5fsec', write_time + oldtock)
 
 def test_files(files, prefix=""):
     """try to find malformed tags"""
@@ -227,7 +214,6 @@ def main():
         "tag_singlethread.py",
         "tag_singlethread.prof",
         ".vimrc",
-        ".DS_Store"
         ]
 
     # code

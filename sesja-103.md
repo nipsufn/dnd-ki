@@ -2,18 +2,30 @@
 ##### [Sesja 102](#sesja-101) [Sesja 104](#sesja-103)
 1. Przystanek w Gors Velen - sprawunki Kajetana
     - Pożegnawszy się z Margaritą, Kajetan składa wizytę Mardinowi i zostaje wprowadzony w szczegóły i technikalia jako członek Kapituły:
-        - add some details, plz
+        - {elf}Kajetan może kupować zaklęcia do trzeciego poziomu włącznie za 30GP za poziom
+        - jeśli będzie awansował, ceny spadną o 10gp za poziom za rangę w górę. Pojawi się też możliwość kupna zaklęć wyższego poziomu
+        - {mag}Kajetan jest obecnie "Wolnym Czarodziejem", dalej może awansować na "Mentora", "Mistrza", i, być może, ostatecznie, na "Członka Kapituły"
+    - Kajetan odwiedza bibliotekę oraz artefaktorium:
+        - Zavist jest arcymistrzem abjuracji
+        - {bibliotekarz}Zavist za papiery z Crag An oferuje {elfowi}Kajetan 1000GP albo "upominek" z artefaktorium - {bohater}Kajetan decyduje się na ten drugi, otrzymując przedmiot (do ustalenia)
+        - {mag}Kajetan kupuje zaklęcia Heat Metal oraz Invisibility, zamawia Fly do odbioru za kilka dni
     - Włócząc się po Thanedd, Kajetan zauważa plotkujące czarodziejki: Keirę i Margaritę. Metz jest z czegoś wyraźnie zadowolona i podekscytowana. Przebąkuje coś o Triss, która niebawem zjawi się w Gors Velen i coś o najlepszych sukniach.
+    - W szkole jest około tuzin uczniów
     - Kończąc swoje sprawunki, Kajetan wysyła wiadomość do Floriana z zapytaniem o możliwość dłuższej konwersacji. Vicovaro odpowiada plując jadem, mówi półsłówkami nie bardzo zdradzającymi Kajetanowi kontekst jego rozgoryczenia.
-    - Słowa Vicovaro nabierają pełniejszego sensu, gdy {elf}Kajetan wychodzi na plac i słyszy miejskie obwieszczenie: <tu dokładna treść, której ja nie mam X)>.
+    - Słowa Vicovaro nabierają pełniejszego sensu, gdy {elf}Kajetan wychodzi na plac i słyszy miejskie obwieszczenie:
+        - Królowa Adda z pomocą Kapituły odbiła Maribor
+        - powraca wolna Temeria pod jej władzą
+        - powracają magowie by ją wspierać
+        - Czarni powracają do Brugge a wkrótce może i za Jarugę
+        - miasto funduje każdemu 3 piwa z tej okazji
 2. Przystanek w Gors Velen - reszta drużyny
     - Tymczasem Ilana i Skovik wędrują po porcie w poszukiwaniu innych opcji transportu. Przechodząc obok tablicy ogłoszeniowej {druidka}Ilana przypomina sobie o ogłoszeniach do rozwieszenia - gospodarze z Bronowic szukają wiedźmina do upiora w starym młynie.
     - Na tablicy wiszą inne ogłoszenia:
         - skup skór, futer i materiałów dla miasta (dla magów, na szykującą się wyprawę na północ?)
-        - przewodnik dla eskpedycji wzdłuż rzeki Adalette (płynącą od Pogórza Tukajskiego, przez Brokilon, po ujście w Kerack); szczegóły Pod Rozpiętym Gorsetem
+        - przewodnik dla ekspedycji wzdłuż rzeki Adalette (płynącą od Pogórza Tukajskiego, przez Brokilon, po ujście w Kerack); szczegóły Pod Rozpiętym Gorsetem
         - nagroda 1500GP za łeb smoka naprzykrzającego się na granicy z Cidaris
     - Kolejny statek, galera-lodołamacz z Koviru o nazwie Powiew Zimy, to typowy transportowiec płynący pod dowództwem kapitana Elmida z Naroku. Zastajemy załogę przy załadunku ciężkich skrzyń żurawiem. Pokładowy skryba nadzorujący prace dziwi się naszemu zapytaniu. Oferuje nam podróż jako beczki śledzi za zawrotną kwotę 600GP.
-    - Niezbyt zadowolona Ilana wpada na pomysł, by sprawdzić trzecią opcję - odpowiedzieć na ogłoszenie o przewodniku i sprawdzić, o co dokładnie chodzi. Idą więc do Gorsetu.
+    - Niezbyt zadowolona Ilana wpada na pomysł, by sprawdzić trzecią opcję - odpowiedzieć na ogłoszenie o przewodniku i sprawdzić, o co dokładnie chodzi. Idą więc do {Gorsetu}Pod Gorsetem.
     - Rozpytujemy o ogłoszenie. Jakaś starsza kobieta pracująca kieruje nas na piętro, do boksu, w którym przebywa główny zainteresowany.
     - Ogłoszenie pochodzi od łysego gnoma z długą, czarną brodą, mianem Rondergold. Oprócz nas zgłosiła się już inna przewodniczka - zakapturzona, szarooka, dziwnie znajoma kobieta.
     - Na wstępie każą nam zdać wszelką broń - względy bezpieczeństwa. Krasnoludy towarzyszące głównemu interesantowi z zaciekawieniem i podziwem oglądają nową broń Skovika.
@@ -38,5 +50,5 @@
     - Kajetan rzuca pomysłem, aby sprawdzić, czy Mirna dotarła już do swojego lokum. Przed domem zastajemy wozy z jej dobytkiem - dobry znak. Kajetan wbiega do środka żeby poszukać {druidki}Mirna i zastaje równie zdziwionego co on Brona.
     - Słysząc nasze głosy, Mirna gramoli się z innego z wozów. Rozespana i w podróżnym nieładzie, wita się czule z {przyjaciółką}Ilana. Ilana dopiero teraz zauważa ciekawy tatuaż na szyi Mirny.
     - Bron obiecuje dopilnować wypakunku kufrów, podczas gdy Kajetan porywa Mirnę i zabiera ją do Cyklamenu, celem odświeżenia się przed wieczorem.
-    - Gdy jeden z kufrów wymyka się z rąk tragaży, Ilana zauważa niehybnie magiczną konkokcję rozpływającą się po bruku i spływającą do rynsztoka.
+    - Gdy jeden z kufrów wymyka się z rąk tragarzy, Ilana zauważa niechybnie magiczną konkokcję rozpływającą się po bruku i spływającą do rynsztoka.
     - Pozostawiona samej sobie {druidka}Ilana też funduje sobie wizualną odnowę przed ważnym wieczorem, korzystając z wygód łaźni, pralni i krawca.

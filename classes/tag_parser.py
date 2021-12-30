@@ -30,11 +30,11 @@ class TagParser(HTMLParser):
             regex = '|'.join(pattern_list) if pattern_list \
                 else attr_dict['pattern']
             regex = regex.replace(r"*", r"\w{0,7}")
-            regex_usr = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + regex + r")\)?")
+            regex_usr = re.compile(r"[\{\[]([ \"\w]+)[\}\]]\(?(" + regex + r")\)?")
             regex_std = re.compile(r"([ (\"])(" + regex +r")([ ,.)?!:;\"'\n])")
             self.tags.append([attr_dict['id'], regex_usr, regex_std])
         elif 'regex' in attr_dict.keys():
-            regex_usr = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + attr_dict['regex'] + r")\)?")
+            regex_usr = re.compile(r"[\{\[]([ \"\w]+)[\}\]]\(?(" + attr_dict['regex'] + r")\)?")
             regex_std = re.compile(r"([ (\"])(" + attr_dict['regex'] +r")([ ,.)?!:;\"'\n])")
             self.tags.append([attr_dict['id'], regex_usr, regex_std])
         else:

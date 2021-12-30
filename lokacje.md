@@ -107,7 +107,8 @@
 - <a id='l_poviss' pattern='Poviss'>Poviss</a>
     - <a id='l_kaer_seren' pattern='Kaer Seren'>Kaer Seren</a>
         - opuszczona warownia Wiedźminów szkoły Gryfa,
-        - prawdopodobnie skonstruowana przez Aen Drisichean
+        - prawdopodobnie skonstruowana przez Aen Drisichean,
+        - tymczasowa siedziba Kapituły przed powrotem na Thanedd
 - <a id='l_redania' pattern='Redani*'>Redania</a>
     - <a id='l_novigrad' pattern='Novigrad*'>Novigrad</a>
         - Stolica wyznawców wiecznego Ognia
@@ -146,6 +147,8 @@
             - <a id='l_aretuza' pattern='Aretuz*'>Aretuza</a>
                 właściwa szkoła czarodziejek
             - <a id='l_garstang' pattern='Garstang*'>Garstang</a>
+                wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszych czarodziejek na Północy
+            - <a id='l_pod_gorsetem' pattern='Pod Rozpiętym Gorsetem, Pod Gorsetem'>Garstang</a>
                 wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszych czarodziejek na Północy
     - <a id='l_gora_cremora' pattern='[Gg]ór* [CK]remor*,Risberg*,Cytadel*'>Góra Cremora</a>
         - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
