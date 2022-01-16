@@ -146,6 +146,9 @@
                 pałacowa część twierdzy czarodziejek, gościnna
             - <a id='l_aretuza' pattern='Aretuz*'>Aretuza</a>
                 właściwa szkoła czarodziejek
+                - Mardin jest głównym intendentem, sprawy administracyjne załatwia się u niego
+                - Zawist z Koviru, mistrz abjuracji, jest głową biblioteki
+                - Tizjana Frevi, Dwimveandra, zajmuje się Artefaktorium
             - <a id='l_garstang' pattern='Garstang*'>Garstang</a>
                 wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszych czarodziejek na Północy
             - <a id='l_pod_gorsetem' pattern='Pod Rozpiętym Gorsetem, Pod Gorsetem'>Garstang</a>

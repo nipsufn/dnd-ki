@@ -31,7 +31,7 @@
         - Lödbroke to skurwysyn
         - żeglował na "Postrachu Mórz"
         - z Morkvarg napadli na Ogród Freyi
-        - łowca nie jest Wildcarlem
+        - łowca nie jest Vildkaarlem
         - jego przywódca/herszt/przełożony (którego jednak chyba ma) jest wilkołakiem
         - wyzwany i pokonany, zrobi czegokolwiek się od niego nie zażąda
         - w świątyni (na świętej ziemi?) nie podniesie na nikogo ręki - nie może

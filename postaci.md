@@ -16,6 +16,7 @@
     - brała udział w wyprawie archeologicznej w wyniku której Kajetan nie mógł czarować
     - poszkodowana w wypadku, połowa jej twarzy to goła kość
     - próbowała zamordować Kajetana na polecenie Filavandrela
+    - znaleziona przez Lamberta w górach smoczych, leży nieprzytomna w posiadłości Keiry. Majaczyła coś o Kajetanie
 - <a id='p_eskel' pattern='Eskel*'>Eskel</a> - towarzyszy Triss Merigold
 - <a id='p_filippa_eilhart' pattern='Filipp*,Filipp* Eilhart,Eilhart'>Filippa Eilhart</a> - człowiek, mag, członek Kapituły
     - potrafi się zamieniać w sowę, możliwe inne zwierzęta
@@ -38,6 +39,7 @@
 - <a id='p_istredd' pattern='Istredd*'>Istredd</a> - mag, człowiek
     - archeolog
     - nie jest zainteresowany polityką jak na maga
+    - utknął pod lawiną w Kaer Seren razem z Stregoborem na przedwiośniu 1276PP
 - <a id='p_arcydruid_ivryn' pattern='Ivryn*,Druid* Ivryn*,Arcydruid* Ivryn*'>Arcydruid Ivryn</a> - ?, druid
     - skurczybyk który brutalnie zamordował dziecko aby przekląć Carreras i wypaczyć okoliczne miejsce mocy
     - przebywał też w Craag An gdzie opracował druidzkie zaklęcie umożliwiające magiczną wędrówkę pomiędzy oddalonymi drzewami
@@ -58,7 +60,7 @@
     - potężny druid, poważany nawet przez magów
     - przebywa na Skellige
 - <a id='p_ortolan' pattern='Ortolan*'>Ortolan</a> - ?, mag, konstruktor Risbergu
-    - jego uczeń stworzył strażników i kontynuował badania swojego nauczyciela, nawet gdy te wypadły z łask Kapituły
+    - jego tajemniczy uczeń stworzył strażników i kontynuował badania swojego nauczyciela, nawet gdy te wypadły z łask Kapituły
     - opracował recepturę eliksiru używanego przez magów do przedłużenia życia
 - <a id='p_radcliffe' pattern='Radcliffe'>Radcliffe z Oxenfurtu</a> - człowiek, mag, członek Nowej Kapituły
 - <a id='p_raffard' pattern='Raffard* Biał*,Raffard*'>✝ Raffard Biały</a> - człowiek, mag
@@ -67,10 +69,13 @@
     - archeolog
     - mistrz iluzji
     - nie jest zainteresowany polityką jak na maga
+    - opracował zaklęcie komunikacyjne oparte o żywioły, ułatwiające komunikację bez megaskopu
+    - utknął pod lawiną w Kaer Seren razem z Istreddem na przedwiośniu 1276PP
 - <a id='p_tizjana' pattern='Tizjan*'>Tizjana Frevi</a> - człowiek, czarodziejka
     - sprawuje pieczę nad Artefaktorium na Thanedd
-    - jest Divmueandrą, wędrowną czarodziejką
+    - jest Dwimveandrą, wędrowną czarodziejką
 - <a id='p_zangenis' pattern='Stucco,Zangenis*,Stucco Zangenis*'>Stucco Zangenis</a> - człowiek, mag
+    - zniknął na przedwiośniu 1276PP w okolicach Góry Cremora
 - <a id='p_triss_merigold' pattern='Triss,Triss Merigold,Merigold'>Triss Merigold</a> - ?, mag
     - członek Kapituły, zajmowała się intrygami politycznymi
     - była doradczynią Króla Foltesta w Temerii
@@ -405,11 +410,16 @@
     - <a id='p_druid_artis' pattern='Druid* Artis*,Artis*'>Druid Artis</a> 
         - druid
         - przewodzi Vildkaarlom
-        - popchnął Skovika do zamachu na Cerys
+        - pozwolił Skovikowi na zamach na Cerys, podarował mu zaklęty sztylet nie tłumacząc że posłuży tylko w honorowej walce
+        - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)
     - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a><a id='p_drummond' pattern='Drummond'></a>
         - zwany też Szalonym, głowa klanu Drummond
         - ma na pieńku z klanem an Craite (i periodycznie chyba kilkoma innymi)
         - wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](Skellige), Cerys an Craite
+    - <a id='p_orm' pattern='[ÖO]rm*'>Örm</a>
+        - siostrzeniec Lugosa
+        - uznawany za cały ród za fajtłapę
+        - został umocowany jako "głowa" rodu Drummond przez Cerys, kontroluje go Hjalmar
     - <a id='p_roeggner' pattern='Roeggner* Czarn*,Roeggner*'>Roeggner "Czarny" Dimun</a>
         - pirat
         - głowa rodu Dimun
@@ -423,3 +433,5 @@
         - przyrzeczona Skovika
     - <a id='p_lodborke' pattern='L.dbrok*'>Lödbroke</a>
         - legendarny wprost łowca głów z Wysp; bez Klanu i seniora
+        - Vildkarl, podopieczny Artisa
+        - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)

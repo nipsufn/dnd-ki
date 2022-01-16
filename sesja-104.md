@@ -22,13 +22,13 @@
         - przez działania maga, Kaer Dhu, starodawna siedziba rodu Drummond i miejsce spoczynku Knuta Okrutnego jest znów dostępna
         - Knut chciał scalić rozbitych w tamtych czasach wyspiarzy - albo pod swoim przywództwem, albo zmuszając ich do zjednoczenia się przeciw niemu. To zjednoczenie nadało kształt współczesnej polityce wysp
         - {Druid}Artis dał Skovikowi na Cerys sztylet który pomógłby mu w walce - ale tylko honorowej. Jako że próbował dokonać niehonorowego zamachu, ostrze zawiodło go w kluczowej chwili
-        - Drummond chciał siły Wildcarlów, nie usłuchując ich "mądrości" (zasad, czczenia honoru)
+        - Drummond chciał siły Vildkaarlów, nie usłuchując ich "mądrości" (zasad, czczenia honoru)
         - miała to być twarda lekcja, podobna, jaką ptaki fundują swoim latoroślom wykopując je z gniazda
-        - Skovik nie powinien iść do Kaer Dhu, próbować odzyskać artefaktów po Knucie, jeśli nie jest gotów wrócić z wygnania zająć "swojego miejsca" na wyspach (wśród Wildcarlów jeśli odzyska honor? jako głowa swojego rodu? co poeta miał na myśli?)
+        - Skovik nie powinien iść do Kaer Dhu, próbować odzyskać artefaktów po Knucie, jeśli nie jest gotów wrócić z wygnania zająć "swojego miejsca" na wyspach (wśród Vildkaarlów jeśli odzyska honor? jako głowa swojego rodu? co poeta miał na myśli?)
         - Ilana nazywa Artisa okrutnym sadystą, starzec nie odpiera zarzutu, on tylko daje Skovikowi możliwość wyboru - wyboru by powrócić jeśli tego chce
         - Druid widzi w {dziewczynie}Ilana wiele z młodszego siebie, nazywa ją czymś więcej niż druidem (implikując że sam nie jest druidem...)
         - Lödbroke przyznaje że zawiódł z sytuacją w alejce - gdyby łowczy strzelał bełtami, wziąłby je na siebie, a co do planu z oszukaniem Cerys "zwłokami" Drummonda - __wierzył__ że się uda. Ilana kwituje że i strzałki wzięła by na siebie.
         - Dlaczego zupełnie olał towarzyszy wyspiarza i jakie może być ich zdanie na temat planu / porwania / "możliwości powrotu", Lödbroke nie był łaskaw wyjaśnić
-        - Artis, oskarżony o pozorowanie możliwości wyboru (sztylet który zawiódł w kluczowym momencie), zmienia temat opowiadając że nie mógł mu dać siły Wildcarlów jeśli ten nie stosował ich mądrości
+        - Artis, oskarżony o pozorowanie możliwości wyboru (sztylet który zawiódł w kluczowym momencie), zmienia temat opowiadając że nie mógł mu dać siły Vildkaarlów jeśli ten nie stosował ich mądrości
         - stwierdza że jego nauka jest bolesna, ale ból to dobry nauczyciel. Ma nadzieję że Skovik wyniósł mądrość z tego co się stało, a jeśli będzie chciał, znajdzie {druida}Artis na wyspach.
         - Artis zamienia się w sowę i odlatuje

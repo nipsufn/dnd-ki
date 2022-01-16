@@ -4,14 +4,14 @@
     - Rankiem Skovik i Ilana znowu się kłócą - {osiłek}Skovik powinien był się postawić Reahi. {Druidka}Ilana ma żal do niego, że wystawił jej cierpliwość na próbę. Czarę goryczy przelewa jednak fakt, że Skovik przedłożył przyjaźń z Reahą nad to, cokolwiek czuje do Ilany, tłumacząc się przy tym, że nie chciał ubliżyć Reahi odmową udziału w jej teatrzyku.
     - Spotykamy się wszyscy przy późnym śniadaniu. Kajetan i Mirna są w zdecydowanie lepszych humorach. Planujemy co dalej zrobić.
     - Mirna nie jest w stanie pomóc nam w połowie, więc pozwiedza miasto i zaczeka na nas w porcie.
-    - Spotykamy się z wyspiarzami. {Osiłek}Skovik dostaje na dzień dobry w twarz od {wyspiarki}Reah, po czym dowiaduje się, że zostanie na brzegu razem z dwoma innymi marynarzami, kiedy reszta popłynie po skarb.
+    - Spotykamy się z wyspiarzami. {Osiłek}Skovik dostaje na dzień dobry w twarz od {wyspiarki}Reah, po czym dowiaduje się, że zostanie na brzegu razem z dwoma innymi marynarzami, kiedy reszta popłynie po skarb.
     - Piraci traktują Kajetana z jeszcze większą rezerwą i niedowierzaniem niż {druidkę}Ilana. Dobijamy jednak targu - mamy dostać 1/4 z tego, co uda się odzyskać.
     - Dopływamy w okolicę wraku. Marynarze są niezadowoleni widząc magię, ale widok pierwszej skrzyni wyciągniętej z dna przez Ilanę, spomiędzy krabów (niektórych dziwnych, błyszczących jak perły) uspokaja ich wątpliwości.
     - Wygląda na to, że drugą skrzynię - z półsłówek rzucanych przez wyspiarzy, zawierającą magiczne przedmioty - coś zabrało razem ze sporą częścią burty.
     - Wyruszamy pod dziób statku zawieszony na jednej z licznych skał w okolicy, w którym to powinna znajdować się ostatnia skrzynia.
     - {Mag}Kajetan wyciąga skrzynię z pomocą magii - niezbyt delikatnie, wrak osuwa się ze skały powodując wielką falę, która posyła łódź w morze.
     - Ilana robi na łodzi miejsce dla drugiej skrzyni. Wskakuje do wody i obserwuje, czy nic nam nie zagraża, kiedy pomiędzy skałami dostrzega ogromnego kraba o szczypcach wielkości naszej łodzi.
-    - Krab ma kute metalowe obręcze wokół szczypców. Na obręczach tych Ilana dostrzega magiczne runy. Wygląda na to, że ktoś się upewnił aby Thanned, teraz pozbawione magów, nadal miało strażnika.
+    - Krab ma kute metalowe obręcze wokół szczypców. Na obręczach tych Ilana dostrzega magiczne runy. Wygląda na to, że ktoś się upewnił aby Thanedd, teraz pozbawione magów, nadal miało strażnika.
     - Dzięki wprawie wyspiarzy udaje nam się bezpiecznie wrócić do portu. Kajetan jest setnie umęczony wiosłowaniem połączonym z magicznymi sztuczkami. Ilana za to tryska energią, niemniej oboje wzbudzili równy respekt u piratów.
     - Na brzegu wita nas Mirna w nowych ubraniach. Wręcza nam także podarki, które dla nas upolowała. I tak Kajetan dostaje nowe ubranie, a Ilana - jedną z dwóch bliźniaczych bransoletek z muszelkami.
 2. Łupy
@@ -28,7 +28,7 @@
     - Nikt zdaje się nie zauważył w zamieszaniu hecy z trupem - nieszczęsnemu marynarzowi odjęli rękę.
     - Kajetan wybiera swoją część łupu, mówi Ilanie, że znika za kwadrans i wychodzi z karczmy. Na odchodne Roeggner wręcza mu naszyjnik - hak z kości wieloryba, mówiąc, że z tym przedmiotem nikt na wyspach nie będzie wątpił jeśli powie, że jest przyjacielem pirata.
     - Ilana, korzystając ze sposobności, która może się więcej nie nadarzyć, wypytuje Roeggnera jak umożliwić Skovikowi powrót na Wyspy Skellige. Dowiaduje się, że:
-        - pirat nie słyszał nic o Druidzie Artisie, a Wildcarlowie to tylko bajęda
+        - pirat nie słyszał nic o Druidzie Artisie, a Vildkaarlowie to tylko bajęda
         - podejrzewa, że za aktem Skovika stoi jakiś mag, który nakłonił go do zamachu
         - klan Dimun pała niechęcią do Myszowora, który jest na dworze Cerys
         - według propagandy Cerys głoszonej przez Myszowora, Lugos Drummond był w jakiejś zmowie z Nilfgaardczykami w celu przejęcia władzy na wyspach
@@ -38,10 +38,10 @@
             - An Craite, An Hindar, Brokvar - nieprzychylne osiłkowi, popierają Cerys
             - Tuirseach  - trudno powiedzieć
         - Svanrige, dziedzic rodu Tuirseach, był jednym z niewielu pretendentów do tronu, który nie umarł na pomnej uczcie
-        - Hialmar, brat Cerys, był oryginalnym kandydatem na tron z rodu An Craite
+        - Hjalmar, brat Cerys, był oryginalnym kandydatem na tron z rodu An Craite
         - podobno Cerys dowiodła, że winnym kaźni na uczcie był ich majordomus, który zatruł wino
         - jeśli będziemy go szukać, Roeggnera znajdziemy w najbliższym czasie w okolicach Cidaris i Bremervoord
-    - {Druidka}Ilana także otrzymuje nietypową, charakterystyczną biżuterię w podzięce od Roeggnera. Udaje jej się wytargować dodatkowe 500GP dla Skovika za udział w przedsięzwięciu.
+    - {Druidka}Ilana także otrzymuje nietypową, charakterystyczną biżuterię w podzięce od Roeggnera. Udaje jej się wytargować dodatkowe 500GP dla Skovika za udział w przedsięwzięciu.
     - Kiedy Kajetan czeka poirytowany na zewnątrz, Ilana żegna się z marynarzami. Leivowi przekazuje flet z rogu morvudda, dla Reahi, po czym - klasycznie - wymierza cios w brzuch za szopkę związaną z końskimi zalotami przyrzeczonej. {Wyspiarkę}Reah za to prosi o odprowadzenie.
     - Ilanie udaje się namówić {elfa}Kajetan by wyruszyli później, tak aby mogła zająć się pijanym Skovikiem i porozmawiać z Reahą.
     - {Mag}Kajetan i Mirna idą na obiad, rozmawiają o Bronie:
