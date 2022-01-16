@@ -5,7 +5,6 @@
 - Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - Łowcy Czarownic/Potworów / Zakon Wiecznego Ognia
 - trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas Łowców
 - Dwa groty, górny żółty, dolny czerwony - Aedirn
-- Fioletowe U z przedłużonymi ramionami - symbol klanu Drummond (Wyspiarze ze Skellige)
 - Czarny niedźwiedź - Wyspy Skellige
 - Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - Ellander
 - Krzyż biały w polu zielonym - Brugge
@@ -13,3 +12,5 @@
 - Lew złoty w polu niebieskim - Cintra
 - Szachownica pól złotych i czarnych - Verden
 - łeb niedźwiedzia z profilu w polu niebieskim - ród Türseach
+- trzy mewie łby w kręgu - herb rodziny Drummond
+- Fioletowe U z przedłużonymi ramionami - symbol klanu Drummond (Wyspiarze ze Skellige)

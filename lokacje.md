@@ -156,6 +156,12 @@
         - związane z pochodzeniem Ilany
         - kompleks składał się z twierdzy postawionej przez Ortolana oraz odrestaurowanych przez niego lochów, prawdopodobnie zbudowanych przez Aen Drisichen i służących Zielonym Rycerzom jako "Twierdza na Północy"
         - obecnie bezpieczeństwem i zapieczętowaniem kompleksu zajmuje się Stucco Zangenis
+        - pracowano nad "zabójcą magów", w projekcie brali udział:
+            - Stucco Zangenis,
+            - Ortolan,
+            - nieznany uczeń Ortolana
+            - Filavandrel Aen Fidhail
+        - pilnowany przez ostatniego Strażnika
     - <a id='l_dorian' pattern='Dorian'>Dorian</a>
         - <a id='l_pod_mantikora' pattern='Mantikor*,Pod Mantikor*'>Pod Mantikorą</a>
             - lokalne centrum walk na pięści

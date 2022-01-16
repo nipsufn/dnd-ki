@@ -410,9 +410,13 @@
         - zwany też Szalonym, głowa klanu Drummond
         - ma na pieńku z klanem an Craite (i periodycznie chyba kilkoma innymi)
         - wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](Skellige), Cerys an Craite
-    - <a id='p_roeggner' pattern='Roeggner* Czarn*,Roeggner*'>Roeggner Czarny</a>
+    - <a id='p_roeggner' pattern='Roeggner* Czarn*,Roeggner*'>Roeggner "Czarny" Dimun</a>
         - pirat
         - głowa rodu Dimun
+        - siostra: Aslev
+    - <a id='p_aslev' pattern='Aslev, Łez*'>Aslev "Łezka" Dimun</a>
+        - siostra Roeggnera
+        - narzeczona Leiva
     - <a id='p_reah' pattern='Reah* Bon-Dhu*,Reah*'>Reah Bon-Dhu</a>
         - córka słynnego skalda, Draiga Bon-Dhu
         - towarzyszy Dimunom w rejsach

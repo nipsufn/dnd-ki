@@ -73,6 +73,8 @@
     - <a id='b_galareta' pattern='[Kk]was-galareta'>Kwas-galareta</a>
         - poszatkowana traci konsystencję
         - żrąca
+    - <a id='b_lodowy_gigant' pattern='[Ll]odowy* [Gg]igan*'>Lodowy Gigant</a>
+        - potrafią skuć morze lodem
     - <a id='b_mglak' pattern='[Mm]glak*'>Mglak</a>
         - ognik, trupojad, nie wzgardzi żywym
         - zadaje obrażenia które leczy tylko dłuższy odpoczynek
