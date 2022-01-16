@@ -4,9 +4,6 @@
 - Lilia złota w polu w pasy biało-niebieskie - Specjalne Siły Temerskie
 - Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - Łowcy Czarownic/Potworów / Zakon Wiecznego Ognia
 - trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas Łowców
-    - [Sesja 0](#sesja-000)
-    - 
-    - [Sesja 60](#sesja-060)
 - Dwa groty, górny żółty, dolny czerwony - Aedirn
 - Fioletowe U z przedłużonymi ramionami - symbol klanu Drummond (Wyspiarze ze Skellige)
 - Czarny niedźwiedź - Wyspy Skellige
