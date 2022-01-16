@@ -1,5 +1,5 @@
 ### Sesja 3
-##### [Sesja 2](#sesja-2) [Sesja 4](#sesja-4)
+##### [Sesja 2](#sesja-002) [Sesja 4](#sesja-004)
 1. Zakończenie zlecenia
     - Odcinamy łeb, ogony z "grzechotkami" (które nawiasem pozwalały bestii unikać ciosów - "blur"), dodatkowo Ilana napełnia swoją manierkę krwią potwora w nadziei, że uda się to sprzedać dla zysku.
     - Wracamy do tartaku zaraportować ubicie bestii.
@@ -27,7 +27,7 @@
     - W kantorku, w rogu sklepu przesiaduje drugi jegomość, który wygląda na nas tylko zza okienka. Zwie się Janus i pełni rolę ochroniarza.
     - Właściciel [Fiolki](Fiolka Zdrowia) skłonny jest odkupić od nas głowę potwora, którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](Otto) jej nie zażądają.
     - Tymczasem Ilanie udaje się wynegocjować dobrą cenę za oba ogony i krew bestii. Zamiast pieniędzy decydujemy się na handel wymienny i tak otrzymujemy 3 *"jaskółki"* - eksperymentalne eliksiry, które Viggo stworzył zainspirowany wiedźmińskimi eliksirami.
-    - Kajetan przybija targ wymieniając uścisk dłoni z alchemikiem i prawie odskakuje jak rażony prądem. Okazuje się, że Viggo nosi na palcu obrączkę wykonaną z [*dwimerytu*](dwimeryt).
+    - Kajetan przybija targ wymieniając uścisk dłoni z alchemikiem i prawie odskakuje jak rażony prądem. Okazuje się, że Viggo nosi na palcu obrączkę wykonaną z dwimerytu.
 5. Różyczka
     - Wracamy do Różyczki na umówione spotkanie z krasnoludami.
     - [Kranmerowie](Otto) wypłacają nagrodę w postaci 40GP. Zobaczyli trofeum, ale nie żądają aby je im zostawić.

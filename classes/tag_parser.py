@@ -35,7 +35,7 @@ class TagParser(HTMLParser):
             else:
                 regex = attr_dict['regex']
             regex_usr = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + regex + r")\)?")
-            regex_std = re.compile(r"([^[])(" + regex +r")([^]])")
+            regex_std = re.compile(r"([ (\"])(" + regex + r")([ ,.)?!:;\"'\n])")
             self.tags.append([attr_dict['id'], regex_usr, regex_std])
         else:
             return

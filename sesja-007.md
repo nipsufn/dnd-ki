@@ -1,5 +1,5 @@
 ### Sesja 7
-##### [Sesja 6](#sesja-6) [Sesja 8](#sesja-8)
+##### [Sesja 6](#sesja-006) [Sesja 8](#sesja-008)
 1. [Świątynia](Świątynia Melitele)
     - Kasimir prawie od razu wyjeżdża do Ellander. My zaś spędzamy w światyni kilka dni. W tym czasie Daria rozpoczyna nauki.
     - Ilana w zasadzie przepada na całe dnie poza świątynią. Podczas jednego z tych wypadów szuka Wiewiórek.

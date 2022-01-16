@@ -1,5 +1,5 @@
 ### Sesja 103
-##### [Sesja 102](#sesja-101) [Sesja 104](#sesja-103)
+##### [Sesja 102](#sesja-102) [Sesja 104](#sesja-104)
 1. Przystanek w Gors Velen - sprawunki Kajetana
     - Pożegnawszy się z Margaritą, Kajetan składa wizytę Mardinowi i zostaje wprowadzony w szczegóły i technikalia jako członek Kapituły:
         - {elf}Kajetan może kupować zaklęcia do trzeciego poziomu włącznie za 30GP za poziom

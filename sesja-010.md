@@ -1,5 +1,5 @@
 ### Sesja 10
-##### [Sesja 9](#sesja-9) [Sesja 11](#sesja-011)
+##### [Sesja 9](#sesja-009) [Sesja 11](#sesja-011)
 1. Różyczka
     - Po śniadaniu zbieramy się i ruszamy ze Skovikiem i braćmi do ratusza omówić zlecenie na szczurzego grajka (roboczo nazwanego Szczurołapem).
 2. Ratusz w Ellander
