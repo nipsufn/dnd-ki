@@ -45,7 +45,7 @@
     - Tym razem jako destynację {mag}Kajetan wybiera nie sam rynek, a znajomy zaułek przy dokach, gdzie dzięki swej dawnej {kompance}Elatan niemal wyciągnął kopyta.
     - Na prośbę Ilany Kajetan od razu wysyła dwie wiadomości:
         - do Leiva, który jest za miastem i wróci koło południa; proponuje spotkanie w Natura Rerum
-        - do Ivara, który jest niedaleko i dotrze do austrierii przed wieczorem
+        - do Ivara, który jest niedaleko i dotrze do austerii przed wieczorem
     - Uzgodniwszy czas i miejsce spotkania, Skovik oznajmia, że dołączy do nas w karczmie, a tymczasem - ku niezadowoleniu przewrażliwionej Ilany - idzie załatwić swoje sprawunki i ochędożyć się na wieczór.
     - Kajetan rzuca pomysłem, aby sprawdzić, czy Mirna dotarła już do swojego lokum. Przed domem zastajemy wozy z jej dobytkiem - dobry znak. Kajetan wbiega do środka żeby poszukać {druidki}Mirna i zastaje równie zdziwionego co on Brona.
     - Słysząc nasze głosy, Mirna gramoli się z innego z wozów. Rozespana i w podróżnym nieładzie, wita się czule z {przyjaciółką}Ilana. Ilana dopiero teraz zauważa ciekawy tatuaż na szyi Mirny.

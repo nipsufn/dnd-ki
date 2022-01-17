@@ -8,7 +8,7 @@
     - W tłumie zauważamy znajomą rosłą [wyspiarkę]Reah głośno werbującą ludzi dla Roegnera. Jak na złość wzrok Reah wyławia z tłumu Ilanę.
     - Reah zabiera nas na piwo do karczmy "Na Oxenfurt". Ku niezadowoleniu Ilany, Kajetan opowiada jej nieco o tym, co przytrafiło się Skovikowi, a i my poznajemy wieści:
         - Lödbroke nie podbił Kerack; pomógł natomiast, razem z Roegnerem Czarnym, dokonać przewrotu - gdy Roegner z załogą otwierali bramy siłom Egmunda, brata Króla Viraxasa, legendarny wój w widowiskowy sposób skupił na sobie uwagę znacznej części sił zbrojnych w mieście
-        - Leiv zaręczył się z młodszą siostrą Roegnera, Aslev; młody Drummond wydaje się być prawą ręką pirata
+        - Leiv zaręczył się z młodszą siostrą Roegnera, Asliv; młody Drummond wydaje się być prawą ręką pirata
         - Jest bardzo możliwe, że Roegner zostanie Jarlem swojego rodu, gdy obecny, Holger Dimun, umrze
         - Udział Dimunów i Drummondów w przewrocie w Kerack powiększył rozłam między frakcjami na wyspach, niektórzy barbarzyńcy nawołują do wojny domowej
         - Lödbroke nie słucha się nikogo; niejaki Morkvarg był jedyną osobą, którą uznawał jako zwierzchnika, a i to do czasu - odmówił ataku na świątynię Freyi, będąc od tamtego czasu sobie samemu sterem i okrętem
