@@ -59,3 +59,9 @@
         - Artis, oskarżony o pozorowanie możliwości wyboru (sztylet który zawiódł w kluczowym momencie), zmienia temat opowiadając że nie mógł mu dać siły Vildkaarlów jeśli ten nie stosował ich mądrości
         - stwierdza, że jego nauka jest bolesna, ale ból to dobry nauczyciel; ma nadzieję że Skovik wyniósł mądrość z tego co się stało, a jeśli będzie chciał, znajdzie {druida}Artis na wyspach
         - Artis zamienia się na powrót w sowę i odlatuje
+3. Czarujące ploteczki
+    - Do pilnującego swojego pierścienia pod Cyklamenem Kajetana dzwoni Keira
+    - z okazji odbicia Mariboru Kapituła organizuje bal, trzy dni po nim planowane jest rozpoczęcie ekspedycji na północ, do Kaer Seren
+    - Myrton albo jest w Novigradzie albo podróżuje - stara zebrać się rozbity zakon pod swoim przywództwem,
+    - Zakon Łowców po śmierci Radowida nie ma wsparcia politycznego, jest zdany na siebie
+    - Elatan jest dalej nieprzytomna, śpi w posiadłości Keiry
