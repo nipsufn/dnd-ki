@@ -39,16 +39,18 @@
     - Kajetan zaszywa się pod Cyklamenem celem naładowania pierścienia. Obiecuje Mirnie, że następnego dnia będzie miała jego niepodzieloną uwagę.
 2. To było nieuniknione
     - Ilana i Skovik szukają Lödbroke. Od Leiva dowiadują się, że wariata nie ma w mieście od tygodnia. Ponoć siedzi na jednej z plaż na południe. {Młody Drummond}Leiv zabiera tam parę swoim drakkarem.
-    - Lödbroke zbudował na plaży, z której notabene odbiliśmy Skovika, coś na kształt kaplicy, która stroszy włosy na karku Ilany. Na ołtarzykach z otoczaków leżą rozmaite dary: od plonów, po mięso i zwierzęta.
+    - Lödbroke zbudował na plaży, z której notabene odbiliśmy Skovika, coś na kształt kaplicy, która stroszy włosy na karku Ilany. Na ołtarzykach z otoczaków leżą rozmaite dary: od plonów, po mięso i zwierzęta. Gdy {druidka}Ilana próbuje wejść w krąg, czuje znajomy zapach krwi i ziół (jak totem Skovika), co budzi w niej przemianę, którą na szczęście udaje jej się niepostrzeżenie opanować.
     - Skovik i Lödbroke witają się. Legendarny woj opowiada o bogach i przeznaczeniach. Na swój sposób cieszy się ze spotkania, choć nie wie, czy czekał na nas, czy na kogoś jeszcze.
+    - Berserk wita się także z Ilaną. Po podaniu sobie rąk {dziewczyna}Ilana znów czuje jakby traciła kontrolę nad sobą. Wydaje jej się, że podana dłoń zaczęła się lekko przemieniać, więc szybko chowa ją za plecami.
     - Podobno Artis wysłał go, by dał Drummondowi __możliwość__ powrotu na wyspy. By go odnaleźć, Lödbroke sprzymierzył się z łowcą głów od strzałek - Dyjinem Ognajem.
     - W międzyczasie, gdy Skovik wypytuje przyjaciela o detale "porwania", do jaskini wlatuje wielka sowa, która po chwili zamienia się w Artisa.
     - Artis opowiada:
         - zaczyna od stwierdzenia, że w świecie potrzebny jest konflikt, który zapobiega marazmowi i pozwala zachować balans w naturze
         - pociągnięty przez Skovika za język sugeruje, że nic nie dzieje się bez przyczyny i że być może gdyby nie droga, jaką obrał Skovik, nie spotkał by na swej drodze Ilany
         - {Druid}Artis dał Skovikowi na Cerys sztylet, który pomógłby mu w walce - ale tylko honorowej; jako że próbował dokonać niehonorowego zamachu, ostrze zawiodło go w kluczowej chwili
-        - Drummond był tak zaślepiony żądzą zemsty, że chciał jedynie siły Vildkaarlów, zupełnie zapominając o ich "mądrości" (czyli zasad, wartościach)
+        - Drummond był tak zaślepiony żądzą zemsty, że chciał jedynie siły Vildkaarlów, zupełnie zapominając o ich "mądrości" (czyli zasadach, wartościach)
         - miała to być twarda lekcja, podobna, jaką ptaki fundują swoim latoroślom wykopując je z gniazda
+        - Artis wyjawia, że Lödbroke także trenował pod jego okiem - jest Vildkaarlem
         - informuje Lödbrokea, że przez działania maga, Kaer Dhu, starodawna siedziba rodu Drummond i miejsce spoczynku Knuta Okrutnego jest znów dostępna; ujawniła się po nasilających się trzęsieniach ziemi
         - Knut chciał scalić rozbitych w tamtych czasach wyspiarzy - albo pod swoim przywództwem, albo zmuszając ich do zjednoczenia się przeciw niemu; to zjednoczenie nadało kształt współczesnej polityce wysp
         - Skovik nie powinien iść do Kaer Dhu, próbować odzyskać artefaktów po Knucie, jeśli nie jest gotów wrócić z wygnania (na które sam się notabene wypędził), zająć "swojego miejsca" na wyspach (wśród Vildkaarlów jeśli odzyska honor? jako głowa swojego rodu? co poeta miał na myśli?)
@@ -60,8 +62,8 @@
         - stwierdza, że jego nauka jest bolesna, ale ból to dobry nauczyciel; ma nadzieję że Skovik wyniósł mądrość z tego co się stało, a jeśli będzie chciał, znajdzie {druida}Artis na wyspach
         - Artis zamienia się na powrót w sowę i odlatuje
 3. Czarujące ploteczki
-    - Do pilnującego swojego pierścienia pod Cyklamenem Kajetana dzwoni Keira
-    - z okazji odbicia Mariboru Kapituła organizuje bal, trzy dni po nim planowane jest rozpoczęcie ekspedycji na północ, do Kaer Seren
-    - Myrton albo jest w Novigradzie albo podróżuje - stara zebrać się rozbity zakon pod swoim przywództwem,
-    - Zakon Łowców po śmierci Radowida nie ma wsparcia politycznego, jest zdany na siebie
-    - Elatan jest dalej nieprzytomna, śpi w posiadłości Keiry
+    - Do pilnującego swojego pierścienia pod Cyklamenem Kajetana dzwoni Keira:
+        - z okazji odbicia Mariboru Kapituła organizuje bal, trzy dni po nim planowane jest rozpoczęcie ekspedycji na północ, do Kaer Seren
+        - Myrton albo jest w Novigradzie albo podróżuje - stara zebrać się rozbity zakon pod swoim przywództwem,
+        - Zakon Łowców po śmierci Radowida nie ma wsparcia politycznego, jest zdany na siebie
+        - Elatan jest dalej nieprzytomna, śpi w posiadłości Keiry
