@@ -112,6 +112,16 @@
 - <a id='l_redania' pattern='Redani*'>Redania</a>
     - <a id='l_novigrad' pattern='Novigrad*'>Novigrad</a>
         - Stolica wyznawców wiecznego Ognia
+    - <a id='l_trupia_knieja' pattern='Trupi* Knie*'>Trupia Knieja</a>
+        - Nieprzejezdy las między Oxenfurtem a Bronowicami
+        - <a id='l_est_tayiar' pattern='Est Tayiar'>Est Tayiar</a>
+            - Stolica elfów z przed lądowania ludzi, wyniszczona jakąś zarazą, ostatnim władcą był Maeglor, który umierając ukrył miasto przed zbezczeszczeniem i splądrowaniem
+        - <a id='l_erde' pattern='Erde'>Erde</a>
+            - porzucona drwalska wioska, należała do rodziny Von Everec, opodal porzucony dworek
+        - <a id='l_arn_skrone' pattern='Arn Skrone'>Arn Skrone</a>
+        - <a id='l_Heddel' pattern='Heddel'>Heddel</a>
+    - <a id='l_bronowice' pattern='Bronowic*'>Bronowice</a>
+        - Wieś Jawunta i Aldony, popularny cel wycieczek studentów z Oxenfurtu
     - <a id='l_oxenfurt' pattern='Oxenfur*'>Oxenfurt</a>
         Viggo [Regner](Viggo) - miejsce nauki
         - <a id='l_dom_borsodych' pattern='Dom* Aukcyjn* Braci Borsodych'>Dom Aukcyjny Braci Borsodych</a>
@@ -120,8 +130,6 @@
     - <a id='l_rinbe' pattern='Rinbe'>Rinbe</a>
         - Położone nad północnym brzegiem Pontaru
         - Lokacja jednego z laboratoriów Vilgefortza
-    - <a id='l_bronowice' pattern='Bronowic*'>Bronowice</a>
-    - <a id='l_trupia_knieja' pattern='Trupi* Kniej*'>Trupia Knieja</a>
 - <a id='l_temeria' pattern='Temer*'>Temeria</a>
     - <a id='l_wyzima' pattern='Wyzim*'>Wyzima</a>
         - stolica Temerii

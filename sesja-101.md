@@ -40,7 +40,7 @@
     - W czasie pierwszej warty {druidkę}Ilana odwiedza leszy, obrońca tego lasu - górująca postać leśnego ducha z jelenią czaszką zamiast głowy.
     - Leszy robi oględziny pola bitwy i zbiera szczątki swoich ogarów. Ilana wymienia z nim kilka zdań, oddając kawałek czaszki jednego z psów z wyrytą runą w języku druidów. Leszy daruje jej w zamian ciernistą gałązkę i pozwolenie na dalszą podróż, po czym odchodzi w las.
     - {Druidka}Ilana zmienia się z Kajetanem na warcie. Mówi o leszym, ale {elf}Kajetan jest nadal poirytowany i oburzony nieuzasadnionym atakiem - nie chce słuchać druidzkiego usprawiedliwiania leśnych duchów.
-    - W nocacy Ilanę nawiedza dziwny sen, podzielony na kilka obrazków:
+    - W nocy Ilanę nawiedza dziwny sen, podzielony na kilka obrazków:
         - wioska wiodąca życie w zgodzie z naturą
         - kamienny zamek na zboczu ze znajomą wieżą, patrzący na moczary
         - młoda grzybiarka spacerująca w lesie

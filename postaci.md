@@ -54,6 +54,11 @@
     - stworzył wiedźminów szkoły gryfa
 - <a id='p_margarita' pattern='Margari*,Margari* Laux-Antille'>Margarita Laux-Antille</a> - człowiek, mag, członek Nowej Kapituły
     - rektorka Aretuzy
+- <a id='p_mirna' pattern='Mirn*'>Mirna</a> - człowiek; druid
+    - przyjaciółka Ilany
+    - dziewczyna Kajetana
+    - wyruszyła z Wioski by otworzyć warsztat alchemiczny w Kerrack
+    - jest w gangu Salamandry
 - <a id='p_mozaik' pattern='Mozaik'>Mozaik</a> - czarodziejka
     - asystentka: Radcliffe
 - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
@@ -133,8 +138,6 @@
         uratowany przez Ilanę i Finarrina w czasie wędrówki do Craag An
     - <a id='p_juniper' pattern='Juniper'>Juniper</a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
     - <a id='p_elba' pattern='Elb*'>Juniper</a> - driada; uczyła Ilanę strzelać z łuku
-    - <a id='p_mirna' pattern='Mirn*'>Mirna</a> - człowiek; druid
-        - przyjaciółka Ilany
     - <a id="p_sariel" pattern='Sariel*,Flamin* Sariel*,Flamin*'>Sariel</a> - elf;
         Flaminka, poprzedniczka Finarrina
     - <a id='p_verdanka' pattern='Verdan*'>Verdanka</a> - człowiek; skryba
@@ -286,6 +289,9 @@
     - <a id='p_osmyk' pattern='Osmyk*,Osmyk* I,Król* Osmyk* I'>✝ Król Osmyk I</a> - ; założyciel Kerack
     - <a id='p_ksiaze_viraxas' pattern='Ksi* Viraxas*,Viraxas*,Ksi* Viraksas*,Viraksas*'>✝ Książę Viraxas</a> - ;
     - <a id='p_ksiaze_egmund' pattern='Ksi* Egmund*,Egmund*'>Książę Eggmund</a> - ;
+        - "ma głowę na karku" wg. Brona,
+        - współpracuje z gangiem Salamandry
+        - współpracuje z Roeggnerem Czarnym
     - <a id='p_bron' pattern='Bron*'>Bron</a> - ; lichwiarz
         - pożyczył Mirnie 1000GP, spodziewa się 1500GP z powrotem
         - zaczął współpracować z dziewczyną gdy okazało się że jej biznes zaczyna przynosić dochody a potrzebny jest figurant bez domieszki nieludzkiej krwi
@@ -339,6 +345,7 @@
             - człowiek
             - studiował na Oxenfurcie
             - prowadzi nielegalne interesy w okolicy Dorian
+            - członek gangu Salamandry
     - Rdestowa Łąka
         - <a id='p_wilhelm_hoffmeier' pattern='Wilhelm* Hoffmeier*,Wilhelm*,Hoffmeier*'>Wilhelm Hoffmeier</a> - niziołek, sołtys
         - <a id='p_alfons' pattern='Alfons* Biberveldt*,Alfons*'>Alfons Biberveldt</a> - niziołek, sierota
@@ -412,10 +419,16 @@
         - przewodzi Vildkaarlom
         - pozwolił Skovikowi na zamach na Cerys, podarował mu zaklęty sztylet nie tłumacząc że posłuży tylko w honorowej walce
         - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)
+    - <a id='p_ognaj' pattern='Dyjin* Ognaj*,Dyjin*,Ognaj*'>Dyjin Ognaj</a> 
+        - Łowca nagród który zatruł nas strzałkami i stracił wóz
     - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a><a id='p_drummond' pattern='Drummond'></a>
         - zwany też Szalonym, głowa klanu Drummond
         - ma na pieńku z klanem an Craite (i periodycznie chyba kilkoma innymi)
         - wraz z rodziną został zamordowany przez skrytobójców we własnej twierdzy, rzekomo na zlecenie nowej władczyni [Wysp](Skellige), Cerys an Craite
+    - <a id='p_lugos_m' pattern='Lugos* Młodsz*'>Lugos II Drummond</a>
+        - przyrodni brat Skovika,
+        - prawowity dziedzic Lugosa
+        - umarł na __tym__ bankiecie
     - <a id='p_orm' pattern='[ÖO]rm*'>Örm</a>
         - siostrzeniec Lugosa
         - uznawany za cały ród za fajtłapę

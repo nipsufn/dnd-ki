@@ -15,6 +15,7 @@
 - <a id="r_kreve" pattern='Kreve'>Kreve</a> - bóstwo jednej z religii północy
 - <a id="r_lwioglowy_pajak" pattern='Lwiogłow* Pają*'>Lwiogłowy Pająk (Coram Agh Terra)</a> - bóg, zły. Stary kult. Jego praktykowanie było zakazane i tępione (karą śmierci) za rządów Foltesta na terenach Temerii. Po śmierci Foltesta wiernych przybywa
 - <a id="r_leopatis" pattern='Leopatis'>Leopatis</a> - stare bóstwo i jego kult
+- <a id="r_svalblod" pattern='Svalblod*'>Svalblod</a> - wyklęte bóstwo wyspiarzy, dalej czczone przez niektórych. Daje siłę Vildkaarlom.
 - <a id="r_wodni_panowie" pattern='Wodn* Pan*'>Wodni Panowie</a> - stare bóstwa i ich kult
 - <a id="r_freya" pattern='Frey*'>Freya</a> - bogini Wyspiarzy, główny kult na wyspach Skellige
 - <a id="r_morkvarg" pattern='Morkvarg*'>Morkvarg</a> - pirat który ograbił świątynię Freyi na wyspie Hindersvjal
