@@ -140,14 +140,10 @@
                 You can create any floor plan you like that matches the exterior, but the space can't exceed 10 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
             </details>
     - Plany:
-        - pomóc Aldonie i Jawuntowi
         - przekazać odpis traktatów alchemicznych Kapitule
-        - skontaktować najemników z Matką Iolą
-        - odzyskać wieżę od Mirny
-        - wybadać Margaritę nt. świeczki do przenoszenia klątw - goecja
         - wrócić do podziemnego jeziora koło Col Serrai
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
-        - odzyskać miecz z Domu Aukcyjnego Braci Borsodych
+        - odzyskać miecz z Domu Aukcyjnego Braci Borsodych (750gp na kwartalnej aukcji)
         - Zaklęcia do transkrypcji:
             - [Heat Metal (2)](https://5e.tools/spells.html#heat%20metal_phb)
             - [Invisibility (2)](https://5e.tools/spells.html#invisibility_phb)

@@ -55,7 +55,8 @@
     - Pomóc odszukać druha [Yeavinna](Yaevinn) na wschodzie Brokilonu
 
 ---
-
+- Najemnicy Świątynni
+    - skontaktować najemników z Matką Iolą
 - Ekspedycja do Kaer Seren
     - dawny dom wiedźminów szkoły gryfa
     - duża biblioteka, dom Malaspiny
