@@ -5,7 +5,7 @@
 	- Ivar zaczął rozbudowywać swoją chatę o jakieś dodatkowe pomieszczenie. Przybyło tam także różnych znalezisk i ozdób, między innymi trącący magią kamienny rycerz, jak się okazuje, pamiątka z Craag An.
 	- Finarrin opowiada nam jak mają się sprawy w lesie. Podobno król Viraksas ostrzy sobie zęby na brokilońskie drewno, czym skutecznie załazi Eithne za skórę.
 	- Z Verden {stara driada}Eithne na razie jest w stosunkowo pokojowych relacjach, między innymi dzięki nowej roli Finarrina.
-	- By spisać wiedzę druidów książe Kistrin przysłał Verdankę, młodą, robiącą wrażenie niezdarnej, skrybę. Dziewczyna opiekuje się także dotychczasowym księgozbiorem.
+	- By spisać wiedzę druidów książę Kistrin przysłał Verdankę, młodą, robiącą wrażenie niezdarnej, skrybę. Dziewczyna opiekuje się także dotychczasowym księgozbiorem.
 	- Ilana prosi Verdankę o swoją książkę z dzieciństwa - zbiór legend i baśni. Oddaje książkę Skovikowi żeby ten miał też coś bardziej ambitnego do nauki czytania.
 2. Wróżenie z fusów
 	- Finarrin zabiera nas na pobliską polankę aby odprawić rytuał, o którym wspominał.
@@ -22,7 +22,7 @@
 		- Formorian zabił rodzinę Lloyda (razem z resztą mieszkańców) zanim pojawiliśmy się w Medownej po raz pierwszy
 		- przybysz zostawił coś - "cień" - po sobie w miejscu, gdzie go odprawiliśmy - to będzie najlepsze miejsce by go przyzwać i z nim się rozprawić
 		- podoba mu się "życie" na naszej płaszczyźnie, chce tu wrócić
-	- Na koniec audiencji {druidki}Ilana Galawain mówi jej, że ojczym bardzo ją kocha i jest gotów zdobyć się dla niej na spore poświęcenie. Słowa te są podszyte czymś nieprzyjemym, złowróżbnym, jakby były nie radą, a bardziej przestrogą.
+	- Na koniec audiencji {druidki}Ilana Galawain mówi jej, że ojczym bardzo ją kocha i jest gotów zdobyć się dla niej na spore poświęcenie. Słowa te są podszyte czymś nieprzyjemnym, złowróżbnym, jakby były nie radą, a bardziej przestrogą.
 	- Kajetan wytargował jedno pytanie bez obciążania {starego druida}Finarrin - jak zabezpieczyć bibliotekę w Craag An. Dowiedział się, że:
 		- wyrywając włócznię Ivryna obudził coś, co drzemało od wieków
 		- Ivryn zabezpieczył Craag An w ramach jakiejś umowy z Galawainem

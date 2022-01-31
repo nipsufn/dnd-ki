@@ -53,3 +53,65 @@
 - [x] Leśne igraszki<a id='z_q13'></a>
     - Kryształowy koralik dla Kajetana
     - Pomóc odszukać druha [Yeavinna](Yaevinn) na wschodzie Brokilonu
+
+---
+
+- Ekspedycja do Kaer Seren
+    - dawny dom wiedźminów szkoły gryfa
+    - duża biblioteka, dom Malaspiny
+    - to samo już kiedyś się wydarzyło, Stregobor i Istredd znaleźli ludzi zamarzniętych w pełnym rynsztunku (sesja 69)
+    - była tam jakaś ekspedycja, częściowo odkopała twierdzę
+    - Stregobor rozpływał się nad "iluzją idealną" którą tam znalazł
+    - twierdza używana jako tymczasowa siedziba Kapituły
+    - prace archeologiczne były prowadzone przez Stregobora i Istredda, prawdopodobnie uruchomili jakiś mechanizm ochronny, powodując lawinę / wypełnienie twierdzy śniegiem, magowie musieli się ewakuować, co Radcliffe przypłacił zdrowiem
+- Przeszpiegi w Risbergu
+    - sesje: 76; 86 do 89
+    - historia / kontekst:
+        - Risberg to północna twierdza Zielonych Rycerzy
+        - Ortolan i Filavandrel byli sponsorami projektu, którego efektem miał być zabójca magów, niewrażliwy na Moc - wykonawcą był tajemniczy uczeń Ortolana
+        - elfka z rzeźby na fontannie to żona Galawaina objęta klątwą zapomnienia, została zniszczona, jej głowa - podarowana Stregoborowi razem z kawałkami rzeźb z Crag An - jeśli odebrał na czas z Mariboru
+        - cytadelę próbowali wyczyścić najęci przez magów wiedźmini szkoły kota, bez powodzenia
+        - projekt mógł być prawdziwą przyczyną jatki pod Sodden
+        - Kapituła zakopała coś związanego na pogórzu Tukajskim
+    - potwory:
+        - strażnik 0 humanoid o żółto-fioletowej skórze. ciało zdeformowane twarzami wykrzywionymi w przedśmiertnym grymasie
+        - strażnik a łysy miś regenerował się od rzucanych nań zaklęć
+        - strażnik b wężobaba zamieniała ukąszeniem w kamień - zjedzona przez strażnika 0, który potencjalnie przyswoił sobie jej umiejętności, potrafi zniszyć Bąbelek Leomunda
+        - strażnik c wilkoskorp wilk ze skorpionim ogonem zakończonym okiem
+    - układ/lokacja:
+        - pomieszczenia są z magiczną ciemnością, rozproszyć może mocne zaklęcie albo artefakt w posiadaniu Ilany. Efekt można znieść za pomocą czarno-białego kandelabra
+        - wystawa rozumnych ras północy
+        - pokój z dziurawą podłogą ukrytą pod iluzją
+        - pokoje, oryginalnie połączone teleportami jak Thanned, obecnie są złączone wykutymi w skale korytarzami
+        - pokój z fontanną: kamienne posągi kolekcjonowane przez strażnika b, fioletowa trawa, gablota ze złamanym mieczem. Na fontanie była rzeźba elfki, z twarzy której wzrok sam się zsuwa, próba przyjrzenia kończy się krwotokiem z nosa
+        - gdzieś tam znajduje się szkielet Wrana
+- Na ratunek Isilme
+    - prawdopodobnie pojmany przez Łowców Czarownic podobnie jak Kajetan
+    - podobnie jak my miał okazję próby ucieczki z wozu więziennego - w Trupiej Knieji, bez powodzenia
+    - jest przetrzymywany w Est Tayiar
+    - W jego ciele hodowany jest dwimeryt
+- W pogoni za honorem Skovika
+    - opinię Kajetana, że Artis zmanipulował i namówił Skovika do zamachu, nieumyślnie i pośrednio wykreował Roeggner, karmiąc bujną wyobraźnię elfa wyspiarskimi domysłami (sesja 81)
+    - po rodach można się spodziewać:
+        - Drummond, Dimun - przychylne Skovikowi
+        - An Craite, An Hindar, Brokvar - nieprzychylne osiłkowi, popierają Cerys
+        - Tuirseach  - przeciw Cerys, niekoniecznie z Drummond i Dimun (Svanrige)
+- Mistrz i Ilana
+    - Znaleźć i porozmawiać z Myszoworem
+    - Dać się wyćwiczyć Artisowi w zamian za własną krew - jeśli znajdzie Fornhalę
+- Powrót do Crag An:
+    - Stregobor wyraził zainteresowanie (sesja 88)
+    - historia wg Starego Olsy:
+        - Aen Drisichean przybyli z innej płaszczyzny przez portal, pierwszy w Brokilonie, w miejscu którego wybudowali wieżę
+        - w sercu lasu powstało miasto, które znamy jako Craag An
+        - stworzenia, które nie posługiwały się Mocą Aen Drisichean uważały za zwierzęta
+        - o Wranach mało kto wiedział, ich istnienie próbowano zatuszować - jak zwierzęta mogły by być w stanie odebrać dumnym elfom panowanie nad Mocą albo nawet i życie
+        - Aen Drisichean straciły możliwość czerpania Mocy z portalu, przez który przybyły; okazało się, że jak z za często pitą gorzałką - jej brak niesie ze sobą delirium, czym więcej ktoś pił - tym mocniejsze
+        - rozpoczęła się wojna domowa; Galawain próbował za wszelką cenę przywrócić stary porządek i naprawić źródło mocy, natomiast jego żona, przeklęta, bezimienna królowa, próbowała skrzyżować swój lud ze stworzeniami natywnymi naszej płaszczyźnie, z różnymi skutkami
+        - "Olsa" jest jednym z tych udanych eksperymentów królowej
+    - od Galawaina:
+        - wyrywając włócznię Ivryna obudził coś, co drzemało od wieków
+		- Ivryn zabezpieczył Craag An w ramach jakiejś umowy z Galawainem
+		- jeśli chce się dostać bezpiecznie do Craag An, Eithne jest potencjalnym sprzymierzeńcem, którego jednak {strażnik}Galawain odradza
+		- jeśli chce porozmawiać normalnie, powinien odwiedzić {króla lasu}Galawain w jego więzieniu pod Duen Canell
+        - by wyrwać Galawaina z Duen Canel można spróbowac użyć czarnego serca od Zangenisa, Finarrinowi nie podoba się taki koncept

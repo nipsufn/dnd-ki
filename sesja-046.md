@@ -34,7 +34,7 @@
     - Skaags wydaje się być znużony nadgorliwością strażnika. Ilana bez ogródek stwierdza, że może stać się mu krzywda jeśli nawinie jej się pod rękę w czasie rozprawy z czarodziejem. Zostaje odprawiony, a [sierżant](Skaags) z powrotem nas rozkuwa.
     - Nad ranem pakują nas do wozu. W konwoju oprócz naszego jadą jeszcze 2 kolejne, ale nie z więźniami, a z towarem.
     - Na jednym z wozów z fantami siedzi sam kapitan. Do tego wozu zaprzęgnięto też naszego zdobycznego konia. O ile nam wiadomo, Skaags zostaje w strażnicy.
-    - Jednen ze strażników szepcze nam informację, że nasze rzeczy są schowane pod podłogą wozu, a klucze do kajdan znajdziemy pod ławą. Naszym wozem powozi strażnik z Medownej, nazwany Lloydem. Drugiego człowieka nie rozpoznajemy, ale w rozmowie między dwójką pada imię Lars - tak nazywa go Lloyd.
+    - Jeden ze strażników szepcze nam informację, że nasze rzeczy są schowane pod podłogą wozu, a klucze do kajdan znajdziemy pod ławą. Naszym wozem powozi strażnik z Medownej, nazwany Lloydem. Drugiego człowieka nie rozpoznajemy, ale w rozmowie między dwójką pada imię Lars - tak nazywa go Lloyd.
     - Ubożsi o kilka co drożej wyglądających przedmiotów, wjeżdżamy do miasta. Wóz nagle się zatrzymuje, przerywając Kajetanowi próby mącenia - prowokowania - w głowie Lloyda. Słyszymy tumult, a potem nagle głuchą ciszę. Coś bezgłośnie eksploduje pod samym wozem.
     - Osłonięci jedną z desek spadamy do kanałów, gdzie Ilana zostaje postrzelona przez celującego do niej z góry Lloyda. W odwecie, zmieniona w niedźwiedzia, druidka ściąga go w dół. Zgodnie z obietnicą odprawiamy go na tamten świat, upewniając się że wie dlaczego.
     - Z głębi kanałów przychodzą po nad ludzie Larsa. W gąszczu rozwidleń udaje nam się zgubić pościg.

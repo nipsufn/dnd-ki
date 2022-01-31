@@ -8,7 +8,7 @@
     - Ilana i Alfons zakradają się bliżej aby przyjrzeć się dziwnej konstrukcji. {Druidka}Ilana zauważa dwójkę ludzi - jakiegoś typa z kuszą i znajomego nam oprycha-podżegacza z Dorian.
     - Na północny wschód od wieży jest druga, identyczna, ale częściowo zawalona. Na południowy zachód zaś zauważamy zrujnowaną osadę.
     - Ilana odsyła Alfonsa do reszty, a sama, zmieniona w rysia, wspina się na wieżę sprawdzić co się tam święci. Na szczycie komina leży wartownik z kuszą i mierzy do stojących kawałek dalej Kajetana i Skovika.
-    - Skofundowany bliskim spotkaniem z rysiem mężczyzna na chwilę odkłada kuszę i zaczyna sięgać po jakieś ostrze. Ryś jednak odwraca się na pięcie i odchodzi, nie chcąc prowokować ataku.
+    - Skonfundowany bliskim spotkaniem z rysiem mężczyzna na chwilę odkłada kuszę i zaczyna sięgać po jakieś ostrze. Ryś jednak odwraca się na pięcie i odchodzi, nie chcąc prowokować ataku.
     - Wieża, czy też komin, zdaje się mieć zamontowaną swego rodzaje drabinę w swoim wnętrzu, po której wartownik schodzi wgłąb tunelu, odpuszczając sobie strzelanie do drużyny.
     - Zbieramy się w kupę i idziemy rozbić obóz na noc w zrujnowanej osadzie. Zamiast szukać potwora poczekamy, aż sam nas znajdzie. Osiołki zostawiamy w bezpiecznej odległości, z dala od obozu żeby mieć na czym wracać.
 2. Nocne polowanie
@@ -18,15 +18,15 @@
     - Bez ciepłej kolacji, aczkolwiek lekko pokrzepieni miodulą, wystawiamy warty. W nocy zrywa się burza, ciągnąca od morza, być może gdzieś z okolic Thanned, gdzie zdaje się uderzył pierwszy grom.
     - Na swojej warcie Kajetan dostrzega ruch w gałęziach i tak mocno szarpanych wiatrem. Do naszego obozu podchodzi bestia - wyliniały, nader muskularny niedźwiedź o przerośniętych uszach i dziwnym, zielonkawo sinym kolorze skóry. Węszy jakby wdychał ozon gromadzący się w powietrzu.
     - Ilana zostaje obudzona, więc uskutecznia przeszpiegi. W tym czasie Kajetan przygotowuje zaklęcie. {Druidka}Ilana ma niejasne przeczucie, że potwór ciągnie do magii. Rzuca mu jedną z muszli zabranych z Col Serrai. Bestia wydaje się być zaintrygowana, ale połyka błyskotkę.
-    - Ilana próbuje nawoływać do bestii w różnych językach, ale ta zdaje się na żaden jakoś specjalnie nie reagować. Wreszcie podchodzi do bombla i próbuje dosłownie zlizać z niego magię.
-    - Budzimy Alfonsa, który jest śmiertelnie przerażony tymi odwiedzinami i podwójnie skofundowany tym, co się właśnie dookoła niego wyprawia. Młodzik otrzymuje polecenie aby czekać w gotowości i na dany znak biec ile sił w nogach do najbliższego drzewa, kiedy my zajmiemy potwora.
+    - Ilana próbuje nawoływać do bestii w różnych językach, ale ta zdaje się na żaden jakoś specjalnie nie reagować. Wreszcie podchodzi do bąbla i próbuje dosłownie zlizać z niego magię.
+    - Budzimy Alfonsa, który jest śmiertelnie przerażony tymi odwiedzinami i podwójnie skonfundowany tym, co się właśnie dookoła niego wyprawia. Młodzik otrzymuje polecenie aby czekać w gotowości i na dany znak biec ile sił w nogach do najbliższego drzewa, kiedy my zajmiemy potwora.
 3. Walka ze strażnikiem
-    - Kajetan kończy zaklęcie przywołania ognistego krasnoluda, kiedy Ilana, przemieniona w niedźwiedzia, wychodzi ze schronienia i próbuje ściągnąć na siebie uwagę bestii. Dzieje się coś nieopisanego - potwór szarżuje, jakby chciał zaatakować, po czym przystaje i liże {niedźwiedzia}Ilana - zupełnie jak wcześniej bombel.
+    - Kajetan kończy zaklęcie przywołania ognistego krasnoluda, kiedy Ilana, przemieniona w niedźwiedzia, wychodzi ze schronienia i próbuje ściągnąć na siebie uwagę bestii. Dzieje się coś nieopisanego - potwór szarżuje, jakby chciał zaatakować, po czym przystaje i liże {niedźwiedzia}Ilana - zupełnie jak wcześniej bąbel.
     - Niestety {druidka}Ilana nie ma czasu na dalsze eksperymenty, bo zza jej pleców wytacza się reszta, atakując potwora tym co mają na podorędziu - Skovik swoją bronią, a Kajetan -  z dystansu, magią, posiłkując się ognistym przyzwańcem.
     - Potwór niemal natychmiast rzuca się na resztę, dotkliwie raniąc {Wyspiarza}Skovik i {elfa}Kajetan. Ognisty krasnolud zostaje zdematerializowany nim zdążył wyrządzić bestii jakąkolwiek znaczącą krzywdę. Ku naszemu przerażeniu, potwór zdaje się używać otaczającej go magii do regeneracji.
     - Ilana, nie mając wyboru, atakuje bestię, choć ta wyraźnie unika atakowania {niedźwiedzia}Ilana. Po którymś z bardziej dotkliwych razów, potwór rzuca {druidce}Ilana niemal inteligentne spojrzenie, jakby przepełnione żalem i niezrozumieniem, po czym zaczyna uciekać.
 4. Pogoń do leża
-    - Ilana, nadal w formie niedźwiedzia, puszcza się w pogoń za potworem. Coś jej mówi, że ta bestia może być z nią w jakiś sposób związana. Może rozpoznała w niej swój pierwiastek i dlatego nie chciała atakować {dzieczyny}Ilana?
+    - Ilana, nadal w formie niedźwiedzia, puszcza się w pogoń za potworem. Coś jej mówi, że ta bestia może być z nią w jakiś sposób związana. Może rozpoznała w niej swój pierwiastek i dlatego nie chciała atakować {dziewczyny}Ilana?
     - Kajetan, wyraźnie niezadowolony z obrotu walki, przywołuje do siebie niziołka i tworzy dla pozostałej dwójki bąbelek. Skovik, nie chcąc czekać, biegnie w ślad za Ilaną aby upewnić się, że {druidka}Ilana jest cała i zdrowa.
     - {Mag}Kajetan tymczasem wysyła za Skovikiem swoją sowę i - nie bacząc już na obecność Alfonsa - śledzi sytuację oczami ptaka.
     - Ilanie udaje się nie zgubić potwora, ale ten wpełza do zrujnowanej wieży i przykrywa wejście wielkim, ciężkim głazem. 
@@ -41,7 +41,7 @@
     - Ilana poświęca trochę swojej energii żeby magicznie połatać {kochanka}Skovik, bo ten nieźle oberwał w czasie walki, a mimo to poszedł jej szukać nie zważając na własny stan.
     - W ślad za Skovikiem do tunelu wpada sówka Kajetana. Ptak sadowi się na ramieniu Ilany, będąc cały czas oczami {maga}Kajetan na rozwój sytuacji.
     - {Druidka}Ilana zdradza {wyspiarzowi}Skovik swój plan zbadania pokoju. Chwilę zajmuje jej przekonanie go aby nie szedł z nią, a zamiast tego czekał na nią tu, w tunelu i pociągnął za linę, którą się przewiązała gdyby potrzebowała żeby ją szybko wyciągnął.
-    - Para, zapominając o sowie - obserwatorce, pozwala sobie na chwilę czułości, po czym Ilana wstępuje w ciemność. Brnie kawałek deptając po wysuszonych kościach, a także czymś bardziej gumowatym. Stawia jeszcze kilka kroków, kiedy światło zmienia się na czerwone, a dźwięk staje się bardziej alarmujący.
+    - Para, zapominając o sowie - obserwatorce, pozwala sobie na chwilę czułości, po czym Ilana wstępuje w ciemność. Brnie kawałek depcząc po wysuszonych kościach, a także czymś bardziej gumowatym. Stawia jeszcze kilka kroków, kiedy światło zmienia się na czerwone, a dźwięk staje się bardziej alarmujący.
     - Ilana uspokaja zaniepokojonego Skovika i nasłuchuje. Zawodzenie jakby ucichło, a w jego miejsce pojawił się inny, nieprzyjemny, jeżący włosy na karku dźwięk pełzania po podłodze.
     - {Druidka}Ilana zaczyna się powoli wycofywać kiedy czuje jakąś łuskowatą mackę oplatającą ją powoli. Zrzuca ją z siebie i daje znak Skovikowi aby ten ją wyciągnął.
     - {Wyspiarz}Skovik z całych sił ciągnie linę. Z pokoju wystrzela Ilana, a za nią człekopodobna, wężowa kreatura. Skovik zasłania {dziewczynę}Ilana, stając między nią, a żmijowatym potworem. Nie ma nawet czasu na reakcję, kiedy żmija zatapia mu kły w barku.

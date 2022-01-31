@@ -70,16 +70,18 @@
                 - 3 porcji pyłu kamieni szlachetnych
                 - 4 porcji kredy
             - Fundusze:
-                - 117.3.1 gp
+                - 108.1.1 gp
                 - kamienie szlachetne warte 350gp
                 - 3 pierścionki warte po 20 - 50GP
             - Magiczne różności:
+                - eliksir dodający spellslot od Mirny
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
                 - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
                 - 1 zwój do teleportacji
                 - 1 kryształ na zaklęcia (False Life, 25HP)
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
+                - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
                 - <details>
                     <summary>Śnieżka Aurila</summary>
                         When attuned, increased Cold damage done by all spells by 1 per dice rolled
@@ -91,6 +93,7 @@
                         While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
                     </details>
             - Thieves Tools
+            - naszyjnik przyjaciela Roeggnera Czarnego - kotwica z kości wieloryba
             - Do rozpracowania:
                 - podłużna zamknięta szkatułka
                 - Kryształowa kasetka na zaklęcie; żółta
@@ -134,7 +137,7 @@
                 Components: V,S,M (A model of an elven tower worth at least 250 GP, and 1 GP per person, which the spell consumes)
                 Duration: 12 hours
                 You conjure a dwelling matching the area. You and up to 10 creatures you designate when you cast the spell can enter the dwelling, but it appears to be inexplicably inaccessible to others.
-                You can create any floor plan you like that matches the exterior, but the space can't exceed 5 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
+                You can create any floor plan you like that matches the exterior, but the space can't exceed 10 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
             </details>
     - Plany:
         - pomóc Aldonie i Jawuntowi
@@ -146,6 +149,9 @@
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych
         - Zaklęcia do transkrypcji:
+            - [Heat Metal (2)](https://5e.tools/spells.html#heat%20metal_phb)
+            - [Invisibility (2)](https://5e.tools/spells.html#invisibility_phb)
+            - do odbioru - [Fly (3)](https://5e.tools/spells.html#fly_phb)
             - [Life Transference (3)](https://5e.tools/spells.html#life%20transference_xge)
             - [Planar Binding (5)](https://5e.tools/spells.html#planar%20binding_phb)
             - [Create Undead (6)](https://5e.tools/spells.html#create%20undead_phb)

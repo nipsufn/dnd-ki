@@ -229,6 +229,9 @@
         - port na jednej z Wysp
     - <a id='l_kaer_trolde' pattern='Kaer Trolde'>Kaer Trolde</a>
         - siedziba rodu An Craite
+    - <a id='l_kaer_dhu' pattern='Kaer Dhu'>Kaer Dhu</a>
+        - legendarna siedziba rodu Drummond, zniknęła ponoć po panowaniu Knuta Okrutnego
+        - da się do niej dostać po kataklizmie spowodowanym przez działania Dorregaraya
     - <a id='l_tor_gvalchca' pattern='Tor Gvalch'>Tor Gvalch'ca</a>
         jedna z elfich wież
 - <a id='l_zerrikania' pattern='Zerrikania'>Zerrikania</a>

@@ -11,7 +11,7 @@
         - młodzian próbował nawiązać kontakt ze swoim patronem, Galawainem, bezskutecznie
     - Spotykamy się wszyscy na śniadaniu. Finarrin trafnie zauważa, że Ivarowi wyostrzył się nieco dowcip, młodzian stał sie też bardziej butny odkąd zadaje się ze {starą driadą}Eithne. Następuje ciąg dalszy sprzeczki z Ilaną, którą kończy odejście poirytowanej {druidki}Ilana od stołu.
     - Na "spacerze" Ilanę dogania Skovik, rozumiejąc doskonale z autopsji przyczyny nerwów {dziewczyny}Ilana. Dwójka rozmawia chwilę o Ivarze. 
-    - Ilana wyciąga ręke na zgodę i przeprasza Ivara za wtrącanie się w jego decyzje. Tłumaczenie, że to z troski o niego i poczucia winy za wpakowanie go w tę kabałę na pierwszym miejscu zostaje zaakceptowane. Ostatecznie {młody Drummond}Ivar zgadza się pomóc i zabiera się za naprawę swojego podniszczonego rynsztunku.
+    - Ilana wyciąga rękę na zgodę i przeprasza Ivara za wtrącanie się w jego decyzje. Tłumaczenie, że to z troski o niego i poczucia winy za wpakowanie go w tę kabałę na pierwszym miejscu zostaje zaakceptowane. Ostatecznie {młody Drummond}Ivar zgadza się pomóc i zabiera się za naprawę swojego podniszczonego rynsztunku.
 2. Plany
     - Kajetan zaszywa się w chatce Mirny aby magicznym rytuałem przywołać swojego skrzydlatego chowańca. Zainhalowany kadzidłem zanosi się kaszlem, w skutek czego wykasłuje trochę dwimerytu.
     - Ilana dzieli się z Kajetanem swoim planem. Chce spróbować zwabić Lloyda i podszywając się pod jego żonę przekonać upiora, że to nie my jesteśmy jego wrogiem, a Formorian, który na nim żeruje.
@@ -25,12 +25,12 @@
         - propozycje Keiry co do sposobu sprowadzenia naszego wroga na tą płaszczyznę określa jako "mało finezyjne", sprawia jednak wrażenie jakby miał na myśli "prostackie"
         - przekazuje nam artefakt, serce wykute w czarnym kamieniu, które powinno pozwolić nam przyzwać Formoriana w Medownej albo miejscu, z którego go odprawiliśmy ostatnim razem
         - stabilizuje swoją skrzynię Leomunda wprowadzając do formuły zaklęcia rekurencję
-3. Przedstawnienie
+3. Przedstawienie
     - {Elf}Kajetan z pomocą swojego chowańca zauważa dziwnego, samotnego konnego jadącego w stronę lasu od Brugge. Domyśla się, że to Lloyd.
     - Jeździec zatrzymuje się na skraju rzeki, jakby koń nie chciał dalej ruszyć. Dowiadujemy się, że to Eithne i Galawain wzmocnili barierę wokół lasu, która zabrania nieżywym wstępu.
     - Nie mitrężąc, Ilana wyrusza na skraj puszczy, nie tak daleko z resztą od Medownej. Finarrin pomaga jej otwierając przejście w drzewie.
     - {Druidka}Ilana przybiera postać żony {upiora}Lloyd i, bardzo po elfiemu, używając półprawd i niedopowiedzeń, przekonuje go, że to Formorian, któremu teraz pomaga, zabił jego rodzinę.
-    - Lloyd zabija ciało, które kontroluje, zmuszając tym samym Formoriana do przeniknięcia do naszej płaszczyzny. Ilana obserwuje jak z resztek ciała i martwego teraz konia wyrastają korzenie i konar drzewa, pojawiają się jego gałęzie z wisielcami - zdaje się wszystkimi ofiarami potwora.
+    - Lloyd zabija ciało, które kontroluje, zmuszając tym samym Formoriana do przeniknięcia do naszej płaszczyzny. Ilana obserwuje jak z resztek ciała i martwego teraz konia wyrastają korzenie i konar drzewa, pojawiają się jego gałęzie z wisielcami - zdaje się wszystkimi ofiarami potwora.
 4. Bitka
     - Kajetan przygląda się cały czas za pośrednictwem przyzwanej sowy i zdaje relację Finarrinowi i Drummondom. Przerywa obserwację chcąc zarządzić wymarsz, tylko po to, by zauważyć wyspiarzy gotujących się do walki.
     - Finarrin wysyła trójkę na miejsce za pośrednictwem drzew. Na miejscu zastają Ilanę, dalej w postaci żony Lloyda, szyjącą do drzewa z płonących strzał.

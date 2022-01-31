@@ -32,7 +32,7 @@
     - Ilana przystaje na pomysł {młodszego Drummonda}Leiv, ku głosom zwątpienia i niedowierzania ze strony reszty pirackiej kompanii. Ich zdaniem nawet poławiacze pereł nie są w stanie zejść na 100-150 metrów, gdzie spoczywa ich dobytek, a co dopiero takie chuchro jak Ilana. Zdaje się więc, że Leiv nie wyjawił swoim kamratom kim jesteśmy.
     - {Druidka}Ilana, chcąc wydostać się nareszcie z tej dziwnej sytuacji, pyta Leiva, czy wybierze się z nią i Skovikiem na wieczorne show. Ku niezadowoleniu Ilany, Rea wprasza się i biorąc Skovika pod rękę, przewodzi towarzystwu do namiotu.
 5. Wizyta w Kerack - Kajetan
-    - {Elf}Kajetan, zostawiając towarzyszy, wypytuje przechodnia o najlepszą karczmę w mieście. Otrzymuje namiary na Srebbrną Czaplę.
+    - {Elf}Kajetan, zostawiając towarzyszy, wypytuje przechodnia o najlepszą karczmę w mieście. Otrzymuje namiary na Srebrną Czaplę.
     - Rezerwując pokój w Srebrnej Czapli, zajeździe niegdyś obsługującym wyłącznie gości Aretuzy, {mag}Kajetan dowiaduje się, że:
         - na rynku koło ratusza jest biblioteka publiczna
         - na podgrodziu niedaleko portu jest sklepik słynnego podróżnika Fabio Sachsa, gdzie można znaleźć mapy i przewodniki

@@ -429,6 +429,10 @@
         - przyrodni brat Skovika,
         - prawowity dziedzic Lugosa
         - umarł na __tym__ bankiecie
+    - <a id='p_svanrige' pattern='Svanrige'>Svanrige</a>
+        - rówieśnik Lugosa Młodszego
+        - dziedzic rodu Tuirseach
+        - umarł na __tym__ bankiecie
     - <a id='p_orm' pattern='[ÖO]rm*'>Örm</a>
         - siostrzeniec Lugosa
         - uznawany za cały ród za fajtłapę
@@ -437,7 +441,7 @@
         - pirat
         - głowa rodu Dimun
         - siostra: Asliv
-    - <a id='p_Asliv' pattern='Asliv, Łez*'>Asliv "Łezka" Dimun</a>
+    - <a id='p_asliv' pattern='Asliv, Łez*'>Asliv "Łezka" Dimun</a>
         - siostra Roeggnera
         - narzeczona Leiva
     - <a id='p_reah' pattern='Reah* Bon-Dhu*,Reah*'>Reah Bon-Dhu</a>
@@ -448,3 +452,6 @@
         - legendarny wprost łowca głów z Wysp; bez Klanu i seniora
         - Vildkarl, podopieczny Artisa
         - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)
+
+
+        
