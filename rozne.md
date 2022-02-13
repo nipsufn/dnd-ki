@@ -35,7 +35,7 @@
     - zostali później zastąpieni przez "zielonych rycerzy"
 
         | Nr. | Osoba | Napis na pomniku | Napis na nagrobku | Szkoła magii pochodząca od broni | 
-        | :--- | :--- | :---: | :---: | :--- |
+        | :--- | :--- | :--- | :--- | :--- |
         | I   | Rel'rion Sprawiedliwy     | _Podsycaj swe światło_ | The ugly truth is this my friends,<br />Written cold and plain | transmutation |
         | II  | Alivara Obrończyni        | _Chroń swe światło_    | Cowards justify the ends<br />And run from their own pain      | enchantment   |
         | III | Caemiris Artystka         | _Zachowaj swe światło_ | Heroes leave an epitaph,<br />They who pay the price           | evocation     |
@@ -59,7 +59,7 @@
     - Przedmioty specjalne
 
         | Usługa/Przedmiot | Koszt FP |
-        | :--- | :---: |
+        | :--- | :--- |
         | [Magiczna Latarnia](https://5e.tools/items.html#everbright%20lantern_erlw) | 3 |
         | Komponenty do zaklęć warte do 100g | 2 |
         | [Latarnia Poznania](https://5e.tools/items.html#lantern%20of%20revealing_dmg) | 3 |
@@ -75,6 +75,7 @@
       Poziom zaklęć ograniczony przez rangę:
          
         | Ranga | Poziom zaklęć |
+        | :--- | :--- |
         | Uczeń | 1 |
         | Adept | 2 |
         | **Wolny Czarodziej** | 3 |
@@ -85,7 +86,7 @@
     - Przedmioty ogólnodostępne
 
         | Usługa/przedmiot | Cena | 
-        | :--- | :---: |
+        | :--- | :--- |
         | [Potion of Resistance](https://5e.tools/items.html#potion%20of%20resistance_dmg) | 150g |
         | Identyfikacja przedmiotu | 100g |
         | [Potion of Advantage](https://5e.tools/items.html#potion%20of%20advantage_wbtw) | 150g |
