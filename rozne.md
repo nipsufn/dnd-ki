@@ -72,17 +72,26 @@
 
     - Zakup zaklęć
       Koszt zakupu zaklęć to: 50-(Poziom*10) per Level
-      Poziom zaklęć ograniczony przez rangę
+      Poziom zaklęć ograniczony przez rangę:
+         
+        | Ranga | Poziom zaklęć |
+        | Uczeń | 1 |
+        | Adept | 2 |
+        | **Wolny Czarodziej** | 3 |
+        | Mentor | 5 |
+        | Mistrz | 7 |
+        | Członek Rady | 8 |
+
     - Przedmioty ogólnodostępne
 
         | Usługa/przedmiot | Cena | 
         | :--- | :---: |
         | [Potion of Resistance](https://5e.tools/items.html#potion%20of%20resistance_dmg) | 150g |
         | Identyfikacja przedmiotu | 100g |
-        | [Elixir Szczęścia](https://5e.tools/items.html#potion%20of%20advantage_wbtw) | 150g |
-        | [Magiczny olej](https://5e.tools/items.html#oil%20of%20sharpness_dmg) | 100/250/500g |
+        | [Potion of Advantage](https://5e.tools/items.html#potion%20of%20advantage_wbtw) | 150g |
+        | [Oil of Sharpness](https://5e.tools/items.html#oil%20of%20sharpness_dmg) | 100/250/500g |
         | Tłumaczenie tekstu | 100g |
-        | Kopiowanie tesktów lub zwojów | 200g
+        | Kopiowanie tekstów lub zwojów | 200g |
 
 - Alchemia
     - Symbole
