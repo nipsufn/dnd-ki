@@ -58,28 +58,39 @@
                 - ⓈSkórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
             - Księgi:
                 - Księga magiczna +1 arcana
-                - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
                 - pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander
                 - fragment zaklęcia 5go poziomu
-                - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
-                - Notatki belfra z Biblioteki Craag An
+                - oddane do biblioteki na Thanedd:
+                    - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
+                    - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
+                    - Notatki belfra z Biblioteki Craag An
+                    - odpis traktatów alchemicznych z Crag An
             - Komponenty:
                 - Nalewka z mandragory, 2 butelki
-                - 5 porcji inkaustu
+                - 0 porcji inkaustu
                 - 3 porcja kadzidła
-                - 3 porcji pyłu kamieni szlachetnych
-                - 4 porcji kredy
+                - 2 porcji pyłu kamieni szlachetnych
+                - 3 porcji kredy
             - Fundusze:
-                - 108.1.1 gp
-                - kamienie szlachetne warte 350gp
+                - 105.1.1 gp
+                - kamienie szlachetne warte 850gp
+                - dług Ilany warty 300GP
                 - 3 pierścionki warte po 20 - 50GP
+            - Dla Ilany:
+                - muszla ślimaka z Col Serrai (Reflect Magic: the caster takes 1d6*spell level DMG or half on CON DC 15 save)
+                - Fiolka z niebieskim płynem - pomniejszy żywiołak wody, Mage Hand at will when attuned
+                - Sekretnik - fragment mapy do skarbu
             - Magiczne różności:
                 - eliksir dodający spellslot od Mirny
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
                 - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
                 - 1 zwój do teleportacji
-                - 1 kryształ na zaklęcia (False Life, 25HP)
+                - 2 żeton do teleportacji
+                - 1 kryształ na zaklęcia ([False Life](https://5e.tools/spells.html#false%20life_phb), 25HP)
+                - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
+                - 1 kryształ na zaklęcia ([Tenser's Transformation](https://5e.tools/spells.html#tenser's%20transformation_xge))
+                - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
                 - <details>
@@ -95,12 +106,7 @@
             - Thieves Tools
             - naszyjnik przyjaciela Roeggnera Czarnego - kotwica z kości wieloryba
             - Do rozpracowania:
-                - podłużna zamknięta szkatułka
-                - Kryształowa kasetka na zaklęcie; żółta
-                - Kryształowa kasetka na zaklęcie; niebieska
                 - Różdżka, iluzja; *"Jak liść na wietrze"*; z Craag An
-            - Do wyrzucenia:
-                - naszyjnik z symbolem lwiogłowego pająka
             - Z Craag An:
                 - Medalion i ceramiczne (?) monety z Craag An
                 - Medalion bibliotekarza z Craag An
@@ -125,9 +131,9 @@
         - Ban Ard
         - Craag An
         - Gors Velen
-        - Maribor
+        - Maribor (uszkodzony)
         - Świątynia Melitele
-        - Kerack (eksperymantalny)
+        - Kerack (mobilny/eksperymantalny - Radcliffe)
     - Własne zaklęcia
         - <details>
             <summary>Kajetan's Reasonable Lodging</summary>
@@ -145,8 +151,6 @@
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych (750gp na kwartalnej aukcji)
         - Zaklęcia do transkrypcji:
-            - [Heat Metal (2)](https://5e.tools/spells.html#heat%20metal_phb)
-            - [Invisibility (2)](https://5e.tools/spells.html#invisibility_phb)
             - do odbioru - [Fly (3)](https://5e.tools/spells.html#fly_phb)
             - [Life Transference (3)](https://5e.tools/spells.html#life%20transference_xge)
             - [Planar Binding (5)](https://5e.tools/spells.html#planar%20binding_phb)

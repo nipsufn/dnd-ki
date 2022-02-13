@@ -159,8 +159,9 @@
                 - Tizjana Frevi, Dwimveandra, zajmuje się Artefaktorium
             - <a id='l_garstang' pattern='Garstang*'>Garstang</a>
                 wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszych czarodziejek na Północy
-            - <a id='l_pod_gorsetem' pattern='Pod Rozpiętym Gorsetem, Pod Gorsetem'>Garstang</a>
-                wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszych czarodziejek na Północy
+            - <a id='l_pod_gorsetem' pattern='Pod Rozpiętym Gorsetem, Pod Gorsetem'>Pod Rozpiętym Gorsetem</a>
+            - <a id='l_szafran_i_pieprz' pattern='Szafran* i Pieprz*'>Szafran i Pieprz</a>
+            - <a id='l_srebrna_czapla' pattern='Srebrn* Czapl*'>Srebrna Czapla</a>
     - <a id='l_gora_cremora' pattern='[Gg]ór* [CK]remor*,Risberg*,Cytadel*'>Góra Cremora</a>
         - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
         - magowie nazywają zajście "fuszerką"

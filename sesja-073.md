@@ -38,7 +38,7 @@
         - zwą się bandą Yarpena Zigrina, w składzie: Caleb, Ksawier Moran, Logan, Wafé, Burden, Anryj i Yarpen Zigrin
         - podróżują do Gors Velen, na jarmark z okazji święta Belleteyn
         - główną, niezwykle intratną atrakcją jarmarku jest walka na arenie z rozmaitymi potworami
-        - podobno w zeszłym roku zawody wygrali Rębacze z Crinfrid, którzy położyli mantikorę i otrzymali w nagordę jej wagę w złocie
+        - podobno w zeszłym roku zawody wygrali Rębacze z Crinfrid, którzy położyli mantikorę i otrzymali w nagrodę jej wagę w złocie
         - karczemnemu towarzystwu w podróży przewodzi Yarpen Zigrin
     - Niestety, krasnoludy nie bardzo chcą nas przygarnąć do kompanii na czas podróży, choć droga wypada nam ta sama. W momencie trzeźwieją i zbierają się do drogi. O dziwo idą pieszo, każdy taszcząc wielgachny podróżny plecak.
     - Wychodzimy z karczmy i kierujemy się na targ rozpytać za kupcami jadącymi w stronę Gors Velen. Znajdujemy dwóch: handlarza od ksiąg rachunkowych i sympatycznego handlarza warzyw, półelfa imieniem Remi.
@@ -58,4 +58,4 @@
     - Idąc przez miasto faktycznie mijamy tablice ogłoszeniowe, na których wiszą informacje o pożeraczu koni. Bestia lub cokolwiek to jest grasuje głównie w północnej części miasta.
     - Decydujemy się wypytać nazajutrz o nagrodę za zlecenie, a tymczasem kierujemy swe kroki do poleconego nam zajazdu.
     - Sad nie jest tak drogi, jak nam się z początku wydawało, zostajemy więc na noc i zamawiamy kolejkę ich specjału: cydru zwanego Złotym Jabłkiem. Wychyliwszy napitek jednym haustem Kajetan niemal traci głos i dech. Skovik też się krzywi, ale na szczęście żaden nie osuwa się taktownie pod stół.
-    - Dowaidujemy się, że produkcji alkoholu dogląda tutaj miejscowy alchemik. Ma warsztat w mieście, więc nazajutrz planujemy złożyć mu wizytę. Tymczasem udajemy się na spoczynek.
+    - Dowiadujemy się, że produkcji alkoholu dogląda tutaj miejscowy alchemik. Ma warsztat w mieście, więc nazajutrz planujemy złożyć mu wizytę. Tymczasem udajemy się na spoczynek.

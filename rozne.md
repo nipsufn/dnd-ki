@@ -55,6 +55,36 @@
     - [Greater restoration](https://5e.tools/spells.html#greater%20restoration_phb) zmniejsza objawy klątwy/choroby
 - <a id='r_cialognilec' pattern='[Cc]iałognil*'>Ciałognilec</a><a id='r_flesh_rot'></a>
     - zmodyfikowana przez [Floriana z Vicovaro](Florian) odmiana zarazy pustoszy Verden
+- usługi na Thanedd:
+    - Przedmioty specjalne
+
+| Usługa/Przedmiot | Koszt FP |
+| :--- | :---: |
+| [Magiczna Latarnia](https://5e.tools/items.html#everbright%20lantern_erlw) | 3 |
+| Komponenty do zaklęć warte do 100g | 2 |
+| [Latarnia Poznania](https://5e.tools/items.html#lantern%20of%20revealing_dmg) | 3 |
+| Spellstrike Scimitar | 5 | 
+| [Wytrzymała księga](https://5e.tools/items.html#enduring%20spellbook_xge) | 2 |
+| [Samonaprawialna Lina](https://5e.tools/items.html#rope%20of%20mending_xge) | 2 | 
+| Rod of Metamagic | 5 | 
+| Necklace of Familar Mastery | 5 |
+| Ferrystones | 5 | 
+
+
+    - Zakup zaklęć
+      Koszt zakupu zaklęć to: 50-(Poziom*10) per Level
+      Poziom zaklęć ograniczony przez rangę
+    - Przedmioty ogólnodostępne
+
+| Usługa/przedmiot | Cena | 
+| :--- | :---: |
+| [Potion of Resistance](https://5e.tools/items.html#potion%20of%20resistance_dmg) | 150g |
+| Identyfikacja przedmiotu | 100g |
+| [Elixir Szczęścia](https://5e.tools/items.html#potion%20of%20advantage_wbtw) | 150g |
+| [Magiczny olej](https://5e.tools/items.html#oil%20of%20sharpness_dmg) | 100/250/500g |
+| Tłumaczenie tekstu | 100g |
+| Kopiowanie tesktów lub zwojów | 200g
+
 - Alchemia
     - Symbole
         - ☿ - rtęć

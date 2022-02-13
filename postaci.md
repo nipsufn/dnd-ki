@@ -114,6 +114,14 @@
         ma tatuaż z symbolem Aedirn na ramieniu
     - <a id='p_varn' pattern='Varn*'>Varn</a> - człowiek z Aedirn, dezerter;
         razem z Yariim dołączyli do Skovika i reszty w celach zarobkowych
+- <a id='p_banda_yarpena'>Banda Yarpena Zigrina</a>
+    - <a id='p_yarpen' pattern='Yarpen*,Yarpen* Zigrin*'>Yarpen Zigrin</a> - krasnolud
+    - <a id='p_caleb' pattern='Caleb*'>Caleb</a> - krasnolud
+    - <a id='p_ksawier' pattern='Ksawier*,Ksawier* Moran*'>Ksawier Moran</a> - krasnolud
+    - <a id='p_logan' pattern='Logan*'>Logan</a> - krasnolud
+    - <a id='p_wafe' pattern='Waf[eé]*'>Wafé</a> - krasnolud
+    - <a id='p_burden' pattern='Burden*'>Burden</a> - krasnolud
+    - <a id='p_anryj' pattern='Anryj*'>Anryj</a> - krasnolud
 - Aedirn
     - <a id='p_krol_demawend' pattern='Król* Demawend*,Demawend*'>✝ Król Demawend</a> - ; król, zabity przez Nilfgaardczyków
     - <a id='p_stennis' pattern='Ksi* Stennis*,Stennis*'>Stennis</a> - ; książę
