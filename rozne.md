@@ -34,12 +34,12 @@
 - <a id='r_rycerze_galawaina'>Rycerze [Galawaina](Galawain), ich wiersz i tytuły</a>
     - zostali później zastąpieni przez "zielonych rycerzy"
 
-| Nr. | Osoba | Napis na pomniku | Napis na nagrobku | Szkoła magii pochodząca od broni | 
-| :--- | :--- | :---: | :---: | :--- |
-| I   | Rel'rion Sprawiedliwy     | _Podsycaj swe światło_ | The ugly truth is this my friends,<br />Written cold and plain | transmutation |
-| II  | Alivara Obrończyni        | _Chroń swe światło_    | Cowards justify the ends<br />And run from their own pain      | enchantment   |
-| III | Caemiris Artystka         | _Zachowaj swe światło_ | Heroes leave an epitaph,<br />They who pay the price           | evocation     |
-| IV  | Lernejos Noiosący Światło | _Bądź światłem_        | No graves filled on their behalf                               | necromancy    |
+        | Nr. | Osoba | Napis na pomniku | Napis na nagrobku | Szkoła magii pochodząca od broni | 
+        | :--- | :--- | :---: | :---: | :--- |
+        | I   | Rel'rion Sprawiedliwy     | _Podsycaj swe światło_ | The ugly truth is this my friends,<br />Written cold and plain | transmutation |
+        | II  | Alivara Obrończyni        | _Chroń swe światło_    | Cowards justify the ends<br />And run from their own pain      | enchantment   |
+        | III | Caemiris Artystka         | _Zachowaj swe światło_ | Heroes leave an epitaph,<br />They who pay the price           | evocation     |
+        | IV  | Lernejos Noiosący Światło | _Bądź światłem_        | No graves filled on their behalf                               | necromancy    |
 
 - <a id='r_wran' pattern='Wran*'>Wranowie</a>
     - rasa jaszczuroludzi, niegdyś zamieszkujących Góry Sine,
@@ -58,32 +58,31 @@
 - usługi na Thanedd:
     - Przedmioty specjalne
 
-| Usługa/Przedmiot | Koszt FP |
-| :--- | :---: |
-| [Magiczna Latarnia](https://5e.tools/items.html#everbright%20lantern_erlw) | 3 |
-| Komponenty do zaklęć warte do 100g | 2 |
-| [Latarnia Poznania](https://5e.tools/items.html#lantern%20of%20revealing_dmg) | 3 |
-| Spellstrike Scimitar | 5 | 
-| [Wytrzymała księga](https://5e.tools/items.html#enduring%20spellbook_xge) | 2 |
-| [Samonaprawialna Lina](https://5e.tools/items.html#rope%20of%20mending_xge) | 2 | 
-| Rod of Metamagic | 5 | 
-| Necklace of Familar Mastery | 5 |
-| Ferrystones | 5 | 
-
+        | Usługa/Przedmiot | Koszt FP |
+        | :--- | :---: |
+        | [Magiczna Latarnia](https://5e.tools/items.html#everbright%20lantern_erlw) | 3 |
+        | Komponenty do zaklęć warte do 100g | 2 |
+        | [Latarnia Poznania](https://5e.tools/items.html#lantern%20of%20revealing_dmg) | 3 |
+        | Spellstrike Scimitar | 5 | 
+        | [Wytrzymała księga](https://5e.tools/items.html#enduring%20spellbook_xge) | 2 |
+        | [Samonaprawialna Lina](https://5e.tools/items.html#rope%20of%20mending_xge) | 2 | 
+        | Rod of Metamagic | 5 | 
+        | Necklace of Familar Mastery | 5 |
+        | Ferrystones | 5 | 
 
     - Zakup zaklęć
       Koszt zakupu zaklęć to: 50-(Poziom*10) per Level
       Poziom zaklęć ograniczony przez rangę
     - Przedmioty ogólnodostępne
 
-| Usługa/przedmiot | Cena | 
-| :--- | :---: |
-| [Potion of Resistance](https://5e.tools/items.html#potion%20of%20resistance_dmg) | 150g |
-| Identyfikacja przedmiotu | 100g |
-| [Elixir Szczęścia](https://5e.tools/items.html#potion%20of%20advantage_wbtw) | 150g |
-| [Magiczny olej](https://5e.tools/items.html#oil%20of%20sharpness_dmg) | 100/250/500g |
-| Tłumaczenie tekstu | 100g |
-| Kopiowanie tesktów lub zwojów | 200g
+        | Usługa/przedmiot | Cena | 
+        | :--- | :---: |
+        | [Potion of Resistance](https://5e.tools/items.html#potion%20of%20resistance_dmg) | 150g |
+        | Identyfikacja przedmiotu | 100g |
+        | [Elixir Szczęścia](https://5e.tools/items.html#potion%20of%20advantage_wbtw) | 150g |
+        | [Magiczny olej](https://5e.tools/items.html#oil%20of%20sharpness_dmg) | 100/250/500g |
+        | Tłumaczenie tekstu | 100g |
+        | Kopiowanie tesktów lub zwojów | 200g
 
 - Alchemia
     - Symbole
