@@ -91,12 +91,14 @@
     - podobnie jak my miał okazję próby ucieczki z wozu więziennego - w Trupiej Knieji, bez powodzenia
     - jest przetrzymywany w Est Tayiar
     - W jego ciele hodowany jest dwimeryt
+    - Est Tayiar prawdopodobnie znajduje się w okolicy lub pod kopcem na wschodnim krańcu Trupiej Kniei, Oxenfurcka szkoła zorganizowała trzy ekspedycje w tamte strony ale żadna nie wróciła
 - W pogoni za honorem Skovika
     - opinię Kajetana, że Artis zmanipulował i namówił Skovika do zamachu, nieumyślnie i pośrednio wykreował Roeggner, karmiąc bujną wyobraźnię elfa wyspiarskimi domysłami (sesja 81)
     - po rodach można się spodziewać:
         - Drummond, Dimun - przychylne Skovikowi
         - An Craite, An Hindar, Brokvar - nieprzychylne osiłkowi, popierają Cerys
         - Tuirseach  - przeciw Cerys, niekoniecznie z Drummond i Dimun (Svanrige)
+    - Skovik pomoże nam przy jeszcze jednej przygodzie w Risbergu, po czym wyrusza na wyspy, odbudować ród i stworzyć dom dla siebie i Ilany
 - Mistrz i Ilana
     - Znaleźć i porozmawiać z Myszoworem
     - Dać się wyćwiczyć Artisowi w zamian za własną krew - jeśli znajdzie Fornhalę
