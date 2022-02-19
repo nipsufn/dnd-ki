@@ -61,7 +61,7 @@
         | Usługa/Przedmiot | Koszt FP |
         | :--- | :--- |
         | [Magiczna Latarnia](https://5e.tools/items.html#everbright%20lantern_erlw) | 3 |
-        | Komponenty do zaklęć warte do 100g | 2 |
+        | Komponenty do zaklęć warte do 100GP | 2 |
         | [Latarnia Poznania](https://5e.tools/items.html#lantern%20of%20revealing_dmg) | 3 |
         | Spellstrike Scimitar | 5 | 
         | [Wytrzymała księga](https://5e.tools/items.html#enduring%20spellbook_xge) | 2 |
@@ -76,23 +76,27 @@
          
         | Ranga | Poziom zaklęć |
         | :--- | :--- |
-        | Uczeń | 1 |
-        | Adept | 2 |
-        | **Wolny Czarodziej** | 3 |
-        | Mentor | 5 |
-        | Mistrz | 7 |
-        | Członek Rady | 8 |
+        | <a id='r_ucz' pattern='Ucz*'>Uczeń</a> | 1 |
+        | <a id='r_adp' pattern='Adept*'>Adept</a> | 2 |
+        | <a id='r_wcz' pattern='Woln* Mag*,Woln* Czarodziej*'>**Wolny Czarodziej**</a> | 3 |
+        | <a id='r_men' pattern='Mentor*'>Mentor</a> | 5 |
+        | <a id='r_mis' pattern='Mistrz*'>Mistrz</a> | 7 |
+        | <a id='r_czr' pattern='Człon* Rady'>Członek Rady</a> | 8 |
 
     - Przedmioty ogólnodostępne
 
         | Usługa/przedmiot | Cena | 
         | :--- | :--- |
-        | [Potion of Resistance](https://5e.tools/items.html#potion%20of%20resistance_dmg) | 150g |
-        | Identyfikacja przedmiotu | 100g |
-        | [Potion of Advantage](https://5e.tools/items.html#potion%20of%20advantage_wbtw) | 150g |
-        | [Oil of Sharpness](https://5e.tools/items.html#oil%20of%20sharpness_dmg) | 100/250/500g |
-        | Tłumaczenie tekstu | 100g |
-        | Kopiowanie tekstów lub zwojów | 200g |
+        | [Potion of Resistance](https://5e.tools/items.html#potion%20of%20resistance_dmg) | 150GP |
+        | Identyfikacja przedmiotu | 100GP |
+        | [Potion of Advantage](https://5e.tools/items.html#potion%20of%20advantage_wbtw) | 150GP |
+        | [Oil of Sharpness](https://5e.tools/items.html#oil%20of%20sharpness_dmg) | 100/250/500GP |
+        | Tłumaczenie tekstu | 100GP |
+        | Kopiowanie tekstów lub zwojów | 200GP |
+        | Atrament do transkrypcji, porcja | 50GP |
+        | Kadzidło, porcja | 10GP |
+        | Baza alchemiczna, 12 porcji do kasetki | 100GP |
+        | Kreda do teleportacji, porcja | 50GP |
 
 - Alchemia
     - Symbole

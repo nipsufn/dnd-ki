@@ -55,18 +55,44 @@
     - Pomóc odszukać druha [Yeavinna](Yaevinn) na wschodzie Brokilonu
 
 ---
-- Najemnicy Świątynni
-    - skontaktować najemników z Matką Iolą
 - Ekspedycja do Kaer Seren
     - dawny dom wiedźminów szkoły gryfa
     - duża biblioteka, dom Malaspiny
-    - to samo już kiedyś się wydarzyło, Stregobor i Istredd znaleźli ludzi zamarzniętych w pełnym rynsztunku (sesja 69)
+    - to samo już kiedyś się wydarzyło, Stregobor i Istredd znaleźli ludzi zamarzniętych w pełnym rynsztunku ([Sesja 69](#sesja-069))
     - była tam jakaś ekspedycja, częściowo odkopała twierdzę
     - Stregobor rozpływał się nad "iluzją idealną" którą tam znalazł
     - twierdza używana jako tymczasowa siedziba Kapituły
     - prace archeologiczne były prowadzone przez Stregobora i Istredda, prawdopodobnie uruchomili jakiś mechanizm ochronny, powodując lawinę / wypełnienie twierdzy śniegiem, magowie musieli się ewakuować, co Radcliffe przypłacił zdrowiem
 - Przeszpiegi w Risbergu
-    - sesje: 76; 86 do 89
+    - sesje:
+        - [Sesja 76](#sesja-076)
+            - pierwsze wejście do Risbergu
+            - Skovik obrócony w kamień
+            - pierwsze spotkanie z Stucco Zangenisem
+            - pierwsze spotkanie z strażnikiem A
+            - pierwsze spotkanie z strażnikiem B
+        - [Sesja 77](#sesja-077)
+            - eksploracja Risbergu
+            - pierwsze spotkanie z strażnikiem C
+            - pierwsze spotkanie z strażnikiem 0
+            - strażnik 0 konsumuje strażnika B
+            - statua kobiety, dla Ilany znajoma twarz
+            - wyciągamy skamieniałego Skovika
+        - [Sesja 86](#sesja-086)
+            - rozmowa z Zangenisem
+            - tajemniczy twórca strażnika 0
+            - Zangenis macza palce w nekromancji
+            - eksperymenty z Wranami
+            - Kajetan powinien zrobić swoje zadanie domowe jeśli chce dowiedzieć się więcej
+        - [Sesja 88](#sesja-088)
+            - rozmowa ze Stregoborem
+            - Ortolan i Filavandrel sponsorowali projekt zabójcy magów niewrażliwego na Moc dzięki Wranom
+            - Wykonawcą był tajemniczy uczeń Ortolana, Zangenis pomagał w jakimś stopniu
+        - [Sesja 89](#sesja-089)
+            - rozmowa z Zangenisem
+            - mag kręci nosem że Kajetan po prostu pytał
+            - statua kobiety z Risbergu była Flaminką kręgu Mayeńskiego
+            - Ilana efektem jakiegoś jej eksperymentu
     - historia / kontekst:
         - Risberg to północna twierdza Zielonych Rycerzy
         - Ortolan i Filavandrel byli sponsorami projektu, którego efektem miał być zabójca magów, niewrażliwy na Moc - wykonawcą był tajemniczy uczeń Ortolana
@@ -76,10 +102,13 @@
         - Kapituła zakopała coś związanego na pogórzu Tukajskim
     - potwory:
         - strażnik 0 humanoid o żółto-fioletowej skórze. ciało zdeformowane twarzami wykrzywionymi w przedśmiertnym grymasie
-        - strażnik a łysy miś regenerował się od rzucanych nań zaklęć
+        - strażnik A łysy niedźwiedź regenerował się od rzucanych nań zaklęć
         - strażnik b wężobaba zamieniała ukąszeniem w kamień - zjedzona przez strażnika 0, który potencjalnie przyswoił sobie jej umiejętności, potrafi zniszyć Bąbelek Leomunda
         - strażnik c wilkoskorp wilk ze skorpionim ogonem zakończonym okiem
     - układ/lokacja:
+        - wejście przez szyb kopalniany w skalnym kominie, jego góra zapieczętowana stopionym kamieniem, ściany - kruche, w fatalnym stanie
+        - w kopalnianych chodnikach porzucone obozowisko, dalej mnóstwo pułapek - różnych run i magicznych linek alarmujących
+        - zaraz przed wyłomem do samej cytadeli właściwy obóz z zaszyfrowanym dziennikiem na ścianach, łóżkiem, zwykłą skrzynką z narzędziami, magiczną skrzynką i magicznym źródłem światła, ślady jakiejś przepychanki
         - pomieszczenia są z magiczną ciemnością, rozproszyć może mocne zaklęcie albo artefakt w posiadaniu Ilany. Efekt można znieść za pomocą czarno-białego kandelabra
         - wystawa rozumnych ras północy
         - pokój z dziurawą podłogą ukrytą pod iluzją

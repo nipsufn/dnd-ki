@@ -54,8 +54,8 @@
                     <summary>Szata wysokiego elfiego rodu</summary>
                         While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action
                     </details>
-                - Ⓢ3 czarne jedwabne szaty
-                - ⓈSkórzana zbroja zdobiona śródziemnomorsko (AC11 + DEX, pływanie z pełnym ruchem, odporność na zimno)
+                - [Zimowe ubrania](https://5e.tools/items.html#clothing%2c%20cold%20weather_idrotf)
+                - Eleganckie ubranie
             - Księgi:
                 - Księga magiczna +1 arcana
                 - pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander
@@ -66,27 +66,23 @@
                     - Notatki belfra z Biblioteki Craag An
                     - odpis traktatów alchemicznych z Crag An
             - Komponenty:
-                - Nalewka z mandragory, 2 butelki
-                - 0 porcji inkaustu
-                - 3 porcja kadzidła
-                - 2 porcji pyłu kamieni szlachetnych
-                - 3 porcji kredy
+                - 2 butelki nalewki z mandragory (20 użyć)
+                - 1 butelka bazy alchemicznej (12 użyć)
+                - 4 porcji inkaustu
+                - 5 porcja kadzidła
+                - 6 porcji kredy
             - Fundusze:
                 - 105.1.1 gp
-                - kamienie szlachetne warte 850gp
-                - dług Ilany warty 300GP
+                - kamienie szlachetne warte 565gp
                 - 3 pierścionki warte po 20 - 50GP
-            - Dla Ilany:
-                - muszla ślimaka z Col Serrai (Reflect Magic: the caster takes 1d6*spell level DMG or half on CON DC 15 save)
-                - Fiolka z niebieskim płynem - pomniejszy żywiołak wody, Mage Hand at will when attuned
-                - Sekretnik - fragment mapy do skarbu
+                - 5 punktów frakcji
             - Magiczne różności:
                 - eliksir dodający spellslot od Mirny
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
                 - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
                 - 1 zwój do teleportacji
-                - 2 żeton do teleportacji
+                - 1 żeton do teleportacji
                 - 1 kryształ na zaklęcia ([False Life](https://5e.tools/spells.html#false%20life_phb), 25HP)
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
                 - 1 kryształ na zaklęcia ([Tenser's Transformation](https://5e.tools/spells.html#tenser's%20transformation_xge))
@@ -145,13 +141,29 @@
                 You conjure a dwelling matching the area. You and up to 10 creatures you designate when you cast the spell can enter the dwelling, but it appears to be inexplicably inaccessible to others.
                 You can create any floor plan you like that matches the exterior, but the space can't exceed 10 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
             </details>
+        - <details>
+            <summary>Stregobors' Versatile Double</summary>
+                6th-level illusion (ritual)
+                Casting Time: 1 minute
+                Range: Special
+                Components: V,S,M (an elementally attuned gem worth at least 500gp)
+                Duration: Until dispelled
+
+                Choose a target you are familiar with. You create an illusionary double of yourself, which appears within 15ft of the chosen target. The double is created from the closest elemental source corresponding to the used gem (fire, water, earth, or wind). Your double is a matching resemblance of you, sharing your AC, and with 1 HP.
+
+                You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings. The double is semi-material and can interact with its' surrounding. The double cannot move further than 30ft from the target of the spell.
+
+                If the double is dispelled or destroyed while you are using its senses, you suffer a psychic backslash and take 5d10 psychic damage, and the spell ends.
+
+                If the target is on a different plane of existence, or is protected from divination magic, the spell has no effect.
+            </details>
     - Plany:
         - przekazać odpis traktatów alchemicznych Kapitule
         - wrócić do podziemnego jeziora koło Col Serrai
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych (750gp na kwartalnej aukcji)
         - Zaklęcia do transkrypcji:
-            - do odbioru - [Fly (3)](https://5e.tools/spells.html#fly_phb)
+            - [Fly (3)](https://5e.tools/spells.html#fly_phb)
             - [Life Transference (3)](https://5e.tools/spells.html#life%20transference_xge)
             - [Planar Binding (5)](https://5e.tools/spells.html#planar%20binding_phb)
             - [Create Undead (6)](https://5e.tools/spells.html#create%20undead_phb)
@@ -159,8 +171,9 @@
             - nieczytelne (jeszcze) 8go poziomu
             - [Planar Ally (6)](https://5e.tools/spells.html#planar%20ally_phb)
             - [Plane Shift (7)](https://5e.tools/spells.html#plane%20shift_phb)
-            - [Comprehend Languages (1R)](https://5e.tools/spells.html#comprehend%20languages_phb)
             - [Teleport (7)](https://5e.tools/spells.html#teleport_phb)
+        - Zaklęcia do dokończenia:
+            - Unitrusive note (2) - 50gp, 2 rzuty Arcana
     - Mechanika
         - Nowe zaklęcia czarodzieja:
             - 10XP za level zaklęcia, przy dowolnym długim odpoczynku

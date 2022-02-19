@@ -310,6 +310,8 @@
     - <a id='p_marrid' pattern='Marrid*,Marrid* z Vole'>✝ Marrid z Vole</a> - ; bard
     - <a id='p_vett' pattern='Konrad* [dD]e Vett*,[dD]e Vett*'>Konrad De Vett</a> - ; właściciel Cyklamenu
     - <a id='p_instygator' pattern='Instygator*,Ferrant*,[dD]e Lettenhove,Ferrant* [dD]e Lettenhove'>Freant De Lettenhove</a> - ; instygator królewski
+- Mahakam
+    - - <a id='p_brouver' pattern='Brouver* Hogg,Brouver*'>Brouver Hogg</a> - krasonolud; starosta
 - Nilfgaard
     - <a id='p_emhyr' pattern='Cesarz* Emhyr*,Emhyr*'>✝ Emhyr</a> - ; cesarz Nilfgaardu
     - <a id='p_morvran' pattern='Cesarz* Morvran*,Morvran* Voorhis*,Morvran*,Voorhis*'>Cesarz Morvran Voorhis</a> - ; cesarz Nilfgaardu

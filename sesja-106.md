@@ -32,6 +32,16 @@
         - na pomoc organizacji względem Zangenisa i Risbergu nie mamy co liczyć bez narady, zwołanie takowej z jednej strony może być łatwiejsze niż zwykle - z drugiej - zajmie trochę czasu
         - doktorant od zaklęcia komunikacyjnego przepadł jak kamień w wodę; większość jego badań się zachowała, można je bez większego problemu dokończyć - Kajetan dostał odpis
         - Est Tayiar znajduje się prawdopodobnie we wschodniej części Trupiej Kniei; trzy wyprawy z Oxenfurtu wybrały się w tamte strony, do leżącego w tamtej okolicy Kopca, nigdy nie wróciły
+        - Na bal zostali zaproszeni:
+            - członkowie Kapituły w randze Wolnego Maga lub wyższej
+            - ma się pojawić nowo zrekrutowany Wolny Czarodziej, można powiedzieć nowy kolega Kajetana
+            - Dol Blatahanna będzie reprezentował Filavandrel Aen Fidhail ze Srebrnych Wież
+            - Aedirn reprezentuje Książę Stennis
+            - Temerię - Królowa Adda
+            - Wolne miasto Makaham - Starosta Brouver Hogg
+            - czy ktoś z Redanii zaszczyci Kapitułę swoją obecnością nie wiadomo
+            - Kaedwen jest pogrążone w wojnie domowej, w związku z zamknięciem Ban Ard dziedzictwo tronu nie jest jasne (magowie nie mogą dziedziczyć funkcji politycznych, najstarszy syn Króla Henselta uczył się w szkole magów, jednak nigdy nie miał okazji jej ukończyć)
+        - oddaje odpisy traktatów alchemicznych i zostawia wiadomość Margaricie
     - Ilana znajduje wyspiarzy w jakiejś spelunie, w towarzystwie drużyny Yarpena Zigrina, która znów zaanektowała knajpę na zamkniętą imprezę.
         - krasnoludy ochraniają Brouvera Hogga, Starostę wolnego miasta Makahamu, który wraz z resztą przybył do Gors Velen na przyjęcie na Thanedd jako delegacja z niezależnego królestwa Mahakamu.
         - problem żuków rdzewiaków został w sumie zażegnany
