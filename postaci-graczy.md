@@ -132,7 +132,7 @@
         - Kerack (mobilny/eksperymantalny - Radcliffe)
     - Własne zaklęcia
         - <details>
-            <summary>Kajetan's Reasonable Lodging</summary>
+            <summary>Kajetan's Reasonable Lodging (5)</summary>
                 5th-level conjuration (ritual)
                 Casting Time: 1 minute
                 Range: Touch
@@ -142,19 +142,15 @@
                 You can create any floor plan you like that matches the exterior, but the space can't exceed 10 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
             </details>
         - <details>
-            <summary>Stregobors' Versatile Double</summary>
+            <summary>Stregobor's Versatile Double (6)</summary>
                 6th-level illusion (ritual)
                 Casting Time: 1 minute
                 Range: Special
                 Components: V,S,M (an elementally attuned gem worth at least 500gp)
                 Duration: Until dispelled
-
                 Choose a target you are familiar with. You create an illusionary double of yourself, which appears within 15ft of the chosen target. The double is created from the closest elemental source corresponding to the used gem (fire, water, earth, or wind). Your double is a matching resemblance of you, sharing your AC, and with 1 HP.
-
                 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings. The double is semi-material and can interact with its' surrounding. The double cannot move further than 30ft from the target of the spell.
-
                 If the double is dispelled or destroyed while you are using its senses, you suffer a psychic backslash and take 5d10 psychic damage, and the spell ends.
-
                 If the target is on a different plane of existence, or is protected from divination magic, the spell has no effect.
             </details>
     - Plany:
