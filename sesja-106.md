@@ -28,6 +28,8 @@
     - Kajetana zauważa Keirę, która odłącza się od orszaku by porozmawiać z {elfem}Kajetan:
         - Bal na Thanedd ma nie tylko uczcić sukces w Mariborze, ale zaznaczyć też powrót Kapituły jako wpływowej organizacji - zaproszono władców północy
         - {czarodziejka}Keira swoją reakcją na postawione wprost pytanie potwierdza podejrzenia Kajetana - zapraszając go, podkopuje pozycję Idy, a możliwe, że i Filavandrela
+        - czarodziejka zdradza, że Kaedwen jest w stanie wojny domowej; jeden z synów Henselta był uczniem w Ban Aard, gdy szkołę zamknięto
+        - teoretycznie syn-czarodziej utracił prawa do tronu z momentem wstąpienia do szkoły
     - Na Thanedd {elf}Kajetan dowiaduje się, że:
         - na pomoc organizacji względem Zangenisa i Risbergu nie mamy co liczyć bez narady, zwołanie takowej z jednej strony może być łatwiejsze niż zwykle - z drugiej - zajmie trochę czasu
         - doktorant od zaklęcia komunikacyjnego przepadł jak kamień w wodę; większość jego badań się zachowała, można je bez większego problemu dokończyć - Kajetan dostał odpis
