@@ -44,7 +44,8 @@
             - czy ktoś z Redanii zaszczyci Kapitułę swoją obecnością nie wiadomo
             - Kaedwen jest pogrążone w wojnie domowej, w związku z zamknięciem Ban Ard dziedzictwo tronu nie jest jasne (magowie nie mogą dziedziczyć funkcji politycznych, najstarszy syn Króla Henselta uczył się w szkole magów, jednak nigdy nie miał okazji jej ukończyć)
         - oddaje odpisy traktatów alchemicznych i zostawia wiadomość Margaricie
-    - Ilana znajduje wyspiarzy w jakiejś spelunie, w towarzystwie drużyny Yarpena Zigrina, która znów zaanektowała knajpę na zamkniętą imprezę.
+    - Po drodze Ilana próbuje sprzedać parę swoich gratów, w tym dowiedzieć się przybliżonej wartości rzekomo cennej czarnej perły. Przez nieostrożność ściąga na siebie uwagę szemranych typów łasych na cenny bibelot.
+    - {Druidka}Ilana znajduje wyspiarzy w jakiejś spelunie, w towarzystwie drużyny Yarpena Zigrina, która znów zaanektowała knajpę na zamkniętą imprezę.
         - krasnoludy ochraniają Brouvera Hogga, Starostę wolnego miasta Makahamu, który wraz z resztą przybył do Gors Velen na przyjęcie na Thanedd jako delegacja z niezależnego królestwa Mahakamu.
         - problem żuków rdzewiaków został w sumie zażegnany
         - w mieście odkryto starożytną grotę z odwróconą piramidą z czarnego kamienia, gdy górnicy wyłamali wrota, "zaczęły się problemy", między innymi z żukami - chcą namówić magów do pomocy w zbadaniu znaleziska
@@ -55,3 +56,4 @@
         - wyspiarze, w tym głównie An Craite, chcą na modłę Północy, by władca był z urodzenia, a nie z wyboru; stąd nie po drodze im ze Svalblodem
         - Skovik miał czas uporządkować swoje wartości; chce dokończyć trening jeśli zdoła
         - {wyspiarz}Skovik porzucił chęć zemsty - twierdzi, że zrozumiał nauczkę, jaką dał mu Artis; dostrzegł swój błąd i chce go naprawić
+    - Wieczorem spotykamy się pod Pieprzem i Solą. Knajpa jest pełna, więc podpieramy ściany w oczekiwaniu na {elfa}Kajetan. Zebrawszy się do kupy, udajemy się na nocleg w "czarującej" posesji Kajetana.
