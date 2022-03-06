@@ -93,6 +93,8 @@
             - mag kręci nosem że Kajetan po prostu pytał
             - statua kobiety z Risbergu była Flaminką kręgu Mayeńskiego
             - Ilana efektem jakiegoś jej eksperymentu
+        - [Sesja 108](#sesja-108)
+            - Eksploracja twierdzy
     - historia / kontekst:
         - Risberg to północna twierdza Zielonych Rycerzy
         - Ortolan i Filavandrel byli sponsorami projektu, którego efektem miał być zabójca magów, niewrażliwy na Moc - wykonawcą był tajemniczy uczeń Ortolana
@@ -111,7 +113,9 @@
         - zaraz przed wyłomem do samej cytadeli właściwy obóz z zaszyfrowanym dziennikiem na ścianach, łóżkiem, zwykłą skrzynką z narzędziami, magiczną skrzynką i magicznym źródłem światła, ślady jakiejś przepychanki
         - pomieszczenia są z magiczną ciemnością, rozproszyć może mocne zaklęcie albo artefakt w posiadaniu Ilany. Efekt można znieść za pomocą czarno-białego kandelabra
         - wystawa rozumnych ras północy
-        - pokój z dziurawą podłogą ukrytą pod iluzją
+        - pokój z dziurawą podłogą ukrytą pod iluzją - znamy układ iluzji, kładka do korytarza zrobiona, odgruzowane przejście do biblioteki
+        - biblioteka z zepsutym światłem i skutą księgą
+        - pracownia alchemiczna
         - pokoje, oryginalnie połączone teleportami jak Thanned, obecnie są złączone wykutymi w skale korytarzami
         - pokój z fontanną: kamienne posągi kolekcjonowane przez strażnika b, fioletowa trawa, gablota ze złamanym mieczem. Na fontanie była rzeźba elfki, z twarzy której wzrok sam się zsuwa, próba przyjrzenia kończy się krwotokiem z nosa
         - gdzieś tam znajduje się szkielet Wrana
