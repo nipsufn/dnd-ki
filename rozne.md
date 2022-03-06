@@ -31,7 +31,7 @@
 - <a id='r_aen_drisichean' pattern='Aen Drisichean'>Aen Drisichean</a>
     - lud krzaków, cierni
     - klan elfów który niegdyś zamieszkiwał Craag An
-- <a id='r_rycerze_galawaina' pattern='Rycerz* Galawaina'>Rycerze [Galawaina](Galawain), ich wiersz i tytuły</a>
+- <a id='r_rycerze_galawaina'>Rycerze [Galawaina](Galawain), ich wiersz i tytuły</a>
     - zostali później zastąpieni przez "zielonych rycerzy"
 
         | Nr. | Osoba | Napis na pomniku | Napis na nagrobku | Szkoła magii pochodząca od broni | 
