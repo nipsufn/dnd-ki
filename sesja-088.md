@@ -47,7 +47,7 @@
         - obiecuje skontaktować Kajetana z Dorregaray'em, czarodziejem, z którym kilka razy już się minęliśmy (prawdopodobnie uratował wiwernę Lentinusa w Gors Velen i kupował tam jakiś obraz na aukcji pod biblioteką) - podobno specjalizuje się w truciznach
         - Ortolan i Filavandrel byli sponsorami projektu, którego efektem miał być zabójca magów, niewrażliwy na Moc - wykonawcą był tajemniczy uczeń Ortolana
         - to tłumaczy, dlaczego Kapituła ukrywa temat jak tylko może
-        - krążą nawet plotki, że bitwa pod Sodden była na prawdę spowodowana tym projektem - a raczej faktem, że dowiedzieli się o tym magowie z południa
+        - <a id="sodden-plotka"></a>krążą nawet plotki, że bitwa pod Sodden była na prawdę spowodowana tym projektem - a raczej faktem, że dowiedzieli się o tym magowie z południa
         - Stucco Zangenis brał udział w tym projekcie, Stregobor więc nie powie więcej, a jego stary kolega powie ile sam uzna
     - Kajetan wysyła prośbę o pomoc do Viggo - zostaje z Ilaną zaproszony na kolację. {Druidka}Ilana zamienia się w wierzchowca i w ten sposób docieramy do miasta na czas.
     - Na bramie spotykamy Toma, teraz dziesiętnika, który wypisuje nam papier gdybyśmy mieli problemy na bramie do wewnętrznej części miasta, gdzie mieszka teraz Viggo.

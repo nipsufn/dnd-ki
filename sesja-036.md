@@ -48,7 +48,7 @@
     - Lanemin nie chce nam towarzyszyć - ma kilka własnych spraw do załatwienia, ale obiecuje zjawić się pod Warownią jak tylko się z nimi upora.
 3. Warownia
     - Ilana próbuje swojego pomysłu na otwarcie drzwi Warowni: wypowiada hasła z tabliczek pod posągami w kolejności, w jakiej są rozrysowane na drzwiach tak, aby ostatnią częścią był cytat z Corneliusa. Niestety drzwi nie ustępują. 
-    - Ivar wpada na pomysł w jakiej kolejności powinny ułożyć się cytaty i odgaduje właściwą treść przysięgi. 
+    - <a id="wrota"></a>Ivar wpada na pomysł w jakiej kolejności powinny ułożyć się cytaty i odgaduje właściwą treść przysięgi. 
     - Wnętrze jest gęsto oświetlone magicznymi pochodniami. Widzimy przed sobą długi korytarz, a na jego końcu - rozwidlenie.
     - Ilana i Kajetan badają, czy w korytarzu nie ma żadnych pułapek zastawionych na nieproszonych gości, ale przejście wydaje się być bezpieczne.
     - Docieramy do rozwidlenia, pośrodku którego stoi sporych rozmiarów posąg odlany ze szlachetnych metali. 
