@@ -21,7 +21,7 @@
         - w szparach zapieczętowanego kamieniem łuku Kajetan zauważa Strażnika 0
     - Kieruje nas Ilana, wyczuwając w którym mniej-więcej kierunku znajduje sie Strażnik 0
     - Docieramy do, zdaje się dawno nie odwiedzanej i zrujnowanej, biblioteki:
-        - na posadzce mozaika z symbolami Rycerzy Galawaina
+        - na posadzce mozaika z symbolami [Rycerzy Galawaina](#r_rycerze_galawaina)
         - magiczne oświetlenie dawno nie działa. Umiejętności Kapituły, nawet w czasach świetności, ustępowały umiejętnościom Aen Drisichean - konfratrzy nie byli w stanie go naprawić
         - na piedestale, skuta ośmioma dwimerytowymi łańcuchami leży księga, _Liber Göete_
         - Kajetan na prędce znajduje raport z jakiegoś eksperymentu:
@@ -31,7 +31,7 @@
             - w eksponatorium znajduje się czaszka wrana, z której wyciągnięto informacje o jego i innych gatunkach
         - w papierach przewijają się nazwiska takie jak:
             - Aksel Raby - 1 z 18tu mistrzów Risbergu, zajmował się alchemią mutagenną i krzyżówkami, zginął pod Sodden ([plotki?](#sesja-088#sodden-plotka))
-            - Algernon Guincampf - specjalista w przyzywaniu bytów z innych płaszczyzn, demonolog, rektor magii teoretycznej na Oxenfurcie
+            - Algernon Guincamp - specjalista w przyzywaniu bytów z innych płaszczyzn, demonolog, rektor magii teoretycznej na Oxenfurcie
             - Biruta Icarti - czarodziejka o wysokiej pozycji w {twierdzy}Risberg, zaufana Ortolana, pracowała nad naszyjnikiem który udusiłby noszącego gdy padnie słowo-klucz
     - W labolatorium alchemicznym znajdujemy dwa eliksiry - Dekokt Alraunowy, zapewniający magom długowieczność, oraz jakiś inny
     - Drzwi otwieramy [tak samo jak do Warowni w Crag An](#sesja-036#wrota)
