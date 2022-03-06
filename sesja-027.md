@@ -40,7 +40,7 @@
     - Kajetan i Enid wydają się być wyraźnie niezadowoleni z widoku druida wracającego w towarzystwie niedźwiedzia taszczącego w pysku malca.
     - Niedźwiedziątko próbuje dać nogę kiedy tylko Ilana - już w swojej normalnej postaci - spuszcza je na chwilę z oczu.
     - Z pomocą wyspiarzy druidka tworzy z liny prowizoryczną uprząż, którą oplata niedźwiadka chwilowo otumanionego magią Finarrina.
-    - Opieka nad zwierzęciem zostaje podzielona między Ilanę, a Skovika. Druidka korzysta z każdej nadażającej się sposobności żeby nawiązać kontakt ze zwierzęciem i zbudować więź porozumienia.
+    - Opieka nad zwierzęciem zostaje podzielona między Ilanę, a Skovika. Druidka korzysta z każdej nadarzającej się sposobności żeby nawiązać kontakt ze zwierzęciem i zbudować więź porozumienia.
     - Powoli wkraczamy w jedną ze starszych części lasu. Przesłankami do takiego stwierdzenia są wyraźnie sędziwe, strzeliste i bardzo wysokie drzewa gęsto porastające teren dookoła.
     - Słońce chyli się już ku zachodowi, kiedy znajdujemy pozornie dobre miejsce na nocleg na sporym, o dziwo obrobionym kamieniu. Na szczęście noc mija bez dodatkowych przygód.
 4. Trzeci dzień wędrówki do Craag An

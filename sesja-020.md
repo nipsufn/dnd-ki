@@ -22,7 +22,7 @@
         - Ilana odsyła zaskoczonego Skovika do jednej chaty z Ivarem, a sama odprowadza Finarrina do ich wspólnego domu, nie chcąc stawiać mentora w niezręcznej sytuacji z obcymi nocującymi pod jego dachem
     - Wieczorem, na osobności Finarrin wyjawia, dlaczego zasmucił go widok podopiecznej: pod presją Aen Eldrin, Ilana została wskazana przez niego jako następca przysięgi złożonej Protektorowi. Druid był pewny, że dziewczyna nie wróci już do domu, więc będzie bezpieczna z dala od Brokilonu i Protektora.
 2. Pierwszy dzień po powrocie Finarrina - rano
-    - Nad ranem Ilana pomaga Finarrinowi doprowadzić się do porządku. Opowiada mu po krótce co się działo pod jego nieobecność i prosi, żeby jako naoczny świadek powiedział jej co dokładnie wydarzyło się w noc Belleteyn:
+    - Nad ranem Ilana pomaga Finarrinowi doprowadzić się do porządku. Opowiada mu pokrótce co się działo pod jego nieobecność i prosi, żeby jako naoczny świadek powiedział jej co dokładnie wydarzyło się w noc Belleteyn:
         - starszyzna druidów odprawiała coroczny rytuał przejścia
         - nastąpiło intensywne wyładowanie magii (najprawdopodobniej w tym samym momencie Eithne otwierała portal w Brokilonie)
         - część starszyzny przeskoczyła świadomością do pobliskich zwierząt - ich ciała padły pozbawione świadomości jak kukły
@@ -41,7 +41,7 @@
         - Finarrin widział ją po raz pierwszy kiedy był jeszcze młody, a było to w Mayenie, a potem jeszcze raz, kiedy - nieco starszy - był tam przejazdem
         - kobieta ta jest druidką, ale zdaje się w ogóle nie starzeć (czarodziejka?)
         - możliwe, że jeszcze żyje
-        - w okolicy zamku Risseberg (Cidaris) ktoś próbował eksperymentować z goecją, ale skończyło się to rzeźnią; druidzi raczej nie parają się taką magią
+        - w okolicy zamku Riseberg (Cidaris) ktoś próbował eksperymentować z goecją, ale skończyło się to rzeźnią; druidzi raczej nie parają się taką magią
         - Myszowór jest na Skellige i trzyma się całkiem nieźle; pochodzi z kręgu [Mayeńskiego](Mayena); był przyjacielem Calanthe
         - Finarrin proponuje pomoc w zlokalizowaniu Filippy
         - druid wyjawia, że Skovik "zaprosił go na ryby"

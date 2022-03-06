@@ -46,7 +46,7 @@
     - W ratuszu wita nas grubasek, który wcześniej nam się przyglądał. To _Tymczasowy Burmistrz Nowego Mariboru - Komendant_ Kaspar. Typ o ogolonej na łyso głowie, twarzy oprycha i posturze sugerującej muskulaturę skrytą pod widoczną nadwagą.
     - Zostajemy poinformowani, że [mag z Brugge](Florian) poluje na nas mając nas za złodziejów, którzy obrabowali go w czasie pożaru.
     - Wyjątkowo, podczas tej zupełnie niewymuszonej wizyty, to Kajetan zachowuje zimną krew, podczas gdy Ilana nie szczędzi butnych, dosadnych komentarzy mogących zaognić sytuację jeszcze bardziej.
-    - Jasnym dla nas jest, że Kaspar to dobry znajomek Larsa. Mamy mu pomóc pozbyć się [Magistra Floriana z Vicovarro](Florian) za 1000GP. W przypadku odmowy zostaniemy wydani w ręce maga, a Leiv - pracujący w tej chwili dla Larsa - zginie . Padają też groźby w kierunku reszty drużyny, sądzimy jednak, że sobie poradzą z bandą rzezimieszków.
+    - Jasnym dla nas jest, że Kaspar to dobry znajomek Larsa. Mamy mu pomóc pozbyć się [Magistra Floriana z Vicovaro](Florian) za 1000GP. W przypadku odmowy zostaniemy wydani w ręce maga, a Leiv - pracujący w tej chwili dla Larsa - zginie . Padają też groźby w kierunku reszty drużyny, sądzimy jednak, że sobie poradzą z bandą rzezimieszków.
     - Nie mając zbytnio wyjścia przystajemy na warunki "burmistrza". Dostajemy 100GP zaliczki i wolny wieczór na przygotowanie się do podróży.
 7. Dobra mina do złej gry
     - Krótko rozmawiamy z Finarrinem:

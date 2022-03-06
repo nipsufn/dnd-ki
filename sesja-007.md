@@ -1,7 +1,7 @@
 ### Sesja 7
 ##### [Sesja 6](#sesja-006) [Sesja 8](#sesja-008)
 1. [Świątynia](Świątynia Melitele)
-    - Kasimir prawie od razu wyjeżdża do Ellander. My zaś spędzamy w światyni kilka dni. W tym czasie Daria rozpoczyna nauki.
+    - Kasimir prawie od razu wyjeżdża do Ellander. My zaś spędzamy w świątyni kilka dni. W tym czasie Daria rozpoczyna nauki.
     - Ilana w zasadzie przepada na całe dnie poza świątynią. Podczas jednego z tych wypadów szuka Wiewiórek.
     - Przekazuje im dobre wieści o kapłankach, a także prosi o pomoc w wyrzeźbieniu nowego kostura z gałęzi dębu, który uratowaliśmy.
     - Wiewiórki obiecują pomóc, ale nie za darmo. Ilana w pełni świadoma tego pomaga im napaść na zbrojną karawanę transportującą żywność i sprzęt do Ellander.

@@ -26,7 +26,7 @@
 			- w postaci na malowidle wprawiono klejnoty w miejscach identycznych, jak w przypadku posągów
 		6. Pokój, z którego tu przyszliśmy. Po dokładniejszych oględzinach znajdujemy dwa interesujące obiekty:
 			- gablotę z mroźnym sześcianem, od którego aż bije zimno; kostka emanuje białą aurą magiczną
-			- złamane ostrze (sztylet? krótki miecz?), od któego bije złotawa aura
+			- złamane ostrze (sztylet? krótki miecz?), od którego bije złotawa aura
 		7. Obszerny pokój, a w nim:
 			- trzy martwe postaci w białych szatach, umazanych sadzą i dawno zaschłą krwią
 			- jedna, ze złotą szarfą, wygląda jakby została powalona ciosem w plecy przy próbie ucieczki; tej postaci brakuje przepustki, zupełnie jakby ktoś ją zerwał, przez co zbroja zaatakowała "intruza"

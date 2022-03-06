@@ -15,11 +15,11 @@
         - w dolinie we wschodniej części [lasu](Brokilon) znajduje się jaskinia bogata w rudę meteorytową i kryształy, z których stworzono znane nam szkiełka
         - szkiełka odsłaniają wpływy innych światów oraz miejsca Mocy
         - w północnej części lasu znajduje się kolejna Warownia, którą kontrolował Zakon Rycerzy Galawaina czy raczej jego następcy, "Zakon Zielonych Rycerzy"
-        - Moc można inerpretować dwojako aby nagiąć do swojej woli:
+        - Moc można interpretować dwojako aby nagiąć do swojej woli:
             - podąża w 8 kardynalnych kierunkach, każdy o innych właściwościach; wiążąc, splatając ze sobą cięgi Mocy, tworzy się zaklęcia i modyfikuje
             - to niepowstrzymana rzeka, która jest w stanie podmyć każde fundamenty; od dyscypliny adepta zależy ile może ukierunkować wedle woli zanim da się porwać; z takim podejściem łatwo jest wzmocnić swoje umiejętności
-        - Aen Drisichean podróżowali między światami, nigdy nie zajmując się rolą. Gdy ich populacja rosła, część klanu wyruszała w poszkukiwaniu nowego świata
-        - postaci, któych szkielety spotkaliśmy pod Ellander pochodzą ze świata "Czerwonych Piasków", bardzo niegościnnego. Postaci dzierżące broń z kości i obysdianu rosły dosłownie i obrastały w potęgę z każdym zabitym przez siebie wrogiem
+        - Aen Drisichean podróżowali między światami, nigdy nie zajmując się rolą. Gdy ich populacja rosła, część klanu wyruszała w poszukiwaniu nowego świata
+        - postaci, których szkielety spotkaliśmy pod Ellander pochodzą ze świata "Czerwonych Piasków", bardzo niegościnnego. Postaci dzierżące broń z kości i obsydianu rosły dosłownie i obrastały w potęgę z każdym zabitym przez siebie wrogiem
         - Alzur, potężny mag, eksperymentował z niekonwencjonalnym użyciem Mocy i modyfikowaniem żywych organizmów; stworzył zakon Wiedźminów
         - łapanie Djinni, sztuka, której rzadko podejmują się najpotężniejsi współcześni magowie, było zaledwie zadaniem domowym dla adeptów niegdyś zamieszkujących Craag An
     - Zmęczeni poszukiwaniami szykujemy się do snu. Kajetan przezornie nie zaprasza [nowego towarzysza](Lanemin) do bąbla mając na uwadze bezpieczeństwo drużyny.

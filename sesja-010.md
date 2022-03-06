@@ -17,7 +17,7 @@
         - są podzieleni na dwa obozy, religijny/mistyczny (Myrton, Viggo, młody mężczyzna) i świecki (kapitan, Kupiec Mendrej, starsza pani)
         - chętnie używają petentów i informacji, które ci przynoszą do niekrytej rozgrywki politycznej
         - żądają dowodów; zgadzają się ostatecznie wypłacić 500GP za złapanie szczurołapa żywego lub dostarczenie dowodów jednoznacznie potwierdzających nasze podejrzenia - Igna ma iść z nami; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**
-3. Polowanie na Sczurołapa
+3. Polowanie na Szczurołapa
     - Ruszamy w stronę magazynu, gdzie złapaliśmy poprzednio szczura. Ivar zakuwa się w zbroję w Różyczce.
     - Ilana i Leiv idą osobno aby "otoczyć lokację" - Ilana patrzy oczami jakiegoś losowo złapanego szczura (nie mogła tego zrobić przy Ignie), odnajduje kryjówkę Szczurołapa.
     - Drużyna spotyka się pod magazynem, razem biegniemy do budynku wskazanego przez Ilanę.

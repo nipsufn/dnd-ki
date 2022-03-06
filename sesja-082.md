@@ -32,7 +32,7 @@
 3. Chwila na refleksje
 	- Finarrin z Ilaną mijają w drodze do chaty Enid. {Druidka}Enid przewraca tylko oczami na widok stanu {hierofanty}Finarrin, ale pomaga Ilanie zaprowadzić go do pokoju.
 	- Kiedy {druid}Finarrin odpoczywa, Ilana bierze Enid na spytki. {Mentorka}Enid opowiada, że to nie pierwszy raz kiedy widzi Finarrina wracającego z lasu o resztkach sił, słaniając się na nogach. Podobno {druid}Finarrin chadza tam szukać odpowiedzi na palące go pytanie. Ma to związek z przysięgą, którą złożył.
-	- Wspomina też, że Ivar ostatnimy czasy rzadko bywa gościem w swojej chacie, do której, na modłę wyspiarską, zaczął dobudowywać saunę.
+	- Wspomina też, że Ivar ostatnimi czasy rzadko bywa gościem w swojej chacie, do której, na modłę wyspiarską, zaczął dobudowywać saunę.
 	- Zapytana o jej humor Enid odpowiada, że w danej chwili tylko jedno z nich (tj. opiekunów Ilany) "bawi się nożem". Sugeruje, że ona sama ma ostatnio zbyt dużo obowiązków żeby o tym myśleć, co potęguje w Ilanie troskę o {starego druida}Finarrin.
 	- Kajetan w tym czasie wybiera się z Mirną na spacer. Wędrują aż w okolice chatki Enid, gdzie {elf}Kajetan, dostrzegłszy ciekawą okazję, konstruuje w rzece "wannę" zasilaną wodą z wodospadu.
 	- Dwójka umila sobie czas kąpielą, jednak zdaje się, że nie są tam sami - w górnym basenie coś pluska w wodę, a kłębiące się dookoła motyle wydają się zupełnie nie po motylemu cichutko chichotać.

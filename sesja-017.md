@@ -24,7 +24,7 @@
     - Zostajemy zatrzymani do kontroli i dowiadujemy się, że o pozwolenie na przejście trzeba prosić sierżanta. 
     - Wojacy wskazują nam miejsce na nocleg. W nocy Ilana słyszy, jak żołnierze oddają strzały do ludzi po drugiej stronie, którzy siłą próbują sforsować most. Ich ciała, spadłszy do rzeki, są niemal od razu porywane przez utopce.
     - Rano od sierżanta dowiadujemy się kilku rzeczy:
-        - przejście przez most jest pilnie strzeżone od czasu, gdy na jego drugim końcu poswtała strefa objęta kwarantanną
+        - przejście przez most jest pilnie strzeżone od czasu, gdy na jego drugim końcu powstała strefa objęta kwarantanną
         - ludzie tłumnie przybywający z Verden są zarażeni dziwną chorobą, którą Ilana identyfikuje jako zgnilec (flesh rot) - rozwija się wolno, ale jest śmiertelna
         - zarażeni po kilku dniach wpadają w śpiączkę, a gdy się z niej budzą, atakują wszystko co się rusza, wyglądając przy tym jakby byli żywcem obdarci ze skóry 
         - rzekomym ogniskiem choroby ma być zbiorowa mogiła, którą postawiono w Verden

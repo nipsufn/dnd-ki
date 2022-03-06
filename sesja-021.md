@@ -8,7 +8,7 @@
     - Elfka klnie na stan cmentarza druidów, Finarrin również wydaje się być zaszokowany - okoliczne drzewa zaczynają obrastać kolczastymi pnączami, przypominającymi nieco te, które usunęliśmy ze szklarni Świątyni Melitele.
     - Tytania przebija grób zdrewniałej driady płomiennym mieczem - rozlega się przeszywający krzyk. 
     - Po chwili krzyk ustaje, a elfka zaczyna wyrywać coś z ziemi. 
-    - Okoliczne pnączna zwijają się formując agresywne, humanoidalne postaci, przywodzące na myśl te z Medownej. Wywiązuje się walka.
+    - Okoliczne pnącza zwijają się formując agresywne, humanoidalne postaci, przywodzące na myśl te z Medownej. Wywiązuje się walka.
     - Pozostała część drużyny z Mirną (dotąd zamkniętą w pracowni z Ivarem przy robieniu obiecanych odtrutek) włącznie, słysząc krzyk, szybko kieruje się w stronę cmentarza.
     - Aen Eldrin wyrywa z ziemi drewniane serce i spopiela je. Szybko radzimy sobie z pozostałymi pnączami. 
     - Jedynie Finarrin odniósł zauważalne rany, które oboje z Ilaną łatają "na miejscu".
@@ -33,7 +33,7 @@
     - Pod drzewo przychodzi Skovik. 
     - Rozmawiają chwilę, następnie mężczyzna opowiada Ilanie więcej o swoim rodzie i równowadze sił na Skellige:
         - podczas jednej z uczt poprzedzającej wybór nowego władcy [Wysp](Skellige), dochodzi do krwawej rozprawy - ginie spora część kandydatów do tronu z pozostałych rodów, ale nie dzieci An Craite - Cerys i jej brat Hjalmar
-        - słabość rady starszyzny rodów wzmaga fakt, że po rozbiciu [rodu Drummond](Drummond) pozostało tylko sześciu starszych, nie mogących stwoczyć quorum
+        - słabość rady starszyzny rodów wzmaga fakt, że po rozbiciu [rodu Drummond](Drummond) pozostało tylko sześciu starszych, nie mogących stworzyć quorum
         - mitologicznie, [ród Drummond](Drummond) wywodzi się od Modolfa - siódmego, najmłodszego syna Hemdala (oryginalnego władcy wysp); był to jedyny syn, który musiał zapracować na swoją sławę i miejsce wśród braci, jako że nie odziedziczył po ojcu wyjątkowych talentów
     - Wieczorem, po wejściu do domu Ilana zastaje pakującego się Finarrina. Druid planuje nazajutrz wyruszyć do Medownej, sprawdzić czego dowiedziała się Tytania.
 3. Drugi dzień po powrocie Finarrina

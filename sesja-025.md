@@ -20,7 +20,7 @@
         - królowa driad straciła przytomność jakiś czas po przybyciu czwórki elfów
         - opleciony cierniami starzec z naszej wizji to Galawain, [Protektor Brokilonu](Bizoktor)
         - szkiełka znalezione przez nas w [lesie](Brokilon) pozwalają widzieć rzeczy nie należące do tego świata
-        - Ivara można wskrzesić znaczym nakładem wiedzy i siły Aen Eldrin - będzie miał jednak w sobie ich cząstkę, a i jego przeznaczenie zostanie ustalone
+        - Ivara można wskrzesić znacznym nakładem wiedzy i siły Aen Eldrin - będzie miał jednak w sobie ich cząstkę, a i jego przeznaczenie zostanie ustalone
         - proponuje się nam próbę zamknięcia portalu i pomocy Brokilonowi oraz Aen Eldrin; mamy dwie opcje:
             - udać się do Craag An aby odszukać zaklęcie, które uwięzi, "zwiąże" Formoriana
             - odszukać, spętać i przyprowadzić [Formorina](Formorian) do pozostałych Aen Eldrin

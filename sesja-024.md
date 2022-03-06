@@ -25,7 +25,7 @@
         - elf mówi nam o swoim kompanie, który poprzedniego dnia oddalił się z inną driadą i do tej pory nie wrócił
         - posiada łuk z Gór Sinych, zwany Zefharem (od runy o identycznym kształcie); konstrukcja i zdobienia świadczą, że broń jest równie funkcjonalna jak ozdobna, zwykle używana przez elficką elitę
     - Zarówno driady jak i [Wiewiórka](Yaevinn) są nieobecni i dziwnie się zachowują, jak gdyby ktoś wpływał na ich rozumowanie albo wydawał im nieme polecenia.
-    - Kajetan pyta Yaevinna, czy ten nie ma przypadkiem szklanego koralika. Zdziwiony Scoia'teal obiecuje oddać mu jeden ze swojego naszyjnika - pamiątki z rodzinnych stron - jeśli pomożemy odnaleźć jego kompana. **[Zadanie: Leśne igraszki](#z_q13)**
+    - Kajetan pyta Yaevinna, czy ten nie ma przypadkiem szklanego koralika. Zdziwiony Scoia'tael obiecuje oddać mu jeden ze swojego naszyjnika - pamiątki z rodzinnych stron - jeśli pomożemy odnaleźć jego kompana. **[Zadanie: Leśne igraszki](#z_q13)**
     - Jedna z driad zdradza, gdzie powinniśmy szukać zaginionej dwójki. Za jej wskazówkami udajemy się z Yaevinnem aż do znajomej nam altanki na wzgórzu.
     - W drodze Kajetan i Yaevinn dyskutują o:
         - [Filavandrelu Aen Fidhail ze Srebrnych Wież](Filavandrel), potężnym magu z Gór Sinych; to on zorganizował wyprawę, w której brał udział Kajetan

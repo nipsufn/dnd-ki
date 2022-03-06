@@ -26,7 +26,7 @@
     - Ilana nie wie co robić. Sytuacja przyciąga jedną ze starszych driad - Aglais, opiekunkę uzdrowiska.
     - Driada stwierdza, że jedyny sposób aby coś z tego było to uśpić [siłacza](Skovik) "wodą Brokilonu", którą na prośbę druidki zanosi [elfowi](Kajetan).
     - Kajetan przelewa wodę do butelki i nadaje jej smak gorzałki. Przybiega zawołany przez druidkę i odkorkowuje butelkę. Udaje, że zeń pociąga po czym podaje flaszkę [wyspiarzowi](Skovik). Ten wypija ją duszkiem, po czym osuwa się nieprzytomny z powrotem w pnącza. 
-    - Aglais beznamiętnie stwierdza, że wypił chyba za dużo i będzie nieprzytomny co najmniej tydzień... Wygląda na to, że ten [Drunmond](Skovik) nie będzie nam towarzyszył w negocjacjach.
+    - Aglais beznamiętnie stwierdza, że wypił chyba za dużo i będzie nieprzytomny co najmniej tydzień... Wygląda na to, że ten [Drummond](Skovik) nie będzie nam towarzyszył w negocjacjach.
     - Ilana czuje się źle z tym, co zrobiła. Korzystając z okazji wypytuje Aglais o stan zdrowia Skovika - obecny, jak i zaraz po wypadku:
         - po ustabilizowaniu portalu został zabrany nieprzytomny z wielką dziurą zamiast pleców niemal całkowicie wyżartych kwasem do uzdrowiska
         - fakt, że przeżył zawdzięczać może swojej krzepie - przeciętny człowiek wyzionął by ducha na miejscu

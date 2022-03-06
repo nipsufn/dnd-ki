@@ -7,7 +7,7 @@
     - Gdy tak obserwujemy zajście na moście, Finarrin poświęca chwilę by zorientować się w naszym położeniu. [Druid](Finarrin) dedukuje, że wylądowaliśmy na Łysej Górze, skąd wiedzie krótka droga do Mayeny.
 2. Na tropie nieznajomego
     - W międzyczasie Ilana, mając pewne podejrzenia co do tożsamości zakapturzonego przybysza, zmienia się w śnieżnego wilka i bez zastanowienia rusza przyjrzeć się starciu z bliska.
-    - Pokonując rzekę w swojej zwierzęcej formie [druidka](Ilana) natyka się na pierwsze z ciał - jest to [Łowca Porworów](Łowca) z Ellander. Ciało obłażą już raki, więc nie mitrężąc, Ilana rusza dalej. Drugi trup na moście to także Łowca.
+    - Pokonując rzekę w swojej zwierzęcej formie [druidka](Ilana) natyka się na pierwsze z ciał - jest to [Łowca Potworów](Łowca) z Ellander. Ciało obłażą już raki, więc nie mitrężąc, Ilana rusza dalej. Drugi trup na moście to także Łowca.
     - [Druidka](Ilana) szuka tropu nieznajomego, który zmierzał w stronę traktu. Ślad urywa się na lekkim wzniesieniu między gęstwą drzew. W śniegu leżą połamany, okrwawiony bełt z kuszy oraz rozbity flakon po czymś, co zapachem przypomina jaskółkę Viggo.
     - Ślady kończą się w tym miejscu, zupełnie jakby nieznajomy uleciał w powietrze lub... intencjonalnie zaczął zacierać trop. Jego położenia zdradza jednak ciche rżenie konia, które Ilana wyłapuje swoim psim słuchem.
     - Odgłosy konia dochodzą z jaskini ukrytej w delcie rzeki. Przed jaskinią tli się niemrawo mały ogień. Wejście do jaskini zostało zabezpieczone magicznym "alarmem antywłamaniowym" - Ilana nie decyduje się na wejście, próbuje jednak wywabić przybysza z jaskini aby przyjrzeć się jego twarzy.

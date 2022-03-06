@@ -63,4 +63,4 @@
         - sprawę dalej utrudnia fakt, że po śmierci czarodziejki zwanej Koral władyka uważa się za porzuconego przez magów - nikt jej nie zastąpił, pomimo że w Kerack magia nie jest prześladowana
         - w czasie rozmowy wymienia kilka zdań z kimś poza rozmową, wspominając kogoś imieniem Stregobor
     - W tym samym czasie Ilana nie próżnuje: wysyła dwa ptaki z wiadomością do wioski: po jednym do Skovika i Finarrina. Gardiego finalnie nie zaszczyca wiadomością, skoro sam stwierdził, że nie ma ochoty z nią rozmawiać.
-    - U wejścia do kanałów zamontowano nowe drzwi. Tym razem solidniejsze, więc nie ma mowy o wyciąganiu ich z zawiasów. Z pomocą Esme [druidka](Ilana) kradnie jeden z kluczy do kanałów aby ułatwić sobie przetwieranie się .
+    - U wejścia do kanałów zamontowano nowe drzwi. Tym razem solidniejsze, więc nie ma mowy o wyciąganiu ich z zawiasów. Z pomocą Esme [druidka](Ilana) kradnie jeden z kluczy do kanałów aby ułatwić sobie przetwieranie się.

@@ -21,7 +21,7 @@
     - Kajetan prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini, co nie udaje się całkowicie.
 2. Rynek
     - Wychodząc od Vigga, zauważamy poruszenie wśród miejskiej gawiedzi. Są podekscytowani i tłoczą się w stronę rynku.
-    - Zagadniony przechodzień mówi, że na rynku będzie publiczna egzekucja, więc podążamy w tamtą stronę, trzymając się jednak lekko z tyłu.
+    - Zagadnięty przechodzień mówi, że na rynku będzie publiczna egzekucja, więc podążamy w tamtą stronę, trzymając się jednak lekko z tyłu.
     - Jesteśmy świadkami egzekucji wiedźmy. Udaje nam się podejść na tyle blisko aby zobaczyć całe zajście, ale na tyle ukradkiem, że nikt nam się nie przygląda.
     - Ofiara przerywa modły kapłana. Wygłasza fragment przepowiedni o _Białym Zimnie_ ale w wersji głoszonej przez kult Lwiogłowego Pająka, a jej oczy przedzielone pionowymi, gadzimi źrenicami jarzą się żółto.
     - Krzyk wydany przez kobietę ogłusza obecnych na rynku. Ludzie zaczynają uciekać w panice krwawiąc z uszu i nosa, tratując się nawzajem.

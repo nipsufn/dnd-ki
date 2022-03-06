@@ -13,7 +13,7 @@
         - nie bez trudu udaje jej się namówić opiekunkę potwora aby wpuściła ją do klatki zająć się ranami zwierzęcia
         - leczy i uspokaja nieco stworzenie, pobliscy strażnicy zdają się zauważać jej druidyczne/magiczne umiejętności, jednak nie reagują
         - w drodze powrotnej "pijacy", których zauważyła poprzednia grupa atakują Ilanę i Skovika z jakiegoś ciemnego zaułka 
-        - dodają przy tym, że przesyłają pozdrownienia od niejakiego Larsa
+        - dodają przy tym, że przesyłają pozdrowienia od niejakiego Larsa
         - Ilana odnosi nieznaczną ranę, odwdzięczając się jednemu z napastników dużo poważniejszą, co skutkuje odwołaniem ataku przez bandytów
     - Rankiem wybieramy się do maga poznać wyznaczony czas wizyty. Zostajemy zaproszeni o zachodzie słońca.
     -  Mając dzień dla siebie decydujemy się obejrzeć cyrk, który najwyraźniej zostaje w mieście na dłużej:
@@ -27,7 +27,7 @@
         - uważnie notuje nasze sprawozdanie
         - wypłaca 100GP za czaszkę Barghesta
         - proponuje zapłacić po 100GP za okazy/próbki flory i fauny z obrzeży Brokilonu
-    - Po wizycie u maga wracamy do Ostoji na nocleg. W swoim pokoju Ilana zauważa kawałek pergaminu leżący na łóżku. W liście tym napisano "Kobieto. Wiesz, że czarowanie bez zezwolenia to przestępstwo?". Podpisał go nikt inny, a sam Lars. 
+    - Po wizycie u maga wracamy do Ostoi na nocleg. W swoim pokoju Ilana zauważa kawałek pergaminu leżący na łóżku. W liście tym napisano "Kobieto. Wiesz, że czarowanie bez zezwolenia to przestępstwo?". Podpisał go nikt inny, a sam Lars. 
     - Druidka zastanawia się, czy odpowiedzieć na list, a jeśli tak, to co napisać.
     - Ilana wypytuje karczmarkę o ten liścik. Ta opowiada jej jak rzekomo wróciła do karczmy i poszła na chwilę po coś do pokoju w czasie, gdy cała grupa była w cyrku.
     - Kolejnego ranka wyruszamy do Medownej. 

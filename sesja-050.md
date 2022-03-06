@@ -13,7 +13,7 @@
     - Siadamy przy stole i czekamy na jedzenie. Rozmawiając, druidka obserwuje dziwnego mężczyznę. Ten przedstawia się karczmarce jako pan Lusterko, obwoźny handlarz i proponuje jej zakup szyby ze swojego asortymentu.
     - Ilana, zaciekawiona tym dziwnym człowiekiem, wychodzi za nim chcąc zapytać o jego dziwną karcianą grę. Niestety mężczyzna zdaje się, uleciał albo rozpłynął się w powietrzu, bo nie ma po nim śladu na ulicy. 
     - [Druidka](Ilana) nalega aby skontaktować się z [tym leserem, Larsem](Lars) - zapraszamy go do Medownej, pytając o naszą zapłatę oraz zachęcając planem dalszego działania. Prosimy też aby wziął ze sobą racje żywności, których druidce udało się zakupić w gospodzie tylko kilka.
-    - Ilana chce nakłonić magów (Larsa i [Vicovarro](Florian)) do współpracy, jako że obaj chcą, co prawda z różnych pobudek, pozbyć się zarazy z Verden. 
+    - Ilana chce nakłonić magów (Larsa i [Vicovaro](Florian)) do współpracy, jako że obaj chcą, co prawda z różnych pobudek, pozbyć się zarazy z Verden. 
     - [Elf](Kajetan), znający typowe zachowania czarodziejów, szczerze wątpi aby taki plan miał szanse powodzenia, jednak nie mając nic do stracenia, zgadza się.
     - Od Larsa dowiadujemy się w zamian, że granice są niebezpieczne, szczególnie powinniśmy unikać okolicy Mayeny (granica z Temerią, obecnie Redanią).
     - Pomimo usilnych starań Ilany nie udaje nam się odkupić od nikogo choćby jednego konia, który znacząco przyspieszyłby naszą podróż.
@@ -37,7 +37,7 @@
     - Dosiadamy się i wymieniamy się opowieściami. Z relacji [młodego Drummonda](Ivar) wynika, że reszta naszych towarzyszy odpoczywa w Col Serrai.
     - W oczekiwaniu na Larsa, Ilana wyjawia Kajetanowi swój wariacki plan: chce namówić obu magów - Floriana i Larsa do kooperacji w celu pozbycia się zarazy w Verden. Elf nie jest zachwycony i obok powątpiewania nie omieszkuje wyrazić swojej fachowej opinii na temat magów, czym nadwyręża mocno cierpliwość i nerwy druidki.
     - Ilana z Juniper idą na obchód po okolicy. Driada chwali się, że ludzie bardzo pomogli driadom w szczególny sposób i przykłada rękę druidki do swojego brzucha.
-    - Druidka prosi Kajetana o zwój komunikacyjny. Rozpoczyna negocjacje z [nifgaardczykiem](Florian) oferując swoją asystę.
+    - Druidka prosi Kajetana o zwój komunikacyjny. Rozpoczyna negocjacje z [nilfgaardczykiem](Florian) oferując swoją asystę.
     - Zgodnie z umową o północy przybywa Lars  na niecodziennym, eterycznym rumaku. Przywiózł trochę zapasów, dwie soczewki z megaskopu [magistra Floriana](Florian), oraz wino. Na jednej z butelek widnieje wzór kręgu teleportacyjnego do Ban Ard.
     - Ilanie udaje się namówić obu czarodziejów do podjęcia negocjacji. Termin zostaje wyznaczony na za tydzień, w [wiosce druidów](Wioska). Pada także oferta, o której starszy druid jeszcze nie wie - druidka oferujego pomoc swoją i swojego ojca jako mediatorów i niejako znawców zarazy.
     - W czasie rozmowy Lars wysuwa teorię jakoby Vicovaro, mistrz dywinacji, mógł słyszeć i być może nawet widzieć nas przez zwój. Sam mag jednym słowem potwierdza te podejrzenia.

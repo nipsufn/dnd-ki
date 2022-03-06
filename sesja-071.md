@@ -18,14 +18,14 @@
         - za sprawą jego raportu władze pociągnęły magów do odpowiedzialności i zamknęły placówkę badawczą Risberg
         - jeśli chcemy dowiedzieć się czegoś więcej, mamy złożyć mu wizytę w Gors Velen, gdzie podobno po wojnie przebywa na emeryturze
         - poproszona, zostawia nam magiczną zabawkę - sześcian, który po aktywowaniu uniemożliwia magiczne podglądanie
-    - W czasie rozmowy o zamachu Skovik milknie, jedynie czerwieniejąc coraz bardziej ze złości. Miarka przebiera się kiedy Keira wspomina o podejżeniu udziału Nilfgaardu. {Wyspiarz}Skovik zrywa się wściekły i odchodzi.
+    - W czasie rozmowy o zamachu Skovik milknie, jedynie czerwieniejąc coraz bardziej ze złości. Miarka przebiera się kiedy Keira wspomina o podejrzeniu udziału Nilfgaardu. {Wyspiarz}Skovik zrywa się wściekły i odchodzi.
     - Po wyjściu Keiry Ilana próbuje uspokoić Skovika. Tłumaczy mu, że sprawa nie jest jeszcze przesądzona i pyta, czy chce w to brnąć, czy raczej porzucić wątek i więcej do niego nie wracać.
     - {Drummond}Skovik odpowiada, że nadal chce popłynąć na wyspy aby sprawdzić, co z jego rodziną. Chętnie przystaje na pomysł wycieczki do Kerack, aby tam spotkać się z Leivem i być może porozmawiać z Roegnerem Czarnym, którego uważa za swojego sprzymierzeńca w walce przeciwko Cerys.
 2. Plany i przygotowania 
     - Burzliwie omawiamy dalsze plany. Kajetan, czym zresztą mocno zaskakuje {druidkę}Ilana, zgadza się płynąć na wyspy jeżeli ona i Skovik wybiorą się z nim do Craag An poszperać w bibliotece.
     - Zgadzamy się co do jednego - warto by odwiedzić Kerack, ale {elf}Kajetan nalega na użycie eksperymentalnego kręgu Radcliffa, przez który na samą tylko myśl o nieprzyjemnym doświadczeniu, Ilana i Skovik wzdrygają się z niechęcią. Para wolałaby podróż konno lub pieszo.
     - Następnie Ilana i Skovik wychodzą zakupić rzeczy na podróż do {elfiej nekropolii}Craag An, zostawiając niedźwiadka pod opieką {druida}Finarrin.
-    - Finarrin serdecznie odradza wizytę w Craag An - ale jeśli i tak zamierzamy, lepiej wcześiej niż później, bo nekropolia, "wyrwana z zimowego snu, teraz zaledwie drzemie".
+    - Finarrin serdecznie odradza wizytę w Craag An - ale jeśli i tak zamierzamy, lepiej wcześniej niż później, bo nekropolia, "wyrwana z zimowego snu, teraz zaledwie drzemie".
     - Aurę przerwanego letargu poczuli nie tylko Eithne z Ivarem w {lesie}Brokilon, ale nawet {druid}Finarrin, a przebywał wtedy daleko, w Nastrogu.
     - Kajetan kontaktuje się z Mozaik. Mobilny krąg teleportacyjny Radcliffa jest rzeczywiście niestabilny. {Adeptka}Mozaik wspomina, że chowańcy nim przesyłani widowiskowo eksplodują. Niezbyt dobrze ukrywa, że jej zdaniem jakiekolwiek eksperymenty to nie najlepszy pomysł, w związku z czym Kajetan decyduje się nie ładować w niepotrzebne problemy.
     - Rozczarowany {mag}Kajetan oznajmia towarzyszom, że z teleportacji do Kerack nici, bo nie ma zamiaru ryzykować. Pozostaje nam więc podróż na nogach - końskich albo własnych.

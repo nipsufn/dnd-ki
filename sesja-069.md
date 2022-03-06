@@ -6,7 +6,7 @@
     - Brass i Kajetan zaczynają prace remontowe w klatce schodowej, by nie marnować czasu do spotkania.
     - W międzyczasie udaje nam się dorobić zapasowy klucz do kanałów tak by każde z nas miało po jednym.
     - Kiedy prace trwają, Ilana wychodzi załatwić sprawunki, o które prosił ją Finarrin. Od Brasa dowiaduje się, że na księgi podatków Verdeńskich w Redanii nie ma co liczyć - należy ich szukać na miejscu. 
-    - {Dziewczyna}Ilana zaopatrza się więc na mieście w nieco przepłacony zestaw "małego księgowego" i trzy litrowe bukłaki krasnoludzkiego dwójniaka. Z podatkami na trzeźwo nie można.
+    - {Dziewczyna}Ilana zaopatruje się więc na mieście w nieco przepłacony zestaw "małego księgowego" i trzy litrowe bukłaki krasnoludzkiego dwójniaka. Z podatkami na trzeźwo nie można.
 2. Zebranie Nowej Kapituły
     - Spotkanie rozpoczyna się zalegnięciem mgły w pomieszczeniu, która szybko formuje się w okrągłą przestrzeń, większą niż piwnica, w której jesteśmy. W około stoją postaci, których część poznajemy, a pozycja w kręgu zdaje się odpowiada położeniu geograficznemu uczestników. Jest ich więcej niż ostatnio - to nie spotkanie samej Rady, a elity całej organizacji, na którą najwyraźniej składa się w sumie jakiś tuzin magów.
     - Moderatorem spotkania jest Carduin z Lan Exeter, jako że tymczasowa (?) głowa rady, Triss Merigold, nie mogła wziąć udziału w spotkaniu.
@@ -32,7 +32,7 @@
         - wiedźmini szkoły Gryfa (stworzonej przez Malaspinę, nauczyciela Alzura) znani byli z najbardziej umiejętnego wykorzystania Mocy, oraz wielkiego zbioru ksiąg
         - Kapituła planuje zrobić z {twierdzy gryfów}Kaer Seren swoją nową siedzibę
     - Następnym mówcą jest Stucco Zangenis:
-        - opowiada o swoich odkryciach związanych z, zdaje się, losowymi mutacjami u zwierząt przebywających w okolicach punktów mocy od czasu "Zapaści" (jakiś kwartał przed Dwuksiężycową Nocą), która wzięła początek na wyspach Skellige
+        - opowiada o swoich odkryciach związanych z, zdaje się, losowymi mutacjami u zwierząt przebywających w okolicach punktów mocy od czasu "Zapaści" (jakiś kwartał przed Dwójksiężycową Nocą), która wzięła początek na wyspach Skellige
         - zwyrodniałe bestie nie są agresywne i szybko umierają; jak to hybrydy nie mogą się naturalnie rozmnażać - są sterylne
         - jeśli to czyjeś umyślne działanie, {mag}Zangenis "nie widział takiej fuszerki od {Risbergu}Góra Cremora"
     - Dorregaray i kwestia Skellige:

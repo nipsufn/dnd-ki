@@ -8,7 +8,7 @@
     - Nieludź ani na chwilę nie zdejmuje odsłania twarzy. Załatwiwszy sprawę z magiem udaje się w sobie jedynie znanym kierunku. Karzeł ma na plecach bardzo ciężką kuszę o bełtach grubych na dwa palce. Bełty te wyglądają znajomo - zdaje się, widzieliśmy je już raz podczas ucieczki z pożaru w Brugge, wystrzelone wprost pod nasze stopy.
     - Znajdujemy kapciuch krasnoluda, który ten zdaje się upuścił. Na skórzanym woreczku widnieje dziwny symbol: dwie skrzyżowane bronie - duży kuchenny tasak i coś w rodzaju końcówki gizarmy, nadziaka czy bosaka o zakrzywionym ostrzu. Kajetan kojarzy drugie narzędzie z żeglarzami.
     - Na odchodnym [mag](Florian) pyta czy na pewno nie chcemy wziąć udziału w polowaniu - którekolwiek ma na myśli - ale stanowczo odmawiamy. Rozstajemy się w pokojowej atmosferze, a Florian obiecuje dowiedzieć się jakiej substancji użyto do pozbawienia nas przytomności.
-    - Udajemy się na nocleg do Ostoji. Dla pewności Kajetan wyczarowuje w pokoju kopułę aby nikt nie zakłócił nam odpoczynku.
+    - Udajemy się na nocleg do Ostoi. Dla pewności Kajetan wyczarowuje w pokoju kopułę aby nikt nie zakłócił nam odpoczynku.
 2. Z wizytą w bibliotece
     - Przy śniadaniu [drudika](Ilana) stwierdza, że, gwoli jak najlepszego wykorzystania wizyty w mieście, powinniśmy poszukać informacji na temat słów zdradzonych jej przez Eithne
     - Odwiedzamy bibliotekę w drodze po odbiór zamówienia Kajetana. [Elf](Kajetan) wpada na pomysł, by kupić dla bibliotekarki coś słodkiego. A nuż kobieta spojrzy na nas łaskawszym okiem i będzie bardziej skłonna pomóc w odnajdywaniu informacji, na których nam zależy.

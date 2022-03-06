@@ -25,7 +25,7 @@
     - W sklepie wita nas tęgawy mężczyzna o szpakowatych, zaczesanych do tyłu włosach. Jest w fartuchu roboczym, ale pod nim ma ubranie wskazujące na dobre sytuowanie właściciela.
     - Człowiek ten jest właścicielem zakładu, nazywa się Viggo Regner. 
     - W kantorku, w rogu sklepu przesiaduje drugi jegomość, który wygląda na nas tylko zza okienka. Zwie się Janus i pełni rolę ochroniarza.
-    - Właściciel [Fiolki](Fiolka Zdrowia) skłonny jest odkupić od nas głowę potwora, którą wzieliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](Otto) jej nie zażądają.
+    - Właściciel [Fiolki](Fiolka Zdrowia) skłonny jest odkupić od nas głowę potwora, którą wzięliśmy jako trofeum za 120GP - wrócimy jeśli [Kranmerowie](Otto) jej nie zażądają.
     - Tymczasem Ilanie udaje się wynegocjować dobrą cenę za oba ogony i krew bestii. Zamiast pieniędzy decydujemy się na handel wymienny i tak otrzymujemy 3 *"jaskółki"* - eksperymentalne eliksiry, które Viggo stworzył zainspirowany wiedźmińskimi eliksirami.
     - Kajetan przybija targ wymieniając uścisk dłoni z alchemikiem i prawie odskakuje jak rażony prądem. Okazuje się, że Viggo nosi na palcu obrączkę wykonaną z dwimerytu.
 5. Różyczka
@@ -35,7 +35,7 @@
     - Decydujemy się zgodnie z planem sprzedać głowę alchemikowi. 
     - [Vigo](Viggo) mówi, że gdyby udało się nam przynieść nieuszkodzoną skórę bestii, byłby w stanie przerobić ją na płaszcz o podobnych właściwościach, co zdolność "migania" bestii.
     - Sklep jest obserwowany przez Łowców Czarownic, częste wizyty składa tam niejaki [Lord Slyz Myrton](Myrton) - głowa tutejszej filii zakonu Wiecznego Ognia.
-    - Otrzymujemy porpozycję kontraktu, ale jego szczegółów alchemik nie chce omawiać w swoim zakładzie. Proponuje nam wieczorne spotkanie w przybytku o nazwie "Zielony Kufelek".
+    - Otrzymujemy propozycję kontraktu, ale jego szczegółów alchemik nie chce omawiać w swoim zakładzie. Proponuje nam wieczorne spotkanie w przybytku o nazwie "Zielony Kufelek".
     - Na pożegnanie Kajetan wyciąga do alchemika - zapobiegliwie i celowo - lewą rękę żeby nie narazić się na ponowny kontakt z obrączką, co spotyka się ze zrozumieniem alchemika.
 7. Wizyta u krawcowej Elizy
     - z [Fiolki](Fiolka Zdrowia) idziemy prosto do zakładu krawcowej z ogłoszenia, które zerwała Ilana.

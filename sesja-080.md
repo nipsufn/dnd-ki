@@ -23,7 +23,7 @@
     - Para błądzi po targu w poszukiwaniu Remiego. Skovik rozgląda się po straganach jakby czegoś szukał. Zapytany przez Ilanę zakłopotany wyznaje, że chciałby nauczyć się czytać we wspólnym, więc rozgląda się za książkami. 
     - {Druidka}Ilana zagaja jednego z kramikarzy handlującego rzeźbionymi muszlami. Mężczyzna opowiada trochę o swoich dziełach, ale nie ma pojęcia gdzie szukać książek. Oferuje im za to swój śpiewnik szant w gratisie do dowolnej muszli. Skovik odchodzi zadowolony z muszlą opowiadającą historię krakena i wymemłanym żeglarskim śpiewnikiem pod pachą.
     - Odnalazłszy Remiego i przekazawszy mu pakunek, para udaje się na obiad do tak wychwalanej oberży. Ilana nie skąpi ani na obiad, ani na późniejsze zakwaterowanie w Srebrnej Czapli.
-    - Spróbowawszy smacznych, acz niehybnie przepłaconych specjałów morskich, {druidka}Ilana stwierdza, że też należy jej się trochę komfortu - rezerwuje dla siebie i {wyspiarza}Skovik ostatni pokój w przybytku. Następnie dwójka idzie odnaleźć Leiva.
+    - Spróbowawszy smacznych, acz niechybnie przepłaconych specjałów morskich, {druidka}Ilana stwierdza, że też należy jej się trochę komfortu - rezerwuje dla siebie i {wyspiarza}Skovik ostatni pokój w przybytku. Następnie dwójka idzie odnaleźć Leiva.
 4. Genialny plan
     - Znajdujemy Leiva w portowej części podgrodzia w spelunie o adekwatnej nazwie "Dziura". Towarzyszy mu pięciu chłopa, między innymi słynny Roeggner Czarny, oraz rosła kobieta upchana w połączenie gorsetu i kolczugi, o łapie rozmiarów uda Ilany, którą Leiv przedstawia jako Reah Bon-Duh.
     - Ilana jest skonsternowana zachowaniem {wielkiej baby z wysp}Reah, która zamyka Skovika w nazbyt czułym, niedźwiedzim uścisku. Reah obwieszcza jej, że jest Skovika przyrzeczoną.
@@ -43,7 +43,7 @@
     - Znajdując zagajnik kilka godzin drogi od miasta, teleportuje siebie i konia używając artefaktów, które niedawno otrzymał. W efekcie ląduje z nieprzytomnym koniem dokładnie w fontannie. Cuci konia i wyciąga z wody, a skonfrontowany przez zainteresowanych strażników przeprasza i czyści wiernie oddane narodowe dobro kultury.
     - Przy okazji dowiaduje się, że w Kerack magia rzeczywiście nie jest kontrolowana.
     - Niedaleko od fontanny na ławce siedzi Mirna, w towarzystwie kogoś, kto wygląda jak oprych bardzo starający się nie wyglądać na oprycha - to Bron.
-    - Bron wygląda na nieco zaszokowanego albo przestraszonego spektakularnym przybyciem Kajetana. Żywi nadzieję, że Mirnie nic się nie stanie jeśli pozostawi swą współpracowniczę w rękach {elfa}Kajetan i zmyka tak szybko jak tylko może.
+    - Bron wygląda na nieco zaszokowanego albo przestraszonego spektakularnym przybyciem Kajetana. Żywi nadzieję, że Mirnie nic się nie stanie jeśli pozostawi swą współpracownicę w rękach {elfa}Kajetan i zmyka tak szybko jak tylko może.
     - Wyruszamy z {druidką}Mirna do gorszych dzielnic miasta, by znaleźć wyspiarza mianem Nikolai - specjalistę od rzeźbienia misternych rzeczy. Kerack jest albowiem podzielone rzeką na dwie części - tą piracką i tą gorszą.
     - Kajetan wyłuszcza swoje zlecenie. Aby zaskarbić sobie sympatię wyspiarzy obecnych w zakładzie, robi to w ich ojczystym języku, stawiając przy tym flaszkę krasnoludzkiego bimbru na stół.
     - Okazuje się, że piraci pochodzą z klanu Tordarroch, słynącego ze znamienitych płatnerzy.

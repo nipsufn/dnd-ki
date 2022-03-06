@@ -35,7 +35,7 @@
     - W korytarzu zauważamy, że golem został zaprogramowany tak aby nie mógł przejść dalej do szpitala. Trochę uspokojeni obmyślamy jak wydostać się ze szpitala.
     - Ilana wpada na pomysł żeby poszukać dyżurki lub innego pokoju lekarskiego, gdzie można znaleźć jakieś szpitalne ubrania. Udaje nam się niezauważenie zwinąć dwa komplety ubrań: jeden lekarski i jeden mundur straży, która pilnuje w szpitalu porządku. Lars i Kajetan przebierają się, a druidka, zmieniona w maleńką mysz, chowa się w kieszeni elfa.
     - Niemal przed samymi drzwiami zostajemy zaczepieni przez pielęgniarkę. Kobieta widząc elfa w lekarskim fartuchu nalega aby ten udał się z nią czym prędzej pomóc pilnemu przypadkowi. Kajetan jednak wysoce udolnie wykręca się 16-godzinną zmianą, którą właśnie kończy i odsyła kobietę do losowego pokoju w szpitalu.
-    - W końcu udaje nam się bez wzbudzania dalszych podejżeń opuścić szpital. Na ulicy pozbywamy się przebrania i wracamy do jednej z nor Larsa.
+    - W końcu udaje nam się bez wzbudzania dalszych podejrzeń opuścić szpital. Na ulicy pozbywamy się przebrania i wracamy do jednej z nor Larsa.
 4. Bilans strat
     - Siadamy z Larsem rzucić okiem na to, co znaleźliśmy i rozmówić się na temat dalszego planu działania. Vicovaro raczej nie puści nam płazem zamachu na jego życie, więc zastanawiamy się co dalej zrobić.
     - Lars informuje nas, że w obecnej sytuacji nie będzie w stanie ściągnąć listów gończych, które wystawił za nasze głowy Nilfgaard. Nadal jednak będzie w stanie załatwić nam rozmowę z Filippą, choć to bardziej od czarodziejki samej zależy czy się z nami skontaktuje, czy też nie.

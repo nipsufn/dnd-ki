@@ -23,7 +23,7 @@
     - <a id='l_m_brugge' pattern='Brugge'>Brugge</a>
         - <a id='l_glowa_dzika' pattern='Głow* Dzika,Ł* Dzika'>Karczma Pod Głową Dzika</a>
         - <a id='l_zielona_swieczka' pattern='Zielon* Świeczk*'>Karczma Pod Zieloną Świeczką</a>
-        - <a id='l_ostoja' pattern='Ostoj*'>Karczma Ostoja</a>
+        - <a id='l_ostoja' pattern='Osto*'>Karczma Ostoja</a>
         - <a id='l_biblioteka' pattern='Bibliote*'>Biblioteka</a>
         - <a id='l_rezydencja_czarodzieja' pattern='Rezydencj* Czarodzieja'>Rezydencja Czarodzieja</a>
         - <a id='l_u_haliny' pattern='U Haliny'>U Haliny</a>

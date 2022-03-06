@@ -13,10 +13,10 @@
     - [Elf](Kajetan), znudzony zabawą z muszlami, rozgląda się zaciekawiony. U stóp drugiej wieży widać zamknięte drzwi. Ilana zauważa jednak, że w wodzie coś pływa... Decydujemy się zostawić to miejsce samo sobie, może kiedyś wrócimy lepiej przygotowani.
     - Do Kajetana dociera wiadomość od Floriana - obława na potwora wkrótce się zacznie, magowie poszukują jakiegoś alchemika i dobrze wyposażonego warsztatu. Kajetan przez chwilę pomyślał o Viggo, ale szybko przypomniał sobie z kim rozmawia - znajomego [alchemika](Viggo) nie warto zapoznawać z tak podstępnymi i egoistycznymi ludźmi. Listy gończe z podobiznami Ilany i Kajetana podobno są już ściągane.
     - Ilana, robiąc porządki w torbach przypomina sobie o dzienniku polowym Myszowora, który "pożyczyła" z biblioteki:
-        - na północy Brokilonu znajduje się pasmo górskie zwieńczone samotnym szczytem Riessberg
+        - na północy Brokilonu znajduje się pasmo górskie zwieńczone samotnym szczytem Risberg
         - szczyt stanowi krwawy znacznik w historii ościennych państw - Cidaris i Kerack
         - ludzie z południa zdają się nie mówić zbyt dużo o tym miejscu, ale kiedy już to robią, używają nazwy Góra Cremora
-        - nazwa Riessberg jest używana tylko i wyłącznie przez ludzi z północy (z Kerack i Cidaris)
+        - nazwa Risberg jest używana tylko i wyłącznie przez ludzi z północy (z Kerack i Cidaris)
 2. Lokalne zwyczaje
     - W czasie naszego pobytu w uzdrowisku jedna z driad rodzi. Dziecko zaraz po urodzeniu zostaje zabrane przez Aglais do lasu - Ilanę zdaje się to strasznie interesować.
     - Zapytane driady opowiadają, że nowo narodzone dziecko należy "połączyć", "związać" z lasem, jednak sam rytuał jest tajemnicą, którą driady nie mają zamiaru się dzielić nawet z [druidką](Ilana).
@@ -27,7 +27,7 @@
 3. Rozmowy (prawie) kontrolowane
     - Kajetan przeprowadza półtorej tuzina rozmów zamiejscowych:
         - Mirna:
-            - Książe Viraxas, władca Kerack zatrudnił piratów ze Skellige (noszą biel i brąz) by plądrowali statki
+            - Książę Viraxas, władca Kerack zatrudnił piratów ze Skellige (noszą biel i brąz) by plądrowali statki
             - dziewczyna pyta, czy nasi znajomi wyspiarze nie mogli by jakoś pomóc, bo statkami sprowadzała materiały i wysyłała zamówienia
             - statki, z których zwykła korzystać to "Złote Piaski" z Gors Velen i "Lodołamacz" z Port Vanis
             - piraci zamieszkali w "Zewie Syrenki" na wyłączność, wyrzucając stałych bywalców, a była to jej ulubiona speluna
@@ -81,4 +81,4 @@
     - Druid przybywa akurat gdy [elf](Kajetan) dowiaduje się od [dziewczyny](Mirna) o kredycie. <a title="Starsi Panowie Dwaj">Starsi panowie</a> decydują się skorzystać z sanatorium narzekając na młodzież.
     - Ilana i Skovik postanawiają nieco zakłócić nocny spokój uzdrowiska czułym pożegnaniem.
     - Nad ranem Finarrin bierze [wyspiarza](Skovik) i uczepionego mężczyzny niedźwiadka do Wioski a my wyruszamy w stronę Brugge, przez które przejdziemy w drodze do Mariboru.
-    - Na odchodnym Kajetan wręcza Skovikowi jeden z krzyształów naładowany zaklęciem. Zaklęcie to wiadomość zaadresowana do Ilany - na wypadek, gdyby kiedyś potrzebował się z nami pilnie skontaktować.
+    - Na odchodnym Kajetan wręcza Skovikowi jeden z kryształów naładowany zaklęciem. Zaklęcie to wiadomość zaadresowana do Ilany - na wypadek, gdyby kiedyś potrzebował się z nami pilnie skontaktować.

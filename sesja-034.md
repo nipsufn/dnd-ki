@@ -19,7 +19,7 @@
     - Druid po chwili zawahania recytuje dotykając przy tym jednego z symboli. Ten "zapala się" na krótką chwilę, po czym gaśnie i nic więcej się nie dzieje.
     - Kajetan, bez głębszego zastanowienia, podejmuje drugą próbę złamania szyfru. W tym celu dotyka po kolei każdego z symboli wymawiając w staroelfim słowo opowiadające danemu symbolowi.
     - Symbole znów się świecą, ale elf zostaje na moment sparaliżowany, a drzwi nie ustępują. Na szczęście nic złego po za tym się nie dzieje.
-    - Analiza mapy pozwala nam ustalić, że 3 budynki: Warownia, Akademia i Pałac znjadują się, podobnie jak symbole na drzwiach, na planie celtyckiego krzyża.
+    - Analiza mapy pozwala nam ustalić, że 3 budynki: Warownia, Akademia i Pałac znajdują się, podobnie jak symbole na drzwiach, na planie celtyckiego krzyża.
     - To oraz tekst na drzwiach nasuwa Ilanie na myśl, że kluczem do rozwiązania mogą być rogate posągi, a raczej hasła, które cytują ich opisy. [Mag](Kajetan) nie jest przekonany, jako że na drzwiach nie ma symbolu miecza o dwóch ostrzach.
     - Udajemy się pod Pałac w celu odnalezienia kolejnego posągu. Przy okazji zauważamy, że drzewo, przed którym uciekliśmy i dziwna mozaika znajdują się w samym centrum Craag An.
     - W połowie wzniesienia znajdujemy trzeci posąg: smukłą kobietę w rogatym hełmie z tarczą wspartą o ziemię. Kamień ukryto w dłoniach kobiety opartych na tarczy. Tabliczka zaś głosi: "_Chroń swe światło_" - Alivara Obrończyni.

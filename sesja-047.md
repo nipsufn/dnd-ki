@@ -43,7 +43,7 @@
     - Oprychy zaatakowały resztę drużyny - [ten sukinsyn](Lars) nie ma na nas już "haka", a jesteśmy mu potrzebni. Rozpoczynamy długie i żmudne negocjacje aby wyjść z patowej sytuacji.
     - W międzyczasie otrzymujemy nasze przedmioty oraz palce złodziei, zdaje się dla demonstracji, iż sprawcy kłopotu zostali ukarani.
     - Dowiadujemy się od Larsa, że:
-        - Kaspar pracuje z [tą kanalią](Lars) dorywczo, kiedy zgadza się to z szeroko pojętym inetesem sił specjalnych Redanii; ten kutas, podobnie jak wieprz Kaspar jest tylko jego marionetką i tańczy tak jak wielki Dijkstra mu zagra
+        - Kaspar pracuje z [tą kanalią](Lars) dorywczo, kiedy zgadza się to z szeroko pojętym interesem sił specjalnych Redanii; ten kutas, podobnie jak wieprz Kaspar jest tylko jego marionetką i tańczy tak jak wielki Dijkstra mu zagra
         - [ten gagatek](Lars) uczył się w Ban Ard, pochodzi z Verden
         - magowie z Verden i Nilfgaardu są również w patowej sytuacji, a my - pionkami które mogą przeważyć szale tego konfliktu na którąś ze stron
         - nie mogliśmy wykryć iluzji [tej mendy](Lars), bo chroni go amulet, który tłumi wszelką magiczną aurę właściciela

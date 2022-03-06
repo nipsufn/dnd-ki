@@ -7,7 +7,7 @@
     - Gildia, zwana lokalnie "Towarzystwem", ma dwa zlecenia:
         - odnaleźć i przynieść dwie paczki, jedną z Próchnowej, drugą z Medownej; 600GP płatne przy dostarczeniu obydwu
         - znaleźć jakiegoś sierżanta na froncie pod Brokilonem i dostarczyć jego raport; 150GP
-    - Decydujemy się odnaleźć i przynieść paczki. "Towarzystwo" rząda w zastaw 20% procent nagrody, zwrotne razem z nagrodą po wykonaniu zlecenia. Leivowi udaje się utargować do 10%.
+    - Decydujemy się odnaleźć i przynieść paczki. "Towarzystwo" żąda w zastaw 20% procent nagrody, zwrotne razem z nagrodą po wykonaniu zlecenia. Leivowi udaje się utargować do 10%.
     - Do miasta zbliża się karawana cyrkowa, na jednym z wozów wiozą spętanego, dorosłego Sowiołaka. 
     - Domyślamy się, że prędzej czy później Ilana będzie chciała go uwolnić.
     - Gdy wychodziliśmy, kmiotkowie pozwolili sobie na chamski komentarz. Skovik dał sobie wyperswadować mordobicie. Kajetan na odchodne sprawił, że ich wódka i zagryzka stały się obrzydliwe, co zapoczątkowało ciąg wydarzeń:
@@ -33,7 +33,7 @@
     - Bestie wracają do Brychnej, nie chcą jednak opuścić cienia aby nie dać się złapać.
     - Kajetan bardzo skutecznie je prowokuje. Oba barghesty atakują go, złe tak bardzo, że nie przejmują się światłem.
     - Kajetan zostaje ciężko ranny, traci przytomność. Skovik z braćmi zabijają jedną z bestii, ostatnia ucieka i już nie wraca.
-    - Ilana dociera do strażnicy granicznej. Opowiada swoją historię strażnikom, jednen z nich ją rozpoznaje jako że niedawno przekraczaliśmy granicę. Zaufanie wzbudza też fakt, że koń (z nietkniętymi jukami) należał do zwiadowcy wysłanego do Miechunowych Uroczysk, co potwierdza zeznania druidki.
+    - Ilana dociera do strażnicy granicznej. Opowiada swoją historię strażnikom, jeden z nich ją rozpoznaje jako że niedawno przekraczaliśmy granicę. Zaufanie wzbudza też fakt, że koń (z nietkniętymi jukami) należał do zwiadowcy wysłanego do Miechunowych Uroczysk, co potwierdza zeznania druidki.
     - O świtaniu mały oddział strażników wyrusza z Ilaną do Brychnej. Kajetan zostaje wyleczony. Strażnicy biorą jedną z czaszek po bestii na dowód i eskortują rodzinę Runda do miasta. Zostawiają nam list polecający do [miejskiego maga](Florian) w ramach podzięki za uratowanie wieśniaków.
     - Decydujemy się kuć żelazo póki gorące i wyruszamy do bliskiej już Próchnowej.
     - Do Próchnowej docieramy po południu. Znajdujemy paczkę w nadbrzeżnym warsztacie szkutniczym.

@@ -21,7 +21,7 @@
         - Od Ivara dowiadujemy się, że:
             - pod górą Cremora obudził się jakiś mrok, przez co bestie w okolicy zrobiły się dużo agresywniejsze, a część nawet zaczęła migrować z dala od okolicy
             - Wioska rośnie - nazywają ją Niedźwiedzim Kasztelem, a Enid otworzyła nawet małą karczmę dla przyjezdnych
-        - Leiv opowiada jak właściwie poznali się z Asliv: jako szmugler chciał buchnąć mapy z nilfgaardzkimi szlakami handlowaymi; płynął na nilfgaardzkim statku, kiedy zaatakowali ich piraci pod wodzą Roegnera; Asliv towarzyszyła bratu
+        - Leiv opowiada jak właściwie poznali się z Asliv: jako szmugler chciał buchnąć mapy z nilfgaardzkimi szlakami handlowymi; płynął na nilfgaardzkim statku, kiedy zaatakowali ich piraci pod wodzą Roegnera; Asliv towarzyszyła bratu
         - na zakończenie wieczoru Leiv, ku zdumieniu ogółu, wyciąga lutnię i wykonuje całkiem ładną, wzruszającą balladę
     - W nocy Ilanie śni się dziwny sen:
         - znajduje się na dziobie niewielkiego drakkara, którego pokład aż trzeszczy

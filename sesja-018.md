@@ -18,11 +18,11 @@
     - Wszyscy są wypoczęci i wyspani, jedynie Ivar zdaje się nie do końca pamiętać wydarzenia dnia poprzedniego. 
     - Bez zbędnego mitrężenia ruszamy w drogę do Wioski. Widząc przy wzgórzu ślady łap, decydujemy się iść ich tropem.
     - Po drodze natykamy się na dwa dziwne znaleziska:
-        - pierwszym jest dół w ziemi, w którym piętrzą się ciała Nilfgaardzkich żołnierzy; ich zbroje są pokryte podobną rdzą, jak broń, którą Kajetna z Ivarem kupili od krasnoludów w Carreras
+        - pierwszym jest dół w ziemi, w którym piętrzą się ciała Nilfgaardzkich żołnierzy; ich zbroje są pokryte podobną rdzą, jak broń, którą Kajetan z Ivarem kupili od krasnoludów w Carreras
         - drugie miejsce to odsłonięta polana, na której stoi kamienny obelisk; przy bliższej inspekcji Ilana rozpoznaje, że to totem poświęcony Protektorowi - na jego szczycie znajduje się spora czaszka z łosimi łopatami i trzema oczodołami, a w miejscu stołu ofiarnego widać odciskany przez kolejne pokolenia krwawy ślad dłoni; runy wyryte w kamieniu symbolizują słowo **pakt**
     - Kiedy Ilana odwraca się z zamiarem odejścia, wielki kruk ląduje na menhirze i łopocząc skrzydłami mówi jej *To nie twój czas na powiernictwo przysięgi*. 
     - Całe zajście obserwują z lasu 4 olbrzymie wilki - dwa z nich otaczają resztę grupy czekającą na skraju linii drzew, a dwa śledzą ruchy Ilany.
-    - Wilki zdają się rozumieć Starszą Mowę, niemniej jednak uspakajające przemowy Kajetna są ignorowane.
+    - Wilki zdają się rozumieć Starszą Mowę, niemniej jednak uspakajające przemowy Kajetana są ignorowane.
     - Wilki zapytane przez Ilanę o znaczenie słów kruka mówią, że pakt odnowił druid (nie elf z Aen Eldrin? czy tym druidem był Finarrin?), a jej czas przyjdzie, kiedy tamten wypełni swoje zadanie. Następnie bestie oddalają się w las.
     - Musząc zatrzymać się na noc, szukamy bezpiecznego miejsca. Ilana znajduje dwa potencjalne miejsca:
         - lekko podmokłą wyrwę w ziemi, przy której leży przewrócone drzewo; na drzewie widać ślady szponów identycznych, jak na wojskowych wozach w Brugge, a ziemię znaczą ślady kopyt najprawdopodobniej należących do [Bizoktora](Bizoktor) (sic) - oba ślady wiodą z północy na południe
@@ -61,7 +61,7 @@
         - wieczorami przepisuje czary do swojej księgi
         - dowiaduje się, że Finarrin zna [Zielarza z Dillingen](Regis)
         - Mirna pomoże mu wyprodukować eliksiry leczące, łagodniejsze niż "jaskółka" Vigga, jeśli poszuka z nią ziół
-    - Kajetan, uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku, że Verenestra jest rzeczywiście gościem i nie zna powszechnie stosowanych obyczajów. Postaniawia ją przeprosić i z nią porozmawiać:
+    - Kajetan, uspokoiwszy się nieco po nieprzyjemnej podróży przez dzicz, dochodzi do wniosku, że Verenestra jest rzeczywiście gościem i nie zna powszechnie stosowanych obyczajów. Postanawia ją przeprosić i z nią porozmawiać:
         - elfka nie widziała afrontu w fakcie zwrócenia uwagi
         - wywiązuje się pseudofilozoficzna debata, zdaje się, że Aen Eldrin albo nie odczuwają czasu albo są niesamowicie długowieczni; tak czy inaczej kompletnie nie rozumieją ciągów przyczynowo-skutkowych, chociaż koncept usługi i zapłaty nie jest im obcy
         - czterej Aen Eldrin dostali się do Brokilonu przez portal otwarty przez Eithne, która to zapadła w śpiączkę próbując powiększyć portal aby umożliwić przejście większej ilości "gości"

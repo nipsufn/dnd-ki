@@ -26,7 +26,7 @@
         - magowie nie są prześladowani, ale magia jest prawnie kontrolowana
         - poprzednim władcą Brugge był Venzlav I, starał się utrzymywać dobre stosunki z driadami
         - obecny władca, Venzlav II, dla bezpieczeństwa państwa na mocy traktatu został lennikiem Czarnych
-        - to z jednej strony przyniosło stabilność, z drugiej - Nilfgaard domagał się zasobów, zmuszając Brugge do intensywniejszej eksploatacji zasobów przy granicy z Brokilonem; to z kolei wznowiło konflikt z driadami, które posuwają się do otwarych ataków na ludzkie osady
+        - to z jednej strony przyniosło stabilność, z drugiej - Nilfgaard domagał się zasobów, zmuszając Brugge do intensywniejszej eksploatacji zasobów przy granicy z Brokilonem; to z kolei wznowiło konflikt z driadami, które posuwają się do otwartych ataków na ludzkie osady
         - Verden to pobojowisko, tam driadom nie ma kto stawiać oporu i robią, jak uważają za stosowne
         - Mayena to przeklęta przez druidów ruina miasta; zanim zostało przeklęte, było to miejsce nieustających potyczek z Nilfgaardem, co potencjalnie skłoniło (ponoć mało ekstremistycznych) druidów z tamtej okolicy do podjęcia działania
         - najemnicy najczęściej osłaniają karawany i transporty, noszą też wiadomości - dla cywilów i dla księstwa

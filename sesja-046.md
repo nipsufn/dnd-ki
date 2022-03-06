@@ -2,7 +2,7 @@
 ##### [Sesja 45](#sesja-045) [Sesja 47](#sesja-047)
 1. Nowe wieści o poranku
     - Budzimy się w "bąbelku" otoczeni aromatem końskich odchodów. Zbieramy się do wymarszu kiedy znajduje nas ptasi posłaniec, tym razem to najzwyklejszy niemagiczny wróbel.
-    - Ptak przyniósł wiadomość od Finarrina. Ilana relacjonuje ją po krótce Kajetanowi celowo pomijając szczegóły nieistotne dla elfa. 
+    - Ptak przyniósł wiadomość od Finarrina. Ilana relacjonuje ją pokrótce Kajetanowi celowo pomijając szczegóły nieistotne dla elfa. 
     - Finarrin informuje, że do [Nowego Mariboru](Maribor) ściąga wojsko, a oni sami są śledzeni (przez ludzi Kaspara?). Grupa zmierza do Dorian, skąd będą próbowali dostać się przez góry do Brokilonu. Dodaje, że Skovik nie najlepiej odebrał nagłą i niezapowiedzianą zmianę planów, ale tym już Ilana nie dzieli się z elfem.
     - Posłaniec znalazł nas po 3 dniach od nadania wiadomości. Dedukujemy, że Dorian od Mariboru dzielą około 3 dni drogi, a więc możliwe, że Finarrin i spółka są już w mieście.
 2. Ku Brugge

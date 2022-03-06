@@ -12,7 +12,7 @@
     - Elf próbuje "wtłoczyć" w niego nieco magii, w skutek czego rysa na kamieniu powiększa się.
     - Po śniadaniu Ilana i Kajetan wybierają się do [biblioteki](Biblioteka), a Skovik z braćmi na zakupy:
         - interesujące lokacje w okolicy:
-            - Craag An - nietknięte ruiny dużego elfickiego miasta w środku Brokilonu
+            - Craag An - nietknięte ruiny dużego elfiego miasta w środku Brokilonu
             - Sowie Wzgórza - kopalnie węgla
             - Świątynia Kreve - opuszczona świątynia Kreve, bogini sprawiedliwości, w Sowich Wzgórzach na południe od Brugge
         - żadne z miejsc opisanych w księgach nie wydaje się być bezpiecznym miejscem do zwiedzania/eksploracji, decydujemy się wyruszać w dalszą drogę, do Dillingen
@@ -59,5 +59,5 @@
     - Skovik był głównym organizatorem puczu przeciw obecnej władczyni [Wysp](Skellige). Osobiście targnął się na życie Cerys i jej brata próbując pomścić zamordowanego ojca, dlatego nie tylko nie może tam wrócić, ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny.
     - W drużynie następuje brak zgody co do dalszych planów:
         - Ilana uważa, że należy podróżować dalej na zachód lądem, przekroczyć Wstążkę i na wysokości Bodrogu wkroczyć do Brokilonu całą drużyną; wierzy, że driady znają ją i ufają jej na tyle, by przepuścić ją wraz z nieznajomymi dalej do druidzkiego kręgu, w którym się wychowała
-        - Kajetan zaczyna myśleć, że wejście do Brokilonu to samobójstwo, a już szczególnie od strony Bodrogu; uważa, że należało by rzeką i morzem dopłynąć do Kerrak i wejść w las od tamtej strony, nadkładając znacząco drogi
+        - Kajetan zaczyna myśleć, że wejście do Brokilonu to samobójstwo, a już szczególnie od strony Bodrogu; uważa, że należało by rzeką i morzem dopłynąć do Kerrack i wejść w las od tamtej strony, nadkładając znacząco drogi
     - Udajemy się na spoczynek nie ustalając co dalej.

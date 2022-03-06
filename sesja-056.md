@@ -20,7 +20,7 @@
     - Kajetan na koszt druidki zaopatruje się w nowy komplet ubrań skrojonych na miarę. Obsługa zdaje się aż nadskakiwać elfowi, za to na dziewczynę patrzy nieco z góry - jak na babę z lasu.
     - Ilana zamawia po 1 zestawie prostych, ale wytrzymałych ubrań dla braci Drummond i 1 dodatkowy na modłę wyspiarską w rodowych barwach, dla Skovika. Dziewczyna kupuje także nocną koszulę dla siebie, z zamiarem lekkiej przeróbki na styl sukni [Keiry "królowej dziwek" Metz](Keira).
     - Czekając na realizację zamówienia podsłuchujemy rozmowę szwaczek, które plotkują o tym, jakoby w karczmie "Łeb Dzika" zatrzymał się wiedźmin.
-    - Wydawszy ładną sumkę na fatałaszki zatrzymujemy się na noc w Ostoji, prostej ale czystej oberży.
+    - Wydawszy ładną sumkę na fatałaszki zatrzymujemy się na noc w Ostoi, prostej ale czystej oberży.
     - Następnego dnia rano ruszamy na poszukiwania stolarza. W końcu znajdujemy fachowca, odbijając się wcześniej od wielu niziołczych drzwi - wredne karły są pamiętliwe na krzywdę im wyrządzoną (na tą, której same są winne, niekoniecznie), w związku z czym oferują usługi po zaporowych cenach.
     - Stolarz-zegarmistrz, starszy pan z nosem, który sugeruje, że w rodzinie mógł się przewinąć jakiś gnom, oferuje natomiast uczciwą cenę i przyjmuje zlecenie [elfa](Kajetan) na małą prasę do kredy.
     - Od stolarza trafiamy do zbrojmistrza pod szyldem głoszącym dźwięczną nazwę Słońce Jarugi. Ilana kupuje broń dla Skovika - solidny topór.
@@ -58,7 +58,7 @@
     - Kiedy wiedźmin zabawia nas rozmową o swoim rzemiośle, do karczmy przybywa także sam [mag](Florian).
     - Kajetan dyskutuje z nim o Redańskich agentach, Lordzie De Pons, który jest z nimi powiązany, kręgach teleportacyjnych, [zielarzu z Dillingen](Regis) i komponentach alchemicznych.
     - Florian żali się, że w wyniku ataku Larsa na jego pracownię stracił niezwykle cenne traktaty alchemiczne, które bardzo by mu się teraz przydały. Widząc, że mag domyśla się albo nawet i wie kto ma jego traktaty o alchemii, zwracamy je.
-    - Ilana wypytuje [wiedźmina](Gaetan) o zjawy i zmory, zadając _hipotetyczne_ pytania o Lloyda. Dowiaduje się, że _teoratycznie_ ten będzie nas ścigał przez rok. _Przypuszczalnie_, jeśli zniszczymy jego ciało (koniecznie ogniem), wprowadzi się do najbliższych zwłok swojego gatunku. _Domyślać się można_ że pomóc może kapłan, odczynienie klątwy bądź spalenie szczypty popiołu z każdego z ciał, które posiadał z solą i saletrą. Sprawę dodatkowo komplikowałby fakt, że prochy należy następnie zakopać na jego grobie.
+    - Ilana wypytuje [wiedźmina](Gaetan) o zjawy i zmory, zadając _hipotetyczne_ pytania o Lloyda. Dowiaduje się, że _teoretycznie_ ten będzie nas ścigał przez rok. _Przypuszczalnie_, jeśli zniszczymy jego ciało (koniecznie ogniem), wprowadzi się do najbliższych zwłok swojego gatunku. _Domyślać się można_ że pomóc może kapłan, odczynienie klątwy bądź spalenie szczypty popiołu z każdego z ciał, które posiadał z solą i saletrą. Sprawę dodatkowo komplikowałby fakt, że prochy należy następnie zakopać na jego grobie.
     - [Druidka](Ilana) trochę blednie na informację o tym, że _przykładowy_ upiór zawsze dokładnie zna nasze położenie i nie spocznie dopóki się na nas nie zemści.
     - Dowiadujemy się, że Vicovaro to miasto w Nilfgaardzie, lokacja jednej z trzech cesarskich szkół magii. Sam mag nazywa się var Anahid.
     - Na stół trafiają co i rusz nowe smakowitości, w tym danie główne - pieczone prosię wypchane jabłkiem. Wszyscy, spróbowawszy rarytasu, dyskutują, kiedy nagle obaj magowie lądują twarzą w półmiskach.

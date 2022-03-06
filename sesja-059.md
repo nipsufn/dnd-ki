@@ -27,12 +27,12 @@
     - [Mag](Kajetan) nie znajduje żadnego miejsca, w którym [młoda druidka](Ilana) mogła by zacząć kopać jako zwierzę, jednak wymacuje wnękę zabezpieczoną iluzją, a w niej kolejny ostrosłup, dużo mniejszy, ale zaklęty w ten sam sposób. Ukryty w zrujnowanych fundamentach, pozwala sobie na eksperyment. Posyła swoje magiczne oko, próbując nim wleźć w ostrosłup. Po chwili jego widzenie przenosi się nad obelisk w parku, a jedna z jego krawędzi jarzy się lekkim światłem. 
     - Kajetan próbuje tego samego manewru jeszcze raz, a jego widzenie tym razem przenosi się do kanałów, w których jednak nic ciekawego nie widzi, nawet kolejnej magicznej kotwy, której się spodziewał. W teorii, trzy takie kotwy ułatwiały by obserwację i lokalizację osób i przedmiotów pomiędzy nimi...
     - Udajemy się na spoczynek. Śpimy w dużym pokoju wspólnym, tak tłocznym, że miejsce na podłodze trzeba wywalczyć sobie łokciami i kopniakami. Pomimo teoretycznie bezpiecznego miejsca, decydujemy się wartować. 
-    - Była to, jak się okazuje, słuszna decycja. W nocy po sali myszkuje znajomy krasnolud. Ktoś próbuje zakosić nam sakiewkę, a później do sali zaglądazakapturzona żeńska postać. Wycofuje się jednak na nasz widok. Słyszymy też oddalającego się galopem konia.
+    - Była to, jak się okazuje, słuszna decyzja. W nocy po sali myszkuje znajomy krasnolud. Ktoś próbuje zakosić nam sakiewkę, a później do sali zagląda zakapturzona żeńska postać. Wycofuje się jednak na nasz widok. Słyszymy też oddalającego się galopem konia.
 4. Handel wymienny
     - Rano przy śniadaniu widzimy jak kupiec, którego dnia poprzedniego wypytywaliśmy o plotki, kłóci się z karczmarzem o konia, który został zarekwirowany przez królewskiego gońca.
     - Rozzłoszczony mężczyzna wychodzi w końcu z kwitem odprowadzany przez kobietę z minionej nocy.
     - Podczas gdy Kajetan stoi w kolejce po śniadanie, a później nawet zaczyna jeść, Ilana znika, podążając za kobietą i handlarzem. Dwójka idzie do stajni, gdzie kobieta - jak się okazuje jedna z dziewczyn Karoll - próbuje niemal za bezcen sprzedać mu swojego konia (jednego z tych, które wcześniej ciągnęły burdel).
-    - Ilana proponuje, że odkupi od niej konia skoro jej tak spieczno. Ex-kutryzana niemal ucieka na widok [druidki](Ilana).
+    - Ilana proponuje, że odkupi od niej konia skoro jej tak spieszno. Ex-kurtyzana niemal ucieka na widok [druidki](Ilana).
     - Wróciwszy do karczmy, Ilana kończy zimne śniadanie. Zbieramy swoje manatki i wyruszamy do kanałów. 
     - Kajetan chce wykonać dalszy rekonesans Być może kanały to lepszy punkt startowy niż zabudowane piwnice, by szukać pozostałości fundamentów wieży, które mogły się nie zawalić. 
     - Ilana zaczyna myśleć o owadach, które znaleźliśmy idąc poprzednim razem w tym kierunku od Góry Carbon. Smród rzeki kojarzy jej się z nimi, a ogłoszenie kusi.

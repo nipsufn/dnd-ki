@@ -1,7 +1,7 @@
 ### Sesja 38
 ##### [Sesja 37](#sesja-037) [Sesja 39](#sesja-039)
 1. Warownia, podziemia
-    - Po nocnym odpoczynku w dla odmiany wygodnych łóżkach w bezpiecznej (jak narazie) przestrzeni, przymierzamy się do uruchomienia kuźni.
+    - Po nocnym odpoczynku w dla odmiany wygodnych łóżkach w bezpiecznej (jak na razie) przestrzeni, przymierzamy się do uruchomienia kuźni.
     - Kajetan gorączkowo przeczesuje księgi w poszukiwaniu informacji na temat paliwa zasilającego piec i działania samej kuźni.
     - Bracia Drummond w tym czasie zmieniają wszelkie drewniane meble w rozpałkę do pieca, nie cackając się przy tym za bardzo.
     - [Elf](Kajetan) przypomina sobie o dziwnym posągu-zbroi i dzieli się swoimi spostrzeżeniami z Ilaną.

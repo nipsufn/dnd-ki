@@ -40,7 +40,7 @@
     - Wywiązuje się rozmowa:
         - Lusterko czeka tu na konkretną rybę z palcem z pierścieniem
         - twierdzi, że to my wpadamy na niego, nie na odwrót
-        - Kajetan wypala z pytaiem czy potrafi uzdrowić kogoś przemienionego w kamień; w odpowiedzi słyszymy "potrafię uzdrowić waszego towarzysza" ({mag}Kajetan chyba nie wspomniał o towarzyszu) i zostajemy zaproszeni na spotkanie o północy na rozstaju dróg niedaleko starego dębu Bleoberisa
+        - Kajetan wypala z pytaniem czy potrafi uzdrowić kogoś przemienionego w kamień; w odpowiedzi słyszymy "potrafię uzdrowić waszego towarzysza" ({mag}Kajetan chyba nie wspomniał o towarzyszu) i zostajemy zaproszeni na spotkanie o północy na rozstaju dróg niedaleko starego dębu Bleoberisa
     - Ilana, wciąż nieprzekonana do pomysłu spotkania, wyrusza na rekonesans do miasta gotującego się do wiosennego festynu. Spotyka Remiego, zdziwionego, że widzi ją w Mariborze tak szybko. Plotkują chwilę przy piwie.
     - {Druidka}Ilana informuje półelfa, że za bestią nie ma co ganiać i o temacie lepiej zapomnieć. Pieniędzy jednak z tego nie będzie i to należy przekazać Lyssie. Opowiada też bez zbędnych szczegółów co spotkało ich pod górą.
     - Remi obiecuje rozpytać w okolicy o pracę w roli eskorty dla Ilany i Kajetana. Sam oferuje kolejną wyprawę do Gors Velen, jako że sam za kilka dni będzie zmierzał znów w tę stronę.
