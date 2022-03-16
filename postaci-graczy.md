@@ -59,6 +59,7 @@
             - Księgi:
                 - Księga magiczna +1 arcana
                 - pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander
+                - Księga z zaklęciami Aen Drisichean
                 - fragment zaklęcia 5go poziomu
                 - oddane do biblioteki na Thanedd:
                     - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
@@ -85,7 +86,7 @@
                 - 1 żeton do teleportacji
                 - 1 kryształ na zaklęcia ([False Life](https://5e.tools/spells.html#false%20life_phb), 25HP)
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
-                - 1 kryształ na zaklęcia ([Tenser's Transformation](https://5e.tools/spells.html#tenser's%20transformation_xge))
+                - 1 pusty kryształ na zaklęcia
                 - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
