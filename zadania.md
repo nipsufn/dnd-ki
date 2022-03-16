@@ -104,9 +104,9 @@
         - Kapituła zakopała coś związanego na pogórzu Tukajskim
     - potwory:
         - strażnik 0 humanoid o żółto-fioletowej skórze. ciało zdeformowane twarzami wykrzywionymi w przedśmiertnym grymasie
-        - strażnik A łysy niedźwiedź regenerował się od rzucanych nań zaklęć
-        - strażnik b wężobaba zamieniała ukąszeniem w kamień - zjedzona przez strażnika 0, który potencjalnie przyswoił sobie jej umiejętności, potrafi zniszyć Bąbelek Leomunda
-        - strażnik c wilkoskorp wilk ze skorpionim ogonem zakończonym okiem
+        - strażnik 1 łysy niedźwiedź regenerował się od rzucanych nań zaklęć
+        - strażnik 2 wężobaba zamieniała ukąszeniem w kamień - zjedzona przez strażnika 0, który potencjalnie przyswoił sobie jej umiejętności, potrafi zniszyć Bąbelek Leomunda
+        - strażnik 3 wilkoskorp wilk ze skorpionim ogonem zakończonym okiem
     - układ/lokacja:
         - wejście przez szyb kopalniany w skalnym kominie, jego góra zapieczętowana stopionym kamieniem, ściany - kruche, w fatalnym stanie
         - w kopalnianych chodnikach porzucone obozowisko, dalej mnóstwo pułapek - różnych run i magicznych linek alarmujących
