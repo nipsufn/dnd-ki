@@ -3,12 +3,12 @@
 1. Strażnicy 3 & 1
     - Zaskakuje nas strażnik 3 - wyliniały wilk ze skorpionim ogonem zakończonym okiem.
     - Pierwszy, oczywista, szarżuje na niego Lodbroke. W ferworze walki, osaczony mutant rujnuje jedną z kolumn i miota jej fragmentem w drużynę. Skrwawiony, {szalony berserk}Lodbroke, któremu nie udaje się uskoczyć na czas, zostaje przezeń wgnieciony w posadzkę. 
-    - Myślimy, że już po Lodbrokeu, kiedy spod kamienia wyłaniają się ogromne łapska niedźwiedzia-albinosa pokryte blond futrem. Wygląda na to, że {vildkaarl}Lodbroke ma się dobrze i teraz wkurzył się nie na żarty.
+    - Myślimy, że już po Lodbrokeu, kiedy spod kamienia wyłaniają się pokryte blond futrem ogromne łapska niedźwiedzia-albinosa. Wygląda na to, że {vildkaarl}Lodbroke jednak ma się dobrze i teraz wkurzył się nie na żarty.
      - Kajetan, pamiętając podobne rzeźby z Craag An, usiłuje zbudzić je Starszą Mową i wezwać nam na pomoc w walce. Bez skutku. Przypada więc do podłogi i używając magii zamyka potwora po pas w kamieniu posadzki.
     - Skupieni na ubiciu monstrum, słyszymy skrzypnięcie kamiennych drzwi. Do walki wkrótce dołącza niedźwiedziowaty strażnik 1.
     - Udaje nam się pokonać potwory łatwiej niż się spodziewaliśmy - pomoc wyspiarzy, których zabraliśmy ze sobą jest nieoceniona.
     - Ilana zabiera na dowód/pamiątkę końcówkę ogona wilka.
-    - Lodbroke, walczący z imieniem Svalbloda na ustach, urządza mały rytuał z udziałem krwi i serca ubitych maszkar - posoką maże sobie wojenne barwy na twarzy, po czym ceremonialnie zjada serce jednego z potworów.
+    - Lodbroke, walczący z imieniem Svalbloda na ustach, urządza mały rytuał z udziałem krwi i serca ubitych maszkar - posoką maże sobie wojenne barwy na twarzy, po czym (bez)ceremonialnie zjada serce jednego z potworów.
     - Decydujemy się na krótki odpoczynek, by odzyskać siły. W tym celu wracamy do laboratorium (8).
     - Po powrocie do swojej ludzkiej formy, dotąd wyraźne rany Lodbrokea zdają się być lekko zaleczone (przypadłość vildkaarlów?).
     - W czasie odpoczynku Kajetan myszkuje po pokoju i znajduje kolejne zawalone przejście, za którym widać prześwit do jakiegoś pomieszczenia.
