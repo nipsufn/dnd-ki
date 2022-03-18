@@ -45,4 +45,4 @@
     - Będąc już u kresu sił, "zerówa" doskakuje i wyładowuje całą swoją wściekłość na trzymającej się dotąd na dystans, przypartej do muru Ilanie. {Druidka}Ilana w mgnieniu oka więdnie mu w szponach, znacząc posadzkę ciemną plamą juchy.
     - Mając w perspektywie, co może stać się z bezwładną {dziewczyną}Ilana, Skovik rzuca się na potwora. Rąbie go bez opamiętania udaremniając wszelkie próby posilenia się Ilaną.
     - Ostateczny cios zadaje Lodbroke rozrąbując łeb potwora na pół, podczas gdy {elf}Kajetan cuci nieprzytomną {druidkę}Ilana.
-    ![mapaSesja109](img/mapaSesja109.jpg)
+    ![mapaSesja109](https://github.com/nipsufn/dnd-ki-source/blob/master/img/mapaSesja109.jpg "mapaSesja109")
