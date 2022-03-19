@@ -93,8 +93,9 @@
             - mag kręci nosem że Kajetan po prostu pytał
             - statua kobiety z Risbergu była Flaminką kręgu Mayeńskiego
             - Ilana efektem jakiegoś jej eksperymentu
-        - [Sesja 108](#sesja-108)
+        - [Sesja 108](#sesja-108), [Sesja 109](#sesja-109)
             - Eksploracja twierdzy
+            - zabicie strażników A, C, 0
     - historia / kontekst:
         - Risberg to północna twierdza Zielonych Rycerzy
         - Ortolan i Filavandrel byli sponsorami projektu, którego efektem miał być zabójca magów, niewrażliwy na Moc - wykonawcą był tajemniczy uczeń Ortolana
@@ -105,7 +106,7 @@
     - potwory:
         - strażnik 0 humanoid o żółto-fioletowej skórze. ciało zdeformowane twarzami wykrzywionymi w przedśmiertnym grymasie
         - strażnik 1 łysy niedźwiedź regenerował się od rzucanych nań zaklęć
-        - strażnik 2 wężobaba zamieniała ukąszeniem w kamień - zjedzona przez strażnika 0, który potencjalnie przyswoił sobie jej umiejętności, potrafi zniszyć Bąbelek Leomunda
+        - strażnik 2 wężobaba zamieniała ukąszeniem w kamień - zjedzona przez strażnika 0, który potencjalnie przyswoił sobie jej umiejętności, potrafi zniszczyć Bąbelek Leomunda
         - strażnik 3 wilkoskorp wilk ze skorpionim ogonem zakończonym okiem
     - układ/lokacja:
         - wejście przez szyb kopalniany w skalnym kominie, jego góra zapieczętowana stopionym kamieniem, ściany - kruche, w fatalnym stanie
@@ -150,4 +151,4 @@
 		- Ivryn zabezpieczył Craag An w ramach jakiejś umowy z Galawainem
 		- jeśli chce się dostać bezpiecznie do Craag An, Eithne jest potencjalnym sprzymierzeńcem, którego jednak {strażnik}Galawain odradza
 		- jeśli chce porozmawiać normalnie, powinien odwiedzić {króla lasu}Galawain w jego więzieniu pod Duen Canell
-        - by wyrwać Galawaina z Duen Canel można spróbowac użyć czarnego serca od Zangenisa, Finarrinowi nie podoba się taki koncept
+        - by wyrwać Galawaina z Duen Canel można spróbować użyć czarnego serca od Zangenisa, Finarrinowi nie podoba się taki koncept
