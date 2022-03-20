@@ -1,12 +1,14 @@
 ### Sesja 109
 ##### [Sesja 108](#sesja-108) [Sesja 110](#sesja-110)
 1. Strażnicy 3 & 1
-    - Zaskakuje nas strażnik 3 - wyliniały wilk ze skorpionim ogonem zakończonym okiem.
-    - Pierwszy, oczywista, szarżuje na niego Lodbroke. W ferworze walki, osaczony mutant rujnuje jedną z kolumn i miota jej fragmentem w drużynę. Skrwawiony, {szalony berserk}Lodbroke, któremu nie udaje się uskoczyć na czas, zostaje przezeń wgnieciony w posadzkę.
+    - Zaskakuje nas strażnik 3 - wyliniały wilk ze skorpionim ogonem zakończonym okiem. Pierwszy, oczywista, szarżuje na niego Lodbroke.
+    - Kajetan, pamiętając podobne rzeźby z Craag An, usiłuje zbudzić je Starszą Mową i wezwać nam na pomoc w walce. Bez skutku.
+    - Trzecie oko wilka, ilekroć łypie na {elfa}Kajetan, przyprawia go o paraliżujący ból głowy. Poirytowany {mag}Kajetan oślepia więc potwora.
+    - Skupieni na dobiciu strażnika numer 3, słyszymy skrzypnięcie kamiennych drzwi. Do walki wkrótce dołącza niedźwiedziowaty strażnik 1.
+    - W ferworze walki, osaczony niedźwiedź-mutant rujnuje jedną z kolumn i miota jej fragmentem w drużynę. Skrwawiony, {szalony berserk}Lodbroke, któremu nie udaje się uskoczyć na czas, zostaje przezeń wgnieciony w posadzkę. 
     - Myślimy, że już po Lodbrokeu, kiedy spod kamienia wyłaniają się pokryte blond futrem ogromne łapska niedźwiedzia-albinosa. Wygląda na to, że {vildkaarl}Lodbroke jednak ma się dobrze i teraz wkurzył się nie na żarty.
-     - Kajetan, pamiętając podobne rzeźby z Craag An, usiłuje zbudzić je Starszą Mową i wezwać nam na pomoc w walce. Bez skutku. Przypada więc do podłogi i używając magii zamyka potwora po pas w kamieniu posadzki.
-    - Skupieni na ubiciu monstrum, słyszymy skrzypnięcie kamiennych drzwi. Do walki wkrótce dołącza niedźwiedziowaty strażnik 1.
-    - Udaje nam się pokonać potwory łatwiej niż się spodziewaliśmy - pomoc wyspiarzy, których zabraliśmy ze sobą jest nieoceniona.
+    - Potwór miota się i skacze po całym pomieszczeniu. Kajetan przypada więc do podłogi i używając magii zamyka go po pas w kamieniu posadzki.
+    - Wkrótce udaje nam się pokonać oba potwory, łatwiej niż się spodziewaliśmy - pomoc wyspiarzy, których zabraliśmy ze sobą jest nieoceniona.
     - Ilana zabiera na dowód/pamiątkę końcówkę ogona wilka.
     - Lodbroke, walczący z imieniem Svalbloda na ustach, urządza mały rytuał z udziałem krwi i serca ubitych maszkar - posoką maże sobie wojenne barwy na twarzy, po czym (bez)ceremonialnie zjada serce jednego z potworów.
     - Decydujemy się na krótki odpoczynek, by odzyskać siły. W tym celu wracamy do laboratorium [(8)](#sesja-109#mapa).
@@ -14,7 +16,7 @@
     - W czasie odpoczynku Kajetan myszkuje po pokoju i znajduje kolejne zawalone przejście, za którym widać prześwit do jakiegoś pomieszczenia.
     - W tym czasie Ilana poprzez medytację próbuje skontaktować się z Zangenisem. W transie jej świadomość trafia do ciemnego labiryntu. Coś ją obserwuje z ciemności, ale maga ani śladu.
 2. Wycieczka krajoznawcza
-    - Przechodząc przez pobojowisko [(12)](#sesja-109#mapa) i identyczną galerę po drugiej stronie placu boju (14), odnajdujemy pomieszczenie wciąż zapieczętowane przez Aen Drisichean [(15)](#sesja-109#mapa).
+    - Przechodząc przez pobojowisko [(12)](#sesja-109#mapa) i identyczną galerę po drugiej stronie placu boju [(14)](#sesja-109#mapa), odnajdujemy pomieszczenie wciąż zapieczętowane przez Aen Drisichean [(15)](#sesja-109#mapa).
     - Wstępu do 3 pokojów bronią masywne, bogato zdobione drzwi ze znajomymi symbolami. Gdyby nie obecność Ivara i wiedza zdobyta w Craag An, nie udało by się nam otworzyć tych, które wciąż działały.
     - W pomieszczeniu za drugą galerą [(15)](#sesja-109#mapa) natykamy się na zbrojownię identyczną jak w Craag An i cztery rzeźby pierwszych Rycerzy Galawaina. Tam udaje nam się zamienić ceramiczne żetony, które nosił ze sobą Kajetan na kilka magicznych fantów:
         - od Rel'riona Sprawiedliwego: miecz o dwóch ostrzach
