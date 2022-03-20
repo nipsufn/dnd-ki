@@ -29,10 +29,6 @@
             - 35 bełtów
             - 1 Piersiówka z nalewką z mandragory, 1/2
             - naszyjnik kul ognia, 3 nieodnawialne użycia
-            - <details>
-                <summary>ⒶPorcelanowa maska przebierania</summary>
-                    While wearing this hat, you can use an action to cast the disguise self spell from it at will. The spell ends if the hat is removed.
-                </details>
             - ⒶPierścień ochrony +1 do rzutów obronnych
             - <details>
                 <summary>ⒶPierścień Ucieczki</summary>
@@ -105,7 +101,6 @@
             - Do rozpracowania:
                 - Różdżka, iluzja; *"Jak liść na wietrze"*; z Craag An
             - Z Craag An:
-                - Medalion i ceramiczne (?) monety z Craag An
                 - Medalion bibliotekarza z Craag An
                 - Medalion posłusznika zakonu Zielonych Rycerzy
         - W Mariborze:

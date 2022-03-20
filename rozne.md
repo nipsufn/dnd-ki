@@ -36,10 +36,10 @@
 
         | Nr. | Osoba | Napis na pomniku | Napis na nagrobku | Szkoła magii pochodząca od broni | 
         | :--- | :--- | :--- | :--- | :--- |
-        | I   | Rel'rion Sprawiedliwy     | _Podsycaj swe światło_ | The ugly truth is this my friends,<br />Written cold and plain | transmutation |
-        | II  | Alivara Obrończyni        | _Chroń swe światło_    | Cowards justify the ends<br />And run from their own pain      | enchantment   |
-        | III | Caemiris Artystka         | _Zachowaj swe światło_ | Heroes leave an epitaph,<br />They who pay the price           | evocation     |
-        | IV  | Lernejos Noiosący Światło | _Bądź światłem_        | No graves filled on their behalf                               | necromancy    |
+        | I   | Rel'rion Sprawiedliwy      | _Podsycaj swe światło_ | The ugly truth is this my friends,<br />Written cold and plain | transmutation |
+        | II  | Alivara Obrończyni         | _Chroń swe światło_    | Cowards justify the ends<br />And run from their own pain      | enchantment   |
+        | III | Caemiris Artystka          | _Zachowaj swe światło_ | Heroes leave an epitaph,<br />They who pay the price           | evocation     |
+        | IV  | Corneiros Noiosący Światło | _Bądź światłem_        | No graves filled on their behalf                               | necromancy    |
 
 - <a id='r_wran' pattern='Wran*'>Wranowie</a>
     - rasa jaszczuroludzi, niegdyś zamieszkujących Góry Sine,

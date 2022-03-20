@@ -6,7 +6,7 @@
     - Kajetan gratuluje Yarpenowi jego broni - topora, którego pozbył się jakiś czas temu.
 2. W ciemność
     - Schodzimy do tunelu. Pułapki w korytarzu rozbrajamy dość konwencjonalnie, detonując je. Znajdujemy też więcej śladów animowanych zwłok - co prawda gryzoni - które próbowały się dostać do samej twierdzy.
-    - Eksplorujemy podziemia. W pierwszym pomieszczeniu [(1)](#sesja-108#mapa), rozjaśnionym dzięki uprzejmości Ilany artefaktem od Zangenisa, natykamy się na leciwe, wyczyszczone z resztek kości pokryte lepkim szlamem. Na prawo od wejścia jest jakieś zagruzowane przejście. Idziemy więc, podobnie jak poprzednim razem, korytarzem na wprost. 
+    - Eksplorujemy podziemia. W pierwszym pomieszczeniu [(1)](#sesja-108#mapa), rozjaśnionym dzięki uprzejmości Ilany artefaktem od Zangenisa, natykamy się na leciwe, wyczyszczone z resztek kości pokryte lepkim szlamem. Na prawo od wejścia jest jakieś zagruzowane przejście. Idziemy więc, podobnie jak poprzednim razem, korytarzem na wprost.
     - Wychodzimy do drugiego, znajomego pomieszczenia [(2)](#sesja-108#mapa). Trójnóg, na którym niegdyś stała kula alarmowa, zniknął. Został po nim jedynie ślad na posadzce. Bez zbędnego mitrężenia, idziemy dalej prosto, przez jedyne przejście w tym małym pomieszczeniu.
     - Trafiamy do znajomego pokoju z szachownicą na posadzce [(3)](#sesja-108#mapa). Udaje nam się raz jeszcze ustalić, które kafelki kryją pułapki.
     - Wewnątrz Risbergu Kajetanowi udaje się rozpocząć rytuał komunikacyjny, używając jako celu Zangenisa:
@@ -35,7 +35,7 @@
             - Algernon Guincamp - specjalista w przyzywaniu bytów z innych płaszczyzn, demonolog, rektor magii teoretycznej na Oxenfurcie
             - Biruta Icarti - czarodziejka o wysokiej pozycji w {twierdzy}Risberg, zaufana Ortolana; krążą plotki, że pracowała nad naszyjnikiem który udusiłby noszącego gdy padnie słowo-klucz
     - Gdy buszujemy po pomieszczeniu, Ilana śledzi ruchy strażnika 0. Wygląda na to, że wyczuł naszą obecność i przemieścił się w głąb kompleksu, żeby po chwili wrócić na poprzednią pozycję.
-    - Jedyne wyjście z biblioteki [(22)](#sesja-108#mapa) także jest zawalone jedną z kolumn. Odsuwamy kamienie i podążamy dalej skrytym zań korytarzem. 
+    - Jedyne wyjście z biblioteki [(22)](#sesja-108#mapa) także jest zawalone jedną z kolumn. Odsuwamy kamienie i podążamy dalej skrytym zań korytarzem.
     - W laboratorium alchemicznym [(8)](#sesja-108#mapa) znajdujemy dwa eliksiry - dekokt alraunowy, zapewniający magom długowieczność, oraz jakiś inny flakon z płynem o nieznanych nam właściwościach.
     - Dostępu do dalszych pomieszczeń bronią drzwi ze znajomymi nam czterema symbolami Zielonych Rycerzy. Z pomocą Ivara otwieramy je szyfrem-przysięgą, [tak samo jak do Warowni w Craag An](#sesja-036#wrota).
     - Przez bogato zdobioną witrażami galerę (9) docieramy do podpieranego kolumnami, równie wystawnego korytarza [(12)](#sesja-108#mapa), w którym stoi szereg rzeźb elfów. Ich oblicza są zwrócone ku ziemi, ale wszystkie wielbią jedyną figurę na środku, wysoko przy sklepieniu, od której bije magiczne światło. To tu dopada nas jeden ze strażników...
