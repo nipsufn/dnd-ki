@@ -285,7 +285,7 @@
     - <a id='p_riordan' pattern='Bra* Riordan*,Riordan*'>Brat Riordan</a> - człowiek; ?
         Zakonnik, był winny Myrtonowi przysługę
 - Góry Sine
-    - <a id='p_filavandrel' pattern='Filavandrel* Aen Fidhail,Filavandrel*'>Filavandrel Aen Fidhail ze Srebrnych Wież</a> - elf; mag
+    - <a id='p_filavandrel' pattern='Filavandrel* Aen Fidhail,Filavandrel*'>Filavandrel Aen Fidhail ze Srebrnych Wież, z rodu Feleaornów z Białych Okrętów</a> - elf; mag
         potężny i stary elfi mag
         zorganizował wyprawę archeologiczną w której brał udział Kajetan
     - <a id='p_isilme' pattern='Isilme*'>Isilme</a> - elf, zwiadowca;

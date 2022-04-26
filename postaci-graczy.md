@@ -35,7 +35,7 @@
                     This ring has 1 charge. When attuned you can use a charge to cast the spell Teleport without using a spell slot. For every 24 hours this ring spends within 15 ft of a Place of Power, the ring regains 1 charge.
                 </details>
             - <details>
-                <summary>Aleksandryt Mocy</summary>
+                <summary>ⒶAleksandryt Mocy</summary>
                     Spell focus.
                     When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
                     You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
@@ -44,6 +44,7 @@
                     - Maelstrom
                     - Tidal Waves
                 </details>
+            - Ⓐ[Księga z zaklęciami Aen Drisichean](https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce)
         - Schowany:
             - Odzież
                 - <details>
@@ -55,7 +56,6 @@
             - Księgi:
                 - Księga magiczna +1 arcana
                 - pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander
-                - Księga z zaklęciami Aen Drisichean
                 - fragment zaklęcia 5go poziomu
                 - oddane do biblioteki na Thanedd:
                     - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
@@ -74,15 +74,17 @@
                 - 3 pierścionki warte po 20 - 50GP
                 - 5 punktów frakcji
             - Magiczne różności:
-                - eliksir dodający spellslot od Mirny
+                - 2 [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
+                - [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
+                - [dekokt Alarunowy](https://5e.tools/items.html#potion%20of%20longevity_dmg)
+                - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
                 - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
                 - 1 zwój do teleportacji
                 - 1 żeton do teleportacji
-                - 1 kryształ na zaklęcia ([False Life](https://5e.tools/spells.html#false%20life_phb), 25HP)
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
-                - 1 pusty kryształ na zaklęcia
+                - 2 puste kryształy na zaklęcia
                 - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny

@@ -27,7 +27,7 @@
             - [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
             - [dekokt Alarunowy](https://5e.tools/items.html#potion%20of%20longevity_dmg)
             - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
-        - Aep daerhenna opisuje nieco o Wranach:
+        - Aep Daerhenna opisuje nieco o Wranach:
             - pojawili się na wschód od gór sinych w czasie pierwszej koniunkcji sfer - albo są oryginalnymi mieszkańcami kontynentu, tak jak gnomy
             - Loc Muinne było oryginalnie ich miastem
             - według elfich podań, {jaszczuroludzi}Wran wykończył spadek temperatur, jednak ślady znalezione na szkieletach w czasie wykopalisk sugerują ludobójstwo
