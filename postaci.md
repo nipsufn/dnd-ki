@@ -34,7 +34,7 @@
 - <a id='p_gaetan' pattern='Gaetan*'>Gaetan</a> - wiedźmin szkoły kota; polował w Mayenie na dybuga
 - <a id='p_ida' pattern='Ida,Id* Emean'>Ida Emean aep Sivney</a> - elf, mag,  członek Nowej Kapituły
     - złośliwi powiedzieli by druga we wszystkim w porównaniu z Francescą Findabair
-- <a id='p_idaran' pattern='Idaran*'>Idaran</a> - mag,
+- <a id='p_idarran' pattern='Idarran*'>Idarran</a> - mag,
     - uczeń Alzura
 - <a id='p_istredd' pattern='Istredd*'>Istredd</a> - mag, człowiek
     - archeolog

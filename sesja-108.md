@@ -32,7 +32,7 @@
             - w eksponatorium znajduje się czaszka wrana, z której wyciągnięto informacje o jego i innych gatunkach
         - w papierach przewijają się nazwiska takie jak:
             - Axel Raby - 1 z 18-stu mistrzów Risbergu, zajmował się alchemią mutagenną i krzyżówkami, zginął pod Sodden ([plotki?](#sesja-088#sodden-plotka))
-            - Algernon Guincamp - specjalista w przyzywaniu bytów z innych płaszczyzn, demonolog, rektor magii teoretycznej na Oxenfurcie
+            - Algernon Guingamp - specjalista w przyzywaniu bytów z innych płaszczyzn, demonolog, rektor magii teoretycznej na Oxenfurcie
             - Biruta Icarti - czarodziejka o wysokiej pozycji w {twierdzy}Risberg, zaufana Ortolana; krążą plotki, że pracowała nad naszyjnikiem który udusiłby noszącego gdy padnie słowo-klucz
     - Gdy buszujemy po pomieszczeniu, Ilana śledzi ruchy strażnika 0. Wygląda na to, że wyczuł naszą obecność i przemieścił się w głąb kompleksu, żeby po chwili wrócić na poprzednią pozycję.
     - Jedyne wyjście z biblioteki [(22)](#sesja-108#mapa) także jest zawalone jedną z kolumn. Odsuwamy kamienie i podążamy dalej skrytym zań korytarzem.

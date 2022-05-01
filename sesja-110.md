@@ -1,28 +1,33 @@
 ### Sesja 110
 ##### [Sesja 109](#sesja-109) [Sesja 111](#sesja-111)
 1. Ku chwale Svalbloda
-    - Lodbroke, Skovik i Ilana wychodzą z cytadeli zaczerpnąć świeżego powietrza
-    - {Vildkaarl}Lodbroke rozpala ognisko w którym spala mieszankę ziół i serce strażnika zero w ofierze swojemu bogowi
-    - Zaprasza do rytuału Skovika i Ilanę
-    - Ilana w transie obserwuje zwierzęce formy mężczyzn
-2. Co można znaleźć w opuszczonej twierdzy magów
-    - Ilana śni się Finarrinowi, rozmawiają:
+    - Lodbroke, Skovik i Ilana wychodzą z Cytadeli zaczerpnąć świeżego powietrza. Wyspiarz zabiera z sobą szczątki trzeciego strażnika.
+    - {Vildkaarl}Lodbroke rozpala ognisko, w którym spala mieszankę ziół i serce strażnika zero w ofierze swojemu bogowi. Zaprasza do rytuału Skovika i Ilanę.
+    - Ilana w transie obserwuje zwierzęce formy mężczyzn, a także swoją własną, jakby dwoiły jej się w oczach różne, nałożone na siebie obrazy.
+    - Po fakcie Lodbroke oddala się w sobie tylko znanym kierunku. Zostałszy sam na sam ze Skovikiem, Ilana próbuje przyśnić się Finarrinowi: 
+        - zastaje {mentora}Finarrin w jakiejś izbie w baszcie, za oknem szumi morze; z parapetu zerwał się kruk
+        - {druid}Finnarin zasnął przy biurku zawalonym stertą papierów
+        - "obudzony", nie do końca zdaje sobie sprawę, że to tylko sen i myśli, że Ilana faktycznie złożyła mu wizytę
+        - jest w Nastrogu, na zaproszenie księcia
         - książę Kistrin wyruszył na jakieś ważne spotkanie na północy (bal na Thanedd?)
         - {stary druid}Finarrin pełni jakieś obowiązki pod jego nieobecność
         - generalnie jest doradcą, stara się temperować zapały porywczego nadwornego maga, Larsa
         - swój czas dzieli między obowiązkami w Nastrogu a Wioską
         - pod koniec miesiąca do Verden ma przypłynąć emisariusz z Wysp Skellige, Cerys chce wznowić stosunki dyplomatyczne
-        - ostatnimi czasy zwierzęta w Brokilonie są bardziej agresywne niż zwykle - czyżby związek z tym o czym opowiadał Ivar albo z tym co sprzątamy w Risbergu?
-        - Ilana zaczyna na poważnie myśleć o Artisie jako dobrym kandydacie na nauczyciela, {ojczym}Finarrin ostrzega ją przed "ludźmi którzy zasłaniają się bogami"
+        - ostatnimi czasy zwierzęta w Brokilonie są bardziej agresywne, niż zwykle - czyżby związek z tym, o czym opowiadał Ivar albo z tym, co sprzątamy w Risbergu?
+        - Ilana zaczyna na poważnie myśleć o Artisie jako dobrym kandydacie na nauczyciela, {ojczym}Finarrin ostrzega ją przed "ludźmi, którzy zasłaniają się bogami"
         - Finarrin dowiedział się o istnieniu drugiego kręgu druidzkiego, w okolicach Ysgyth - podobno osiedli tam niektórzy druidzi, którzy odeszli z Mayeny
         - {dziewczyna}Ilana przyznaje się, że zaczyna odczuwać paraliż wyboru
-    - Kajetan odkrywa:
-        - jak działa księga, którą Ivar pozwolił mu zatrzymać
+    - Rozmowę przerywa krakanie trójokiego kruka. Gdy Ilana budzi się z transu, widzi nad sobą przelatujący cień sporego ptaka.
+    - Para wraca na noc do podziemi, gdzie Kajetan postanowił powołać do życia swoją wieżę. Skovikowi nie podoba się to miejsce, chce się stąd jak najszybciej zwinąć.
+2. Co można znaleźć w opuszczonej twierdzy magów
+    - Kajetan rozbija obóz w przedsionku z kręgiem. Następnie kolejnych kilka dni spędza na rekonesansie:
+        - odkrywa, jak działa księga, którą Ivar pozwolił mu zatrzymać
         - Filavandrel nie brał bezpośredniego udziału w badaniach, sponsorował je jednak jako swego rodzaju inwestor - był przyjacielem Ortolana
         - Sorel i Biruta byli faworytami Ortolana
-        - eliksir Mirny, o ile potężny, uniemożliwił mu praktycznie jakiejkolwiek magii dnia kolejnego
-        - przepis na dekokt Alarunowy
-        - eliksiry
+        - eliksir Mirny, o ile potężny, uniemożliwił mu praktycznie jakiekolwiek czarowanie dnia kolejnego
+        - znajduje przepis na dekokt Alarunowy
+        - identyfikuje znalezione eliksiry:
             - 2 [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
             - [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
             - [dekokt Alarunowy](https://5e.tools/items.html#potion%20of%20longevity_dmg)
@@ -33,28 +38,28 @@
             - według elfich podań, {jaszczuroludzi}Wran wykończył spadek temperatur, jednak ślady znalezione na szkieletach w czasie wykopalisk sugerują ludobójstwo
             - sugeruje że na Czarnej Akademii opracowano zarazę, która wyjątkowo zjadliwie atakowała Wranów, pracował nad nią ponoć Goe Veth
             - wykopaliska w Loc Muinne - albo przynajmniej czaszkę Wrana - zorganizował dla Cytadeli Filavandrel
-            - rasa ta była odporna na działanie magii, też z niej rzadko który przedstawiciel potrafił korzystać, wybitne jednostki odbijały zaklęcia lub przejmowały te już rzucone na własny użytek
+            - rasa ta była odporna na działanie magii, z której to rzadko który przedstawiciel potrafił korzystać, wybitne jednostki odbijały zaklęcia lub przejmowały te już rzucone na własny użytek
         - Risberg
             - składa się z Twierdzy i Cytadeli (w której się znajdujemy)
-            - zgadujemy że sama Twierdza znajduje się za współcześnie zapieczętowanymi drzwiami, obłożonymi zaklęciem krwi co najmniej ósmego poziomu
-            - Cytadela była prywatnymi komnatami Ortolana, Idarana lub Sorela
+            - zgadujemy, że sama Twierdza znajduje się za współcześnie zapieczętowanymi drzwiami, obłożonymi zaklęciem krwi co najmniej ósmego poziomu
+            - Cytadela była prywatnymi komnatami Ortolana, Idarrana lub Sorela
             - załoga:
                 - Ortolan
-                - Aksel Raby
+                - Axel Raby
                 - Biruta Icarti
-                - Algernon Guincamp
-                - Harlon Tzara
-                - Sorel De Gerlund
-                - Tarvix Sordoval
-                - Myles Theterevy
+                - Algernon Guingamp
+                - Harlan Tzara
+                - Sorel Degerlund
+                - Tarvix Sandoval
+                - Myles Trethevey
                 - Stucco Zangenis
                 - Stregobor
-                - Idaran Olivo
+                - Idarran z Ulivo
             - Oryginalnie pracowano tu nad stworzeniem "żołnierza idealnego":
                 - ciało miało być krzyżówką ogra i krasnoluda
                 - napędzany miał być duchem przyzwanym z innej płaszczyzny z pomocą goecji
             - Stworzono tu potwory nękające północ, takie jak:
-                - Idry - stworzone przez Idarana, miały zapewnić iż nie dojdzie do przeludnienia, proces tworzenia, eksperymentów i testów przetrwały co najmniej dwa osobniki rozlokowane gdzieś wśród królestw północy
+                - Idry - stworzone przez Idarrana, miały zapewnić, iż nie dojdzie do przeludnienia; proces tworzenia, eksperymentów i testów przetrwały co najmniej dwa osobniki rozlokowane gdzieś wśród królestw Północy
                 - Wilgozaury
                 - Skolopendromorfy
                 - Para-zeulgi
@@ -62,32 +67,38 @@
                 - Gębuzje (odnotowano zamówienie druidów z Mayeny)
             - Goecja:
                 - naturalna ewolucja technik tworzenia golemów
-                - techniki zostały mu zdradzone przez jakiś byt podczas podróży, jakie odbywał po innych płaszczyznach
-                - zbliżona do demonologii, jednak unika ryzyka przyzwania demona który jest zupełnie nieprzystosowany do funkcjonowania na naszej płaszczyźnie, umieszczając jego "duszę" w ciele
+                - techniki zostały Ortolanowi zdradzone przez jakiś byt podczas podróży, jakie odbywał po innych płaszczyznach
+                - zbliżona do demonologii, jednak unika ryzyka przyzwania demona, który jest zupełnie nieprzystosowany do funkcjonowania na naszej płaszczyźnie, umieszczając jego "duszę" w ciele
                 - cała wiedza została spisana w skutej łańcuchami księdze _Liber Goete_
             - rzeź na pogórzu Tukajskim, 1244 PP
                 - dokonał jej człowiek, w którym za życia spróbowano osadzić esencję demona przy pomocy goecji
                 - na żądanie Tissai de Vries, po tym jak "wynalazek" zmasakrował kilka wsi, Ortolan musiał ukarać zespół badawczy:
                     - Biruta wyjechała uczyć na Aretuze zanim nadszedł rozkaz
-                    - Algernon został wydalony, o dalszych losach nie ma notek
+                    - Algernon sam złożył rezygnację jeszcze przed ogłoszonym wyrokiem, o dalszych losach nie ma notek
                     - Tarvix został nauczycielem fechtunku na Ban Ard
                     - Miles został wydalony, o dalszych losach nie ma notek
                     - Sorel został w Cytadeli w areszcie domowym
             - ojcowie wiedźminów
-                - Idaran, twórca wielu potworów, mieszkał na Risbergu
+                - Idarran, twórca wielu potworów, mieszkał na Risbergu
                 - Alzur, kilka wież, ta w Mariborze i te na bagnach pod Wyzimą
                 - Malaspina, Kaer Seren
             - krąg teleportacyjny
-                - składa się z dwóch, nachodzących na siebie, jeden wygląda na starszy, możliwe że skonstruowany jeszcze przez Aen Drisichean, drugi współcześnie
-    - Ivar eksploruje:
+                - składa się z dwóch, nachodzących na siebie; jeden wygląda na starszy, możliwe że skonstruowany jeszcze przez Aen Drisichean, drugi jest bardziej współczesny
+    - Mając trochę czasu do zmarnowania nim wymyślimy co zrobić z Zangenisem, Ilana także myszkuje po podziemiach:
+        - przy kręgu znajduje szczątki co najmniej 5 wiedźminów; grzebie je na powierzchni wraz z prawie całym dobytkiem, zabiera jedynie fragmenty srebrnych mieczy (do przekucia na jeden cały)
+        - odwiedza ogród z "posągami" i fontanną
+        - zwłoki wężowej damy, podobnie jak te na zewnątrz, również zostały powołane do życia i niemrawo podążają w kierunku drzwi
+        - druidka próbuje wycisnąć z nich choć kroplę krwi, ale są już lekko zmumifikowane; odcina niewielki kawałek do dalszych badań, a Ivar rozprawia się z resztą zombie
+        - zabiera nienaruszony posąg kobiety do obozu
+    - Ivar, akompaniowany przez Ilanę, także nieco eksploruje:
+        - jego zdaniem mroczna, zła aura w okolicy pochodzi od Zangenisa
         - przypłacając wiedzę strasznym bólem głowy, opisuje lico wiszącego, marmurowego posągu królowej Aen Drisichean - wygląda łudząco podobnie do Eithne, a w oczy ma wprawione srebrne płytki, które odbijają i skupiają magiczne światło unoszące się przed posągiem
         - z pomocą Ilany odkopuje kolejne pomieszczenie za zbrojownią Aen Drisichean - kaplicę z czterema zbrojami (animowanymi, domyślamy się) i sarkofagiem
-        - zabiera Skovika na przeszpiegi, podczas gdy Ilana i Kajetan próbują uwolnić Zangenisa. Lodbroke wietrzy gacie na zewnątrz
+        - zabiera Skovika na przeszpiegi, podczas gdy Ilana i Kajetan próbują uwolnić Zangenisa; Lodbroke wietrzy gacie na zewnątrz
 3. W pułapce z Zangenisem
-    - mag ma w rękach swój sztylet i wypaloną świecę, podobną do tej jakiej użyliśmy by ściągnąć klątwę ze Skovika
-    - obsydianowa czaszka leżąca na stole odpowiada elfiej anatomii, konkretnie Aen Drisichean
-    - księgi, które Kajetan jest w stanie odszyfrować pomagając sobie magią, traktują o pograniczu nekromancji i goecji, sugerując że Zangenis mógł próbować przywrócić do "prawdziwego" życia kogoś kto umarł
-    - czaszka, sondowana zaklęciem wykrycia myśli, wciąga lub wprawia w niekontrolowany trans Ilanę i Kajetana
-    - znajdujemy się w labiryncie.
-    - orientując się z niemałym trudem jak się po nim poruszać, znajdujemy komnatę z dwoma zwierciadłami, w jednym z nich widać zakrwawionego Zangenisa
-    - z lustra wychodzi agresywny Minotaur
+    - Mag ma w rękach swój sztylet i wypaloną świecę, podobną do tej, której użyliśmy by ściągnąć klątwę ze Skovika.
+    - Obsydianowa czaszka leżąca na stole odpowiada elfiej anatomii, konkretnie Aen Drisichean
+    - Księgi, które Kajetan jest w stanie odszyfrować pomagając sobie magią, traktują o pograniczu nekromancji i goecji, sugerując, że Zangenis mógł próbować przywrócić do "prawdziwego" życia kogoś, kto umarł.
+    - Czaszka, sondowana zaklęciem wykrycia myśli, wciąga lub wprawia w niekontrolowany trans Ilanę i Kajetana.
+    - Znajdujemy się w labiryncie. Orientując się z niemałym trudem i pomocą sowy Kajetana jak się po nim poruszać, znajdujemy komnatę z dwoma zwierciadłami, w jednym z nich widać zakrwawionego Zangenisa.
+    - Z lustra wychodzi nam naprzeciw agresywny minotaur.
