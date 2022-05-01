@@ -4,7 +4,7 @@
     - Lodbroke, Skovik i Ilana wychodzą z Cytadeli zaczerpnąć świeżego powietrza. Wyspiarz zabiera z sobą szczątki trzeciego strażnika.
     - {Vildkaarl}Lodbroke rozpala ognisko, w którym spala mieszankę ziół i serce strażnika zero w ofierze swojemu bogowi. Zaprasza do rytuału Skovika i Ilanę.
     - Ilana w transie obserwuje zwierzęce formy mężczyzn, a także swoją własną, jakby dwoiły jej się w oczach różne, nałożone na siebie obrazy.
-    - Po fakcie Lodbroke oddala się w sobie tylko znanym kierunku. Zostałszy sam na sam ze Skovikiem, Ilana próbuje przyśnić się Finarrinowi: 
+    - Po fakcie Lodbroke oddala się w sobie tylko znanym kierunku. Zostawszy sam na sam ze Skovikiem, Ilana próbuje przyśnić się Finarrinowi: 
         - zastaje {mentora}Finarrin w jakiejś izbie w baszcie, za oknem szumi morze; z parapetu zerwał się kruk
         - {druid}Finnarin zasnął przy biurku zawalonym stertą papierów
         - "obudzony", nie do końca zdaje sobie sprawę, że to tylko sen i myśli, że Ilana faktycznie złożyła mu wizytę
