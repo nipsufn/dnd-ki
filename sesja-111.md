@@ -50,4 +50,4 @@
     - Pozostała dwójka wyspiarzy zmierza do portu. Odprowadzany przez Ilanę Skovik żegna się z nią i na odchodne zostawia dwa prezenty: już raz ofiarowaną drewnianą figurkę wilczycy oraz swój naszyjnik z kłami (w tym z jednym nowy, trofeum po ubiciu strażnika-niedźwiedzia). Zaskoczona {dziewczyna}Ilana zdejmuje z niego swój niedźwiedzi kieł i, przełożywszy na nowy rzemyk, zawiesza mu z powrotem na szyi.
     - Pożegnawszy wyspiarzy, Ilana czeka na Kajetana przed mostem na Thanedd. Zdecydowała się przyjąć zaproszenie na bal, bardziej z nudów i braku towarzystwa, niż zainteresowania.
     - W tym czasie Kajetan rozmawia z Elizą, matką Darii. Kobieta nic nie wiedziała o tym, co się wydarzyło. Przyjmuje wieści na tyle dobrze, na ile można by sobie życzyć, bardzo chce wiedzieć jaka przyszłość czeka córkę i kiedy będzie się mogła z nią zobaczyć.
-    - {Druidka}Ilana i {mag}Kajetan wybierają się do portu, odszukać Biały Bursztyn. Po drodze zatrzymują się odpowiednio kupić na ostatnią chwilę i odebrać wcześniej zamówione stroje.
+    - {Druidka}Ilana i {mag}Kajetan wybierają się do portu, odszukać Biały Bursztyn.
