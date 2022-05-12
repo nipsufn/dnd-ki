@@ -361,7 +361,7 @@
         - <a id='p_alfons' pattern='Alfons* Biberveldt*,Alfons*'>Alfons Biberveldt</a> - niziołek, sierota
             - wuj: Andy Biberveldt
     - Maribor
-        - <a id='p_kaspar' pattern='Kaspar*'>_Tymczasowy Burmistrz Nowobudowanego [Mariboru](Maribor) Z Łaski Regenta Dijkstry Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wysokości [Radowida](Radowid) Błogosławiony Imć Komendant_ Kaspar</a>
+        - <a id='p_kaspar' pattern='Kaspar*'>_Wysłannik Rady Regenckiej Redanii Były Tymczasowy Burmistrz Nowobudowanego Dwukroć Zniszczonego Mariboru Z Łaski Regenta Dijkstry Wielmożny Szanowny Pan Wybitny Funkcjonariusz Uniżony Sługa Jego Wysokości Foltesta Błogosławiony Imć Komendant_ Kaspar</a>
             - współpracownik Larsa
             - wysoko postawiony agent Redańskich Sił Specjalnych, możliwe że podwładny samego Dijkstry
             - wyruszył do Wyzimy niedługo po tym, jak pozbyliśmy się naszych listów gończych z Brugge
