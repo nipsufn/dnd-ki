@@ -8,7 +8,7 @@
     - Na samym środku sali, na głównej "scenie", leżą nieprzytomne trzy czarodziejki Wysokiej Rady Kapituły: Triss, Keira i Margarita.
     - Wiedźmini od razu przyskakują do czarodziejek. Ten białowłosy bada 3 ciała (albo raczej to, co się z nich ostało) - jedyne śmiertelne ofiary zajścia. Rzeczywiście, przypominają gulasz, jakby coś rozerwało ich od środka.
     - Na miejscu zjawia się Dorregaray - jedyny członek Wysokiej Rady, który nie brał udziału w obradach, gdyż nie interesuje go polityka.
-    - Nad chaosem zapanować próbuje Carduin, wspomagany przez Dorregaraya i Zawista.
+    - Nad chaosem zapanować próbuje Carduin, wspomagany przez Dorregaraya i Zavista.
     - Podczas chaotycznych rozmów zasłyszanych w krzątaninie dowiadujemy się nieco:
         - z relacji Niedamira i Stennisa wynika, że ten grubas Kaspar oraz dwóch innych przedstawicieli Redanii zaczęli się krztusić, po czym dosłownie wybuchli, niczym rozsadzone pomidory, pokrywając całą salę równą warstwą posoki; stało się to, gdy czarodziejki połączyły siły chcąc wywołać teleprojekcję
         - gdy wybuchli, czarodziejki zaniosły się krzykiem, a wszystkie meble i inne niezabezpieczone obiekty zaczęły latać w powietrzu i rozbijać się o ściany
@@ -42,7 +42,7 @@
         - po przekształceniu przez Radowida Zakonu Róży w Łowców Czarownic, Zygfryd został głową nowej organizacji - miał pod sobą Myrtona, jak i Menge
         - po śmierci Radowida uciekł z Redanii i słuch po nim zaginął; krąży pogłoska, że poluje na niego Myrton
     - Geralt wątpi, by Łowcy zaszyli się w Est Tayiar i tam prowadzili badania. To byłe siedliszcze samej Filippy Eilhart, kompleks podziemnych, piętrowych labiryntów, połączonych magicznymi portalami. Wiedźmin był tam, by rozmówić się z czarodziejką miast wydać ją w - jak to sam stwierdza - ręce psychopaty Radowida.
-    - Tymczasowa Rada przedstawia swój plan: wyprawa na północ odbędzie się zgodnie z oryginalnymi planami, mimo niedysponowania Triss Merigold, z korzyścią dla Tankreda Thyssenida oraz Niedamira z Caingorn. Ekipa wyruszy za dwa dni pod przewodnictwem czarodziejki o enigmatycznym imieniu Yenefer, która ponoć miała okazję zmagać się z Białym Zimnem (pustką wypełniającą przestrzeń między płaszczyznami, nie elfią bajędą) w przeszłości.
+    - Tymczasowa Rada przedstawia swój plan: wyprawa na północ odbędzie się zgodnie z oryginalnymi planami, mimo niedysponowania Triss Merigold, z korzyścią dla Tankreda Thyssenida oraz Niedamira z Caingorn. Ekipa wyruszy za dwa dni pod przewodnictwem czarodziejki o enigmatycznym imieniu Yennefer, która ponoć miała okazję zmagać się z Białym Zimnem (pustką wypełniającą przestrzeń między płaszczyznami, nie elfią bajędą) w przeszłości.
     - Czarodziejki z właściwej Rady będą wracać do siebie dłuższy czas.
     - W trybie natychmiastowym wiedźmini, goście Kapituły związani z magiczkami dotkniętymi wypadkiem, wyruszą na zwiad do Est Tayiar w poszukiwaniu źródła dwimerytowych kryształów. Możliwe, że zatrzymają się też w Novigradzie, by dowiedzieć się więcej o losach Zygfryda.
     - Kajetan, i co za tym idzie, Ilana, są proszeni o udział w wyprawie na północ - w chwili obecnej, dla skrytości i prędkości, zwiad do Trupiej Knieji zostanie zostawiony samym wiedźminom.
