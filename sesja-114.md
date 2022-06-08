@@ -13,7 +13,7 @@
     - Kajetan zasięga rady co do identyfikacji książeczki przypominającej pusty pamiętnik:
         - dzienniczek ujawnia swoją zawartość na hasło "Róża z Shaerrawedd"
         - na jej stronach właścicielka, elfka, opisuje pokrótce swoje życie w Górach Sinych, z których wyjechała do Dol Blatahanna
-        - sam Król (przed Stokrotką Dol Blatahanna rządził Filavandrel...) wysłał ją by śledzić kogoś kto błąkał się po Królestwach Północy
+        - sam Król (przed {Stokrotką}Francesca Dol Blatahanna rządził Filavandrel...) wysłał ją by śledzić kogoś kto błąkał się po Królestwach Północy
         - tułaczka śledzonego zakończyła się gdy złapali go Łowcy Czarownic
         - autorka odnalazła trop swojego celu w Ellander
         - w mieście zatrzymała się u artystki, która w zamian za gościnę obiecała _uwiecznić_ elfkę
