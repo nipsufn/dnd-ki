@@ -18,7 +18,7 @@
         - autorka odnalazła trop swojego celu w Ellander
         - w mieście zatrzymała się u artystki, która w zamian za gościnę obiecała _uwiecznić_ elfkę
         - w bezimiennym tułaczu trudno nie dopatrywać się Kajetana, a wspomniana artystka musiała być właścicielką domu pod którym znaleźliśmy kaplicę Lwiogłowego Pająka. Czyżby banshee które przykuto do ołtarza było autorem tej książeczki?
-    - Kajetan znajduje Yennefer w zamkniętej pracowni, elf ma powody przypuszczać, że czarodziejka używa nekromancji aby wyciągnąć jakieś informacje z resztek [tego hultaja]{Kaspar}
+    - Kajetan znajduje Yennefer w zamkniętej pracowni, elf ma powody przypuszczać, że czarodziejka używa nekromancji aby wyciągnąć jakieś informacje z resztek [tego hultaja](Kaspar)
         - "Ekspedycja" składa się z nieprzeliczonej ilości magów i uzdolnionych osób, mianowicie: Yennefer, Zavista, Ilany i Kajetana.
         - Zavist i Yennefer będą utrzymywać barierę chroniącą drużynę przed białym zimnem, Ilana i Kajetan będą utrzymywać utrzymujących przy życiu
         - w przestrzeni między płaszczyznami tułają się różne byty, niektóre możemy spotkać w Kaer Seren

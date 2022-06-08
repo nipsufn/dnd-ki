@@ -88,6 +88,7 @@
 - <a id='p_vilgefortz' pattern='Vilgefortz*,Vilgefortz* z Roggeveen'>✝ Vilgefortz</a> - człowiek, mag, członek Kapituły
     - miał immunitet od Dwimerytu
     - jedno z jego laboratoriów znajdowało się na w jednym z miast na północnym brzegu Pontaru
+- <a id='p_yennefer' pattern='Yennefer,Yennefer z Vengerbergu'>Yennefer z Vengerbergu</a> - człowiek, mag
 - <a id='p_zavist' pattern='Zavi*'>Zavist z Koviru</a> - człowiek, mag
     - kolega Stregobora
     - być może wie coś o Galawainie
