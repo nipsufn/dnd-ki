@@ -13,7 +13,7 @@
     - Wchodzimy przez bramę Młyńską w południowo-wschodniej części muru. Strażnicy - w przeciwieństwie do tych z Brugge - nie naprzykrzają się. Polecają jednak Kajetanowi zatrzymać się w dzielnicy nieludzi żeby nie prowokować zamieszek.
     - Z bramy trafiamy do Dzielnicy Handlowej, która przypomina istny jarmark.
     - Kiedy stoimy na targowisku, jakiś ciemno odziany mężczyzna w podróżnym stroju intensywnie się nam przygląda znad kufla piwa.
-    - Widzimy też kobietę sprzedającą świeże "Feinewed", kwiaty rosnące zwykle tylko w Dol Blatahanna, ziemi splamionej krwią starszych elfich rodów
+    - Widzimy też kobietę sprzedającą świeże "Feinewed", kwiaty rosnące zwykle tylko w Dol Blathanna, ziemi splamionej krwią starszych elfich rodów
     - Nie bardzo wiedząc gdzie lub jak znaleźć Ignę, udajemy się na poszukiwania wspomnianej przez strażnika świątyni Wiecznego Ognia.
     - Zachodzimy do Dzielnicy Klasztornej, gdzie znajdujemy niewielki szpital Proroka Lebiody. Wokół szpitala rośnie niewielki sad z licznymi drzewkami, a także pomniejszymi krzewinami. Pomiędzy krzewami kręcą się kobiety zbierające jakieś owoce.
     - Niestety, w Dzielnicy Klasztornej nie ma żadnej świątyni Zakonu. Zostajemy pokierowani do starego klasztoru na wzgórzu.

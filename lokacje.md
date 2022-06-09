@@ -1,6 +1,6 @@
 ## Lokacje
 - <a id='l_aedirn' pattern='Aedirn'>Aedirn</a>
-- <a id='l_dol_blatahanna' pattern='Dol Blatahanna'>Dol Blatahanna</a>
+- <a id='l_dol_blathanna' pattern='Dol Blathanna'>Dol Blathanna</a>
     - <a id='l_srebrne_wieze' pattern='Miast* Srebrnych Wież'>Miasto Srebrnych Wież</a>
 - <a id='l_brokilon' pattern='Brokilon*'>Brokilon</a>
     - las kawałek na południe od środkowego biegu Jarugi, od północy ograniczony pasmem górskim

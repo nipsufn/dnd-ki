@@ -36,4 +36,4 @@
     - {Druidka}Ilana nie sięga po broń, zamiast tego wdaje się w rozmowę. Rozpoznaje Lyssę - elfkę z Ellander, której pomogła w ataku na konwój w zamian za pomoc z ich strony.
     - Lyssa oferuje nam informacje o prawdziwym potworze, co prawda tutaj nikomu nie wadzącym, w zamian za obietnicę części nagrody i rozejście się w pokoju, bez dalszego mieszania w ich interesy.
     - Potwór grasuje u podnóża gór, na zachód od folwarku Biberweltów, przypomina trolla i ma ponad dwa metry, a jego morda przywodzi na myśl łysego niedźwiedzia. Jest szybki i zajadły w zwarciu, potrafi też włazić na drzewa.
-    - Elfka, znana też jako Firg Thearg, opowiada, że w Aedirn na tron powrócił Stennis, jako lennik Radowida. Władyka planuje uderzyć na Dol Blatahanna. Wiele komand Scoia'tael wyrusza w tamte strony, by bronić jedynych elfich ziem.
+    - Elfka, znana też jako Firg Thearg, opowiada, że w Aedirn na tron powrócił Stennis, jako lennik Radowida. Władyka planuje uderzyć na Dol Blathanna. Wiele komand Scoia'tael wyrusza w tamte strony, by bronić jedynych elfich ziem.

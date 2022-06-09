@@ -37,7 +37,7 @@
         - Na bal zostali zaproszeni:
             - członkowie Kapituły w randze Wolnego Maga lub wyższej
             - ma się pojawić nowo zrekrutowany Wolny Czarodziej, można powiedzieć nowy kolega Kajetana
-            - Dol Blatahanna będzie reprezentował Filavandrel Aen Fidhail ze Srebrnych Wież
+            - Dol Blathanna będzie reprezentował Filavandrel Aen Fidhail ze Srebrnych Wież
             - Aedirn reprezentuje Książę Stennis
             - Temerię - Królowa Adda
             - Wolne miasto Makaham - Starosta Brouver Hogg

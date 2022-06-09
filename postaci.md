@@ -215,8 +215,8 @@
 - Craag An
     - <a id="p_lanemin" pattern='Lanemin*'>✝ Lanemin Anef Aep</a> - elf, Aen Drisichean ocalony przez drużynę podczas przetrząsania Akademii; mag, nie ma zwierzęcych przymiotów
     - <a id="p_corneiros" pattern='Corneiros*'>✝ Corneiros Niosący Światło, Pierwszy Zaklinacz, Ostatni z Rycerzy</a> - elf, Aen Drisichean; mag, rozwijał rozumienie Mocy przez swój lud oraz inne światy
-- Dol Blatahanna
-    - <a id="p_francesca" pattern='Francesc*,Francesc* Findabair'>Francesca Findabair</a> - elf, mag, włada Dol Blatahanna
+- Dol Blathanna
+    - <a id="p_francesca" pattern='Francesc*,Francesc* Findabair'>Francesca Findabair</a> - elf, mag, włada Dol Blathanna
 - Ellander
     - <a id='p_alicja_harevard' pattern='Alicja'>Alicja Myrton-Harevard</a> - ; n/a;
         Podobno zaginiona dziedziczka swojego rodu, Slyz Myrton odnalazł i poślubił stając się diukiem Ellander
