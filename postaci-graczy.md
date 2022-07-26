@@ -65,7 +65,7 @@
             - Komponenty:
                 - 2 butelki nalewki z mandragory (18 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
-                - 4 porcji inkaustu
+                - 14 porcji inkaustu
                 - 5 porcja kadzidła
                 - 5 porcji kredy
             - Fundusze:
@@ -75,7 +75,6 @@
             - Magiczne różności:
                 - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
                 - 2 eliksiry [siły Lodowego Giganta](https://5e.tools/items.html#potion%20of%20frost%20giant%20strength_dmg)
-                - 1 eliksir [odporności na zimno](https://5e.tools/items.html#potion%20of%20cold%20resistance_dmg)
                 - [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
                 - [dekokt Alarunowy](https://5e.tools/items.html#potion%20of%20longevity_dmg)
                 - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
@@ -85,8 +84,9 @@
                 - 1 zwój do teleportacji
                 - 1 żeton do teleportacji
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
-                - 0 puste kryształy na zaklęcia
-                - 2 kryształy False Life (6 i 5ty poziom)
+                - 1 puste kryształy na zaklęcia
+                - 1 kryształy False Life (5ty poziom)
+                - różdżka / pióro z Zamku Niskiego Kaer Seren
                 - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
