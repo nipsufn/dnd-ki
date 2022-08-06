@@ -10,7 +10,6 @@ import re
 from multiprocessing import Pool, cpu_count
 
 from classes.console import Console
-from classes.ticktock import TickTock
 from classes.tag_creator import TagCreator
 from classes.tag_parser import TagParser
 from classes.gha import GHA
@@ -61,23 +60,19 @@ def create_tags_in_file(file_path, logger, prefix, tags):
     """wrap creating tags in files - multiprocess"""
     text = None
     with open(file_path, 'r', encoding='utf-8') as file_stream:
-        TickTock.tick()
         text = file_stream.read()
         tagger = TagCreator(tags, logger)
         tagger.feed(text)
-        write_time = TickTock.tock()
-        logger.debug('%s processing time: %.5f sec', file_path, write_time)
         tagger.close()
         text = tagger.text
     # pull pair id + textblock from tag_retriever object
     file_path = prefix + file_path
     with open(file_path, 'w', encoding='utf-8') as file_stream:
         file_stream.write(text)
-    return write_time
+    return
 
 def process_tags(files, logger, prefix=""):
     """process tags - find anchors and fix references"""
-    TickTock.tick()
     thread_no = cpu_count()
     logger.debug('CPU Core count: %d', thread_no)
     # pass 1 - generate tags
@@ -91,10 +86,7 @@ def process_tags(files, logger, prefix=""):
             tags.extend(thread.get())
 
     logger.debug('Tag count: %d', len(tags))
-    logger.info('Tag lookup time: %.5f sec', TickTock.tock())
     # pass 2 - use tags to create links
-    write_time = 0.0
-    TickTock.tick()
     with Pool(processes=thread_no) as thread_pool:
         threads = []
         for file_path in files:
@@ -102,14 +94,9 @@ def process_tags(files, logger, prefix=""):
             threads.append(
                 thread_pool.apply_async(
                     create_tags_in_file, (file_path, logger, prefix, tags,)))
-        for thread in threads:
-            write_time += thread.get()
-    logger.info('Tag creating sum time: %.5f sec', write_time)
-    logger.info('Tag creating real time: %.5f sec', TickTock.tock())
 
 def test_files(files, logger, prefix=""):
     """try to find malformed tags"""
-    TickTock.tick()
     tags = []
     refs = []
     feedback = ""
@@ -196,15 +183,12 @@ def test_files(files, logger, prefix=""):
                          + "; position: " + str(ref[2])
                          + "; file: " + ref[3]
                          + "\n")
-
-    logger.info('Test time: %.5f sec', TickTock.tock())
     if not feedback:
         return "Test passed!"
     return feedback
 
 def main():
     """wrap main for entrypoint"""
-    TickTock.tick()
     # argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("-dd", "--trace", "-vv",
@@ -235,7 +219,6 @@ def main():
     # code
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
-    logger.info('Initialization time: %.5f sec', TickTock.tock())
     feedback = test_files(files, logger)
     # comment test result on source repo and bail if needed
     GHA.git_setup()
