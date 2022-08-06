@@ -31,7 +31,7 @@
             - naszyjnik kul ognia, 3 nieodnawialne użycia
             - ⒶPierścień ochrony +1 do rzutów obronnych
             - <details>
-                <summary>ⒶPierścień Ucieczki</summary>
+                <summary>ⒶPierścień Ucieczki - rozładowany</summary>
                     This ring has 1 charge. When attuned you can use a charge to cast the spell Teleport without using a spell slot. For every 24 hours this ring spends within 15 ft of a Place of Power, the ring regains 1 charge.
                 </details>
             - <details>
@@ -66,7 +66,7 @@
                 - 2 butelki nalewki z mandragory (18 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
                 - 14 porcji inkaustu
-                - 5 porcja kadzidła
+                - 4 porcja kadzidła
                 - 5 porcji kredy
             - Fundusze:
                 - 105.1.1 gp
@@ -80,7 +80,7 @@
                 - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-                - 5 szkiełek odsłaniających przedmioty z innych płaszczyzn
+                - 3 szkiełek odsłaniających przedmioty z innych płaszczyzn
                 - 1 zwój do teleportacji
                 - 1 żeton do teleportacji
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
