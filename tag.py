@@ -11,7 +11,7 @@ from multiprocessing import Pool, cpu_count
 from classes.console import Console
 from classes.tag_creator import TagCreator
 from classes.tag_parser import TagParser
-from classes.gha import GHA
+import classes.gha as GHA
 from classes.test import Test
 
 def prepare_logger(args):
@@ -128,7 +128,6 @@ def main():
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
     feedback = Test.test_files(files)
-    #GHA.git_setup()
     if feedback != "Test passed!":
         if 'CI' in os.environ:
             GHA.git_comment('Parsing failed: ' + feedback)

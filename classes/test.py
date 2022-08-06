@@ -52,17 +52,18 @@ class Test:
         line_no = line[0]
         if re.search(r"<a id='[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?'",
                         line_text[match.start(0)-7:match.end(0)+6]):
-            tags.append([match.group(0), line_no, match.start(0),
-                            file_path])
+            tags.append({"tag": match.group(0), "line": line_no,
+                            "position": match.start(0), "path": file_path})
         elif re.search(r"<a id=\"[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?\"",
                         line_text[match.start(0)-7:match.end(0)+6]):
-            tags.append([match.group(0), line_no, match.start(0),
-                            file_path])
+            tags.append({"tag": match.group(0), "line": line_no,
+                            "position": match.start(0), "path": file_path})
         elif re.search(
                 r"\[[^\[^\]]+?\]\(#[a-zA-Z0-9](_[a-zA-Z0-9]+)+\)",
                 line_text[0:match.end(0)+1]):
-            refs.append([match.group(0), line_no, match.start(0),
-                            file_path, False])
+            refs.append({"tag": match.group(0), "line": line_no,
+                            "position": match.start(0), "path": file_path,
+                            "ok": False})
         elif re.search(r'<a href="[^"]+?(_[a-zA-Z0-9]+)+">.+?</a>',
                         line_text):
             return ""
@@ -134,25 +135,25 @@ class Test:
         """validate tags/refs"""
         for outer in enumerate(tags):
             for inner in enumerate(tags):
-                if inner[0] > outer[0] and outer[1][0] == inner[1][0]:
-                    feedback += ("Duplicate tag found: " + inner[1][0]
-                                + "; first: line: " + str(outer[1][1]+1)
-                                + ", position: " + str(outer[1][2])
-                                + ", file: " + outer[1][3]
-                                + "; subsequent: line: " + str(inner[1][1]+1)
-                                + ", position: " + str(inner[1][2])
-                                + ", file: " + inner[1][3]
+                if inner[0] > outer[0] and outer[1]["tag"] == inner[1]["tag"]:
+                    feedback += ("Duplicate tag found: " + inner[1]["tag"]
+                                + "; first: line: " + str(outer[1]["line"]+1)
+                                + ", position: " + str(outer[1]["position"])
+                                + ", file: " + outer[1]["path"]
+                                + "; subsequent: line: " + str(inner[1]["line"]+1)
+                                + ", position: " + str(inner[1]["position"])
+                                + ", file: " + inner[1]["path"]
                                 + "\n")
 
         for ref in refs:
             for tag in tags:
-                if ref[0] == tag[0]:
-                    ref[4] = True
-            if not ref[4]:
-                feedback += ("Reference malformed: " + ref[0]
-                            + "; line: " + str(ref[1]+1)
-                            + "; position: " + str(ref[2])
-                            + "; file: " + ref[3]
+                if ref["tag"] == tag["tag"]:
+                    ref["ok"] = True
+            if not ref["ok"]:
+                feedback += ("Reference malformed: " + ref["tag"]
+                            + "; line: " + str(ref["line"]+1)
+                            + "; position: " + str(ref["position"])
+                            + "; file: " + ref["path"]
                             + "\n")
 
         return feedback
