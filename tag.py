@@ -65,8 +65,8 @@ def create_tags_in_file(file_path, logger, prefix, tags):
         text = file_stream.read()
         tagger = TagCreator(tags, logger)
         tagger.feed(text)
-        logger.debug('%s processing time: %.5fsec', file_path, TickTock.tock())
         write_time = TickTock.tock()
+        logger.debug('%s processing time: %.5f sec', file_path, write_time)
         tagger.close()
         text = tagger.text
     # pull pair id + textblock from tag_retriever object
@@ -91,7 +91,7 @@ def process_tags(files, logger, prefix=""):
             tags.extend(thread.get())
 
     logger.debug('Tag count: %d', len(tags))
-    logger.info('Tag lookup time: %.5fsec', TickTock.tock())
+    logger.info('Tag lookup time: %.5f sec', TickTock.tock())
     # pass 2 - use tags to create links
     write_time = 0.0
     TickTock.tick()
@@ -104,11 +104,12 @@ def process_tags(files, logger, prefix=""):
                     create_tags_in_file, (file_path, logger, prefix, tags,)))
         for thread in threads:
             write_time += thread.get()
-    logger.info('Tag creating sum time: %.5fsec', write_time)
-    logger.info('Tag creating real time: %.5fsec', TickTock.tock())
+    logger.info('Tag creating sum time: %.5f sec', write_time)
+    logger.info('Tag creating real time: %.5f sec', TickTock.tock())
 
-def test_files(files, prefix=""):
+def test_files(files, logger, prefix=""):
     """try to find malformed tags"""
+    TickTock.tick()
     tags = []
     refs = []
     feedback = ""
@@ -196,6 +197,7 @@ def test_files(files, prefix=""):
                          + "; file: " + ref[3]
                          + "\n")
 
+    logger.info('Test time: %.5f sec', TickTock.tock())
     if not feedback:
         return "Test passed!"
     return feedback
@@ -233,8 +235,8 @@ def main():
     # code
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
-    logger.info('Initialization time: %.5fsec', TickTock.tock())
-    feedback = test_files(files)
+    logger.info('Initialization time: %.5f sec', TickTock.tock())
+    feedback = test_files(files, logger)
     # comment test result on source repo and bail if needed
     GHA.git_setup()
     GHA.git_comment(feedback)
@@ -249,7 +251,7 @@ def main():
         commit_message = GHA.git_get_commit()
         GHA.git_clone('nipsufn/dnd-ki')
     process_tags(files, logger, prefix)
-    feedback = test_files(files, prefix)
+    feedback = test_files(files, logger, prefix)
     if feedback != "Test passed!":
         if 'CI' in os.environ:
             GHA.git_comment('Parsing failed: ' + feedback)

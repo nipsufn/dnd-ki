@@ -16,7 +16,7 @@ class TagParser(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         """override partent method - assemble list of id, regex 1 and regex 2"""
-        #self.__logger.trace("tag  %s", tag)
+        self.__logger.trace("tag  %s", tag)
         if tag != "a":
             return
         attr_dict = dict(attrs)
@@ -34,8 +34,7 @@ class TagParser(HTMLParser):
                 regex = regex.replace(r"*", r"\w{0,7}")
             else:
                 regex = attr_dict['regex']
-            regex_usr = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + regex + r")\)?")
-            regex_std = re.compile(r"([ (\"])(" + regex + r")([ ,.)?!:;\"'\n])")
-            self.tags.append([attr_dict['id'], regex_usr, regex_std])
+            regex_std = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + regex + r")\)?|(?<=[ (\"])(" + regex + r")(?=[ ,.)?!:;\"'\n])")
+            self.tags.append([attr_dict['id'], regex_std])
         else:
             return

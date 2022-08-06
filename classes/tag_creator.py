@@ -29,14 +29,9 @@ class TagCreator(HTMLParser):
 
     def handle_data(self, data):
         """override partent method - substitute and store for reassembly"""
-        #self.__logger.trace("data %s", data)
+        self.__logger.trace("data %s", data)
         if len(self.current_html_tag) == 0:
             for pair in self.tags:
-                #all user-tags `{whatever}Actual Name` or `[whatever](Actual Name)`
-                substitute_user = r"[\1](#" + pair[0] + r")"
+                substitute_user = r"[\1\3](#" + pair[0] + r")"
                 data = pair[1].sub(substitute_user, data)
-
-                #all standard tags unless it is already tagged [] or in between ><
-                substitute_std = r"\1[\2](#" + pair[0] + r")\3"
-                data = pair[2].sub(substitute_std, data)
         self.text += data

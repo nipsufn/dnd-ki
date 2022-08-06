@@ -63,7 +63,7 @@ def create_tags_in_file(file_path, logger, prefix, tags):
         text = file_stream.read()
         tagger = TagCreator(tags, logger)
         tagger.feed(text)
-        logger.debug('%s processing time: %.5fsec', file_path, TickTock.tock())
+        logger.debug('%s processing time: %.5f sec', file_path, TickTock.tock())
         write_time = TickTock.tock()
         tagger.close()
         text = tagger.text
@@ -83,7 +83,7 @@ def process_tags(files, logger, prefix=""):
         tags.extend(parse_tags_in_file(file_path, logger))
 
     logger.debug('Tag count: %d', len(tags))
-    logger.info('Tag lookup time: %.5fsec', TickTock.tock())
+    logger.info('Tag lookup time: %.5f sec', TickTock.tock())
     # pass 2 - use tags to create links
     oldtock = TickTock.tock()
     write_time = 0.0
@@ -91,16 +91,17 @@ def process_tags(files, logger, prefix=""):
     for file_path in files:
         logger.debug('Tag create for file: %s', file_path)
         write_time += create_tags_in_file(file_path, logger, prefix, tags)
-    logger.info('Tag creating sum time: %.5fsec', write_time)
-    logger.info('Tag creating real time: %.5fsec', write_time + oldtock)
+    logger.info('Tag creating sum time: %.5f sec', write_time)
+    logger.info('Tag creating real time: %.5f sec', write_time + oldtock)
 
-def test_files(files, prefix=""):
+def test_files(files, logger, prefix=""):
     """try to find malformed tags"""
     tags = []
     refs = []
     feedback = ""
 
     for file_path in files:
+        logger.trace("Testing: %s", file_path)
         with open(prefix + file_path, 'r', encoding='utf-8') as file_stream:
             balance = [0 for x in range(7)]
             merge_conflict = False
@@ -219,8 +220,8 @@ def main():
     # code
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
-    logger.info('Initialization time: %.5fsec', TickTock.tock())
-    feedback = test_files(files)
+    logger.info('Initialization time: %.5f sec', TickTock.tock())
+    feedback = test_files(files, logger)
     # comment test result on source repo and bail if needed
     GHA.git_setup()
     GHA.git_comment(feedback)
@@ -235,7 +236,7 @@ def main():
         commit_message = GHA.git_get_commit()
         GHA.git_clone('nipsufn/dnd-ki')
     process_tags(files, logger, prefix)
-    feedback = test_files(files, prefix)
+    feedback = test_files(files, logger, prefix)
     if feedback != "Test passed!":
         if 'CI' in os.environ:
             GHA.git_comment('Parsing failed: ' + feedback)
@@ -245,7 +246,7 @@ def main():
     else:
         if 'CI' in os.environ:
             GHA.git_dir = os.environ['PWD'] + '/' + prefix
-            # GHA.git_setup()
+            GHA.git_setup()
             GHA.git_add('*.md')
             GHA.git_commit_all('Parsed: ' + commit_message)
             GHA.git_unbork_gha_root('nipsufn/dnd-ki')
