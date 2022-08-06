@@ -1,4 +1,4 @@
 package-lock.json
 __pycache__
-local
+local/*.md
 tag_singlethread.prof

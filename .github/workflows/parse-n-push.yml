@@ -16,7 +16,7 @@ jobs:
       - name: Tag files
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ./tag.py -d
+        run: ./tag.py
       - name: Commit tagged files
         uses: stefanzweifel/git-auto-commit-action@v4
         if: ${{ success() }}
