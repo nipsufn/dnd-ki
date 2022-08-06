@@ -94,6 +94,8 @@ def process_tags(files, logger, prefix=""):
             threads.append(
                 thread_pool.apply_async(
                     create_tags_in_file, (file_path, logger, prefix, tags,)))
+        for thread in threads:
+            thread.get()
 
 def test_files(files, logger, prefix=""):
     """try to find malformed tags"""
@@ -220,19 +222,16 @@ def main():
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
     feedback = test_files(files, logger)
-    # comment test result on source repo and bail if needed
     GHA.git_setup()
-    GHA.git_comment(feedback)
     if feedback != "Test passed!":
+        if 'CI' in os.environ:
+            GHA.git_comment('Parsing failed: ' + feedback)
         for line in feedback.splitlines():
             logger.error(line)
         sys.exit(1)
     prefix = "local/"
-    commit_message = ""
     if 'CI' in os.environ:
-        prefix = "dnd-ki/"
-        commit_message = GHA.git_get_commit()
-        GHA.git_clone('nipsufn/dnd-ki')
+        prefix = "parsed/"
     process_tags(files, logger, prefix)
     feedback = test_files(files, logger, prefix)
     if feedback != "Test passed!":
@@ -241,18 +240,8 @@ def main():
         for line in feedback.splitlines():
             logger.error(line)
         sys.exit(1)
-    else:
-        if 'CI' in os.environ:
-            GHA.git_dir = os.environ['PWD'] + '/' + prefix
-            # GHA.git_setup()
-            GHA.git_add('*.md')
-            GHA.git_commit_all('Parsed: ' + commit_message)
-            GHA.git_unbork_gha_root('nipsufn/dnd-ki')
-            commit = GHA.git_push()
-            GHA.git_comment(feedback, commit, 'nipsufn/dnd-ki')
-        else:
-            logger.info(feedback)
-        sys.exit(0)
+    logger.info(feedback)
+    sys.exit(0)
 
 if __name__ == "__main__":
     main()

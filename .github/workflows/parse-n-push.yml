@@ -1,16 +1,27 @@
+name: Parse tags
 on:
   push:
     branches:
       - master
 jobs:
   default:
+    name: Parse tags
     runs-on: ubuntu-latest
     environment: master
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: run the script
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Tag files
         env:
-          GH_USER: ${{ secrets.GH_USER }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: ./tag.py
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./tag.py -d
+      - name: Commit tagged files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        if: ${{ success() }}
+        with:
+          commit_message: Parse tags
+          branch: parsed
+          create_branch: true
+          push_options: '--force'

@@ -152,7 +152,6 @@ class GHA:
                                 + repo_slug + '/commits/'
                                 + commit.rstrip() + '/comments',
                                 json={"body": message},
-                                auth=requests.auth.HTTPBasicAuth(
-                                    os.environ['GH_USER'],
-                                    os.environ['GH_TOKEN']))
+                                headers={"authorization":"Bearer " + os.environ['GH_TOKEN']}
+            )
         return request.ok
