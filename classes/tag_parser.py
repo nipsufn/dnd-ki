@@ -34,7 +34,8 @@ class TagParser(HTMLParser):
                 regex = regex.replace(r"*", r"\w{0,7}")
             else:
                 regex = attr_dict['regex']
-            regex_std = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + regex + r")\)?|(?<=[ (\"])(" + regex + r")(?=[ ,.)?!:;\"'\n])")
+            regex_std = re.compile(r"[\{\[]([ \"\w]+?)[\}\]]\(?(" + regex + r")\)?"
+                r"|(?<=[ (\"])(" + regex + r")(?=[ ,.)?!:;\"'\n])")
             self.tags.append([attr_dict['id'], regex_std])
         else:
             return
