@@ -7,136 +7,98 @@ from tokenize import String
 
 class Test:
     """Test journal files"""
-    __logger = None
-    @staticmethod
-    def __init__(loglevel=logging.WARN):
-        """constructor, set up logging including extra loglevel"""
-        logging.TRACE = 5
-        logging.addLevelName(5, "TRACE")
-        Test.__logger = logging.getLogger('test')
-        setattr(Test.__logger, 'trace',
-                lambda *args: Test.__logger.log(5, *args))
 
-        log_handler = logging.StreamHandler()
-        log_handler.setFormatter(
-            logging.Formatter(
-                '%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
-        Test.__logger.addHandler(log_handler)
-        Test.__logger.setLevel(loglevel)
+    def __detect_balance(self, balance: dict, line: String) -> None:
+        balance['"'] += line.count('"')
+        balance['<'] += line.count('<')
+        balance['>'] += line.count('>')
+        balance['('] += line.count('(')
+        balance[')'] += line.count(')')
+        balance['['] += line.count('[')
+        balance[']'] += line.count(']')
 
-    @staticmethod
-    def __detect_regex_negative_lookbehind(line_text) -> int:
-        """check if line contains lookbehind"""
-        if re.search(r"\(\?<!", line_text):
-            return -1
-        return 0
+        if re.search(r"\(\?<!", line):
+            balance['<'] -= 1
+        if re.match(r"^(\t| )*>", line):
+            balance['>'] -= 1
 
-    @staticmethod
-    def __detect_merge_conflict(line_text) -> bool:
+    def __detect_merge_conflict(self, line_text) -> bool:
         """check if line contains merge conflict"""
         if re.match(r"[<>=]{7}", line_text):
             return True
         return False
 
-    @staticmethod
-    def __detect_blockquotes(line_text) -> int:
-        """check if line contains blockquote"""
-        if re.match(r"^(\t| )*>", line_text):
-            return -1
-        return 0
-
-    @staticmethod
-    def __detect_malformed_tag(tags, refs, line, match, file_path) -> String:
+    def __parse_tags_and_refs(self , line, match, file_path) -> None:
         """detect tags/references that do not match format while extracting them"""
         line_text = line[1]
         line_no = line[0]
         if re.search(r"<a id='[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?'",
                         line_text[match.start(0)-7:match.end(0)+6]):
-            tags.append({"tag": match.group(0), "line": line_no,
+            self.__tags.append({"tag": match.group(0), "line": line_no,
                             "position": match.start(0), "path": file_path})
         elif re.search(r"<a id=\"[a-zA-Z0-9](_[a-zA-Z0-9]+?)+?\"",
                         line_text[match.start(0)-7:match.end(0)+6]):
-            tags.append({"tag": match.group(0), "line": line_no,
+            self.__tags.append({"tag": match.group(0), "line": line_no,
                             "position": match.start(0), "path": file_path})
         elif re.search(
                 r"\[[^\[^\]]+?\]\(#[a-zA-Z0-9](_[a-zA-Z0-9]+)+\)",
                 line_text[0:match.end(0)+1]):
-            refs.append({"tag": match.group(0), "line": line_no,
+            self.__refs.append({"tag": match.group(0), "line": line_no,
                             "position": match.start(0), "path": file_path,
                             "ok": False})
         elif re.search(r'<a href="[^"]+?(_[a-zA-Z0-9]+)+">.+?</a>',
                         line_text):
-            return ""
+            return
         elif re.search(r"\[[^\[^\]]+?\]\(http.+?\)",
                         line_text[0:match.end(0)+1]):
-            return ""
+            return
         else:
-            return ("Tag or reference malformed: "
+            self.__feedback += ("Tag or reference malformed: "
                         + match.group(0)
                         + "; line: " + str(line_no+1)
                         + "; position: " + str(match.start(0))
                         + "; file: " + file_path + "\n")
-        return ""
 
-    @staticmethod
-    def __check_balance(balance, file_path) -> String:
+    def __check_balance(self, balance, file_path) -> None:
         """describe balance"""
         if balance['"']%2 != 0:
-            return "Unmatched \" in file: " + file_path + "\n"
+            self.__feedback += "Unmatched \" in file: " + file_path + "\n"
         if balance['<'] != balance['>']:
-            return "Unmatched <> in file: " + file_path + "\n"
+            self.__feedback += "Unmatched <> in file: " + file_path + "\n"
         if balance['('] != balance[')']:
-            return "Unmatched () in file: " + file_path + "\n"
+            self.__feedback += "Unmatched () in file: " + file_path + "\n"
         if balance['['] != balance[']']:
-            return "Unmatched [] in file: " + file_path + "\n"
-        return ""
+            self.__feedback += "Unmatched [] in file: " + file_path + "\n"
 
-    @staticmethod
-    def __check_merge_conflict(merge_conflict, file_path) -> String:
+    def __check_merge_conflict(self, merge_conflict, file_path) -> String:
         """describe merge conflict"""
         if merge_conflict:
-            return "Merge conflict in file: " + file_path + "\n"
-        return ""
+            self.__feedback += "Merge conflict in file: " + file_path + "\n"
 
-    @staticmethod
-    def __validate_brackets_and_format(files, prefix):
+    def __validate_brackets_and_format(self, files, prefix) -> None:
         """validate brackets and tag/ref format"""
-        tags = []
-        refs = []
-        feedback = ""
         for file_path in files:
             with open(prefix + file_path, 'r', encoding='utf-8') as file_stream:
                 balance = dict.fromkeys(['"','<','>','(',')','[',']'], 0)
                 merge_conflict = False
                 for line in enumerate(file_stream):
-                    balance['"'] += line[1].count('"')
-                    balance['<'] += line[1].count('<')
-                    balance['>'] += line[1].count('>')
-                    balance['('] += line[1].count('(')
-                    balance[')'] += line[1].count(')')
-                    balance['['] += line[1].count('[')
-                    balance[']'] += line[1].count(']')
+                    self.__detect_balance(balance, line[1])
 
-                    balance['<'] += Test.__detect_regex_negative_lookbehind(line[1])
-                    merge_conflict = Test.__detect_merge_conflict(line[1])
-                    balance['>'] += Test.__detect_blockquotes(line[1])
+                    merge_conflict = self.__detect_merge_conflict(line[1])
 
                     for match in re.finditer(r"[a-zA-Z0-9](_[a-zA-Z0-9]+)+",
                                             line[1]):
-                        feedback += Test.__detect_malformed_tag(tags, refs, line,
-                            match, file_path)
+                        self.__parse_tags_and_refs(line, match, file_path)
 
-                feedback += Test.__check_balance(balance, file_path)
-                feedback += Test.__check_merge_conflict(merge_conflict, file_path)
-        return (tags, refs, feedback)
+                self.__check_balance(balance, file_path)
+                self.__check_merge_conflict(merge_conflict, file_path)
 
-    @staticmethod
-    def __validate_tags_and_refs(tags, refs, feedback):
+    def __validate_tags(self) -> None:
         """validate tags/refs"""
-        for outer in enumerate(tags):
-            for inner in enumerate(tags):
+        for outer in enumerate(self.__tags):
+            for inner in enumerate(self.__tags):
                 if inner[0] > outer[0] and outer[1]["tag"] == inner[1]["tag"]:
-                    feedback += ("Duplicate tag found: " + inner[1]["tag"]
+                    self.__feedback += ("Duplicate tag found: " + inner[1]["tag"]
                                 + "; first: line: " + str(outer[1]["line"]+1)
                                 + ", position: " + str(outer[1]["position"])
                                 + ", file: " + outer[1]["path"]
@@ -145,21 +107,19 @@ class Test:
                                 + ", file: " + inner[1]["path"]
                                 + "\n")
 
-        for ref in refs:
-            for tag in tags:
+    def __validate_refs(self) -> None:
+        for ref in self.__refs:
+            for tag in self.__tags:
                 if ref["tag"] == tag["tag"]:
                     ref["ok"] = True
             if not ref["ok"]:
-                feedback += ("Reference malformed: " + ref["tag"]
+                self.__feedback += ("Reference malformed: " + ref["tag"]
                             + "; line: " + str(ref["line"]+1)
                             + "; position: " + str(ref["position"])
                             + "; file: " + ref["path"]
                             + "\n")
 
-        return feedback
-
-    @staticmethod
-    def test_files(files, prefix=""):
+    def __init__(self, files, prefix="", loglevel=logging.WARN):
         """
         validate files against:
         - unbalanced brackets, quotes etc.
@@ -167,19 +127,35 @@ class Test:
         - tags that do not conform to format
         - refs that do not conform to format
         """
-        (tags, refs, feedback) = Test.__validate_brackets_and_format(files, prefix)
-        Test.__validate_tags_and_refs(tags, refs, feedback)
+        logging.TRACE = 5
+        logging.addLevelName(5, "TRACE")
+        self.__logger = logging.getLogger('test')
+        setattr(self.__logger, 'trace',
+                lambda *args: self.__logger.log(5, *args))
 
-        if not feedback:
+        log_handler = logging.StreamHandler()
+        log_handler.setFormatter(
+            logging.Formatter(
+                '%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+        self.__logger.addHandler(log_handler)
+        self.__logger.setLevel(loglevel)
+
+        self.__feedback = ""
+        self.__tags = []
+        self.__refs = []
+        self.__validate_brackets_and_format(files, prefix)
+        self.__validate_tags()
+        self.__validate_refs()
+
+    def get_feedback(self):
+        """get feedback"""
+        if not self.__feedback:
             return "Test passed!"
-        return feedback
+        return self.__feedback
 
-    @staticmethod
-    def set_log_level(loglevel):
+    def set_log_level(self, loglevel):
         """set loglevel
         Args:
             loglevel (int): loglevel to set
         """
-        if not Test.__logger:
-            Test.__init__()
-        Test.__logger.setLevel(loglevel)
+        self.__logger.setLevel(loglevel)

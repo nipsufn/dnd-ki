@@ -8,7 +8,6 @@ import argparse
 import logging
 from multiprocessing import Pool, cpu_count
 
-from classes.console import Console
 from classes.tag_creator import TagCreator
 from classes.tag_parser import TagParser
 import classes.gha as GHA
@@ -28,13 +27,10 @@ def prepare_logger(args):
     logger.addHandler(log_handler)
     if args.trace:
         logger.setLevel(logging.TRACE)
-        Console.set_log_level(logging.TRACE)
     elif args.debug:
         logger.setLevel(logging.DEBUG)
-        Console.set_log_level(logging.DEBUG)
     else:
         logger.setLevel(logging.INFO)
-        Console.set_log_level(logging.INFO)
     return logger
 
 def prepare_files(args, whitelist, logger):
@@ -127,7 +123,7 @@ def main():
     # code
     logger = prepare_logger(args)
     files = prepare_files(args, whitelist, logger)
-    feedback = Test.test_files(files)
+    feedback = Test(files).get_feedback()
     if feedback != "Test passed!":
         if 'CI' in os.environ:
             GHA.git_comment('Parsing failed: ' + feedback)
@@ -138,7 +134,7 @@ def main():
     if 'CI' in os.environ:
         prefix = "parsed/"
     process_tags(files, logger, prefix)
-    feedback = Test.test_files(files, prefix)
+    feedback = Test(files, prefix).get_feedback()
     if feedback != "Test passed!":
         if 'CI' in os.environ:
             GHA.git_comment('Parsing failed: ' + feedback)

@@ -27,4 +27,4 @@
     - starsi magowie zaczynają zamykać biały portal - zgadują że czarny może należeć do Stregobora i poszło z nim coś nie tak.
     - Ilana broni resztę drużyny przed potężnym żywiołakiem lodu - piramidą - którego ostatecznie udaje jej się zrzucić z stromego zbocza
     - Kajetan odpędza co mniejsze bestie przedzierające się przez zamykany właśnie portal
-    - czarodziejom udaje się zamknąć przejście do Białego Zimna. Stoimy przed ustabilizowanym czarnym portalem.<
+    - czarodziejom udaje się zamknąć przejście do Białego Zimna. Stoimy przed ustabilizowanym czarnym portalem.
