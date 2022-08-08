@@ -4,7 +4,7 @@
 import os
 import requests
 
-def git_comment(message, commit=None, repo_slug=None):
+def git_comment(message, commit=None, repo_slug=None) -> bool:
     """post a comment on a commit
     Optional args will be pulled from CI Environment variables if possible
     Args:

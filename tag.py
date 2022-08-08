@@ -13,51 +13,48 @@ from classes.tag_parser import TagParser
 import classes.gha as GHA
 from classes.test import Test
 
-def prepare_logger(args):
+__logger = logging.getLogger('journal_tagger')
+
+def prepare_logger(args) -> None:
     """create global logger, add trace loglevel"""
+
     logging.TRACE = 5
     logging.addLevelName(5, "TRACE")
-    logger = logging.getLogger('journal_tagger')
-    setattr(logger, 'trace', lambda *args: logger.log(5, *args))
-
-    log_handler = logging.StreamHandler()
-    log_handler.setFormatter(
-        logging.Formatter(
-            '%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
-    logger.addHandler(log_handler)
+    logging.trace = lambda *args: logging.log(5, *args)
+    logging.Logger.trace = lambda self, *args: logging.log(5, *args)
+    level = logging.INFO
     if args.trace:
-        logger.setLevel(logging.TRACE)
+        level = logging.TRACE
     elif args.debug:
-        logger.setLevel(logging.DEBUG)
-    else:
-        logger.setLevel(logging.INFO)
-    return logger
+        level = logging.DEBUG
 
-def prepare_files(args, whitelist, logger):
+    logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=level)
+
+def prepare_files(args, whitelist, ):
     """read directory to create file list, exclude some and sort by size"""
     whitelist.extend(args.ignore)
     with open(".gitignore", 'r', encoding='utf-8') as gitignore:
         whitelist.extend(gitignore.read().splitlines())
-    logger.debug('Ignored files: %s', whitelist)
+    __logger.debug('Ignored files: %s', whitelist)
     files = [f for f in os.listdir() if os.path.isfile(f)]
     files = list(set(files) - set(whitelist))
     files = sorted(files, key = lambda x: os.stat(x).st_size, reverse = True)
-    logger.debug('List of files: %s', files)
+    __logger.info('List of files: %s', files)
     return files
 
-def parse_tags_in_file(file_path, logger):
+def parse_tags_in_file(file_path):
     """wrap parsing files for tags - multiprocess"""
-    tag_retriever = TagParser(logger)
+    tag_retriever = TagParser()
     with open(file_path, 'r', encoding='utf-8') as file_stream:
         tag_retriever.feed(file_stream.read())
     return tag_retriever.tags
 
-def create_tags_in_file(file_path, logger, prefix, tags):
+def create_tags_in_file(file_path, prefix, tags):
     """wrap creating tags in files - multiprocess"""
     text = None
     with open(file_path, 'r', encoding='utf-8') as file_stream:
         text = file_stream.read()
-        tagger = TagCreator(tags, logger)
+        tagger = TagCreator(tags)
         tagger.feed(text)
         tagger.close()
         text = tagger.text
@@ -65,29 +62,29 @@ def create_tags_in_file(file_path, logger, prefix, tags):
     with open(file_path, 'w', encoding='utf-8') as file_stream:
         file_stream.write(text)
 
-def process_tags(files, logger, prefix=""):
+def process_tags(files, prefix=""):
     """process tags - find anchors and fix references"""
-    logger.debug('CPU Core count: %d', cpu_count())
+    __logger.debug('CPU Core count: %d', cpu_count())
     thread_no = cpu_count()
     # pass 1 - generate tags
     tags = []
     with Pool(processes=thread_no) as thread_pool:
         threads = []
         for file_path in files:
-            logger.debug('Tag parse process added to pool for file: %s', file_path)
-            threads.append(thread_pool.apply_async(parse_tags_in_file, (file_path, logger,)))
+            __logger.debug('Tag parse process added to pool for file: %s', file_path)
+            threads.append(thread_pool.apply_async(parse_tags_in_file, (file_path,)))
         for thread in threads:
             tags.extend(thread.get())
 
-    logger.debug('Tag count: %d', len(tags))
+    __logger.debug('Tag count: %d', len(tags))
     # pass 2 - use tags to create links
     with Pool(processes=thread_no) as thread_pool:
         threads = []
         for file_path in files:
-            logger.debug('Tag create process added to pool for file: %s', file_path)
+            __logger.debug('Tag create process added to pool for file: %s', file_path)
             threads.append(
                 thread_pool.apply_async(
-                    create_tags_in_file, (file_path, logger, prefix, tags,)))
+                    create_tags_in_file, (file_path, prefix, tags,)))
         for thread in threads:
             thread.get()
 
@@ -121,27 +118,28 @@ def main():
         ]
 
     # code
-    logger = prepare_logger(args)
-    files = prepare_files(args, whitelist, logger)
+    prepare_logger(args)
+    files = prepare_files(args, whitelist)
     feedback = Test(files).get_feedback()
     if feedback != "Test passed!":
         if 'CI' in os.environ:
             GHA.git_comment('Parsing failed: ' + feedback)
         for line in feedback.splitlines():
-            logger.error(line)
+            __logger.error(line)
         sys.exit(1)
     prefix = "local/"
     if 'CI' in os.environ:
         prefix = "parsed/"
-    process_tags(files, logger, prefix)
+
+    process_tags(files, prefix)
     feedback = Test(files, prefix).get_feedback()
     if feedback != "Test passed!":
         if 'CI' in os.environ:
             GHA.git_comment('Parsing failed: ' + feedback)
         for line in feedback.splitlines():
-            logger.error(line)
+            __logger.error(line)
         sys.exit(1)
-    logger.info(feedback)
+    __logger.info(feedback)
     sys.exit(0)
 
 if __name__ == "__main__":

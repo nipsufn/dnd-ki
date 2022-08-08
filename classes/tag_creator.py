@@ -1,17 +1,17 @@
 # tag_creator.py
 """Module rewriting detected tag strings with actual tags
 """
+import logging
 from html.parser import HTMLParser
 
 class TagCreator(HTMLParser):
     """substitute given re expr with Markdown anchor"""
-    __logger = None
-    def __init__(self, tags, logger):
+    def __init__(self, tags):
         """override parent constructor, set up and then call parent's constructor"""
         self.current_html_tag = []
         self.tags = tags
         self.text = ""
-        self.__logger = logger
+        self.__logger = logging.getLogger(type(self).__name__)
         super().__init__()
 
     def handle_starttag(self, tag, attrs):

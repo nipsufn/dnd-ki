@@ -1,22 +1,22 @@
 # tag_parser.py
 """Module detecting keywords to be used as tags
 """
+import logging
 import re
 from html.parser import HTMLParser
 
 class TagParser(HTMLParser):
     """find HTML anchors and create list of re expressions"""
-    __logger = None
-    def __init__(self, logger):
+    def __init__(self):
         """override parent constructor, set up and then call parent's constructor"""
         self.tags = []
         self.descriptions = []
-        self.__logger = logger
+        self.__logger = logging.getLogger(type(self).__name__)
         super().__init__()
 
     def handle_starttag(self, tag, attrs):
         """override partent method - assemble list of id, regex 1 and regex 2"""
-        self.__logger.trace("tag  %s", tag)
+        self.__logger.trace("tag " + tag)
         if tag != "a":
             return
         attr_dict = dict(attrs)

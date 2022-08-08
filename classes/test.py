@@ -7,7 +7,6 @@ from tokenize import String
 
 class Test:
     """Test journal files"""
-
     def __detect_balance(self, balance: dict, line: String) -> None:
         balance['"'] += line.count('"')
         balance['<'] += line.count('<')
@@ -79,6 +78,7 @@ class Test:
         """validate brackets and tag/ref format"""
         for file_path in files:
             with open(prefix + file_path, 'r', encoding='utf-8') as file_stream:
+                self.__logger.trace("file opened: " + file_path)
                 balance = dict.fromkeys(['"','<','>','(',')','[',']'], 0)
                 merge_conflict = False
                 for line in enumerate(file_stream):
@@ -119,7 +119,7 @@ class Test:
                             + "; file: " + ref["path"]
                             + "\n")
 
-    def __init__(self, files, prefix="", loglevel=logging.WARN):
+    def __init__(self, files, prefix=""):
         """
         validate files against:
         - unbalanced brackets, quotes etc.
@@ -127,20 +127,11 @@ class Test:
         - tags that do not conform to format
         - refs that do not conform to format
         """
-        logging.TRACE = 5
-        logging.addLevelName(5, "TRACE")
-        self.__logger = logging.getLogger('test')
-        setattr(self.__logger, 'trace',
-                lambda *args: self.__logger.log(5, *args))
-
-        log_handler = logging.StreamHandler()
-        log_handler.setFormatter(
-            logging.Formatter(
-                '%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
-        self.__logger.addHandler(log_handler)
-        self.__logger.setLevel(loglevel)
+        self.__logger = logging.getLogger(type(self).__name__)
 
         self.__feedback = ""
+        self.__prefix = prefix
+        self.__files = files
         self.__tags = []
         self.__refs = []
         self.__validate_brackets_and_format(files, prefix)
@@ -153,9 +144,8 @@ class Test:
             return "Test passed!"
         return self.__feedback
 
-    def set_log_level(self, loglevel):
-        """set loglevel
-        Args:
-            loglevel (int): loglevel to set
-        """
-        self.__logger.setLevel(loglevel)
+    def rerun(self):
+        """run tests again on the same set of files"""
+        self.__validate_brackets_and_format(self.__files, self.__prefix)
+        self.__validate_tags()
+        self.__validate_refs()
