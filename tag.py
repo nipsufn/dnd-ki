@@ -23,12 +23,26 @@ def prepare_logger(args) -> None:
     logging.trace = lambda *args: logging.log(5, *args)
     logging.Logger.trace = lambda self, *args: logging.log(5, *args)
     level = logging.INFO
+
+    level_str_to_int = {
+        'critical': logging.CRITICAL,
+        'fatal': logging.FATAL,
+        'error': logging.ERROR,
+        'warn': logging.WARNING,
+        'warning': logging.WARNING,
+        'info': logging.INFO,
+        'debug': logging.DEBUG,
+        'trace': logging.TRACE,
+    }
+    if args.loglevel:
+        level=level_str_to_int[args.loglevel]
     if args.trace:
         level = logging.TRACE
-    elif args.debug:
-        level = logging.DEBUG
+    if args.debug:
+        level=logging.DEBUG
 
-    logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=level)
+    logging.basicConfig(format='[%(asctime)s] %(levelname)s - %(processName)s/%(threadName)s - '
+        '%(pathname)s:%(lineno)d- %(name)s - %(message)s', level=level)
 
 def prepare_files(args, whitelist, ):
     """read directory to create file list, exclude some and sort by size"""
@@ -92,6 +106,9 @@ def main():
     """wrap main for entrypoint"""
     # argparse
     parser = argparse.ArgumentParser()
+    parser.add_argument("-l", "--loglevel", type=str,
+                        choices=['critical','error','warning','info','debug', 'trace'],
+                        help="set loglevel")
     parser.add_argument("-dd", "--trace", "-vv",
                         action="store_true", help="debug mode")
     parser.add_argument("-d", "--debug", "-v", "--verbose",

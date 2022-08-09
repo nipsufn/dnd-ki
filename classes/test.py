@@ -6,7 +6,7 @@ import logging
 from tokenize import String
 
 class Test:
-    """Test journal files"""
+    """count characters that should be in pairs"""
     def __detect_balance(self, balance: dict, line: String) -> None:
         balance['"'] += line.count('"')
         balance['<'] += line.count('<')
@@ -94,7 +94,7 @@ class Test:
                 self.__check_merge_conflict(merge_conflict, file_path)
 
     def __validate_tags(self) -> None:
-        """validate tags/refs"""
+        """validate tags"""
         for outer in enumerate(self.__tags):
             for inner in enumerate(self.__tags):
                 if inner[0] > outer[0] and outer[1]["tag"] == inner[1]["tag"]:
@@ -108,6 +108,7 @@ class Test:
                                 + "\n")
 
     def __validate_refs(self) -> None:
+        """validate refs"""
         for ref in self.__refs:
             for tag in self.__tags:
                 if ref["tag"] == tag["tag"]:
