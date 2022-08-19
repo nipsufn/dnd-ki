@@ -38,4 +38,4 @@
     - {Druidka}Ilana orientuje się, że wylądowała na polance w wyrębie. Pod warstwą puchu i zbitego śniegu zauważa taflę lodu z wtopionymi ciemniejszymi grudkami.
     - Maszerując natyka się na zwłoki drwala - są tak zmrożone, że niewielkie uderzenie sprawia, że się kruszą. Noszą też ślady nadgryzienia. Cokolwiek to było, miało dużo drobnych zębów. 
     - W okolicy widać też ślady walki. Na jednym z drzew ktoś wyrył informację o jakimś schronieniu niedaleko stąd.
-    - Zrezygnowany Kajetan próbuje bierze się za budowę igloo, kiedy nagle kątem oka zauważa drżące powietrze. Domyśla się magii maskującej jakiegoś potwora z Białego Zimna - wysyła w jego stronę jedną ze swoich flar.
+    - Zrezygnowany Kajetan bierze się za budowę igloo, kiedy nagle kątem oka zauważa drżące powietrze. Domyśla się magii maskującej jakiegoś potwora z Białego Zimna - wysyła w jego stronę jedną ze swoich flar.
