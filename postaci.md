@@ -49,9 +49,10 @@
     - zginęła w drugiej bitwie pod Sodden
 - <a id='p_lambert' pattern='Lamber*'>Lambert</a> - człowiek, wiedźmin
 - <a id='p_lyssa' pattern='Lyss*,Firg Thearg'>Lyssa, Firg Thearg</a> - elf, dowodzi komandem Scoia'tael
-- <a id='p_malaspina' pattern='Malaspin*'>Malaspina</a> - mag
-    - nauczyciel Alzura
-    - stworzył wiedźminów szkoły gryfa
+- <a id='p_malaspina' pattern='Malaspin*'>Kossimo Malaspina</a> - mag
+    - nauczyciel Alzura i Idarana
+    - z uczniami stworzył wiedźminów szkoły gryfa
+    - z pasji łowca smoków
 - <a id='p_margarita' pattern='Margari*,Margari* Laux-Antille'>Margarita Laux-Antille</a> - człowiek, mag, członek Nowej Kapituły
     - rektorka Aretuzy
 - <a id='p_mirna' pattern='Mirn*'>Mirna</a> - człowiek; druid
