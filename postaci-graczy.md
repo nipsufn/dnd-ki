@@ -57,6 +57,7 @@
                 - Księga magiczna +1 arcana
                 - pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander
                 - fragment zaklęcia 5go poziomu
+                - Księga Malaspiny w nieznanym dialekcie Starszej Mowy
                 - oddane do biblioteki na Thanedd:
                     - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
                     - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
@@ -66,7 +67,7 @@
                 - 2 butelki nalewki z mandragory (18 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
                 - 14 porcji inkaustu
-                - 4 porcja kadzidła
+                - 3 porcja kadzidła
                 - 5 porcji kredy
             - Fundusze:
                 - 105.1.1 gp
