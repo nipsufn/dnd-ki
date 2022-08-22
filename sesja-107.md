@@ -1,7 +1,7 @@
 ### Sesja 107
 ##### [Sesja 106](#sesja-106) [Sesja 108](#sesja-108)
 1. Na Risberg
-    - Pospawszy sobie, zbieramy luksusowy obóz i ruszamy na spotaknie z {Drummondem Młodszym}Ivar.
+    - Pospawszy sobie, zbieramy luksusowy obóz i ruszamy na spotkanie z {Drummondem Młodszym}Ivar.
     - Spotykamy Ivara przed południową bramą miejską, do miasta jest spora kolejka.
     - Witamy się i odchodzimy na ubocze, skąd Kajetan teleportuje nas w okolicę Risbergu, do miejsca, w którym [niegdyś](#sesja-076) rozbiliśmy obóz.
 2. Pobojowisko

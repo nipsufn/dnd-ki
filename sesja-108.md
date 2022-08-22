@@ -39,4 +39,4 @@
     - W laboratorium alchemicznym [(8)](#sesja-108#mapa) znajdujemy dwa eliksiry - dekokt alraunowy, zapewniający magom długowieczność, oraz jakiś inny flakon z płynem o nieznanych nam właściwościach.
     - Dostępu do dalszych pomieszczeń bronią drzwi ze znajomymi nam czterema symbolami Zielonych Rycerzy. Z pomocą Ivara otwieramy je szyfrem-przysięgą, [tak samo jak do Warowni w Craag An](#sesja-036#wrota).
     - Przez bogato zdobioną witrażami galerę [(9)](#sesja-108#mapa) docieramy do podpieranego kolumnami, równie wystawnego korytarza [(12)](#sesja-108#mapa), w którym stoi szereg rzeźb elfów. Ich oblicza są zwrócone ku ziemi, ale wszystkie wielbią jedyną figurę na środku, wysoko przy sklepieniu, od której bije magiczne światło. To tu dopada nas jeden ze strażników...
-    ![mapaSesja108](https://github.com/nipsufn/dnd-ki-source/raw/master/img/mapaSesja108.jpg "mapaSesja108")<a id="mapa"></a>
+    ![mapaSesja108](https://github.com/nipsufn/dnd-ki/raw/master/img/mapaSesja108.jpg "mapaSesja108")<a id="mapa"></a>
