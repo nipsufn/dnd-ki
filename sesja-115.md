@@ -12,7 +12,7 @@
     - Pod wodzą Zavista rozpoczynamy Ścieżkę Tysiąca Stopni prowadzącą do Kaer Seren - która, jak sama nazwa wskazuje, ma 1000 stopni.
     - Kajetan zauważa, że oko zamieci jest nie nad twierdzą, a głąbiej w górach - nad punktem mocy/teleportacji, o którym wie z Crag An.
     - Gdy księżyc wygląda zza drzew, Ilanie wydaje się, że widzi na nocnym niebie Dziki Gon, co Yennefer kwituje pod nosem "Przecież Eredin i jego Aen Elle zostali pokonani...". Podczas obozu, w okolicy 273 stopnia, Kajetan także dostrzega upiory. Mimo to noc mija spokojnie i bez dodatkowych wrażeń.
-    - Nazajutrz, dyskutując o gonach, elfach i innych zjawiskach magicznych, docieramy do mostu. Nasza droga wypada jarem poniżej. Zatrzymujemy się przy śnieżnym osuwisku z oberwanej blanki. Tutaj Czarnego Lodu widać nie małe grudki, a całe bloki.
+    - Nazajutrz, dyskutując o gonach, elfach i innych zjawiskach magicznych, docieramy do mostu. Nasza droga wypada jarem poniżej. Zatrzymujemy się przy śnieżnym osuwisku z oberwanej flanki. Tutaj Czarnego Lodu widać nie małe grudki, a całe bloki.
     - Mistrzyni Yennefer wysuwa teorię jakoby ten dziwny lód poszerzał aurę portalu z Białym Zimnem.
     - W rumowisku ktoś wydrążył dziurę, robiąc wewnątrz obóz. Ilana idzie przodem na przeszpiegi. Zimno skutecznie zamaskowało to, co zostało z obozu: stertę końskich kości oraz trzy zamrożone ciała, ułożone jak do pochówku. Sam obóz, podobnie jak ten przy tartaku, mieścił spokojnie około tuzin ludzi. Zostały po nich jedynie ślady.
     - Wnioskujemy, że zwłoki należą do ekspedycji z Aedirn. Z obozu wychodzi dalej jako-tako przedeptana ścieżka, podążamy nią więc dalej ku naszej destynacji.
