@@ -125,6 +125,8 @@
                 - 2nd lvl to activate, 1 minuta + ekstra minuta za kolejny spellslot
                 - INT do ataku zamiast STR/DEX
                 - 2d8 DMG
+        - Na Thanedd:
+            - Wystawna skrzynka warta 5KGP i mały model warty 50GP
     - Znane kręgi teleportacyjne:
         - Ban Ard
         - Craag An
@@ -156,11 +158,14 @@
                 If the target is on a different plane of existence, or is protected from divination magic, the spell has no effect.
             </details>
     - Plany:
+        - zorganizować wizytę Elizy w Gors Velen
+        - Porozmawiać ze Stregoborem, wyciągniętym przed szereg w czasie tyrady Kajetana
         - przekazać odpis traktatów alchemicznych Kapitule
         - wrócić do podziemnego jeziora koło Col Serrai
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych (750gp na kwartalnej aukcji)
         - Zaklęcia do transkrypcji:
+            - [Leomund's Secret Chest (4)](https://5e.tools/spells.html#leomund's%20secret%20chest_phb)
             - [Fly (3)](https://5e.tools/spells.html#fly_phb)
             - [Life Transference (3)](https://5e.tools/spells.html#life%20transference_xge)
             - [Planar Binding (5)](https://5e.tools/spells.html#planar%20binding_phb)
