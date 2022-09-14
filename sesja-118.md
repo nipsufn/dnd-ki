@@ -21,7 +21,7 @@
     - Zostajemy we trój z Zavistem. Decydujemy się odpocząć i nazajutrz zapolować na żywiołaka, i jeśli się powiedzie - zabrać go na Thanned.
     - Przed spoczynkiem rzucamy okiem na domek na szczycie góry. Wnętrze przypomina górską, myśliwską samotnię. No prawie - stoi tu bowiem łóżko ze złota i kości, a ściany zdobią trofea pochodzące ze smoków.
     - Na jednej ze ścian wisi olejny obraz przedstawiający jakąś operację lub też eksperyment. Zavist rozpoznaje trójkę mężczyzn wyobrażonych na dobrej jakości płótnie.
-      ![obrazSesja118](https://github.com/nipsufn/dnd-ki/raw/master/img/obrazSesja118.jpg "obrazSesja118")<a id="obraz"></a>
+      ![cosimo-malaspina](https://github.com/nipsufn/dnd-ki/raw/master/img/cosimo-malaspina.jpg?style=block-center "cosimo-malaspina")<a id="obraz"></a>
     - Chata należała do maga Malaspiny, nauczyciela Alzura i Idarana, doświadczonego łowcy smoków. Znajdujemy w nim bogate, choć (po za złotym łóżkiem) nie ostentacyjne meble wykładane smoczą kością, kolekcje pazurów i trofea, oraz księgę zapisaną jakimś dialektem Starszej Mowy.
     - Ilana, za zgodą Zavista, zabiera na pamiątkę dwie rzeczy: kościany grzebyk i pazur jednego ze smoków.
     - Następnie udajemy się na spoczynek w magicznej wieży Kajetana.

@@ -6,7 +6,7 @@
     - Ilana w transie obserwuje zwierzęce formy mężczyzn, a także swoją własną, jakby dwoiły jej się w oczach różne, nałożone na siebie obrazy.
     - Po fakcie Lodbroke oddala się w sobie tylko znanym kierunku. Zostawszy sam na sam ze Skovikiem, Ilana próbuje przyśnić się Finarrinowi: 
         - zastaje {mentora}Finarrin w jakiejś izbie w baszcie, za oknem szumi morze; z parapetu zerwał się kruk
-        - {druid}Finnarin zasnął przy biurku zawalonym stertą papierów
+        - {druid}Finarrin zasnął przy biurku zawalonym stertą papierów
         - "obudzony", nie do końca zdaje sobie sprawę, że to tylko sen i myśli, że Ilana faktycznie złożyła mu wizytę
         - jest w Nastrogu, na zaproszenie księcia
         - książę Kistrin wyruszył na jakieś ważne spotkanie na północy (bal na Thanedd?)
