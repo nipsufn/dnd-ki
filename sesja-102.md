@@ -75,12 +75,12 @@
             - prywatną kwaterę na zewnętrznym pierścieniu
             - może brać udział w otwartych inicjatywach:
                 - ustabilizować punkt mocy w Carreras
-                - sprawdzić rozbłysk mocy w Ysgyth
+                - sprawdzić rozbłysk mocy w Ysgith
                 - sprawdzić fluktuacje Mocy między Carreras a Mariborem
                 - ekspedycja do Kaer Seren (za zaproszeniem)
         - na Thanedd wszelkimi inicjatywami i administracją kapituły zajmuje się Mardin, biblioteką Zavist a artefaktorium - Tizjana
         - szajka, która ma odpisy alchemiczne, których Kajetan nie zamierzał upubliczniać, kojarzy się {czarodziejce}Margarita z bandą, którą kilka lat temu, ponoć zupełnie, rozbiła Triss; jeden z kierujących bandytami był magiem z Zerrikanii
-        - Specjalistą od nekropolii, w tym Ysgyth, jest Zavist - vide żona Viggo
+        - Specjalistą od nekropolii, w tym Ysgith, jest Zavist - vide żona Viggo
         - Margarita może pomóc zlokalizować Isilme przy artefakcie w Kerack, jednak nie może obiecać kiedy będzie miała czas
     - W porcie cumuje wiele statków, głównie są to okazałe galery z Poviss. Niestety żaden nie odchodzi bezpośrednio do Kerack.
     - Ilana i Skovik znajdują kilka statków, głównie transportowych, które mogą przepływać przez Kerack. Jeden z nich, płynący do Nastrogu, wydaje się być obiecujący:

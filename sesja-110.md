@@ -16,7 +16,7 @@
         - pod koniec miesiąca do Verden ma przypłynąć emisariusz z Wysp Skellige, Cerys chce wznowić stosunki dyplomatyczne
         - ostatnimi czasy zwierzęta w Brokilonie są bardziej agresywne, niż zwykle - czyżby związek z tym, o czym opowiadał Ivar albo z tym, co sprzątamy w Risbergu?
         - Ilana zaczyna na poważnie myśleć o Artisie jako dobrym kandydacie na nauczyciela, {ojczym}Finarrin ostrzega ją przed "ludźmi, którzy zasłaniają się bogami"
-        - Finarrin dowiedział się o istnieniu drugiego kręgu druidzkiego, w okolicach Ysgyth - podobno osiedli tam niektórzy druidzi, którzy odeszli z Mayeny
+        - Finarrin dowiedział się o istnieniu drugiego kręgu druidzkiego, w okolicach Ysgith - podobno osiedli tam niektórzy druidzi, którzy odeszli z Mayeny
         - {dziewczyna}Ilana przyznaje się, że zaczyna odczuwać paraliż wyboru
     - Rozmowę przerywa krakanie trójokiego kruka. Gdy Ilana budzi się z transu, widzi nad sobą przelatujący cień sporego ptaka.
     - Para wraca na noc do podziemi, gdzie Kajetan postanowił powołać do życia swoją wieżę. Skovikowi nie podoba się to miejsce, chce się stąd jak najszybciej zwinąć.

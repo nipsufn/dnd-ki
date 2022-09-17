@@ -23,7 +23,7 @@
         - od Caemiris Artystki: okuty skórzany kołczan, w nim 4 strzały na wzór żywiołów
         - od Corneirosa Niosącego Światło: magiczna księga
     - Idziemy w miejsce, z którego wyszedł strażnik 1. Przez korytarz [(17)](#sesja-109#mapa), na którego końcu stoją dwa posągi rycerzy ze skrzyżowaną bronią, przez otwarte drzwi przechodzimy do eksponatorium [(18)](#sesja-109#mapa) - leże strażnika 1 oraz wystawę martwych stworzeń:
-        - szkielet jednorożca z Ysgyth
+        - szkielet jednorożca z Ysgith
         - czaszka wrana, część szczęki rekonstruowana drutem, z wykopalisk w Loc Muinne
         - czaszka smoka lub wiwerny z Kwarcowej Góry
         - głowa mantikory z Cintry

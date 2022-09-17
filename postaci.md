@@ -95,7 +95,7 @@
     - być może wie coś o Galawainie
     - opiekun biblioteki na Thanedd
     - arcymistrz abjuracji
-    - specjalista od elfich ruin, między innymi Ysgyth
+    - specjalista od elfich ruin, między innymi Ysgith
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
     - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
         Ivar: brat
@@ -231,7 +231,7 @@
         Viggo Regner: przełożony, nauczyciel;
     - <a id='p_pani_regner'>Sybil Regner</a> - ; mag;
         w śpiączce wg Lukrecja (?);
-        śpiączka spowodowana klątwą uruchomioną w czasie prac archeologicznych w Ysgyth
+        śpiączka spowodowana klątwą uruchomioną w czasie prac archeologicznych w Ysgith
         Viggo Regner: mąż
     - <a id='p_eliza' pattern='Eliz*'>Eliza</a> - ; krawcowa;
         dziecko widziało zmarłego ojca (potwór żywiący się tęsknotą, ubity przez PC), dziecko przejawia predyspozycje do użycia Mocy, wyrusza z PC do Świątyni Melitele;

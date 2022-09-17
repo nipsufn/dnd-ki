@@ -68,8 +68,8 @@
     - <a id='l_smelitele' pattern='Świątyni* Melitele'>Świątynia Melitele</a>
         - Obóz Redańczyków
         - Świątynia
-    - <a id='l_ysgyth' pattern='Ysgyth'>Ysgyth</a>
-        - Starożytny cmentarz elfiej szlachty, obłożony klątwami
+    - <a id='l_ysgith' pattern='Ysgith'>Ysgith</a>
+        - rozległe moczary w Angrenie, na północnym brzegu Jarugi; znajdują się tam elfie ruiny obłożone klątwami
     - <a id='l_carreras' pattern='Carreras'>Carreras</a>
         - Leży na osuszonym fragmencie bagna przy widłach Ismeny i Iny, ostanie miasto Temerii i Ellander na szlakach kupieckich do Mahakamu
 - <a id='l_gory_sine' pattern='Gór* Sin*'>Góry Sine</a>
