@@ -164,9 +164,6 @@
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych (750gp na kwartalnej aukcji)
         - Zaklęcia do transkrypcji:
-            - [Leomund's Secret Chest (4)](https://5e.tools/spells.html#leomund's%20secret%20chest_phb)
-            - [Fly (3)](https://5e.tools/spells.html#fly_phb)
-            - [Life Transference (3)](https://5e.tools/spells.html#life%20transference_xge)
             - [Planar Binding (5)](https://5e.tools/spells.html#planar%20binding_phb)
             - [Create Undead (6)](https://5e.tools/spells.html#create%20undead_phb)
             - [Elemental Weapon (3)](https://5e.tools/spells.html#elemental%20weapon_phb)
