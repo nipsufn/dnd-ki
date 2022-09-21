@@ -57,20 +57,20 @@
                 - Księga magiczna +1 arcana
                 - pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander
                 - fragment zaklęcia 5go poziomu
-                - Księga Malaspiny w nieznanym dialekcie Starszej Mowy
                 - oddane do biblioteki na Thanedd:
                     - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
                     - Dokument z fragmentami wiedzy **Corneiros'a** dotyczący Czerpania z *Kolorów Magii*: pozwala na rzucanie zaklęć bez korzystania z własnych spell slotów poprzez pobieranie magii z otoczenia.
                     - Notatki belfra z Biblioteki Craag An
                     - odpis traktatów alchemicznych z Crag An
+                    - Księga Malaspiny w nieznanym dialekcie Starszej Mowy
             - Komponenty:
                 - 2 butelki nalewki z mandragory (18 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
-                - 14 porcji inkaustu
+                - 8 porcji inkaustu
                 - 3 porcja kadzidła
                 - 5 porcji kredy
             - Fundusze:
-                - 105.1.1 gp
+                - 80.1.1 gp
                 - kamienie szlachetne warte 565gp
                 - 5 punktów frakcji
             - Magiczne różności:
@@ -81,13 +81,14 @@
                 - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-                - 3 szkiełek odsłaniających przedmioty z innych płaszczyzn
+                - [3 szkiełek odsłaniających przedmioty z innych płaszczyzn](http://missing.link)
+                - [Różdżka niewidzialności z Craag An](https://5e.tools/items.html#ring%20of%20invisibility_dmg)
                 - 1 zwój do teleportacji
                 - 1 żeton do teleportacji
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
                 - 1 puste kryształy na zaklęcia
                 - 1 kryształy False Life (5ty poziom)
-                - różdżka / pióro z Zamku Niskiego Kaer Seren
+                - [różdżka Zamku Niskiego Kaer Seren](http://missing.link)
                 - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
@@ -105,8 +106,6 @@
                     </details>
             - Thieves Tools
             - naszyjnik przyjaciela Roeggnera Czarnego - kotwica z kości wieloryba
-            - Do rozpracowania:
-                - Różdżka, iluzja; *"Jak liść na wietrze"*; z Craag An
             - Z Craag An:
                 - Medalion bibliotekarza z Craag An
         - W Mariborze:
