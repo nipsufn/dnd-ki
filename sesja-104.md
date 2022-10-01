@@ -60,7 +60,7 @@
         - Dlaczego zupełnie olał towarzyszy wyspiarza i jakie może być ich zdanie na temat planu / porwania / "możliwości powrotu", Lödbroke nie był łaskaw wyjaśnić
         - Artis, oskarżony o pozorowanie możliwości wyboru (sztylet który zawiódł w kluczowym momencie), zmienia temat opowiadając że nie mógł mu dać siły Vildkaarlów jeśli ten nie stosował ich mądrości
         - stwierdza, że jego nauka jest bolesna, ale ból to dobry nauczyciel; ma nadzieję że Skovik wyniósł mądrość z tego co się stało, a jeśli będzie chciał, znajdzie {druida}Artis na wyspach
-        - na pożegnanie, stwierdza _"Jeśli los pozwoli, spotkamy się znów. Tymczasem strzeż się Matki Kruków"_
+        - na pożegnanie, stwierdza <a id='matkakrokow'></a>_"Jeśli los pozwoli, spotkamy się znów. Tymczasem strzeż się Matki Kruków"_
         - zamienia się na powrót w sowę i odlatuje
 3. Czarujące ploteczki
     - Do pilnującego swojego pierścienia pod Cyklamenem Kajetana dzwoni Keira:

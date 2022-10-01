@@ -197,6 +197,7 @@
     - <a id='l_cleves' pattern='Cleves'>Cleves</a>
         - fort wojskowy, niedaleko Mariboru
     - <a id='l_burdoff' pattern='Burdoff'>Burdoff</a>
+        - <a id='l_baba_wodna' pattern='Bab* Wodn*'>Baba Wodna</a> - karczma
     - <a id='l_zavada' pattern='Zavada*'>Zavada</a>
     - <a id='l_jawornik' pattern='Jawornik*'>Jawornik</a>
         - Punkt mocy pod Drzewem Wisielców, niedaleko cmentarza
