@@ -70,6 +70,7 @@
         - Świątynia
     - <a id='l_ysgith' pattern='Ysgith'>Ysgith</a>
         - rozległe moczary w Angrenie, na północnym brzegu Jarugi; znajdują się tam elfie ruiny obłożone klątwami
+        - <a id='l_caed_dhu' pattern='Caed Dhu'>Caed Dhu</a> - las na bagnach
     - <a id='l_carreras' pattern='Carreras'>Carreras</a>
         - Leży na osuszonym fragmencie bagna przy widłach Ismeny i Iny, ostanie miasto Temerii i Ellander na szlakach kupieckich do Mahakamu
 - <a id='l_gory_sine' pattern='Gór* Sin*'>Góry Sine</a>

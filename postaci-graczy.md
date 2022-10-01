@@ -68,10 +68,10 @@
                 - 1 butelka bazy alchemicznej (12 użyć)
                 - 8 porcji inkaustu
                 - 3 porcja kadzidła
-                - 5 porcji kredy
+                - 4 porcji kredy
             - Fundusze:
-                - 80.1.1 gp
-                - kamienie szlachetne warte 565gp
+                - 76.1.1 gp
+                - kamienie szlachetne warte 365gp
                 - 5 punktów frakcji
             - Magiczne różności:
                 - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
@@ -108,15 +108,8 @@
             - naszyjnik przyjaciela Roeggnera Czarnego - kotwica z kości wieloryba
             - Z Craag An:
                 - Medalion bibliotekarza z Craag An
-        - W Mariborze:
-            - Kotwice do innych płaszczyzn:
-                - Kula wyrzeźbiona w nieskończenie zapętlający się labirynt po którym ktoś zdaje się biegać - pustynny świat, martwy w wiecznym czerwonym świetle słońca, wielkie czerwie (?), porzucone metalowe miasto
-                - Mosiężna lampa olejowa, wiecznie gorąca w dotyku, z odręczną mapą jakiegoś miasta na boku - lodowy świat dysków, w którym można zobaczyć własne plecy, zamieszkały przez potwory
-                - Brudny bursztyn - inkluz, z skrzydlatym pająkiem w środku - dżungla zamieszkała przez gigantyczne owady
-            - Słój z grubego szkła z zębem pływającym w środku
-            - Kawałki półek z białego drewna
-            - Zdrewniała pestka
-            - Kamizelka z 10cioma naszywkami i śladami po innych
+        - W Nilfgaardzie:
+            - Kamizelka z 10-cioma naszywkami i śladami po innych
             - przewodnik Corneirosa po płaszczyznach, opisuje powyższe kotwice oraz "kawał kwarcu z ogniem w środku", pochodzący z płaszczyzny ifrytów i djinni ognia
             - Księga z rubinem w obwolucie
             - kawałek białego metalu przypominający rękojeść, zdobiony złotą spiralą, razi prądem 
@@ -126,6 +119,11 @@
                 - 2d8 DMG
         - Na Thanedd:
             - Wystawna skrzynka warta 5KGP i mały model warty 50GP
+            - Kotwice do innych płaszczyzn:
+                - Kula wyrzeźbiona w nieskończenie zapętlający się labirynt po którym ktoś zdaje się biegać - pustynny świat, martwy w wiecznym czerwonym świetle słońca, wielkie czerwie (?), porzucone metalowe miasto
+                - Mosiężna lampa olejowa, wiecznie gorąca w dotyku, z odręczną mapą jakiegoś miasta na boku - lodowy świat dysków, w którym można zobaczyć własne plecy, zamieszkały przez potwory
+                - Brudny bursztyn - inkluz, z skrzydlatym pająkiem w środku - dżungla zamieszkała przez gigantyczne owady
+            - Zdrewniała pestka
     - Znane kręgi teleportacyjne:
         - Ban Ard
         - Craag An
@@ -157,9 +155,6 @@
                 If the target is on a different plane of existence, or is protected from divination magic, the spell has no effect.
             </details>
     - Plany:
-        - zorganizować wizytę Elizy w Gors Velen
-        - Porozmawiać ze Stregoborem, wyciągniętym przed szereg w czasie tyrady Kajetana
-        - przekazać odpis traktatów alchemicznych Kapitule
         - wrócić do podziemnego jeziora koło Col Serrai
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
         - odzyskać miecz z Domu Aukcyjnego Braci Borsodych (750gp na kwartalnej aukcji)
