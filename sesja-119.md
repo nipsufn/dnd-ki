@@ -45,7 +45,7 @@
     - W środku zastajemy przytomnego Zangenisa:
         - został opętany przez duszę czarodzieja, która czekała w filakterium, jak się domyślamy - kryształowej czaszce
         - istnieje szansa, że osoba, z którą rozmawiamy, to już nie Zangenis, a tajemniczy mag, który miałby siedzieć w artefakcie
-        - Kajetan, mimo grymasów koleżeństwa po fachu, nazywa staszego maga Sorelem, licząc na zdradzającą go reakcję; ten jednak ma twarz pokerzysty
+        - Kajetan, mimo grymasów koleżeństwa po fachu, nazywa starszego maga Sorelem, licząc na zdradzającą go reakcję; ten jednak ma twarz pokerzysty
         - Triss tłumaczy wagę wyleczenia Radcliffe'a - jest jedynym znanym Kapitule magiem, który potrafi zweryfikować tożsamość Zangenisa (meta: o ile nie jest dawnym, serdecznym przyjacielem Sorela...)
         - Zebrani magowie dziękują nam za pomoc, wręczając nagrodę
             - dla Ilany medalion (pozwoli jej wejść na Thanedd samodzielnie, i ochroni przed ciekawskimi czujkami - podobnie jak bransoletka kultystów, którą kazała zniszczyć)

@@ -11,7 +11,7 @@
         - poprzez portal dostali się na szczyt góry
         - gdy badali fundamenty wieży zostawione przez Aen Drisichean, nad nimi otworzył się portal do Białego Zimna
         - z portalu wylała się fala potworów, więc bezradni magowie postanowili wziąć nogi za pas i salwować się teleportacją
-        - Sregobor otworzył portal do swojej wieży z Blaviken; gdy jednak próbowali wyjść, drzwi otworzyły się znów na Kwarcowej Górze
+        - Stregobor otworzył portal do swojej wieży z Blaviken; gdy jednak próbowali wyjść, drzwi otworzyły się znów na Kwarcowej Górze
         - wówczas widzieli jak żywiołak-piramida wylazł przez wyrwę
         - Radcliffe zjawił się posprzątać ten bałagan
         - dwaj magowie spróbowali odesłać żywiołaka na jego płaszczyznę; żywiołak  w jakiś sposób zabrał go ze sobą, po chwili wrócili, przy czym {mag}Radcliffe - już nieprzytomny i zamrożony

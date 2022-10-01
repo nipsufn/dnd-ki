@@ -5,7 +5,7 @@
         - {mag}Dorregaray wyruszył do Cidaris, gdzie konstruuje swoją nową wieżę
         - na archeospora rekomenduje ogień
         - ostrzega przed pomysłem zdestabilizowania 4 punktów mocy dla prywaty czarodziejek i politycznymi zagrywkami
-    - Algais:
+    - Aglais:
         - Ilanie nie udaje się do niej "dośnić", widzi jakiegoś kruka i słyszy jakiś głos zanim budzi się z zakrwawionym nosem
     - Istredd:
         - Na spotkaniu pojawił się niecały tuzin osób z sekty "Jedynego Prawdziwego Druida"
