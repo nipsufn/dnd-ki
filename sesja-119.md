@@ -7,7 +7,7 @@
     - Przysłuchując się relacjom {niziołka}Andy, Ilana skrobie na tabliczce wiadomość do Mirny z pytaniem jak przebiegła jej podróż i czy dotarła do Kerack na czas, by przekazać drugą tabliczkę Skovikowi.
 2. Powitania i obrady
     - W holu twierdzy natykamy się na Mozaik, poganiającą taszczących pergaminy adeptów. Relacjonuje, że czarodziejki się obudziły, nie mogą jednak czarować i - podejrzewając, że ich sytuacja jest podobna do choroby Kajetana - chcą z nami porozmawiać.
-    - {Asystentka Radcliffe'a}Mozaik prowadzi nas więc na spotkanie. Dowiadujemy się także, że:
+    - {Asystentka}Mozaik Radcliffe'a prowadzi nas więc na spotkanie. Dowiadujemy się także, że:
         - Kaspar, przez problemy ze snem, zaczął łykać rozmaite eliksiry
         - w swojej paranoi kazał je brać także swoim ochroniarzom
         - Kapituła zarządziła głębsze śledztwo by ustalić, kto zarekomendował i/lub dostarczał mu magiczne konkokcje; póki co bezowocne
@@ -26,7 +26,7 @@
         - Między Ysgith a Caed Dhu - Istredd zna te okolice
         - Pod Wyzimą, na bagnach - my znamy te okolice, jak i starego druida-rezydenta, Lentinusa
     - Kajetan korzysta z okazji, aby wbić czarodziejkom szpilę - pomaga im bardziej niż one mu, gdy sam był w potrzebie. Wytyka też brak wdzięczności wobec zawsze pomocnej Ilany.
-3. Kwestia Radcliffa
+3. Kwestia Radcliffe'a
     - Ilana, znużona technicznymi dyskusjami magów, wyrusza w poszukiwaniu Stregobora i Zavista, którzy ponoć starają się rozpracować żywiołaka odpowiedzialnego za stan zmrożonego czarodzieja.
     - Po drodze natyka się na rozmawiającą przez zwierciadło z Lambertem Yennefer:
         - Lambert rozmawiał ze starym znajomym (meta: Zygfryd?)

@@ -68,7 +68,7 @@
 - <a id='p_ortolan' pattern='Ortolan*'>Ortolan</a> - ?, mag, konstruktor Risbergu
     - jego tajemniczy uczeń stworzył strażników i kontynuował badania swojego nauczyciela, nawet gdy te wypadły z łask Kapituły
     - opracował recepturę eliksiru używanego przez magów do przedłużenia życia
-- <a id='p_radcliffe' pattern='Radcliffe'>Radcliffe z Oxenfurtu</a> - człowiek, mag, członek Nowej Kapituły
+- <a id='p_radcliffe' pattern="Radcliffe'a,Radcliffe">Radcliffe z Oxenfurtu</a> - człowiek, mag, członek Nowej Kapituły
 - <a id='p_raffard' pattern='Raffard* Biał*,Raffard*'>✝ Raffard Biały</a> - człowiek, mag
     - zajmował się polityką, co skończyło się wojną "domową" wśród magów
 - <a id='p_stregobor' pattern='Stregobor*'>Stregobor</a> - człowiek, mag

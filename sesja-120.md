@@ -35,4 +35,4 @@
         - terroryzują mieszkańców Ysgith, strasząc śmiercią jeśli nie odejdą lub uwierzą
         - zasłaniają połowę twarzy błotem i korą
         - {mag}Istredd wysłał wiadomość, w nadziej na widzenie z tajemniczą postacią z Czarnego Lasu
-        - wiedźmin, który pracował w okolicy (z opisu być może Geatan) twierdzi, że to Borowy (Ilana uważa że to taki Leszy, tylko niedobry) z którym nie ma co pertraktować
+        - wiedźmin, który pracował w okolicy (z opisu być może Gaetan) twierdzi, że to Borowy (Ilana uważa że to taki Leszy, tylko niedobry) z którym nie ma co pertraktować
