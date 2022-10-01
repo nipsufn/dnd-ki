@@ -3,11 +3,10 @@
 """
 import re
 import logging
-from tokenize import String
 
 class Test:
     """count characters that should be in pairs"""
-    def __detect_balance(self, balance: dict, line: String) -> None:
+    def __detect_balance(self, balance: dict, line: str) -> None:
         balance['"'] += line.count('"')
         balance['<'] += line.count('<')
         balance['>'] += line.count('>')
@@ -69,7 +68,7 @@ class Test:
         if balance['['] != balance[']']:
             self.__feedback += "Unmatched [] in file: " + file_path + "\n"
 
-    def __check_merge_conflict(self, merge_conflict, file_path) -> String:
+    def __check_merge_conflict(self, merge_conflict, file_path) -> str:
         """describe merge conflict"""
         if merge_conflict:
             self.__feedback += "Merge conflict in file: " + file_path + "\n"
@@ -78,7 +77,7 @@ class Test:
         """validate brackets and tag/ref format"""
         for file_path in files:
             with open(prefix + file_path, 'r', encoding='utf-8') as file_stream:
-                self.__logger.trace("file opened: " + file_path)
+                self.__logger.debug("file opened: %s", file_path)
                 balance = dict.fromkeys(['"','<','>','(',')','[',']'], 0)
                 merge_conflict = False
                 for line in enumerate(file_stream):
@@ -120,7 +119,7 @@ class Test:
                             + "; file: " + ref["path"]
                             + "\n")
 
-    def __init__(self, files, prefix=""):
+    def __init__(self, files: list, prefix: str ="", loglevel: int = logging.WARNING):
         """
         validate files against:
         - unbalanced brackets, quotes etc.
@@ -128,6 +127,9 @@ class Test:
         - tags that do not conform to format
         - refs that do not conform to format
         """
+
+        logging.basicConfig(format='[%(asctime)s] %(levelname)s - %(processName)s/%(threadName)s - '
+            '%(pathname)s:%(lineno)d- %(name)s - %(message)s', level=loglevel)
         self.__logger = logging.getLogger(type(self).__name__)
 
         self.__feedback = ""

@@ -24,6 +24,7 @@ def git_comment(message, commit=None, repo_slug=None) -> bool:
                             + repo_slug + '/commits/'
                             + commit.rstrip() + '/comments',
                             json={"body": message},
-                            headers={"authorization":"Bearer " + os.environ['GH_TOKEN']}
+                            headers={"authorization":"Bearer " + os.environ['GH_TOKEN']},
+                            timeout=30
                             )
     return request.ok

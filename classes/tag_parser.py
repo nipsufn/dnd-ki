@@ -7,16 +7,18 @@ from html.parser import HTMLParser
 
 class TagParser(HTMLParser):
     """find HTML anchors and create list of re expressions"""
-    def __init__(self):
+    def __init__(self, loglevel: int = logging.WARNING):
         """override parent constructor, set up and then call parent's constructor"""
         self.tags = []
         self.descriptions = []
+        logging.basicConfig(format='[%(asctime)s] %(levelname)s - %(processName)s/%(threadName)s - '
+            '%(pathname)s:%(lineno)d- %(name)s - %(message)s', level=loglevel)
         self.__logger = logging.getLogger(type(self).__name__)
         super().__init__()
 
     def handle_starttag(self, tag, attrs):
         """override parent method - assemble list of id, regex 1 and regex 2"""
-        self.__logger.trace("tag " + tag)
+        self.__logger.debug("tag %s", tag)
         if tag != "a":
             return
         attr_dict = dict(attrs)

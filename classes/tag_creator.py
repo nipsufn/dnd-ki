@@ -6,11 +6,13 @@ from html.parser import HTMLParser
 
 class TagCreator(HTMLParser):
     """substitute given re expr with Markdown anchor"""
-    def __init__(self, tags):
+    def __init__(self, tags: list, loglevel: int = logging.WARNING):
         """override parent constructor, set up and then call parent's constructor"""
         self.current_html_tag = []
         self.tags = tags
         self.text = ""
+        logging.basicConfig(format='[%(asctime)s] %(levelname)s - %(processName)s/%(threadName)s - '
+            '%(pathname)s:%(lineno)d- %(name)s - %(message)s', level=loglevel)
         self.__logger = logging.getLogger(type(self).__name__)
         super().__init__()
 
@@ -29,7 +31,7 @@ class TagCreator(HTMLParser):
 
     def handle_data(self, data):
         """override parent method - substitute and store for reassembly"""
-        self.__logger.trace("data %s", data)
+        self.__logger.debug("data %s", data)
         if len(self.current_html_tag) == 0:
             for pair in self.tags:
                 substitute_user = r"[\1\3](#" + pair[0] + r")"
