@@ -1,5 +1,10 @@
 ## Lokacje
 - <a id='l_aedirn' pattern='Aedirn'>Aedirn</a>
+- <a id='l_angren' pattern='Angren'>Angren</a>
+    - <a id='l_tuzla' pattern='Tuzl*'>Tuzla</a> - stolica
+    - <a id='l_ysgith' pattern='Ysgith'>Ysgith</a>
+        - rozległe moczary w Angrenie, na północnym brzegu Jarugi; znajdują się tam elfie ruiny obłożone klątwami
+        - <a id='l_caed_dhu' pattern='Caed Dhu'>Caed Dhu</a> - las na bagnach
 - <a id='l_dol_blathanna' pattern='Dol Blathanna'>Dol Blathanna</a>
     - <a id='l_srebrne_wieze' pattern='Miast* Srebrnych Wież'>Miasto Srebrnych Wież</a>
 - <a id='l_brokilon' pattern='Brokilon*'>Brokilon</a>
@@ -68,9 +73,6 @@
     - <a id='l_smelitele' pattern='Świątyni* Melitele'>Świątynia Melitele</a>
         - Obóz Redańczyków
         - Świątynia
-    - <a id='l_ysgith' pattern='Ysgith'>Ysgith</a>
-        - rozległe moczary w Angrenie, na północnym brzegu Jarugi; znajdują się tam elfie ruiny obłożone klątwami
-        - <a id='l_caed_dhu' pattern='Caed Dhu'>Caed Dhu</a> - las na bagnach
     - <a id='l_carreras' pattern='Carreras'>Carreras</a>
         - Leży na osuszonym fragmencie bagna przy widłach Ismeny i Iny, ostanie miasto Temerii i Ellander na szlakach kupieckich do Mahakamu
 - <a id='l_gory_sine' pattern='Gór* Sin*'>Góry Sine</a>
