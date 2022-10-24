@@ -31,8 +31,10 @@
             - naszyjnik kul ognia, 3 nieodnawialne użycia
             - ⒶPierścień ochrony +1 do rzutów obronnych
             - <details>
-                <summary>ⒶPierścień Ucieczki - rozładowany</summary>
-                    This ring has 1 charge. When attuned you can use a charge to cast the spell Teleport without using a spell slot. For every 24 hours this ring spends within 15 ft of a Place of Power, the ring regains 1 charge.
+                <summary>Brosza Ucieczki - 1/2</summary>
+                    This broch has 2 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it. 
+                    If you have the Arcane Recovery feature, you can also use 1 charge to recharge this ability if you have already used it.
+                    The broch regains 1 expended charge per 24h spend in a Place of Power.
                 </details>
             - <details>
                 <summary>ⒶAleksandryt Mocy</summary>
@@ -44,7 +46,7 @@
                     - Maelstrom
                     - Tidal Waves
                 </details>
-            - Ⓐ[Księga z zaklęciami Aen Drisichean](https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce)
+            - [Księga z zaklęciami Aen Drisichean](https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce)
         - Schowany:
             - Odzież
                 - <details>
@@ -55,7 +57,50 @@
                 - Eleganckie ubranie
             - Księgi:
                 - Księga magiczna +1 arcana
-                - pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander
+                - <details>
+                    <summary>pusty (?) elfi dziennik z Krypty Lwiogłowego Pająka pod Ellander</summary>
+                        *Fragmenty zagubionego elfiego dziennika*
+
+                        Sporo kartek zostało nadniszczonych, inne są pochlapane mieszanką farb i krwi. Tylko nieliczne karty zostały całe i po wypowiedzeniu hasła ukazują swe strony:
+
+                        > Dziś był dobry dzień. Góry Niebieskie zazdrośnie strzegą swoich skarbów i swego bogactwa, jednak udało nam się dzisiaj ujarzmić fragment ziemi. Wystarczająco by zasiać pole...
+
+                        ---
+
+                        > ...Widziałam go dzisiaj. Tego, którego mają wygnać. Dziwne, wyobrażałam sobie kogoś bardziej... buntowniczego? Brawurowego? Jedyne co widać w jego oczach to rezygnację? Może akceptacja i jakiś dziwny głęboki niepokój, jakby brak zrozumienia, nieodpowiedzone pytanie "Dlaczego Ja?"...
+
+                        ---
+
+                        > Sam Król mnie dzisiaj wezwał! Nie mam pojęcia czego może potrzebować ode mnie, ale muszę przygotować i poszyć swój najlepszy kaftan! 
+
+                        ---
+
+                        > ... A więc zostałam tropicielką. Jednak tropienie elfów różni się bardzo od tropienia zwierząt. Nie wiem dlaczego Król chce bym miała go na oku, zwłaszcza gdy sam postanowił odejść nie czekając na żadne decyzje czy wyroki. Na prawdę chce żyć wśród ludzi? Nie rozumiem...
+
+                        ---
+
+                        >...Na trop celu natrafiłam znowu w pobliżu temerskiego księstwa - Ellander. Wóz którym jechał zboczył z głównego traktu i jechał na południe. 
+                        >Łowcy gdzieś ich wiozą, jednak droga nie wskazuje ani na Tretogór ani Novigraad. Czyżby do Wyzimy? Łowcy czarownic posuwają się co raz śmielej na południe i niemal całkowicie zdominowali serca ludzi w Aedirn. 
+                        >To może być problemem dla całej Doliny Kwiatów...
+
+                        >...Dzisiejszy wieczór jest dziwny. Nocne ptactwo milczy, pochowało się w swoich gniazdach, a zwierzęta uciekają w głąb lasów. Nawet insekty chowają się w trawach.
+                        >
+                        >Jednak to gwiazdy są... inne, dziwne, ich światło niespokojne. Łowcy rozbili obóz, może uda mi się podejść i podsłuchać jaki jest ich cel, gdzie wiozą więźniów. 
+
+                        ---
+
+                        > Nigdy nie byłam szkolona w arkanach magii, daleko mi do Wiedzących, ale nawet mi ciężko pomylić to co widziałam. Niebo rozdarło się niczym stare sukno, a na niebie, przez chwilę lśniły dwa księżyce. Nie jestem pewna, ale jeden z nich wyglądał niczym śmiejąca się czaszka i miał zieloną poświatę...
+                        >
+                        > A potem pojawiły się one. Las nagle ożył, zgęstniał, zaludnił się. Ale nie zwierzętami, potworami. 
+                        >
+                        > Więźniowie: elf i dziwna kobieta wydostali się gdy ...
+
+                        ---
+
+                        > ... Jestem ranna. Ta bestia, wielki czarny kot z mackami niemal mnie nie rozerwała. Muszę znaleźć schronienie w mieście. 
+
+                        > Znalazłam pomocną dłoń. Ludzka kobieta w Ellander, miejscowa malarka zaprosiła mnie do swojego domu i zaoferowała nocleg i kontakt z kapłankami. Dobrze, że jeszcze są jacyś dobrzy ludzie. Jak tylko rana się zagoi muszę odnaleźć trop.
+                    </details>
                 - fragment zaklęcia 5go poziomu
                 - oddane do biblioteki na Thanedd:
                     - Niewielka księga obita w skórę. Zapisana w starym dialekcie krasnoludzkim.
@@ -81,14 +126,27 @@
                 - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-                - [3 szkiełek odsłaniających przedmioty z innych płaszczyzn](http://missing.link)
+                - <details>
+                    <summary>Ⓐ3 odłamki Eluviaanu</summary>
+                        Attunement: Elf only
+                        A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
+                        Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
+                        When attuned to an character possessing the Fey Ancestry trait gains the following features:
+                            - Can cast the spell clairvoyance as a spell like ability
+                            - As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
+                        Once you use any of this features, you can't use it again until you finish a long rest.
+                    </details>
                 - [Różdżka niewidzialności z Craag An](https://5e.tools/items.html#ring%20of%20invisibility_dmg)
                 - 1 zwój do teleportacji
                 - 1 żeton do teleportacji
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
                 - 1 puste kryształy na zaklęcia
                 - 1 kryształy False Life (5ty poziom)
-                - [różdżka Zamku Niskiego Kaer Seren](http://missing.link)
+                - <details>
+                    <summary>różdżka Zamku Niskiego Kaer Seren</summary>
+                        When attuned, you can select one cantrip from any Class Spell list. You can cas this cantrip using your Spellcasting ability modifier as if the spell would be in your Spell list.
+                        Additionally, you can change the selected spell after finishing a long rest.
+                    </details>
                 - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
