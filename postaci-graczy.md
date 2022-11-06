@@ -111,7 +111,7 @@
             - Komponenty:
                 - 2 butelki nalewki z mandragory (18 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
-                - 8 porcji inkaustu
+                - 5 porcji inkaustu
                 - 3 porcja kadzidła
                 - 4 porcji kredy
             - Fundusze:
@@ -190,6 +190,19 @@
         - Świątynia Melitele
         - Kerack (mobilny/eksperymantalny - Radcliffe)
     - Własne zaklęcia
+        - <details>
+            <summary>Patient Note (2)</summary>
+                Casting Time: 1 minute
+                Range: Unlimited
+                Components: V, S, M (a scrap of parchment and 1gp worth of magical ink, which the spell consumes)
+                Duration: 10 minutes
+                You send a piece of parchment with a short message of ten words or less to a creature with which you are familiar. The creature is aware of the note appearing amongst their belongings, recognizes you as the sender if it knows you, and can answer in a like manner before the duration expires.
+                Once the targeted creature responds to the message, or the duration ends, the parchment disappears in a puff of smoke.
+                The target must have an Intelligence score of 6 or higher, you must share at least one language with the target for it to understand the meaning of your message
+                You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 50 percent chance that the message doesn't arrive.
+                When you cast this spell using a spell slot of 3rd or 4th level, the duration increases to 1 hour. 
+                When you cast this spell using a spell slot of 5th or 6th level, the duration increases to 8 hours. 
+                When you cast this spell using a spell slot of 7th or higher level, the duration increases to 24 hours.
         - <details>
             <summary>Kajetan's Reasonable Lodging (5)</summary>
                 5th-level conjuration (ritual)
