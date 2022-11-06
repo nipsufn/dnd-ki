@@ -1,5 +1,5 @@
 ### Sesja 122
-##### [Sesja 122](#sesja-122) [Sesja 123](#sesja-123)
+##### [Sesja 121](#sesja-121) [Sesja 123](#sesja-123)
 1. Znowu na Thanedd - rozmowy
     - Późnym Wieczorem odwiedza nas Mozaik. Wydaje się być czymś bardzo podekscytowana. Niewiele zdradzając zaprasza nas na spotkanie w jednym z saloników.
     - Jak się niebawem okazuje, prowadzi nas do Radcliffe'a. {Mag}Radcliffe wraca do siebie w jednym z saloników, przypominający ten, w którym pomieszkuje Zangenis.

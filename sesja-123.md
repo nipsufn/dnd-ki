@@ -1,5 +1,5 @@
 ### Sesja 123
-##### [Sesja 123](#sesja-123) [Sesja 124](#sesja-124)
+##### [Sesja 122](#sesja-122) [Sesja 124](#sesja-124)
 1. Na odchodne
     - Na noc rozbijamy się w Burdoff, w wieży Kajetana.
     - Ilana zauważa, że na tablecie widnieje odpowiedź Skovika. Z widocznym w literach i licznych błędach wysiłkiem pisze:
