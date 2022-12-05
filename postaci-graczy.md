@@ -109,11 +109,11 @@
                     - odpis traktatów alchemicznych z Crag An
                     - Księga Malaspiny w nieznanym dialekcie Starszej Mowy
             - Komponenty:
-                - 2 butelki nalewki z mandragory (18 użyć)
+                - 2 butelki nalewki z mandragory (17 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
-                - 5 porcji inkaustu
+                - 4 <sup>48</sup>/<sub>50</sub> porcji inkaustu
                 - 3 porcja kadzidła
-                - 3 porcji kredy
+                - 2 porcji kredy
             - Fundusze:
                 - 76.1.1 gp
                 - kamienie szlachetne warte 365gp
@@ -140,7 +140,6 @@
                 - 1 zwój do teleportacji
                 - 1 żeton do teleportacji
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
-                - 1 puste kryształy na zaklęcia
                 - 1 kryształy False Life (5ty poziom)
                 - <details>
                     <summary>różdżka Zamku Niskiego Kaer Seren</summary>

@@ -456,7 +456,7 @@
     - <a id='p_asliv' pattern='Asliv, Łez*'>Asliv "Łezka" Dimun</a>
         - siostra Roeggnera
         - narzeczona Leiva
-    - <a id='p_reah' pattern='Reah* Bon-Dhu*,Reah*'>Reah Bon-Dhu</a>
+    - <a id='p_reah' pattern='Reah* Bon-Dhu*,Reah*'>Reah Bon-Dhu An Hindar</a>
         - córka słynnego skalda, Draiga Bon-Dhu
         - towarzyszy Dimunom w rejsach
         - przyrzeczona Skovika
