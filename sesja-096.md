@@ -11,7 +11,7 @@
         - Leiv zaręczył się z młodszą siostrą Roegnera, Asliv; młody Drummond wydaje się być prawą ręką pirata
         - Jest bardzo możliwe, że Roegner zostanie Jarlem swojego rodu, gdy obecny, Holger Dimun, umrze
         - Udział Dimunów i Drummondów w przewrocie w Kerack powiększył rozłam między frakcjami na wyspach, niektórzy barbarzyńcy nawołują do wojny domowej
-        - Lödbroke nie słucha się nikogo; niejaki Morkvarg był jedyną osobą, którą uznawał jako zwierzchnika, a i to do czasu - odmówił ataku na świątynię Freyi, będąc od tamtego czasu sobie samemu sterem i okrętem
+        - Lödbroke nie słucha się nikogo; niejaki Morkvarg był jedyną osobą, którą uznawał jako zwierzchnika, a i to do czasu - odmówił ataku na świątynię Freyji, będąc od tamtego czasu sobie samemu sterem i okrętem
         - Morkvarg za swój czyn został przeklęty przez kapłanki i grasował po wyspie Hindersvjal jako wilkołak, wiecznie głodny - bogini zamieniała cokolwiek próbował zjeść w popiół; ponoć jego cierpienia rok temu ukrócił jakiś wiedźmin
         - Reah wybiera się na występ mistrza Jaskra; Kajetan podarował jej odpis jednego z jego wierszy, namawiając, by poprosiła o autograf
         - W Novigradzie jest drugi, mniejszy port - rzeczny; barka jest najszybszą drogą do Oxenfurtu

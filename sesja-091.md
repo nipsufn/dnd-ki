@@ -30,7 +30,7 @@
     - Ranem Ilana budzi się w poszarpanej pościeli. Tknięta przeczuciem prosi Kajetana o wysłanie wiadomości do Rei. Dowiadujemy się, że:
         - Lödbroke to skurwysyn
         - żeglował na "Postrachu Mórz"
-        - z Morkvarg napadli na Ogród Freyi
+        - z Morkvarg napadli na Ogród Freyji
         - łowca nie jest Vildkaarlem
         - jego przywódca/herszt/przełożony (którego jednak chyba ma) jest wilkołakiem
         - wyzwany i pokonany, zrobi czegokolwiek się od niego nie zażąda

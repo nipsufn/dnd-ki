@@ -15,10 +15,10 @@
     - Kajetan oddala się na stronę w poszukiwaniu odpowiedzi na swoje pytania, gdy kobiety rozmawiają:
         - Matka Iola tłumaczy, że trzy figury w ogrodzie to jeden ze starszych sposobów na przedstawienie przemijania
         - jest to także jedno z przedstawień Melitele
-        - według zapisków Matki Nenneke, Matka Kruków to zdaje się dawne, rzadziej używane miano Freyi, Wyspiarskiej bogini na kontynencie z kolei czczonej jako Wielka Matka (Melitele).
+        - według zapisków Matki Nenneke, Matka Kruków to zdaje się dawne, rzadziej używane miano Freyji, Wyspiarskiej bogini na kontynencie z kolei czczonej jako Wielka Matka (Melitele).
         - bóstwo to zwykle przedstawia się w trzech aspektach: Panny, Matki i Staruchy właśnie
         - Matka Kruków jest dokładniej rzecz ujmując jednym z aspektów bogini - Staruchą, która widzi przyszłość i przędzie losy świata
-        - Freya jest aspektem matki-wojowniczki, a Melitele - matki-opiekunki
+        - Freyja jest aspektem matki-wojowniczki, a Melitele - matki-opiekunki
     - {Kapłanka}Iola proponuje Ilanie trans, by mogła uzyskać odpowiedzi na trapiące ją pytania, o ile bogini zechce ich udzielić. {Dziewczyna}Ilana dziękuje, ale kulturalnie odmawia mając na względzie także stan zdrowia kapłanki. Obiecuje zastanowić się nad pytaniami i powrócić w stosownym czasie.
     - {Elf}Kajetan nie dowiaduje się zbyt wiele o wariatach z wieloma wspomnieniami z tego samego czasu, poza tym, że zdarzają się i albo jakoś sobie zwykle radzą, albo ze sobą kończą.
 3. Do Kerrack
@@ -32,4 +32,5 @@
         - złodziej dostał się przez okno, wycinając idealną dziurkę w szkle, przez którą jakimś sposobem przekręcił klamkę
         - Kajetan dochodzi do wniosku, że ktoś próbował upozorować włam dla pieniędzy
         - Ilana zauważa ślad buta w plamie atramentu przy oknie i dwie kolejne już na zewnątrz, prowadzące za płot sąsiedniej posesji
+        - ślady należą najpewniej do mężczyzny, jednak są pozbawione zelówki
     - Pomagamy Mirnie uprzątnąć pracownię. {Zielarka}Mirna stara się trzymać fasadę lekkości, ale widać, że jest głęboko wstrząśnięta i zaniepokojona.
