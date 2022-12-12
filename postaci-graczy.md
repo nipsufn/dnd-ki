@@ -113,11 +113,11 @@
                 - 1 butelka bazy alchemicznej (12 użyć)
                 - 4 <sup>48</sup>/<sub>50</sub> porcji inkaustu
                 - 3 porcja kadzidła
-                - 2 porcji kredy
+                - 6 porcji kredy
             - Fundusze:
                 - 76.1.1 gp
                 - kamienie szlachetne warte 365gp
-                - 5 punktów frakcji
+                - 3 punktów frakcji
             - Magiczne różności:
                 - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
                 - 2 eliksiry [siły Lodowego Giganta](https://5e.tools/items.html#potion%20of%20frost%20giant%20strength_dmg)

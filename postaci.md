@@ -96,6 +96,8 @@
     - opiekun biblioteki na Thanedd
     - arcymistrz abjuracji
     - specjalista od elfich ruin, między innymi Ysgith
+- <a id='p_zygfryd' pattern='Zygfryd*,Zygfryd* z Densele'>Zygfryd z Densele</a> - człowiek, Łowca Czarownic
+    - oponent Slyza Myrtona w wewnętrznej polityce Zakonu
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
     - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
         Ivar: brat

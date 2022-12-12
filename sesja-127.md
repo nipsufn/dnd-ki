@@ -1,0 +1,59 @@
+### Sesja 127
+##### [Sesja 126](#sesja-126) [Sesja 128](#sesja-128)
+1. Jeszcze chwileczkę
+    - Kajetan, po rozmowie z Zangenisem udaje się do biblioteki
+    - W księgozbiorach {elf}Kajetan znajduje abstrakt pracy Ireneusza Var Steingarda, mający związek z wymieszanymi wspomnieniami, wspomina też o wiedźminie szkoły Kota.
+    - mag miał siedzibę na wyspie w Novigradzie, prawie pewnikiem obecna "Wyspa Świątynna"
+2. Narada rady
+    - Spotkanie moderuje jak zwykle Carduin, w roli głowy Nowej Kapituły występuje, wciąż widocznie zesztywniały, Radcliffe
+    - Przemawiają:
+        - Carduin
+            - przedstawia Radcliffe'a jako tymczasowego przywódcę organizacji
+            - informuje o rezygnacji Idy Emean aep Sivney ze swojej pozycji w Kapitule. Próżna (?) elfka zabrała ze sobą obrazy, które niegdyś zdobiły ściany Thanedd
+        - Eskel
+            - pod Trupią Knieją ciągną się kilometry przysypanych budowli, połączonych tunelami a gdzieniegdzie wciąż aktywnymi teleportami
+            - wejście, które udało się wiedźminom znaleźć, było czyjąś dziurą do pozbywania się zwłok, w której zalągł się wypaczony troll
+            - w tunelach znaleźli opuszczone tydzień - dwa wcześniej laboratorium
+            - w sali wciąż tkwiło dwóch Łowców, okrutnie zniekształconych wyrastającymi z nich dwimerytowymi kryształami. Na zaklęcia towarzyszącej wiedźminom Yennefer byli niewrażliwi, niektóre odbijali a jeszcze inne zdawali się wykorzystywać dla własnego pokrzepienia
+            - w śród śladów po makabrycznych eksperymentach znajdowała się klatka, którą od środka porastały te same kryształy, jakby pochodziły z miejsca w którym tkwił jej okupant
+            - trop "badaczy" jest zimny, nie ma sposobu by odszukać ich drogę w podziemnym labiryncie
+        - Lambert
+            - Most na wyspę świątynną został uszkodzony podczas konfrontacji Filippy Eilhart i Radowida. Wybuch był podobno spowodowany orężem, który jakiś Łowca ugodził {wiedźmę}Filippa
+            - Zadana rana uniemożliwiła {czarodziejce}Filippa rzucanie kolejnych zaklęć. Szybko została pojmana, by spotkać swój koniec w Wyzimie, na mocy wyroku wydanego przez Addę
+            - Podczas bitwy na moście zniknęli de facto liderzy Łowców, Slyz Myrton i Zygfryd z Densele
+            - być może Myrton jest przetrzymywany w lochach przez głowę Zakonu Wiecznego Ognia, Hemmelfarta, a nie pochowany na wyspie świątynnej z Zygfrydem jak głosi wieść gminna
+        - Lars
+            - Nowy Cesarz uważa działania za samowolkę i podburzanie do wojny, co wykorzystuje by implementować dokładniejszy dozór sztuk magicznych w Nilfgaardzie
+            - Zasady ustalone przez władcę implementuje "magiczna policja", organizacja złożona z osób o predyspozycjach w tym kierunku, choć nie magach per se
+            - Florian został zamknięty w dwimerytowej klatce z obciętym językiem, a jego oprawcy sondują jego umysł by dociec powodów jego działań
+        - Istredd
+            - mag wygląda na wymęczonego i w nie swoich ubraniach
+            - za jego ramieniem można zauważyć Geralta
+            - opowiada o punktach mocy, z których mogła by skorzystać Keira
+                - Punkt pod Wyzimą okupowany jest przez Archeospora, a bliskość miasta powoduje, że konsekwencje nieudanego rytuału mogą być poważne
+                - W Angren trzeba by się pozbyć "Jedynego Prawdziwego Druida", {czarodziej}Istredd zdaje się unikać tej opcji choć między liniami można domyślić się że ułożenie sytuacji z Druidem mogło by pomóc w relacjach z Nilfgaardem
+                - W Toussaint tamtejszy krąg druidzki, opiekunowie punktu mocy nie widzą przeciwwskazań (chociaż aportującego się bez zaproszenia maga trzymali w wiklinowym koszu, do czasu gdy Geralt nie przybył za niego poręczyć), jednak do próby żądają przyzwolenia Księżnej zarządzającej "niepodległym" księstwem. Ta zaś, będąc pod wpływami Złotego Miasta, na pewno zażąda czegoś w zamian - jest to rozgrywka polityczna
+    - odbywa się głosowanie w sprawie leczenia Keiry. Kapituła decyduje rozwiązać problem panoszący się w Ysgith i skorzystać z tamtejszego punktu mocy
+        - trzy za Wyzimą (Istredd, Mozaik, Stregobor)
+        - cztery za Angren (Kajetan)
+        - wstrzymali się (Radcliffe)
+    - do drugiego głosowania, w sprawie leczenia Margarity i Triss (Ida, opuszczając Kapitułę, może zrobić co jest w stanie i uzna za stosowne) nie dochodzi:
+        - plotki są powtarzane na tyle głośno że prowadzący nie mogą ich zignorować
+        - potwierdzają, że czarodziejki z czyjąś pomocą wydywinowały już odpowiednie dla siebie lokacje (Triss - ogień - góra Cremora, góra Carbon; Margaria - powietrze - ?)
+        - żądają od konfraterek deklaracji, iż dostosują się do decyzji Kapituły. O ile Margarita składa takową w raczej szczery sposób, Triss rzuca w Radcliffe'a i Carduina oskarżeniem o zagrywki polityczne
+        - sala wybucha dyskusjami przekrzykujących się magów
+        - Radcliffe ze sporym wysiłkiem uspokaja zgraję nieokrzesanych czarodziejów, próbując zadeklarować przełożenie drugiego głosowania na późniejszy termin
+        - Zgrupowanie gotowe jest rozejść się, każden jeden pełen podejrzeń o knucie i zarazem gotów do knucia
+        - Z zgodą Ilany, Kajetan przywołuje uwagę uczestników, nie pozwalając im się rozejść i żądając przywrócenia pozycji Triss jako głowy Kapituły w wszystkich sprawach z wyjątkiem tych związanym z leczeniem siebie, Margarity i Keiry
+        - Radcliffe próbuje go zbyć
+            - najpierw zasłaniając się statutem Organizacji, nie jest w stanie jednak obronić tej pozycji, {elf}Kajetan, jako niedawno przyjęty członek, ma pisany na elfią modłę z mnogimi niedomówieniami na świeżo
+            - potem naciskając, że ten temat, w przeciwieństwie do generalnego leczenia poszkodowanych czarodziejek jest wewnętrzną sprawą samej Wysokiej Rady, nie szerszego zgromadzenia
+        - Niespodziewanie Kajetana wspiera Yennefer
+        - pod naciskiem Radcliffe zgadza się, aby Triss wznowiła swoje obowiązki jako głowa organizacji, jednak głosowanie jak dalej leczyć czarodziejki zostanie podjęte po wyleczeniu Keiry
+3. Wspomnienionauta
+    - Zangenisowi w prowadzeniu transu Kajetana będzie Radcliffe. Biorąc pod uwagę niedawne zebranie, sytuacja jest nieco niezręczna.
+    - Po krótkiej dyskusji o tym jak przebiegnie proces, {elf}Kajetan ładuje się do ciemnej wanny, mającej wytłumić jego zmysły
+    - Zanurza się w rzece własnych wspomnień.
+    - wyłazi na drugim brzegu, nieco skonfundowany, ale:
+        - całkiem pewien, że do manipulacji jego pamięcią wykorzystano jakiś artefakt, przypominający nieco kule zdobiące drogowskazy do Crag An
+        - jego wspomnienia zostały nie tyle zmodyfikowane co zręcznie i wybiórczo wytłumione czy ocenzurowane, tak by te pozostałe zbudowały zniekształcony obraz rzeczywistości.
