@@ -29,7 +29,7 @@
         - chciałby, aby Mirna przeniosła swój warsztat do Cidaris lub Bremervoord, które uważa za bardziej cywilizowane - oraz lepiej spenetrowane przez gang
         - przypisuje {młodej alchemiczce}Mirna ochronę
         - rozszerza nieco plotki o Angrenie - ponoć wariat z lasu przygotowuje ziemie niegdyś należące do Białego Elfa na jego powrót
-        - elfie ruiny w Ysgyth dostępne ponoć są tylko w czasie suszy, od dłuższego czasu przykrywa je bagno; być może leży tam jakaś poszlaka kim miałby być _"Biały Elf"_
+        - elfie ruiny w Ysgith dostępne ponoć są tylko w czasie suszy, od dłuższego czasu przykrywa je bagno; być może leży tam jakaś poszlaka kim miałby być _"Biały Elf"_
     - W czasie spotkania Kajetan wyczuwa, że ktoś podsłuchuje - lub monitoruje - zza ściany, z czymś w ręku, o czym myśli intensywnie (czyżby petarda?).
     - Po spotkaniu para wraca do warsztatu i krótko relacjonuje spotkanie. Mirna nie chce zostać sama na noc, więc Ilana, chcąc dać im trochę prywatności, wychodzi rozejrzeć się za niedrogim noclegiem na jedną noc. Znajduje całkiem nie najpodlejszą karczmę.
 4. Co kogo po pierzynie goniło

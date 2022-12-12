@@ -32,7 +32,7 @@
     - W swoim wolnym czasie Kajetan natomiast radzi i dopomaga magią przy konstrukcji wodnego młyna. Gawędzi przy tym z Diestalem o podziale obowiązków w Wiosce.
     - Wieczorem {elf}Kajetan komunikuje się z Mirną. Poza miło spędzonym wieczorem, dowiaduje się, że:
         - Salamandry w Kerrack mają problemy z dostawami ziół potrzebnych do produkcji ich narkotyków
-        - w gangu krążą plotki, że to wina czarodziejów, którzy namieszali coś z Ysgyth, z którego to gangsterzy importują komponenty
+        - w gangu krążą plotki, że to wina czarodziejów, którzy namieszali coś z Ysgith, z którego to gangsterzy importują komponenty
         - Kajetan opowiada co naprawdę dzieje się w Angrenie
         - w Salamandrach pojawił się ktoś, kto podaje się za maga; Mirna węszy podstęp, wtyczkę albo kogoś, kto próbuje grać na dwa fronty, sprawia wrażenie zaniepokojonej i gotowej zwijać żagle z tego portu w rejsie swojego życia
 4. Pora w drogę

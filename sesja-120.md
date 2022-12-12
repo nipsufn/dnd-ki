@@ -20,7 +20,7 @@
         - Yennefer wyruszyła za wiedźminami do Est Tayiar, jako że coraz trudniej było z nimi porozumiewać się środkami magicznymi
         - Istredd bada jedno z miejsc mocy, w Tuzli, stolicy Księstwa Angren, obecnie lenna Nilfgardzkiego
     - Kajetan kontaktuje się z Istreddem:
-        - punkt mocy znajduje się na bagnach Ysgyth, w Caed Dhu (Czarnym Gaju), dawniej letniej siedzibie okolicznych druidów
+        - punkt mocy znajduje się na bagnach Ysgith, w Caed Dhu (Czarnym Gaju), dawniej letniej siedzibie okolicznych druidów
         - ostatnio na bagnach pojawiają się dziwne twory (wielkie węże, ropuchy i pająki), ktoś smaruje ludziom na chatach napisy w nieznanych językach
         - plotki niosą, że jacyś czarodzieje prowadzili na bagnach wykopaliska po których zaczęły się problemy
         - mag planuje nająć przebywającego w okolicy wiedźmina jako ochroniarza na czas wypadu-zwiadu do kniei
@@ -47,7 +47,7 @@
     - Gdy Ilana magluje Kasimira, łączy się z nami Istredd:
         - w Caed Dhu osiadł jakiś druid
         - osobnik zaczął budować kult, znalazłszy posłuszników wśród grasujących złodziejaszków
-        - terroryzują mieszkańców Ysgyth, strasząc śmiercią jeśli nie odejdą lub nie wstąpią w ich szeregi
+        - terroryzują mieszkańców Ysgith, strasząc śmiercią jeśli nie odejdą lub nie wstąpią w ich szeregi
         - mają ogolone głowy, zasłaniają połowę twarzy błotem i korą
         - {mag}Istredd wysłał wiadomość, w nadziej na widzenie z tajemniczą postacią z Czarnego Lasu
         - wiedźmin szkoły kota, który pracował w okolicy (z opisu być może Gaetan) twierdzi, że to Borowy (Ilana mówi że to taki Leszy, tylko niedobry), z którym nie ma co pertraktować
