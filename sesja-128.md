@@ -16,7 +16,7 @@
         - elfka proponuje spotkanie w Mircie, niedaleko wideł rzek. Kajetan, ma nadzieję delikatnie, odmawia, tłumacząc się innymi zajęciami i odległością
         - "pozdrowienia od Filavandrela" przekazane podczas naszego spotkania w Kerrack były dosłowne - dawny mistrz przekazał jej informacje o lokacji Kajetana i kazał życzyć zdrowia (wiedząc w jakim stanie jest Elatan, prawdopodobnie domyślał się jak to się skończy)
         - Król z Białych Wież zdaje się nie spodziewał, że Elatan będzie jedną z tych, którzy przetrwali wypadek
-        - Do bitki z Idą doszło gdy w jednym z labolatoriów Filavandrela włączył się alarm. Elatan pobiegła sprawdzić co się dzieje, jakiś czas potem - spóźniona Ida. Założyła że sznupiąca koleżanka jest nieproszonym gościem, z czego wywiązała się wymiana fizycznych argumentów.
+        - Do bitki z Idą doszło gdy w jednym z laboratoriów Filavandrela włączył się alarm. Elatan pobiegła sprawdzić co się dzieje, jakiś czas potem - spóźniona Ida. Założyła że sznupiąca koleżanka jest nieproszonym gościem, z czego wywiązała się wymiana fizycznych argumentów.
         - spotkanie kwituje "Mam nadzieję, że odzyskasz dawną iskrę"
 2. Ilana na mieście
     - dziewczyna wybiera się do Małego Mahakamu, dzielnicy zamieszkanej głównie przez krasnoludy. W Zaułku Złotników znajduje warsztat skłonny przetopić kawałki srebrnego miecza w groty i sztylety
