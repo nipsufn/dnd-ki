@@ -62,6 +62,7 @@
         - kapłanki przepędziły go twierdząc, że klątwa ich siostry to kara od samej Freyji za przewiny, o których nie chcą mówić w szczegółach
         - wiedźmina odwiedził kruk, który kazał mu szukać odpowiedzi w gaju Gedyneith
         - bohater musiał odłożyć sprawę, gdy dopadli go "towarzysze z Łukomorza" (obszar w okolicy Blaviken, w północnej części Redanii, za rzeką Buiną)
-        - Gerd zmarł później u boku Torgiera, broniąc jego twierdzy przed Nilfgaardzką retrybucją za rajd na Złote Miasto
+        - Gerd zmarł później u boku Torgeira, broniąc jego twierdzy przed Nilfgaardzką retrybucją za rajd na Złote Miasto
     - Więcej informacji o Torgeirze przewija się w śpiewniku z Wysp, w jednej z pieśni. O Gerdzie nie ma natomiast ani słowa więcej.
     - Ilana pyta Mardina o Gedyneith. Mag nie ma pojęcia gdzie to, ale pozwala jej wykonać odpis mapy Skellige, którą posiada w zbiorach.
+    ![mapaSkellige](https://github.com/nipsufn/dnd-ki/raw/master/img/mapaSkellige.jpg "mapaSkellige")<a id="mapa"></a>
