@@ -1,73 +1,84 @@
 ### Sesja 127
 ##### [Sesja 126](#sesja-126) [Sesja 128](#sesja-128)
 1. Jeszcze chwileczkę
-    - Kajetan, po rozmowie z Zangenisem udaje się do biblioteki
+    - Kajetan, po rozmowie z Zangenisem, udaje się do biblioteki. Chce rozejrzeć się za dziełami traktującymi o rozdwojeniu jaźni.
     - W księgozbiorach {elf}Kajetan znajduje abstrakt pracy Ireneusza Var Steingarda, mający związek z wymieszanymi wspomnieniami:
-        - mag wspomina też o wiedźminie szkoły Kota, Kijanie, którego badał
-        - prace prowadził 100 - 150 lat temu
-        - mag miał siedzibę na wyspie w Novigradzie, prawie pewnikiem obecna "Wyspa Świątynna"
-2. Narada rady
-    - Spotkanie moderuje jak zwykle Carduin, w roli głowy Nowej Kapituły występuje, wciąż widocznie zesztywniały, Radcliffe
-    - Przemawiają:
-        - Carduin
-            - kamień zdobiący jego kostur przypomina ten z nad masztu rozbitego okrętu po drugiej stronie Białego Zimna
-            - inkantuje zaklęcie komunikacyjne. Jedynie fragment przypominał zwykle stosowaną Starszą Mowę:
-                - __Powołując się na pamięć Architektów, przyzywam was, gdziekolwiek jesteście__
-            - przedstawia Radcliffe'a jako tymczasowego przywódcę organizacji
-            - informuje o rezygnacji Idy Emean aep Sivney ze swojej pozycji w Kapitule. Próżna (?) elfka zabrała ze sobą obrazy, które niegdyś zdobiły ściany Thanedd
-        - Lars
-            - Nowy Cesarz, Morvran Voorhis uważa działania za samowolkę i podburzanie do wojny, co wykorzystuje by implementować dokładniejszy dozór sztuk magicznych w Nilfgaardzie
-            - Zasady ustalone przez władcę implementuje "magiczna policja", organizacja złożona z osób o predyspozycjach w tym kierunku, choć nie magach per se
-            - Florian został zamknięty w dwimerytowej klatce z obciętym językiem, a jego oprawcy sondują jego umysł by dociec powodów jego działań
-            - sześcioma statkami, które widzieliśmy wpływające do portu, przywożą Henrego Var Atre, ambasadora Nilfgaardzkiego. Złote Miasto wznawia stosunki dyplomatyczne z Królestwami Północy
-        - Eskel
-            - pod Trupią Knieją ciągną się kilometry przysypanych budowli, połączonych tunelami a gdzieniegdzie wciąż aktywnymi teleportami
-            - wejście, które udało się wiedźminom znaleźć, było czyjąś dziurą do pozbywania się zwłok, w której zalągł się wypaczony troll zwany Kaczerbem. Krzywej mordki dostał od jedzenia zwłok magicznie uzdolnionych.
-            - w tunelach znaleźli opuszczone tydzień - dwa wcześniej laboratorium
-            - w sali wciąż tkwiło dwóch Łowców, okrutnie zniekształconych wyrastającymi z nich dwimerytowymi kryształami. Na zaklęcia towarzyszącej wiedźminom Yennefer byli niewrażliwi, niektóre odbijali a jeszcze inne zdawali się wykorzystywać dla własnego pokrzepienia
-            - w śród śladów po makabrycznych eksperymentach znajdowała się klatka, którą od środka porastały te same kryształy, jakby pochodziły z miejsca w którym tkwił jej okupant
-            - trop "badaczy" jest zimny, nie ma sposobu by odszukać ich drogę w podziemnym labiryncie
-            - Zangenis podsumowuje, stwierdzając, że prace i potencjalny sukces Łowców nad "zabójcą magów" należy traktować jako kwestię priorytetową, niejako "wypowiedzenie wojny"
-        - Lambert
-            - Most na wyspę świątynną został uszkodzony podczas konfrontacji Filippy Eilhart i Radowida. Wybuch był podobno spowodowany orężem, który jakiś Łowca ugodził {wiedźmę}Filippa
-            - Zadana rana uniemożliwiła {czarodziejce}Filippa rzucanie kolejnych zaklęć. Szybko została pojmana, by spotkać swój koniec w Wyzimie, na mocy wyroku wydanego przez Addę
-            - Podczas bitwy na moście zniknęli de facto liderzy Łowców, Slyz Myrton i Zygfryd z Densele
-            - być może Myrton jest przetrzymywany w lochach przez głowę Zakonu Wiecznego Ognia, Hemmelfarta, a nie pochowany na wyspie świątynnej z Zygfrydem jak głosi wieść gminna
-        - Brass:
-            - Pretendentów do tronu Kaedwen zostało dwóch - Byzkonia dziwnym trafem spotkał jakiś wypadek w czasie polowania
-            - Ban Ard jest dalej zabezpieczone, chociaż po śladach można wnioskować, że ktoś próbował się do szkoły dostać
-            - Po Kaedwen tułają się potwory, ciągnące od naruszonych elfich nekropolii
-        - Istredd
-            - mag wygląda na wymęczonego i w nie swoich ubraniach
-            - za jego ramieniem można zauważyć Geralta
-            - opowiada o punktach mocy, z których mogła by skorzystać Keira
-                - Punkt pod Wyzimą okupowany jest przez Archeospora, a bliskość miasta powoduje, że konsekwencje nieudanego rytuału mogą być poważne
-                - W Angren trzeba by się pozbyć "Jedynego Prawdziwego Druida", {czarodziej}Istredd zdaje się unikać tej opcji choć między liniami można domyślić się że ułożenie sytuacji z Druidem mogło by pomóc w relacjach z Nilfgaardem czy bezpośrednim zarządcą, Dragomirem Caldwellem
-                - W Toussaint tamtejszy krąg druidzki, opiekunowie punktu mocy nie widzą przeciwwskazań (chociaż aportującego się bez zaproszenia maga trzymali w wiklinowym koszu, do czasu gdy Geralt nie przybył za niego poręczyć), jednak do próby żądają przyzwolenia Księżnej zarządzającej "niepodległym" księstwem. Ta zaś, będąc pod wpływami Złotego Miasta, na pewno zażąda czegoś w zamian - jest to rozgrywka polityczna
-    - odbywa się głosowanie w sprawie leczenia Keiry. Kapituła decyduje rozwiązać problem panoszący się w Ysgith i skorzystać z tamtejszego punktu mocy
+        - mag wspomina o wiedźminie szkoły Kota, Kiyanie, którego badał
+        - prace prowadził jakieś 100 - 150 lat temu
+        - mag miał siedzibę na wyspie w Novigradzie, prawie pewnikiem jest to obecna "Wyspa Świątynna"
+    - Na Ilanę czeka odpowiedź z domu aukcyjnego Borsodych. Są skłonni wystawić miecz na następnej aukcji z ceną wywoławczą 1000GP. Jeśli artefakt znajdzie szczęśliwego nabywcę, wówczas liczą sobie 20% prowizji od ceny końcowej tytułem kosztów manipulacyjnych.
+    - Spotykamy się w celi Kajetana. Wieczorem dzwony ogłaszają, że oto nastała pora zebrania w Garnstangu.
+2. Narada Rady
+    - Zostajemy poprowadzeni na jedno z wyższych, starszych pięter pozbawionych dobudowy. Całe pomieszczenie ledwo zauważalnie wibruje, miarkując po wodzie wypełniającej płytką nieckę na środku sali obrad. W wodzie odbijają się "gwiazdy" - światła na suficie ułożone na wzór konstelacji, to one zdają się wibrować. Dokoła zbiornika ustawiono krzesła.
+    - Do sali powoli wlewają się wszyscy zainteresowani: najwyżsi magowie oraz inni goście, w tym wiedźmini Eskel i Lambert.
+    - Spotkanie moderuje jak zwykle Carduin, w roli głowy Nowej Kapituły występuje, wciąż widocznie zesztywniały, Radcliffe.
+    - Krzeseł jest mniej niżeli gości. Są przeznaczone tylko dla oficjalnych członków Kapituły. Carduin ogłasza początek zebrania. Inkantuje zaklęcie komunikacyjne, którego mały fragment przypomina zwykle stosowaną Starszą Mowę: "_Powołując się na pamięć Architektów, przyzywam was, gdziekolwiek jesteście_". W ten sposób do spotkania dołączają pozostali, nieobecni tu fizycznie magowie.
+    - Kamień zdobiący jego kostur przypomina ten znad masztu rozbitego okrętu po drugiej stronie portalu do Białego Zimna.
+    - Carduin przedstawia Radcliffe'a jako tymczasowego przywódcę organizacji. Informuje też o rezygnacji Idy Emean aep Sivney ze swojej pozycji w Kapitule. Próżna(?) elfka zabrała ze sobą obrazy, które niegdyś zdobiły ściany Thanedd.
+    - Przemawiają kolejno wszyscy zaangażowani ostatnio w pracę w terenie, zdając raporty ze swoich dokonań.
+    - Pierwszy odpytany zostaje Lars z misji w ZŁotym Mieście:
+        - nowy Cesarz, Morvran Voorhis uważa działania Floriana za samowolkę podżegającą do wojny, co sam wykorzystuje by implementować dokładniejszy dozór sztuk magicznych w Nilfgaardzie
+        - pod względem poglądów (tych względem magów też) niebezpiecznie blisko Voorhisowi do Radowida
+        - zasady ustalone przez władcę implementuje "magiczna policja", organizacja złożona z osób o predyspozycjach w tym kierunku, choć nie magach per se; zwą ich psionikami
+        - Florian został zamknięty w dwimerytowej klatce w więzieniu o zaostrzonym rygorze; obcięto mu język, a jego oprawcy sondują mu umysł by dociec powodów jego działań
+        - na jednym z nilfgaardzkich statków, które widzieliśmy wpływające do portu, przybywa Henry Var Attre, ambasador Nilfgaardzkiego
+        - Złote Miasto wznawia stosunki dyplomatyczne z Królestwami Północy, a sam cesarz zamiaruje niebawem odwiedzić Północ
+    - Następnie Eskel i raport z Est Tayar:
+        - pod Trupią Knieją ciągną się kilometry podziemnych budowli, połączonych tunelami a gdzieniegdzie wciąż aktywnymi teleportami
+        - wejście, które udało się wiedźminom znaleźć, było czyjąś dziurą do pozbywania się zwłok, w której zalągł się wypaczony troll górski zwany Kaczerbem; krzywej mordki dostał od jedzenia zwłok z pierwiastkiem magii
+        - w tunelach znaleźli opuszczone tydzień - dwa wcześniej laboratorium
+        - w sali wciąż tkwiło dwóch Łowców, okrutnie zniekształconych wyrastającymi z nich dwimerytowymi kryształami; na zaklęcia towarzyszącej wiedźminom Yennefer byli niewrażliwi, niektóre odbijali, a jeszcze inne zdawali się wykorzystywać dla własnego pokrzepienia
+        - "na pamiątkę" Eskel przywiózł głowę jednego z Łowców; należała do Browna, znanego nam upierdliwego służbisty z Mariboru
+        - wśród śladów po makabrycznych eksperymentach znajdowała się klatka, którą od środka porastały te same kryształy, jakby pochodziły z miejsca, w którym tkwił jej okupant
+        - trop "badaczy" jest zimny, nie ma sposobu by odszukać ich drogę w podziemnym labiryncie
+        - Zangenis podsumowuje, stwierdzając, że prace i potencjalny sukces Łowców nad "zabójcą magów" należy traktować jako kwestię priorytetową, niejako "wypowiedzenie wojny"
+    - Lambert i raport z Wyzimy:
+        - most na wyspę świątynną został uszkodzony podczas konfrontacji Filippy Eilhart i Radowida, który poległ podczas tego starcia
+        - wybuch był podobno spowodowany orężem, którym jakiś Łowca ugodził {wiedźmę}Filippa
+        - zadana rana uniemożliwiła {czarodziejce}Filippa rzucanie kolejnych zaklęć; została pojmana, by spotkać swój koniec na stosie w Wyzimie, na mocy wyroku wydanego przez Addę
+        - podczas bitwy na moście zniknęli de facto liderzy Łowców, Slyz Myrton i Zygfryd z Densele
+        - być może Myrton jest przetrzymywany w lochach przez głowę Zakonu Wiecznego Ognia, Hemmelfarta, a nie pochowany na wyspie świątynnej z Zygfrydem, jak głosi wieść gminna
+        - co ciekawe, przed śmiercią Zygfryd często podróżował na trasie Novigrad - Tretogor przez Trupią Knieję i Bronowice
+    - Brass i raport z Kaedwen:
+        - po zamachu na czarodziejki {mag}Brass udał się z Kateriną do Kaedwen, a Kapituła wycofała się ze stronniczenia w tamtejszej sukcesji
+        - pretendentów do tronu Kaedwen zostało dwoje - Buskona dziwnym trafem spotkał jakiś wypadek w czasie polowania
+        - nie będąc finalnie pełnoprawnym magiem, Orest z Ban Aard został uznany za pretendenta do tronu i wzięty pod uwagę
+        - po tych wydarzeniach lokalna szlachta samoistnie podzieliła się na dwa stronnictwa
+        - Ban Ard jest dalej zabezpieczone, chociaż po śladach można wnioskować, że ktoś próbował się do szkoły dostać
+        - po Kaedwen tułają się potwory, ciągnące od naruszonych elfich nekropolii
+        - pada sugestia, by skoligacić ze sobą pretendentów i położyć kres wojnie domowej
+        - debatę na ten temat ucina Triss stwierdzeniem, że ze wszystkich poruszonych kwestii sprawa Kaedwen jest obecnie najmniej istotna, na co oburzają się Zavist i Stregobor
+    - Istredd:
+        - mag wygląda na wymęczonego i przebranego w nie swoje ubrania, co nie uchodzi uwadze Yennefer i Triss; czarodziejki teatralnie plotkują
+        - za jego ramieniem można zauważyć Geralta, zdaje się właściciela nowych szat maga
+        - opowiada o punktach mocy, z których mogłaby skorzystać Keira; pada nazwa lokacji w Toussaint: Caed Myrkvid (Czarne Dąbrowy/Czarny Las)
+        - punkt pod Wyzimą okupowany jest przez Archeospora, a bliskość miasta powoduje, że konsekwencje nieudanego rytuału mogą być poważne
+        - w Angrenie trzeba by się pozbyć "Jedynego Prawdziwego Druida"
+        - {czarodziej}Istredd zdaje się unikać tej opcji choć między wierszami można domyślić się, że ułożenie sytuacji z Druidem mogło by pomóc w relacjach z Nilfgaardem czy bezpośrednim zarządcą, Dagomirem Caldwellem
+        - okazuje się, że drewniane potwory, którymi Druid przegania intruzów są napędzane siłami życiowymi (duszami?) ludzi zamordowanych przez jego sługusów-kultystów
+        - w Toussaint tamtejszy krąg druidzki - opiekunowie punktu mocy - nie widzą przeciwwskazań (chociaż aportującego się bez zaproszenia maga trzymali w wiklinowym koszu, do czasu gdy Geralt nie przybył za niego poręczyć), jednak do próby żądają przyzwolenia Księżnej zarządzającej "niepodległym" księstwem; ta zaś, będąc pod wpływami Złotego Miasta, na pewno zażąda czegoś w zamian - jest to potencjalna rozgrywka polityczna
+        - Druidom z Caed Myrkvid przewodzi flaminika Olena
+    - Carduin zarządza krótką przerwę, po której ma nastąpić głosowanie.
+    - Podchodzi do nas Lars. Dzieli się plotką, jakoby czarodziejki miały działać na własną rękę niezależnie od wyniku głosowania. {Mag}Lars optuje za opcją angreńską, tj. Ysgith.
+    - Odbywa się głosowanie, a raczej jego pierwsza część poświęcona sprawie leczenia Keiry. Przewagą jednego głosu Kapituła decyduje się rozwiązać problem panoszący się w Ysgith i skorzystać z tamtejszego punktu mocy:
         - trzy za Wyzimą (Yennefer, Mozaik, Brass)
         - cztery za Angren (Lars, Kajetan, Zangenis, Myra)
         - trzy za Toussaint (Tizjana, Carduin, Mozaik)
         - wstrzymali się (Radcliffe, Zavist)
-    - do drugiego głosowania, w sprawie leczenia Margarity i Triss (Ida, opuszczając Kapitułę, może zrobić co jest w stanie i uzna za stosowne) nie dochodzi:
-        - plotki są powtarzane na tyle głośno że prowadzący nie mogą ich zignorować
-        - potwierdzają, że czarodziejki z czyjąś pomocą wydywinowały już odpowiednie dla siebie lokacje (Triss - ogień - góra Cremora, góra Carbon, Tir Tohair (gdzieś w Nilfgaardzie); Margaria - powietrze - góra An Skellig, góry Amel w Erenwaldzie, oraz jakiś punkt gdzieś w północno wschodnich Górach Sinych (Yennefer może coś wiedzieć o tym miejscu))
-        - żądają od konfraterek deklaracji, iż dostosują się do decyzji Kapituły. O ile Margarita składa takową w raczej szczery sposób, Triss rzuca w Radcliffe'a i Carduina oskarżeniem o zagrywki polityczne
-        - sala wybucha dyskusjami przekrzykujących się magów
-        - Radcliffe ze sporym wysiłkiem uspokaja zgraję nieokrzesanych czarodziejów, próbując zadeklarować przełożenie drugiego głosowania na późniejszy termin
-        - Zgrupowanie gotowe jest rozejść się, każden jeden pełen podejrzeń o knucie i zarazem gotów do knucia
-        - Z zgodą Ilany, Kajetan przywołuje uwagę uczestników, nie pozwalając im się rozejść i żądając przywrócenia pozycji Triss jako głowy Kapituły w wszystkich sprawach z wyjątkiem tych związanym z leczeniem siebie, Margarity i Keiry
-        - Radcliffe próbuje go zbyć
-            - najpierw zasłaniając się statutem Organizacji, nie jest w stanie jednak obronić tej pozycji, {elf}Kajetan, jako niedawno przyjęty członek, ma pisany na elfią modłę z mnogimi niedomówieniami na świeżo
-            - potem naciskając, że ten temat, w przeciwieństwie do generalnego leczenia poszkodowanych czarodziejek jest wewnętrzną sprawą samej Wysokiej Rady, nie szerszego zgromadzenia
-        - Niespodziewanie Kajetana wspiera Yennefer
-        - pod naciskiem Radcliffe zgadza się, aby Triss wznowiła swoje obowiązki jako głowa organizacji, jednak głosowanie jak dalej leczyć czarodziejki zostanie podjęte po wyleczeniu Keiry
+    - Do drugiego głosowania, w sprawie leczenia Margarity i Triss (Ida, opuszczając Kapitułę, może zrobić co jest w stanie i uzna za stosowne) finalnie nie dochodzi. Plotki są powtarzane na tyle głośno że prowadzący nie mogą ich zignorować. Potwierdzają, że czarodziejki z czyjąś pomocą wydywinowały już odpowiednie dla siebie lokacje (Triss - ogień - góra Cremora, góra Carbon, Tir Tohair (gdzieś w Nilfgaardzie); Margaria - powietrze - góra An Skellig, góry Amel w Erlenwaldzie, oraz jakiś punkt gdzieś w północno wschodnich Górach Sinych; Yennefer może coś wiedzieć o tym miejscu).
+    - Radcliffe wywołuje je na środek. Żąda od konfraterek deklaracji, iż dostosują się do decyzji Kapituły. O ile Margarita składa takową w raczej szczery sposób, Triss rzuca w Radcliffe'a i Carduina oskarżeniem o zagrywki polityczne. Sala wybucha dyskusjami przekrzykujących się magów.
+    - Radcliffe ze sporym wysiłkiem uspokaja zgraję nieokrzesanych czarodziejów, próbując zadeklarować przełożenie drugiego głosowania na późniejszy termin. Zgrupowanie gotowe jest się rozejść, każden jeden pełen podejrzeń o knucie i zarazem gotów do knucia.
+    - Za zgodą Ilany, Kajetan przywołuje uwagę uczestników zebrania, nie pozwalając im się rozejść i żądając przywrócenia pozycji Triss jako głowy Kapituły we wszystkich sprawach z wyjątkiem tych związanym z leczeniem siebie, Margarity i Keiry.
+    - Radcliffe próbuje go zbyć najpierw zasłaniając się statutem Organizacji, nie jest w stanie jednak obronić tej pozycji - {elf}Kajetan, jako niedawno przyjęty członek, ma pisany dokument - na elfią modłę z mnogimi niedomówieniami - na świeżo. Potem naciska, że ten temat, w przeciwieństwie do generalnego leczenia poszkodowanych czarodziejek, jest wewnętrzną sprawą samej Wysokiej Rady, nie szerszego zgromadzenia.
+    - Niespodziewanie Kajetana wspiera Yennefer, nie przebierając przy tym w słowach. Pod naciskiem Radcliffe zgadza się, aby Triss wznowiła swoje obowiązki jako głowa organizacji, jednak głosowanie jak dalej leczyć czarodziejki zostanie podjęte dopiero po wyleczeniu Keiry.
+    - Ilana zauważa, że Zavist, który nawiasem przed udaniem się na urlop przekazał pieczę nad biblioteką Mardinowi, przez całe spotkanie zdaje się być znudzony i trochę zdystansowany, jakby nie pokładał w tej organizacji zbyt dużych nadziei.
+    - Osiągnąwszy jako-taki consensus, rozchodzimy się każdy w swoją stronę.
 3. Wspomnienionauta
-    - Zangenisowi w prowadzeniu transu Kajetana będzie Radcliffe. Biorąc pod uwagę niedawne zebranie, sytuacja jest nieco niezręczna.
-    - Po krótkiej dyskusji o tym jak przebiegnie proces, {elf}Kajetan ładuje się do ciemnej wanny, mającej wytłumić jego zmysły
-    - Zanurza się w rzece własnych wspomnień.
-    - wyłazi na drugim brzegu, nieco skonfundowany, ale:
+    - Kajetan odwiedza Zangenisa celem rozpoczęcia leczenia z dualnych wspomnień.
+    - W przeprowadzeniu transu pomoże mu Radcliffe. Biorąc pod uwagę niedawne zebranie, sytuacja jest nieco niezręczna.
+    - Po krótkiej dyskusji o tym jak przebiegnie proces, {elf}Kajetan ładuje się do ciemnej wanny, mającej wytłumić jego zmysły.
+    - Instruowany prze kolegów po fachu, zanurza się w rzece własnych wspomnień. Wyłania się na drugim brzegu, nieco skonfundowany, ale:
         - całkiem pewien, że do manipulacji jego pamięcią wykorzystano jakiś artefakt, przypominający nieco kule zdobiące drogowskazy do Crag An
-        - jego wspomnienia zostały nie tyle zmodyfikowane co zręcznie i wybiórczo wytłumione czy ocenzurowane, tak by te pozostałe zbudowały zniekształcony obraz rzeczywistości.
+        - jego wspomnienia zostały nie tyle zmodyfikowane co zręcznie i wybiórczo wytłumione czy ocenzurowane, tak by te pozostałe zbudowały zniekształcony obraz rzeczywistości
         - wypadek spotkał go, gdy wraz z grupą wysłaną przez Króla Filavandrela z Białych Wież poszukiwali jakiegoś artefaktu - skrzyni wypełnionej mlecznobiałymi kryształami
-        - wybuch, przed którym {elf}Kajetan zasłonił częściowo Elatan, zabił trójkę ich towarzyszy: Crilama, Vridannisa i Veedę. Co ciekawe, we wspomnieniach ciężko doszukać się Isilme.
+        - wybuch, przed którym {elf}Kajetan zasłonił częściowo Elatan, zabił trójkę ich towarzyszy: Crilama, Vridannisa i Veedę; co ciekawe, we wspomnieniach ciężko doszukać się Isilme
