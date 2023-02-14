@@ -1,20 +1,43 @@
 ### Sesja 130
 ##### [Sesja 129](#sesja-129) [Sesja 131](#sesja-131)
 1. Ostatnia narada
-    - Część karczmy jest zarezerwowana dla Nilfgaardzkich najemników, których można rozpoznać po pstrokatych ubraniach i dobrym uzbrojeniu. Ich ubiór ma odróżniać ich od regularnej armii Czarnych (czyżby najęci przez Salamandry? albo zbieg okoliczności?)
-    - Lars przebiera się za Eskela, pod tą przykrywką zamierza rozmawiać z Zarządcą
-    - Ilana, Lambert i Kajetan ruszą razem zanim się rozdzielą. Muszą rozłożyć co najmniej 4 z tuzina magicznych czujek które dostali. Dzielą się nimi po równo.
-        - Ilana zamierza wleźć w sam las, rozmawiać z Druidem:
-            - dziewczyna napotyka wieczorem utopce atakujące czterech ludzi odwiedzających kapliczkę pod drzewem
-            - trójka ludzi umyka, podczas gdy {druidka}Ilana pod postacią wielkiego węża bije się z potworami
-            - jeden z trupojadów znika w rzece z ciałem chłopa
-            - Kapliczka jest ku chwale Krwawej Matki Królowej Bagien. Ludzie wykrzykują w zniekształconej Starszej Mowie "Chwała Gwarn Ihaer"
-            - kolejnego dnia Ilana trafia na osadę otoczoną ostrokołem. Do stojących przed chatami mieszkańców przemawiają Usta Druida, wspierane przez pół tuzina posłuszników
-            - Usta jakimś komentarzem doprowadzają do łez jakąś butną babcię która śmiała kazać im zjeżdżać. Druidka interweniuje, nie chcąc by doszło do rękoczynów...
-        - Kajetan otoczy las od północy, traktem wyglądającym na dość przetarty
-            - pierwszy dzień wyprawy mija mu spokojnie, natrafia na obozowisko drwali
-            - wspierając swoje kłamstwa półprawdami, opowiada że wędruje wzdłuż brzegu lasu, bo przyśnił mu się Lebioda i tak kazał
-            - dostaje jedzenia i dowiaduje się że po lesie krąży forman rębaczy, szukając pomocy "leśnego duszka" dla syna. Chłopaka zakaził trupim jadem jakiś potwór
-            - drugiego dnia elf gubi się we mgle, trafiając na polanę na której trzech posłuszników druida ukrzyżowało kogoś i odprawia jakiś rytuał. Udaje mu się umknąć z powrotem w mgłę
-            - rozbija obóz niedaleko innego, zdaje się wciąż używanego
-        - Lambert będzie szukał Gaetana i potworów po południowej stronie
+    - Schodzimy się na śniadanie. Część karczmy jest zarezerwowana dla nilfgaardzkich najemników, których można rozpoznać po pstrokatych ubraniach i dobrym uzbrojeniu. Lars tłumaczy, że taki ubiór ma odróżniać ich od regularnej armii Czarnych (czyżby najęci przez Salamandry? albo zbieg okoliczności?).
+    - Ilana zauważa, że z naszym kamieniem komunikacyjnym jest coś nie tak - jego powierzchnia zmatowiała. Na szczęście Kajetan "naprawia" ustrojstwo, które {druidka}Ilana, najwyraźniej przez nieuwagę, wprowadziła nieświadomie w tryb czuwania. Na jego powierzchni pokazuje się wiadomość od Skovika:
+        - ich walkę widzieli ludzie z Fyresdal
+        - przybyli po skarby rozbitków, znaleźli grupę Skovika
+        - po zabiciu syren zabrali ich do wioski i ugościli
+        - Krucza Matka to stara legenda - duch lasu, stary i potężny; jako ptak lata po polach bitew, zbiera włosy poległych i tka z nich gobeliny
+        - dobry zwyczaj nakazuje zgolić głowę przed bitwą albo rejsem, by jej nie kusić
+    - Dzielimy się na grupy. Lars przebiera się za Eskela, pod tą przykrywką zamierza rozmawiać z zarządcą. Pozostałym Mozaik wręcza skrzyneczkę z zaopatrzeniem na wyprawę za miasto. W pudełku znajdujemy kilka fiolek z różnymi eliksirami, jakąś różdżkę i 12 niewielkich deltoidów - czujek magicznych.
+    - Ilana, Lambert i Kajetan ruszą razem za miasto. Muszą odszukać Gaetana i się z nim dogadać, rozłożyć co najmniej 4 z tuzina magicznych czujek, które dostali (im bliżej lasu, tym lepiej) oraz wybadać i oszacować siły Druida, abyśmy wiedzieli z czym się mierzymy.
+    - Mozaik pozostanie w mieście i będzie grała swoją rolę, próbując przy tym dowiedzieć się od lokalnych czegoś więcej na temat kultystów i samego ruida.
+2. Prace terenowe
+    - Wychodzimy przez główną (i jedyną) bramę miejską. Kawałek spaceru za miasto dzielimy się czujkami po równo i resztą Mozaikowych fantów, następnie każde idzie w swoją stronę. Wiemy, że zadanie zajmie nam dobrych kilka dni.
+    - Lambert będzie szukał Gaetana i potworów po południowej stronie, w samym sercu bagien.
+    - Ilana zamierza wleźć w sam las, rozmawiać z Druidem:
+        - idąc wieczorem przez bagna słyszy ludzki krzyk
+        - nieopodal, na jednej z wysepek pośród moczarów utopce atakują czwórkę ludzi stawiających znicze pod uschniętym drzewem
+        - Ilana ściąga na siebie uwagę potworów, po czym wskakuje do wody, gdzie zmienia się w gigantycznego węża
+        - utopcom udaje się pochwycić i wciągnąć pod wodę jednego z pielgrzymów, nim wąż dopływa do wyspy
+        - pozostała trójka ludzi umyka przerażona, podczas gdy {druidka}Ilana rozprawia się z potworami
+        - gdy robi się w miarę cicho i bezpiecznie, Ilana wraca do swojej normalnej postaci i przygląda miejscu dokładniej
+        - do wyspy prowadzi szlak drewnianych kładek; tą drogą dotarli tu i nią też uciekli pielgrzymi
+        - w drzewie jest kapliczka z wymytym, humanoidalnym posążkiem z białego elfiego marmuru
+        - oprócz lichych zniczy i podarków, znajduje zwitek z koślawo zapisaną prośbą do bagiennego bóstwa, niejakiej Krwawej Matki, Królowej Bagien o pomoc w pozbyciu się fałszywego Druida
+        - list kończy się zniekształconą frazą w starszej mowie, zapisaną fonetycznie _"chwała Gwarn Ichaer"_
+        - kolejnego dnia, podążając kładkami za pielgrzymami, trafia na osadę otoczoną ostrokołem
+        - w drodze mija drzewo, na którym wisi coś przypominającego pijawkę, ale tak dużą i czerwoną, że można by ją pomylić z jabłkiem
+        - do stojących przed chatami mieszkańców przemawiają Usta Druida, wspierane przez pół tuzina posłuszników o jakże prostej fizjonomii regularnych drabów
+        - mówca prawi, że Druid pragnie pokoju i że prosi jedynie, by wyrzec się zabobonu i starych bożków 
+        - Usta jakimś komentarzem wprawia w osłupienie butną babcię, która śmiała kazać im zjeżdżać
+        - druidka interweniuje, nie chcąc by doszło do rękoczynów
+    - Kajetan otoczy las od północy, bezpieczniejszym traktem wyglądającym na dość przetarty:
+        - pierwszy dzień wyprawy mija mu spokojnie, natrafia na obozowisko drwali
+        - wspierając swoje kłamstwa półprawdami, opowiada, że wędruje wzdłuż brzegu lasu, bo przyśnił mu się Lebioda i tak nakazał
+        - dostaje jedzenia i dowiaduje się, że po lesie krąży forman rębaczy, szukając pomocy "leśnego duszka" dla syna - chłopaka zakaził trupim jadem jakiś potwór
+        - drugiego dnia elf gubi się we mgle
+        - trafia na polanę, na której trzech posłuszników druida w powłóczystych szatach ukrzyżowało kogoś i odprawia jakiś rytuał 
+        - próbuje się wyłgać jak u drwali, niestety bezskutecznie 
+        - kultyści chcą go capnąć i pokazać "właściwą drogę", na szczęście udaje mu się umknąć z powrotem w mgłę
+        - błądzi dalej, aż trafia na jaskinię w skałach, w której ktoś zdaje się rozbił obóz i regularnie w nim bytuje
+        - rozbija swój obóz nieopodal jaskini, w bezpiecznej odległości, ale tak, by móc widzieć kto tam zachodzi
