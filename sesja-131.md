@@ -3,8 +3,8 @@
 1. Ranny wiedźmin
     - Bladym świtem uwagę Kajetana przykuwa chwiejna postać we mgle zbliżająca się do obozu, zdaje się ciągnąca coś.
     - Elf rozpoznaje w przybyszu otumanionego eliksirami rannego Gaetana. Pomaga półprzytomnemu wiedźminowi dotrzeć do jego jaskiniowego obozowiska, opatrzyć rany i odciąć cierniste pnącza zaciśnięte na jego szyi.
-    - Potwór, którego przytaszczył do jaskini to 
-    - Wiedźmin stwierdza że w lesie zalągł się młody Leszy, który podporządkował sobie okolicznych bandytów mający obóz na skraju lasu. To na niego poluje.
+    - Potwór, którego przytaszczył do jaskini to jeden z krzaczaków Druida - bestia przypominająca wielkiego psa lub wilka, spleciona z ciernistych kłączy i innych roślin.
+    - Wiedźmin stwierdza, że w lesie zalągł się młody Leszy, który podporządkował sobie okolicznych bandytów mający obóz na skraju lasu. To na niego poluje.
     - Późnym ranem wyruszają razem do miasta, by porozmawiać z Mozaik i Larsem.
     - Kajetan odbiera krótką, ponaglającą wiadomość Mozaik - wygląda na to, że plany trzeba przyspieszyć.
 2. Przez Usta i mgłę do drzewa
