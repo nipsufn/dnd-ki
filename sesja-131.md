@@ -33,3 +33,4 @@
         - przyznaje, że czas nie zagoił jego nienawiści, którą zawlókł ze sobą do Ysgith, mając nadzieję spocząć w bagiennym lesie, któremu ostatecznie szkodzi
         - Ilana informuje go, że Esme została już uwolniona spod klątwy i że jest już w lepszym miejscu
         - druid nadal nie zgadza się na pomoc w leczeniu czarodziejki, ale dziękuje - zdaje się całkiem szczerze - za rozmowę, która pomogła mu szerzej otworzyć oczy i uświadomiła lub też przypomniała pewne rzeczy
+    - Nie chcąc nadwyrężać cierpliwości gospodarza, Ilana dziękuje za gościnę i opuszcza polanę. Gdy wychodzi z lasu - o dziwo po jego przeciwnej, północnej stronie - otrzymuje identyczną co Kajetan, lakoniczną wiadomość od Mozaik.
