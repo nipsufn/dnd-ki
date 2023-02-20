@@ -1,5 +1,7 @@
 ### Sesja 132
 ##### [Sesja 131](#sesja-131) [Sesja 133](#sesja-133)
+<style type="text/css" media="screen">@import url(https://fonts.cdnfonts.com/css/comic-sans);</style>
+<div style="font-family: 'Comic Sans', sans-serif !important;">
 1. Powrót i ciepłe powitania
     - Kajetan i {wiedźmin}Gaetan docierają do miasta pierwsi, jakoś po południu. Na podgrodziu zachodzą ich nilfgaardzkie fircyki-najemnicy. Prowodyr grupy oferuje piwo i zapłatę w zamian za informacje z bagien, gdy jego podkomendni próbują ich okrążyć. Najemników jest w sumie szóstka, co więcej, w okolicy akuratnież nie kręci się ani jeden strażnik miejski.
     - Kajetan, dalej z powodzeniem zgrywając wiejskiego głupka, udaje przydupasa Gaetana i odmawia współpracy. Gdy jeden z Nilfgaardczyków próbuje złapać go za ramię, wiedźmin odwija mu się grożąc mordobiciem. {Elf}Kajetan kątem oka wyłapuje faktycznego szefa zamieszania - kryjącego się z boku w cieniu kapelusza ex-oficera, osobistego ochroniarza szefa Salamander z Kerrack.
@@ -77,5 +79,4 @@
     - W tym czasie sowa Kajetana wraca z informacją, że zauważyła Nilfgaardczyków. Idą dość wolno ciężko obładowani ekwipunkiem. Dotrą tu za godzinę - dwie.
     - Kajetan przesyła wiadomość do Mozaik, która decyduje się działać. Przyczajona w wieżyczce przy wejściu do obozu, rzuca iluzję na ogień, który staje się zielony i przybiera kształt drzewa. Z drzewa tego spadają liście-iskry i układają się na ziemi w napis "Niebezpieczeństwo", wskazując na kierunek, z którego nadciągają najemnicy.
     - Fortel {czarodziejki}Mozaik powoduje chaos wśród kultystów - zaczynają biegać jak mrówki w mrowisku, ignorując Usta próbującego zapanować nad sytuacją. W tej samej chwili za jego plecami materializuje się Lars i przystawia mu sztylet do gardła.
-
-
+</div>
