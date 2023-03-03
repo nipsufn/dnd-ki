@@ -26,7 +26,7 @@
     - Swadę ucina Mozaik, która chce usłyszeć od wszystkich pomysły co dalej z naszą akcją:
         - Kajetan wstrzymuje się od wyrażenia własnego poglądu, miast tego deklaruje absolutne poparcie dla Ilany
         - Ilana uważa, że powinniśmy spróbować raz jeszcze nakłonić Druida do pomocy, być może uciec się do jakiejś sztuczki teraz, kiedy wiemy o nim trochę więcej; jeżeli się to nie uda, nie będzie stawać reszcie na zawadzie, ale i nie przyłoży ręki do rozlewu krwi
-        - Lars uważa że nie ma czasu na ceregiele i trzeba pozbyć się Druida
+        - Lars uważa, że nie ma czasu na ceregiele i trzeba pozbyć się Druida
     - Ostatnie i decydujące słowo należy jednak do Mozaik. {Czarodziejka}Mozaik wolałaby rozwiązać to pokojowo, ale jeśli druga próba negocjacji spełznie na niczym, wówczas jest zdeterminowana, by przejąć punkt Mocy siłą.
 3. I po naradzie
     - Mozaik i Lars zajmują się szczegółami dalszego planu działania i przygotowaniem ekwipunku.
@@ -57,10 +57,11 @@
     - {Druidka}Ilana, zrugana przez odsypiających libację wiedźminów, wyciąga Kajetana na korytarz. Rozmawiamy o kwestii nilfgaardzkich najemników. Zdaniem Ilany warto by się z nimi rozmówić, by choć na chwilę poniechali polowania i dali nam czas na przeprowadzenie akcji. Kajetan ma pewne wątpliwości.
 5. Akcja - anulacja
     - Nad ranem, przy śniadaniu Ilana dzieli się nowinami także z resztą drużyny. Obaj wiedźmini zostają szczegółowo wypytani o wszelkie kwestie związane z paktem Leszego/Druida oraz jak takowy zerwać.
-    - Wychodzi na to, że zby unieważnić pakt, wystarczy pozbawić życia którąkolwiek z jego stron. Druida nie da się skutecznie ukatrupić, póki żyje ten, z którym zawiązał pakt, więc wybór jest prosty - musimy wyeliminować Usta Jedynego Prawdziwego Druida. Spraw nie będzie jednak prosta, bo dzięki paktowi Usta może podług swojej woli używać mocy Druida.
+    - Wychodzi na to, że zby unieważnić pakt, wystarczy pozbawić życia którąkolwiek z jego stron. Druida nie da się skutecznie ukatrupić, póki żyje ten, z którym zawiązał pakt, więc wybór jest prosty - musimy wyeliminować Usta Jedynego Prawdziwego Druida. Sprawa nie będzie jednak trywialna, bo dzięki paktowi Usta może podług swojej woli używać mocy Druida.
     - Mozaik podkreśla, że mamy działać incognito, a więc żadnego bratania się z najemnikami, a już na pewno nie ma mowy o czarach które ktoś mógłby zobaczyć. Wysyłamy więc Lamberta, by jako wiedźmin się z nimi dogadał.
     - Lambert wraca z pustymi rękami - Nilfgaardczycy zwinęli się i przed świtem ruszyli w stronę lasu.
-    - Nie tracąc czasu zbieramy się kawałek za miastem, skąd Mozaik teleportuje nas wprost pod las, w miejsce, które Gaetan opisał jako obóz kultystów. Przyczajamy się na skarpie, skąd rozciąga się idealny widok na obozowisko. Kultyści zabunkrowali się w dawnej drwalskiej sadybie i przerobili ją na swoją fortecę. Po obozie kręci się kilku pachołków, w tym trzech typków w długich szatach, których Kajetan rozpoznaje jako akolitów. Siedzą przy ognisku i odprawiają chyba jakieś modły. Co ciekawe, każdy z nich ma plamę na szatach wskazującą na niedawną ranę w okolicy serca.
+    - Nie tracąc czasu zbieramy się kawałek za miastem, skąd Mozaik teleportuje nas wprost na polankę, w miejsce, gdzie kilka dni temu Kajetan natknął się na kultystów. Na drzewie wisi to, co pozostało z nieszczęśnika będącego rytualną ofiarą, mocno posunięte w rozkładzie. Ilana ze zdziwieniem konstatuje, że drzewo, do którego go przybito, posiada puls.
+    - Pod przewodnictwem Gaetana docieramy w okolice obozu bandytów-kultystów. Przyczajamy się na skarpie, skąd rozciąga się idealny widok na obozowisko. Kultyści zabunkrowali się w dawnej drwalskiej sadybie i przerobili ją na swoją fortecę. Po obozie kręci się kilku pachołków, w tym czterech typków w długich szatach, których Kajetan rozpoznaje jako akolitów. Siedzą przy ognisku i odprawiają chyba jakieś modły. Co ciekawe, każdy z nich ma plamę na szatach wskazującą na niedawną ranę w okolicy serca.
     - Debatujemy co robić. Ilana sugeruje, by miast bezmyślnie atakować obóz, wpierw zrobić rekonesans - trzeba zorientować się gdzie jest mówca i ile mamy czasu nim dotrą tu Nilfgaardczycy. Dzielimy się na dwie grupy i ustalamy plan:
         - Ilana, Lars i Mozaik zejdą do fortu na przeszpiegi - policzą dokładnie ludzi i odszukają Usta
         - Kajetan zostanie tu z wiedźminami i pośle swoją sowę nad lasem
