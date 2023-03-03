@@ -26,7 +26,7 @@
         - mamy zweryfikować słowa przybyszów o scalaniu się światów
         - Kajetan poddaje pod dyskusję, iż przybysze mogli być oryginalnymi budowniczymi Craag An
         - dzieli się też informacją, że Aen Eldrin i im podobni wśród najstarszych elfów są bajędami
-        - wszyscy zdają się przybyszów nazywać odruchowo elfami, pomimo że ich fizjonomia zdaje się różnić znacząco od Elfów z kontynentu
+        - wszyscy zdają się przybyszów nazywać odruchowo elfami, pomimo że ich fizjonomia zdaje się różnić znacząco od elfów z kontynentu
         - druid uważa, że przybysze są nieszczerzy i zdają się mieć cele, które nie dbają o dobro puszczy
         - Eithne zakuta jest w bloku lodu, przez który Finarrin nie był w stanie "magicznie" przejrzeć
         - driady są ledwie dziećmi, pod nieobecność Eithne zdają się naturalnie słuchać zdecydowanej, pewnej siebie i władczej Tytanii, nie są też obojętne pieśniom barda, Oberona
@@ -51,8 +51,9 @@
         - Ilana proponuje aby udać się do Brugge 
         - Kajetan mało nie dostaje palpitacji na samą myśl, jednak pomysł poproszenia Leiva o załatwienie sprawunków, o których myśli młoda druidka nieco go uspokaja
         - Ilana podejrzewa, że sowa, która próbowała za nami lecieć podczas naszej ucieczki to Filippa Eilhart
-    - Zwabione rzucanymi przez nas zaklęciami nekkery atakują nas w ostatni dzień podróży. Dowodzi nimi humanoidalna postać, z jej klatki piersiowej wystaje gałąź, nieco kojarząca się z tą, która zraniła draidę przybyłą do Wioski. 
+    - Zwabione rzucanymi przez nas zaklęciami nekkery atakują nas w ostatni dzień podróży. Dowodzi nimi humanoidalna postać, z jej klatki piersiowej wystaje gałąź, nieco kojarząca się z tą, która zraniła driadę przybyłą do Wioski. 
     - Ostatnim tchem, pozbawione wsparcia nekkerów, stworzenie woła:<br/><br/>
                 *"Królowo Cierni, ratuj!"*<br/><br/>
     - W czasie walki Kajetan próbuje przyzwać Bizoktora (uderza zakrwawioną dłonią w drzewo powołując się w Starszej Mowie na dziedzictwo Ilany), który rzeczywiście przybywa nam na odsiecz, nieco jednak spóźniony. Odprowadza nas do granicy lasu, znikając o wschodzie słońca
     - Widzimy znajome nam wzgórza. Wiemy, że Medowna leży bardzo blisko. Słyszymy słowa pieśni niosące się od wsi.
+##### [Sesja 21](#sesja-021) [Sesja 23](#sesja-023)

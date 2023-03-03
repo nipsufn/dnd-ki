@@ -54,15 +54,16 @@
     - Wieczór kończy się odwleczeniem się do pokoju trójki pijących. 
     - Skovik z Ilaną biorą dla siebie osobny pokój i spędzają razem noc (biorąc sobie do serca skargi mieszczanina, którego obudzili sparringiem, przenoszą zapasy w zacisze pokoju i łóżka).
 6. Różyczka nad ranem
-    - Ilana korzystając z faktu, że Skovik śpi jak ~~zerżnięty~~ zarżnięty, bada drewnianą figurkę niedźwiedzia, której użył poprzedniego wieczora do wzmocnienia się przed walką. 
+    - Ilana korzystając z faktu, że Skovik śpi jak ~~zerżnięty~~ zarżnięty, bada drewnianą figurkę niedźwiedzia, do której modlił się poprzedniego wieczora przed walką. 
     - Są na niej runy w języku Skellige, a sama figurka emanuje magią. Ma też specyficzny, ziołowy zapach, który druidce kojarzy się trochę z krwią.
     - Ubrawszy się, Ilana opuszcza pokój Skovika i budzi Kajetana. Rozmawiają o planach podróży na Skellige - eskortując po drodze Skovika z braćmi do Brokilonu.
-    - Wczesnym popołudniem Skovik i bracia zostają obudzeni przez Kajetana. Bracia jeszcze nie są trzeźwi ale już mają kaca, Skovika nie ma w pokoju braci.
+    - Wczesnym popołudniem Skovik i bracia zostają obudzeni przez Kajetana. Bracia jeszcze nie są trzeźwi ale już mają kaca, Skovika - ku zdziwieniu elfa - nie ma w pokoju braci.
     - Ilana idzie po Skovika, ten zdaje się nie mieć kaca, ale jest mocno zmęczony.
 7. Ratusz w Ellander
-    - Wyruszamy na widzenie z radą. Biorąc pod uwagę stan drużyny, audiencja była krótka. Odebraliśmy nagrodę (5 diamentów, wartych po 80 - 150GP).
+    - Wyruszamy na widzenie z radą. Biorąc pod uwagę stan drużyny, audiencja jest krótka i rzeczowa. Odbieramy nagrodę (5 diamentów, wartych po 80 - 150GP).
     - Lord Myrton wyglądał jakby zamierzał nas wciągnąć w dalszą pracę dla miasta lub polityczne rozgrywki, jednak zrezygnował widząc jak świętowaliśmy ukończone zlecenie. Kajetan jest zadowolony z takiego obrotu spraw - nie chce mieć nic wspólnego z Myrtonem.
 6. Różyczka
     - Bracia Skovika zostają odstawieni do łóżek.
     - Ilana i Skovik przygotowują wyjazd z Ellander od strony technicznej - zapasy i ekwipunek. Następnie udają się do banku Cianfanellich wycenić diamenty oraz do łaźni, by odświeżyć się przed podróżą i uprać ubrania na drogę.
     - Kajetan w tym czasie idzie do łaźni, kuźni, a także za namową Ilany odwiedza [krawcową](Eliza), nie wiedząc czego się spodziewać. Wraca z nową czapką.
+##### [Sesja 9](#sesja-009) [Sesja 11](#sesja-011)

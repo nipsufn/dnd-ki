@@ -43,10 +43,11 @@
     - Wszyscy w mieście źle spali, ulice wydają się opustoszałe.
     - Wyruszamy tą samą drogą, co poprzedniego dnia.
     - Po drodze nie atakuje nas trzeci żaboludź, którego się spodziewaliśmy.
-    - Docieramy aż do samego Menhiru. W połowie drogi na jego szczyt zatrzymujemy się - zaczyna się robić grząsko, słyszymy płacz dziecka i widzimy wrony krążące nad nami.
+    - Docieramy aż do samego menhiru. Na miejscu, miast kamienia przed oczami wyrasta nam wielki kopiec. W połowie drogi na jego szczyt zatrzymujemy się - zaczyna się robić grząsko, słyszymy płacz dziecka i widzimy wrony krążące nad nami.
     - Ilana żąda "audiencji", otwiera się przed nami tunel prowadzący w głąb rytualnego wzgórza.
     - [Zielarka](Esme) okazuje się być materializacją duszy dziecka przybitego do właściwego menhiru, kamienia w środku kurhanu, przeklętego przez Arcydruida Ivryna, skazaną na nawiedzanie Carreras - miasta, które zaczęło osuszać bagna, polować na okoliczną zwierzynę i zanieczyszczać wodę w rzece.
     - [Zielarka](Esme) błaga, aby ją uwolnić zanim klątwa zmusi ją do ataku.
     - Sytuacja zdaje się beznadziejna. Kajetan decyduje się zaczerpnąć spore ilości Mocy, ryzykując życie, aby zniszczyć przeklęty menhir. Częściowo mu się to udaje, czym przełamuje swoją blokadę, znacząco się wyniszczając.
-    - Ilana ostatecznie rozbija rozkruszony Menhir, uwalniając [zielarkę](Esme) od klątwy. Druidka zabiera kryształ, który znajdował się wewnątrz obelisku.
+    - Ilana ostatecznie rozbija rozkruszony menhir, uwalniając [zielarkę](Esme) od klątwy. Druidka zabiera kryształ, który znajdował się wewnątrz obelisku.
     - Docieramy z powrotem do miasta, po zmroku. Mgły ustąpiły. Kierujemy się do karczmy na noc.
+##### [Sesja 10](#sesja-010) [Sesja 12](#sesja-012)

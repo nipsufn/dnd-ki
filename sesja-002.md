@@ -20,3 +20,4 @@
     - Sądząc po śladach, bestia ma co najmniej 3 pary łap i dziwną narośl (ogon? łeb?), którą uderzała o drzewa. Zdaje się też "migać" albo skakać z miejsca na miejsce, zdecydowanie nie jest to nic z naszego świata.
     - Idąc za śladami natykamy się na powalone drzewo, pod którym zionie ciemnością wykopana w ziemi jama. W środku coś zdaje się spać.
     - Korzystając z elementu zaskoczenia i pory dnia, atakujemy śpiącego Kota Migota, dzięki czemu udaje nam się w miarę szybko i bez dalszych ofiar w ludziach pozbyć bestii.
+##### [Sesja 1](#sesja-001) [Sesja 3](#sesja-003)

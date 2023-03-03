@@ -7,11 +7,14 @@
     - Wiewiórki obiecują pomóc, ale nie za darmo. Ilana w pełni świadoma tego pomaga im napaść na zbrojną karawanę transportującą żywność i sprzęt do Ellander.
     - W czasie pobytu w świątyni czytamy księgi i rozmawiamy z Matką Iolą:
         - Myszowora najlepiej szukać na wyspach Skellige
-        - jedno z laboratoriów Vilgeforza znajdowało się gdzieś na północnym brzegu Pontaru
+        - jedno z laboratoriów Vilgefortza znajdowało się gdzieś na północnym brzegu Pontaru
         - więcej informacji o arkanach warto szukać najbliżej w Oxenfurcie
         - dwimeryt jest wydobywany w Mahakamie
         - w księgach znajdujemy zapiski o tym, że swego czasu w świątyni gościł wiedźmin, ale nie został on wymieniony z imienia
-    - Ilana zamienia się w czasie snu w niedźwiedzia i robi straszny raban, rano nic nie pamięta. Z niemal wmuszoną pomocą Matki Ioli bierze udział w transie i przypomina sobie swój sen.
+    - Ilana zamienia się w czasie snu w niedźwiedzia i robi straszny raban, rano nic nie pamięta. Z niemal wmuszoną pomocą Matki Ioli bierze udział w transie i przypomina sobie swój sen:
+        - pojawiają się w nim jakaś rudowłosa kobieta, niemowlę i niedźwiedziątko
+        - kobieta, której twarz pozostaje zagadką, odprawia jakiś rytuał
+        - niedźwiedziątko zostaje poświęcone, a jego siły witalne tchnięte w półżywe dziecko
     - Nie chcąc nadużywać gościny kapłanek powoli sposobimy się do drogi. Eliza decyduje się zostać jeszcze trochę z Darią.
     - Sierżant obozu prosi nas o dostarczenie listu do koszarów w Ellander.
     - W drodze do Ellander mijamy karawanę z chorymi - Kasimir już poinformował, że kapłanki znów pomagają przyjezdnym.
@@ -24,3 +27,5 @@
     - Wymieniamy sztuki złota i pozbywamy się mieszka, który dał nam Lord Myrton.
     - Viggo obiecał znaleźć dla nas pracę jeśli zdecydujemy się zimować w Ellander **[Zadanie: Szczurołapa zatrudnię od zaraz](#z_q8)**
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Podchorąży zawsze zdąży</i></div>
+
+##### [Sesja 6](#sesja-006) [Sesja 8](#sesja-008)

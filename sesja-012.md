@@ -8,9 +8,9 @@
     - W karczmie zamawiamy piwo, które Kajetan, korzystając ze swoich starych-nowych sztuczek, schładza.
     - Ilana w tym czasie opuszcza towarzyszy i idzie do pokoju z zamiarem zbadania kamienia zabranego z menhiru. Udaje jej się dowiedzieć jaka magia jest w kamieniu i "wywołać" uwięzioną tam duszę.
 1. Carreras - dzień czwarty
-    - Nad ranem rozmawia z nami komendant straży. Dwie noce temu (noc z żabami) w mieście umarł w sumie tuzin ludzi. Nie ma żadnych dowodów, że mamy coś z tym wspólnego, ale po wysłuchaniu naszej opowieści o wiedźmach, menhirach i tym podobnym, każe nam wynieść się z miasta przed zachodem słońca.
+    - Nad ranem rozmawia z nami komendant straży. Dwie noce temu (noc z żabami) w mieście umarł w sumie tuzin ludzi. Nie ma żadnych dowodów, że mamy coś z tym wspólnego, ale po wysłuchaniu naszej opowieści o wiedźmach, menhirach i tym podobnych, każe nam wynieść się z miasta przed zachodem słońca.
     - Kajetan, pomimo wyczerpania, odzyskuje kontrolę nad Mocą - może czarować.
-    - Elf robi ostatnie zakupy na drogę, sprzedaje topór, do którego stracił zaufanie.
+    - Elf robi ostatnie zakupy na drogę i sprzedaje topór, do którego stracił zaufanie. Udaje mu się opchnąć go na krasnoludzkim kramie niejakiego Trotta. Korzystając z okazji Skovik i Ivar kupują u krasnoluda dwa małe, poręczne toporki.
     - Ilana ze Skovikiem odwiedzają na odchodne najstarszego mieszkańca miasta. Dowiadują się więcej o historii Carreras:
         - miasto powstało po tym, jak za zgodą lokalnych druidów zbudowano trakt
         - druidzi nie chcieli śmierdzącego miasta i mieszkających w nim myśliwych w okolicy
@@ -24,7 +24,7 @@
         - miasto rzeczywiście zniknęło
         - ludzie szukają cennych przedmiotów, które pozostały w piwnicach
     - Spotykamy jakąś latającą jaszczurkę rzucającą iluzje na co popadnie. Kajetan sprał ją aż odpuściła iluzje, Ilana próbowała ją oswoić, co jej się poniekąd udało.
-    - Jaszczurka dziwi się zachowaniu elfa, bo "w jej świecie elfów bawią takie zabawy".
+    - Jaszczurka dziwi się zachowaniu elfa, bo _"w jej świecie elfów bawią takie zabawy"_.
     - Ilana, w tajemnicy przed resztą grupy, obiecuje zabrać pseudo-smoka do druidów, żeby pomogli mu wrócić do jego świata. Zabiera go do obozu. 
     - W czasie swojej warty druidka znów skupia się na kamieniu. Prosi ducha, żeby napisał na ziemi swoje imię i potwierdza swoje przypuszczenia - imię brzmi Esme.
     - Kajetan budzi się nazajutrz z kupą w bucie.
@@ -35,7 +35,7 @@
     - Ilana próbuje skupić się na ogniskach magii w okolicy, kończy się to wielkim krwotokiem z nosa i niemalże zasłabnięciem.
     - Druidka i Skovik wychodzą rozejrzeć się po okolicy. Oglądają bójkę pięciu chłopa na jednego, dającego im radę bez najmniejszego problemu.
     - Okazuje się, że mężczyzna chroni jednych z fundamentów. Jest mrukliwy i nie udziela informacji ani o mieście, ani o fundamentach, których broni.
-    - Na odchodnym Ilana zauważa jak gość rozmawia z kobietą wystawiającą głowę z namiotu. Kobieta nosi ślady krwotoku podobnego do tego, który przydarzył się druidce.
+    - Na odchodnym Ilana zauważa jak gość rozmawia z kobietą wystawiającą głowę z namiotu. Kobieta nosi ślady krwotoku podobnego do tego, który przydarzył się jej samej.
 4. Maribor - dzień pierwszy
     - Pomimo planów natychmiastowego wyruszenia z Mariboru, Ilana namawia drużynę na ostatnią przechadzkę w okolicy dobrze chronionych fundamentów.
     - Kajetan zauważa i opowiada, nieco za głośno, o fundamentach:
@@ -52,8 +52,9 @@
     - Czarodziejce i wiedźminowi trzeba pomóc - czarodziejka podniesie gruzy, Lambert upewni się, że nic jej się nie stanie - my oczyścimy niższe piętra.
     - Kajetan zamknie portal zaklęciem zapisanym przez Keirę, w zamian czarodziejka podleczy wyniszczonego elfa.
     - Portal udaje się zamknąć, a potwory, które zdołały się przedostać, zostają zabite (jeden przez Lamberta na wyższym poziomie, drugi dzięki naszej drużynie).
-    - Kajetan znajduje w bibliotece na dole kilka magicznych artefaktów, w tym kamień komunikacyjny (który zdaje się być zrobiony z tego samego materiału, co jego niedawno sprzedany topór).
+    - Kajetan znajduje w bibliotece na dole kilka magicznych artefaktów, w tym kamień komunikacyjny (który zdaje się być zrobiony z tego samego materiału, co jego niedawno sprzedany topór). Prawie przypłaca to życiem, gdy leżący pod biurkiem dywan postanawia go ~~udusić~~ czule przytulić.
     - W rozmowie z Keirą wspominamy o magu z Ellander, prosząc, żeby się z nim skontaktowała i być może pomogła wyleczyć żonę Vigga, jeśli będzie miała chwilę.
     - Zdrowie Kajetana zostaje nieco podreperowane kosztem kilku diamentów (dokładnie 4), jednak dalej ma dwimeryt w organizmie i nie może rzucać zaklęć całkiem bezkarnie.
     - Keira zgadza się też opłacić naszych kompanów (czyli w zasadzie spłacić ich diamenty użyte do wyleczenia Kajetana) w zamian za wyświadczoną jej pomoc.
     - Czarodziejka pozwala nam przenocować w fundamentach obok jej namiotu.
+##### [Sesja 11](#sesja-011) [Sesja 13](#sesja-013)

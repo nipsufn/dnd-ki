@@ -1,6 +1,6 @@
 ### Sesja 5
 ##### [Sesja 4](#sesja-004) [Sesja 6](#sesja-006)
-##### Pomiędzy Aequinoctuim jesiennym a Solistitium zimowym
+##### Pomiędzy Aequinoctium jesiennym a Solistitium zimowym
 1. Fiolka Zdrowia
     - Po wyjściu z kanałów i dziwnej zmianie czasu swoje pierwsze kroki kierujemy do Fiolki, do Vigga.
     - Viggo zdaje się być bardzo zaskoczony naszym widokiem. Uświadamia nas, że od naszej wyprawy minęły 2 miesiące, a nie 2 dni.
@@ -12,7 +12,7 @@
         - jego [żona](#p_pani_regner) jest katatoniczna, a on się nią opiekuje
         - był/jest magiem, [żona](#p_pani_regner) też
         - ma asystentkę gnomkę, Lukrecję, która na co dzień ukrywa się pod iluzją jako Janus
-        - Brokilon rozrósł się, drzewa chodzą, Driady mają się świetnie atakując już nawet zwykłych ludzi i tocząc otwartą, krwawą wojnę
+        - Brokilon rozrósł się, drzewa chodzą, Driady mają się świetnie atakując przypadkowych ludzi i tocząc otwartą, krwawą wojnę
         - Maribor zniknął jakby ścięty nożem na wysokości gruntu
         - trakty są niebezpieczne
         - wieś na południe od miasta, którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycową Noc
@@ -25,7 +25,7 @@
     - Jesteśmy świadkami egzekucji wiedźmy. Udaje nam się podejść na tyle blisko aby zobaczyć całe zajście, ale na tyle ukradkiem, że nikt nam się nie przygląda.
     - Ofiara przerywa modły kapłana. Wygłasza fragment przepowiedni o _Białym Zimnie_ ale w wersji głoszonej przez kult Lwiogłowego Pająka, a jej oczy przedzielone pionowymi, gadzimi źrenicami jarzą się żółto.
     - Krzyk wydany przez kobietę ogłusza obecnych na rynku. Ludzie zaczynają uciekać w panice krwawiąc z uszu i nosa, tratując się nawzajem.
-    - [Myrton, Mistrz Łowców](Myrton) Czarownic/Potworów (jakkolwiek oni się tam teraz chcą zwać) przebija ją mieczem, jednak przychodzi mu to z wyraźnym trudem - zdaje się "grzęznąć" w powietrzu jak w smole.
+    - Myrton, mistrz Łowców Czarownic/Potworów (jakkolwiek oni się tam teraz chcą zwać) przebija ją mieczem, jednak przychodzi mu to z wyraźnym trudem - zdaje się "grzęznąć" w powietrzu jak w smole.
     - Z zaułków i szpar wyglądają szczury z nienaturalnie żółtymi oczami identycznymi jak u czarownicy z rynku; **[Zadanie: Szczury uciekające z kanałów](#z_q6)**
 3. Eliza
     - Z rynku kierujemy się do zakładu krawieckiego. Zrobiło się chłodniej, więc potrzebujemy cieplejszych ubrań.
@@ -63,12 +63,13 @@
         - problemy na drogach ubijają handel - mniej podróżnych i problem z zaopatrzeniem
         - glejty do miasta wystawia się tylko dla ludzi, którzy handlują aby oszczędzać pozostałe zasoby na przyjezdnych
         - parki przearanżowano w tymczasowe farmy
-        - w Wyzimie jest jeszcze gorzej niż w Ellander - tamtejszy Lord rządzi twardą ręką w czasie głodu
+        - w Wyzimie jest jeszcze gorzej niż w Ellander - tamtejszy lord rządzi twardą ręką w czasie głodu
     - W tawernie spotykamy grupkę strażników. Jeden z nich został ugryziony przez szczura.
     - Ilana oferuje pomoc, strażnik niechętnie pokazuje ranę. 
-    - Jego stan jest poważny - potrzebuje pomocy medyka, a najlepiej kapłanek Melitele. Druidka nie jest w stanie zdziałać zbyt wiele, tym bardziej przy świadkach.
+    - Jego stan jest poważny - potrzebuje pomocy medyka, a najlepiej kapłanek Melitele. {Druidka}Ilana nie jest w stanie zdziałać zbyt wiele, tym bardziej przy świadkach.
     - Polecamy mu udać się po doraźną pomoc do Viggo.
     - Zostajemy w Kufelku na noc, a nad ranem sami idziemy do Vigga.
 8. Viggo Regner
     - Viggo nie chce/nie może wziąć Darii na naukę i zgadza się, że kapłanki Melitele to dobry pomysł.
     - Jesteśmy w trakcie rozmowy, kiedy rozlega się głośne pukanie do drzwi.
+##### [Sesja 4](#sesja-004) [Sesja 6](#sesja-006)

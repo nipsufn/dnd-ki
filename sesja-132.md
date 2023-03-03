@@ -1,6 +1,6 @@
 ### Sesja 132
 ##### [Sesja 131](#sesja-131) [Sesja 133](#sesja-133)
-1. Powrót i ciepłe powitania
+1. Powroty i ciepłe powitania
     - Kajetan i {wiedźmin}Gaetan docierają do miasta pierwsi, jakoś po południu. Na podgrodziu zachodzą ich nilfgaardzkie fircyki-najemnicy. Prowodyr grupy oferuje piwo i zapłatę w zamian za informacje z bagien, gdy jego podkomendni próbują ich okrążyć. Najemników jest w sumie szóstka, co więcej, w okolicy akuratnież nie kręci się ani jeden strażnik miejski.
     - Kajetan, dalej z powodzeniem zgrywając wiejskiego głupka, udaje przydupasa Gaetana i odmawia współpracy. Gdy jeden z Nilfgaardczyków próbuje złapać go za ramię, wiedźmin odwija mu się grożąc mordobiciem. {Elf}Kajetan kątem oka wyłapuje faktycznego szefa zamieszania - kryjącego się z boku w cieniu kapelusza ex-oficera, osobistego ochroniarza szefa Salamander z Kerrack.
     - Nie chcąc iść na noże z wiedźminem, na znak tego w kapeluszu banda odstępuje i życzy im dobrego dnia. {Czarodziej}Kajetan i {wiedźmin}Gaetan idą do karczmy, w której się rozbiliśmy.
@@ -15,7 +15,7 @@
     - Ludzie, początkowo zaciekawieni pożarem, szybko rozchodzą się wspomagani kopniakami i przekleństwami strażników.
     - Ilana, umorusana i poturbowana, trafia w końcu do karczmy. Opowiada o swej nieprzygodzie na bramie, do wtóru z żalami pozostałych, których najemnicy próbowali wziąć na spytki. Lars dowiedział się, że Nilfgaardczycy zorganizowali łapankę ludzi z bagien i przetrzymują ich w jakiejś szopie, próbują wyciągnąć wszelkie informacje na temat Druida i jego zastępów. Złapali między innymi starszą ex-kapłankę Krwawej Matki - głowę kultu, który dominował tu nim któregoś dnia budynek ich kościoła doszczętnie spłonął.
 2. Narada
-    - Mozaik zarządza zebranie w pokoju. Wpierw rzuca jakieś zaklęcie chroniące przed podsłuchem, a następnie tłumaczy treść swojej enigmatycznej wiadomości: Dagomir posłał do Niflgaardu po zbrojne wsparcie w rozprawie z Druidem. Posiłki są już podobno w drodze i będą tu za tydzień - dwa. Musimy więc załatwić Keirę nim wkroczą do miasta.
+    - Mozaik zarządza zebranie w pokoju. Wpierw rzuca jakieś zaklęcie chroniące przed podsłuchem, a następnie tłumaczy treść swojej enigmatycznej wiadomości: Dagomir posłał do Nilfgaardu po zbrojne wsparcie w rozprawie z Druidem. Posiłki są już podobno w drodze i będą tu za tydzień - dwa. Musimy więc załatwić Keirę nim wkroczą do miasta.
     - Wiedźmini preferują rozwiązanie siłowe, szczególnie Lambert, który ma problem z ukryciem jak bardzo personalną jest dla niego ta misja. Nie uchodzi to także uwadze Gaetana, który otwarcie wyszydza "honorowy kodeks szkoły Wilka". Wyciągają na tapet jakąś starą animozję, przez którą prawie skaczą sobie do gardeł:
         - idzie o jakichś dwóch innych wiedźminów ze szkoły Kota, Bertrama Taulera i Aidena, przyjaciela Lamberta
         - ten drugi został ponoć zamordowany przez Bertrama

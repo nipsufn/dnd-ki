@@ -1,7 +1,7 @@
 ### Sesja 4
 ##### [Sesja 3](#sesja-003) [Sesja 5](#sesja-005)
 1. Wejście do Kanałów
-    - Przy śniadaniu opracowujemy plan działania do zlecenia alchemika.
+    - Przy śniadaniu opracowujemy plan działania do zlecenia {alchemika}Viggo.
     - Decydujemy się wejść do kanałów najbardziej oddalonym wejściem, za południowymi bramami miasta.
     - Wieś dalej na południe wydaje się być zupełnie opustoszała.
     - Wyłamujemy zamknięte kraty do kanałów - o dziwo drzwi miały nową kłódkę.
@@ -30,3 +30,4 @@
     - Dochodząc do miasta zauważamy, że mury zostały już prawie całkiem odbudowane.
     - Zostajemy zatrzymani na bramie - zwykle potrzebny jest glejt. Prezentujemy trofeum - ogromną czaszkę - i powołujemy się na Vigga.
     - Strażnicy odprowadzają nas do [Fiolki](Fiolka Zdrowia).
+##### [Sesja 3](#sesja-003) [Sesja 5](#sesja-005)

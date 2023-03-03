@@ -26,7 +26,7 @@
     - Jak się okazuje glejt jest nadal potrzebny nie tylko do wejścia, ale i do wyjścia z miasta, więc grupa, przybywająca tu z karawaną jako eskorta, niejako utknęła.
 5. Różyczka
     - Grupa Skovika składa się z:
-        - Skovika - postawnego jak szafa dwudrzwiowa, wysokiego, łysego, gładko wygolonego chłopa z dziwnym tatuażem ciągnącym się od skroni przez potylicę (najwyraźniej to właśnie ta budząca respekt fizjonomia draba postawiła go na czele bandy)
+        - Skovika - postawnego jak szafa dwudrzwiowa, wysokiego, łysego, gładko wygolonego chłopa z dziwnym tatuażem ciągnącym się od skroni przez potylicę na kształt litery U z dorysowanymi ramionami; najwyraźniej to właśnie ta budząca respekt fizjonomia draba postawiła go na czele bandy
         - Leiva - jednego z młodszych braci Skovika, smukłego chłopaczka o bystrym spojrzeniu i szybkich palcach, z lekko wymyślną jak na standardy kontynentu fryzurą
         - Ivara - nieco mniejszego od Skovika, ale równie postawnego chłopaka w kwiecie wieku, zakutego w sporą ilość żelastwa, który okazuje się być przy okazji bratem bliźniakiem Leiva
         - [Yarii'ego](Yarii) i Varna - dwójki kompanów-dezerterów z armii w Aedirn

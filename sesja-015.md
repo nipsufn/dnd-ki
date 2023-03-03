@@ -27,8 +27,8 @@
         - uważnie notuje nasze sprawozdanie
         - wypłaca 100GP za czaszkę Barghesta
         - proponuje zapłacić po 100GP za okazy/próbki flory i fauny z obrzeży Brokilonu
-    - Po wizycie u maga wracamy do Ostoi na nocleg. W swoim pokoju Ilana zauważa kawałek pergaminu leżący na łóżku. W liście tym napisano "Kobieto. Wiesz, że czarowanie bez zezwolenia to przestępstwo?". Podpisał go nikt inny, a sam Lars. 
-    - Druidka zastanawia się, czy odpowiedzieć na list, a jeśli tak, to co napisać.
+    - Po wizycie u maga wracamy do Ostoi na nocleg. W swoim pokoju Ilana zauważa kawałek pergaminu leżący na łóżku. W liście tym napisano _"Kobieto. Wiesz, że czarowanie bez zezwolenia to przestępstwo?"_. Podpisał go nikt inny, a sam Lars. 
+    - {Druidka}Ilana zastanawia się, czy odpowiedzieć na list, a jeśli tak, to co napisać.
     - Ilana wypytuje karczmarkę o ten liścik. Ta opowiada jej jak rzekomo wróciła do karczmy i poszła na chwilę po coś do pokoju w czasie, gdy cała grupa była w cyrku.
     - Kolejnego ranka wyruszamy do Medownej. 
     - Kajetan w drodze rozmyśla nad czymś intensywnie - pisze niewybredny, dość złośliwy limeryk o Larsie.
@@ -57,3 +57,4 @@
         - odkupuje 2 księgi z jednej z pozostałych paczek, które grupa zatrzymała; sugeruje przy tym, że w mieście powinien być kupiec na pozostałe dwie
         - jest czarodziejem lepszym lub gorszym (iluzja, której użył żeby dostać się do pokoju Ilany)
         - na odchodnym zmienia swoją twarz demonstrując magiczne zdolności i wychodzi
+##### [Sesja 14](#sesja-014) [Sesja 16](#sesja-016)

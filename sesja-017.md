@@ -44,3 +44,4 @@
         - druidzi wcale nie są zbyt bezpieczni - nie jest to najlepszy czas na naukę dla Skovika
         - Pani Eithne 2 miesiące temu wezwała na pomoc elfy (jakie? z naszego świata?) i od tego czasu leży w śpiączce w Col Serrai, a rządy nad Brokilonem objęła niejaka królowa Tytania
         - Finarrin przebywa razem z Eithne w Col Serrai
+##### [Sesja 16](#sesja-016) [Sesja 18](#sesja-018)

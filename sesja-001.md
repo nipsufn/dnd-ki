@@ -19,3 +19,4 @@
     - Przy wejściu do miasta dajemy w łapę strażnikowi, żeby wpuścił nas bez zadawania zbędnych pytań. Strażnik poleca nam Ziołowy kufelek - nienajtańszą i nienajpodlejszą knajpę, która ma dwa cenniki: jeden dla ludzi i jeden (zawyżony) dla odmieńców i mieszańców.
     - Nie chcąc zatrzymywać się w zbyt drogiej jak na naszą kieszeń knajpie, wypytujemy miejscowych o inny lokal.
     - Przypadkowo napotkany krasnolud, zwący się [Otto Kranmer](Otto) wyjawia nam lokację knajpy przyjaznej nieludziom, o dźwięcznie brzmiącej nazwie Różyczka. Tam, w towarzystwie krasnoluda, kierujemy swoje kroki.
+##### [Sesja 0](#sesja-000) [Sesja 2](#sesja-002)

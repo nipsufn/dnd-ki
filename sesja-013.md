@@ -20,7 +20,7 @@
 3. Brugge
     - Na granicy okazuje się, że Brugge jest teraz lennem Nilfgaardu, w trakcie otwartej wojny z driadami z Brokilonu. Przekraczamy granicę uiszczając opłatę celną.
     - W drodze do miasta Brugge dyskutujemy o sytuacji politycznej, niekoniecznie się zgadzając.
-    - Późnym wieczorem docieramy do miasta, zatrzymujemy się w karczmie [Pod Głową Dzika](Głowa Dzika), która wygląda jakby była ponad nasz stan.
+    - Późnym wieczorem docieramy do miasta, zatrzymujemy się w karczmie [Pod Głową Dzika](Głowa Dzika), która wygląda jakby była ponad nasz stan. W pokoju do swojej dyspozycji mamy nawet miedzianą balię i - ku bezbrzeżnemu zdziwieniu wszystkich po za Kajetanem - wodę doprowadzoną ka-na-li-ba-cją, czy jakoś tak, czyli miedzianymi rurkami z pokrętłami u każdego z wylotów. Wszyscy z uciechą testują tę "zdobycz techniki".
     - Rankiem dowiadujemy się od karczmarki, że:
         - nieludzie nie są obywatelami drugiej klasy pod Nilfgaardczykami
         - magowie nie są prześladowani, ale magia jest prawnie kontrolowana
@@ -30,4 +30,5 @@
         - Verden to pobojowisko, tam driadom nie ma kto stawiać oporu i robią, jak uważają za stosowne
         - Mayena to przeklęta przez druidów ruina miasta; zanim zostało przeklęte, było to miejsce nieustających potyczek z Nilfgaardem, co potencjalnie skłoniło (ponoć mało ekstremistycznych) druidów z tamtej okolicy do podjęcia działania
         - najemnicy najczęściej osłaniają karawany i transporty, noszą też wiadomości - dla cywilów i dla księstwa
-    - Bardziej adekwatnym miejscem do poszukiwania pracy i na pobyt dla nas będzie karczma Zielona Świeczka niedaleko za murami miasta.
+    - Zgodnie dochodzimy do wniosku, że bardziej adekwatnym miejscem do poszukiwania pracy i na pobyt dla nas będzie karczma Zielona Świeczka niedaleko za murami miasta.
+##### [Sesja 12](#sesja-012) [Sesja 14](#sesja-014)

@@ -36,10 +36,10 @@
     - [Vigo](Viggo) mówi, że gdyby udało się nam przynieść nieuszkodzoną skórę bestii, byłby w stanie przerobić ją na płaszcz o podobnych właściwościach, co zdolność "migania" bestii.
     - Sklep jest obserwowany przez Łowców Czarownic, częste wizyty składa tam niejaki [Lord Slyz Myrton](Myrton) - głowa tutejszej filii zakonu Wiecznego Ognia.
     - Otrzymujemy propozycję kontraktu, ale jego szczegółów alchemik nie chce omawiać w swoim zakładzie. Proponuje nam wieczorne spotkanie w przybytku o nazwie "Zielony Kufelek".
-    - Na pożegnanie Kajetan wyciąga do alchemika - zapobiegliwie i celowo - lewą rękę żeby nie narazić się na ponowny kontakt z obrączką, co spotyka się ze zrozumieniem alchemika.
+    - Na pożegnanie Kajetan wyciąga do [alchemika]Viggo - zapobiegliwie i celowo - lewą rękę żeby nie narazić się na ponowny kontakt z obrączką, co spotyka się ze zrozumieniem ze strony mężczyzny.
 7. Wizyta u krawcowej Elizy
     - z [Fiolki](Fiolka Zdrowia) idziemy prosto do zakładu krawcowej z ogłoszenia, które zerwała Ilana.
-    - Krawcowa jest bardzo zmęczona. Ilana przekonuje ją, że możemy pomóc pomimo, że nie jesteśmy wiedźminami.
+    - Krawcowa jest bardzo zmęczona. Ilana przekonuje ją, że możemy pomóc, pomimo że nie jesteśmy wiedźminami.
     - Eliza opowiada nam, że od kilku nocy jej córka, Daria, widzi zmarłego ojca, który nigdy nie powrócił z wojny.
     - Idziemy porozmawiać z Darią, po drodze na schodach zauważamy popękane lustro ze śladem palców wbitych w szkło.
     - Ilana próbuje kilku różnych sztuczek:
@@ -49,8 +49,8 @@
     - Używając luster atakujemy Szaraka - udaje nam się go pokonać nie krzywdząc dziecka ani matki, jednak Ilana prawie wyciąga kopyta, bo potwór skupia niemal całą swą złość na niej.
     - Kajetan odmawia nagrody w postaci napierśnika po zmarłym mężu, którą oferuje nam Eliza w podzięce za uratowanie córki. Zamiast tego prosi o naprawienie swoich ubrań w ramach zadośćuczynienia.
     - Żegnamy się z krawcową i ruszamy na spotkanie z Viggo.
-    - Po drodze Ilana zauważa, że ktoś ich chyba śledzi. Proponuje, żeby się rozdzielić dla zmylenia uwagi, na co elf przystaje bez zbędnych pytań.
-    - Ilana wchodzi w zaułek, gdzie zmienia się w kota i w takiej postaci śledzi szpiega idącego ich śladem.
+    - Po drodze Ilana zauważa, że ktoś nas chyba śledzi. Proponuje, żeby się rozdzielić dla zmylenia uwagi, na co elf przystaje bez zbędnych pytań.
+    - Ilana wchodzi w zaułek, gdzie zmienia się w kota i w takiej postaci śledzi szpiega idącego ich śladem:
         - szpieg okazuje się być kobietą
         - kot zaczepia kobietę, dopraszając się drapania żeby celowo zmylić trop, co finalnie udaje mu się nader skutecznie
         - kobieta porzuca śledztwo i zawraca do kryjówki, będąc śledzoną przez kota
@@ -59,7 +59,7 @@
         - zostawia wiadomość przed kryjówką zapraszając do rozmowy
 8. Zielony Kufelek
     - Po rozdzieleniu się Kajetan sam udaje się na rozmowę z alchemikiem.
-    - Viggo wyjawia, że miałby dla nich ciche zlecenie; **[Zadanie: Punkt Mocy pod Ellander](#z_q2)**
+    - Viggo wyjawia, że miałby dla nas ciche zlecenie; **[Zadanie: Punkt Mocy pod Ellander](#z_q2)**
     - Elf i alchemik rozmawiają o tym, co zaszło kilka nocy temu i jaki to ma wpływ na obecną sytuację.
     - Kajetan pyta o pierścień z dwimerytu, ale Viggo pozostaje tajemniczy i nie wyjawia zbyt wiele. Mówi jednak, że woli aby nazywać go zielarzem niż alchemikiem, bo to już brzmi niebezpiecznie podobnie do czarodzieja, a tego wolałby uniknąć.
     - Ilana dociera wreszcie na spotkanie i oboje udajemy się na spoczynek do Różyczki.
@@ -70,3 +70,4 @@
         - udaje jej się niemal niepostrzeżenie wrócić
         - po drodze zauważają ją strażnicy i oferują bezpiecznie odprowadzić do domu, co przyjmuje z wdzięcznością
         - po powrocie dzieli się swoim odkryciem z Kajetanem
+##### [Sesja 2](#sesja-002) [Sesja 4](#sesja-004)

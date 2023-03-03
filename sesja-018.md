@@ -25,7 +25,7 @@
     - Wilki zdają się rozumieć Starszą Mowę, niemniej jednak uspakajające przemowy Kajetana są ignorowane.
     - Wilki zapytane przez Ilanę o znaczenie słów kruka mówią, że pakt odnowił druid (nie elf z Aen Eldrin? czy tym druidem był Finarrin?), a jej czas przyjdzie, kiedy tamten wypełni swoje zadanie. Następnie bestie oddalają się w las.
     - Musząc zatrzymać się na noc, szukamy bezpiecznego miejsca. Ilana znajduje dwa potencjalne miejsca:
-        - lekko podmokłą wyrwę w ziemi, przy której leży przewrócone drzewo; na drzewie widać ślady szponów identycznych, jak na wojskowych wozach w Brugge, a ziemię znaczą ślady kopyt najprawdopodobniej należących do [Bizoktora](Bizoktor) (sic) - oba ślady wiodą z północy na południe
+        - lekko podmokłą wyrwę w ziemi, przy której leży przewrócone drzewo; na drzewie widać ślady szponów identycznych, jak na wojskowych wozach w Brugge, a ziemię znaczą ślady kopyt najprawdopodobniej należących do [Bizoktora](Bizoktor) - oba ślady wiodą z północy na południe
         - niewielki prześwit wśród drzew przypominający miejsce po powalonym drzewie
     - Ostatecznie Ilana namawia grupę na nocowanie w dole przy korzeniach wywróconego drzewa. 
     - W nocy w ich rzeczach myszkują dziwne robaki - fioletowo niebieskawe czerwie. 
@@ -34,7 +34,7 @@
     - Kikimory oddalają się w stronę polanki, którą rozważaliśmy jako drugą opcję noclegu, po czym znikają w tunelu pod ziemią.
     - Nad ranem Kajetan wydaje się być najbardziej zniesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używając magii) z drzewa na drzewo aż mu zabraknie sił. 
     - W swoim stuporze i rozsierdzeniu nie zwraca uwagi na nagłe drżenie podłoża.
-    - Ilana komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony Kajetan obrażony na Brokilon i na cały świat, odmawia, przez co niemal pada ofiarą ogromnych skolopendrów(które spotkali już kiedyś w Ellander w drodze do świątyni). Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
+    - Ilana komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony Kajetan obrażony na Brokilon i na cały świat, odmawia, przez co niemal pada ofiarą ogromnych skolopendrów (które spotkali już kiedyś w Ellander w drodze do świątyni). Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
 2. [Wioska druidów](Wioska)
     - O zmierzchu docieramy do Wioski, która jest dziwnie opustoszała. W samej wiosce panuje pogoda późno-letnia lub wczesno-jesienna:
         - drzewa nadal mają liście
@@ -73,3 +73,5 @@
         - Verenestra stwierdza, że to wykracza poza jej możliwości, ale Auril (tytułujący się też jako Pan Lodowego Ogrodu), przebywający w Col Serrai, może być skłonny pomóc w zamian za samo doświadczenie leczenia dolegliwości, na którą jeszcze się nie natknął (czyli za bycie królikiem doświadczalnym mówiąc dosadnie) 
         - sama elfka prosi o rozwiązanie problemu zarazy w Verden, jej zdaniem definitywnie nienaturalnego pochodzenia
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Przyp. tłumacza: z Starszej Mowy <b>Divination</b></i></div>
+
+##### [Sesja 17](#sesja-017) [Sesja 19](#sesja-019)

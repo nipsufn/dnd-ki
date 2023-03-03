@@ -61,3 +61,4 @@
         - Ilana uważa, że należy podróżować dalej na zachód lądem, przekroczyć Wstążkę i na wysokości Bodrogu wkroczyć do Brokilonu całą drużyną; wierzy, że driady znają ją i ufają jej na tyle, by przepuścić ją wraz z nieznajomymi dalej do druidzkiego kręgu, w którym się wychowała
         - Kajetan zaczyna myśleć, że wejście do Brokilonu to samobójstwo, a już szczególnie od strony Bodrogu; uważa, że należało by rzeką i morzem dopłynąć do Kerrack i wejść w las od tamtej strony, nadkładając znacząco drogi
     - Udajemy się na spoczynek nie ustalając co dalej.
+##### [Sesja 15](#sesja-015) [Sesja 17](#sesja-017)

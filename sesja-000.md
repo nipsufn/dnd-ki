@@ -16,3 +16,4 @@
     - Przeszukawszy resztki zdruzgotanego wozu nie znajdujemy tam swojego dobytku.
     - Ilana i Kajetan są wolni, jednak pozbawieni jakiegokolwiek sprzętu, broni, czy pieniędzy.
     - Zabieramy trochę sprzętu z ubitych Łowców żeby nie błądzić bez broni po lesie.
+##### [Sesja 1](#sesja-001)
