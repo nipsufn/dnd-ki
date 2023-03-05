@@ -111,12 +111,12 @@
             - Komponenty:
                 - 2 butelki nalewki z mandragory (17 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
-                - 4 <sup>48</sup>/<sub>50</sub> porcji inkaustu
+                - 0 <sup>46</sup>/<sub>50</sub> porcji inkaustu
                 - 3 porcja kadzidła
                 - 6 porcji kredy
             - Fundusze:
-                - 76.1.1 gp
-                - kamienie szlachetne warte 365gp
+                - 68.1.1 gp
+                - kamienie szlachetne warte 215gp
                 - 3 punktów frakcji
             - Magiczne różności:
                 - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
@@ -137,14 +137,33 @@
                         Once you use any of this features, you can't use it again until you finish a long rest.
                     </details>
                 - [Różdżka niewidzialności z Craag An](https://5e.tools/items.html#ring%20of%20invisibility_dmg)
-                - 1 zwój do teleportacji
-                - 1 żeton do teleportacji
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
                 - 1 kryształy False Life (5ty poziom)
                 - <details>
                     <summary>różdżka Zamku Niskiego Kaer Seren</summary>
                         When attuned, you can select one cantrip from any Class Spell list. You can cas this cantrip using your Spellcasting ability modifier as if the spell would be in your Spell list.
                         Additionally, you can change the selected spell after finishing a long rest.
+                    </details>
+                - <details>
+                    <summary>różdżka maga</summary>
+                        type: Quarterstaff
+                        magic: true
+                        properties:
+                            - Versatile
+                            - Melee
+                            - Simple
+                            - Magic weapon: This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
+                        damage: 1d6 or 1d8 Bludgeoning
+                        attunement: true (Arcane Spellcaster)
+                        spellcasting:
+                            charges: 8
+                            recharge: false
+                        description:
+                            Has an empty gem socket.
+                            This staff can hold up to 8 charges. You can use the charges to power the following abilities:
+                            - Enchanted Strikes: You can use your bonus action to expend a number of charges. The next time you hit with staff during the next minute, 
+                            the target takes and extra 1d6 Force damage per charge
+                            - Recharge: You can use your action to spend a spell slot to refill the charges in your staff
                     </details>
                 - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc

@@ -62,9 +62,6 @@
     - jest w gangu Salamandry
 - <a id='p_mozaik' pattern='Mozaik'>Mozaik</a> - czarodziejka
     - asystentka: Radcliffe
-- <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
-    - potężny druid, poważany nawet przez magów
-    - przebywa na Skellige
 - <a id='p_ortolan' pattern='Ortolan*'>Ortolan</a> - ?, mag, konstruktor Risbergu
     - jego tajemniczy uczeń stworzył strażników i kontynuował badania swojego nauczyciela, nawet gdy te wypadły z łask Kapituły
     - opracował recepturę eliksiru używanego przez magów do przedłużenia życia
@@ -421,6 +418,14 @@
     - Lokij
         - <a id='p_niemoj' pattern='Niem[óo]*,Sołtys* Niem[óo]*'>Sołtys Niemój</a>
 - Wyspy Skellige
+    - <a id='p_druid_artis' pattern='Druid* Artis*,Artis*'>Artis</a> 
+        - druid
+        - przewodzi Vildkaarlom
+        - pozwolił Skovikowi na zamach na Cerys, podarował mu zaklęty sztylet nie tłumacząc że posłuży tylko w honorowej walce
+        - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)
+    - <a id='p_asliv' pattern='Asliv, Łez*'>Asliv "Łezka" Dimun</a>
+        - siostra Roeggnera
+        - narzeczona Leiva
     - <a id='p_cerys' pattern='Cerys an Craite,Cerys'>Cerys an Craite</a>
         - jarl wysp Skellige
         - córka Crach an Craite'a
@@ -428,13 +433,14 @@
     - <a id='p_hjalmar' pattern='Hjalmar an Craite,Hjalmar'>Hjalmar an Craite</a> 
         - kandydat do tronu Skellige
         - brat Cerys
-    - <a id='p_druid_artis' pattern='Druid* Artis*,Artis*'>Druid Artis</a> 
-        - druid
-        - przewodzi Vildkaarlom
-        - pozwolił Skovikowi na zamach na Cerys, podarował mu zaklęty sztylet nie tłumacząc że posłuży tylko w honorowej walce
-        - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)
     - <a id='p_ognaj' pattern='Dyjin* Ognaj*,Dyjin*,Ognaj*'>Dyjin Ognaj</a> 
         - Łowca nagród który zatruł nas strzałkami i stracił wóz
+    - <a id='p_kristoff' pattern='Kristof*'>Kristoff</a> - człowiek, druid
+        - uczeń Myszowora
+    - <a id='p_lodborke' pattern='L.dbrok*'>Lödbroke</a> - człowiek, berserk
+        - legendarny wprost łowca głów z Wysp; bez Klanu i seniora
+        - Vildkarl, podopieczny Artisa
+        - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)
     - <a id='p_lugos' pattern='Lugos* Drummond,Lugos*'>✝ Lugos Drummond</a><a id='p_drummond' pattern='Drummond'></a>
         - zwany też Szalonym, głowa klanu Drummond
         - ma na pieńku z klanem an Craite (i periodycznie chyba kilkoma innymi)
@@ -443,29 +449,22 @@
         - przyrodni brat Skovika,
         - prawowity dziedzic Lugosa
         - umarł na __tym__ bankiecie
-    - <a id='p_svanrige' pattern='Svanrige'>Svanrige</a>
-        - rówieśnik Lugosa Młodszego
-        - dziedzic rodu Tuirseach
-        - umarł na __tym__ bankiecie
+    - <a id='p_myszowor' pattern='Myszow*,Druid- Myszow*'>Myszowór</a> - człowiek, druid
+        - potężny druid, poważany nawet przez magów
+        - przebywa na Skellige
     - <a id='p_orm' pattern='[ÖO]rm*'>Örm</a>
         - siostrzeniec Lugosa
         - uznawany za cały ród za fajtłapę
         - został umocowany jako "głowa" rodu Drummond przez Cerys, kontroluje go Hjalmar
-    - <a id='p_roeggner' pattern='Roeggner* Czarn*,Roeggner*'>Roeggner "Czarny" Dimun</a>
-        - pirat
-        - głowa rodu Dimun
-        - siostra: Asliv
-    - <a id='p_asliv' pattern='Asliv, Łez*'>Asliv "Łezka" Dimun</a>
-        - siostra Roeggnera
-        - narzeczona Leiva
     - <a id='p_reah' pattern='Reah* Bon-Dhu*,Reah*'>Reah Bon-Dhu An Hindar</a>
         - córka słynnego skalda, Draiga Bon-Dhu
         - towarzyszy Dimunom w rejsach
         - przyrzeczona Skovika
-    - <a id='p_lodborke' pattern='L.dbrok*'>Lödbroke</a>
-        - legendarny wprost łowca głów z Wysp; bez Klanu i seniora
-        - Vildkarl, podopieczny Artisa
-        - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)
-
-
-        
+    - <a id='p_roeggner' pattern='Roeggner* Czarn*,Roeggner*'>Roeggner "Czarny" Dimun</a>
+        - pirat
+        - głowa rodu Dimun
+        - siostra: Asliv
+    - <a id='p_svanrige' pattern='Svanrige'>Svanrige</a>
+        - rówieśnik Lugosa Młodszego
+        - dziedzic rodu Tuirseach
+        - umarł na __tym__ bankiecie
