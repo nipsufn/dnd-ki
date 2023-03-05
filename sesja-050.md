@@ -26,7 +26,7 @@
     - Ilana w nocy zauważa, że kuroliszek skończył już niechybnie swoją batalię z gryfem, bo coś podobnych mu rozmiarów przelatuje nad polami skanując okolicę. Naszego obozu na szczęścia nie zauważa.
     - Na swojej warcie z kolei Kajetan widzi kolejnego stwora-gościa, znanego nam już sowo-niedźwiedzia. Zwierzę łapie coś do zjedzenia, po czym oddala się w tylko sobie znanym kierunku.
     - Noc przebiega bez dalszych zakłóceń. Skoro świt ruszamy dalej. Po drodze mijamy ludzkie sadyby. Kilkoro dzieci biega bawiąc się na polach.
-    - Naszą uwagę przykuwa powalone drzewo z charakterystycznym wgnieceniem - ślady wskazują na starcie sowiołaka z [kotem-migotem](Kot Migot).
+    - Naszą uwagę przykuwa powalone drzewo z charakterystycznym wgnieceniem - ślady wskazują na starcie sowiołaka z [kotem migotem](Kot Migot).
     - Ilana zabiera pióra, których kilka - po za krwią i innymi elementami - leżą w okolicy.
 3. Czarnoksięskie mediacje Ilany
     - Słońce chyli się już ku zachodowi kiedy docieramy do Medownej. Naszym oczom ukazuje się małe obozowisko - 4 osobowy namiot w barwach Nilfgaardu (możliwe, że to ci sami ludzie z naszego ostatniego wypadu do wioski), obok którego żołdacy złożyli kuchnię polową.
