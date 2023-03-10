@@ -59,7 +59,7 @@
     - Mozaik wysyła nas z powrotem do obozu lokalnych kultystów, upewnić się, że nie pozostało po nich żadne plugastwo.
     - Ruszamy we dwójkę - Lars i Lambert czekają, aż ustabilizuje się portal do Gors Velen, by móc się tam przenieść i zająć dalszą częścią misji.
     - Obóz został częściowo spalony, a częściowo zniszczony. Spośród uciekinierów, kilku kolejnych zabito, a resztę wzięto jako jeńców, zostawiając za sobą ślady zniszczenia i pijaństwa.
-    - w ruinach puszczonego z dymem tartaku, pod podłogą, na której jeszcze niedawno stał ołtarz, znajdujemy wykopaną w ziemi jamę - prywatną celę z legowiskiem i drugim ołtarzykiem, poświęconym Krwawej Matce.
+    - W ruinach puszczonego z dymem tartaku, pod podłogą, na której jeszcze niedawno stał ołtarz, znajdujemy wykopaną w ziemi jamę - prywatną celę z legowiskiem i drugim ołtarzykiem, poświęconym Krwawej Matce.
     - Na podwyższeniu stoi kamienna szkatułka. Kajetan rozpoznaje w niej relikwiarz. Skrzynka nosi ślady po pożarze: na bokach są odciśnięte dłonie oraz przyklejone fragmenty ludzkiej skóry, jakby ktoś usiłował wynieść ją z ognia. Czyżby "Usta" w ten sposób zamienił swoją skórę na masę blizn po oparzeniach?
     - Po konsultacji z {organizatorką wyprawy}Mozaik, decydujemy się teleportować na Thanned razem z plugawym artefaktem.
 ##### [Sesja 132](#sesja-132) [Sesja 134](#sesja-134)
