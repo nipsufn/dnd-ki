@@ -30,29 +30,23 @@
             - 1 Piersiówka z nalewką z mandragory, 1/2
             - naszyjnik kul ognia, 3 nieodnawialne użycia
             - ⒶPierścień ochrony +1 do rzutów obronnych
-            - <details>
-                <summary>Brosza Ucieczki - 1/2</summary>
-                    This broch has 2 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it. 
-                    If you have the Arcane Recovery feature, you can also use 1 charge to recharge this ability if you have already used it.
-                    The broch regains 1 expended charge per 24h spend in a Place of Power.
-                </details>
-            - <details>
-                <summary>ⒶAleksandryt Mocy</summary>
-                    Spell focus.
-                    When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
-                    You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-                    Spells:
-                    - Tsunami
-                    - Maelstrom
-                    - Tidal Waves
-                </details>
+            - Brosza Ucieczki - 0/2
+                This broch has 2 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it. 
+                If you have the Arcane Recovery feature, you can also use 1 charge to recharge this ability if you have already used it.
+                The broch regains 1 expended charge per 24h spend in a Place of Power.
+            - ⒶAleksandryt Mocy
+                Spell focus.
+                When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
+                You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                Spells:
+                - [Tsunami](https://5e.tools/spells.html#tsunami_phb)
+                - [Maelstrom](https://5e.tools/spells.html#maelstrom_xge)
+                - [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
             - [Księga z zaklęciami Aen Drisichean](https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce)
         - Schowany:
             - Odzież
-                - <details>
-                    <summary>Szata wysokiego elfiego rodu</summary>
-                        While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action
-                    </details>
+                - [Szata wysokiego elfiego rodu](https://5e.tools/items.html#cloak%20of%20elvenkind_dmg)
+                    While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
                 - [Zimowe ubrania](https://5e.tools/items.html#clothing%2c%20cold%20weather_idrotf)
                 - Eleganckie ubranie
             - Księgi:
@@ -109,7 +103,7 @@
                     - odpis traktatów alchemicznych z Crag An
                     - Księga Malaspiny w nieznanym dialekcie Starszej Mowy
             - Komponenty:
-                - 2 butelki nalewki z mandragory (17 użyć)
+                - 2 butelki nalewki z mandragory (16 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
                 - 0 <sup>46</sup>/<sub>50</sub> porcji inkaustu
                 - 3 porcja kadzidła
@@ -126,60 +120,52 @@
                 - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-                - <details>
-                    <summary>Ⓐ3 odłamki Eluviaanu</summary>
-                        Attunement: Elf only
-                        A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
-                        Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
-                        When attuned to an character possessing the Fey Ancestry trait gains the following features:
-                            - Can cast the spell clairvoyance as a spell like ability
-                            - As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
-                        Once you use any of this features, you can't use it again until you finish a long rest.
-                    </details>
+                - Ⓐ3 odłamki Eluviaanu<
+                    Attunement: Elf only
+                    A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
+                    Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
+                    When attuned to an character possessing the Fey Ancestry trait gains the following features:
+                        - Can cast the spell [clairvoyance](https://5e.tools/spells.html#clairvoyance_phb) as a spell like ability
+                        - As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
+                    Once you use any of this features, you can't use it again until you finish a long rest.
                 - [Różdżka niewidzialności z Craag An](https://5e.tools/items.html#ring%20of%20invisibility_dmg)
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
                 - 1 kryształy False Life (5ty poziom)
-                - <details>
-                    <summary>różdżka Zamku Niskiego Kaer Seren</summary>
-                        When attuned, you can select one cantrip from any Class Spell list. You can cas this cantrip using your Spellcasting ability modifier as if the spell would be in your Spell list.
-                        Additionally, you can change the selected spell after finishing a long rest.
-                    </details>
-                - <details>
-                    <summary>różdżka maga</summary>
-                        type: Quarterstaff
-                        magic: true
-                        properties:
-                            - Versatile
-                            - Melee
-                            - Simple
-                            - Magic weapon: This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
-                        damage: 1d6 or 1d8 Bludgeoning
-                        attunement: true (Arcane Spellcaster)
-                        spellcasting:
-                            charges: 8
-                            recharge: false
-                        description:
-                            Has an empty gem socket.
-                            This staff can hold up to 8 charges. You can use the charges to power the following abilities:
-                            - Enchanted Strikes: You can use your bonus action to expend a number of charges. The next time you hit with staff during the next minute, 
-                            the target takes and extra 1d6 Force damage per charge
-                            - Recharge: You can use your action to spend a spell slot to refill the charges in your staff
-                    </details>
+                - różdżka Zamku Niskiego Kaer Seren
+                    When attuned, you can select one cantrip from any Class Spell list. You can cas this cantrip using your Spellcasting ability modifier as if the spell would be in your Spell list.
+                    Additionally, you can change the selected spell after finishing a long rest.
+                - różdżka maga
+                    type: Quarterstaff
+                    magic: true
+                    properties:
+                        - Versatile
+                        - Melee
+                        - Simple
+                        - Magic weapon: This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
+                    damage: 1d6 or 1d8 Bludgeoning
+                    attunement: true (Arcane Spellcaster)
+                    spellcasting:
+                        charges: 8
+                        recharge: false
+                    description:
+                        Has an empty gem socket.
+                        This staff can hold up to 8 charges. You can use the charges to power the following abilities:
+                        - Enchanted Strikes: You can use your bonus action to expend a number of charges. The next time you hit with staff during the next minute, 
+                        the target takes and extra 1d6 Force damage per charge
+                        - Recharge: You can use your action to spend a spell slot to refill the charges in your staff
                 - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
                 - 2 żeliwne patelnie
                 - 1 zestaw do wspinaczki
-                - <details>
-                    <summary>Śnieżka Aurila</summary>
-                        When attuned, increased Cold damage done by all spells by 1 per dice rolled
-                        You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-                        Spells:
-                        - Cone of Cold
-                        - Ice Storm
-                        - Wall of Ice
-                        While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
-                    </details>
+                - Śnieżka Aurila
+                    When attuned, increased Cold damage done by all spells by 1 per dice rolled
+                    You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                    Spells:
+                    - Cone of Cold
+                    - Ice Storm
+                    - Wall of Ice
+                    While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
             - Thieves Tools
             - naszyjnik przyjaciela Roeggnera Czarnego - kotwica z kości wieloryba
             - Z Craag An:
@@ -210,6 +196,7 @@
     - Własne zaklęcia
         - <details>
             <summary>Patient Note (2)</summary>
+
                 Casting Time: 1 minute
                 Range: Unlimited
                 Components: V, S, M (a scrap of parchment and 1gp worth of magical ink, which the spell consumes)
@@ -221,8 +208,10 @@
                 When you cast this spell using a spell slot of 3rd or 4th level, the duration increases to 1 hour. 
                 When you cast this spell using a spell slot of 5th or 6th level, the duration increases to 8 hours. 
                 When you cast this spell using a spell slot of 7th or higher level, the duration increases to 24 hours.
+
         - <details>
             <summary>Kajetan's Reasonable Lodging (5)</summary>
+
                 5th-level conjuration (ritual)
                 Casting Time: 1 minute
                 Range: Touch
@@ -230,9 +219,11 @@
                 Duration: 12 hours
                 You conjure a dwelling matching the area. You and up to 10 creatures you designate when you cast the spell can enter the dwelling, but it appears to be inexplicably inaccessible to others.
                 You can create any floor plan you like that matches the exterior, but the space can't exceed 10 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
+
             </details>
         - <details>
             <summary>Stregobor's Versatile Double (6)</summary>
+
                 6th-level illusion (ritual)
                 Casting Time: 1 minute
                 Range: Special
@@ -242,6 +233,7 @@
                 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings. The double is semi-material and can interact with its' surrounding. The double cannot move further than 30ft from the target of the spell.
                 If the double is dispelled or destroyed while you are using its senses, you suffer a psychic backslash and take 5d10 psychic damage, and the spell ends.
                 If the target is on a different plane of existence, or is protected from divination magic, the spell has no effect.
+
             </details>
     - Plany:
         - wrócić do podziemnego jeziora koło Col Serrai
@@ -254,9 +246,6 @@
             - nieczytelne (jeszcze) 8go poziomu
             - [Planar Ally (6)](https://5e.tools/spells.html#planar%20ally_phb)
             - [Plane Shift (7)](https://5e.tools/spells.html#plane%20shift_phb)
-            - [Teleport (7)](https://5e.tools/spells.html#teleport_phb)
-        - Zaklęcia do dokończenia:
-            - Unitrusive note (2) - 50gp, 2 rzuty Arcana
     - Mechanika
         - Nowe zaklęcia czarodzieja:
             - 10XP za level zaklęcia, przy dowolnym długim odpoczynku
