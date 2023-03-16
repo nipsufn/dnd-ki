@@ -120,7 +120,7 @@
                 - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-                - Ⓐ3 odłamki Eluviaanu<
+                - Ⓐ3 odłamki Eluviaanu
                     Attunement: Elf only
                     A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
                     Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
