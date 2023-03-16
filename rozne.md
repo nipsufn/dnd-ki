@@ -78,8 +78,8 @@
         | :--- | :--- |
         | <a id='r_ucz' pattern='Ucz*'>Uczeń</a> | 1 |
         | <a id='r_adp' pattern='Adept*'>Adept</a> | 2 |
-        | <a id='r_wcz' pattern='Woln* Mag*,Woln* Czarodziej*'>**Wolny Czarodziej**</a> | 3 |
-        | <a id='r_men' pattern='Mentor*'>Mentor</a> | 5 |
+        | <a id='r_wcz' pattern='Woln* Mag*,Woln* Czarodziej*'>Wolny Czarodziej</a> | 3 |
+        | <a id='r_men' pattern='Mentor*'>**Mentor**</a> | 5 |
         | <a id='r_mis' pattern='Mistrz*'>Mistrz</a> | 7 |
         | <a id='r_czr' pattern='Człon* Rady'>Członek Rady</a> | 8 |
 

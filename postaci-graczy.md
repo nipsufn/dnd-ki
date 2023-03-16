@@ -31,22 +31,21 @@
             - naszyjnik kul ognia, 3 nieodnawialne użycia
             - ⒶPierścień ochrony +1 do rzutów obronnych
             - Brosza Ucieczki - 0/2
-                This broch has 2 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it. 
-                If you have the Arcane Recovery feature, you can also use 1 charge to recharge this ability if you have already used it.
-                The broch regains 1 expended charge per 24h spend in a Place of Power.
+                - This broch has 2 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it.
+                - If you have the Arcane Recovery feature, you can also use 1 charge to recharge this ability if you have already used it.
+                - The broch regains 1 expended charge per 24h spend in a Place of Power.
             - ⒶAleksandryt Mocy
-                Spell focus.
-                When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
-                You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-                Spells:
-                - [Tsunami](https://5e.tools/spells.html#tsunami_phb)
-                - [Maelstrom](https://5e.tools/spells.html#maelstrom_xge)
-                - [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
+                - Spell focus.
+                - When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
+                - You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                    - [Tsunami](https://5e.tools/spells.html#tsunami_phb)
+                    - [Maelstrom](https://5e.tools/spells.html#maelstrom_xge)
+                    - [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
             - [Księga z zaklęciami Aen Drisichean](https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce)
         - Schowany:
             - Odzież
                 - [Szata wysokiego elfiego rodu](https://5e.tools/items.html#cloak%20of%20elvenkind_dmg)
-                    While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+                    - While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
                 - [Zimowe ubrania](https://5e.tools/items.html#clothing%2c%20cold%20weather_idrotf)
                 - Eleganckie ubranie
             - Księgi:
@@ -121,10 +120,10 @@
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
                 - Ⓐ3 odłamki Eluviaanu
-                    Attunement: Elf only
-                    A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
-                    Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
-                    When attuned to an character possessing the Fey Ancestry trait gains the following features:
+                    - Attunement: Elf only
+                    - A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
+                    - Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
+                    - When attuned to an character possessing the Fey Ancestry trait gains the following features:
                         - Can cast the spell [clairvoyance](https://5e.tools/spells.html#clairvoyance_phb) as a spell like ability
                         - As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
                     Once you use any of this features, you can't use it again until you finish a long rest.
@@ -132,40 +131,38 @@
                 - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
                 - 1 kryształy False Life (5ty poziom)
                 - różdżka Zamku Niskiego Kaer Seren
-                    When attuned, you can select one cantrip from any Class Spell list. You can cas this cantrip using your Spellcasting ability modifier as if the spell would be in your Spell list.
+                    - When attuned, you can select one cantrip from any Class Spell list. You can cas this cantrip using your Spellcasting ability modifier as if the spell would be in your Spell list.
                     Additionally, you can change the selected spell after finishing a long rest.
                 - różdżka maga
-                    type: Quarterstaff
-                    magic: true
-                    properties:
+                    - type: Quarterstaff
+                    - properties:
                         - Versatile
                         - Melee
                         - Simple
                         - Magic weapon: This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
-                    damage: 1d6 or 1d8 Bludgeoning
-                    attunement: true (Arcane Spellcaster)
-                    spellcasting:
-                        charges: 8
-                        recharge: false
-                    description:
-                        Has an empty gem socket.
-                        This staff can hold up to 8 charges. You can use the charges to power the following abilities:
-                        - Enchanted Strikes: You can use your bonus action to expend a number of charges. The next time you hit with staff during the next minute, 
+                    - damage: 1d6 or 1d8 Bludgeoning
+                    - attunement: true (Arcane Spellcaster)
+                    - spellcasting:
+                        - charges: 8
+                        - recharge: false
+                    - description:
+                        - Has an empty gem socket.
+                        - This staff can hold up to 8 charges. You can use the charges to power the following abilities:
+                            - Enchanted Strikes: You can use your bonus action to expend a number of charges. The next time you hit with staff during the next minute, 
                         the target takes and extra 1d6 Force damage per charge
-                        - Recharge: You can use your action to spend a spell slot to refill the charges in your staff
+                            - Recharge: You can use your action to spend a spell slot to refill the charges in your staff
                 - pióro z Crag An, skraca czas pisania zaklęć o połowę
                 - 2 krystaliczny kawałek dwimerytu, odbierający Moc
                 - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
                 - 2 żeliwne patelnie
                 - 1 zestaw do wspinaczki
                 - Śnieżka Aurila
-                    When attuned, increased Cold damage done by all spells by 1 per dice rolled
-                    You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-                    Spells:
-                    - Cone of Cold
-                    - Ice Storm
-                    - Wall of Ice
-                    While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+                    - When attuned, increased Cold damage done by all spells by 1 per dice rolled
+                    - You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                        - [Cone of Cold](https://5e.tools/spells.html#cone%20of%20cold_phb)
+                        - [Ice Storm](https://5e.tools/spells.html#ice%20storm_phb)
+                        - [Wall of Ice](https://5e.tools/spells.html#wall%20of%20ice_phb)
+                    - While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
             - Thieves Tools
             - naszyjnik przyjaciela Roeggnera Czarnego - kotwica z kości wieloryba
             - Z Craag An:
@@ -194,47 +191,36 @@
         - Świątynia Melitele
         - Kerack (mobilny/eksperymantalny - Radcliffe)
     - Własne zaklęcia
-        - <details>
-            <summary>Patient Note (2)</summary>
-
-                Casting Time: 1 minute
-                Range: Unlimited
-                Components: V, S, M (a scrap of parchment and 1gp worth of magical ink, which the spell consumes)
-                Duration: 10 minutes
-                You send a piece of parchment with a short message of ten words or less to a creature with which you are familiar. The creature is aware of the note appearing amongst their belongings, recognizes you as the sender if it knows you, and can answer in a like manner before the duration expires.
-                Once the targeted creature responds to the message, or the duration ends, the parchment disappears in a puff of smoke.
-                The target must have an Intelligence score of 6 or higher, you must share at least one language with the target for it to understand the meaning of your message
-                You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 50 percent chance that the message doesn't arrive.
-                When you cast this spell using a spell slot of 3rd or 4th level, the duration increases to 1 hour. 
-                When you cast this spell using a spell slot of 5th or 6th level, the duration increases to 8 hours. 
-                When you cast this spell using a spell slot of 7th or higher level, the duration increases to 24 hours.
-
-        - <details>
-            <summary>Kajetan's Reasonable Lodging (5)</summary>
-
-                5th-level conjuration (ritual)
-                Casting Time: 1 minute
-                Range: Touch
-                Components: V,S,M (A model of an elven tower worth at least 250 GP, and 1 GP per person, which the spell consumes)
-                Duration: 12 hours
-                You conjure a dwelling matching the area. You and up to 10 creatures you designate when you cast the spell can enter the dwelling, but it appears to be inexplicably inaccessible to others.
-                You can create any floor plan you like that matches the exterior, but the space can't exceed 10 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
-
-            </details>
-        - <details>
-            <summary>Stregobor's Versatile Double (6)</summary>
-
-                6th-level illusion (ritual)
-                Casting Time: 1 minute
-                Range: Special
-                Components: V,S,M (an elementally attuned gem worth at least 500gp)
-                Duration: Until dispelled
-                Choose a target you are familiar with. You create an illusionary double of yourself, which appears within 15ft of the chosen target. The double is created from the closest elemental source corresponding to the used gem (fire, water, earth, or wind). Your double is a matching resemblance of you, sharing your AC, and with 1 HP.
-                You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings. The double is semi-material and can interact with its' surrounding. The double cannot move further than 30ft from the target of the spell.
-                If the double is dispelled or destroyed while you are using its senses, you suffer a psychic backslash and take 5d10 psychic damage, and the spell ends.
-                If the target is on a different plane of existence, or is protected from divination magic, the spell has no effect.
-
-            </details>
+        - Patient Note (2)
+            - Casting Time: 1 minute
+            - Range: Unlimited
+            - Components: V, S, M (a scrap of parchment and 1gp worth of magical ink, which the spell consumes)
+            - Duration: 10 minutes
+            - You send a piece of parchment with a short message of ten words or less to a creature with which you are familiar. The creature is aware of the note appearing amongst their belongings, recognizes you as the sender if it knows you, and can answer in a like manner before the duration expires.
+            - Once the targeted creature responds to the message, or the duration ends, the parchment disappears in a puff of smoke.
+            - The target must have an Intelligence score of 6 or higher, you must share at least one language with the target for it to understand the meaning of your message
+            - You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 50 percent chance that the message doesn't arrive.
+            - When you cast this spell using a spell slot of 3rd or 4th level, the duration increases to 1 hour. 
+            - When you cast this spell using a spell slot of 5th or 6th level, the duration increases to 8 hours. 
+            - When you cast this spell using a spell slot of 7th or higher level, the duration increases to 24 hours.
+        - Kajetan's Reasonable Lodging (5)
+            - 5th-level conjuration (ritual)
+            - Casting Time: 1 minute
+            - Range: Touch
+            - Components: V,S,M (A model of an elven tower worth at least 250 GP, and 1 GP per person, which the spell consumes)
+            - Duration: 12 hours
+            - You conjure a dwelling matching the area. You and up to 10 creatures you designate when you cast the spell can enter the dwelling, but it appears to be inexplicably inaccessible to others.
+            - You can create any floor plan you like that matches the exterior, but the space can't exceed 10 cubes, each cube being 10 feet on each side. The atmosphere is clean, fresh, and warm.  The place is furnished and decorated as you choose. It contains sufficient food to serve a full meal to all guests.
+        - Stregobor's Versatile Double (6)
+            - 6th-level illusion (ritual)
+            - Casting Time: 1 minute
+            - Range: Special
+            - Components: V,S,M (an elementally attuned gem worth at least 500gp)
+            - Duration: Until dispelled
+            - Choose a target you are familiar with. You create an illusionary double of yourself, which appears within 15ft of the chosen target. The double is created from the closest elemental source corresponding to the used gem (fire, water, earth, or wind). Your double is a matching resemblance of you, sharing your AC, and with 1 HP.
+            - You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings. The double is semi-material and can interact with its' surrounding. The double cannot move further than 30ft from the target of the spell.
+            - If the double is dispelled or destroyed while you are using its senses, you suffer a psychic backslash and take 5d10 psychic damage, and the spell ends.
+            - If the target is on a different plane of existence, or is protected from divination magic, the spell has no effect.
     - Plany:
         - wrócić do podziemnego jeziora koło Col Serrai
         - dowiedzieć się co się przytrafiło Assire var Anahid - hak na Floriana
