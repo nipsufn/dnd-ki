@@ -35,6 +35,7 @@
         - podczas patrolu okolicznych ludzkich wiosek (najprawdopodobniej pod Brugge - Medowna i okolice) driady znalazły spore drzewo rosnące na polu. 
         - rozbiły pod nim obóz, ze snu wyrwał je krzyk tej najstarszej
         - nocą już w Wiosce driada prosiła swoje siostry żeby wyjęły cierń. Juniper posłuchała i wtedy ta się przemieniła
-    - W posępnej atmosferze opatrujemy się i kończymy posiłek. Rozchodzimy się na nocleg - Ilana z braćmi i młodą driadą, Kajetan z Mirną
+    - W posępnej atmosferze opatrujemy się i kończymy posiłek. Rozchodzimy się na nocleg - Ilana z braćmi i młodą driadą do lokum Finarrina, Kajetan z Mirną
     - Ilana czuwa przy Juniper przez całą noc. 
     
+##### [Sesja 18](#sesja-018) [Sesja 20](#sesja-020)

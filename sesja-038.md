@@ -23,7 +23,7 @@
         - Kajetan prosi Finarrina o naukę zaklęcia tworzenia i niszczenia wody
         - Ilana z braćmi zostaje w kuźni, zabijając czas grą w karty
     - Gdy metal jest już płynny, przychodzi pora na wystudzenie nowo powstałej sztaby. Reszta grupy dołącza do ludzi w kuźni.
-    - Druidzi pomagają wytworzyć odpowiednio dużo wody i zimnego wiatru do schłodzenia sztaby. Kuźnia tymczasowo zamienia się w saunę. Ilana, pozbywszy się wcześniej nadmiaru ubrań, niezamierzenie staje się widowiskiem dla całej trójki kompanów, z których Kajetan zdaje się być najmniej ostentacyjny w radowaniu oka widokami.
+    - Druidzi pomagają wytworzyć odpowiednio dużo wody i zimnego wiatru do schłodzenia sztaby. Kuźnia tymczasowo zamienia się w saunę. Ilana, pozbywszy się nadmiaru ubrań, niezamierzenie staje się widowiskiem dla całej trójki kompanów, z których Kajetan zdaje się być najmniej ostentacyjny w radowaniu oka widokami.
     - Zmordowani zmaganiami w kuźni rozchodzimy się na krótki odpoczynek. Kajetan anektuje łaźnię wieszając na drzwiach karteczkę "zajęte, nie przeszkadzać". Ivar, umęczony setnie, pada na łóżko i zasypia. Pozostała dwójka, tj. Ilana i Skovik, ignorując wiszącą na drzwiach łaźni kartę, idą zażyć kąpieli.
     - Nieco wypoczęci i na swój sposób odprężeni wracamy po czasie do kuźni celem przekucia sztaby w nową broń dla Ivara.
     - Pada propozycja aby jako trzon do topora wykorzystać kostur Ivryna, ale swój stanowczy sprzeciw wyraża Kajetan. Finarrin także nie jest do końca przekonany o słuszności tego pomysłu.

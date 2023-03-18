@@ -1,6 +1,6 @@
 ## Bestariusz
 - Rośliny
-    - <a id='b_archeospor' pattern='[Aa]rcheospor*'>Archeospor</a>
+    - <a id='b_archespor' pattern='[Aa]rcheospor*'>Archespor</a>
         - wielka muchołapka czy rosiczka
         - jego pyłek otłumania, kusi
         - rośnie w miejscach splamionych krwią, najchętniej niewinną
@@ -8,7 +8,7 @@
     - <a id='b_bluszcz' pattern='Pnącz* Bluszczopodobn*,[Ee]chinops*'>Echinops</a>
         - jako pnącze stosunkowo słabe, strzela kolcami
         - jako bulwa próbuje opleść trującymi pnączami
-        - dziecięca forma Archeospora
+        - dziecięca forma Archespora
     - <a id='b_orchidea' pattern='Pnącz* Orchideopodobn*'>Pnącze Orchideopodobne</a>
         - Jest w stanie zasiać zarodniki w żywym organizmie i kontrolować go jak długo jest z nim połączony cienkimi kłączami
         - Kwiaty wybuchają pyłem który zadaje znaczne obrażenia

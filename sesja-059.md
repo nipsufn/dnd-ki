@@ -17,11 +17,11 @@
         - _Urząd Burmistrza poszukuje wprawnych i odważnych do pracy w straży! Zastąpicie zaginiony oddział służąc miastu i obywatelom!_
         - _Zaraza Żelaza! Z rozporządzenia Burmistrza Mariboru Olega ogłasza się nagrodę za znalezienie przyczyny problemów z niszczejącymi narzędziami!_
     - Zatrzymujemy się w karczmie Nowy Zrąb. Zamawiamy jedzenie i napełniając sobie brzuchy przysłuchujemy się rozmowom. Ilana zauważa nieostrożnie przyglądających się nam krasnoluda i niziołka.
-    - Kajetan przysiada się do nich, i nie owijając w bawełnę pyta czego chcą. Krasnolud, nazwany Reganem, jest wyraźnie zestresowany naszą obecnością w mieście. On i niziołek Andy szukają złota i dziewczyn, które zniknęły spod W Pół Drogi - [elf](Kajetan) zapewnia ich, że nic nas to nie obchodzi i nie będziemy im wadzić tak długo jak będą się trzymać z dala od nas, a ich złoto nie jest warte naszego zachodu.
-    - Zaklepujemy nocleg i wyruszamy dalej, rozejrzeć się po okolicy, w której niegdyś stała wieża [czarodziejki](Triss), by zobaczyć czy zostało  po niej coś, co moglibyśmy wykorzystać.
+    - Kajetan przysiada się do nich, i nie owijając w bawełnę pyta, czego chcą. Krasnolud, nazwany Reganem, jest wyraźnie zestresowany naszą obecnością w mieście. On i niziołek Andy szukają złota i dziewczyn, które zniknęły spod W Pół Drogi - [elf](Kajetan) zapewnia ich, że nic nas to nie obchodzi i nie będziemy im wadzić tak długo, jak będą się trzymać z dala od nas, a ich złoto nie jest warte naszego zachodu.
+    - Zaklepujemy nocleg i wyruszamy dalej, rozejrzeć się po okolicy, w której niegdyś stała wieża [czarodziejki](Triss), by zobaczyć, czy zostało  po niej coś, co moglibyśmy wykorzystać.
 3. Teoria kątów i trójkątów
     - Teren, uprzątnięty i wyrównany, z nasadzeniami drzew, jest wciąż nieco obniżony. Wygląda na to, że będzie tu park, a zgodnie z małą tabliczką w centrum, czarny ostrosłup stojący w miejscu dawnego domostwa [Czternastej z Sodden](Triss), w przyszłości zostanie zastąpiony jej pomnikiem.
-    - [Elf](Kajetan) dostrzega, że ostrosłup definitywnie jest magiczny w swojej naturze, jednak nie jest w stanie określić jego funkcji. Możliwe, że służy jako punkt zaczepienia dla kogoś kto chciałby obserwować okolicę.
+    - [Elf](Kajetan) dostrzega, że ostrosłup definitywnie jest magiczny w swojej naturze, jednak nie jest w stanie określić jego funkcji. Możliwe, że służy jako punkt zaczepienia dla kogoś, kto chciałby obserwować okolicę.
     - Ku rozczarowaniu Kajetana, wszystkie piwnice w okolicy są albo zamknięte na trzy spusty, albo skonstruowane tak, że dostać się do nich można jedynie przez dom. W okolicy stoją jednak chwiejne ruiny trzech budynków w trakcie rozbiórki. 
     - Podczas gdy Ilana upewnia się, że nikt nie wtyka nosa w nie swój interes, Kajetan zeskakuje do jednej z piwnic.
     - [Mag](Kajetan) nie znajduje żadnego miejsca, w którym [młoda druidka](Ilana) mogła by zacząć kopać jako zwierzę, jednak wymacuje wnękę zabezpieczoną iluzją, a w niej kolejny ostrosłup, dużo mniejszy, ale zaklęty w ten sam sposób. Ukryty w zrujnowanych fundamentach, pozwala sobie na eksperyment. Posyła swoje magiczne oko, próbując nim wleźć w ostrosłup. Po chwili jego widzenie przenosi się nad obelisk w parku, a jedna z jego krawędzi jarzy się lekkim światłem. 
@@ -42,7 +42,7 @@
     - [Mag](Kajetan) tymczasowo rozprasza widziadło, odsłaniając nieco cofniętą, spękaną sekcję ściany oraz mały piedestał z trzecim ostrosłupem.
     - Ostrożnie oczyszczamy ścianę z porostów wyrastających z pęknięć. Widzimy płaskorzeźbę drzwi. Wiedzeni przeczuciem próbujemy wypowiedzieć dwa z haseł używanych przez Merigold, które poznaliśmy podczas naszej ostatniej wizyty w [mieście](Maribor) - "Czternasta ze wzgórza", które nie działa, oraz "Róża z Cáelmewedd". To drugie otwiera niespękane skrzydło kamiennych drzwi, odsłaniając przed nami krótki tunel, również pokryty gąbkowatą warstwą.
     - Przyglądamy się narośli przez elfie szkiełka. Porost zdaje się emanować fioletową poświatą.
-    - Kajetan wysyła kolejny raz swój wzrok na zwiad, odkrywając małą sekcję nie zawalonej piwnicy wieży. Narośl rozrasta się od jakiegoś stworzenia obrastającego sufit nad lekko uszkodzonym kręgiem teleportacyjnym, z którego zdaje się pochodzić, albo i czerpać siłę. Jesteśmy zmęczeni, więc decydujemy się odpocząć poza kanałami, i lepiej przygotować do próby uprzątnięcia miejsca które moglibyśmy nazwać bezpieczną przystanią.
+    - Kajetan wysyła kolejny raz swój wzrok na zwiad, odkrywając małą sekcję nie zawalonej piwnicy wieży. Narośl rozrasta się od jakiegoś stworzenia obrastającego sufit nad lekko uszkodzonym kręgiem teleportacyjnym, z którego zdaje się pochodzić, albo i czerpać siłę. Jesteśmy zmęczeni, więc decydujemy się odpocząć poza kanałami, i lepiej przygotować do próby uprzątnięcia miejsca, które moglibyśmy nazwać bezpieczną przystanią.
     - Przed odejściem badamy korytarz idący w górę kanałów. Natykamy się na tunel wydrążony przez znanego nam już chrząszcza-żelazojada. Zapach rdzy unosi się w okolicy.
 4. Lloyd, znowu...
     - Wychodzimy z kanałów, zamykając za sobą kratę. Wracamy przez most do lasu rozbić obóz z dala od rabusiów i oprychów.
@@ -50,3 +50,5 @@
     - Wśród gałęzi dostrzegamy poparzoną driadę - tą, która niegdyś uczyła [druidkę](Ilana) strzelać z łuku, a która zginęła od ciosu ognistym mieczem - jednak jej oczy płoną czerwono. Kajetan szybko rozpoznaje w nich swojego arcywroga, Lloyda.
     - Po morderczej, męczącej walce udaje nam się kolejny raz poszatkować ciało upiora, pozbawiając go fizycznej postaci. [Mag](Kajetan) próbuje nowego zaklęcia, które _zdaje się_ permanentnie przegoniło upierdliwą zmorę na tamten świat. Czas pokaże, czy rzeczywiście będziemy mieli chwilę spokoju.
     - Ilana pali resztki driady, zabierając garść prochów Elby i jej kompozytowy łuk.
+
+##### [Sesja 58](#sesja-058) [Sesja 60](#sesja-060)

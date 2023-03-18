@@ -5,7 +5,7 @@
     - Wracamy do bezpiecznej przestrzeni posągu Caemiris. 
     - Kajetan wspina się na posąg. Po krótkiej inwestygacji odkrywa, że kula światła jest utrzymana w miejscu przez runy.
     - Schodząc, elf częściowo niszczy mchową strzałkę, która odsłania źródło mocy zaklęcia - ukryty w piersi kamień.
-    - Decydujemy wspólnie, że powinniśmy czym prędzej udać się do Warowni i sprawdzić drzwi, których Ivryn nie był w stanie sforsować.
+    - Decydujemy wspólnie, że powinniśmy czym prędzej udać się do Warowni i sprawdzić drzwi, których podobno Ivryn nie był w stanie sforsować.
 2. Warownia
     - Pod Warownią znajdujemy kolejny posąg w rogatym hełmie: 
         - tym razem jednak przedstawia on muskularnego, dobrze zbudowanego elfa rozdzianego do pasa 
@@ -28,7 +28,7 @@
     - Nie marnując czasu udajemy się w stronę Akademii. Znajdujemy ostatni posąg: bezpłciową, smukłą postać odzianą w luźne, proste szaty. Na środku czoła posągu błyszczy wmontowany kamień. Na tabliczce napisano: "_Bądź światłem_" - Corneiros Niosący Światło.
     - Sama Akademia wygląda na dość zniszczoną - ostała się w całości jedna wieża i piętro.
     - Wyczerpani podróżą zatrzymujemy się na noc pod posągiem. W czasie nocnej warty Ilana i Enid dostrzegają w oknie wieży pełgające światło. Z wnętrza budynku dochodzą też rytmiczne odgłosy szurania metalu o kamień.
-    - Rankiem, nieco wypoczęci i podbudowani odkryciami dnia poprzedniego idziemy zbadać Akademię. Szybki rzut oka przez wyłamane drzwi pozwalają stwierdzić, że budynek jest pilnowany przez "automatyczne" zbroje. To ich kroki niosły się w nocnej ciszy.
+    - Rankiem, nieco wypoczęci i podbudowani odkryciami dnia poprzedniego idziemy zbadać Akademię. Szybki rzut oka przez wyłamane drzwi pozwala stwierdzić, że budynek jest pilnowany przez "automatyczne" zbroje. To ich kroki niosły się w nocnej ciszy.
     - Wszędzie zalega gruba warstwa popiołu, w której wyraźnie widać ślad stóp (Ivryn musiał tu być), a który urywa się nagle przy wejściu do klatki schodowej (teleportował się? zmienił w coś latającego?).
     - Kajetan bierze na siebie zwiad. Czeka na dobry moment i czmycha przez okno do recepcji nieopodal głównego wejścia.
     - Na recepcji nie ma "przepustek", które elf łudził się znaleźć, jest za to sejf, a na półkach widać ślady po kilku brakujących książkach.
@@ -44,5 +44,7 @@
         - na stole ktoś przeglądał jakieś książki
     - Druid, dzięki medalionowi, przechodzi nietknięty obok zbroi. Uradowany Kajetan zabiera wisiorek i idzie zwiedzać pozostałe pomieszczenia.
     - W głębi Akademii natyka się na namiot, a wokół niego całą stertę książek. Znajduje też 5 medalionów z symbolem głowy jelenia. Wygląda na to, że Ivryn tu był i czegoś szukał.
-    - Kajetan przekazuje go Finarrinowi, żeby ten sprawdził, czy to przepustka, co zostaje potwierdzone
-    - Jako że medalionów nie ma dość dla wszystkich, dzielimy się na dwa zespoły: jeden pozostanie pod oświetlonym pomnikiem, drugi będzie przeszukiwał bibliotekę
+    - Kajetan przekazuje go Finarrinowi, żeby ten sprawdził, czy to przepustka, co zostaje potwierdzone.
+    - Jako że medalionów nie ma dość dla wszystkich, dzielimy się na dwa zespoły: jeden pozostanie pod oświetlonym pomnikiem, drugi będzie przeszukiwał bibliotekę.
+
+##### [Sesja 33](#sesja-033) [Sesja 35](#sesja-035)

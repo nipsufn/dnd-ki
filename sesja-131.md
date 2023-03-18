@@ -34,3 +34,5 @@
         - Ilana informuje go, że Esme została już uwolniona spod klątwy i że jest już w lepszym miejscu
         - druid nadal nie zgadza się na pomoc w leczeniu czarodziejki, ale dziękuje - zdaje się całkiem szczerze - za rozmowę, która pomogła mu szerzej otworzyć oczy i uświadomiła lub też przypomniała pewne rzeczy
     - Nie chcąc nadwyrężać cierpliwości gospodarza, Ilana dziękuje za gościnę i opuszcza polanę. Gdy wychodzi z lasu - o dziwo po jego przeciwnej, północnej stronie - otrzymuje identyczną co Kajetan, lakoniczną wiadomość od Mozaik.
+
+##### [Sesja 130](#sesja-130) [Sesja 132](#sesja-132)

@@ -2,7 +2,7 @@
 ##### [Sesja 131](#sesja-131) [Sesja 133](#sesja-133)
 1. Powroty i ciepłe powitania
     - Kajetan i {wiedźmin}Gaetan docierają do miasta pierwsi, jakoś po południu. Na podgrodziu zachodzą ich nilfgaardzkie fircyki-najemnicy. Prowodyr grupy oferuje piwo i zapłatę w zamian za informacje z bagien, gdy jego podkomendni próbują ich okrążyć. Najemników jest w sumie szóstka, co więcej, w okolicy akuratnież nie kręci się ani jeden strażnik miejski.
-    - Kajetan, dalej z powodzeniem zgrywając wiejskiego głupka, udaje przydupasa Gaetana i odmawia współpracy. Gdy jeden z Nilfgaardczyków próbuje złapać go za ramię, wiedźmin odwija mu się grożąc mordobiciem. {Elf}Kajetan kątem oka wyłapuje faktycznego szefa zamieszania - kryjącego się z boku w cieniu kapelusza ex-oficera, osobistego ochroniarza szefa Salamander z Kerrack.
+    - Kajetan, dalej z powodzeniem zgrywając wiejskiego głupka, udaje przydupasa Gaetana i odmawia współpracy. Gdy jeden z Nilfgaardczyków próbuje złapać go za ramię, wiedźmin odwija mu się grożąc mordobiciem. {Elf}Kajetan kątem oka wyłapuje faktycznego szefa zamieszania - kryjącego się z boku w cieniu kapelusza ex-oficera, osobistego ochroniarza szefa Salamander z Kerack.
     - Nie chcąc iść na noże z wiedźminem, na znak tego w kapeluszu banda odstępuje i życzy im dobrego dnia. {Czarodziej}Kajetan i {wiedźmin}Gaetan idą do karczmy, w której się rozbiliśmy.
     - Chwilę po nich do karczmy wpada Lambert, trochę potarmoszony. Mówi, że będąc na bagnach on też wdał się w utarczkę z najemnikami, którzy go tam przydybali. Niestety tamci byli mniej roztropni i spróbowali swojego szczęścia w bitce. Jak widać, owo szczęście im jednak nie dopisało.
     - Ilana także rusza z powrotem. Na odchodne, stojąc pod lasem jeszcze raz prosi Druida o przemyślenie sprawy.
@@ -79,3 +79,5 @@
     - W tym czasie sowa Kajetana wraca z informacją, że zauważyła Nilfgaardczyków. Idą dość wolno ciężko obładowani ekwipunkiem. Dotrą tu za godzinę - dwie.
     - Kajetan przesyła wiadomość do Mozaik, która decyduje się działać. Przyczajona w wieżyczce przy wejściu do obozu, rzuca iluzję na ogień, który staje się zielony i przybiera kształt drzewa. Z drzewa tego spadają liście-iskry i układają się na ziemi w napis "Niebezpieczeństwo", wskazując na kierunek, z którego nadciągają najemnicy.
     - Fortel {czarodziejki}Mozaik powoduje chaos wśród kultystów - zaczynają biegać jak mrówki w mrowisku, ignorując Usta próbującego zapanować nad sytuacją. W tej samej chwili za jego plecami materializuje się Lars i przystawia mu sztylet do gardła.
+
+##### [Sesja 131](#sesja-131) [Sesja 133](#sesja-133)

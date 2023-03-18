@@ -4,7 +4,7 @@
     - Wygląda na to, że Bras załatwił swoje sprawy w Mayenie i teraz wybiera się do Carreras.
     - Przed zebraniem, z pomocą {elfa}Kajetan, Ilana wysyła wiadomość do Finarrina. {Druid}Finarrin prosi o księgi podatkowe, bo chyba podpisał jakąś umowę z księciem Kistrinem względem nadań ziemskich.
     - Brass i Kajetan zaczynają prace remontowe w klatce schodowej, by nie marnować czasu do spotkania.
-    - W międzyczasie udaje nam się dorobić zapasowy klucz do kanałów tak by każde z nas miało po jednym.
+    - W międzyczasie udaje nam się dorobić zapasowy klucz do kanałów, tak by każde z nas miało po jednym.
     - Kiedy prace trwają, Ilana wychodzi załatwić sprawunki, o które prosił ją Finarrin. Od Brasa dowiaduje się, że na księgi podatków Verdeńskich w Redanii nie ma co liczyć - należy ich szukać na miejscu. 
     - {Dziewczyna}Ilana zaopatruje się więc na mieście w nieco przepłacony zestaw "małego księgowego" i trzy litrowe bukłaki krasnoludzkiego dwójniaka. Z podatkami na trzeźwo nie można.
 2. Zebranie Nowej Kapituły
@@ -28,7 +28,7 @@
         - Stregobor, specjalista od iluzji, znalazł widziadło idealne, które demonstruje z pomocą zielonej latarni
         - pomimo użycia dedykowanego artefaktu, zaledwie wierzchnia warstwa iluzji rozprasza się, by ukazać fresk przedstawiający kilka gryfów; pomimo swojej natury, ściana jest solidna i nie da się przez nią przejść
         - styl przypomina nieco malowidła z Crag An, a namalowane nocne niebo, pomimo że nie przypomina żadnego, które do tej pory widzieliśmy - ma charakterystyczne konstelacje, w tym takie, których na naszym niebie nie ma; Kajetan robi wrażenie na Brasie rozpoznając Pardwę, nim powie o niej {mówca}Stregobor
-        - archeolodzy zastanawiają się czy punkt zwarcia sfer, Pardwa, został umocniony wieżą, jak wiele innych takich punktów
+        - archeolodzy zastanawiają się, czy punkt zwarcia sfer, Pardwa, został umocniony wieżą, jak wiele innych takich punktów
         - wiedźmini szkoły Gryfa (stworzonej przez Malaspinę, nauczyciela Alzura) znani byli z najbardziej umiejętnego wykorzystania Mocy, oraz wielkiego zbioru ksiąg
         - Kapituła planuje zrobić z {twierdzy gryfów}Kaer Seren swoją nową siedzibę
     - Następnym mówcą jest Stucco Zangenis:
@@ -69,16 +69,16 @@
     - Bras też wychodzi, gdy {mag}Kajetan zaczyna rozsyłać wiadomości:
         - do Igny: _"Dijkstra dotarł do Kapituły w trzy dni, i jego wystąpienie jest w centrum uwagi. Dusek chce się dobrać do nietkniętej wieży maga za dwa świecidełka. Na bagnach jest punkt żywiołów, może być przydatny organizacji Myrtona"_
         - z Leivem: _"Kto jeszcze steruje Roeggnerem, bo wspominałeś o tym - ktoś kto ma duże plecy. Obiecuje pomóc pozbyć się Cerys, dał mu magiczne urządzenie do śledzenia statków, które ma napadać."_
-        - z Radcliffem dzieli się wiadomościami od Leiva o Ragnarze; w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w Kerack
+        - z Radcliffem dzieli się wiadomościami od Leiva o Roeggnerze; w zamian może przetestować i używać mobilnego kręgu aportacyjnego, który obecnie znajduje się w Kerack
         - z Stregoborem:
             - punkt zwarcia sfer Pardwy nie jest zakotwiczony; budowniczy wież uznali, że teren jest zbyt trudny
             - Kajetan wspomina o płaskorzeźbie przedstawiającej punkty zwarcia sfer oraz dostępie do archiwów Aen Drisichean
             - wspomina też o istnieniu Aen Eldrin
-            - rozmówca jest zainteresowany, ale najbardziej interesuje go ściana którą nazywa "iluzją idealną" i chciałby aby poszukać informacji na ten temat w bibliotece w Crag An (nie wie, że biblioteka jest właśnie tam - przynajmniej Kajetan mu nie powiedział)
+            - rozmówca jest zainteresowany, ale najbardziej interesuje go ściana, którą nazywa "iluzją idealną" i chciałby aby poszukać informacji na ten temat w bibliotece w Crag An (nie wie, że biblioteka jest właśnie tam - przynajmniej Kajetan mu nie powiedział)
             - interesuje go też dalsza współpraca, najchętniej oczywiście dostęp do Crag An
     - Kolejne dni {elf}Kajetan spędza na odbudowie klatki schodowej i podłogi, wydzieleniu dwóch sypialni i ich umeblowaniu, częściowo z funduszy, które - wraz z częścią racji żywności - zostawiła mu na wszelki wypadek druidka.
 4. Wioska
-    - Ilana z pewnymi opóźnieniami dociera do Wioski. Przeliczając swoje siły na zamiary traci kontrolę nad swoją zwierzęcą formą, której używa do szybszego pokonania trasy. Na szczęście traci tylko jeden dzień.
+    - Ilana z pewnymi opóźnieniami dociera do Wioski. Przeliczając swoje siły na zamiary traci kontrolę nad swoją zwierzęcą formą, której używa do szybszego pokonania trasy. Na szczęście marnotrawi tylko jeden dzień.
     - W wiosce {dziewczynę}Ilana wita zagrzebany w papierach Finarrin. Zdaje się, że przybyło mieszkańców, budują się nowe chaty - panuje tu ogólny rozgardiasz.
     - Ilana wdaje się w pogawędkę z {mentorem}Finarrin. Książę odstąpił druidom fragment ziem w północnej części Verden (wraz z ludźmi i przynależnościami) aby druidzi mogli osiedlić się tam na stałe i - podobnie jak w Mayenie - założyć ośrodek kultu.
     - Finarrin został mianowany doradcą księcia, a w zamian druidzi zobowiązują się pomagać ludziom z Verden.
@@ -87,8 +87,10 @@
     - Na powitanie Ilany z lasu wychodzą Skovik i Gebo, obaj przystrojeni w dziwnego rodzaju pancerz. {Wyspiarz}Skovik chwali się, że sam go zrobił z resztek ubitej bestii.
     - Ilana prosi Skovika żeby dał jej jeszcze chwilę z Finarrinem. Mają jeszcze kilka spraw do omówienia, a potem go znajdzie.
     - Niedźwiadek podrósł, zarobił też kilka blizn, ale wyraźnie stęsknił się za {druidką}Ilana. Choć Skovik oddala się, Gebo siada przy Ilanie i domaga się uwagi w postaci pieszczot.
-    - Finarrin dzieli się informacją, która trochę Ilanę niepokoi: inicjatorem umowy z Kistrinem był Gardi, który teraz bardzo chętnie poświęca się sprawie i gimnastykuje aby wszystko szło zgodnie z planem.
+    - Finarrin dzieli się informacją, która trochę Ilanę niepokoi: inicjatorem umowy z Kistrinem był Gardi, który teraz bardzo chętnie poświęca się sprawie i gimnastykuje, aby tylko wszystko szło zgodnie z planem.
     - Ilana mówi {mentorowi}Finarrin o tym, co znaleźli na bagnach pod Wyzimą. O Lentinusie, niebezpiecznym chwaście i kręgu żywiołów.
     - W międzyczasie {druidka}Ilana kontaktuje się z Kajetanem poprzez kamień. Elf biadoli coś podekscytowany o eksplorowaniu solo bibliotek Craag An w czasie nieobecności Ilany, co spotyka się z jej stanowczą reprymendą. {Dziewczyna}Ilana obiecuje wieczorem podać dokładką datę swojego powrotu - wtedy będą mogli ustalić dalszy plan.
-    - Finarrin zgadza się z {dziewczyną}Ilana, uważa że powrót do {elfiej cytadeli}Craag An to chybiony pomysł
-    - {Druid}Finarrin opowiada o Dzikim Gonie, czerwonej komecie, która podobno zawsze przelatywała akurat gdy wojacy z północy prali się z czarnymi
+    - Finarrin zgadza się z {dziewczyną}Ilana. Uważa, że powrót do {elfiej cytadeli}Craag An to chybiony pomysł.
+    - {Druid}Finarrin opowiada o Dzikim Gonie, czerwonej komecie, która podobno zawsze przelatywała akurat, gdy wojacy z północy prali się z czarnymi.
+
+##### [Sesja 68](#sesja-068) [Sesja 70](#sesja-070)

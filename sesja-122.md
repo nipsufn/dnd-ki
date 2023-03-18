@@ -1,8 +1,8 @@
 ### Sesja 122
 ##### [Sesja 121](#sesja-121) [Sesja 123](#sesja-123)
 1. Znowu na Thanedd - rozmowy
-    - Późnym Wieczorem odwiedza nas Mozaik. Wydaje się być czymś bardzo podekscytowana. Niewiele zdradzając zaprasza nas na spotkanie w jednym z saloników.
-    - Jak się niebawem okazuje, prowadzi nas do Radcliffe'a. {Mag}Radcliffe wraca do siebie w jednym z saloników, przypominający ten, w którym pomieszkuje Zangenis.
+    - Późnym wieczorem odwiedza nas Mozaik. Wydaje się być czymś bardzo podekscytowana. Niewiele zdradzając zaprasza nas na spotkanie w jednym z saloników.
+    - Jak się niebawem okazuje, prowadzi nas do Radcliffe'a. {Mag}Radcliffe wraca do siebie w jednym z pokojów, przypominający ten, w którym pomieszkuje Zangenis.
     - Okutany w gruby, ciepły szlafrok, {czarodziej}Radcliffe wciąż odmarza, póki co jest wyczerpany i właściwie przykuty do fotela:
         - chcąc nie chcąc musi działać jako de facto przywódca nowej Kapituły - jest, zdaje się, jedyną osobą z doświadczeniem, uznaniem i skrawkiem woli, by doprowadzić sytuację do względnego porządku
         - podobnie do Dorregaraya, uważa, że plan rozbicia czterech punktów mocy jest co najmniej nietrafiony
@@ -14,14 +14,14 @@
         - Zavist odpoczywa w domu, w Kovirze; zmuszenie żywiołaka do kooperacji i uwolnienia swojej ofiary kosztowało go wiele energii; Radcliffe zdaje się martwić o kolegę
         - test, który czeka Zangenisa będzie raczej nieprzyjemny
         - Mozaik mówi na stronie Kajetanowi, że ma wobec nas dług wdzięczności
-    - Podbudowani nieco spotkaniem z rzeczowym i zdroworozsądkowym Radcliffem, wracamy do pokoju na nocny spoczynek. Ilana tym razem próbuje przyśnić się Ivarowi:
+    - Podbudowani nieco spotkaniem z rzeczowym i zdroworozsądkowym Radcliffem, wracamy do pokoju na nocny spoczynek. Ilana, chcąc załatwić nam widzenie z Eithne, tym razem próbuje przyśnić się Ivarowi:
         - znajduje się w jaskini, w której śmierdzi zepsutymi jajkami
         - w głębi słyszy jakby krzyk lub szloch kobiety, podąża więc głębiej
         - dociera do dantejskiej sceny: {chłopak}Ivar odciąga Ebbę od leżącej na ziemi, zwęglonej Chidy
         - zza załomu jaskini wyłania się ścigający ich potwór, pokryty czymś w pół drogi między piórami a łuskami, o brązowo-czerwonym zabarwieniu, większy od wiwerny
         - za potworem widać czarny kamień, promieniujący ciepłem
         - Ilana odwraca uwagę Ivara, sen załamuje się, sceneria zmienia się w pokój w jakiejś karczmie
-        - Ivar tłumaczy, że to, co właśnie widziała, stało się na prawdę
+        - Ivar tłumaczy, że to, co właśnie widziała, stało się naprawdę
         - w trójkę tropili coś, co wyglądało im na smoka; udali się do miejsca, gdzie potencjalnie gniazduje
         - Chida próbowała rozmawiać z potworem, który nakrył ich, gdy eksplorowali jego leże - przypłaciła to życiem, choć przez krótki moment potwór zdawał się słuchać, a nawet rozumieć
         - Ebba i Ivar spadli ze zbocza, w którym otwierała się jaskinia bestii
@@ -37,9 +37,11 @@
     - Ekwipunek {chłopaka}Ivar jest podniszczony. Jego zarost został artystycznie przypalony na kształt hełmu, który nosi w boju. Choć w bandażach, wygląda zdecydowanie lepiej, niż w sennej wizji.
     - Ebba leży w łóżku, nieprzytomna, ze świeżo zmienionymi opatrunkami.
     - Ivar jest nieco podpity - na parapecie piętrzą się kufle po piwie. Na wspomnienie o Col Serrai krzywi się i narzeka na "dobre rady babci Eithne".
-    - Przemaglowany przez Ilanę wyznaje, że tak na prawdę sam mógłby uleczyć Ebbę szybciej niż lokalny medyk, nie chce jednak tego zrobić - dziewczyna bezwzględnie będzie chciała zemsty na potworze, a chłopak zdaje sobie sprawę, że nie da rady jej obronić. Wyrzuca sobie, że nie uratował Chidy.
+    - Przemaglowany przez Ilanę wyznaje, że tak naprawdę sam mógłby uleczyć Ebbę szybciej niż lokalny medyk, nie chce jednak tego zrobić - dziewczyna bezwzględnie będzie chciała zemsty na potworze, a chłopak zdaje sobie sprawę, że nie da rady jej obronić. Wyrzuca sobie, że nie uratował Chidy.
     - Potwór opisywany przez Ivara kojarzy się Kajetanowi z drakonidem czy ornitodragonem.
     - Ilana proponuje konsultację z wiedźminami, na którą Drummond też kręci nosem.
-    - W reakcji na dąsy i kaprysy Ivara, {druidka}Ilana, swoim "subtelnym" obyczajem miesza chłopaka z błotem, co o dziwo trochę go trzeźwi. Zgadza się przyjąć informacje, jakie spróbujemy wysępić od wiedźminów.
+    - W reakcji na dąsy i kaprysy Ivara {druidka}Ilana, swoim "subtelnym" obyczajem, miesza chłopaka z błotem, co o dziwo trochę go trzeźwi. Zgadza się przyjąć informacje, jakie spróbujemy wysępić od wiedźminów.
     - Ivar ostrzega Ilanę, że Eithne będzie chciała czegoś w zamian za leczenie Keiry, i najpewniej zażąda płatności z góry.
     - Driady ściągnęły nad las magiczną mgłę, jak już robiły w przeszłości, bez zaproszenia nikt ich nie znajdzie, chociaż podobno Finarrin jest z nimi na dobrej stopie.
+
+##### [Sesja 121](#sesja-121) [Sesja 123](#sesja-123)

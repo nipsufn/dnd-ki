@@ -17,7 +17,7 @@
         - dziewczyna bez wianka nie może iść do ołtarza
     - Demon swe ostatnie myśli przekazuje wchodząc do naszego schronienia. Kajetan szykuje się do walki, gdy widziadło rozpływa się w powietrzu.
     - Ilana i Skovik są wyczerpani swoim transem, ale nic poważnego im się nie stało. Kajetan, wiedziony przeczuciem, nakłania resztę do ponownych odwiedzin w młynie.
-    - w Młynie {mag}Kajetan wprasza się do środka i rozgląda za duchem młynarza. Znalazłszy go, znów próbuje sztuczki z zadawaniem pytań i sondowaniem myśli:
+    - W Młynie {mag}Kajetan wprasza się do środka i rozgląda za duchem młynarza. Znalazłszy go, znów próbuje sztuczki z zadawaniem pytań i sondowaniem myśli:
         - młynarz miał plan wydać córkę za syna piekarza z sąsiedztwa
         - wściekł się, gdy odkrył mezalians i ciążę
         - pijany, w kłótni spoliczkował dziewczynę, która w rezultacie bez słowa uciekła z domu
@@ -27,9 +27,9 @@
     - Przeczuwając, co może się wydarzyć, {druidka}Ilana i {wyspiarz}Skovik biegną na górę młyna, wyciągając nieprzytomnego {maga}Kajetan. Ilana prawie przypłaca to własnym zdrowiem.
     - Uciekamy z młyna i odpoczywamy nieco w bezpiecznej odległości. W czasie odpoczynku Ilana konwersuje z psami. Próbuje namówić je do powrotu do ludzi po drugiej stronie rzeki, co częściowo jej się udaje.
     - Wianek zdaje się nas ciągnąć głębiej w wieś po tej stronie rzeki. Dajemy się prowadzić fantowi do wiejskiej studni, mętnej i definitywnie nie nadającej się do czerpania wody.
-    - Używając różnych sztuczek, stwierdzamy, że na dnie studni spoczywa ciało córki młynarza - najwyraźniej się utopiła, nie wiedząc co począć.
+    - Używając różnych sztuczek, stwierdzamy, że na dnie studni spoczywa ciało córki młynarza - najwyraźniej się utopiła, nie wiedząc, co począć.
     - Wrzucamy wianek do studni, zwracając go duszy umęczonej. Woda wygotowuje się, a dalej szczątki obracają się w popiół.
-    - Odnosimy wrażenie, że postać odeszła w pokoju, jednak wyruszymy na pola kolejnego dnia aby się upewnić, zanim uznamy sprawę za załatwioną.
+    - Odnosimy wrażenie, że postać odeszła w pokoju, jednak wyruszymy na pola kolejnego dnia, aby się upewnić, zanim uznamy sprawę za załatwioną.
 2. Gość w dom, bogowie w dom
     - Wracamy do wsi ze sforą psów na ogonie. Wśród przybyłych czworonogów Adelbert rozpoznaje swojego pupila.
     - Czeka na nas Bris. Dowiadujemy się, że wraz z bratem pracował w polu, gdy nawiedziła ich południca. Ma przypalone pół twarzy i niesprawne oko, jakby kto przyłożył mu gorejącą patelnią. Jego brata znaleźli wysuszonego niczym śliwka.
@@ -42,10 +42,10 @@
     - Do towarzystwa wkrótce dołącza Aldona z koszem z kolacją. Kajetan zabawia gospodarzy magicznymi sztuczkami, gdy tak snują opowieści. Jawunt posyła nawet po książkę, w której wspomniane są południce.
     - Kajetan czyta na głos opis, który wypisz wymaluj pasuje do przypadku młynarzówny: porzucona panna młoda tuż przed lub zaraz po zaślubinach. Ilana rzuca tematycznym żartem, na który Skovik reaguje dziwnym zmieszaniem. 
     - {Wyspiarz}Skovik w pewnym momencie opuszcza "imprezę" udając się na stronę i długo nie wraca. Zaniepokojona Ilana idzie go poszukać. Znajduje go nad jeziorem, rzucającego kamieniami w jezioro. Wywiązuje się rozmowa na stronie:
-        - Skovik jest mimo wszystko wdzięczny losowi twierdząc, że to dzięki konieczności ucieczki z wysp miał szansę poznać Ilanę
-        - chciałby móc zaprosić {druidkę}Ilana do siebie, do Kaer Muire (dwór rodu Drummond), ale boli go, że jego ród jest podupadły, a ich dom - obrócony w ruinę.
-        - chce wrócić na wyspy, całkiem możliwe, że z Lödbrokiem
-        - nie wie jak wygląda sytuacja na {wyspach}Skellige od kiedy je opuścił
+        - Skovik jest mimo wszystko wdzięczny losowi twierdząc, że to dzięki konieczności ucieczki z Wysp miał szansę poznać Ilanę
+        - chciałby móc zaprosić {druidkę}Ilana do siebie, do Kaer Muire (dwór rodu Drummond), ale boli go, że jego ród jest podupadły, a ich dom - obrócony w ruinę
+        - chce wrócić na Wyspy, całkiem możliwe, że z Lödbrokiem
+        - nie wie, jak wygląda sytuacja na {Wyspach}Skellige od kiedy je opuścił
         - {dziewczyna}Ilana mówi o działaniach Roeggnera, które zaogniły sytuację na Skellige - o ile wie, może wybuchnąć wojna domowa
         - zdaniem {osiłka}Skovik to nie jest żadna nowość, pytanie tylko kiedy się to wydarzy; on sam zamierza wziąć w nich udział w imieniu swojego rodu - rodu, do którego chciałby, aby i ona za jego sprawą w przyszłości dołączyła
         - Ilana, nie myśląc o swoim przeznaczeniu, obiecuje, że cokolwiek Skovik postanowi, ona się dostosuje
@@ -65,23 +65,23 @@
         - część mieszczan zawsze była niezadowolona z obecności magów, protesty to nic nowego
         - Kaer Seren dalej jest niedostępna, szaleje nad nią potężna burza śnieżna
         - Radcliffe jest w stabilnym stanie, teraz na Thanedd, dalej nieprzytomny
-        - świeczkę, której użyliśmy by pomóc {wyspiarzowi}Skovik, Zangenis odzyskał spod Góry Cremora; czy wszystkie jej części powinny zniknąć - nie wiadomo
+        - świeczkę, której użyliśmy, by pomóc {wyspiarzowi}Skovik, Zangenis odzyskał spod Góry Cremora; czy wszystkie jej części powinny zniknąć - nie wiadomo
         - do Kaer Seren organizowana będzie ekspedycja pod wodzą Carduina - Kajetan, jeśli chce, może się zapisać; wyprawa zostanie zaplanowana, gdy zbierze się dość chętnych
         - Ban Ard póki co jest porzucone i nie ma jak go odbić nie mieszając się politycznie w sytuację w Kaedwen - w Kapitule toczy się debata czy i co zrobić
-        - póki co Thanedd uczy zarówno dziewczęta jak i chłopców
-        - Kajetan razem z pierścieniem otrzymał rangę Wolnego Maga; daje mu to pewne przywileje:
-            - dostęp do biblioteki na wyspie
-            - możliwość kupna zwojów zawierających zaklęcia do trzeciego poziomu włącznie
-            - prywatną kwaterę na zewnętrznym pierścieniu
-            - może brać udział w otwartych inicjatywach:
-                - ustabilizować punkt mocy w Carreras
-                - sprawdzić rozbłysk mocy w Ysgith
-                - sprawdzić fluktuacje Mocy między Carreras a Mariborem
-                - ekspedycja do Kaer Seren (za zaproszeniem)
+        - póki co Thanedd uczy zarówno dziewczęta, jak i chłopców
         - na Thanedd wszelkimi inicjatywami i administracją kapituły zajmuje się Mardin, biblioteką Zavist a artefaktorium - Tizjana
         - szajka, która ma odpisy alchemiczne, których Kajetan nie zamierzał upubliczniać, kojarzy się {czarodziejce}Margarita z bandą, którą kilka lat temu, ponoć zupełnie, rozbiła Triss; jeden z kierujących bandytami był magiem z Zerrikanii
-        - Specjalistą od nekropolii, w tym Ysgith, jest Zavist - vide żona Viggo
-        - Margarita może pomóc zlokalizować Isilme przy artefakcie w Kerack, jednak nie może obiecać kiedy będzie miała czas
+        - specjalistą od nekropolii, w tym Ysgith, jest Zavist - vide żona Viggo
+        - Margarita może pomóc zlokalizować Isilme przy artefakcie w Kerack, jednak nie może obiecać, kiedy będzie miała czas
+    - Kajetan razem z pierścieniem otrzymał rangę Wolnego Maga; daje mu to pewne przywileje:
+        - dostęp do biblioteki na wyspie
+        - możliwość kupna zwojów zawierających zaklęcia do trzeciego poziomu włącznie
+        - prywatną kwaterę na zewnętrznym pierścieniu
+        - może brać udział w otwartych inicjatywach:
+            - ustabilizować punkt mocy w Carreras
+            - sprawdzić rozbłysk mocy w Ysgith
+            - sprawdzić fluktuacje Mocy między Carreras a Mariborem
+            - ekspedycja do Kaer Seren (za zaproszeniem)
     - W porcie cumuje wiele statków, głównie są to okazałe galery z Poviss. Niestety żaden nie odchodzi bezpośrednio do Kerack.
     - Ilana i Skovik znajdują kilka statków, głównie transportowych, które mogą przepływać przez Kerack. Jeden z nich, płynący do Nastrogu, wydaje się być obiecujący:
         - jest to "Rzeźnik" pod banderą Novigradu, z symbolem Bosaka i Tasaka
@@ -89,3 +89,5 @@
         - Skovik pociąga za sznurki swoich znajomości i negocjuje z kapitanem wspominając o Roeggnerze i jego piratach
         - jeśli stawimy się w porcie nazajutrz wieczór, zanim odbiją, może pozwolą nam się zabrać i odłączyć w odpowiednim momencie na szalupie, oczywiście za opłatą
     - Dwójka rusza na dalsze poszukiwania. Schodząc z Rzeźnika Ilana czuje się odprowadzana nieprzyjaznymi spojrzeniami, niczym kot spacerujący przez wybieg dla psów.
+
+##### [Sesja 101](#sesja-101) [Sesja 103](#sesja-103)

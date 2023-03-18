@@ -6,7 +6,7 @@
     - W tym samym czasie w swoim pokoju Kajetan rozmawia z Mirną, która poprzedniego wieczoru zabalowała z koleżankami. {Druidka}Mirna dziś dzień rusza z powrotem do Kerack.
     - Na prośbę {elfa}Kajetan zrobi odpis traktatów alchemicznych, których to oryginał ukryła w swoim lokum w Kerack.
     - Kajetan dołącza do śniadania. Zostaje uświadomiony o potrzebie wizyty u strażników, coby nikt za nami nie gonił za murami miasta.
-    - Przed wyruszeniem do Bronowic zamiarowujemy zahaczyć o najbliższą strażnicę. Przechodząc obok Mieczów i Pierogów zauważamy dwóch stróżów prawa, więc korzystamy z okazji by powiedzieć, co wiemy.
+    - Przed wyruszeniem do Bronowic zamiarujemy zahaczyć o najbliższą strażnicę. Przechodząc obok Mieczów i Pierogów zauważamy dwóch stróżów prawa, więc korzystamy z okazji, by powiedzieć, co wiemy.
     - Przed sklepem stoi piękny, okazały rumak, u boku którego wiszą przytroczone pakunki, w tym jeden dość sugestywny - o wymiarach mieczy, które kuł na zamówienie Hatori. Właścicielem konia okazuje się być wiedźmin w czerwonej skórze, który właśnie sposobi się do drogi.
     - Sam Hatori jest pochłonięty odmalowywaniem zakładu po jatce. Ani on, ani wiedźmin nie zwracają na nas szczególnej uwagi.
     - Odjeżdżając spod przybytku, wiedźmin rzuca do Ilany coś o wciskaniu nosa i kocim pysku.
@@ -47,7 +47,7 @@
         - ta sama grzybiarka w celi ciemnego lochu, za kratami
         - ten sam zamek - ruiny z pojedynczą wieżą
         - ta sama wioska - ruina powoli przejmowana przez las
-    - Kolejnego dnia w drodze Kajetan i Ilana dyskutują/kłócą się o zachowanie obrońcy lasu. Do dyskusji wtrąca się nawet Skovik, ale żadne argumenty zdają się nie przemawiać do naburmuszonego {maga}Kajetan.
+    - Kolejnego dnia w drodze Kajetan i Ilana dyskutują, a raczej kłócą się o zachowanie obrońcy lasu. Do dyskusji wtrąca się nawet Skovik, ale żadne argumenty zdają się nie przemawiać do naburmuszonego {maga}Kajetan.
     - Mijamy opuszczony, pokaźny dworek także popadający w ruinę (rezydencja Von Evereców?), budzący smutek i lekką gęsią skórkę.
     - Wieczorem docieramy na miejsce. Bronowice wyglądają naprawdę malowniczo - jak z sielskiego obrazka, jeśli nie liczyć konstrukcji starego młynu straszącego po drugiej stronie rzeki.
 3. Jawunt i Aldona
@@ -62,6 +62,8 @@
         - niedługo później poszła fama, że po polach w czasie dnia grasują jakieś widzidła; po jakimś czasie kilku z chłopów zasłabło przy pracy
         - reszta wsi zaczęła odmawiać pracy na niebezpiecznych polach
         - przy Belleteyn młynarz powiesił się z rozpaczy za córką
-    - Zostajemy ugoszczeni na noc w stodole gospodarzy. Kajetan wychodzi na spacer po okolicy, kiedy Ilana i Skovik postanawiają sprawdzić poziom wygody siana.
+    - Zostajemy ugoszczeni na noc w stodole gospodarzy. Kajetan taktownie wychodzi na spacer po okolicy, kiedy Ilana i Skovik postanawiają sprawdzić poziom wygody siana.
     - W oczku wodnym niedaleko posesji gospodarzy {elf}Kajetan dostrzega coś błyskającego na dnie.
     - Podczas igraszek w sianie Ilanie boleśnie wbija się w pośladek kawałek grzebyka-ozdóbki do włosów.
+
+##### [Sesja 100](#sesja-100) [Sesja 102](#sesja-102)

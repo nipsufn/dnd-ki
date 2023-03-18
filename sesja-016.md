@@ -20,7 +20,7 @@
     - Kajetan próbuje jeszcze dostać się do [maga](Florian), żeby pokazać mu nasz dziwny kamień, ale ochrona informuje nas, że Florian jest w mieście - pomaga leczyć rannych wojaków.
     - W drodze do karczmy Ilana zauważa, że ich śladem idą jacyś zakapturzeni ludzie, ale oboje bezpiecznie docierają do karczmy, gdzie czeka reszta grupy.
     - Po zorganizowaniu zapasów i zebraniu się do kupy, zbieramy się do drogi. 
-    - Przed karczmą zostajemy zaczepieni przez blondwłosą kobietę, a na (nagle dziwnie opustoszałej) ulicy, otaczają nas zakapturzeni ludzie: łucznicy na dachach i różnej postury rzezimieszkowie na ziemi.
+    - Przed karczmą zostajemy zaczepieni przez blondwłosą kobietę, a na nagle dziwnie opustoszałej ulicy, otaczają nas zakapturzeni ludzie: łucznicy na dachach i różnej postury rzezimieszki na ziemi.
     - Kobieta żąda żeby oddać jej książki, które nosi Kajetan. 
     - Zdaje się zgodzić wypłacić pieniężną rekompensatę, nie oddającą jednak wartości naszej inwestycji (Kajetan oszacował 800GP bazując na wartości ksiąg sprzedanych Larsowi, zawartości tych, o których mowa oraz inwestycji w pergamin i inkaust do transkrypcji czarów)
     - Jako że kobieta nie zamierza negocjować, Kajetan zdecydował się uciekać nie zostawiając wyboru drużynie. 
@@ -40,7 +40,7 @@
         - krabopająki
     - Docieramy do jakiejś wsi na północ od miasta. Jest opustoszała i nosi ślady napaści jakichś zwierząt/potworów. Dookoła pachnie świeżo zrytą ziemią i widać duże ilości kretowisk.
     - Decydujemy się nocować na piętrze jednego z bogatszych domów i barykadujemy drzwi.
-    - W nocy po wsi grasują [kretołaki](Nekker). Nad ranem orientują się gdzie się ukrywamy, jako że Kajetan używał magii by ogrzać towarzyszy. Jednak zanim dochodzi do walki, wracają pod ziemię gdy wschodzi słońce. 
+    - W nocy po wsi grasują [kretołaki](Nekker). Nad ranem orientują się gdzie się ukrywamy, jako że Kajetan używał magii by ogrzać towarzyszy. Jednak zanim dochodzi do walki, wracają pod ziemię, gdy wschodzi słońce. 
     - Ilana rozpoznaje te stworzenia - są to nekkery.
     - Wyruszamy w dalszą drogę. Od strony lasu słyszymy odgłosy walki. 
     - Ilana decyduje się przyjrzeć z ukrycia, a reszta drużyny omija pole walki szerokim łukiem. 
@@ -50,15 +50,15 @@
         - w Verden, twierdze Bodrog i Rozrog upadły w czasie walk z Nilfgaardem, Nastrog ocalał, rządzony bezprawiem i organizacjami przestępczymi
 3. Dillingen
     - Po dotarciu do miasta kierujemy się do miejscowego urzędu aby rozpisać glejty. Rzucamy też okiem na miejską tablicę ogłoszeń, na której Ilana zauważa list gończy z podobizną Skovika. 
-    - Druidka wyciąga nieświadomego Kajetana niemal siłą z urzędu i już na zewnątrz prosi o glejt. Mówi o liście gończym i topi dokument w kałuży, pozorując tym samym zniszczenie. Szczególnie stara się zatrzeć nazwiska obu braci.
+    - Druidka niemal siłą wyciąga nieświadomego Kajetana z urzędu i już na zewnątrz prosi o glejt. Mówi o liście gończym i topi dokument w kałuży, pozorując tym samym zniszczenie. Szczególnie stara się zatrzeć nazwiska obu braci.
     - Kajetan odłącza się od grupy i rozpytuje o statki:
         - tego samego wieczora do Cintry: 60GP za rejs, 20GP jeśli będziemy pomagać w ochronie, 100GP za dodatkowy postój
         - za 1 - 2 dni do Cintry: 10 - 30GP zależnie jakie inne zlecenia znajdą na transport towaru
-    - Ilana wraca do urzędu ze "zniszczonym" glejtem, prosząc o wystawienie nowych, tym razem już oddzielnych dokumentów dla każdego. I tak Ivar zostaje Civrilem Regner, a Skovik - Jonasem Skaggs
+    - Ilana wraca do urzędu ze "zniszczonym" glejtem, prosząc o wystawienie nowych, tym razem już oddzielnych dokumentów dla każdego. I tak Ivar zostaje Civrilem Regner, a Skovik - Jonasem Skaggs.
     - Spotykamy się grupą w "Perełce" - przybytku poleconym jako lokalna atrakcja przez jednego ze strażników na moście (który nawiasem okazuje się być portowym, dość ekskluzywnym burdelem).
-    - Skovik był głównym organizatorem puczu przeciw obecnej władczyni [Wysp](Skellige). Osobiście targnął się na życie Cerys i jej brata próbując pomścić zamordowanego ojca, dlatego nie tylko nie może tam wrócić, ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny.
+    - Ilana żąda od Skovika wyjaśnień. Był głównym organizatorem puczu przeciw obecnej władczyni [Wysp](Skellige). Osobiście targnął się na życie Cerys i jej brata próbując pomścić zamordowanego ojca, dlatego nie tylko nie może tam wrócić, ale jest też ścigany listami gończymi w tak znacznej odległości od swojej ojczyzny.
     - W drużynie następuje brak zgody co do dalszych planów:
-        - Ilana uważa, że należy podróżować dalej na zachód lądem, przekroczyć Wstążkę i na wysokości Bodrogu wkroczyć do Brokilonu całą drużyną; wierzy, że driady znają ją i ufają jej na tyle, by przepuścić ją wraz z nieznajomymi dalej do druidzkiego kręgu, w którym się wychowała
-        - Kajetan zaczyna myśleć, że wejście do Brokilonu to samobójstwo, a już szczególnie od strony Bodrogu; uważa, że należało by rzeką i morzem dopłynąć do Kerrack i wejść w las od tamtej strony, nadkładając znacząco drogi
+        - Ilana uważa, że należy podróżować dalej na zachód lądem, przekroczyć Wstążkę i na wysokości Bodrogu wkroczyć do Brokilonu całą drużyną; wierzy, że driady znają ją i ufają jej na tyle, by wraz z nieznajomymi przepuścić dalej do druidzkiego kręgu, w którym się wychowała
+        - Kajetan zaczyna myśleć, że wejście do Brokilonu to samobójstwo, a już szczególnie od strony Bodrogu; uważa, że należało by rzeką i morzem dopłynąć do Kerack i wejść w las od tamtej strony, nadkładając znacząco drogi
     - Udajemy się na spoczynek nie ustalając co dalej.
 ##### [Sesja 15](#sesja-015) [Sesja 17](#sesja-017)

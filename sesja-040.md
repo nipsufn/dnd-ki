@@ -21,8 +21,10 @@
         - najbardziej pomocna byłaby woda życia - ta sama, której użyliśmy do przywrócenia życia Laneminowi
     - Ilana w tym czasie idzie sprawdzić co dzieje się na zewnątrz. Dostrzega, że coś dobija się do głównych drzwi niczym taran.
     - [Młodszy mag](Kajetan) podejmuje decyzję - stan Aen Drisichean pogarsza się szybko, i wygląda jakby wkrótce miał stracić kontrolę. Próbuje zabić go szybkim pchnięciem sztyletu. Niestety jego choroba postąpiła na tyle, że zaledwie unicestwia cokolwiek "ludzkiego" pozostało w zmartwychwstałym elfie.
-    - Wywiązuje się walka. Finarrin rozpoczyna inkantować niepewne zaklęcie teleportacyjne Ivryna podczas gdy my próbujemy spacyfikować coraz bardziej przemieniającego się Lanemina.
+    - Wywiązuje się walka. Finarrin zaczyna inkantować niepewne zaklęcie teleportacyjne Ivryna podczas gdy my próbujemy spacyfikować coraz bardziej przemieniającego się Lanemina.
     - Niemal w ostatniej chwili dokonuje się czar [starszego druida](Finarrin) - z wbitego w ziemię kija wyrasta drzewo, a na jego środku jarzy się szczelina portalu. 
     - Gdy Lanemin wydaje ostatnie tchnienie, zza posągu szarżuje na nas to, co dobijało się do drzwi - stwór przypominający kościanego morvudda. Bez namysłu skaczemy w szczelinę portalu.
     - Zostajemy przeniesieni do miejsca podobnego do naszego świata. Wszędzie jest śnieg, ale świeci słońce i drzewa zdają się być normalne. Finarrin wyjaśnia, że starał się myśleć o swoim domu kiedy wybierał cel skoku.
     - Jesteśmy na wzgórzu. Łapiąc oddech słyszymy na północy odległy dźwięk rogu. Enid wspina się na drzewo, z którego widzi zbliżający się patrol czterech konnych - [Redańczyków](Redania) i [Ellanderczyków](Ellander) z insygniami Zakonu Łowców Potworów.
+
+##### [Sesja 39](#sesja-039) [Sesja 41](#sesja-041)

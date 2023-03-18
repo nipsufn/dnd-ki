@@ -38,20 +38,20 @@
     - W uzdrowisku jest jakby mniej tłoczno. Driady, które niedawno leczyły się tu po walce, teraz najwyraźniej wróciły już do lasu. Brakuje także Aglais.
     - Zostajemy serdecznie powitani przez Gebo, który najwyraźniej został przez driady pozostawiony - jak to zwierzę - sam sobie. Niedźwiadek ma w futrze fragmenty liści i cuchnie wszystkim, w czym się wytarzał.
     - Zaczepiona driada informuje nas, że Aglais wyruszyła do Duen Canell by dokończyć rytuał związany z obchodami Imbaelk.
-    - Ilana od razu kieruje swoje kroki do leczniczych niecek. Skovik nadal śpi, więc druidka wiesza tylko rzemyk z dwimerytem nad niecką tak aby pnącza odsunęły się z twarzy wyspiarza.
+    - Ilana od razu kieruje swoje kroki do leczniczych niecek. Skovik nadal śpi, więc druidka wiesza tylko rzemyk z dwimerytem nad niecką tak, aby pnącza odsunęły się z twarzy wyspiarza.
     - Kajetan wydaje się być nieco mniej zadowolony z powrotu do uzdrowiska. Sadowi się w jednym z dalszych ciepłych źródeł i odpoczywa.
-    - W tym czasie Ilana i Gebo idą na ryby. W tym celu wychodzą z doliny i idą dalej z rzeką w las.
+    - Tymczasem Ilana i Gebo idą na ryby. W tym celu wychodzą z doliny i idą dalej z rzeką w las.
     - W lesie zadomowiło się sporo nowych stworzeń obok wracających zwierząt - regularnych mieszkańców Brokilonu. Nad rzeką Ilana natyka się na białego wilka, który bacznie obserwuje nowych przybyszów. Wilk zdaje się pozdrawiać druidkę skinieniem głowy.
     - Po powrocie Ilana zauważa, że sen Skovika jest płytszy i mniej spokojny. Jedna z driad mówi, że to przez usunięcie pnączy oplatających jego głowę - to one podtrzymują letarg. Druidka demontuje więc konstrukcję i zamiast tego znów nieprzerwanie czuwa przy wyspiarzu.
     - W czasie nieobecności druidki Kajetan kontaktuje się z Aglais. O drugą wiadomość z prośbą o audiencję u Eithne prosi go po powrocie Ilana.
     - W uzdrowisku, czego nie zauważyliśmy wcześniej, jest sporo dzieci. Czekając na powrót opiekunki uzdrowiska, Ilana i niedźwiadek zabawiają małe driady. Druidka oferuje im zaplecenie warkoczy nucąc przy tym pod nosem ku uciesze dziewczynek.
-    - Ilana zauważa, że małe driady mają we włosach wplecione coś, co wygląda na muszle, ale o strukturze niczym kryształ. Dziewczynki twierdzą, że znalazły je w podziemnym jeziorku, gdzie Aglais zabrania się zapuszczać driadom.
+    - Ilana zwraca uwagę, że małe driady mają we włosach wplecione coś, co wygląda na muszle, ale o strukturze niczym kryształ. Dziewczynki twierdzą, że znalazły je w podziemnym jeziorku, gdzie Aglais zabrania driadom się zapuszczać.
     - Próbując nieco przyspieszyć upływ czasu dyskutujemy na temat dalszych planów. Zgadzamy się co do tego, że Kaspara trzeba odwiedzić, jednak każde jakby z innego powodu:
-        - Ilana ma co najmniej kilka scenariuszy jak upokorzyć Kaspara za szantażowanie nas, ale tak, by cień podejrzeń nie padł na naszą dwójkę.
-        - Kajetan uważa, że powinniśmy zgłosić się po nasze 1000 sztuk złota. Potem możemy je wydać choćby na opłacenie agencji do odegrania się na wieprzu burmistrzu.
+        - Ilana ma co najmniej kilka scenariuszy jak upokorzyć Kaspara za szantażowanie nas, ale tak, by cień podejrzeń nie padł na naszą dwójkę
+        - Kajetan uważa, że powinniśmy zgłosić się po nasze 1000 sztuk złota; potem możemy je wydać choćby na opłacenie agencji do odegrania się na wieprzu burmistrzu
 3. Audiencja
     - [Opiekunka uzdrowiska](Aglais) przybywa przez portal, ale ku naszemu zdziwieniu nie sama, a w towarzystwie Eithne. 
-    - [Królowa driad](Eithne) udziela nam niespodziewanej audiencji. Kiedy przechadza się po uzdrowisku, rośliny aż lgną do niej oddając jej cześć. [Matka Driad](Eithne) jest drobnej budowy, o włosach niczym roztopione srebro i oczach tego samego koloru, pozbawionych źrenic. Jej twarz jest drobna, ale ostre rysy i dumna postawa budzą respekt.
+    - [Królowa driad](Eithne) udziela nam niespodziewanej audiencji. Kiedy przechadza się po uzdrowisku, rośliny aż lgną do niej, oddając jej cześć. [Matka Driad](Eithne) jest drobnej budowy, o włosach niczym roztopione srebro i oczach tego samego koloru, pozbawionych źrenic. Jej twarz jest drobna, ale ostre rysy i dumna postawa budzą respekt.
     - Ilana niemal od razu żałuje, że w ogóle podjęła temat audiencji. [Druidka](Ilana) jest onieśmielona i zapomina języka w gębie. Rozmowę przejmuje więc Kajetan, z miejsca przepraszając za samowolkę z leczeniem.
     - Eithne nie chowa urazy, ale nie kryje, że jest zaciekawiona tym, co osłabia elfa. Przeprosiny zbywa komentarzem, że w znacznej mierze kontrolowanie kuracjuszy to rola Aglais.
     - [Królowa driad](Eithne) czyta z nas obojga jak z otwartej księgi, zaglądając przy tym w przeszłość:
@@ -60,13 +60,15 @@
         - jego stan to wynik spisku, eksperymentu, który został zbojkotowany na czyjś rozkaz (Filavandrela?)
         - Kajetan, jak i reszta uczestników tej wyprawy, został królikiem doświadczalnym dla planu zemsty na ludziach i przywrócenia potęgi elfów
         - dodaje, że jeśli elf miałby umrzeć, jego truchło zacznie szerzyć tą klątwę
-        - w przeszłości widzi, jak ktoś sabotował wyprawę archeologiczną od której wszystko się zaczęło, wybuchającą fiolkę z czarną cieczą
+        - w przeszłości widzi, jak ktoś sabotował wyprawę archeologiczną, od której wszystko się zaczęło, wybuchającą fiolkę z czarną cieczą
         - elfy powinny były zostawić laboratorium Wranów nietknięte - są rzeczy, które powinny pozostać zapomniane
         - onieśmielona Ilana zdaje się straciła pewność, czy rzeczywiście chce wiedzieć czym jest i skąd pochodzi - nie dostaje odpowiedzi na pytania, których boi się zadać wprost
-        - zamiast tego [driada](Eithne) zdradza dwa słowa, które powinny naprowadzić [druidkę](Ilana) na trop aby sama poznała prawdę kiedy rzeczywiście będzie na to gotowa: Risberg (Kajetan rozpoznaje nazwę szczytu w górach oddzielających Brokilon od Temerii) oraz Dussard
-        - mówi Ilanie że nie była niechciana - została wychowana przez druidów ponieważ [las](Brokilon) uznał, że tak przysłuży mu się najlepiej, nazywa [dziewczynę](Ilana) nie siostrą, ale rodziną
+        - zamiast tego [driada](Eithne) zdradza dwa słowa, które powinny naprowadzić [druidkę](Ilana) na trop, aby sama poznała prawdę kiedy rzeczywiście będzie na to gotowa: Risberg (Kajetan rozpoznaje nazwę szczytu w górach oddzielających Brokilon od Temerii) oraz Dussard
+        - mówi Ilanie, że nie była niechciana - została wychowana przez druidów ponieważ [las](Brokilon) uznał, że tak przysłuży mu się najlepiej, nazywa [dziewczynę](Ilana) nie siostrą, ale rodziną
         - wspomina, że Finarrin widzi jej potencjał, a jej służba lasowi nie dobiegła jeszcze końca
     - Audiencja natomiast dobiega końca. Eithne odchodzi tym samym sposobem, którym przybyła.
-    - Aglais stwierdza że jest rozczarowana, ale z jej umowy z Kajetanem nic nie będzie. Ten wygląda na uradowanego jakby wygrał w kości z kantującym krasnoludem.
+    - Aglais stwierdza, że jest rozczarowana, ale z jej umowy z Kajetanem nic nie będzie. Ten wygląda na uradowanego jakby wygrał w kości z kantującym krasnoludem.
     - Ilana dopytuje o jaką umowę idzie. Niechętnie, [elf](Kajetan) przyznaje, że [driada](Aglais) chciała aby zostawił za sobą dziecko w Col Serrai w zamian za informacje o Skoviku.
     - Jesteśmy wreszcie pozostawieni samym sobie z nową wiedzą.
+
+##### [Sesja 52](#sesja-052) [Sesja 54](#sesja-054)

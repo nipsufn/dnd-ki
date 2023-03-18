@@ -2,10 +2,9 @@
 ##### [Sesja 62](#sesja-062) [Sesja 64](#sesja-064)
 1. Poranek, po porządkach
     - Kajetana budzą dziwne szepty dochodzące od strony portalu. Dźwięk wydobywa się ze szczeliny przypominającej gojącą się ranę po kalibracji portalu. Anatomiczne przyrównanie zdaje się być trafne - głosy i ślad powinny zniknąć z czasem same.
-    - Wypocząwszy należycie, zbieramy się do miasta aby zdążyć coś zjeść przed wyruszeniem do Wyzimy.
+    - Wypocząwszy należycie, zbieramy się do miasta, aby zdążyć coś zjeść przed wyruszeniem do Wyzimy.
     - Przed wyjściem z włości Merigold zauważamy dziwną rzecz: kamienny ostrosłup, który poprzednio odstawiliśmy na piedestał, znajduje się na jego krawędzi - mimo to nie spada.
     - Kajetan z wyraźnym trudem porusza kamieniem, zupełnie jakby próbował wyrwać go z innej rzeczywistości, czemu towarzyszy dźwięk przypominający pękający balonik powietrza. Finalnie kamień udaje się odłożyć w sposób właściwy.
-    - Dochodząc do wylotu z kanałów zauważamy, że majster bez młotka - najwyraźniej nie posiadawszy innych metod naprawy - wzmocnił uszkodzone kraty łańcuchem.
     - Ilana uprasza elfa o naładowanie dwóch kryształów magiczną wiadomością - jedną do Skovika, drugą do Finarrina, którą zużywa od razu:
         + druid jest już w Bodrogu
         + Lars jest nowym nadwornym magiem Verden, doradza księciu Kistrinowi
@@ -24,8 +23,8 @@
 3. Do Wyzimy
     - Około południa ruszamy w drogę. Droga mija spokojnie, ale z powodu gęstej mgły jesteśmy zmuszeni zatrzymać się na noc gdzieś niedaleko Brennej. Osły boczą się i nie chcą dalej jechać. Na niebie wisi księżyc w pełni.
     - Spychamy wóz w stronę drzew i rozbijamy obóz. Kiedy Kajetan wraz z drugim podróżnym idzie poszukać drwa na ognisko, [druidka](Ilana) wypytuje osiołki co je zaniepokoiło. Zwierzęta czują odór śmierci.
-    - Handlarz Dusek opowiada, będąc w Burdoff słyszał pogłoski o dzieciach znikających ze wsi sąsiadujących z Brenną.
-    - Rzekomo trakt jest uczęszczany od czasu kiedy parę razy czyszczono go z plugastwa.
+    - Handlarz Dusek opowiada, jak będąc w Burdoff słyszał pogłoski o dzieciach znikających ze wsi sąsiadujących z Brenną.
+    - Rzekomo trakt jest uczęszczany od czasu, kiedy parę razy czyszczono go z plugastwa.
     - Konstruujemy ognisko z naniesionego drewna i szykujemy się do nocy, kiedy naszych uszu dobiega dźwięk walki. Po chwili namysłu Ilana i niziołek-kombatant, Andy, idą zbadać źródło dźwięku.
 4. Na polu bitwy
     - Źródłem niepokojących dźwięków okazuje się być zakapturzony wojownik walczący z czymś przypominającym skrzyżowanie starej baby z ropuchą.
@@ -34,6 +33,8 @@
     - Oboje z [niziołkiem](Andy) trzymają się na dystans szyjąc do pokracznej baby z broni zasięgowej. Starej ropusze widocznie się to nie spodobało - wyjąwszy z torby dwie małe, ludzkie czaszki rzuca je w ich kierunku.
     - Czaszki zapalają się znajomymi, zimnymi ognikami i okrążają dwójkę. Babo-żaba nie daje za wygraną. Wokół niej pulsuje cień, który jakby chroni ją przed ciosami.
     -  Wojownik jest nieludzko szybki, Ilana zaczyna podejrzewać, że właśnie zakłócają jakiemuś wiedźminowi pracę nad zleceniem. Czując opuszczające ich siły, [bohater spod Brennej](Andy) i [druidka](Ilana) biorą nogi za pas.
-    - Oddalając się ich uszu dobiega krzyk. Nie żaboluda, a kobiety. Ilana odsyła Andiego żeby sprowadził Kajetana, a sama wraca kupić teraz rannej wojowniczce trochę czasu nim odsiecz przybędzie.
+    - Oddalając się ich uszu dobiega krzyk. Nie żaboluda, a kobiety. Ilana odsyła Andiego żeby sprowadził Kajetana, a sama wraca kupić teraz rannej wojowniczce trochę czasu, nim przybędzie odsiecz.
     - Kajetan, _aniemówiąc_ pod nosem dołącza do walki wraz z Andym. W trójkę, z pomocą kolejnych zwierząt przyzwanych przez [druidkę](Ilana), radzimy sobie ostatkiem sił kładąc kres pokracznej starusze. 
     - Wojowniczka, wydusiwszy z potwora ostatnie tchnienie, pada nieprzytomna, ciężko ranna.
+
+##### [Sesja 62](#sesja-062) [Sesja 64](#sesja-064)

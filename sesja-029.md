@@ -3,7 +3,7 @@
 1. Czwarty dzień wędrówki do Craag An - popołudnie
     - Spomiędzy bujnych, falujących na wietrze, fioletowych traw wystają fragmenty ruin, przywodząc na myśl skaliste wybrzeże morza.
     - W oddali, na horyzoncie, widać _ogromne_ drzewo.
-    - Podłoże jest bagniste, pierwsze wrażenie bajkowej polany w sanktuarium driad szybko zastępuje grząska rzeczywistość.
+    - Podłoże jest bagniste. Pierwsze wrażenie bajkowej polany w sanktuarium driad szybko zastępuje grząska rzeczywistość.
     - Ognik, wygrany przez Ilanę, prowadzi nas prosto na północ. Podążamy za nim starając się jednocześnie stąpać po suchym gruncie, z dala od trzęsawisk, co zmusza nas do maszerowania dwójkami.
     - Kajetan przystaje na chwilkę aby przyjrzeć się resztkom budowli rozrzuconych po bagnisku - są wykonane z tego samego materiału, z którego zbudowana była powalona wieża. Poza oryginalnym powodem ich rozrzucenia, wydają się być nienaruszone upływem czasu.
     - Towarzyszący Kajetanowi Ivar wpatruje się nieobecnym wzrokiem w jakiś punkt w oddali i nagle decyduje się wejść do jednego ze stawików przetykających mokradła. Nie reaguje na zakrzyknięcie ani położoną na ramieniu rękę elfa. 
@@ -50,3 +50,5 @@
     - Mgła razem z napastnikiem rozwiewa się w pierwszych promieniach prawdziwego słońca.
     - Odnajdujemy odrzuconą glewnię Skovika, przypadkiem wbitą w resztki jednego z pradawnych wojowników. Znajdujemy na nim skórzany pancerz i pierścionek, który zdaje się zachował kawałek ciała na palcu/
     - Decydujemy się opuścić wewnętrzny krąg Brokilonu najszybciej jak to możliwe - nawet jeśli mamy zaryzykować spotkanie ze [skolopendromorfami](Skolopendr).
+
+##### [Sesja 28](#sesja-028) [Sesja 30](#sesja-030)

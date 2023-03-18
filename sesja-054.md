@@ -1,7 +1,7 @@
 ### Sesja 54
 ##### [Sesja 53](#sesja-053) [Sesja 55](#sesja-055)
 1. Jak sójki za morze
-    - Skovik śpi jak zabity, mamy sporo czasu do zmarnowania w Col Serrai
+    - Skovik śpi jak zabity, mamy sporo czasu do zmarnowania w Col Serrai.
     - Ilana, korzystając ze sposobności, przygląda się dziwnej muszli-kryształowi z bliska. Cacko zdaje się odbijać wszystkie z kolorów magii, zupełnie jak masa perłowa, która mieni się odbitym światłem na wszystkie kolory tęczy.
     - Druidka proponuje aby zbadać ruiny wież w jaskini z wodospadem, z której podobno młode driady wynoszą błyszczące muszelki. 
     - Jaskinę zamyka stara tama obudowana dwiema wieżami - jedną złamaną, do której da się wejść. Przez tamę przelewa się woda. Oryginalnie zaprojektowane ujście zostało najwyraźniej zablokowane gruzem.
@@ -21,7 +21,7 @@
     - W czasie naszego pobytu w uzdrowisku jedna z driad rodzi. Dziecko zaraz po urodzeniu zostaje zabrane przez Aglais do lasu - Ilanę zdaje się to strasznie interesować.
     - Zapytane driady opowiadają, że nowo narodzone dziecko należy "połączyć", "związać" z lasem, jednak sam rytuał jest tajemnicą, którą driady nie mają zamiaru się dzielić nawet z [druidką](Ilana).
     - Innego dnia do [uzdrowiska](Col Serrai) przybywają trzy driady, wszystkie są ranne i poparzone. Jedna z nich, najdotkliwiej ranna jest ledwo przytomna. Wśród trójki Ilana rozpoznaje znajomą twarz - Astelle. 
-    - Driada opowiada, że obserwowały bitkę ludzi nad Chotlą, czerwonych i czarnych (Redańczycy i Nilfgaardczycy?) kiedy zostały zauważone i zaatakowane przez człowieka z płonącym mieczem (zdaje się Igna miała podobną broń...). Dziwożon w sumie 6, ale z życiem uszła tylko trójka.
+    - Driada opowiada, że obserwowały bitkę ludzi nad Chotlą, czerwonych i czarnych (Redańczycy i Nilfgaardczycy?) kiedy zostały zauważone i zaatakowane przez człowieka z płonącym mieczem (zdaje się Igna miała podobną broń...). Dziwożon było w sumie 6, ale z życiem uszła tylko trójka.
     - Rany zadane mieczem nie chcą się goić, nawet magia Ilany zdaje się być nieskuteczna.
     - Elba, driada, od której Ilana uczyła się strzelać z łuku poległa w tej potyczce.
 3. Rozmowy (prawie) kontrolowane
@@ -60,11 +60,11 @@
 5. Zmartwychwstanie
     - Skovik budzi się po 2 tygodniach. Nie pamięta nic od kiedy dostał w plecy. Ostatnie, co pamięta to głos Kajetana... Czyżby elf wysłał jedną ze swoich wiadomości w wyjątkowo niefortunnym momencie?
     - [Wyspiarz](Skovik) jest bardzo osłabiony. Jego plecy zostały odbudowane i bardzo prawdopodobne, że wróci do pełni sił, jednak Aglais stwierdza, że minie kolejnych kilka tygodni zanim będzie w stanie podróżować albo walczyć.
-    - Aglais pyta czy Skovik nie mógłby się podjąć zadania, którego, jak się okazało, nie może narzucić Kajetanowi - bardzo szybko otrzymuje bardzo dosadną odmowę Ilany.
+    - Aglais pyta, czy Skovik nie mógłby się podjąć zadania, którego, jak się okazało, nie może narzucić Kajetanowi - bardzo szybko otrzymuje bardzo dosadną odmowę Ilany.
     - Kajetan prosi na odległość Finarrina aby ten odebrał Skovika z Col Serrai - Ilana jest bardzo wzburzona i absolutnie nie chce zostawić go w uzdrowisku. Sam [wyspiarz](Skovik) stwierdza, że nie ma sensu aby ruszał z nami do Mariboru - byłby tylko balastem.
     - Ilana zabiera Skovika na spacer: 
         - opowiada wyspiarzowi wszystko, co wydarzyło się od spotkania z "burmistrzem" w Mariborze
-        - przeprasza raz jeszcze, że nie dała mu szansy iść z pomocą Leivowi, jednak tłumaczy to koniecznością wpierania Ivara w jego misji i porywczym charakterem wyspiarza, który mógłby tylko pogorszyć sprawy w Brugge; Skovik zdaje się rozumieć i finalnie przyznaje druidce rację
+        - przeprasza raz jeszcze, że nie dała mu szansy iść z pomocą Leivowi, jednak tłumaczy to koniecznością wspierania Ivara w jego misji i porywczym charakterem wyspiarza, który mógłby tylko pogorszyć sprawy w Brugge; Skovik zdaje się rozumieć i finalnie przyznaje druidce rację
         - tłumaczy jak znaleźli się z Kajetanem w Col Serrai
         - opowiada co wydarzyło się po tym jak po raz pierwszy odzyskał przytomność
         - przyznaje jak skłoniła go do kontynuowania kuracji; wspomina o traumie, jaką na psychice wyspiarza pozostawiła pierwsza pobudka w dole z ziemią i przeprasza, że posunęła się do podstępu, ale nie pozwoliłaby mu zrobić z siebie kaleki
@@ -72,13 +72,16 @@
         - wyjawia wyspiarzowi swoje uczucia - jak ważną osobą stał się dla niej odkąd podróżują razem i jak bardzo zabolało ją kiedy uświadomiła sobie, że mogła go stracić
         - Skovik przyznaje się, że "na rybach" poprosił Finarrina o błogosławieństwo dla ich znajomości; druid jednak odmówił mówiąc, że nie da oficjalnej zgody dopóki [dziewczyna](Ilana) nie dojdzie do porządku sama z sobą
         - Skovik wspomina, co pamięta - będąc jeszcze w Duen Canell zauważył stojący pod Wielkim Dębem pomnik kobiety podobny tym z Craag An
+        - po przymusowej, burzliwej rozłące i szczerej rozmowie para tym bardziej ochoczo korzysta z chwili na osobności
 6. Wieści i pożegnania
     - Kajetan rozmawia jeszcze z Leivem i Mirną:
         - piraci są przez kogoś opłacani aby napadali na te właśnie statki, na których zależy [druidce](Mirna)
         - Leiv mówi, że zlecenie na te konkretne statki nie pochodzi jednak od Viraxasa - on ma osobną listę statków
         - w Kerack podobno mieszkała kiedyś czarodziejka [Lytta "Koral" Neyd](Koral)
         - Kerack jest kolebką wszelkiego piractwa i hultajstwa
-    - Druid przybywa akurat gdy [elf](Kajetan) dowiaduje się od [dziewczyny](Mirna) o kredycie. <a title="Starsi Panowie Dwaj">Starsi panowie</a> decydują się skorzystać z sanatorium narzekając na młodzież.
-    - Ilana i Skovik postanawiają nieco zakłócić nocny spokój uzdrowiska czułym pożegnaniem.
+    - Finarrin przybywa akurat, gdy [elf](Kajetan) dowiaduje się od [dziewczyny](Mirna) o kredycie. <a title="Starsi Panowie Dwaj">Starsi panowie</a> decydują się skorzystać z sanatorium narzekając na młodzież.
+    - Ilana i Skovik postanawiają zakłócić nocny spokój uzdrowiska czułym pożegnaniem.
     - Nad ranem Finarrin bierze [wyspiarza](Skovik) i uczepionego mężczyzny niedźwiadka do Wioski a my wyruszamy w stronę Brugge, przez które przejdziemy w drodze do Mariboru.
     - Na odchodnym Kajetan wręcza Skovikowi jeden z kryształów naładowany zaklęciem. Zaklęcie to wiadomość zaadresowana do Ilany - na wypadek, gdyby kiedyś potrzebował się z nami pilnie skontaktować.
+
+##### [Sesja 53](#sesja-053) [Sesja 55](#sesja-055)

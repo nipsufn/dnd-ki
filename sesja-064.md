@@ -20,9 +20,9 @@
     - Koń, wabiony bransoletką, wpada do obozu niosąc dwójkę bohaterów. Ghule zdaje się albo odpuściły pościg, albo koń okazał się dla nich zbyt szybki i zostały w tyle.
     - Kobieta jest młoda, przed trzydziestką. Ma bardzo jasne, słomkowe wręcz włosy i sporo starych blizn.
     - [Druidce](Ilana) udaje się ocucić ją na moment aby powiedziała, który z eliksirów wyjętych z jej juków mamy jej podać. Przyjąwszy odtrutkę, ranna osuwa się na powrót w objęcia Morfeusza wstrząsana lekkimi drgawkami.
-    - Koń wojowniczki wydaje się być nader inteligentny. Ilana zagaja go, ale klacz nie chce zdradzić nic, nawet swojego imienia. Na szyi ma obręcz z identycznego materiału, w identycznym stylu co bransoletka na ręce właścicielki.
+    - Koń wojowniczki wydaje się być nader inteligentny. Ilana zagaja go, ale klacz nie chce zdradzić nic, nawet swojego imienia. Na szyi ma obręcz z identycznego materiału, w identycznym stylu, co bransoletka na ręce właścicielki.
     - Kajetan, zapytany o staroelfi napis na naszyjniku zwierzęcia, domyśla się, że pomimo swoich umiejętności, [dziewczyna](Ilana) niczego się od niego nie dowiedziała. 
-    - Uznając to za znak chamstwa i niewychowania, jakie bestia (przedstawiona przez [druidkę](Ilana) jako niesamowicie inteligentną) okazuje, [elf](Kajetan) wyzywa ją w Starszej Mowie, po czym stwierdza, że koń musi się wabić "wredna baba".
+    - Uznając to za znak chamstwa i niewychowania, jakie bestia (przedstawiona przez [druidkę](Ilana) jako niesamowicie inteligentna) okazuje, [elf](Kajetan) wyzywa ją w Starszej Mowie, po czym stwierdza, że koń musi się wabić "wredna baba".
     - Co więcej, w nerwach [magowi](Kajetan) wyrywa się w rozmowie ze współpodróżnymi, że Ilana jest druidem i rozmawia ze zwierzętami. Wkrótce zostaje poproszony przez [dziewczynę](Ilana) na stronę i opieprzony za gadanie bez namysłu.
     - Robimy warty. Podczas jednej Zdik dopytuje Ilanę, czy ta faktycznie jest druidką. Mówi, że miał rodzinę w Mayenie i darzył tamtejszych druidów sympatią.
     - Mężczyzna oferuje [druidce](Ilana) gościnę jeśli kiedykolwiek będzie przejazdem w Zavadzie.
@@ -46,10 +46,10 @@
 6. Ekspresowa pauza w Burdoff
     - Nazajutrz późnym popołudniem docieramy do Burdoff. Ubita droga zmienia się w brukowaną ulicę.
     - Miasto jest samo w sobie nawet urokliwe, choć dość gwarne. Przechadzają się po nim patrole Łowców, widać odzianych na czerwono kupców z Poviss. Są tu najrozmaitsze kramiki i spory port na jeziorze.
-    - Na rynku mijamy wołacza, który ogłasza, że Królowa i Książę zostali zaatakowani nie przez zabójców czy trucicieli, ale przez czarownicę, Filippę Eilhart, która księcia _"wyniosła w szponach z zamku!"_.
+    - Na rynku mijamy wołacza, który ogłasza, że królowa i książę zostali zaatakowani nie przez zabójców czy trucicieli, ale przez czarownicę, Filippę Eilhart, która księcia _"wyniosła w szponach z zamku!"_.
     - W porcie stoi kilka statków, w tym jeden ze Skellige i kilka nie zacumowanych barek, pod banderą ze znajomym symbolem: trzy głowy przebite mieczem.
     - Zachodzimy do miasta spytać o miejsce rezydowania [grododzierżcy](Landosz). Wskazuje się nam budynek stylizowany na ratusz z wieżyczką i dzwonnicą.
-    - [Grododzierżca Landosz](Landosz) nie może nas przyjąć z miejsca, ale zleci zajęcia się sprawą komu trzeba. Zostajemy poproszeni o zaczekanie w tawernie "Pod Jesiotrem" aż sprowadzą medyka w celu potwierdzenia naszej wersji wydarzeń.
+    - [Grododzierżca Landosz](Landosz) nie może nas przyjąć z miejsca, ale zleci zajęcie się sprawą komu trzeba. Zostajemy poproszeni o zaczekanie w tawernie "Pod Jesiotrem" aż sprowadzą medyka w celu potwierdzenia naszej wersji wydarzeń.
 7. Teatrzyk marionetkowy
     - Ilana proponuje zatrzymanie się na nocleg, jako że zostało nam jeszcze sporo czasu do umówionego spotkania w Wyzimie. Kajetan nie jest jednak przekonany do tego pomysłu zważywszy na ilość Łowców stacjonujących w mieście.
     - Czekając w tawernie jesteśmy świadkami rozmowy grupki Łowców. Pokazują sobie nową broń wymyśloną przez niejakiego Isilme.
@@ -63,11 +63,13 @@
     - Spiesznie dopijamy piwo, łapiemy nagrodę i wychodzimy, nim ktokolwiek zdąży zaprotestować. Kiedy pakujemy się do wozu, widzimy wychodzących za nami Łowców.
     - Jako że nie kazali nam się zatrzymać, ponaglamy naszych przewoźników i czym prędzej ruszamy w dalszą drogę.
 8. Czując oddech na plecach
-    - Okazuje się że jakiś mieszczanin z rodziną zdecydowała się na podróż do Wyzimy, a i kupiec Dusek zdecydował się na dalszą podróż twierdząc, że tu panuje za duża konkurencja.
+    - Okazuje się, że jakiś mieszczanin z rodziną wybiera się w podróż do Wyzimy, a i kupiec Dusek zdecydował się na dalszą podróż twierdząc, że tu panuje za duża konkurencja.
     - Otwieramy nagrodę. W skrzynce jest liścik (_"Dzięki za pomoc, przepraszam i powodzenia"_) oraz kilka klejnotów. Znów dzielimy się na 3, oddajemy równą część [Andy'emu](Andy).
     - Obecne na wozie dzieci lekko spowalniają podróż. Kajetan wypuszcza swojego chowańca na zwiad podczas jednego z krótkich postojów po drodze.
     - Rzeczywiście, Łowcy z karczmy rzucili się w pościg za nami, jednak mają do nas co najmniej cztery godziny. Coś musiało ich zatrzymać w mieście - przełożeni? [Grododzierżca](Landosz)?
     - Jako że do Wyzimy z tej okolicy jest najdalej dwa dni pieszej wędrówki, a zostało nam jeszcze z pół dnia jazdy, opuszczamy wóz na postoju przy jednej z przydrożnych karczm licząc, że Łowcy, nie znajdując nas w wozie, nie będą zbytnio męczyć pozostałych. 
     - Na odchodne radzimy [kupcowi](Dusek) żeby nie reklamował się zbytnio z co ciekawszymi przedmiotami ze swojej kolekcji. W zamian zostają nam polecone dwa godne uwagi zajazdy w Wyzimie  - "Pod Lisem" oraz "Miś Kudłacz".
-    - Odbijamy w pola i wsie, idąc mniej-więcej równolegle do traktu. Po zmroku ostrożnie urządzamy nocleg w jakiejś stodole przy jednym z licznych gospodarstw jakie mijamy. Kajetan tworzy magiczne schronienie na strychu, które Ilana zakopuje w sianie.
+    - Odbijamy w pola i wsie, idąc mniej-więcej równolegle do traktu. Po zmroku ostrożnie urządzamy nocleg w jakiejś stodole przy jednym z licznych gospodarstw, jakie mijamy. Kajetan tworzy magiczne schronienie na strychu, które Ilana zakopuje w sianie.
     - Oczami sowy [mag](Kajetan) widzi dwóch z czwórki Łowców, wychodzących z odsłoniętymi mieczami z karczmy, przy której zleźliśmy z wozu.
+
+##### [Sesja 63](#sesja-063) [Sesja 65](#sesja-065)

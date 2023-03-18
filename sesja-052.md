@@ -4,7 +4,7 @@
     - w Wiosce zastajemy tlące się jeszcze ognisko. Drzwi do wszystkich 4 chat, które się ostały są otwarte. Większość wyniesionego z nich dobytku po druidach leży na kupie, a Ilana słyszy dźwięk rozbijanego szkła z chatki Mirny.
     - Zostawiając gości pod opieką Finarrina, Ilana i Kajetan sprawdzają co się dzieje. W podpiwniczeniu domku zaskakują trzech kmiotków.
     - Chłopi, w tym Sołtys Niemój, przyszli prosić druidów o pomoc. Myśleli, że druidzi opuścili wioskę, w związku z czym postanowili się samoobsłużyć. 
-    - Wyprowadzamy porządnie nastraszonych kmiotów na zewnątrz, pozwalając Hierofancie zająć się delikwentami.
+    - Wyprowadzamy porządnie nastraszonych kmiotów na zewnątrz, pozwalając hierofancie zająć się delikwentami.
     - Wioskę, z której pochodzą, Lokij, napadły potwory (pewnie z tych, które wyleciały z Tor Corax). Chłopi ukryli się na granicach lasu z rodzinami i szukali tu pomocy - nie zastając nikogo z druidów chcieli pomóc sobie sami.
     - Jako że nie ma komu pobiec oczyścić [wieś](Lokij) z plugastwa, Finarrin zaprasza tymczasowo całe chłopstwo do Wioski. Mają zadośćuczynić za plądrowanie pomagając w odbudowie i uprzątnięciu bałaganu, który sami narobili.
     - Ilana poluje na kolację, Finarrin bawi gości, a Ivar i Kajetan przygotowują antymagiczą polanę - znoszą nań stoły, krzesła itp.
@@ -13,9 +13,9 @@
     - Przy kolacji magowie dowiadują się gdzie [druidka](Ilana) planuje prowadzić rozmowy. Są niezbyt zadowoleni, ale argumentacja zapewnienia neutralnej atmosfery bez magii w końcu do nich przemawia.
     - Po kolacji, sącząc resztki wina Lars wyjawia, że wiele artefaktów skonfiskowanych przez Łowców jest sprzedawanych na kwartalnych aukcjach w Oxenfurcie, w Domu Aukcyjnym Braci Borsodych.
     - Do tej pory odbyły się dwie takie aukcje, na których głównie sprzedano sprzęt po znanym czarodzieju, Leomundzie.
-    - Schowany w chacie Mirny, Kajetan pyta na odległość Aglais o [wyspiarza](Skovik). Ten ma się dobrze. Rozmawia też z Mirną, która akurat pije ze znajomymi. Dorobiła się warsztatu w Kerack (jeśli rzeczywiście tam właśnie dotarła). Zaprasza [elfa](Kajetan) do miasta, zdaje się nie mieć nic przeciwko pomysłowi driad. Biorąc jednak pod uwagę upojenie [dziewczyny](Mirna) Kajetan obiecuje oddzwonić jak będzie miała trochę czasu na zastanowienie.
+    - Schowany w chacie Mirny Kajetan pyta na odległość Aglais o [wyspiarza](Skovik). Ten ma się dobrze. Rozmawia też z Mirną, która akurat pije ze znajomymi. Dorobiła się warsztatu w Kerack (jeśli rzeczywiście tam właśnie dotarła). Zaprasza [elfa](Kajetan) do miasta, zdaje się nie mieć nic przeciwko pomysłowi driad. Biorąc jednak pod uwagę upojenie [dziewczyny](Mirna) Kajetan obiecuje oddzwonić jak będzie miała trochę czasu na zastanowienie.
 2. Negocjacje
-    - Po skromnym śniadaniu Lars i Vicovaro zostawiają swoje rzeczy przed polaną. Rozpoczynamy negocjacje. Kajetan, za przyzwoleniem stron, brał udział miast odejść, jako że nie może wejść do antymagicznego pola.
+    - Po skromnym śniadaniu Lars i Vicovaro zostawiają swoje rzeczy przed polaną. Rozpoczynamy negocjacje. Kajetan, za przyzwoleniem stron, bierze udział miast odejść, jako że nie może wejść do antymagicznego pola.
     - Wszyscy czworo przedstawiamy po kolei swoją wersję wydarzeń. Gdy jednak magowie schodzą z tematu by obrzucać się błotem, Kajetan wtrąca się do rozmowy, zaznaczając potencjalny wpływ wiców, które wtenczas wyprawiały się w Brokilonie.
     - Magowie zaczynają skupiać się na problemie, jednak po jakimś czasie schodzą na tematy polityczne i przyszłość Verden.
     - Stanowczo stwierdzamy, że rozważania polityczne to nie część tych negocjacji i, starając się nawrócić rozmowę na produktywny tor, proponujemy wyprawę do Craag An gdy problem [zarazy](ciałognilec) zostanie rozwiązany.
@@ -48,3 +48,5 @@
     - Jednogłośnie stwierdzamy, że nie piszemy się na wyprawę do jaskini, a potworem powinien zająć się wiedźmin - być może jeden z dwóch, których na swojej drodze spotkaliśmy.
     - Ofertą skomunikowania magów z wiedźminem dobijamy targu. Magowie stwierdzają, że wywiążą się ze swojej części umowy (usunięcie listów gończych w Nilfgaardzie, w miarę możliwości usunięcie nacisków Redańskich Sił Specjalnych), a Ilanie udaje się nawet wyprosić drugi zwój komunikacyjny od Floriana.
     - Wszyscy rozchodzimy się na zasłużony odpoczynek.
+
+##### [Sesja 51](#sesja-051) [Sesja 53](#sesja-053)

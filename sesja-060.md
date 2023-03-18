@@ -23,15 +23,17 @@
 3. Z powrotem w kanał
     - Wracamy do kanałów. Kajetan mało delikatnie wyrywa Ilanie kilka włosów i zabezpiecza nimi bramę - będziemy mieli pewność, że jesteśmy śledzeni jeśli ktoś zerwie je otwierając bramę.
     - Ruszamy w głąb, ku wejściu do tuneli robaków. [Druidka](Ilana) eksperymentuje, sprawdzając na co stworzenia są wrażliwe, gdy Kajetan zauważa w cieniach śledzącego nas niziołka. Wywołany zwiewa aż się za nim kurzy.
-    - Kajetan wysyła w głąb tuneli bandę przyzwanych stworków, które eksterminują mniejsze owady, a ich matkę (królową?) przeganiają, odsłaniając kolejny tunel pod ziemią. Tuneli jest więcej i zdają się ciągnąć w nieskończoność, rozgałęziać i zbiegać.
-    - Oprócz konwencjonalnych obrażeń kłutych karaczany są wrażliwe na ogień i galaretowaty śluz zalegający w kanałach. Wychodzimy z kanałów odpocząć i zastanawiając się jak permanentnie usunąć szkodniki.
+    - {Elf}śKajetan wysyła w głąb tuneli bandę przyzwanych stworków, które eksterminują mniejsze owady, a ich matkę (królową?) przeganiają, odsłaniając kolejny tunel pod ziemią. Tuneli jest więcej i zdają się ciągnąć w nieskończoność, rozgałęziać i zbiegać.
+    - Oprócz konwencjonalnych obrażeń kłutych karaczany są wrażliwe na ogień i galaretowaty śluz zalegający w kanałach. Wychodzimy z kanałów odpocząć i zastanowić się jak permanentnie usunąć szkodniki.
 4. Niespodziewana konferencja
     - Chwilę po tym, jak rozbijamy obóz w lesie za miastem, w okolicy zaczynają skupiać się małe, tańczące świetliki.
     - Zaniepokojona Ilana pyta Kajetana co się dzieje, ale światełka szybko nas otaczają, rozpoczynając wizję - w okół nas siedzi sześć postaci.
     - Jedna z postaci to Keira, która informuje nas, że prosić o rozmowę członka Rady Nowej Kapituły (jak na przykład ją) jest równoznaczne z prośbą o audiencję całej Rady. Nie kryje złośliwej satysfakcji. Kajetan, udając niewzruszonego, domyśla się, że to zemsta za pierwszą wiadomość wysłaną w nie najlepszym momencie - czarodziejka, zdaje się, nie zadowoliła się przeprosinami.
     - [Elf](Kajetan) rozpoznaje większość postaci, a ostatnia przedstawia się sama. Są to Margarita Laux-Antille (rektorka Aretuzy), [Ida Emean aep Sivney](Ida) (jedna z wolnych elfów z Dol Blathanna), Triss Merigold, Dorregaray z Vole (Rektor Ban Ard) oraz Radcliffe z Oxenfurtu (Mistrz Arkanów). 
-    - Po krótkiej dyskusji, okraszonej wymianą uszczypliwości między magami, Kajetan dostaje pozwolenie aby oczyścić, ustabilizować i zająć resztki piwnic pod Mariborem.
+    - Po krótkiej dyskusji, okraszonej wymianą uszczypliwości między magami, Kajetan dostaje pozwolenie aby oczyścić, ustabilizować i zająć resztki piwnicy pod Mariborem.
     - Z miejsca w oczy rzuca się nieskrywana niechęć Idy Emean do [elfa](Kajetan), którego czarodziejka od początku spotkania traktuje z góry.
     - Kajetan, korzystając z obecnej audiencji, opowiada o swojej przypadłości, chorobie (czy klątwie), prosząc jednocześnie o radę. Ida impertynencko rzuca zaklęcie milczenia, przerywając [elfowi](Kajetan). Nie przebierając w słowach nazywa go renegatem, po czym opuszcza spotkanie. 
     - Kajetan kończy swoją historię. Dorregaray, wiedzący o Wranach najwięcej, zaprasza Kajetana do swojej pracowni. Okazuje się, że to on jest tym magiem, który utknął na Skellige. Na spotkanie przyodział się nawet w futrzany kubrak w barwach jednego z klanów (szary i czerwony).
     - Pada propozycja, aby [elf](Kajetan) podjął współpracę z Nową Kapitułą, ten jednak odmawia - na chwilę obecną interesuje go kooperacja na zasadzie "przysługa za przysługę", a zachowanie [Idy](Ida) oraz uszczypliwości między członkami Rady nie napawają optymizmem.
+
+##### [Sesja 59](#sesja-059) [Sesja 61](#sesja-061)

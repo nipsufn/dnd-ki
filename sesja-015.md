@@ -7,7 +7,7 @@
         - Leiv wstępuje do sklepu z łukami i tym podobnymi
         - w drodze powrotnej mijają Ilanę i Skovika, którzy wpadli na ten sam pomysł
         - Kajetan uczy się od Leiva nieco języka Skellige
-    - Ilana i Skovik zostają w łóżku trochę dłużej godząc się po wieczornej rozmowie. Następnie nie zastawszy na sali kompanów, decydują się na spacer w dwójkę:
+    - Ilana i Skovik zostają w łóżku trochę dłużej godząc się po wieczornej rozmowie. Następnie, nie zastawszy na sali kompanów, decydują się na spacer w dwójkę:
         - w drodze na rynek mijają resztę drużyny wracającą do Ostoji
         - Ilana ogląda Sowiołaka - jest ranny i w kagańcu, robi sobie krzywdę próbując wydrapać wystające z ran bełty
         - nie bez trudu udaje jej się namówić opiekunkę potwora aby wpuściła ją do klatki zająć się ranami zwierzęcia
@@ -50,7 +50,7 @@
     - Kajetan siłuje się z jedną z paczek uwięzionych w witkach drzewoludzia. Nie pomagają prośby ani groźby, więc wraz ze Skovikiem przemocą wydzierają ostatni pakunek drzewu i uciekają ile sił w nogach.
 3. Brugge
     - Pędzimy na złamanie karku bez chwili przerwy do Zielonej Świeczki.
-    - Zdajemy paczki - 1 z Próchnej i 2 z Medownej.
+    - Zdajemy paczki - 1 z Próchnowej i 2 z Medownej.
     - Przy piwie Ilana słysząc limeryk Kajetana prosi go o kartkę z wierszykiem i zawija ją w otrzymany wcześniej pergamin z wiadomością. Podchodzi do karczmarki i pyta wprost o Larsa.
     - Lars siedzi przy kontuarze i z miejsca zabiera list, przedstawiając się przy tym bez zbędnych ceregieli (rządzi/jest wysoko postawiony w Towarzystwie?):
         - deeskaluje sytuację z cieciami

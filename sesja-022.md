@@ -17,7 +17,7 @@
         - idą w dół pobliskiego strumyka, szukając zwierzyny łownej i zwierząt wodnych, w które potencjalnie mogła się zmienić jedna ze starszych, Doreein
         - Ilanie udaje się upolować jednego z jeleni z drewnianymi rogami
         - przy bagnistym oczku wodnym w widłach dwóch rzeczek znajdują ogromnego aligatora, Ilana jest przekonana, że to Doreein
-        - aligator to rzeczywiście starsza druidów, ale informacja ta kosztowała kobiety upolowanego jelonka 
+        - aligator to rzeczywiście starsza druidów, ale informacja ta kosztowała dziewczyny upolowanego jelonka 
         - Doreein okazuje się mieć młode w swojej obecnej postaci i być bardziej zezwierzęcona niż Enid pożyczająca ciała szopa
     - Kajetan wypytuje Finarrina o powierzoną misję zwiadu do Medownej:
         - Medowna jest poza Brokilonem; jeśli pojawią się tam Aen Eldrin to albo las się rozrasta, albo mechanizm, który ich wiąże, przestaje działać
@@ -40,7 +40,7 @@
         - można spróbować zaprosić Myszowora do fortecy Drummondów
         - do Fornhali można dostać się na dwa sposoby, ale jedynie przez góry - od strony portu Holmstein lub od wsi nieco bardziej na wschodzie
     - Drużyna udaje się na spoczynek.
-    - Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę. Ilana na odchodne otrzymuje od Skovika prezent: wystruganą przez niego figurkę wilczycy z młodymi - symbol ochrony, jaką druidka roztacza nad drużyną.
+    - Rankiem, po wczesnym śniadaniu, żegnamy się i wyruszamy w drogę. Ilana na odchodne otrzymuje od Skovika prezent: wystruganą przez niego w wielkim sekrecie figurkę wilczycy z młodymi - symbol ochrony, jaką druidka roztacza nad drużyną.
 2. Droga do Medownej
     - Udaje się nam przedostać przez terytorium Krabopająków - widocznie się rozszerzyło od pradawnych czasów, gdy druidzi wyznaczyli ścieżkę przez las.
     - Ich terytorium jest oznakowane uschniętymi, ciernistymi pnączami.
@@ -52,8 +52,9 @@
         - Kajetan mało nie dostaje palpitacji na samą myśl, jednak pomysł poproszenia Leiva o załatwienie sprawunków, o których myśli młoda druidka nieco go uspokaja
         - Ilana podejrzewa, że sowa, która próbowała za nami lecieć podczas naszej ucieczki to Filippa Eilhart
     - Zwabione rzucanymi przez nas zaklęciami nekkery atakują nas w ostatni dzień podróży. Dowodzi nimi humanoidalna postać, z jej klatki piersiowej wystaje gałąź, nieco kojarząca się z tą, która zraniła driadę przybyłą do Wioski. 
-    - Ostatnim tchem, pozbawione wsparcia nekkerów, stworzenie woła:<br/><br/>
-                *"Królowo Cierni, ratuj!"*<br/><br/>
+    - Ostatnim tchem, pozbawione wsparcia nekkerów, stworzenie woła:<br/>
+                *"Królowo Cierni, ratuj!"*<br/>
     - W czasie walki Kajetan próbuje przyzwać Bizoktora (uderza zakrwawioną dłonią w drzewo powołując się w Starszej Mowie na dziedzictwo Ilany), który rzeczywiście przybywa nam na odsiecz, nieco jednak spóźniony. Odprowadza nas do granicy lasu, znikając o wschodzie słońca
     - Widzimy znajome nam wzgórza. Wiemy, że Medowna leży bardzo blisko. Słyszymy słowa pieśni niosące się od wsi.
+
 ##### [Sesja 21](#sesja-021) [Sesja 23](#sesja-023)

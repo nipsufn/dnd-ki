@@ -1,7 +1,7 @@
 ### Sesja 21
 ##### [Sesja 20](#sesja-020) [Sesja 22](#sesja-022)
 1. Pierwszy dzień po powrocie Finarrina - po południu
-    - Tytania zauważa gotującego Kajetana. Nie przedstawiając się, władczo i nieuprzejmie żąda aby zaprowadzić ją do grobu niedawno zmarłych driad.
+    - Tytania zauważa gotującego Kajetana. Nie przedstawiając się, władczo i nieuprzejmie żąda aby zaprowadzić ją do grobu niedawno pogrzebanych driad.
     - Zanim Kajetan zdążył sobie napytać biedy równie nieuprzejmą odpowiedzą, pojawia się Ilana. 
     - Druidka prowadzi Aen Eldrin na cmentarz. 
     - Finarrin zdaje się mieć co najmniej mieszane uczucia w stosunku do nieproszonego gościa, ale podąża za nimi obiema.
@@ -21,8 +21,8 @@
         - scalanie się płaszczyzn zaburza działanie Mocy
         - Aen Eldrin są uwięzieni w Brokilonie przez moc portalu, nie mogą wyjść po za granice lasu - dlatego właśnie próbują poszerzyć jego granice
     - Ilana wspomina, co widzieliśmy w Medownej i na prośbę Tytanii tłumaczy gdzie leży wieś. 
-    - Tytania mówi na odchodne:<br/><br/>
-                *"Opowieści to rola Oberona, ja muszę ścigać Galfiasa."*<br/><br/>
+    - Tytania mówi na odchodne:<br/>
+                *"Opowieści to rola Oberona, ja muszę ścigać Galfiasa."*<br/>
         następnie znika zostawiając wszystkich z setką pytań.
 2. Pierwszy dzień po powrocie Finarrina - wieczorem
     - [Finarin](Finarrin) też chce zobaczyć, co się stało w Medownej, ale nie chce zostawiać wioski, zdaje się być rozdarty.
@@ -46,7 +46,7 @@
     - Ilana nareszcie znajduje sposobność żeby powiedzieć Finarrinowi o opustoszałej, antymagicznej polanie i zwłokach, na które wczoraj się natknęła. Zabierają ze sobą Mirnę i w trójkę idą to sprawdzić:
         - na polanie stał kiedyś menhir, podobny do tego poświęconego Protektorowi, który mijaliśmy w lesie
         - to miejsce jest raną lasu, a może nawet sięga tkaniny Mocy - wysysa wszelką magię z okolicy
-        - zwłoki na środku to jeden z druidów, Cedrik, mentor Mirny; zamieniał się zwykle w ptaka, musiał przelecieć nad tym obszarem po niefortunnym druidzkim obrzędzie i spadł z dużej wysokości łamiąc sobie kark
+        - zwłoki na środku to jeden z druidów, Cedrik, mentor Mirny; jego specjalizacją były ptaki, przemieniony w jednego musiał przelecieć nad tym obszarem po niefortunnym druidzkim obrzędzie i spadł z dużej wysokości łamiąc sobie kark
         - Ilana wpada na pomysł - antymagiczne pole można wykorzystać aby odwrócić czar więżący umysł Enid w ciele szopa
         - druidka pyta Mirnę gdzie jest ciało Enid
         - Mirna przechowała je w piwnicy, więc wracamy po nie i po szopa, planując zaryzykować eksperyment
@@ -64,5 +64,7 @@
         - Kajetan z Ilaną wyruszą we dwoje, tak przynajmniej mają jakieś szanse przejść przez Brokilon
         - Finarrin musi wytłumaczyć nam dokładnie czego szukać, jako że raz już tam byliśmy i ogólne pojęcie co się dzieje mamy
     - Po kolacji rozchodzimy się do chat. Ilana oddaje swój pokój Enid na tak długo, jak tylko starsza druidka będzie go potrzebowała.
-    - Sama wprasza się do braci Drummond. Ivar, nie szczędząc uszczypliwości, decyduje się znaleźć sobie tymczasowo inne lokum, robiąc miejsce dla tej dwójki.
+    - {Dziewczyna}Ilana wprasza się do braci Drummond. Ivar, nie szczędząc uszczypliwości, decyduje się znaleźć sobie tymczasowo inne lokum.
     - Kajetan odprowadza Mirnę i zostaje na noc.
+
+##### [Sesja 20](#sesja-020) [Sesja 22](#sesja-022)

@@ -12,7 +12,7 @@
     - Ilana przez dłuższy moment nie potrafi zasnąć. Zmęczona i poirytowana w niewybrednych słowach pyta [Zielonego Pana](Oberon) czy byłby łaskaw zaprzestać muzykowania. Ten zsyła na nią magiczny sen, a razem z nim koszmar:
         - wioska jest zrujnowana, budynki powalone, a ziemia przeorana i pobrużdżona, wszystko porastają cierniste pnącza
         - Ivara i Mirnę ciasno oplatają ciernie; oboje są martwi
-        - Skovik leży bez ruchu, blady z zakrwawioną, potrzaskaną głową i rozoraną klatką
+        - Skovik leży bez ruchu, blady z zakrwawioną, potrzaskaną głową i rozoraną piersią
         - martwe ciała Finarrina i Enid także są spętane przez ciernie, a na głowach mają cierniowe korony
 2. Ranek następnego dnia
     - Druidka budzi się przerażona. W przeciwieństwie do Kajetana pamięta dokładnie swój sen.
@@ -64,7 +64,7 @@
     - Podkładamy ogień pod resztę jaj czekając, aż leże porządnie zajmie się ogniem. Yaevinn zabiera ciała elfa i driady, wracamy razem do altanki.
     - U stóp wzgórza, na którym stoi altanka, Kajetan używa koralika podarowanego przez Yaevinna aby wyczarować bezpieczne schronienie na noc.
     - Ilana, widząc [Wiewiórkę](Yaevinn) kopiącego dwa groby, bez słowa dołącza się i pomaga mu.
-    - Yaevinn przerywa milczenie i wspomina kompana. [Druidka](Ilana) ciągnie rozmowę pytając o jego ostatnią wizytę w wiosce. Okazuje się, że elf miał (nie)przyjemność poznać Enid, ale nie mówi tego otwarcie.
+    - Yaevinn przerywa milczenie i wspomina kompana. [Druidka](Ilana) ciągnie rozmowę pytając o jego ostatnią wizytę w wiosce. Okazuje się, że elf miał (nie)przyjemność spotkać Enid, ale nie mówi tego otwarcie.
     - Udajemy się na spoczynek do magicznego bąbla Kajetana.
 3. Ranek przy altance
     - Budzimy się o świcie, jednak Yaevinna z nami nie ma. Zniknęło też 12 racji żywnościowych.
@@ -82,3 +82,5 @@
         - Finarrin, lekko ranny, zagradza sobą drogę do swojej chatki.
         - Skovik, poraniony i potłuczony, stoi obok bestii, próbując ściągnąć na siebie uwagę stwora
         - Ivar, z tarczą roztrzaskaną na ręce flankuje bestię, będąc jednocześnie opatrywanym naprędce przez Mirnę
+
+##### [Sesja 23](#sesja-023) [Sesja 25](#sesja-025)

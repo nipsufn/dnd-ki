@@ -30,10 +30,10 @@
 		- Mirna nie potrafiła przetłumaczyć alchemicznych traktatów, które dostała od Kajetana, więc podzieliła się nimi z Inżynierem i poprosiła o pomoc w translacji
 		- {druidka}Mirna jest na naukach u Inżyniera - tego samego, który szantażował nas w Dorian, Pod Mantikorą, kiedy próbowaliśmy wyjaśnić sprawę dziwnego potwora
 		- rozmówca zamierza rozpocząć produkcję "płynnej magii" w oparciu o tłumaczone dokumenty i sprzedawać je zarówno Nilfgaardczykom jak i Nordlingom
-		- docieka również, z kąd pochodzi ta wiedza, kusząc pieniędzmi
+		- docieka również skąd pochodzi ta wiedza, kusząc pieniędzmi
 2. Krótka rozłąka - sprawunki Ilany
 	- Ilana po pożegnaniu Kajetana ptasim posłańcem wysyła wiadomość do Margarity. Oferuje swoją pomoc dopóki przebywa w Ellander. Niestety nie otrzymuje odpowiedzi - ptak albo nie znalazł adresatki, albo ta nie czuje się zainteresowana propozycją.
-	- Noc mija jej spokojnie. Nad ranem zauważa, że coś dzieje się z kręgiem teleportacyjnym - ktoś go właśnie aktywował i próbuje dostać się do świątyni. W kręgu zjawia żeńska sylwetka w podróżnym stroju i ciężkim, zimowym kożuchu oblepionym śniegiem. W ślad za nią przybywają kolejne 3 postacie, w tym jedna niesiona na prowizorycznych noszach. Cała grupa pewnym krokiem wchodzi do świątyni
+	- Noc mija jej spokojnie. Nad ranem zauważa, że coś dzieje się z kręgiem teleportacyjnym - ktoś go właśnie aktywował i próbuje dostać się do świątyni. W kręgu zjawia się żeńska sylwetka w podróżnym stroju i ciężkim, zimowym kożuchu oblepionym śniegiem. W ślad za nią przybywają kolejne 3 postacie, w tym jedna niesiona na prowizorycznych noszach. Cała grupa pewnym krokiem wchodzi do świątyni.
 	- Myśląc, że tylko nasza dwójka ma dostęp do tego kręgu, Ilana idzie sprawdzić, kto właśnie wtargnął do kapłanek zostawiając za sobą kupki śniegu.
 	- Jedną z trzech kobiet wystających pod gabinetem Ioli jest Mozaik, asystentka Radcliffa. Sam Radcliff to sopel lodu przyniesiony tu na noszach. Druga z noszowych zostaje nazwana Myrą. Nie podoba jej się obecność Ilany i próbuje się jej pozbyć nieskutecznymi zaklęciami, które {druidki}Ilana zdają się nie imać.
 	- Prowodyrką całej akcji okazuje się być sama Triss Merigold. Grupa trafiła tu po wypadku w północnej twierdzy - Kaer Seren. Lawina zeszła na dwójkę archeologów (czyżby chodziło o Istredda i Stregobora?) i resztę obecnych. Radcliff podtrzymywał zaklęcie ochronne dla innych dopóki lawina go nie pochłonęła.
@@ -47,6 +47,8 @@
 3. Szybka akcja-lokalizacja
 	- Nad ranem Kajetan teleportuje się do świątyni, w sam raz, żeby wymienić z Ilaną rewelacje ostatnich dni.
 	- Zaraz po tym przed bramą zjawia się Margarita. Przybliża nam swój plan - chce zabrać nas do Kerack, gdzie z pomocą naszych wspomnień może wykorzystać fontannę w Cyklamenie do zlokalizowania dziewczynki, której tak rozpaczliwe, acz bezskutecznie szuka już od kilku dni. Żali się przy okazji na wampira, któremu najwyraźniej bardzo przypadła do gustu jej obecność w mieście.
-	- Zostawiając Skovika w świątyni teleportujemy się z {czarodziejką}Margarita do Cyklamenu, co ciekawy, w inny i dużo bardziej delikatny sposób, niż zwykle wygląda to z Kajetanem.
+	- Zostawiając Skovika w świątyni teleportujemy się z {czarodziejką}Margarita do Cyklamenu, co ciekawe, w inny i dużo bardziej delikatny sposób, niż zwykle wygląda to z Kajetanem.
 	- Rita przystępuje do rytuału. Okazuje się, że dziewczynka, którą widzieliśmy w mieście, ukryła się w świątyni pod iluzją. Zaklęcie na szczęście nie demaskuje przy okazji Darii, choć przez chwilę mamy takie obawy.
 	- Nim ktokolwiek zdąży się połapać, co właśnie zaszło, Margarita zabiera się za zaklęcie powrotnej teleportacji.
+
+##### [Sesja 97](#sesja-097) [Sesja 99](#sesja-099)

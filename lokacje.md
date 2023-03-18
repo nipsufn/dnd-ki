@@ -80,7 +80,7 @@
 - <a id='l_kaedwen' pattern='Kaedwen'>Kaedwen</a>
     - <a id='l_ban_ard' pattern='Ban Ard'>Ban Ard</a>
         siedziba szkoły magów zniszczonej(?) przez Redańczyków
-- <a id='l_kerack' pattern='Kerack,Kerrack'>Kerack</a>
+- <a id='l_kerack' pattern='Kerack,Kerack'>Kerack</a>
     - niepodległe księstwo między Verden a Temerią
     - <a id='l_m_kerack' pattern='Kerack'>Kerack</a>
         - Mirna otworzyła tam sklepik i warsztat
@@ -150,7 +150,7 @@
         - ukryta wieża Alzura
         - wyczerpany krąg mocy
         - chatka, jaskinia i krąg żywiołu ziemi
-            - zamieszkują go Echinopsy i Archeospor
+            - zamieszkują go Echinopsy i Archespor
     - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
         - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Thanedd'>Wyspa Thanedd</a>
             - <a id='l_loxia' pattern='Loxi*'>Loxia</a>
@@ -225,7 +225,7 @@
         - największa wyspa na Skellige
     - <a id='l_undvik' pattern='Undvik'>Undvik</a>
         - jedna z wysp Skellige, dom lodowych gigantów
-    - <a id='l_hindersvjal' pattern='Hindersvjal'>Hindersvjal</a>
+    - <a id='l_hindarsvjal' pattern='Hindarsvjal'>Hindarsvjal</a>
         - wyspa na Skellige
     - <a id='l_fornhala' pattern='Fornhal*'>Fornhala</a>
         - jedna z osad na Wyspach

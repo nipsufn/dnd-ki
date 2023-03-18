@@ -27,3 +27,5 @@
     - Zauważamy, że niektórzy z pospólstwa modlą się do jakiejś wytartej figurki z elfiego marmuru.
     - W oddali widzimy Tuzlę: drewniany fort z wysoką, kamienną wieżą, otoczony zabudowanymi wysepkami delty śródlądowej Jarugi. Domy są tu budowane na palach
     - Z nadejściem wieczora docieramy na miejsce. Zatrzymujemy się w karczmie zwanej "Dwie Czaple" (a więc jednak nie bociany?).
+
+##### [Sesja 128](#sesja-128) [Sesja 130](#sesja-130)

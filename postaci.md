@@ -58,7 +58,7 @@
 - <a id='p_mirna' pattern='Mirn*'>Mirna</a> - człowiek; druid
     - przyjaciółka Ilany
     - dziewczyna Kajetana
-    - wyruszyła z Wioski by otworzyć warsztat alchemiczny w Kerrack
+    - wyruszyła z Wioski by otworzyć warsztat alchemiczny w Kerack
     - jest w gangu Salamandry
 - <a id='p_mozaik' pattern='Mozaik'>Mozaik</a> - czarodziejka
     - asystentka: Radcliffe
@@ -334,7 +334,8 @@
             - wyjechał po kłótni z bratem
             - brat: Tasak
         - <a id='p_hatori' pattern='Hatori*'>Hatori</a>
-            - kowal (?) wykonujący srebrne miecze
+            - elf, kowal (?) wykonujący srebrne miecze
+            - ma dwa zakłady: jeden w Novigradzie i jeden w Oxenfurcie (Miecze i Pierogi)
     - Oxenfurt
         - <a id='p_shani' pattern='Shani*'>Shani</a>
             rektorka Katedry Medycyny

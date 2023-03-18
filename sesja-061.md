@@ -24,3 +24,5 @@
     - Wielookie monstrum wypełzłe z uszkodzonego portalu próbuje nas pochwycić mackami kiedy tylko zbliżamy się do sali.
     - Kajetan, osłaniany przez zbroje, z pewnym wysiłkiem odsyła monstrum wiszące nad portalem z powrotem do miejsca, z którego przybyło.
     - Wyczerpani, ale poniekąd zadowoleni z odwalonej roboty planujemy naprawę kręgu oraz odpoczynek.
+
+##### [Sesja 60](#sesja-060) [Sesja 62](#sesja-062)

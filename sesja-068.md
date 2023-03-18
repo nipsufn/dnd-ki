@@ -5,7 +5,7 @@
     - Dostępu do budynku bronią drzwi od spodu mocno obrośnięte przez drobne pnącza. Kajetan wyjmuje drzwi z przerdzewiałych zawiasów. Pędy wydają się być niepokojąco ruchliwe - straciwszy oparcie wyciągają się do trzymanych przez [elfa](Kajetan) drzwi niczym ręce.
     - Przeszukujemy chatę, w której oprócz namiotów znajdujemy klatki z ludzkimi szczątkami. Z jednego z namiotów Kajetan wygrzebuje podniszczoną sakiewkę pełną złotych zębów.
     - Nasze myszkowanie przerywa atak dziwnej rośliny przypominającej bulwę jakiegoś kwiatu, z wnętrza którego wystrzeliwują w naszą stronę chwytne pnącza.
-    - Oprócz bulwiastych roślin pagórka bronią jeszcze inne cierniste pnącza podobne do tych z Ellander. Strzelają do nas cierniami rozmiarem przypominającymi strzały.
+    - Oprócz bulwiastych roślin, pagórka bronią jeszcze inne cierniste pnącza podobne do tych z Ellander. Strzelają do nas cierniami rozmiarem przypominającymi strzały.
     - Przypalamy narzucające się chwasty ogniem. Za zwęglonymi kłączami zieje w nas otworem wcześniej niezauważalna jaskinia. Z wnętrza uchodzi dziwny, przypominający nieco kadzidło zapach. Wchodzimy do środka mając nadzieję, że to "nasza" jaskinia i znajdziemy w niej trop w sprawie kikimor i/lub konkurencji Baraniny.
     - Zapach robi się intensywniejszy. W pewnym momencie każdemu z nas wydaje się, że widzi coś dziwnego - Ilana w miejscu Kajetana widzi dużego królika.
     - W jaskini, oprócz odpowiedzialnych za nasz rozweselony stan psychoaktywnych, dziwnie ruchliwych roślinek ciasno porastających każdą płaszczyznę, natykamy się na gigantyczną rosiczkę wyrastającą z kupy kości leżącej w głębokim dole.
@@ -21,13 +21,13 @@
     - Nazajutrz udaje nam się ustalić lokację 2 z 3 wież, ale jedna jest całkowicie zatopiona, a druga - niemal doszczętnie zrujnowana. Trzeciej wieży niestety ani śladu mimo usilnych naszych starań i patrolowania okolicy z lotu ptaka.
     - Wracając zahaczamy o norę Lentinusa. Opowiadamy mu co znaleźliśmy w jaskini. [Druid](Lentinus) jest przerażony i opowiada o roślinach, które mu przynieśliśmy:
         - bulwy i strzelające pnącza to odmiany Echinopsa, które z czasem wyrastają na rośliny przypominające gigantyczne rosiczki
-        - ogromna rosiczka to Archeospor, żywiący się najchętniej takimi zwierzętami na jakich szczątkach się rozsiał
+        - ogromna rosiczka to Archespor, żywiący się najchętniej takimi zwierzętami na jakich szczątkach się rozsiał
     - Lentinus mówi nam jak można się pozbyć niebezpiecznych chwastów. Proponuje przyciąć je srebrem i nagotować oleju z przyniesionych pędów, który - podany sztuczką wielkiej rosiczce - powinien go osłabić, a w odpowiedniej ilości nawet unicestwić. Mając jednak na uwadze starczą demencję [druida](Lentinus), dziękujemy mu za pomoc obiecując przekazać sprawę dalej.
     - Ilana pyta o kryształ Esme. Okazuje się, że drugi krąg, który znaleźliśmy nadał by się na rytuał - [starzec](Lentinus) nazywa go kręgiem żywiołu ziemi. Niestety jego lokacja jest póki co zbyt niebezpieczna. Próbę reanimowania pierwszego, nieaktywnego już kręgu podejmowali uczniowie Lentinusa, bezskutecznie. Rzeźba w centrum to golem, którego rzekomo miałaby aktywować burza.
     - Żegnamy się z [druidem](Lentinus). Idąc do portu wpadamy w wiosce drwali na grupę strażników porządkujących miejsce jatki jaka najwyraźniej wydarzyła się tu poprzedniej nocy. Towarzyszy im Łowczy Feliks.
     - Zostajemy zatrzymani i wzięci na spytki. Póki co jednak w roli ewentualnych świadków zdarzenia, a nie bezpośrednich podejrzanych.
     - Wysłuchawszy naszych zgodnych z prawdą, acz lakonicznych wyjaśnień, sierżant oddelegowuje nas z Feliksem do miasta aby spisać raport z zeznań. Mamy być do dyspozycji na ewentualne wezwanie, ale sytuacja jest pod kontrolą, nic nam się nie zarzuca.
-    - Pakujemy się do łódki. W drodze do miasta opowiadamy Feliksowi co znaleźliśmy w jaskini na bagnach. Mężczyzna słucha nas z niedowierzaniem wymalowanym na twarzy. Na dowód przekazujemy nilfgaardzki rapier i pokazujemy tubus. Umawiamy się, że mapę bagien dostarczymy mu nazajutrz, do ratusza (oczywiście uprzednio usuwając z niej lokację nory Lentinusa).
+    - Pakujemy się do łódki. W drodze do miasta opowiadamy Feliksowi, co znaleźliśmy w jaskini na bagnach. Mężczyzna słucha nas z niedowierzaniem wymalowanym na twarzy. Na dowód przekazujemy nilfgaardzki rapier i pokazujemy tubus. Umawiamy się, że mapę bagien dostarczymy mu nazajutrz, do ratusza (oczywiście uprzednio usuwając z niej lokację nory Lentinusa).
 3. Do cywilizacji
     - Setnie zmęczeni, ale zadowoleni z takiego obrotu spraw idziemy na noc do Lisa. Odbijamy się od zamkniętych drzwi, bo zdaje się Grimma urządza tego wieczora zamkniętą imprezę dla swoich pobratymców.
     - Udaje nam się utargować kolację i nocleg w stajni za mniej niż połowę regularnej ceny pokoju. Udajemy się do stajni, po chwili zjawia się także obsługa z jedzeniem.
@@ -41,7 +41,7 @@
     - Wygląda na to, że ostatnia wieża jest w pełni sprawna i - w porównaniu do pozostałych - nienaruszona, a przed niepowołanym ciekawskim wzrokiem skrywa ją iluzja.
 4. Do domu
     - Zachodzimy na śniadanie do Lisa. Jeszcze kilku gości poprzedniego wieczora siedzi przy stoliku i o czymś dyskutują z Grimmą.
-    - Przy śniadaniu Kajetan opowiada co widział w nocy. Podejmujemy decyzję, że czas nas nagli, a szukanie obłożonej iluzją wieży i najprawdopodobniej forsowanie jej zabezpieczeń za dwie błyskotki zwyczajnie nam się nie opłaca, szczególnie gdy zleceniodawca, zdaje się umyślnie, zatrzymuje dla siebie więcej informacji niż powinien...
+    - Przy śniadaniu Kajetan opowiada, co widział w nocy. Podejmujemy decyzję, że czas nas nagli, a szukanie obłożonej iluzją wieży i najprawdopodobniej forsowanie jej zabezpieczeń za dwie błyskotki zwyczajnie nam się nie opłaca, szczególnie gdy zleceniodawca, zdaje się umyślnie, zatrzymuje dla siebie więcej informacji, niż powinien...
     - Ilana wypytuje na odchodne żonę krasnoluda o druidów z bagien. Kobieta opowiada, że przed Trzecią Wojną wynieśli się stamtąd. Miało to miejsce w czasie konfliktu Zakonnych z Wiewiórkami.
     - Przed wyruszeniem do Mariboru zachodzimy do ratusza, przekazać Feliksowi obiecaną mapę, z której oprócz domu [druida](Lentinus) wykreślamy także dwie odnalezione wieże - nie zamierzamy wyświadczać darmowej przysługi Duskowi, a wiemy, że mapę tą na pewno zobaczy. 
     - Czekamy w kolejce na wskazanie pokoju. Ilana zauważa stojącego za nami starszego mężczyznę, który jakby zniecierpliwiony pokazuje na nadgarstek. Z tą różnicą, że na ręce zamiast zegarka ma... tatuaż barana.
@@ -54,7 +54,7 @@
 5. Stare-nowe śmieci
     - Po chwili dziwnego zawieszenia w oślepiającej jasności stajemy w Mariborze, w ruinach posiadłości Merigold. To znaczy Kajetan staje, a zaraz za nim, na plecy [maga](Kajetan) wytacza się zdezorientowana [druidka](Ilana), przewracając oboje.
     - Wspomnianego przez Keirę Brasa nie ma na piętrze. Przechodząc dalej widzimy tylko jego namiot oraz "wystawkę" w postaci kapelusza z pawim piórkiem i dwuręcznego miecza.
-    - Sam mag czeka na nas na dole. Wita nas (w naszych własnych progach o ironio) niczym gospodarz. Z wyglądu przypomina bardziej wojaka niż maga - jest postawny i barczysty, zamiast fircykowatych fatałaszków nosi połączenie szaty i pancerza, a i twarz jest mało "upiękniona", zupełnie nie jak typowy przedstawiciel jego fachu.
+    - Sam mag czeka na nas na dole. Wita nas (w naszych własnych progach, o ironio) niczym gospodarz. Z wyglądu przypomina bardziej wojaka niż maga - jest postawny i barczysty, zamiast fircykowatych fatałaszków nosi połączenie szaty i pancerza, a i twarz jest mało "upiękniona", zupełnie nie jak typowy przedstawiciel jego fachu.
     - Po krótkiej wymianie uprzejmości Bras przekazuje nam prezent od Keiry - dwa kamienie komunikacyjne. Następnie wychodzi w swoich sprawach przebrany w strój Redańskiego oficera.
     - Kajetan rozmawia z Keirą:
         - wyjątkowo jest ubrana, zdaje się jakby podróżowała w chłodniejszym klimacie, znalazła coś "pod okruchem lodu"
@@ -64,3 +64,5 @@
         - w czasie rozmowy wymienia kilka zdań z kimś poza rozmową, wspominając kogoś imieniem Stregobor
     - W tym samym czasie Ilana nie próżnuje: wysyła dwa ptaki z wiadomością do wioski: po jednym do Skovika i Finarrina. Gardiego finalnie nie zaszczyca wiadomością, skoro sam stwierdził, że nie ma ochoty z nią rozmawiać.
     - U wejścia do kanałów zamontowano nowe drzwi. Tym razem solidniejsze, więc nie ma mowy o wyciąganiu ich z zawiasów. Z pomocą Esme [druidka](Ilana) kradnie jeden z kluczy do kanałów aby ułatwić sobie przetwieranie się.
+
+##### [Sesja 67](#sesja-067) [Sesja 69](#sesja-069)

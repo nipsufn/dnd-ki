@@ -11,9 +11,9 @@
     - Wypakowujemy tobołki. Są w nich wino i inne dobrodziejstwa. W tajemniczej skrzyni odebranej z Natura Rerum znajduje się wielki upieczony prosiak z jabłkiem w pysku, gotowy do zawieszenia nad ogniem.
     - Gdy wszystko jest już przygotowane, a odebrany z austerii rożen ze świniakiem kręci się nad ogniem, Leiv obwieszcza braciom nowinę o zaręczynach, prosząc przy tym Skovika o błogosławieństwo. Wszyscy trzej padają sobie w ramiona.
     - Dzień upływa nam na jedzeniu, toastach za zdrowie młodej pary, śmiechach, zabawach, oraz wymianie nowin ze świata:
-        - Leiv był na wyspach, matka braci żyje i ma się całkiem dobrze
+        - Leiv był na Wyspach, matka braci żyje i ma się całkiem dobrze
         - {Wysypy}Skellige dzieli co raz to mocniejszy podział
-        - wykopaliska maga obudziły lodowych gigantów, Cerys nie jest w stanie zjednoczyć przeciwko nim klanów, demonstrując swoją słabość - 4 z siedmiu klanów nie uznają jej zwierzchnictwa, efektywnie jej tytuł nic nie znaczy (Dimun, Drummond, Tuirseach - Jarl wini An Craite za to, co stało się z jego potomkiem na walnym spotkaniu, nie wierzy w "oficjalną" wersję; oraz Tordarroch - kolejny raz musieli uciekać z wyspy Undvik przed lodowymi gigantami)
+        - wykopaliska maga obudziły lodowych gigantów, Cerys nie jest w stanie zjednoczyć przeciwko nim klanów, demonstrując swoją słabość - 4 z 7 klanów nie uznają jej zwierzchnictwa, efektywnie jej tytuł nic nie znaczy (Dimun, Drummond, Tuirseach - Jarl wini An Craite za to, co stało się z jego potomkiem na walnym spotkaniu, nie wierzy w "oficjalną" wersję; oraz Tordarroch - kolejny raz musieli uciekać z wyspy Undvik przed lodowymi gigantami)
         - okręty rodu an Craite utknęły w skutym lodem porcie macierzystym
         - klanem Drummond "zarządza" fajtłapa Örm, siostrzeniec Lugosa, jednak kontroluje go Hjalmar (z jednej strony Cerys upokarza wrogów an Craite, z drugiej - odsyła z dworu brata, o którym szepcze się, że byłby lepszym władcą)
         - An Craite wzięli "pod opiekę" także kilka wiosek, w tym jedną z latarnią morską, którą Drummondzi zniszczyli, byle by nie wpadła w łapy opozycji
@@ -21,7 +21,7 @@
         - Od Ivara dowiadujemy się, że:
             - pod górą Cremora obudził się jakiś mrok, przez co bestie w okolicy zrobiły się dużo agresywniejsze, a część nawet zaczęła migrować z dala od okolicy
             - Wioska rośnie - nazywają ją Niedźwiedzim Kasztelem, a Enid otworzyła nawet małą karczmę dla przyjezdnych
-        - Leiv opowiada jak właściwie poznali się z Asliv: jako szmugler chciał buchnąć mapy z nilfgaardzkimi szlakami handlowymi; płynął na nilfgaardzkim statku, kiedy zaatakowali ich piraci pod wodzą Roegnera; Asliv towarzyszyła bratu
+        - Leiv opowiada jak właściwie poznali się z Asliv: jako szmugler chciał buchnąć mapy z nilfgaardzkimi szlakami handlowymi; płynął na nilfgaardzkim statku, kiedy zaatakowali ich piraci pod wodzą Roeggnera; Asliv towarzyszyła bratu
         - na zakończenie wieczoru Leiv, ku zdumieniu ogółu, wyciąga lutnię i wykonuje całkiem ładną, wzruszającą balladę
     - W nocy Ilanie śni się dziwny sen:
         - znajduje się na dziobie niewielkiego drakkara, którego pokład aż trzeszczy
@@ -42,29 +42,31 @@
     - Lödbroke zbudował na plaży, z której notabene odbiliśmy Skovika, coś na kształt kaplicy, która stroszy włosy na karku Ilany. Na ołtarzykach z otoczaków leżą rozmaite dary: od plonów, po mięso i zwierzęta. Gdy {druidka}Ilana próbuje wejść w krąg, czuje znajomy zapach krwi i ziół (jak totem Skovika), co budzi w niej przemianę, którą na szczęście udaje jej się niepostrzeżenie opanować.
     - Skovik i Lödbroke witają się. Legendarny woj opowiada o bogach i przeznaczeniach. Na swój sposób cieszy się ze spotkania, choć nie wie, czy czekał na nas, czy na kogoś jeszcze.
     - Skovik wyjawia, że Lödbroke także trenował pod okiem Artisa - jest Vildkaarlem
-    - Berserk wita się z Ilaną. Po podaniu sobie rąk {dziewczyna}Ilana znów czuje jakby traciła kontrolę nad sobą. Wydaje jej się, że podana dłoń zaczęła się lekko przemieniać, więc szybko chowa ją za plecami.
+    - Berserk wita się z Ilaną. Po podaniu sobie rąk {dziewczyna}Ilana znów czuje, jakby traciła kontrolę nad sobą. Wydaje jej się, że podana dłoń zaczęła się lekko przemieniać, więc szybko chowa ją za plecami.
     - Podobno Artis wysłał go, by dał Drummondowi __możliwość__ powrotu na wyspy. By go odnaleźć, Lödbroke sprzymierzył się z łowcą głów od strzałek - Dyjinem Ognajem.
     - W międzyczasie, gdy Skovik wypytuje przyjaciela o detale "porwania", do jaskini wlatuje wielka sowa, która po chwili zamienia się w Artisa.
     - Artis opowiada:
         - zaczyna od stwierdzenia, że w świecie potrzebny jest konflikt, który zapobiega marazmowi i pozwala zachować balans w naturze
-        - pociągnięty przez Skovika za język sugeruje, że nic nie dzieje się bez przyczyny i że być może gdyby nie droga, jaką obrał Skovik, nie spotkał by na swej drodze Ilany
+        - pociągnięty przez Skovika za język sugeruje, że nic nie dzieje się bez przyczyny i że być może gdyby nie droga, jaką obrał Skovik, nie spotkał by na niej Ilany
         - {Druid}Artis dał Skovikowi na Cerys sztylet, który pomógłby mu w walce - ale tylko honorowej; jako że próbował dokonać niehonorowego zamachu, ostrze zawiodło go w kluczowej chwili
         - Drummond był tak zaślepiony żądzą zemsty, że chciał jedynie siły Vildkaarlów, zupełnie zapominając o ich "mądrości" (czyli zasadach, wartościach)
         - miała to być twarda lekcja, podobna, jaką ptaki fundują swoim latoroślom wykopując je z gniazda
         - informuje Lödbrokea, że przez działania maga, Kaer Dhu, starodawna siedziba rodu Drummond i miejsce spoczynku Knuta Okrutnego jest znów dostępna; ujawniła się po nasilających się trzęsieniach ziemi
-        - Knut chciał scalić rozbitych w tamtych czasach wyspiarzy - albo pod swoim przywództwem, albo zmuszając ich do zjednoczenia się przeciw niemu; to zjednoczenie nadało kształt współczesnej polityce wysp
-        - Skovik nie powinien iść do Kaer Dhu, próbować odzyskać artefaktów po Knucie, jeśli nie jest gotów wrócić z wygnania (na które sam się notabene wypędził), zająć "swojego miejsca" na wyspach (wśród Vildkaarlów jeśli odzyska honor? jako głowa swojego rodu? co poeta miał na myśli?)
-        - Ilana nazywa Artisa okrutnym sadystą, starzec nie odpiera zarzutu, on tylko daje Skovikowi możliwość wyboru - wyboru by powrócić jeśli tego chce
+        - Knut chciał scalić rozbitych w tamtych czasach wyspiarzy - albo pod swoim przywództwem, albo zmuszając ich do zjednoczenia się przeciw niemu; to zjednoczenie nadało kształt współczesnej polityce Wysp
+        - Skovik nie powinien iść do Kaer Dhu, próbować odzyskać artefaktów po Knucie, jeśli nie jest gotów wrócić z wygnania (na które sam się notabene wypędził) i zająć "swojego miejsca" na Wyspach (wśród Vildkaarlów, jeśli odzyska honor? jako głowa swojego rodu? co poeta miał na myśli?)
+        - Ilana nazywa Artisa okrutnym sadystą, starzec nie odpiera zarzutu, on tylko daje Skovikowi możliwość wyboru - wyboru, by powrócić, jeśli tego chce
         - Druid widzi w {dziewczynie}Ilana spore podobieństwo do siebie, nazywa ją czymś więcej niż druidem (implikując, że sam nie jest druidem...)
-        - Lödbroke przyznaje, że zawiódł z sytuacją w alejce - gdyby łowczy strzelał bełtami, wziąłby je na siebie, a co do planu z oszukaniem Cerys "zwłokami" Drummonda - __wierzył__ że się uda; Ilana kwituje, że gdyby to ona była na miejscu Lödbrokea, nie pozwoliłaby aby choć jedna strzałka trafiła Skovika
+        - Lödbroke przyznaje, że zawiódł z sytuacją w alejce - gdyby łowczy strzelał bełtami, wziąłby je na siebie, a co do planu z oszukaniem Cerys "zwłokami" Drummonda - _wierzył_ że się uda; Ilana kwituje, że gdyby to ona była na miejscu Lödbrokea, nie pozwoliłaby, aby choć jedna strzałka łowcy głów trafiła Skovika
         - Dlaczego zupełnie olał towarzyszy wyspiarza i jakie może być ich zdanie na temat planu / porwania / "możliwości powrotu", Lödbroke nie był łaskaw wyjaśnić
-        - Artis, oskarżony o pozorowanie możliwości wyboru (sztylet który zawiódł w kluczowym momencie), zmienia temat opowiadając że nie mógł mu dać siły Vildkaarlów jeśli ten nie stosował ich mądrości
-        - stwierdza, że jego nauka jest bolesna, ale ból to dobry nauczyciel; ma nadzieję że Skovik wyniósł mądrość z tego co się stało, a jeśli będzie chciał, znajdzie {druida}Artis na wyspach
-        - na pożegnanie, stwierdza <a id='matkakrokow'></a>_"Jeśli los pozwoli, spotkamy się znów. Tymczasem strzeż się Matki Kruków"_
+        - Artis, oskarżony o pozorowanie możliwości wyboru (sztylet, który zawiódł w kluczowym momencie), zmienia temat opowiadając, że nie mógł mu dać siły Vildkaarlów, jeśli ten nie stosował ich mądrości
+        - stwierdza, że jego nauka jest bolesna, ale ból to dobry nauczyciel; ma nadzieję, że Skovik wyniósł mądrość z tego, co się stało, a jeśli będzie chciał, znajdzie {druida}Artis na Wyspach
+        - na pożegnanie stwierdza <a id='matkakrokow'></a>_"Jeśli los pozwoli, spotkamy się znów. Tymczasem strzeż się Matki Kruków"_
         - zamienia się na powrót w sowę i odlatuje
 3. Czarujące ploteczki
     - Do pilnującego swojego pierścienia pod Cyklamenem Kajetana dzwoni Keira:
         - z okazji odbicia Mariboru Kapituła organizuje bal, trzy dni po nim planowane jest rozpoczęcie ekspedycji na północ, do Kaer Seren
-        - Myrton albo jest w Novigradzie albo podróżuje - stara zebrać się rozbity zakon pod swoim przywództwem,
+        - Myrton albo jest w Novigradzie albo podróżuje - stara się zebrać rozbity zakon pod swoim przywództwem,
         - Zakon Łowców po śmierci Radowida nie ma wsparcia politycznego, jest zdany na siebie
         - Elatan jest dalej nieprzytomna, śpi w posiadłości Keiry
+
+##### [Sesja 103](#sesja-103) [Sesja 105](#sesja-105)

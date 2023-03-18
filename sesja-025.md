@@ -8,9 +8,9 @@
     - Morvudd zrzuca Ilanę grzmotnięciem o ścianę i na oczach druidki przebija nieprzytomnego Ivara na wylot swoim porożem.
     - Potwór zostaje pokonany z pomocą wszystkich czterech Aen Eldrin, którzy przybyli na odsiecz w ostatniej chwili, a nawet moment za późno - Ivar leży na polu walki bez życia.
     - Kajetan pyta Verenestrę czy jest w stanie pomóc poległemu. Skovik, zszokowany, klęczy nad ciałem brata.
-    - Podczas gdy [jesienna Aen Eldrin](Verenestra) przygląda się ciału Ivara, Ilana i zmęczony Finarrin zapraszają pozostałych elfów do dyskusji o dalszych planach.
+    - Podczas gdy [jesienna Aen Eldrin](Verenestra) przygląda się ciału Ivara, zmęczony Finarrin zaprasza pozostałych elfów do dyskusji o dalszych planach. Ilana, zła na siebie i przygnębiona, nie ma odwagi spojrzeć Skovikowi w oczy, niechętnie dołącza więc do obradujących.
     - W tym czasie Kajetan odprowadza przerażoną kolejnym atakiem na Wioskę Mirnę. Czeka aż ta uśnie, a sam stara się uspokoić i przemyśleć sytuację.
-    - Kajetan dołącza do "rady leśnych ludków":
+    - {Czarodziej}Kajetan także wkrótce dołącza do "rady leśnych ludków":
         - Formorian, wypaczony Aen Eldrin, wdał się (czy też raczej jego dusza, byt) w dąb, który stał w Medownej
         - kryształ (zdawało się nam, że cierń) wbity we wspomniany dąb zawiera ducha Eithne
         - w miarę jak dąb z kryształem oddalają się od Brokilonu, krawędzie niestabilnego portalu Tor Corax oddalają się od swojego źródła pochodzenia, oznaczone magiczną aurą, którą pokonywaliśmy niedawno przekraczając Wstążkę
@@ -33,3 +33,5 @@
     - Ilana próbuje wypytać Oberona o los, jaki został teraz ustalony dla Ivara. Elf mówi, że jego przeznaczenie spełni się w Craag An, ukazując jej przy tym wizję złotego hełmu z jelenim porożem.
     - Decydujemy się podjąć ryzykownej misji pomocy, musimy jednak dopracować szczegóły - Wioska zostanie opuszczona, musimy nieść dwie osoby (Ivar i Enid) lub zaczekać aż dojdą do siebie.
     - Nie wiadomo jeszcze co zrobią pozostali mieszkańcy, którzy przetrwali do tej pory (Mirna).
+
+##### [Sesja 24](#sesja-024) [Sesja 26](#sesja-026)

@@ -18,7 +18,7 @@
 - <a id="r_svalblod" pattern='Svalblod*'>Svalblod</a> - wyklęte bóstwo wyspiarzy, dalej czczone przez niektórych. Daje siłę Vildkaarlom.
 - <a id="r_wodni_panowie" pattern='Wodn* Pan*'>Wodni Panowie</a> - stare bóstwa i ich kult
 - <a id="r_freyja" pattern='Freyj*'>Freyja</a> - bogini Wyspiarzy, główny kult na wyspach Skellige
-- <a id="r_morkvarg" pattern='Morkvarg*'>Morkvarg</a> - pirat który ograbił świątynię Freyji na wyspie Hindersfjall
+- <a id="r_morkvarg" pattern='Morkvarg*'>Morkvarg</a> - pirat który ograbił świątynię Freyji na wyspie Hindarsfjall
 - <a id='r_aen_eldrin' pattern='Aen Eldrin'>Aen Eldrin</a>
     - podgatunek elfów
     - "Lud Lasu", cztery elfy "pomagające" Brokilonowi i Eithne zaliczają się do nich

@@ -13,7 +13,7 @@
     - Ławy i ściany w okolicy fontanny są pokryte znaczną ilością cieni. W pewnym momencie Ilanie wydaje się, że cienie się lekko poruszyły.
     - [Druidka](Ilana) i jej [mentorka](Enid) rozdmuchują jedną z zasp sadzy i popiołu. Na odsłonięty bruk upada kamienny piesek, _"Pimpuś"_[<sup>1</sup>](#ad1), zaraz obok świeżo odsłoniętego kolejnego cienia.
     - Ilana podnosi zabawkę. Kajetan podchodzi do jednej ze ścian, na której zdaje się pojawiły się nowe sylwetki i próbuje ją wyczyścić. Cienie atakują.
-    - Po krótkiej, bardzo męczącej walce, druidzi zapalają światło dzienne. Cienie ustępują, rozpraszając się na granicy światła.
+    - Po krótkiej, bardzo męczącej walce, druidzi przywołują zaklęcie światła dziennego. Cienie ustępują, rozpraszając się na granicy światła.
     - Krocząc dalej w stronę centrum zauważamy ślady walki i więcej haseł powypisywanych na ścianach, czasem przeciw królowi, a czasem przeciw królowej. Na myśl przychodzi wojna domowa. 
     - Zauważamy też strzałki zrobione z mchu, które musiały zostać "zasadzone" ponad wiek temu - zastanawiamy się kto i jak je zrobił.
     - Na jednej ze ścian połyskuje magią atramentowy napis: _"Do wszystkich ocalałych: mam schron, jedzenie; przybywajcie"_ oraz opis lokacji, z grubsza pokrywający się ze strzałkami, którymi póki co zdecydowaliśmy się kierować ku wewnętrznemu kręgowi miasta.
@@ -28,3 +28,5 @@
 
 
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Pimpuś Sadełko?</i></div>
+
+##### [Sesja 30](#sesja-030) [Sesja 32](#sesja-032)

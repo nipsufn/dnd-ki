@@ -1,7 +1,7 @@
 ### Sesja 62
 ##### [Sesja 61](#sesja-061) [Sesja 63](#sesja-063)
 1. Miejska eksterminacja robaków
-    - Kajetan, wyczerpany sprzątaniem, rozmowami na odległość itp. namawia Ilanę aby udała się do [burmistrza](Oleg) opowiedzieć, że uwolnione opary to był nasz pomysł na przegonienie chrabąszczy, zanim ten wymyśli własną historię co narobiliśmy. Sam jest w dużej mierze bezużyteczny - gdyby okazało się, że trzeba będzie szybko uciekać, nie miałby jak, więc zostaje w podziemiach.
+    - Kajetan, wyczerpany sprzątaniem, rozmowami na odległość itp. namawia Ilanę, aby udała się do [burmistrza](Oleg) opowiedzieć, że uwolnione opary to był nasz pomysł na przegonienie chrabąszczy, zanim ten wymyśli własną historię co narobiliśmy. Sam jest w dużej mierze bezużyteczny - gdyby okazało się, że trzeba będzie szybko uciekać, nie miałby jak, więc zostaje w podziemiach.
     - [Druidka](Ilana), w drodze do miasta, już z daleka słyszy, a wkrótce i widzi efekt naszych działań deratyzacyjnych. 
     - Po mieście wałęsają się licznie wypłoszone z kanałów chrabąszcze. Niektóre z nich uciekają zdezorientowane, inne - większe - są agresywne i rzucają się na ludzi.
     - Na rynku Kapitan Braunn z kilkoma rekrutami walczy z co większymi robalami. Ilana, niewiele myśląc, przyłącza się do obrony miasta przed nacierającymi falami insektów. Zostaje przy tym raniona srebrną proszkową petardą rzuconą przez Łowcę.
@@ -23,7 +23,7 @@
     - Karczmarz poleca [dziewczynie](Ilana) zapytać o transport dwie ponure postaci siedzące przy kuflach z napitkiem, które ponoć niedawno kupiły wóz.
     - Właścicielami wozu są, okazuje się, nasi ulubieńcy - Regan i Andy. Ich misja spaliła na panewce - nie mają ani złota, ani dziewczyn. Nie trzeba przekonywać ich długo, aby podjęli się przetransportowania podróżnych do Wyzimy.
     - Ilana, ustaliwszy miejsce i czas odjazdu, zbiera się już do wyjścia, gdy otrzymuje wiadomość od Kajetana. Elf prosi aby rozejrzała się za solidnym kawałkiem srebra potrzebnym do ukończenia reperacji kręgu.
-    - [Druidka](Ilana) rozmawia z dwoma obwoźnymi handlarzami wskazanymi niezawodnie przez Oskara. Od pierwszego, lekko starszego domokrążcy kupuje srebrny dzbanuszek. Mężczyzna ma kilka innych ciekawych towarów, między innymi misternie wyrzeźbionego z kości słoniowej żołnierzyka przywiezionego z samej Aretuzy. Dziewczyna zadowala się jednak drobiazgiem w postaci malachitowego naszyjnika oprawnego w mosiądz.
+    - [Druidka](Ilana) rozmawia z dwoma obwoźnymi handlarzami wskazanymi niezawodnie przez Oskara - karczmarza i brata Olega. Od pierwszego, lekko starszego domokrążcy kupuje srebrny dzbanuszek. Mężczyzna ma kilka innych ciekawych towarów, między innymi misternie wyrzeźbionego z kości słoniowej żołnierzyka przywiezionego z samej Aretuzy. Dziewczyna zadowala się jednak drobiazgiem w postaci malachitowego naszyjnika oprawnego w mosiądz.
     - Drugi z kupców, natrętnie kojarzący się jej z Panem Lusterko spod Brugge, układa tarota. Ilanie udaje się podejrzeć kilka kart:
         - 1: dziewczynka przed bramą
         - 2: drzewo w kręgu złożonym z 7 kamieni
@@ -33,11 +33,13 @@
     - Osobliwy sprzedawca proponuje też grę w pytania i opowiada głupoty, które budzą dziwny niepokój. [Druidka](Ilana) szybko wycofuje się z konwersacji i wraca czym prędzej do kanałów.
     - Przy wejściu do kanałów Ilanę odnajduje pustułka wysłana przez Finarrina. Ptak przynosi wieści:
         +  Ivar i Skovik podczas nieobecności druidów udali się na łowy i zbierając wokół siebie chłopów ruszyli na zabicie bestii z ostatniej wsi
-        + Nie byli w stanie uziemić latającego stwora ze skrzydłami nietoperza, jednak na odsiecz przybył im nowy czarodziej z Verden, na widmowym koniu
-        + Lars odwiedził druida w wiosce jako wysłannik Kistrina by połączyć siły w odbudowie miasta
+        + nie byli w stanie uziemić latającego stwora ze skrzydłami nietoperza, jednak na odsiecz przybył im nowy czarodziej z Verden, na widmowym koniu
+        + Lars odwiedził druida w wiosce jako wysłannik Kistrina, by połączyć siły w odbudowie miasta
     - [Druidka](Ilana), zaskoczona i zdenerwowana otrzymanymi informacjami, naprędce kleci odpowiedź i odsyła pustułkę do wioski, jednak bez większej nadziei na dotarcie wiadomości - dziewczyna podejrzewa, że mentor może już dawno być w drodze do Verden.
     - Przed bramą do kanałów stoi torba z narzędziami. Ktoś został wysłany aby naprawić kratę, ale nieopatrznie zostawił swój sprzęt i poszedł się odlać do rzeki. Ilana, niewiele myśląc, zabiera młotek aby uniemożliwić majstrowi reperację.
 5. Finał naprawy
     - Kajetan, z nowym zapasem srebra, doprowadza krąg do stabilnego stanu i uruchamia go, po czym, nie myśląc wiele, dzieli się wieściami z Keirą.
     - Pokój wydaje się nieznacznie przesunięty. [Elf](Kajetan) wyjaśnia, że ma to związek z kalibracją kręgu, którego ten wymagał po naprawie.
     - Niepewni co lub kto czeka nas w Wyzimie, udajemy się na spoczynek.
+
+##### [Sesja 61](#sesja-061) [Sesja 63](#sesja-063)

@@ -4,7 +4,7 @@
     - Igna opowiada bardziej szczegółowo na niektóre z pytań, które wcześniej zadaliśmy jej przełożonemu.
     - Myrton próbuje wskrzesić Zakon Płonącej Róży, w którym zaczął karierę.
     - Łowców nie obchodzi pomoc, liczy się tylko chwała i pieniądze - za nic mają dawne ideały, którym hołdował poprzedni zakon, tj. bezinteresowną, charytatywną pomoc w zwalczaniu potworów.
-    - Łowcy "Potworów" to był pomysł Myrtona w krótkim czasie gdy był głową tej organizacji. Niestety pomysł był niepopularny i nie spodobał się "górze". Myrtona odsunięto od władzy, a następny naczelnik, niejaki Zygfryd, szybko wrócił do starej polityki.
+    - Łowcy "Potworów" to był pomysł Myrtona w krótkim czasie, gdy był głową tej organizacji. Niestety pomysł był niepopularny i nie spodobał się "górze". Myrtona odsunięto od władzy, a następny naczelnik, niejaki Zygfryd, szybko wrócił do starej polityki.
     - Mamy skomunikować się z Kapitułą najlepiej przed ludźmi Dijkstry (bez użycia magii trzeba liczyć, że do Poviss zejdzie im 2 - 3 tygodnie), by na naszą ofertę spojrzeli bardziej przychylnie.
 2. Niedźwiedzia przysługa
     - W drodze do Lisa, gdzie udajemy się na nocleg, drogę zastępuje nam Kudłate towarzystwo ubezpieczeniowe. Towarzyszy mu czwórka z Burdoff.
@@ -12,7 +12,7 @@
     - Ludzie Baraniny nie wtrącają się, zaledwie odcinają nam drogę ucieczki i upewniają się aby nikt niepowołany nie wtrącił się do rozmowy.
     - Wywiązuje się walka, w której bardzo staramy się nie korzystać nazbyt ostentacyjnie ze swoich zdolności. Niestety, kiedy szale przechylają się na naszą niekorzyść, aby dać im popalić, Ilana zmuszona jest zmienić się w zwierzę.
     - Oprychy biorą nogi za pas aż miło. Jedynymi świadkami tego, co się stało są obstawiający zajście ludzie z Kudłacza. 
-    - Gruby Anzelm mówi, że będzie zmuszony poinformować szefa o kolejnym przypadku lykantropa w mieście.
+    - Gruby Anzelm, właściciel Misia (i Misiów?) przebąkuje, że będzie zmuszony poinformować szefa o kolejnym przypadku lykantropa w mieście.
     - Udaje nam się dotrzeć do łóżek bez dalszych nieprzyjemności, ale Grimma obwieszcza, że nazajutrz kuchnia będzie nieczynna - skończyły mu się grzyby, więc on musi iść na grzybobranie, a na barze stanie żona.
     - W Lisie zrobiło się dość tłoczno. Znów pojawiło się elfie towarzystwo od handlu łukami. Ilana próbuje sprzedać jeden z łuków driad, ale elfy są zbyt podejrzliwe - węszą prowokację.
     - Elfka imieniem Verbena zostawia [druidce](Ilana) liścik - odkupi łuk, ale ma zostawić go dla niej w lombardzie u Ilorii.
@@ -42,11 +42,11 @@
     - Łowczy Królewski, Feliks z Dorian, oferuje 25GP za ubitą oszalałą kikimorę, ale też 750GP za permanentne rozwiązanie problemu.
     - Witając się Kajetan przedstawia [druidkę](Ilana) jako _"Ilanę Brokilońską"_, co spotyka się z lekceważącym parsknięciem niedowierzania ze strony Łowczego.
     - Dowiadujemy się, że Kikimory ciągną od południa, jakby przed czymś uciekały. Wioska cegielników została opuszczona, bliższa, drwali, jeszcze się ponoć trzyma.
-    - wiedźmin który miał się nimi zająć, przerwał negocjacje w sprawie ceny nagle znikając niecały miesiąc temu (pewnikiem był to Gaetan)
-    - Pomoc ze szkicem mapy bagien też może zostać wynagrodzona - wszelkie stare dokumenty zaginęły w wojnie, a teren przydałoby się jednak rozrysować.
+    - Wiedźmin, który miał się nimi zająć, przerwał negocjacje w sprawie ceny nagle znikając niecały miesiąc temu (pewnikiem był to Gaetan).
+    - Pomoc ze szkicem mapy bagien też może zostać wynagrodzona - wszelkie stare dokumenty zaginęły w wojennej zawierusze, a teren przydałoby się jednak rozrysować.
     - Plotka głosi, że kiedyś w okolicy Bagna zwanej Gajem, Zakon Płonącej Róży bił się z Nilfgaardczykami.
     - Feliks słyszał o rzezi wiosek przy górze Cremora. W Dorian było o tym dosyć głośno przez chwilę. Podobno wysłano tam nawet kilku wiedźminów do zbadania sprawy. Ci z kolei rzekomo natknęli się na ślady wilkołaka. Było to jakieś dwadzieścia parę lat temu.
-    - Snując przypuszczenia na temat nagłej agresji kikimor Kajetan wypala jakąś głupotę związaną z Duskiem, w skutek czego Feliks zaczyna łypać na nas podejrzliwym okiem.
+    - Snując przypuszczenia na temat nagłej agresji kikimor, Kajetan wypala jakąś głupotę związaną z Duskiem, w skutek czego Feliks zaczyna łypać na nas podejrzliwym okiem.
     - Ulatniamy się nim zdążymy napytać sobie więcej biedy lub, co gorsza, rzucić nieuzasadnione podejrzenia na Duska.
     - Już w drodze Ilana, swoim zwyczajem, zwraca [elfowi](Kajetan) uwagę, że ten czasem za dużo kłapie jęzorem i powinien pomyśleć zanim coś palnie. Kajetan upiera się, że Ilana musi przedstawiać się z imienia i nazwiska, więc ta każe się mianować _"Ilaną z Zadupia"_.
 7. Szukając igły w stogu błota
@@ -54,6 +54,7 @@
     - Docieramy do osady wokół cegielni, na samym brzegu jeziora. Zatrzymujemy się na noc w jednej z porzuconych chat, starając się nie prowokować licznych, żerujących w okolicy utopców.
     - Na środku osady stoi jakiś obelisk przedstawiający skrzyżowanie kobiety i ryby głębinowej o paskudnej paszczy najeżonej zębami.
     - [Mag](Kajetan) przyzywa żywiołakopodobne stworki mając nadzieję, że te będą w stanie przeczytać inskrypcje w nieznanym mu języku. Ku jego zdumieniu, przyzwańce tłumaczą napis, po czym zaczynają tańczyć wokół totemu, nie reagując na polecenia:
+
         _"Powiadam, kiedy śpiący się przebudzi,_
         _Nadejdzie świt dla dzieci głębin._
         _Powiada, oto ja_
@@ -68,17 +69,18 @@
         _I będą wdeptani w ziemię_
         _Bo któż jest ponad Panami?_
         _Bo któż jest ponad Panami?"_
+
     - Ilana wychodzi nadać kilka wiadomości. Pierwszą, do Skovika, nadaje wykorzystując napełniony przez Kajetana kryształ. [Druidka](Ilana) przeprasza za wcześniejszą wiadomość i podkreśla, że martwi się o zdrowie wyspiarza. W odpowiedzi dowiaduje się, że:
         - z pomocą Larsa udało im się ubić mantikorę
         - z ogona poczwary Skovik zrobił sobie nową broń
-        - Garbi boczy się i odmawia kontaktu z [druidką](Ilana)
+        - Gardi boczy się i odmawia kontaktu z [druidką](Ilana)
         - szarość i czerwień to kolory klanu An Craite; pytanie to wzbudziło jego niepokój
-    - Do kolejnych wiadomości [dziewczyna](Ilana) wykorzystuje dwie czaple czekające na resztki po utopcach. Zwabione na suszoną rybę czaple odlatują z wiadomościami: jedna do Garbiego, besztająca jego szczeniackie dąsy, a druga - do Duska, informująca o znalezionym posągu.
+    - Do kolejnych wiadomości [dziewczyna](Ilana) wykorzystuje dwie czaple czekające na resztki po utopcach. Zwabione na suszoną rybę czaple odlatują z wiadomościami: jedna do Gardiego, besztająca jego szczeniackie dąsy, a druga - do Duska, informująca o znalezionym posągu.
     - Wróciwszy do chaty Ilana nakłania Kajetana do powtórzenia ostatniej wiadomości do Finarrina, na którą ten nie mógł odpowiedzieć. [Druid](Finarrin) donosi:
         - Lars został doradcą, nadwornym magiem Kistrina
         - Verden bardzo ucierpiało w czasie zarazy
         - druidzi mają pomóc w odbudowie i roli w zamian za nadania ziemskie
-        - [książę](Kistrin) chce aby druidzi w Verden "zbudowali mu drugą Mayenę"
+        - [książę](Kistrin) chce, aby druidzi w Verden "zbudowali mu drugą Mayenę"
     - Nadal lekko naburmuszony [elf](Kajetan) przygotowuje kolejną wiadomość dla [druidki](Ilana), którą będzie mogła nadać do Skovika.
     - W nocy, w czasie warty Ilana obserwuje kikimorę robotnicę, która inspekcjonuje posąg. Po chwili spod posągu wystrzela większa kikimora, wojowniczka i rozrywa mniejszego insekta na strzępy.
     - Na swojej warcie Kajetan zauważa wracającego skądś Grimmę, z latarnią i kadzidłem, a jakiś czas później - kikimory, które rezygnują z pościgu czując kadzidło.
@@ -100,6 +102,8 @@
         - kiedyś odwiedził go Ivryn z "kolegą" imieniem Torfe
         - uczył się w Kovirze
         - Regis to zaprzyjaźniony kupiec, którego spotkał na wykładzie w Mayenie, to od niego ma recepturę na nalewkę
-        - podobno brzozę zasadził tu dawno sam król elfów, Oberon (chyba nie zbieżność imion? wśród elfów z Gór Sinych nigdy nie było władcy o takim mianie)
+        - podobno brzozę zasadził tu dawno temu sam król elfów, Oberon (chyba nie zbieżność imion? wśród elfów z Gór Sinych nigdy nie było władcy o takim mianie)
         - kojarzy Finarrina kiedy ten był jeszcze młodzieniaszkiem
         - wie jak odczynić klątwę rzuconą na Esme i umiałby taki rytuał przeprowadzić, ale potrzeba do tego silnego punktu mocy
+
+##### [Sesja 65](#sesja-065) [Sesja 67](#sesja-067)

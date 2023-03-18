@@ -36,18 +36,20 @@
     - Podchodzimy bliżej i zastajemy Ivara oraz Juniper, którzy, po zapowiedzi [druidki](Ilana), czekają na nas pilnowani przez sporego, białego jelenia. Zwierzę ma zaskakująco inteligentne spojrzenie.
     - Dosiadamy się i wymieniamy się opowieściami. Z relacji [młodego Drummonda](Ivar) wynika, że reszta naszych towarzyszy odpoczywa w Col Serrai.
     - W oczekiwaniu na Larsa, Ilana wyjawia Kajetanowi swój wariacki plan: chce namówić obu magów - Floriana i Larsa do kooperacji w celu pozbycia się zarazy w Verden. Elf nie jest zachwycony i obok powątpiewania nie omieszkuje wyrazić swojej fachowej opinii na temat magów, czym nadwyręża mocno cierpliwość i nerwy druidki.
-    - Ilana z Juniper idą na obchód po okolicy. Driada chwali się, że ludzie bardzo pomogli driadom w szczególny sposób i przykłada rękę druidki do swojego brzucha.
+    - Ilana z Juniper idą na obchód po okolicy. Chwali się, że ludzie bardzo pomogli driadom w szczególny sposób i przykłada rękę druidki do swojego brzucha. {Dziewczyna}Ilana odpowiada słabym, wymuszonym uśmiechem, a w głowie kotłują jej się najczarniejsze z myśli.
     - Druidka prosi Kajetana o zwój komunikacyjny. Rozpoczyna negocjacje z [nilfgaardczykiem](Florian) oferując swoją asystę.
     - Zgodnie z umową o północy przybywa Lars  na niecodziennym, eterycznym rumaku. Przywiózł trochę zapasów, dwie soczewki z megaskopu [magistra Floriana](Florian), oraz wino. Na jednej z butelek widnieje wzór kręgu teleportacyjnego do Ban Ard.
-    - Ilanie udaje się namówić obu czarodziejów do podjęcia negocjacji. Termin zostaje wyznaczony na za tydzień, w [wiosce druidów](Wioska). Pada także oferta, o której starszy druid jeszcze nie wie - druidka oferujego pomoc swoją i swojego ojca jako mediatorów i niejako znawców zarazy.
+    - Ilanie udaje się namówić obu czarodziejów do podjęcia negocjacji. Termin zostaje wyznaczony na za tydzień, w [wiosce druidów](Wioska). Pada także oferta, o której starszy druid jeszcze nie wie - dziewczyna oferuje pomoc swoją i swojego opiekuna jako mediatorów i niejako znawców zarazy.
     - W czasie rozmowy Lars wysuwa teorię jakoby Vicovaro, mistrz dywinacji, mógł słyszeć i być może nawet widzieć nas przez zwój. Sam mag jednym słowem potwierdza te podejrzenia.
     - Druidka ponagla drużynę aby czym prędzej ruszyć do Col Serrai, na spotkanie reszty.
 4. Znów w las - Col Serrai
     - Juniper prowadzi nas pewnie i bez błędu. Droga zajmuje nam w sumie niemal 4 dni i prowadzi przez jaskinie, których wygląd przywodzi na myśl te opisywane przez Aen Drisichean.
-    - Uzdrowisko driad leży w odciętej kotlinie, panuje tu wiosenno letni klimat. Ziemię pokrywają czerwone pnącza, a dookoła roi się od nagich driad przechadzających się między nieckami wiejącymi w nasze nozdrza siarką i minerałami.
+    - Uzdrowisko driad leży w odciętej kotlinie, panuje tu wiosenno letni klimat. Ziemię pokrywają czerwone pnącza, a dookoła roi się od pół lub całkiem nagich driad przechadzających się między nieckami wiejącymi w nasze nozdrza siarką i minerałami.
     - Spod pnączy, z jednej z niecek wynurza się Finarrin. Druid wygląda zdrowiej i młodziej - to jest, dopóki Ilana nie mówi mu o negocjacyjnym wolontariacie, do którego go zgłosiła.
-    - [Elf](Kajetan), znając reputację [leśnego uzdrowiska](Col Serrai), daje nura w krzaczaste runo leśne jak go natura stworzyła. Po jakimś czasie wyłazi czując się dużo lepiej. Widać jednak, że jego przypadłość stanowi problem nawet dla tego miejsca.
+    - [Elf](Kajetan), znając reputację [leśnego uzdrowiska](Col Serrai), daje nura w krzaczaste runo leśne jak go natura stworzyła. Po jakimś czasie wyłazi czując się dużo lepiej. Widać jednak, że jego przypadłość stanowi problem nawet dla tego miejsca - roślinność w niecce, w której zażywał prozdrowotnej kąpieli zauważalnie więdnie.
     - Ivar zostaje niemal od razu odciągnięty przez kilka driad, wygląda przy tym na bardzo zawstydzonego.
     - Ilana serdecznie wita się ze swoim opiekunem. Przechadzają się trochę i rozmawiają, kiedy zza ich pleców wyłaniają się Skovik i Gebo, wracający właśnie z polowania.
     - Obaj radośnie witają [druidkę](Ilana), która zdaje się z lekką rezerwą podchodzić do wyspiarza. To za sprawą wieści, którymi podzieliła się młoda driada.
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Jeśli wejdziesz między wrony, musisz... gdakać jak i one?</i></div>
+
+##### [Sesja 49](#sesja-049) [Sesja 51](#sesja-051)

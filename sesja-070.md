@@ -1,9 +1,9 @@
 ### Sesja 70
 ##### [Sesja 69](#sesja-069) [Sesja 71](#sesja-071)
 1. W odwiedziny u rodziny
-    - Ilana zauważa Skovika rzeźbiącego coś w drewnie. Zapytany o to [wyspiarz](Skovik) zaskakuje ją spostrzeżeniem, że brakuje jej strzał w kołczanie i właśnie je dla niej struga.
+    - Ilana zauważa Skovika dłubiącego coś w drewnie. Zapytany o to [wyspiarz](Skovik) zaskakuje ją spostrzeżeniem, że brakuje jej strzał w kołczanie i właśnie je dla niej struga.
     - [Druidka](Ilana) pyta o Ivara. Podobno młodzian przepada na całe dnie w lesie razem ze swoim jelonkiem, który już trochę podrósł. Zdaje się, że [młody Drummond](Ivar) wyperswadował bratu bawienie się w jego niańkę, co trochę Skovika zabolało.
-    - Para chwilę żartuje snując plany na wieczór kiedy Ilana przypomina sobie o czymś, co jeszcze chciała omówić z Finarrinem.
+    - Para chwilę żartuje snując plany na wieczór, kiedy Ilana przypomina sobie o czymś, co jeszcze chciała omówić z Finarrinem.
     - [Druidka](Ilana) zastaje swojego [mentora](Finarrin) pochylonego nad papierami z Gardim. [Młody druid](Gardi), ubrany w strój podróżny oznajmia, że wybiera się w interesach do miasta.
     - Ilana korzysta z okazji i wypytuje Gardiego o szczegóły umowy z Kistrinem:
         + Finarrin został <a href="https://youtu.be/aNmsCQ901AE">kasztelanem</a>, budują mu w wiosce kasztel
@@ -16,11 +16,11 @@
     - [Dziewczyna](Ilana) wypytuje też o Enid. Nadal dziwi ją kolosalna zmiana zachowania [starszej druidki](Enid). Nie mogąc uzyskać żadnych obszerniejszych wyjaśnień od Finarrina, postanawia wyciągnąć Enid na spacer.
     - [Mentorka](Enid) kończy właśnie ćwiczenia nowych druidów. Z lekkim ociąganiem przyjmuje zaproszenie, poniekąd słusznie spodziewając się przesłuchania. 
     - Ilana zauważa na jej przedramionach magicznie zaleczone ślady po dwóch głębokich cięciach. [Starsza druidka](Enid) ze wstydem na twarzy przyznaje, że po pijaku próbowała ze sobą skończyć, ale uratowały ją... znienawidzone wróżki z ogródka. W podzięce oddała im do dyspozycji jedną ze ścian swojej chaty.
-    - Ilana kontaktuje się z Kajetanem. Mag ogarnął już większość swoich sprawunków i co prawda zaczyna się już powoli nudzić, ale zdaje się być skłonnym zaczekać z eskapadą do Craag An do powrotu [druidki].
+    - Ilana kontaktuje się z Kajetanem. Mag ogarnął już większość swoich sprawunków i co prawda zaczyna się już powoli nudzić, ale zdaje się być skłonnym zaczekać z eskapadą do Craag An do powrotu [druidki]Ilana.
     - Wieczorem wszyscy schodzą się do Finarrina na opowieści i miód. Enid zdaje się faktycznie skończyła z alkoholem, za to Skovik upewnia się żeby jej porcja się nie zmarnowała. Ivara nadal ani śladu.
-    - Ilana dzieli się wszystkimi perypetiami, celowo pomijając spotkanie magów w którym wzięliśmy udział. Mając na względzie spytki, jakie ma zamiar zaserwować Skovikowi, po cichu liczy, że odpowiednia ilość alkoholu rozwiąże mu język na osobności, póki co - lepiej żeby nie wiedział co go czeka.
+    - Ilana dzieli się wszystkimi perypetiami, celowo pomijając spotkanie magów, w którym wzięliśmy udział. Mając na względzie spytki, jakie ma zamiar zaserwować Skovikowi, po cichu liczy, że odpowiednia ilość alkoholu rozwiąże mu język na osobności, póki co - lepiej żeby nie wiedział, co go czeka.
     - Wieczór dobiega końca, wszyscy rozchodzą się w swoją stronę. Ivar najwyraźniej nie wrócił na noc do lokum Drummondów. Bracia dzielą chatę, ale każdy ma swoją wydzieloną przestrzeń. Wspólna izba została przystrojona metalowymi amuletami wykutymi przez [młodszego Drummonda](Ivar) - znaczna część z nich poświęcona jest wyspiarskiej bogini, Freyji.
-    - Ilana i Skovik korzystają z chwili prywatności. [Wyspiarz](Skovik) jest miło zaskoczony nabytym w Brugge przez [druidkę](Ilana) nocnym "okryciem". Po przyjemnościach nastaje jednak czas na mniej przyjemną rozmowę:
+    - Ilana i Skovik korzystają z chwili prywatności. [Wyspiarz](Skovik) jest miło zaskoczony nabytym przez [druidkę](Ilana) w Brugge nocnym "okryciem". Po przyjemnościach nastaje jednak czas na mniej przyjemną rozmowę:
         + Skovik upiera się, że do zamachu na Cerys użył zwykłego, starego sztyletu
         + chwilę zajmuje mu wyjawienie od kogo dostał broń - podobno dał mu ją druid Artis, jego nauczyciel, którego zna i ufa mu od dziecka
         + rzekomo sztyletu tego sam [druid](Artis) używał do rytuałów i tym podobnych; zachęcał go do zemsty twierdząc, że tylko tak Skovik zmaże plamę na honorze swojego rodu
@@ -47,3 +47,5 @@
     - Gebo i Skovik mają mały problem z przejściem przez iluzję skrywającą drzwi do piwnicy Merigold. Ilana prosi Kajetana o rozproszenie zaklęcia, ale elf, oderwany od gotowania, ma wyraźny problem z [niedźwiedziem](Gebo) mającym wejść do jego domu.
     - Kajetan oprowadza gości po salonach, chwaląc się swoją pracą z ostatnich kilku dni. Siedzimy przy kolacji kiedy słyszymy aktywujący się krąg teleportacyjny. Stukot kroków w klatce schodowej świadczy o tym, że mamy niezapowiedzianego gościa, którym okazuje się... Keira Metz.
     - Czarodziejka wychodzi z klatki schodowej z hasłem _"O, jesteście? Świetnie"_. Wygląda na nieco poirytowaną.
+
+##### [Sesja 69](#sesja-069) [Sesja 71](#sesja-071)

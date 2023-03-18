@@ -43,3 +43,5 @@
     - Obszar wewnątrz obelisków przypomina Ogromną Kopułę Leomunda, wywiniętą na lewą stronę. Kajetan, zapominając o niebezpieczeństwie czyhającym po drugiej stronie, opiera rękę o powierzchnię magicznej pół-sfery - zaczyna się zastanawiać czy nie zostaliśmy uwięzieni
     - Elf próbuje przełożyć na drugą stronę rękę, w której trzyma, niczym klucz, iglicę totemu. Bariera nie stawia oporu, a mag prawie traci iglicę razem z ręką, brutalnie wyrwany z rozważań o potędze zaklęcia ochronnego, z którym eksperymentuje.
     - Wciągnięty do wnętrza kręgu razem z ręką Kajetana nekker natychmiast zamienia się w proch, rozwiany na lekkim wietrze.
+
+##### [Sesja 29](#sesja-029) [Sesja 31](#sesja-031)

@@ -1,7 +1,7 @@
 ### Sesja 110
 ##### [Sesja 109](#sesja-109) [Sesja 111](#sesja-111)
 1. Ku chwale Svalbloda
-    - Lodbroke, Skovik i Ilana wychodzą z Cytadeli zaczerpnąć świeżego powietrza. Wyspiarz zabiera z sobą szczątki trzeciego strażnika.
+    - Lodbroke, Skovik i Ilana wychodzą z Cytadeli zaczerpnąć świeżego powietrza. Wyspiarz zabiera ze sobą szczątki trzeciego strażnika.
     - {Vildkaarl}Lodbroke rozpala ognisko, w którym spala mieszankę ziół i serce strażnika zero w ofierze swojemu bogowi. Zaprasza do rytuału Skovika i Ilanę.
     - Ilana w transie obserwuje zwierzęce formy mężczyzn, a także swoją własną, jakby dwoiły jej się w oczach różne, nałożone na siebie obrazy.
     - Po fakcie Lodbroke oddala się w sobie tylko znanym kierunku. Zostawszy sam na sam ze Skovikiem, Ilana próbuje przyśnić się Finarrinowi: 
@@ -36,7 +36,7 @@
             - pojawili się na wschód od gór sinych w czasie pierwszej koniunkcji sfer - albo są oryginalnymi mieszkańcami kontynentu, tak jak gnomy
             - Loc Muinne było oryginalnie ich miastem
             - według elfich podań, {jaszczuroludzi}Wran wykończył spadek temperatur, jednak ślady znalezione na szkieletach w czasie wykopalisk sugerują ludobójstwo
-            - sugeruje że na Czarnej Akademii opracowano zarazę, która wyjątkowo zjadliwie atakowała Wranów, pracował nad nią ponoć Goe Veth
+            - sugeruje, że na Czarnej Akademii opracowano zarazę, która wyjątkowo zjadliwie atakowała Wranów, pracował nad nią ponoć Goe Veth
             - wykopaliska w Loc Muinne - albo przynajmniej czaszkę Wrana - zorganizował dla Cytadeli Filavandrel
             - rasa ta była odporna na działanie magii, z której to rzadko który przedstawiciel potrafił korzystać, wybitne jednostki odbijały zaklęcia lub przejmowały te już rzucone na własny użytek
         - Risberg
@@ -83,8 +83,8 @@
                 - Alzur, kilka wież, ta w Mariborze i te na bagnach pod Wyzimą
                 - Malaspina, Kaer Seren
             - krąg teleportacyjny
-                - składa się z dwóch, nachodzących na siebie; jeden wygląda na starszy, możliwe że skonstruowany jeszcze przez Aen Drisichean, drugi jest bardziej współczesny
-    - Mając trochę czasu do zmarnowania nim wymyślimy co zrobić z Zangenisem, Ilana także myszkuje po podziemiach:
+                - składa się z dwóch, nachodzących na siebie; jeden wygląda na starszy, możliwe, że skonstruowany jeszcze przez Aen Drisichean, drugi jest bardziej współczesny
+    - Mając trochę czasu do zmarnowania, nim wymyślimy co zrobić z Zangenisem, Ilana także myszkuje po podziemiach:
         - przy kręgu znajduje szczątki co najmniej 5 wiedźminów; grzebie je na powierzchni wraz z prawie całym dobytkiem, zabiera jedynie fragmenty srebrnych mieczy (do przekucia na jeden cały)
         - odwiedza ogród z "posągami" i fontanną
         - zwłoki wężowej damy, podobnie jak te na zewnątrz, również zostały powołane do życia i niemrawo podążają w kierunku drzwi
@@ -96,9 +96,11 @@
         - z pomocą Ilany odkopuje kolejne pomieszczenie za zbrojownią Aen Drisichean - kaplicę z czterema zbrojami (animowanymi, domyślamy się) i sarkofagiem
         - zabiera Skovika na przeszpiegi, podczas gdy Ilana i Kajetan próbują uwolnić Zangenisa; Lodbroke wietrzy gacie na zewnątrz
 3. W pułapce z Zangenisem
-    - Mag ma w rękach swój sztylet i wypaloną świecę, podobną do tej, której użyliśmy by ściągnąć klątwę ze Skovika.
+    - Mag ma w rękach swój sztylet i wypaloną świecę, podobną do tej, której użyliśmy, by ściągnąć klątwę ze Skovika.
     - Obsydianowa czaszka leżąca na stole odpowiada elfiej anatomii, konkretnie Aen Drisichean
     - Księgi, które Kajetan jest w stanie odszyfrować pomagając sobie magią, traktują o pograniczu nekromancji i goecji, sugerując, że Zangenis mógł próbować przywrócić do "prawdziwego" życia kogoś, kto umarł.
     - Czaszka, sondowana zaklęciem wykrycia myśli, wciąga lub wprawia w niekontrolowany trans Ilanę i Kajetana.
     - Znajdujemy się w labiryncie. Orientując się z niemałym trudem i pomocą sowy Kajetana jak się po nim poruszać, znajdujemy komnatę z dwoma zwierciadłami, w jednym z nich widać zakrwawionego Zangenisa.
     - Z lustra wychodzi nam naprzeciw agresywny minotaur.
+
+##### [Sesja 109](#sesja-109) [Sesja 111](#sesja-111)

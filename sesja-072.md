@@ -20,3 +20,5 @@
         - księgę o lekko nadniszczonym tytule "(...) Guide To Multiverse"
         - księgę z dużym rubinem wprawiony w okładkę
     - Oprócz magicznych znalezisk, Kajetan przywozi ze sobą także majestatyczne elfie prącie - zupełnie niemagiczny fragment sporej rzeźby, która została wykastrowana zaklęciem teleportacyjnym {maga}Kajetan. Umieszcza fallusa w skrytce w ścianie naprzeciw szpiegowskiej lampy Brasa.
+
+##### [Sesja 71](#sesja-071) [Sesja 73](#sesja-073)

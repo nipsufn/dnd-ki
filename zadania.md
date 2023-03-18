@@ -117,7 +117,7 @@
         - pokój z dziurawą podłogą ukrytą pod iluzją - znamy układ iluzji, kładka do korytarza zrobiona, odgruzowane przejście do biblioteki
         - biblioteka z zepsutym światłem i skutą księgą
         - pracownia alchemiczna
-        - pokoje, oryginalnie połączone teleportami jak Thanned, obecnie są złączone wykutymi w skale korytarzami
+        - pokoje, oryginalnie połączone teleportami jak Thanedd, obecnie są złączone wykutymi w skale korytarzami
         - pokój z fontanną: kamienne posągi kolekcjonowane przez strażnika b, fioletowa trawa, gablota ze złamanym mieczem. Na fontanie była rzeźba elfki, z twarzy której wzrok sam się zsuwa, próba przyjrzenia kończy się krwotokiem z nosa
         - gdzieś tam znajduje się szkielet Wrana
 - Na ratunek Isilme

@@ -3,7 +3,7 @@
 1. W drodze do Medownej
     - Docieramy nad rzekę w miejscu, gdzie bród jest dość szeroki i niezbyt głęboki, a nurt nieco spowolniony pływającymi w rzece grudami śniegu.
     - Kajetan bada, czy da się rzekę przebrodzić bez potrzeby instalowania liny łączącej brzegi i tym podobnych. 
-    - Woda jest lodowata, a im bliżej przeciwnego brzegu tym większe wrażenie przedzierania się przez kisiel. Zarówno woda jak i powietrze gęstnieją bliżej przeciwnego brzegu.
+    - Woda jest lodowata, a im bliżej przeciwnego brzegu tym większe wrażenie przedzierania się przez kisiel. Zarówno woda jak i powietrze zauważalnie gęstnieją.
     - Ilana otwiera oczy na magię i zauważa, że nad rzeką wisi gęsta, opalizująca na zielonkawo magiczna mgła, która przyprawia ją o krwotok z nosa (podobnie jak w Mariborze).
     - Kajetan używa magii do przedostania się na drugi brzeg, następnie pomaga Ilanie zamontować linę, żeby i ona mogła się przedostać przez rzekę. 
     - Przechodząc przez magiczną mgłę elf doznaje dziwnej amnezji - zapomina wydarzenia z ostatnich 2 tygodni. Jest sfrustrowany i nie ma pojęcia, co się dzieje. Ilana podejrzewa go o nowy głupi żart.
@@ -50,3 +50,4 @@
     - Kajetan z Yaevinnem, słysząc dźwięki szamotaniny, biegną w tym kierunku. Znajdują Ilanę i wszyscy w trójkę umykamy przed zbliżającym się, zawładniętym przez ciernie Morvuddem.
     - Las zdaje się robić bardziej niebezpieczny, niż do tej pory, a my jesteśmy wyczerpani. Nasz nowy towarzysz decyduje, że najszybciej wypoczniemy w towarzystwie Oberona. Nie mając siły ani okoliczności aby się sprzeczać, podążamy za nim.
     
+##### [Sesja 22](#sesja-022) [Sesja 24](#sesja-024)

@@ -5,7 +5,7 @@
 2. Kajetan rozmawia po raz pierwszy
     - z Mirną:
         - wyjechała w las na wschód od miasta, z Lutonem i ochroniarzem
-        - pretekstem jest wyprawa po surowce, ale tak na prawdę chciała uciec na jakiś czas z miasta
+        - pretekstem jest wyprawa po surowce, ale tak naprawdę chciała uciec na jakiś czas z miasta
         - "ochroniarz" jest nieswój w lesie, ponoć w okolicy grasuje jakiś potwór (domyślam się ten, którego ścigał Ivar)
         - dziewczyna zdaje sie wracać do siebie
     - z Elatan
@@ -18,7 +18,7 @@
         - podekscytowana decyduje się odwiedzić ich groby - jeśli istnieją, niepodważalnie potwierdzą ten wariant naszych wspomnień
         - Kajetan pesymistycznie ostrzega, że obecność lub brak grobów równie dobrze może być przygotowany przez kogoś, kto po mieszaniu z naszą pamięcią próbuje nami manipulować
         - elfka proponuje spotkanie w Mircie, niedaleko wideł rzek; Kajetan, ma nadzieję delikatnie, odmawia, tłumacząc się innymi zajęciami i odległością
-        - "pozdrowienia od Filavandrela" przekazane podczas naszego spotkania w Kerrack były dosłowne - dawny mistrz przekazał jej informacje o lokacji Kajetana i kazał życzyć zdrowia (wiedząc w jakim stanie jest Elatan, prawdopodobnie domyślał się jak to się skończy)
+        - "pozdrowienia od Filavandrela" przekazane podczas naszego spotkania w Kerack były dosłowne - dawny mistrz przekazał jej informacje o lokacji Kajetana i kazał życzyć zdrowia (wiedząc w jakim stanie jest Elatan, prawdopodobnie domyślał się jak to się skończy)
         - Król z Białych Wież zdaje się nie spodziewał się, że Elatan będzie jedną z tych, którzy przetrwali wypadek
         - do bitki z Idą doszło, gdy w jednym z laboratoriów Filavandrela włączył się alarm; Elatan pobiegła sprawdzić co się dzieje, jakiś czas potem - spóźniona Ida i założyła, że myszkująca koleżanka jest nieproszonym gościem, z czego wywiązała się wymiana fizycznych argumentów
         - spotkanie kwituje słowami _"mam nadzieję, że odzyskasz dawną iskrę"_
@@ -69,3 +69,5 @@
     - Ilana zgłasza naszą dwójkę na ochotnika. Chce dobrowolnie pośredniczyć w negocjacjach z Druidem, ale zastrzega, że nie przyłoży ręki do przemocy, jeśli rozmowy okażą się bezskuteczne.
     - Kajetan upewnia się - wiedźmin który już próbuje rozwiązać problem dla zarządcy Angrenu to Gaetan.
     ![orteliusMap](https://github.com/nipsufn/dnd-ki/raw/master/img/orteliusMap.jpg "orteliusMap")<a id="mapa"></a>
+
+##### [Sesja 127](#sesja-127) [Sesja 129](#sesja-129)

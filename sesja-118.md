@@ -11,15 +11,15 @@
         - poprzez portal dostali się na szczyt góry
         - gdy badali fundamenty wieży zostawione przez Aen Drisichean, nad nimi otworzył się portal do Białego Zimna
         - z portalu wylała się fala potworów, więc bezradni magowie postanowili wziąć nogi za pas i salwować się teleportacją
-        - Stregobor otworzył portal do swojej wieży z Blaviken; gdy jednak próbowali wyjść, drzwi otworzyły się znów na Kwarcowej Górze
-        - wówczas widzieli jak żywiołak-piramida wylazł przez wyrwę
+        - Stregobor otworzył portal do swojej wieży w Blaviken; gdy jednak próbowali z niej wyjść, drzwi otworzyły się znów na Kwarcowej Górze
+        - wówczas widzieli, jak żywiołak-piramida wylazł przez wyrwę
         - Radcliffe zjawił się posprzątać ten bałagan
-        - dwaj magowie spróbowali odesłać żywiołaka na jego płaszczyznę; żywiołak  w jakiś sposób zabrał go ze sobą, po chwili wrócili, przy czym {mag}Radcliffe - już nieprzytomny i zamrożony
-        - Stregoborowi udało się teleportować poszkodowanego do Kaer Seren, po czym przyzwał wrócił do swojej wieży, w której ukryli się z Istreddem
-        - nie mogąc pokonać żywiołaka ani pozostałych potworów, czarodzieje utknęli w wieży na prawie miesiąc
-    - Debatujemy co dalej. Yennefer, Stregobor i Istredd teleportują się na Thanedd. Nie zamierzają pomóc złapać zrzuconego przez Ilanę żywiołaka, którego zbadanie może pomóc wyleczyć Radcliffe'a. Na nic zdają się Kajetanowe apele do lepszej natury i kamraterii.
-    - Zostajemy we trój z Zavistem. Decydujemy się odpocząć i nazajutrz zapolować na żywiołaka, i jeśli się powiedzie - zabrać go na Thanned.
-    - Przed spoczynkiem rzucamy okiem na domek na szczycie góry. Wnętrze przypomina górską, myśliwską samotnię. No prawie - stoi tu bowiem łóżko ze złota i kości, a ściany zdobią trofea pochodzące ze smoków.
+        - dwaj magowie spróbowali odesłać żywiołaka na jego płaszczyznę; żywiołak  w jakiś sposób zabrał Radcliffe'a ze sobą, po chwili wrócili, przy czym {mag}Radcliffe - już nieprzytomny i zamrożony
+        - Stregoborowi udało się teleportować poszkodowanego do Kaer Seren, po czym wrócił do swojej wieży, w której ukryli się z Istreddem
+        - nie mogąc pokonać żywiołaka, ani pozostałych potworów, czarodzieje utknęli w wieży na prawie miesiąc
+    - Debatujemy co dalej. Yennefer, Stregobor i Istredd teleportują się na Thanedd. Nie zamierzają brać udziału w polowaniu na zrzuconego przez Ilanę żywiołaka, którego zbadanie może potencjalnie pomóc wyleczyć Radcliffe'a. Na nic zdają się Kajetanowe apele do lepszej natury i kamraterii.
+    - Zostajemy we trój z Zavistem. Decydujemy się odpocząć i nazajutrz zapolować na żywiołaka, i - jeśli się powiedzie - zabrać go na Thanedd.
+    - Przed spoczynkiem rzucamy okiem na domek na szczycie góry. Wnętrze przypomina górską, myśliwską samotnię. No, prawie - stoi tu bowiem łóżko ze złota i kości, a ściany zdobią trofea pochodzące ze smoków.
     - Na jednej ze ścian wisi olejny obraz przedstawiający jakąś operację lub też eksperyment. Zavist rozpoznaje trójkę mężczyzn wyobrażonych na dobrej jakości płótnie.
       ![cosimo-malaspina](https://github.com/nipsufn/dnd-ki/raw/master/img/cosimo-malaspina.jpg?style=block-center "cosimo-malaspina")<a id="obraz"></a>
     - Chata należała do maga Malaspiny, nauczyciela Alzura i Idarana, doświadczonego łowcy smoków. Znajdujemy w nim bogate, choć (po za złotym łóżkiem) nie ostentacyjne meble wykładane smoczą kością, kolekcje pazurów i trofea, oraz księgę zapisaną jakimś dialektem Starszej Mowy.
@@ -33,3 +33,5 @@
     - Nie chcąc się fatygować i ryzykować, a i widząc cięgi, jakie zbiera miś, zamiast zaganiać wroga w krąg, {elf}Kajetan zamienia go w żółwia.
     - Zavist pęta potwora w kryształ.
     - Nie mitrężąc wiele, teleportujemy się do ciepłego Gors Velen.
+
+##### [Sesja 117](#sesja-117) [Sesja 119](#sesja-119)

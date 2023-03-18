@@ -5,10 +5,11 @@
     - Przeszukując dalej stosy książek zauważamy, że sporo z nich ma wyrwane strony. Ilanie udaje się odnaleźć kilka z nich.
     - Podczas gdy my pogrążamy się w lekturze, [obcy elf](Lanemin) spędza sporo czasu w sali treningowej walcząc ze zbroją.
     - Kajetan do późnego wieczora studiuje księgi, znajdując w nich odpowiedzi na kilka swoich pytań:
-        - okolice, w kórych mag eksplorował ruiny zamieszkiwała niegdyś rasa jaszczurowatych stworzeń, większych od ludzi, potrafiących zablokować Moc; Aen Drisichean nie zamierzali dalej zwiedzać tych obszarów
+        - okolice, w których mag eksplorował ruiny zamieszkiwała niegdyś rasa jaszczurowatych stworzeń, większych od ludzi, potrafiących zablokować Moc; Aen Drisichean nie zamierzali dalej zwiedzać tych obszarów
         - magia to tkanina rzeczywistości, drobne nierówności miałyby tworzyć rzeczywistość, świadomość; większe zagięcia to miejsca szczególnej Mocy, których nie zastąpi największy nawet talent i umiejętności
         - jedyna rasa, o której wspominają w swoich kronikach Aen Drisichean, a która zdaje się przetrwała do dzisiejszych lat to Krasnoludy czy Gnomy, "Ludzie Ziemi"
-        - Aen Drisichean przybyli do tego świata tym samym portalem, który później próbowała otworzyć Eithne. Do dzikiego, pustynnego świata wtłaczali Moc czerpaną z portalu, którym przybyli. Budowali miasta wokół większości portali prowadzących do innych światów, same rozłamy w rzeczywistości kotwicząc strzelistymi wieżami:
+        - Aen Drisichean przybyli do tego świata tym samym portalem, który później próbowała otworzyć Eithne; do dzikiego, pustynnego świata wtłaczali Moc czerpaną z portalu, którym przybyli 
+        - budowali miasta wokół większości portali prowadzących do innych światów, same rozłamy w rzeczywistości kotwicząc strzelistymi wieżami:
             - miasto wokół portalu Sokolicy było ośrodkiem badawczym
             - wyrwa w Górach Smoczych leży w miejscu tak niedostępnym, że pomysł jej umocnienia został porzucony
             - jedno z przejść było ufortyfikowane przez wrogo nastawiony lud uskrzydlonych gadów, stąd przezwane "kością niezgody"
@@ -18,8 +19,8 @@
         - Moc można interpretować dwojako aby nagiąć do swojej woli:
             - podąża w 8 kardynalnych kierunkach, każdy o innych właściwościach; wiążąc, splatając ze sobą cięgi Mocy, tworzy się zaklęcia i modyfikuje
             - to niepowstrzymana rzeka, która jest w stanie podmyć każde fundamenty; od dyscypliny adepta zależy ile może ukierunkować wedle woli zanim da się porwać; z takim podejściem łatwo jest wzmocnić swoje umiejętności
-        - Aen Drisichean podróżowali między światami, nigdy nie zajmując się rolą. Gdy ich populacja rosła, część klanu wyruszała w poszukiwaniu nowego świata
-        - postaci, których szkielety spotkaliśmy pod Ellander pochodzą ze świata "Czerwonych Piasków", bardzo niegościnnego. Postaci dzierżące broń z kości i obsydianu rosły dosłownie i obrastały w potęgę z każdym zabitym przez siebie wrogiem
+        - Aen Drisichean podróżowali między światami, nigdy nie zajmując się rolą; gdy ich populacja rosła, część klanu wyruszała w poszukiwaniu nowego świata
+        - postaci, których szkielety spotkaliśmy pod Ellander pochodzą ze świata "Czerwonych Piasków", bardzo niegościnnego; postaci dzierżące broń z kości i obsydianu rosły dosłownie i obrastały w potęgę z każdym zabitym przez siebie wrogiem
         - Alzur, potężny mag, eksperymentował z niekonwencjonalnym użyciem Mocy i modyfikowaniem żywych organizmów; stworzył zakon Wiedźminów
         - łapanie Djinni, sztuka, której rzadko podejmują się najpotężniejsi współcześni magowie, było zaledwie zadaniem domowym dla adeptów niegdyś zamieszkujących Craag An
     - Zmęczeni poszukiwaniami szykujemy się do snu. Kajetan przezornie nie zaprasza [nowego towarzysza](Lanemin) do bąbla mając na uwadze bezpieczeństwo drużyny.
@@ -32,7 +33,7 @@
     - Wydaje się być dużo potężniejszy od Kajetana - jednym pstryknięciem zapala nieczynne kandelabry. Mimo to w wyniku magicznej eksplozji jego ciało częściowo uległo spopieleniu, a dusza uciekła w cień (w przeciwieństwie do drugiej Arkanistki, która zachowała swe ciało nienaruszonym).
     - Ilana próbuje swoich sił w pojedynku ze zbroją. Laneminowi udało się bez draśnięcia odrąbać jednej zbroi rękę. Druidka ma niestety mniej szczęścia i wychodzi z tej próby mocno pokiereszowana.
     - Kajetanowi udaje się w końcu nakłonić Lanemina do rozmowy:
-        - pierwotny lud, przodkowie wszystkich elfich klanów, zniszczył swój świat walcząc z inną potężną rasą, _jednorżcami_ (błąd tłumaczenia z Starszej Mowy, żart skryby, czy poważnie?)
+        - pierwotny lud, przodkowie wszystkich elfich klanów, zniszczył swój świat walcząc z inną potężną rasą, _jednorżcami_ (błąd tłumaczenia ze Starszej Mowy, żart skryby, czy poważnie?)
         - drzewo na środku Craag An jest pomnikiem ku pamięci zmarłej królowej
         - po zamknięciu się portali obce elfy z Craag An straciły przypływ magii; ich dzieci zaczęły rodzić się z elementami, ciałem, a nawet duszą zwierzęcia
         - Aen Drisichean musiały zabijać własne nowo narodzone dzieci, ale wkrótce choroba zaczęła objawiać się także u dorosłych
@@ -79,3 +80,5 @@
     - Niechętnie zgadzamy się, aby szedł całą drogą od początku - zaczynając od Drogi Pielgrzyma. Ilana i Kajetan nie mają jednak zamiaru siedzieć przez ten czas bezczynnie i idą w ślady Ivara, kontynuując obchód po pozostałych 3 salach.
     - Żadne z nich nie przechodzi niestety ostatniej próby - Kajetan odmawia walki z samym sobą na drodze równowagi, a Ilana przegrywa z bezsilnością wobec własnej przemocy na ścieżce miłosierdzia.
     - Wszyscy czekamy w głównej sali na powrót Ivara.
+
+##### [Sesja 35](#sesja-035) [Sesja 37](#sesja-037)

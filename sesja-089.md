@@ -3,14 +3,14 @@
 1. W odwiedziny do alchemika
     - Z pisemnym poleceniem Toma wchodzimy do wewnętrznego miasta, gdzie Viggo ma swój nowy dom i warsztat. Eskortują nas przystrojeni strażnicy, którzy zdaje się po ubiorze mają nas za awanturników i rabusiów.
     - W progach posiadłości, która zdaje się być w trakcie modernizacji, wita nas kamerdyner - łudząco podobny do Janusa-gnomki. Darzy nas równie ufnym, sympatycznym spojrzeniem, co nasza eskorta.
-    - Viggo zaprasza nas do salonu i częstuje winem. Po krótkiej wymianie uprzejmości zabiera nas na ucztę do przybytku o wdzięcznej nazwie "Pod Matroną" - dość bogatej restauracji, której motywem przewodnim jest Melitele. Znajduje się w części górnych wałów zwanej "Balkonami". Alchemik opowiada co nas ominęło:
+    - Viggo zaprasza nas do salonu i częstuje winem. Po krótkiej wymianie uprzejmości zabiera nas na ucztę do przybytku o wdzięcznej nazwie "Pod Matroną" - dość bogatej restauracji, której motywem przewodnim jest Melitele. Znajduje się w części górnych wałów zwanej "Balkonami". Alchemik opowiada, co nas ominęło:
         - Lukrecja przejęła po nim Fiolkę
         - oboje są w kooperatywie z diukiem Myrtonem
-        - obecnie, pod nieobecność małżonka, regionem zarządza Księżna Alicja
+        - obecnie, pod nieobecność małżonka, regionem zarządza księżna Alicja
         - parę dni po naszym wyjeździe do Ellander zjechali Łowcy z Novigradu; wypytywali o zaginiony transport z dwójką więźniów - elfem i jakąś kobietą, jednak Lord Myrton odprawił ich bez zagłębiania się w sprawę
         - zielarz zdaje się nie nosi w domu dwimerytowej obrączki, ale dalej ma odruch sięgania do palca, na którym ta zwykle spoczywa
         - gnomy są ponoć oryginalną rasą zamieszkującą Północ, mogą wiedzieć coś o Wranach, podobnie do nich nie czarują i są w znacznej mierze odporne na efekty magiczne
-        - Viggo skupia się na pracy z Kapłankami Melitele, planuje otworzyć mały szpital w mieście
+        - Viggo skupia się na pracy z kapłankami Melitele, planuje otworzyć mały szpital w mieście
     - Żegnamy się z Viggiem i idziemy poszukać noclegu. Planujemy zatrzymać się w Różyczce, więc zielarz przekazuje nam fiolkę z lekiem dla Waleriana.
 2. Stare dobre czasy
     - Po drodze oglądamy tablicę ogłoszeń na rynku:
@@ -29,16 +29,16 @@
         - do Brona: Niejaki Dyjin Ognaj na zlecenie Cerys szuka jak się okazuje nie tylko Skovika, ale już też naszej dwójki (to akurat przez akcję z wozem); jego rzekomy wspólnik, Lödbroke, też wyspiarz, jak dotąd nie wrócił do miasta
         - do Leiva: dowiadujemy się, że dwaj wyspiarze to żywe legendy; nie ma lepszego łowczego niż Ognaj, a Lödbroke jest człowiekiem bez klanu i bez wodza, twierdzi, że odpowiada tylko przed samymi bogami; {młody Drummond}Leiv przestrzega przed wdawaniem się z nim w walkę - kiedy o nim opowiada, można z łatwością wyczuć strach i respekt
     - Ilana, z trudem uprosiwszy Kajetana o kryształ, wysyła wiadomość do bezpańskiego łowcy. Oferuje mu pieniądze lub przysługę za jakiekolwiek informacje o truciźnie toczącej Skovika. Odpowiada jej gromki śmiech i propozycja nie do odrzucenia: mamy 3 dni aby oddać mu {osiłka}Skovik, nim odpłynie na wyspy, a wtedy bardzo możliwe, że Skovik już nigdy się nie obudzi.
-    - Łowca robi wrażenie jakby znał nas i obserwował już od dłuższego czasu. Nie zaskoczyła go ani wiadomość {druidki}Ilana, ani też jej forma - zupełnie jakby spodziewał się kontaktu z naszej strony.
+    - Łowca robi wrażenie jakby znał nas i obserwował już od dłuższego czasu. Nie zaskoczyła go ani wiadomość {druidki}Ilana, ani też jej forma - zupełnie, jakby spodziewał się kontaktu z naszej strony.
 3. Powrót do świątyni
     - Schodzimy na śniadanie. Przysiada się do nas Kasimir. Twierdzi, że wyczuł czary Kajetana i przyszedł sprawdzić czy to my, czy ktoś jeszcze łamie prawo.
     - Myrton poinformował Kasimira, że możemy się któregoś dnia zjawić od strony świątyni. Jakże wspaniałomyślnie zaoferował, że charytatywnie podejmiemy się zlecenia, jeśli jakieś akurat się znajdzie.
     - Tak się składa, że komendant Kasimir ma dla nas zlecenie: jakiś elfi duch najpierw nawiedzał jeden z domów w dolnych wałach, a później wymordował jego mieszkańców i każdego, kto od tamtej pory postawił tam nogę.
-    - Kasimir posłał tam swoich ludzi, ale wrócił tylko jeden, o jakieś pół wieku starszy. Zszedł na zawał nim zdążył dobiec do furtki by opowiedzieć co zobaczył.
-    - Obiecujemy {zakonnikowi}Kasimir wrócić do sprawy kiedy uporamy się z własnymi problemami.
+    - Kasimir posłał tam swoich ludzi, ale wrócił tylko jeden, o jakieś pół wieku starszy. Zszedł na zawał nim zdążył dobiec do furtki, by opowiedzieć, co zobaczył.
+    - Obiecujemy {zakonnikowi}Kasimir wrócić do sprawy, kiedy uporamy się z własnymi problemami.
     - Szykujemy się do powrotu do świątyni. Po drodze zachodzimy do banku zrealizować weksel od {kapitana ze Skalnicy}Wehr. Niestety, filia w Ellander należy do siostrzanego rodu krasnoludów, więc pobiera zbójecki procent za realizację.
     - Olewamy natenczas papierek i spotkawszy się z Viggiem przy bramie odwiedzamy świątynię. Widać, że {alchemik}Viggo i {Matka Przełożona}Iola dobrze się znają.
-    - Kajetan zamyka się w pokoju by pomedytować nad maską "koleżanki z pracy", gdy Viggo i Matka Iola schodzą do szklarni. Ilanie udaje się usłyszeć ich ściszoną rozmowę o tym, że Skovik jest "na granicy śmierci" i każda interwencja może go popchnąć w jedną lub drugą stronę.
+    - Kajetan zamyka się w pokoju, by pomedytować nad maską "koleżanki z pracy", gdy Viggo i Matka Iola schodzą do szklarni. Ilanie udaje się usłyszeć ich ściszoną rozmowę o tym, że Skovik jest "na granicy śmierci" i każda interwencja może go popchnąć w jedną lub drugą stronę.
 4. Cyrk na kółkach
     - Viggo odprawia nad Skovikiem jakiś rytuał. Ilana, obecna podczas obrządku, w pewnym momencie ma halucynacje, czuje intensywną woń krwi i traci kontrolę nad sobą. Wybiega do sadu, ale i tak po drodze zaczyna się zmieniać w bestię.
     - Zaalarmowany hałasem Kajetan wystawia nos i zauważa ślady - ni to zwierzęce, ni to ludzkie. Pomaga jednej z adeptek nareperować wyrwane drzwi, gdy zostaje wraz z Viggo wzięty na dywanik przez Iolę, która żąda wyjaśnień względem tego, co zaszło:
@@ -48,7 +48,7 @@
         - jeżeli złamać lub odczynić teraz klątwę, Skovik może umrzeć jeśli trucizna dojdzie do serca szybciej niż antidotum
         - Ilana, jako lykanotrop, także jest obarczona swego rodzaju klątwą; rytuał wywołał coś, co Viggo nazywa sprzężeniem zwrotnym, a więc zadziałał nie tylko na Skovika, ale też na stojącą obok {druidkę}Ilana
     - Trójka obradująca w pokoju {Matki Przełożonej}Iola odkorkowuje wyciągniętą przez Kajetana zdobyczną butelkę wina. Viggo zwraca uwagę na nietypową etykietę, głoszącą nazwę "Biały Wilk". Wino jest przednie, dobrze koi nerwy.
-    - Kajetan puszcza w ślad za Ilaną swoją sowę aby sprawdzić co dzieje się z {druidką}Ilana. Relacjonuje jej poczynania.
+    - Kajetan puszcza w ślad za Ilaną swoją sowę, aby sprawdzić co dzieje się z {druidką}Ilana. Relacjonuje jej poczynania.
     - W tym czasie Ilana biegnie na złamanie karku wprost przed siebie, w stronę gór. Wygląda jakby przemiana zatrzymała się w połowie - sam widok jest makabryczny i nie przypomina ani jednego konkretnego zwierzęcia, ani też człowieka.
     - Nie będąc w stanie kontrolować przemiany, {druidka}Ilana zamiast otoczenia widzi majaczący obraz wizji: 
         - z nicości wyłania się klęcząca, pokiereszowana postać Skovika, w tle przygrywają bębny
@@ -72,3 +72,5 @@
     - {Matka Przełożona}Iola subtelnie daje do zrozumienia, że owszem, zorganizuje rytuał, ale za daninę na rzecz świątyni. Sugeruje też, że dla odmiany {druidka}Ilana mogła by coś kiedyś zbudować miast siać zniszczenie przy każdej swojej wizycie.
     - Kajetan wysyła krótką wiadomość do Lentinusa pytając o wiwernę Dianę. Ma przypuszczenia, że to Dorregaray próbował ją wtedy uwolnić w Gors Velen, więc może stać się bardziej skłonny do pomocy jeśli usłyszy, że gad ma się dobrze.
     - Poganiany przez Ilanę {elf}Kajetan sam dzwoni do Dorregaraya. Mag prowadzi na wyspie Undvik wykopaliska, które są atakowane przez lodowych gigantów. Wymianie zdań towarzyszy straszliwy szum, jakby coś zakłócało połączenie.
+
+##### [Sesja 88](#sesja-088) [Sesja 90](#sesja-090)

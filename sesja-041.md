@@ -16,7 +16,7 @@
 3. Rozmowy (nie)kontrolowane
     - Podczas nieobecności Ilany, Kajetan tworzy swoje bezpieczne, ciepłe schronienie dla wszystkich obecnych.
     - Ivar, próbując zabić nudę lepi bałwana. Druidzi gdzieś znikają, a Skovik zdaje się być zajęty [niedźwiadkiem](Gebo). 
-    - Korzystając z faktu, że każdy zajmuje się sobą, [mag](Kajetan) próbuje zaklęcia telekomunikacyjnego i wykonuje "rozmowę zamiejscową" do Keiry Metz. Początkowo nieświadoma czarodziejka "odbiera połączenie" podczas igraszek z kochankiem...  o imieniu Lambert. Pomimo nietaktu dowiaduje się że [czarodziejka](Keira) przebywa w Port Vanis
+    - Korzystając z faktu, że każdy zajmuje się sobą, [mag](Kajetan) próbuje zaklęcia telekomunikacyjnego i wykonuje "rozmowę zamiejscową" do Keiry Metz. Początkowo nieświadoma czarodziejka "odbiera połączenie" podczas igraszek z kochankiem...  o imieniu Lambert. Pomimo nietaktu dowiaduje się że [czarodziejka](Keira) przebywa w Port Vanis.
     - Ilana dołącza wreszcie do grupy. Skovik i Gebo wychodzą jej na przeciw. Mężczyzna cieszy się na jej widok, jednak ruga ją za odłączanie się od reszty na tak długi czas.
     - Skovik zdradza Ilanie, że Finarrin uczy go jak nawiązać więź z Gebo. Udało mu się nawet nauczyć niedźwiadka kilku sztuczek.
     - Wieczorem Finarrin z Kajetanem przyglądając się gwiazdom dokonują zaskakującego odkrycia - czas w Brokilonie musi płynąć inaczej, bo na niebie widać gwiazdy na dwa dni po naszej pierwszej wizycie w Medownej
@@ -46,3 +46,5 @@
     - Ilana i Skovik udają się nad rzekę nałapać czegoś na kilka następnych dni. Wracają z całą chmarą raków i kilkoma mniejszymi rybami.
     - Finarrin dzieli się informacjami o [formorianie](Formorian). Drzewo zdaje się być dwa dni drogi od nas i zmierza na północny wschód, w stronę Gór Sinych.
     - Ilana usilnie próbuje przekonać obu wyspiarzy żeby poniechali samobójczej misji, jednak Ivar upiera się, że to jego przeznaczenie, a Skovik nie chce zostawić brata samego. Przysłuchując się ich rozmowom, Kajetan zaczyna zdawać sobie sprawę, że wbrew wcześniejszym ustaleniom, grupa się nie rozdzieli.
+
+##### [Sesja 40](#sesja-040) [Sesja 42](#sesja-042)

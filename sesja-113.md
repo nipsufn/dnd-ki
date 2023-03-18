@@ -19,10 +19,10 @@
     - Prowodyrem zamieszania może być niejaki Zygfryd z Densele związany z Zakonem Łowców - ponoć uciekł z Novigradu po śmierci Radowida.
     - Kajetan niechętnie wspomina, że wie skąd Redańczycy mogli wziąć dwimerytowe kryształy i jak osadzili je w ludzkich ciałach - zostaje poproszony przez Carduina na rozmowę o świtaniu.
 2. Wymiana informacji
-    - Zaopiekowana śmietanka rozchodzi się na nocleg. Kajetan odprowadza Mirnę do pokoju. Ilana wciąż uparcie towarzyszy Lambertowi mając co raz mniejsze nadzieje na odzyskanie tabliczki komunikacyjnej. On i drugi wiedźmin, ten z blizną, są szczególnie zacietrzewieni, chcą biec wymierzyć sprawiedliwość za atak na "ich" czarodziejki.
+    - Zaopiekowana śmietanka rozchodzi się na nocleg. Kajetan odprowadza Mirnę do pokoju. Ilana wciąż uparcie towarzyszy Lambertowi mając coraz mniejsze nadzieje na odzyskanie tabliczki komunikacyjnej. On i drugi wiedźmin, ten z blizną, są szczególnie zacietrzewieni, chcą biec wymierzyć sprawiedliwość za atak na "ich" czarodziejki.
     - Finalnie {druidka}Ilana wymienia trochę informacji o Łowcach za tabliczkę:
         - Zygfryd z Densele to syn niejakiego błędnego rycerza Eycka 
-        - biały wiedźmin znał go nim dołączył do zakonu i dziwi się, że mógłby stać za tym zamachem lub mieć związek z eksperymentami Łowców z dwimerytem
+        - biały wiedźmin znał go, nim ten dołączył do zakonu i dziwi się, że mógłby stać za tym zamachem lub mieć związek z eksperymentami Łowców z dwimerytem
         - dwójka wiedźminów przedstawia się na odchodne: białowłosy to chodząca legenda, Geralt z Rivii, Biały Wilk; ten z blizną to ten słynny Eskel, o którym przebąkiwała Triss
     - Spotykamy się w kwaterze Kajetana. {Elf}Kajetan prosi, by Ilana zaopiekowała się Mirną, gdy on będzie na spotkaniu z resztą ocalałych magów.
     - Kajetan podczas prywatnego spotkania z "Tymczasową" Radą Kapituły:
@@ -38,20 +38,23 @@
     - Nazajutrz na naradzie pada kwestia Zygfryda:
         - jako kapłan Zakonu Róży był obecny podczas negocjacji w Loc Muine, między Radowidem, a Carduinem
         - spotkanie traktowało o założeniu nowej Kapituły pod przewodnictwem Carduina i absolutnym zwierzchnictwem (czytaj, podległością) Radowida
-        negocjacje przerwała III Wojna Północna
-        - po przekształceniu przez Radowida Zakonu Róży w Łowców Czarownic, Zygfryd został głową nowej organizacji - miał pod sobą Myrtona, jak i Menge
-        - po śmierci Radowida uciekł z Redanii i słuch po nim zaginął; krąży pogłoska, że poluje na niego Myrton
+        - negocjacje przerwała III Wojna Północna
+        - po śmierci Menge i przekształceniu przez Radowida Zakonu Róży w Łowców Czarownic, Zygfryd został głową nowej organizacji - miał pod sobą Myrtona
+        - po śmierci Radowida uciekł z Redanii i słuch po nim zaginął; krąży pogłoska, że Myrton na niego poluje
     - Geralt wątpi, by Łowcy zaszyli się w Est Tayiar i tam prowadzili badania. To byłe siedliszcze samej Filippy Eilhart, kompleks podziemnych, piętrowych labiryntów, połączonych magicznymi portalami. Wiedźmin był tam, by rozmówić się z czarodziejką miast wydać ją w - jak to sam stwierdza - ręce psychopaty Radowida.
-    - Tymczasowa Rada przedstawia swój plan: wyprawa na północ odbędzie się zgodnie z oryginalnymi planami, mimo niedysponowania Triss Merigold, z korzyścią dla Tankreda Thyssenida oraz Niedamira z Caingorn. Ekipa wyruszy za dwa dni pod przewodnictwem czarodziejki o enigmatycznym imieniu Yennefer, która ponoć miała okazję zmagać się z Białym Zimnem (pustką wypełniającą przestrzeń między płaszczyznami, nie elfią bajędą) w przeszłości.
+    - W naradzie bierze udział także czarodziejka o kruczoczarnych lokach i fiołkowym, lodowatym spojrzeniu, którą kojarzymy z balu. Jej miano to Yennefer z Vengerbergu.
+    - Tymczasowa Rada przedstawia swój plan: wyprawa na Północ odbędzie się zgodnie z oryginalnymi planami, mimo niedysponowania Triss Merigold, z korzyścią dla Tankreda Thyssenida oraz Niedamira z Caingorn. Ekipa wyruszy za dwa dni pod przewodnictwem enigmatycznej pani Yennefer, która ponoć miała okazję zmagać się z Białym Zimnem (pustką wypełniającą przestrzeń między płaszczyznami, nie elfią bajędą) w przeszłości.
     - Czarodziejki z właściwej Rady będą wracać do siebie dłuższy czas.
     - W trybie natychmiastowym wiedźmini, goście Kapituły związani z magiczkami dotkniętymi wypadkiem, wyruszą na zwiad do Est Tayiar w poszukiwaniu źródła dwimerytowych kryształów. Możliwe, że zatrzymają się też w Novigradzie, by dowiedzieć się więcej o losach Zygfryda.
-    - Kajetan, i co za tym idzie, Ilana, są proszeni o udział w wyprawie na północ - w chwili obecnej, dla skrytości i prędkości, zwiad do Trupiej Knieji zostanie zostawiony samym wiedźminom.
+    - Kajetan, i co za tym idzie, Ilana, są proszeni o udział w wyprawie na Północ - w chwili obecnej, dla skrytości i prędkości, zwiad do Trupiej Kniei zostanie zostawiony samym wiedźminom.
 2. Wypad do Mariboru
-    - Mirna wraca do Kerrack samodzielnie. Zabiera ze sobą jedną z tabliczek komunikacyjnych. Jeśli nie odnajdzie w mieście Skovika celem przekazania bibelotu, zachowa go dla siebie dla ułatwienia kontaktu.
+    - Mirna wraca do Kerack samodzielnie. Zabiera ze sobą jedną z tabliczek komunikacyjnych. Jeśli nie odnajdzie w mieście Skovika celem przekazania bibelotu, zachowa go dla siebie dla ułatwienia kontaktu.
     - We dwójkę teleportujemy się do Mariboru, by Kajetan mógł zabrać stamtąd swoje ukryte fanty. Kajetan na cel obiera sobie mostek opodal wejścia do kanałów. Miasto przypomina lej pokryty grubą warstwą kurzu, pojawiamy się więc kilkadziesiąt stóp nad ziemią.
-    - Pogruchotani, schodzimy do piwnic wieży, ignorując zabezpieczenia - Kajetan jest w końcu członkiem Kapituły i zostawił na Thanned informację o naszej małej eskapadzie.
+    - Pogruchotani, schodzimy do piwnic wieży, ignorując zabezpieczenia - Kajetan jest w końcu członkiem Kapituły i zostawił na Thanedd informację o naszej małej eskapadzie.
     - Gdy przeszukujemy nasze byłe leże, zaskakuje nas Mozaik, magicznie paraliżując Kajetana.
     - Ilana, która oparła się efektowi zaklęcia, tłumaczy kim jesteśmy i co tu robimy. Zaklęcie zostaje zwolnione, a {elf}Kajetan, z trudem zachowując oburzenie i tyrady dla siebie, przeszukuje ściany, w których zostawił swój dobytek.
-    - Okazuje się, że Vicovaro znalazł i zabrał księgi z Crag An, a naprawiony przez nas Krąg, poza nakładem pracy, będzie wymagał inwestycji w granicach 5kGP - jest to ważne, gdyż umocowany nim punkt mocy trzyma się w swoim miejscu na włosku.
-    - Mozaik wypytuje co słychać na Thanned. Prosi, by po powrocie przypomnieć o niej pryncypałom.
+    - Okazuje się, że Vicovaro znalazł i zabrał księgi z Craag An, a naprawiony przez nas Krąg, poza nakładem pracy, będzie wymagał inwestycji w granicach 5kGP - jest to ważne, gdyż umocowany nim punkt mocy trzyma się w swoim miejscu na włosku.
+    - Mozaik wypytuje, co słychać na Thanedd. Prosi, by po powrocie przypomnieć o niej pryncypałom.
     - Po odtrąbieniu wygranej nad Vicovaro, Kapituła zorganizowała małe wykopaliska. Cały teren ogrodzono, a pracujący tam uczniowie zajęli się bilansem strat i zysków. To oni natknęli się na skrytkę Kajetana i uratowali jeden z artefaktów - popękaną karafkę z zatopionym w płynie kłem. Opisali płyn jako eliksir siły i przelali go do mniejszych fiolek.
+
+##### [Sesja 112](#sesja-112) [Sesja 114](#sesja-114)

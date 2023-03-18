@@ -13,11 +13,11 @@
         * w Cyklamenie około 10 dni temu gościł jakiś znany bard, niestety zniknął, by potem odnaleźć się martwy - od tamtej pory giną mniej lub bardziej zamożni ludzie, ale nie dzieci i nie starcy, co ciekawe
 2. Okoliczny folklor
     * Wyruszamy znaleźć rzemieślnika strugającego wieżę {maga}Kajetan, do szemranej części aglomeracji, której radzono nam unikać.
-    * W drodze mijamy tawernę. Zwabiona skoczną melodią Ilana nalega aby zatrzymać się w melinie "Pod Krabem i Beloną", kusząc piwem. Piwo okazuje się kwaśne i słabe, ale krótkowłosa, urocza minstrelka śpiewa o okolicznym wilkołaku, którego kila dekad temu odczarował wiedźmin miast bestię ubić. Historia rzecze, że chłop ten został jednak wygnany przez nieufnych wieśniaków.
+    * W drodze mijamy tawernę. Zwabiona skoczną melodią Ilana nalega, aby zatrzymać się w melinie "Pod Krabem i Beloną", kusząc piwem. Piwo okazuje się kwaśne i słabe, ale krótkowłosa, urocza minstrelka śpiewa o okolicznym wilkołaku, którego kila dekad temu odczarował wiedźmin, miast bestię ubić. Historia rzecze, że chłop ten został jednak wygnany przez nieufnych wieśniaków.
     * Przy jednym ze stołów zaczyna się robić tłoczno od wytykających nas bywalców-obwiesiów. Pomimo marudzenia i protestów Kajetana, wysłuchujemy całego utworu. Ilana zauważa też jakiegoś zakapturzonego jegomościa przyglądającego nam się z cienia półpiętra nad barem.
     * Piosenka się kończy, opuszczamy lokal i udajemy się do wyspiarzy Kajetana. Za nami idzie pół tuzina obwiesiów z tawerny - jeden miast ręki ma hak rybacki.
     * Oprychy nie dadzą nam spokoju dopóki nie odejmą {elfowi}Kajetan ręki, którą ich prowodyr stracił w niedawnym spotkaniu z magiem na molo.
-    * Wywiązuje się krótka utarczka, z której menele uciekają spanikowani znikającymi ludźmi, wilkołakiem i błyskawicami.
+    * Wywiązuje się krótka utarczka, z której menele uciekają przerażeni znikającymi ludźmi, wilkołakiem i błyskawicami.
     * Kajetan, z roztrzaskanym łukiem brwiowym, zarządza wycieczkę do urzędnika celem wprowadzenia poprawki do magowskiego glejtu - w końcu nie planował i nie uiścił opłaty za czarowanie wewnątrz miasta.
     * Odsyłani od jednego do drugiego, trafiamy do Baszty Morderców, za którą jest parczek z pomnikiem kogoś przypominającego kapitana - Króla Osmyka I.
 3. Ciekawe historie
@@ -27,13 +27,13 @@
         * magom nie wolno posiadać w mieście nieruchomości
         * za opłatę za czarowanie uiszczoną po fakcie, pomimo użycia w obronie własnej, zostaje naliczona dodatkowa opłata
         * Instygator jest skłonny wypłacić 300gp (netto, więc 650 w sumie) za rozwiązanie kwestii tajemniczych zniknięć/morderstw
-        * zaczęło się rzeczywiście od barda Marida z Vole, zdaniem Ferranta, otrutego
+        * zaczęło się rzeczywiście od barda Marrida z Vole, zdaniem Ferranta, otrutego
         * Mirna jest przesłuchiwana, ponieważ możliwe, że domniemana trutka wyszła z jej warsztatu pod nieobecność druidki
         * reszta zwłok nosiła ślady niekonwencjonalnej śmierci - możliwe, że magicznej: ktoś spadł z bardzo wysoka, ktoś inny zginął od końskich kopyt, choć w mieście koni jak na lekarstwo
         * minstrel pojawiał się w mieście może raz do roku, niezbyt regularnie
         * dziewczyny pracujące rotują i mieszkają w Sotoninie, odpowiada za nie Jenne
         * urzędnik uważa, że w sprawę może być zamieszany właściciel Cyklamenu, Konrad de Vett, i jego prawa ręka, Bron
-    * Opuszczamy Basztę, by spróbować wreszcie znaleźć rzemieślnika z wysp, Nikolaia.
+    * Opuszczamy Basztę, by spróbować wreszcie znaleźć rzemieślnika z Wysp, Nikolaia.
     * Znajdujemy go wpatrzonego w horyzont. Przy chatce, z której widać zatokę i port, starszy pan opowiada nam o opóźnieniu - jego wnuk, Otyg, miał mu przywieźć z Cidaris specjalne dłutko, ale jeszcze nie wrócił. Jeśli pomożemy go odnaleźć - i narządko - praca będzie terminowa, obiecuje też upust, którego Kajetan uprzejmie odmawia.
     * Dowiadujemy się, że chłopak szedł na północ, raczej przez Vole.
     * Kajetan przedstawia Skovika jako druida, ale fortel chyba się nie udaje. Skovik i Nikolai zdają się rozpoznawać siebie nawzajem, każdy z opowieści.
@@ -54,11 +54,13 @@
         * mag miał też styczność z Wranami, uniknął losu Kajetana usuwając ciało ze swojej ręki - pod rękawicą nie ma nic poza animowanymi kośćmi
         * "Wężowa Pani" w Risbergu była efektem eksperymentów magów z genami Wranów
         * {jaszczuroludzi}Wran wybiła pospolita grypa
-        * strażnik "zero" został stworzony przez maga, o którym już słyszeliśmy w kontekście góry Cremora, ale którego imię spowite jest tajemnicą
+        * strażnik "zero" został stworzony przez maga, o którym już słyszeliśmy w kontekście Góry Cremora, ale którego imię spowite jest tajemnicą
         * w Cytadeli znajduje się szkielet Wrana, któremu, z pomocą Zangenisa, można by zadać kilka pytań
         * do czegoś takiego trzeba by jednak unieszkodliwić strażników
         * tych tematów generalnie nie porusza się wśród magów
-        * Kapituła zakopała coś na pogórzu Tukajskim, co ma z tym związek i może odpowiedzieć na część naszych pytań, a potem można się zastanowić co zrobić ze strażnikami
+        * Kapituła zakopała coś na pogórzu Tukajskim, co ma z tym związek i może odpowiedzieć na część naszych pytań, a potem można się zastanowić, co zrobić ze strażnikami
     * Ilana dobija się do pokoju Kajetana i Mirny, prosząc o dwa kryształy komunikacyjne do Ivara. Kajetan, wybity z wisielczego humoru rozmową z kolegą po fachu, daje jej je bez namysłu.
-    * Noc mija spokojnie i stosunkowo przyjemnie mimo zgryzot.
+    * Noc mija spokojnie i _stosunkowo_ przyjemnie mimo zgryzot.
+
+##### [Sesja 85](#sesja-085) [Sesja 87](#sesja-087)
     

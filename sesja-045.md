@@ -11,12 +11,12 @@
         - zwierzchnik duchowieństwa wziął się za magów i im podobnych
         - w mieście zakazana i tępiona z ramienia kościoła jest nie tylko magia, ale też alchemia, zielarstwo, a i cyrulików się przegania
         - będąc właściwie na granicy, z dala od [serca kultu](Novigrad) i rozmawiając ze "swoim" - krasnoludem - żartujemy sobie z [pontyfikowanego](Hemmelfart)
-        - krasnolud przytacza zabawną rymowankę o wielebnym: _"o wielebnym Hemmelfartcie, któremu w głowie tylko kurwy i żarcie"_.
+        - krasnolud przytacza zabawną rymowankę: _"o wielebnym Hemmelfartcie, któremu w głowie tylko kurwy i żarcie"_.
     - Układamy się na nocleg w jednej z dwóch powstających, wielkich izb póki-co-bezimiennej karczmy. Noc przebiega spokojnie i bez zakłóceń. W izbie oprócz nas nocują robotnicy. Sam właściciel zaś zajmuje drugą, równie przestronną izbę, zaadaptowawszy ją natenczas na swój tymczasowy pokój.
 3. Przydrożne atrakcje
     - Po śniadaniu bez zbędnego mitrężenia ruszamy w dalszą drogę. Jak dowiedzieliśmy się od Morgana, do Mayeny powinniśmy trafić przed zmrokiem jeśli tylko będziemy trzymać się traktu. Od Mayeny do Brugge czekają nas kolejne 4 dni drogi.
     - Na odchodnym Kajetan rzuca propozycję nazwy dla nowo powstającego przybytku: _"W pół drogi"_.
-    - W okolicy południa na drogę przed nami zwala się drzewo. Wykorzystując element zaskoczenia zachodzi nas od tyłu banda rabusiów, która to "pomogła" się drzewu przewrócić.
+    - W okolicy południa na drogę przed nami zwala się drzewo. Wykorzystując element zaskoczenia zachodzi nas od tyłu banda rabusiów, która to "pomogła" drzewu się przewrócić.
     - Ilana wdaje się w krótką wymianę zdań z przywódcą rabusiów dumnie opierającym się o zwalony konar. Pyta dla kogo ci zbierają "podatki" za przejście tym odcinkiem traktu - zostaje zbyta debilnym żartem.
     - Kajetan, mając dość głupich odzywek szemranych typków w ułamku sekundy teleportuje się za plecy domorosłego herszta bandy, przystawiając mu sztylet do gardła. Zaskakuje tym wszystkich, z Ilaną włącznie. Druidka jednak szybko podłapuje sytuację i próbuje zastraszyć resztę kmiotków.
     - Czterech z szóstki niedoszłych rabusiów natychmiast rzuca broń i ucieka traktem w stronę zajazdu zostawiając za sobą kłęby pyłu i swojego herszta. Z pozostałej dwójki tylko jeden łotr dalej dzierży kuszę pomimo gróźb Kajetana obiecującego poderżnąć gardło ich szefa jeśli się nie oddalą i nie zostawią nas w spokoju.
@@ -26,7 +26,7 @@
     - [Mag](Kajetan) pali buty w zaaranżowanym naprędce ognisku, kiedy dołącza do niego Ilana. Druidka ostrzega, że pomimo dziennej pory w lesie panoszą się ghule i że powinni czym prędzej ruszać dalej - tak, by w Mayenie nie zastała ich noc.
 4. Tajemniczy posłaniec
     - Na moście koło Mayeny zaczepia nas kruk. Zwierzę krąży nad nami, po czym "atakuje" Ilanę. Druidka zdejmuje mu z szyi tubus ze zwojem. Pergamin jest pusty.
-    - kruk nalega żeby podpisać papier. Z rozmowy z nim Ilana dowiaduje się, że jest on przyzwańcem [magistra Floriana](Florian), a także, że kiedyś był sową dopóki ta go nie zestrzeliła (za co nawiasem chowa do niej lekką urazę).
+    - Kruk nalega żeby podpisać papier. Z rozmowy z nim Ilana dowiaduje się, że jest on przyzwańcem [magistra Floriana](Florian), a także, że kiedyś był sową dopóki ta go nie zestrzeliła (za co nawiasem chowa do niej lekką urazę).
     - Zwój jest magiczny. Kajetan bardzo nieufnie odnosi się do podpisywania czegokolwiek _in blanco_, ale ostatecznie stawia swoje inicjały na papierze, rozpoczynając tym pisemną rozmowę z magiem z Brugge.
     - Od samego Floriana dowiadujemy się dlaczego od ostatniego wieczora każda próba kontaktu z nim kończyła się fiaskiem - mag zamknął się w pracowni obwarowany magicznymi ekranami. Ten zwój ma umożliwić bezpieczną metodę wymiany wiadomości w czasie rzeczywistym, bez ryzyka, że ktoś je przechwyci.
     - [Mag](Florian) prosi nas o nietypową rzecz - mamy dostarczyć mu możliwie duży fragment menhiru z Mayeny. Ma on stanowić istotny komponent w rozprawie z Larsem.
@@ -36,7 +36,7 @@
 5. Karkołomne zadanie
     - Nad ranem Kajetan relacjonuje Ilanie nocne zajście. Druidka rusza odszukać wypłoszone luzaki w nadziei, że na ich grzbiecie szybciej dotrą do Brugge.
     - Ilana odnalazłszy konie stwierdza, że tylko jeden z nich nadaje się do jazdy. Próby uleczenia drugiego z połamanymi nogami kończy coś, co wyciąga swe macki z rzeki i wciąga konia do wody.
-    - Na końskim grzbiecie we dwójkę wjeżdżamy do miasta. To, co rzuca się momentalnie w oczy to rozmaite, stosunkowo świeże ludzkie członki porozrzucane po okolicy. Widać, że po zniknięciu dybuka ludzie zaczęli częściej zaglądać do Mayeny, a ghule wyraźnie mają z tego używanie.
+    - Na końskim grzbiecie we dwójkę wjeżdżamy do ex-miasta. To, co rzuca się momentalnie w oczy to rozmaite, stosunkowo świeże ludzkie członki porozrzucane po okolicy. Widać, że po zniknięciu dybuka ludzie zaczęli częściej zaglądać do Mayeny, a ghule wyraźnie mają z tego używanie.
     - Koń stąpa niespokojnie, boczy się i trzeba go popędzać żeby kroczył do celu. Będąc już w centrum wspólnymi siłami wybieramy menhir na tyle uszkodzony, by odłupanie z niego kawałka nie stanowiło zbyt dużego wyzwania.
     - Zamiast sięgnąć po oczywiste, acz bardzo głośne rozwiązania jak zaklęcie Kajetana, które potrafi roztrzaskać i skruszyć wszystko, co nieożywione, podchodzimy do problemu z głową i rozwagą. Ilana używa swoich druidycznych zdolności, aby zachęcić rośliny do wyrastania ze szczelin kamienia. [Elf](Kajetan) zaś "podlewa" rośliny, tworząc wystarczające ciśnienie w szczelinach aby kawał menhiru zwyczajnie odpadł od reszty.
     - Nasze starania zostają nagrodzone, ale kiedy pakujemy kamień do torby i już mamy dosiąść konia, dookoła robi się jakby niespokojniej. Nasze poczynania musiały zaalarmować ghule, bo jedna z poczwar zaczyna nas gonić.
@@ -45,3 +45,5 @@
     - Zdezorientowany ghul nie będąc w stanie zlokalizować źródła ataku, ucieka w popłochu.
     - Reszta nocy przebiega już bez dalszych zakłóceń. Przed snem Ilana wysyła posłańca z wiadomością do Finarrina.
     - Elf porozumiewa się z [Vicovaro](Florian) - mag jest zadowolony z rozmiaru kamienia który udało się nam pozyskać. Planujemy zostawić go na granicy (mag chciał aby dostarczyć go bezpośrednio, jednak nie jest to naszym zdaniem dobry pomysł, domyślamy się że od przekroczenia granicy będziemy mieli krótką "smycz").
+
+##### [Sesja 44](#sesja-044) [Sesja 46](#sesja-046)

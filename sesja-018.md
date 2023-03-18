@@ -34,7 +34,7 @@
     - Kikimory oddalają się w stronę polanki, którą rozważaliśmy jako drugą opcję noclegu, po czym znikają w tunelu pod ziemią.
     - Nad ranem Kajetan wydaje się być najbardziej zniesmaczony tym nocnym "atakiem" z całego towarzystwa. Upiera się, że będzie przeskakiwał (używając magii) z drzewa na drzewo aż mu zabraknie sił. 
     - W swoim stuporze i rozsierdzeniu nie zwraca uwagi na nagłe drżenie podłoża.
-    - Ilana komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony Kajetan obrażony na Brokilon i na cały świat, odmawia, przez co niemal pada ofiarą ogromnych skolopendrów (które spotkali już kiedyś w Ellander w drodze do świątyni). Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
+    - Ilana komenderuje natychmiastową ewakuację na drzewa, ale naburmuszony Kajetan obrażony na Brokilon i na cały świat, odmawia, przez co niemal pada ofiarą ogromnych skolopendrów (które spotkaliśmy już kiedyś w Ellander w drodze do świątyni). Na szczęście udaje mu się z pomocą magii szybko umknąć na drzewo.
 2. [Wioska druidów](Wioska)
     - O zmierzchu docieramy do Wioski, która jest dziwnie opustoszała. W samej wiosce panuje pogoda późno-letnia lub wczesno-jesienna:
         - drzewa nadal mają liście
@@ -55,6 +55,8 @@
         - razem z Kajetanem przeszukuje zwoje w chatkach po starszyźnie; szuka głównie czegoś, co traktowałoby o tajemniczym rytuale Skovika albo czymś zbliżonym, w tematyce przemiany w zwierzęta
         - wypytuje Mirnę o szczegóły zajścia podczas rytuału
         - rozmawia z Verenestrą - chce odwiedzić Finarrina w Col Serrai albo chociaż przekazać mu wiadomość
+        - pomaga każdemu z drużyny znaleźć sobie tymczasowy kąt w Wiosce; Skovika przygarnia do siebie, to jest pod dach Finarrina
+        - podczas jednych z nocnych igraszek, a także przy wizytach w spiżarni kilkakrotnie zauważa i przegania jakiegoś upierdliwego, panoszącego się szopa 
     - Kajetan:
         - przeszukuje zwoje w chatce Finarrina,
         - pomaga druidom w wiosce (tak długo jak nie musi zadawać się ze zwierzętami)

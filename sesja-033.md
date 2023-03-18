@@ -39,3 +39,5 @@
     - Ilana rozpoznaje w kręgu pismo Druida Ivryna, co popycha Kajetana do pochopnego wniosku, że cokolwiek ten tu zrobił nie było to dobre - wyrywa broń z drzewa, łamiąc urok, który, okazuje się, powstrzymywał je przed zaatakowaniem drużyny.
     - Zmuszeni sytuacją uciekamy z polany i wyruszamy w dalszą drogę.
 
+##### [Sesja 32](#sesja-032) [Sesja 34](#sesja-034)
+

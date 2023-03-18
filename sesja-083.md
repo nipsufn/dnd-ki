@@ -7,7 +7,7 @@
         - Craag An to zatrzymana w czasie kopia Duen Canell
         - cokolwiek ginie po jednej stronie kopuły, umiera także po drugiej i vice versa
         - dwa drzewa będące centrum miasta powodują paradoks, efektem którego są nienaturalne bestie wciąż pojawiające się w {lesie}Brokilon
-        - Eithne chce zniszczyć Craag An by ustabilizować swoją stolicę, a Ivar decyduje się jej pomagać, ponieważ to jedyny sposób w jaki jego zdaniem można rozwiązać patową sytuację w jakiej od wieków trwa Brokilon
+        - Eithne chce zniszczyć Craag An by ustabilizować swoją stolicę, a Ivar decyduje się jej pomagać, ponieważ to jedyny sposób, w jaki jego zdaniem można rozwiązać patową sytuację, w jakiej od wieków trwa Brokilon
         - młodzian próbował nawiązać kontakt ze swoim patronem, Galawainem, bezskutecznie
     - Spotykamy się wszyscy na śniadaniu. Finarrin trafnie zauważa, że Ivarowi wyostrzył się nieco dowcip, młodzian stał sie też bardziej butny odkąd zadaje się ze {starą driadą}Eithne. Następuje ciąg dalszy sprzeczki z Ilaną, którą kończy odejście poirytowanej {druidki}Ilana od stołu.
     - Na "spacerze" Ilanę dogania Skovik, rozumiejąc doskonale z autopsji przyczyny nerwów {dziewczyny}Ilana. Dwójka rozmawia chwilę o Ivarze. 
@@ -18,13 +18,13 @@
     - Kajetan rozmawia z Verenestrą, a raczej jej nowym wcieleniem. Dowiaduje się, że Formorian jest jak jemioła - nie zabija swojego nosiciela, który z resztą nosi w sobie coś, co bestię przyciąga.
     - Ilana kontaktuje się z Keirą. Czarodziejka jest zajęta konfliktem w Aedirn. Tłumaczy, że Formoriana najłatwiej będzie przyzwać destabilizując na powrót punkt mocy pod Carreras wraz z kilkoma innymi, okolicznymi. Poleca szukać pomocy u Zangenisa.
     - Próbujemy skontaktować się z Larsem. Mag-renegat jest w posiadaniu przedmiotu, który mógłby nam pomóc w teatrzyku dla Lloyda, ale przebywa gdzieś daleko i nie ma zamiaru się fatygować.
-    - Kajetan zaprasza więc do wioski Zangenisa - konfratra, który jego zdaniem będzie skłonny pomóc mniej interesownie niż pozostali magowie.
+    - Kajetan zaprasza więc do wioski Zangenisa - konfratra, który jego zdaniem będzie skłonny pomóc mniej interesownie, niż pozostali magowie.
     - Stucco Zangenis przybywa do wioski:
         - jest nieco rozbawiony "rustykalnym" otoczeniem
         - bez względu na motywację zdaje się być mile zaskoczony, że zamierzamy posprzątać bałagan po sobie
         - propozycje Keiry co do sposobu sprowadzenia naszego wroga na tą płaszczyznę określa jako "mało finezyjne", sprawia jednak wrażenie jakby miał na myśli "prostackie"
         - przekazuje nam artefakt, serce wykute w czarnym kamieniu, które powinno pozwolić nam przyzwać Formoriana w Medownej albo miejscu, z którego go odprawiliśmy ostatnim razem
-        - stabilizuje swoją skrzynię Leomunda wprowadzając do formuły zaklęcia rekurencję
+        - zdradza zaciekawionemu Kajetanowi, że stabilizuje swoją skrzynię Leomunda wprowadzając do formuły zaklęcia rekurencję
 3. Przedstawienie
     - {Elf}Kajetan z pomocą swojego chowańca zauważa dziwnego, samotnego konnego jadącego w stronę lasu od Brugge. Domyśla się, że to Lloyd.
     - Jeździec zatrzymuje się na skraju rzeki, jakby koń nie chciał dalej ruszyć. Dowiadujemy się, że to Eithne i Galawain wzmocnili barierę wokół lasu, która zabrania nieżywym wstępu.
@@ -40,3 +40,5 @@
     - Po walce odwiedza nas {Lusterko}Gaunter. Jakby nieco sarkastycznie gratuluje sprytu i oznajmia, że kontrakt został wypełniony. Wyrywa z bezgłowego ciała czarne serce i na naszych oczach zamienia je w kamień, który niemal natychmiast rozsypuje się w pył.
     - Kajetan przygląda się chwilę szabli, którą to upiór dokonał swego żywota, ale po krótkim namyśle ciska ją do rzeki.
     - Umęczeni walką, pobrużdżeni, myślimy nad rozbiciem obozu na noc, aby rano ruszyć na powrót do wioski, obwieścić dobrą nowinę.
+
+##### [Sesja 82](#sesja-082) [Sesja 84](#sesja-084)

@@ -64,3 +64,5 @@
         - u boku ostrze wykute z meteorytu, z ułamanym samym końcem, zwykle używane do tworzenia zaklętej broni - cokolwiek się wydarzyło, musiało być dość potężne aby złamać zaklęcie zanim mogło uszkodzić broń
         - w ręku kryształ z żółtym światełkiem, przypominającym nieco kryształ z duszą dziecka, który znaleźliśmy pod Carreras
     - Zabieramy znaleziska i udajemy się w dalszą drogę. Melodia prowadzi nas z dala od młodnika, który zdaje się stawać coraz bardziej dziki i... odstręczający, szczególnie w kierunku, w którym musiała niegdyś stać wieża, broniąc dostępu do swojego [serca](Duen Canell).
+
+##### [Sesja 26](#sesja-026) [Sesja 28](#sesja-028)

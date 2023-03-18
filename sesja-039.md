@@ -23,7 +23,7 @@
     - Gdy reszta drużyny budzi się, a [gość](Lanemin) wciąż śpi, dyskutujemy o jego przybyciu. Rozmowa schodzi na dalsze plany i szeroko pojęte światopoglądy. 
     - Ilana wtrąca niemal niesłyszalną uwagę na temat Kajetana, jakoby pisał się na tą samobójczą wyprawę do Craag An między innymi ze względu na Mirnę, na którą [mag](Kajetan) reaguje dosyć złośliwym docinkiem.
     - Między dwójką wywiązuje się nieszkodliwa utarczka, podczas której Ilana próbuje dać Kajetanowi kuksańca w bok. [Elf](Kajetan), nadal wzburzony uwagą [druidki](Ilana), osłania się magią przed lecącą w stronę swojego ramienia pięścią dziewczyny. 
-    - Sytuację próbuje spacyfikować Finarrin, kwitując całą sytuację stwierdzeniem, że zawiódł jako ojciec, czym przelewa czarę goryczy młodej kobiety. 
+    - Kłótnię próbuje spacyfikować Finarrin, kwitując całą sytuację stwierdzeniem, że zawiódł jako ojciec, czym przelewa czarę goryczy młodej kobiety. 
     - Oboje - zarówno Kajetan jak i Ilana - biorą (niesłusznie) owo stwierdzenie do siebie, co kończy się urwaniem dyskusji ze strony [druidki](Ilana) i wyjściem, tym razem jednak bez trzaskania drzwiami.
     - Ilana idzie do kuźni, chcąc wyładować złość i nerwy podczas rozbrajania kostura Ivryna. Po tym jak Ivar wyjawił, że prawie wyszczerbił swoją starą broń próbując przeciąć kij arcydruida, dziewczyna wie już czego należy użyć do pozbycia się metalowego czubka.
     - Kajetan z Ivarem także po chwili zjawiają się w kuźni. Ilana, dalej będąc obrażoną na Kajetana, zostawia ich z oboma kijami - swoim i tym spaczonym - a sama wychodzi zaszyć się w odosobnieniu.
@@ -33,3 +33,5 @@
     - Pozbywszy się złych myśli, z kilkoma nowymi siniakami i obitymi żebrami [druidka](Ilana) zapuszcza żurawia do kuźni. Broń jest niemal gotowa, jej kostur jednak nie był potrzebny. Kajetan, widząc lekką poprawę nastroju u druidki, zagaja rozmowę.
     - Dwójka w spokoju wyjaśnia sobie swoje motywacje oraz plany na najbliższą przyszłość. Rozmowę przerywa im Aen Drisichean, który chce dowiedzieć się więcej o tym co działo się w czasie jego wielowiekowej "niedyspozycji".
     - Ilana podejmuje próbę wyjaśnienia i udowodnienia Laneminowi, że jej zdolności to nie choroba i że jest w stanie nad tym zapanować jeśli tylko zechce.
+
+##### [Sesja 38](#sesja-038) [Sesja 40](#sesja-040)

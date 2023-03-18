@@ -5,9 +5,9 @@
 	- Zaczynamy metodycznie przeszukiwać pokoje na pierwszym piętrze - jest ich siedem:
 		1. Zawalony pokój pełen gruzu.
 		2. Pokój o drewnianych drzwiach zamkniętych na klucz.
-		3. Pokój przypominający salę wykładową, a w nim zwłoki elfki w błękitno-szarej szacie z srebrnym haftem przypominającym szron. Ma sztylet, którym odebrała sobie życie podcinając żyły, medalion przypominający przepustki, ale bardziej zdobiony, oraz notatkę:
+		3. Pokój przypominający salę wykładową, a w nim zwłoki elfki w błękitno-szarej szacie ze srebrnym haftem przypominającym szron. Ma sztylet, którym odebrała sobie życie podcinając żyły, medalion przypominający przepustki, ale bardziej zdobiony, oraz notatkę:
 			- "_Jeśli to czytasz, nie roń za nami łez - sami sobie na to zasłużyliśmy. Ten wybuch, ta moc... Ci szaleńcy dopięli swego, Wieża Kruka została otwarta. Nie popełnijcie naszych błędów - Arkanistka Riv'yvre_"
-			- Mając 6 medalionów, po jednym dla każdego członka drużyny, do poszukiwań dołącza grupa spod posągu - Ilana i bracia wyspiarze. Od tego momentu badamy pokoje wspólnie.
+			- mając 6 medalionów, po jednym dla każdego członka drużyny, do poszukiwań dołącza grupa spod posągu - Ilana i bracia wyspiarze; od tego momentu badamy pokoje wspólnie
 		4. Pokój pełen gablot i półek, a w nim:
 			- ogromna czaszka z 6-cioma rogami (taka jak ta z szkieletu, któremu uciekliśmy w Ellander), otoczona odłamkami czarnego szkliwa (takiego z jakiego wykonany był topór, którego pozbył się w Carreras Kajetan)
 			- rycina przedstawiająca bestię składającą się z unoszącej się nad ziemią głowy z jednym okiem, otoczoną mackami, przypominająca te, które spotkaliśmy w Mariborze
@@ -38,7 +38,7 @@
 		- wewnątrz (co sprawdzili Ilana i Finarrin zaglądając przez okno) wszystko leży na środku pokoju w nieregularnej kupie, jak gdyby nastąpiła jakaś implozja; po pokoju lata czaszka strzegąca gabinetu
 		- piwnica - okrągły pokój o 8 ścianach, z 7 pięknymi freskami krajobrazów; na suficie nocne niebo, takie, jakie widzieliśmy podczas Dwuksiężycowej Nocy; na ziemi krąg teleportacyjny, oznaczony jako punkt początkowy (wygląda na to, że Ivryn coś tu kombinował)
 	- Kajetan zaczyna kaszleć i wyczuwać magię w rzeczach, których dotyka
-	- na parterze znajdujemy prosektorium z ciałami zezwierzęconych elfów, inne pokoje oraz trzy posągi:
+	- Na parterze znajdujemy prosektorium z ciałami zezwierzęconych elfów, inne pokoje oraz trzy posągi:
 		1. Corneiros - włócznia (przypominająca tą, którą Ivryn spętał drzewo) i księgi na ręce; "_Pierwszy Zaklinacz, Ostatni z Rycerzy_"
 		2. Mordekeinen - stoicka poza, łysy; "_Założyciel Akademii, Prawa Ręka Galawaina_"
 		3. Riv'yvre - przyjazne spojrzenie, warkocz; Arkanistka
@@ -62,3 +62,5 @@
 		- zmartwychwstały nie jest nam w stanie zdradzić imienia Królowej Cierni - rusza ustami, lecz nie słyszymy dźwięku, pióra i węgiel przestają pisać; jest to klątwa, którą obłożył jej imię sam [król](Galawain)
 		- zapytany o wojnę domową, ocalały nabiera wody w usta
 		- elf, oprócz starszej mowy, nie zna żadnego z języków, którymi posługuje się reszta drużyny
+
+##### [Sesja 34](#sesja-034) [Sesja 36](#sesja-036)

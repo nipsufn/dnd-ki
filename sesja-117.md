@@ -6,7 +6,7 @@
     - Yennefer i Zavist łatają wyrwę, którą wrócił Kajetan.
     - Udajemy się na krótki odpoczynek na Zamku Niskim. {Czarodziejka}Yennefer wypytuje {elfa}Kajetan o statek, na którym się znalazł i jego załogę.
     - W końcu wyruszamy na Zamek Wysoki. Czarne cielsko póki co nie przejawia agresji w naszym kierunku, ogólnie jakby mało się rusza. Obwiązujemy się liną i decydujemy w takim orszaku przekroczyć most.
-    - Przez kilka źle postawionych korków most rozsypuje się pod nami. Przebiegamy po jego magicznie podtrzymywanych przez Kajetana fragmentach nim rozpada się kompletnie.
+    - Przez kilka źle postawionych korków most rozsypuje się pod nami. Przebiegamy po jego magicznie podtrzymywanych przez Kajetana fragmentach, nim rozpada się kompletnie.
     - Będąc już po drugiej stronie dostrzegamy, że drzwi głównego zamku są w całości wykonane z litego kamienia. Potwór, który wygląda na zaklinowanego w przedsionku [(10)](#sesja-117#mapa), leży na jakimś człowieku. Przypomina olbrzymiego ogara i drga w konwulsjach. Z czubka jego czaszki wystaje jakieś ostrze.
     - Dobijamy żywiołaka lodu, który odsłania trupa. Nieszczęśnik zginął utkwiwszy swój rapier w łbie potwora. Broń jest magiczna (lub została umagiczniona w zetknięciu z posoką żywiołaka), ostrze ma bladoniebieski kolor. Gdy łeb potwora pada z odłamanym ostrzem, miecz zaraz tworzy nowe, identyczne.
     - W drugiej ręce trupa pokrytej tatuażem przypominającym zerwaną pajęczynę, Ilana znajduje wiedźmiński medalion Gryfa. Ku niezadowoleniu Zavista, {wiedźma}Yennefer postanawia przepytać zwłoki:
@@ -39,7 +39,9 @@
     - Wśród rozpoczętych fundamentów widać migający biały i czarny portal, zdają się być w tym samym miejscu. Z białego wypadają okruchy lodu budujące piramidę.
     - Zastanawiamy się, gdzie też może przebywać Stregobor. Kajetan używa swojego zaklęcia komunikacji i ustala, że jeden z portali tu na górze musi należeć do zaginionego maga.
     - Starsi magowie zaczynają zamykać biały portal - wierzą, że czarny może należeć do Stregobora i poszło z nim coś nie tak.
-    - Ilana broni resztę drużyny przed potężnym żywiołakiem lodu - piramidą - którego ostatecznie udaje jej się zrzucić ze stromego zbocza.
+    - Ilana broni resztę drużyny przed przeobrażoną piramidą - potężnym żywiołakiem lodu, którego ostatecznie udaje jej się zrzucić ze stromego zbocza.
     - Kajetan odpędza co mniejsze bestie przedzierające się przez zamykany właśnie portal.
     - Czarodziejom udaje się zamknąć przejście do Białego Zimna. Stoimy przed ustabilizowanym czarnym portalem.
     ![mapaSesja117](https://github.com/nipsufn/dnd-ki/raw/master/img/mapaSesja117.jpg "mapaSesja117")<a id="mapa"></a>
+
+##### [Sesja 116](#sesja-116) [Sesja 118](#sesja-118)

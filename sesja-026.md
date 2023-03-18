@@ -28,7 +28,7 @@
         - temperatura jest zdecydowanie zbyt wysoka jak na tę okolicę i obecną porę roku
     - Kiedy druidka podchodzi bliżej i zagląda przez okno, motyle kłębią się wokół niej wyraźnie zainteresowane.
     - Drzwi są zamknięte, a u ich dołu widać ślady drobnych pazurków (możliwe, że szopa). Korzystając ze znanej sobie skrytki mentorki, Ilana szybko znajduje zapasowy klucz i otwiera drzwi.
-    - W środku panuje półmrok. Na łóżku leży trochę porozrzucanych ubrań. Na trójnogu za biurkiem stoi tarcza strzelnicza z przybitymi kawałkami pergaminu, a na nich imiona: Madame Karoll, Faolitarna, Rayla, [Yaewin](Yaevinn).
+    - W środku panuje półmrok. Na łóżku leży trochę porozrzucanych ubrań. Na trójnogu za biurkiem stoi tarcza strzelnicza z przybitymi kawałkami pergaminu, a na nich imiona: Madame Karoll, Faolitarna, Rayla, Yaevinn.
     - Ilana, nie mitrężąc, wrzuca w prześcieradło co bardziej użyteczne rzeczy:
         - ubrania
         - deskę ze strunami okazującą się być gusli - instrumentem popularnym w Kaedwen
@@ -45,7 +45,7 @@
     - Powoli schodzimy się na śniadanie. Ilana z Kajetanem i Mirną nakrywają do stołu, kiedy do towarzystwa dołącza Finarrin prowadząc Enid, nie do końca zadowoloną z tak widocznie okazywanej jej troski.
     - Między [partnerką Finarrina](Enid), a Kajetanem dochodzi do wymiany uprzejmości. Ku zdziwieniu wszystkich, a w szczególności samego elfa, Enid nie reaguje agresywnie, a wręcz przeciwnie, choć tradycyjnie nie przebiera w słowach i wali prosto z mostu, komentując przy tym "poprawę gustu Mirny".
     - Okazuje się że wracająca do zdrowia mentorka wyjątkową antypatią darzy Wiewiórki, a nie wszystkich elfów
-    - Widząc zbliżających się do stołu wyspiarzy, Enid bezceremonialnie pyta Ilanę, z którym z nich druidka się spotyka.
+    - Widząc zbliżających się do stołu wyspiarzy, Enid bezceremonialnie pyta Ilanę, z którym z nich druidka się spotyka. Najwyraźniej szop-Enid widział zbyt mało rozpoznawalne fragmenty, by mogła sama odgadnąć.
     - Nastroje przy stole poprawiają się dzięki luźnej dyskusji i butelce spirytusu, sztuczką "przyprawionej" przez Kajetana smakiem bimbru z mandragory (Enid też rozpoznaje ten trunek, podoba jej się sztuczka). Sielski nastrój przerywa dopiero przybycie Aen Eldrin.
     - Czwórca pyta, kiedy planujemy wyruszyć w drogę. Przynosi też po jednym darze od każdego z elfów: 
         - od Tytanii dla Skovika - pukiel włosów gorejących jak płomień
@@ -58,3 +58,5 @@
     - Towarzystwu powoli wraca humor, choć Ivar jest wciąż zaszokowany informacją o własnym zmartwychwstaniu.
     - Enid prosi Skovika o mały sparring w ramach rozruszania zastanych mięśni. Wyspiarz zgadza się niepewnie po dłuższej chwili namysłu i zachęcie ze strony Ilany. Zostaje nieźle obity, choć i Enid też porządnie obrywa. Wynik pojedynku zostaje podyktowany jednak na korzyść starszej druidki.
     - Reszta dnia upływa na dostrajaniu się do otrzymanych darów i wypróbowywaniu ich.
+
+##### [Sesja 25](#sesja-025) [Sesja 27](#sesja-027)
