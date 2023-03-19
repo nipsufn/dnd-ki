@@ -102,7 +102,7 @@
                     - odpis traktatów alchemicznych z Crag An
                     - Księga Malaspiny w nieznanym dialekcie Starszej Mowy
             - Komponenty:
-                - 2 butelki nalewki z mandragory (16 użyć)
+                - 2 butelki nalewki z mandragory (13 użyć)
                 - 1 butelka bazy alchemicznej (12 użyć)
                 - 0 <sup>46</sup>/<sub>50</sub> porcji inkaustu
                 - 3 porcja kadzidła

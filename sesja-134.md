@@ -15,7 +15,7 @@
     - {Czarodziejka}Triss wspomina, że Kapituła planuje huczną imprezę, jeśli uda się uleczyć Keirę. Tym razem jednak w zamkniętym, ścisłym gronie i w zdecydowanie mniej wybuchowej formie.
     - Ilana korzysta z okazji i pyta o progres w kwestii przytarganej na Thanedd kobiety-posąg. Do jej odczarowania potrzebny jest niestety rzadki specyfik - żółć bazyliszka. Ponoć sprawą zainteresował się Zangenis, jednak ledwo odzyskał siły, wdział kapelusz i pognał w świat bez spowiadania się ze swoich planów.
     - Nie mogąc zostawić Tizjanie "wiadomości głosowej", Kajetan prosi Mardina, by dał mu znać, gdy czarodziejka zawita znów do Gors Velen.
-2. Pertraktacje z Krasnoludem
+2. Akcja pertraktacja
     - Teleportujemy się do Mariboru. A raczej próbujemy. {Czarodziej}Kajetan, w frustrującym wypadku, teleportuję nas pod kratę do ścieku w Ellander. Próbuje więc kolejny raz, opodal karczmy Morgana, na polanę, gdzie niegdyś z wielką satysfakcją przegoniliśmy niedoszłych rabusiów.
     - Trakt został poszerzony od kiedy ostatnio tu byliśmy, i wygląda na wcale ruchliwy.
     - Do karczmy i towarzyszącego jej placu budowy docieramy około południa. Obok postawiono drugi budynek, a trzeci jest w drodze. Leśną przecinkę, w której stoi zajazd, otacza ostrokół. Panuje tu gwar i duży ruch, wozy z pracującymi w okolicy chłopami jeżdżą wte i wewte. Przy piwie słychać toasty, między innymi za którąś baronową, _"tę starą prukwę"_.
