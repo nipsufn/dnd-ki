@@ -349,6 +349,7 @@
         - była strzygą
         - córka Foltesta
         - żona Radowida
+    - <a id='p_ves' pattern='Ves'>Ves</a> człowiek - ; Komendantka Niebieskich Pasów, Temerskiej specjalnej jednostki wojskowej
     - [Lord Dijkstra](Dijkstra) - ; władca Temerii pod Redanią
     - Dorian
         - <a id='p_remi' pattern='Remi*'>Remi</a> - elf, handluje wożąc płody roli do innych miast
