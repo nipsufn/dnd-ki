@@ -93,10 +93,14 @@
     - opiekun biblioteki na Thanedd
     - arcymistrz abjuracji
     - specjalista od elfich ruin, między innymi Ysgith
-- <a id='p_zygfryd' pattern='Zygfryd*,Zygfryd* z Densele'>Zygfryd z Densele</a> - człowiek, Łowca Czarownic
+- <a id='p_zygfryd' pattern='Zygfryd*,Zygfryd* z Denesle'>Zygfryd z Denesle</a> - człowiek, Łowca Czarownic
     - oponent Slyza Myrtona w wewnętrznej polityce Zakonu
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
-    - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca (?), lat około 30 paru, ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu), najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond. Prowodyr zamachu na Cerys
+    - <a id='p_skovik' pattern='Skovik*'>Skovik Drummond</a> - człowiek, barbarzyńca(?) 
+        - lat około 25-30
+        - ogolony na łyso z tatuażem niedźwiedzia na klatce i przedłużoną literą U na potylicy (symbol klanu)
+        - najstarszy z trójki braci, pochodzi z Wysp Skellige z klanu Drummond
+        - Prowodyr zamachu na Cerys
         Ivar: brat
         Leiv: brat
     - <a id='p_ivar' pattern='Ivar*'>Ivar</a> - człowiek, lat około 20 paru, krótkie blond włosy lekko wypłowiałe od słońca, nosi się w ciężkiej zbroi, pochodzi z Wysp Skellige z klanu Drummond
@@ -156,7 +160,7 @@
         - Jeden z młodszych druidów kręgu [Brokilońskiego](Brokilon)
         - zginął/zachorował na plagę/został wykorzystany do eksperymentów próbując pogodzić Driady z mieszkańcami Brugge
         - zawinił Ilanie, potężnie
-        - umarł na Ciałognilec w lochach szpitala w Brugge
+        - umarł na ciałognilec w lochach szpitala w Brugge
     - <a id='p_aglais' pattern='Aglais'>Aglais</a> - driada;
         - opiekunka Col Serrai
         - driada "czystej" krwi
@@ -423,8 +427,8 @@
     - <a id='p_druid_artis' pattern='Druid* Artis*,Artis*'>Artis</a> 
         - druid
         - przewodzi Vildkaarlom
-        - pozwolił Skovikowi na zamach na Cerys, podarował mu zaklęty sztylet nie tłumacząc że posłuży tylko w honorowej walce
-        - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości)
+        - pozwolił Skovikowi na zamach na Cerys, podarował mu zaklęty sztylet nie tłumacząc, że posłuży tylko w honorowej walce
+        - wierzy w honor, przeznaczenie i konflikt (który traktuje jako źródło siły i mądrości oraz siłę napędową przemian)
     - <a id='p_asliv' pattern='Asliv, Łez*'>Asliv "Łezka" Dimun</a>
         - siostra Roeggnera
         - narzeczona Leiva
@@ -439,6 +443,10 @@
         - Łowca nagród który zatruł nas strzałkami i stracił wóz
     - <a id='p_kristoff' pattern='Kristof*'>Kristoff</a> - człowiek, druid
         - uczeń Myszowora
+        - dłuższe, rude włosy i broda
+        - wysoki, postawny, dobrze zbudowany
+        - tatuaże przypominające strużki dymu lub ogień (widoczne głównie na rękach i torsie), jarzące się podczas kontaktu z ogniem
+        - ma chowańca, ognistego lisa
     - <a id='p_lodborke' pattern='L.dbrok*'>Lödbroke</a> - człowiek, berserk
         - legendarny wprost łowca głów z Wysp; bez Klanu i seniora
         - Vildkarl, podopieczny Artisa

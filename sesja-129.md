@@ -6,7 +6,7 @@
 2. Do Angrenu
     - Zbieramy się na wozie i wyjeżdżamy, Lambert na luzaku obok, Ilana, Mozaik, Lars i Kajetan na wozie ciągniętym przez dwa konie.
     - Za miastem {czarodziejka}Mozaik otwiera portal i przenosi nas w okolice przełęczy Klamat. W drodze przedstawia nam ostateczny plan działania:
-        - musimy unikać czarów; absolutnie nie pozwalać sobie na więcej niż piąty poziom bliżej bagien niż Tuzla, a czym bliżej lasu tym mniej
+        - musimy unikać czarów; absolutnie nie pozwalać sobie na więcej niż piąty poziom bliżej bagien niż Tuzla, a czym bliżej lasu, tym mniej
         - Kajetan otrzyma medalion, dzięki któremu nałoży na siebie iluzję; w Angrenie elfy nie są mile widziane, toteż {czarodziej}Kajetan zostanie zwykłym wieśniakiem
         - w mieście Lars-wiedźmin spróbuje dowiedzieć się więcej o obecnej sytuacji i odszukać Gaetana, potencjalnie rozmawiając z zarządcą, Dagomirem Caldwellem
         - Lambert wyruszy od razu na bagna Ysgith, biorąc ze sobą Kajetana (przebranego z pomocą magicznego, acz pasywnego, artefaktu) celem rozeznania, czy Druid podporządkował sobie także tamtejsze potwory
@@ -25,7 +25,7 @@
 3. Angren
     - Nazajutrz późnym popołudniem wychodzimy po angreńskiej stronie. Ludzie z symbolami czapli i/lub bocianów na zbrojach obwieszczają nam, że Dagomir w rzeczy samej zarządził blokadę na wyjazd z Angrenu. Pod ujściem przełęczy znajduje się więc ludzkie obozowisko składające się z niezadowolonych kupców i zatrzymanych uchodźców.
     - Zauważamy, że niektórzy z pospólstwa modlą się do jakiejś wytartej figurki z elfiego marmuru.
-    - W oddali widzimy Tuzlę: drewniany fort z wysoką, kamienną wieżą, otoczony zabudowanymi wysepkami delty śródlądowej Jarugi. Domy są tu budowane na palach
+    - W oddali widzimy Tuzlę: drewniany fort z wysoką, kamienną wieżą, otoczony zabudowanymi wysepkami delty śródlądowej Jarugi. Domy są tu budowane na palach.
     - Z nadejściem wieczora docieramy na miejsce. Zatrzymujemy się w karczmie zwanej "Dwie Czaple" (a więc jednak nie bociany?).
 
 ##### [Sesja 128](#sesja-128) [Sesja 130](#sesja-130)

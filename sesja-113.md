@@ -16,12 +16,12 @@
     - Wiedźmini znajdują głowę Kaspara. Wygląda jakby z oczy, ust i innych możliwych otworów wyrastał dwimeryt.
     - Ilana także coś zauważa - cała sala aż błyszczy się od miniaturowych odłamków dwimerytu. Nic dziwnego więc, że pospadały tu magiczne kandelabry, a próba użycia jakiejkolwiek magii kończy się fiaskiem. {Druidka}Ilana zabiera kilka dziwnie wybarwionych kryształów - są czerwone i porośnięte mięsem, zupełnie jakby rosły komu w trzewiach.
     - Na korytarzu trwa dyskusja. Opatrujący Idę Filavandrel sugeruje, że był to atak przeciwko Kapitule. Padają oskarżenia w stronę Redanii.
-    - Prowodyrem zamieszania może być niejaki Zygfryd z Densele związany z Zakonem Łowców - ponoć uciekł z Novigradu po śmierci Radowida.
+    - Prowodyrem zamieszania może być niejaki Zygfryd z Denesle związany z Zakonem Łowców - ponoć uciekł z Novigradu po śmierci Radowida.
     - Kajetan niechętnie wspomina, że wie skąd Redańczycy mogli wziąć dwimerytowe kryształy i jak osadzili je w ludzkich ciałach - zostaje poproszony przez Carduina na rozmowę o świtaniu.
 2. Wymiana informacji
     - Zaopiekowana śmietanka rozchodzi się na nocleg. Kajetan odprowadza Mirnę do pokoju. Ilana wciąż uparcie towarzyszy Lambertowi mając coraz mniejsze nadzieje na odzyskanie tabliczki komunikacyjnej. On i drugi wiedźmin, ten z blizną, są szczególnie zacietrzewieni, chcą biec wymierzyć sprawiedliwość za atak na "ich" czarodziejki.
     - Finalnie {druidka}Ilana wymienia trochę informacji o Łowcach za tabliczkę:
-        - Zygfryd z Densele to syn niejakiego błędnego rycerza Eycka 
+        - Zygfryd z Denesle to syn niejakiego błędnego rycerza Eycka 
         - biały wiedźmin znał go, nim ten dołączył do zakonu i dziwi się, że mógłby stać za tym zamachem lub mieć związek z eksperymentami Łowców z dwimerytem
         - dwójka wiedźminów przedstawia się na odchodne: białowłosy to chodząca legenda, Geralt z Rivii, Biały Wilk; ten z blizną to ten słynny Eskel, o którym przebąkiwała Triss
     - Spotykamy się w kwaterze Kajetana. {Elf}Kajetan prosi, by Ilana zaopiekowała się Mirną, gdy on będzie na spotkaniu z resztą ocalałych magów.

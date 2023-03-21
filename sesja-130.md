@@ -10,7 +10,7 @@
         - dobry zwyczaj nakazuje zgolić głowę przed bitwą albo rejsem, by jej nie kusić
     - Dzielimy się na grupy. Lars przebiera się za Eskela, pod tą przykrywką zamierza rozmawiać z zarządcą. Pozostałym Mozaik wręcza skrzyneczkę z zaopatrzeniem na wyprawę za miasto. W pudełku znajdujemy kilka fiolek z różnymi eliksirami, jakąś różdżkę i 12 niewielkich deltoidów - czujek magicznych.
     - Ilana, Lambert i Kajetan ruszą razem za miasto. Muszą odszukać Gaetana i się z nim dogadać, rozłożyć co najmniej 4 z tuzina magicznych czujek, które dostali (im bliżej lasu, tym lepiej) oraz wybadać i oszacować siły Druida, abyśmy wiedzieli z czym się mierzymy.
-    - Mozaik pozostanie w mieście i będzie grała swoją rolę, próbując przy tym dowiedzieć się od lokalnych czegoś więcej na temat kultystów i samego ruida.
+    - Mozaik pozostanie w mieście i będzie grała swoją rolę, próbując przy tym dowiedzieć się od lokalnych czegoś więcej na temat kultystów i samego Druida.
 2. Prace terenowe
     - Wychodzimy przez główną (i jedyną) bramę miejską. Kawałek spaceru za miasto dzielimy się czujkami po równo i resztą Mozaikowych fantów, następnie każde idzie w swoją stronę. Wiemy, że zadanie zajmie nam dobrych kilka dni.
     - Lambert będzie szukał Gaetana i potworów po południowej stronie, w samym sercu bagien.

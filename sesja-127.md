@@ -36,7 +36,7 @@
         - most na wyspę świątynną został uszkodzony podczas konfrontacji Filippy Eilhart i Radowida, który poległ podczas tego starcia
         - wybuch był podobno spowodowany orężem, którym jakiś Łowca ugodził {wiedźmę}Filippa
         - zadana rana uniemożliwiła {czarodziejce}Filippa rzucanie kolejnych zaklęć; została pojmana, by spotkać swój koniec na stosie w Wyzimie, na mocy wyroku wydanego przez Addę
-        - podczas bitwy na moście zniknęli de facto liderzy Łowców, Slyz Myrton i Zygfryd z Densele; według oficjalnej wersji zdarzeń, obaj polegli i pochowano ich na tamtejszym żalniku
+        - podczas bitwy na moście zniknęli de facto liderzy Łowców, Slyz Myrton i Zygfryd z Denesle; według oficjalnej wersji zdarzeń, obaj polegli i pochowano ich na tamtejszym żalniku
         - być może Myrton jest przetrzymywany w lochach przez głowę Zakonu Wiecznego Ognia, Hemmelfarta, a nie pochowany na wyspie świątynnej z Zygfrydem, jak głosi wieść gminna
         - co ciekawe, przed domniemaną śmiercią Zygfryd często podróżował na trasie Novigrad - Tretogor przez Trupią Knieję i Bronowice
     - Brass i raport z Kaedwen:

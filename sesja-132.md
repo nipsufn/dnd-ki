@@ -9,14 +9,14 @@
     - Po drodze do Tuzli znajduje świeżo zaszlachtowanego zbira-kultystę. Polana, na której znajdują się zwłoki nosi ślady potyczki. Niestety podmokły teren skutecznie uniemożliwia prześledzenie przebiegu zdarzeń.
     - Późnym wieczorem {druidka}Ilana dociera do bram miasta. Po koczujących tu ludziach zostały już tylko ślady obozu.
     - Strażnik okrzykuje ją, ale na szczęście nie czyni wstrętów i mimo późnej pory wpuszcza bocznym wejściem. Ledwie po przejściu ktoś zarzuca jej worek na głowę i usiłuje ogłuszyć dając lagą w potylicę.
-    - Ilana, nadal przytomna, pada na ziemię i czuje jak ktoś próbuje skrępować jej ręce. Zdziera worek z głowy, by w tym momencie ujrzeć jak strażnik z ciężkim mieszkiem w ręku znika po drugiej stronie bramy zatrzaskując za sobą drzwi. Po reszcie strażników ślad wszelki także zaginął.
-    - Próbuje zrzucić z siebie jednego z dwóch napastników, niestety średnio jej się to udaje, więc (nauczona przewrotnością ludzkiej natury) zamiast o pomoc drze się ile pary w płucach "pożar, pali się!".
+    - Ilana, nadal przytomna, pada na ziemię i czuje, jak ktoś próbuje skrępować jej ręce. Zdziera worek z głowy, by w tym momencie ujrzeć, jak strażnik z ciężkim mieszkiem w ręku znika po drugiej stronie bramy zatrzaskując za sobą drzwi. Po reszcie strażników ślad wszelki także zaginął.
+    - Próbuje zrzucić z siebie jednego z dwóch napastników, niestety średnio jej się to udaje, więc - nauczona przewrotnością ludzkiej natury - miast o pomoc, drze się ile pary w płucach _"pożar, pali się!"_.
     - Zagrywka udaje się nad podziw dobrze - ludzie zaczynają wyglądać przez okna, co ciekawe, w kierunku zrujnowanej, spalonej przed laty budowli, a co poniektórzy wychodzą na ulicę. Porywacze tracą rezon i niechając dalszych prób uprowadzenia, biorą nogi za pas.
     - Ludzie, początkowo zaciekawieni pożarem, szybko rozchodzą się wspomagani kopniakami i przekleństwami strażników.
-    - Ilana, umorusana i poturbowana, trafia w końcu do karczmy. Opowiada o swej nieprzygodzie na bramie, do wtóru z żalami pozostałych, których najemnicy próbowali wziąć na spytki. Lars dowiedział się, że Nilfgaardczycy zorganizowali łapankę ludzi z bagien i przetrzymują ich w jakiejś szopie, próbują wyciągnąć wszelkie informacje na temat Druida i jego zastępów. Złapali między innymi starszą ex-kapłankę Krwawej Matki - głowę kultu, który dominował tu nim któregoś dnia budynek ich kościoła doszczętnie spłonął.
+    - Ilana, umorusana i poturbowana, trafia w końcu do karczmy. Opowiada o swej nieprzygodzie na bramie, do wtóru z żalami pozostałych, których najemnicy próbowali wziąć na spytki. Lars dowiedział się, że Nilfgaardczycy zorganizowali łapankę ludzi z bagien i przetrzymują ich w jakiejś szopie, próbują wyciągnąć wszelkie informacje na temat Druida i jego zastępów. Złapali między innymi starszą ex-kapłankę Krwawej Matki - głowę kultu, który dominował tu, nim któregoś dnia budynek ich kościoła doszczętnie spłonął.
 2. Narada
-    - Mozaik zarządza zebranie w pokoju. Wpierw rzuca jakieś zaklęcie chroniące przed podsłuchem, a następnie tłumaczy treść swojej enigmatycznej wiadomości: Dagomir posłał do Nilfgaardu po zbrojne wsparcie w rozprawie z Druidem. Posiłki są już podobno w drodze i będą tu za tydzień - dwa. Musimy więc załatwić Keirę nim wkroczą do miasta.
-    - Wiedźmini preferują rozwiązanie siłowe, szczególnie Lambert, który ma problem z ukryciem jak bardzo personalną jest dla niego ta misja. Nie uchodzi to także uwadze Gaetana, który otwarcie wyszydza "honorowy kodeks szkoły Wilka". Wyciągają na tapet jakąś starą animozję, przez którą prawie skaczą sobie do gardeł:
+    - Mozaik zarządza zebranie w pokoju. Wpierw rzuca jakieś zaklęcie chroniące przed podsłuchem, a następnie tłumaczy treść swojej enigmatycznej wiadomości: Dagomir posłał do Nilfgaardu po zbrojne wsparcie w rozprawie z Druidem. Posiłki są już podobno w drodze i będą tu za tydzień - dwa. Musimy więc załatwić Keirę, nim wkroczą do miasta.
+    - Wiedźmini preferują rozwiązanie siłowe, szczególnie Lambert, który ma problem z ukryciem, jak bardzo personalną jest dla niego ta misja. Nie uchodzi to także uwadze Gaetana, który otwarcie wyszydza "honorowy kodeks szkoły Wilka". Wyciągają na tapet jakąś starą animozję, przez którą prawie skaczą sobie do gardeł:
         - idzie o jakichś dwóch innych wiedźminów ze szkoły Kota, Bertrama Taulera i Aidena, przyjaciela Lamberta
         - ten drugi został ponoć zamordowany przez Bertrama
         - za wszystkim stał jakiś szlachetka czy inny diuk, który napuścił wiedźminów na siebie
@@ -36,12 +36,12 @@
     - Gaetan bezceremonialnie mówi Ilanie, że podjął się zlecenia na nią, które wystawił właściciel W Pół Drogi. Dodaje, że słynie z nieposzlakowanej opinii i jak dotąd dopełnił każdego zlecenia. Ma jednak czas. Radzi jej więc, by ułożyła się z krasnoludem i przekonała go do zdjęcia ogłoszenia.
     - Do karczmy wchodzą dwaj pstrokaci najemnicy. Kupują od karczmarza zapasy jadła i picia, i każą je sobie zapakować. Ilana zostawia wiedźminów przy flaszce i podchodzi do kontuaru pod pretekstem zamówienia sobie kolacji. Przekazuje Nilfgaardczykom swoje pozdrowienia dla kolegi spod bramy. Mężczyźni nie dają się sprowokować, rzucają jedynie na odchodne coś po ichniejszemu i wychodzą.
     - Ilana zabiera kolację do pokoju. Przemyślawszy sobie parę spraw chce rozmówić się z Kajetanem.
-    - {Elf}Kajetan na szczęście jeszcze nie śpi. {Dziewczyna}Ilana prosi go aby wziął kilka głębokich oddechów i przyjął to, co ma mu do powiedzenia możliwie ze spokojem. Kajetan jak zwykle pajacuje, więc mówi mu wprost kim naprawdę jest Jedyny Prawdziwy Druid. Mina mu rzednie, ale przyjmuje to z godnym podziwu opanowaniem.
-    - {Druidka}Ilana prosi, by mimo tego, co właśnie usłyszał obiecał, że da jej czas na rozmowę z Ivrynem. Jeżeli nie uda się go przekonać, nie zabroni Kajetanowi zamordować go z zimną krwią za to, co zrobił w Carreras jeśli taka będzie jego wola.
+    - {Elf}Kajetan na szczęście jeszcze nie śpi. {Dziewczyna}Ilana prosi go, aby wziął kilka głębokich oddechów i przyjął to, co ma mu do powiedzenia możliwie ze spokojem. Kajetan jak zwykle pajacuje, więc mówi mu wprost kim naprawdę jest Jedyny Prawdziwy Druid. Mina mu rzednie, ale przyjmuje to z godnym podziwu opanowaniem.
+    - {Druidka}Ilana prosi, by mimo tego, co właśnie usłyszał obiecał, że da jej czas na rozmowę z Ivrynem. Jeżeli nie uda się go przekonać, nie zabroni Kajetanowi zamordować go z zimną krwią za to, co zrobił w Carreras, jeśli taka będzie jego wola.
 4. Wieści zaskakującej treści
     - W nocy Ilana śni się Finarrinowi:
         - zastaje go na polanie, pilnującego bawiących się dzieci
-        - z dziećmi bawi się Gebo i coś, co przypomina jakiś ciemny, niewyraźny obłok
+        - z dziećmi bawi się Gebo i coś, co przypomina jakiś ciemny, niewyraźny, roziskrzony obłok
         - zapytany jak ma się Kristoff wskazuje na tenże obłok i mówi, by sama go zapytała
         - Ilana, zaskoczona, odpuszcza temat i pyta o Ivryna
         - był ponoć szanowanym magiem, w Mayenie nauczał o magii żywiołów
@@ -58,12 +58,12 @@
 5. Akcja - anulacja
     - Nad ranem, przy śniadaniu Ilana dzieli się nowinami także z resztą drużyny. Obaj wiedźmini zostają szczegółowo wypytani o wszelkie kwestie związane z paktem Leszego/Druida oraz jak takowy zerwać.
     - Wychodzi na to, że zby unieważnić pakt, wystarczy pozbawić życia którąkolwiek z jego stron. Druida nie da się skutecznie ukatrupić, póki żyje ten, z którym zawiązał pakt, więc wybór jest prosty - musimy wyeliminować Usta Jedynego Prawdziwego Druida. Sprawa nie będzie jednak trywialna, bo dzięki paktowi Usta może podług swojej woli używać mocy Druida.
-    - Mozaik podkreśla, że mamy działać incognito, a więc żadnego bratania się z najemnikami, a już na pewno nie ma mowy o czarach które ktoś mógłby zobaczyć. Wysyłamy więc Lamberta, by jako wiedźmin się z nimi dogadał.
+    - Mozaik podkreśla, że mamy działać incognito, a więc żadnego bratania się z najemnikami, a już na pewno nie ma mowy o czarach, które ktoś mógłby zobaczyć. Wysyłamy więc Lamberta, by jako wiedźmin się z nimi dogadał.
     - Lambert wraca z pustymi rękami - Nilfgaardczycy zwinęli się i przed świtem ruszyli w stronę lasu.
     - Nie tracąc czasu zbieramy się kawałek za miastem, skąd Mozaik teleportuje nas wprost na polankę, w miejsce, gdzie kilka dni temu Kajetan natknął się na kultystów. Na drzewie wisi to, co pozostało z nieszczęśnika będącego rytualną ofiarą, mocno posunięte w rozkładzie. Ilana ze zdziwieniem konstatuje, że drzewo, do którego go przybito, posiada puls.
     - Podczas teleportacji Kajetan doznaje dziwnej wizji. Jego wzrok ciągnie ku moczarom, gdzie pod wodą, w jeziorze widzi sylwetki elfów w niegdyś bogatych szatach (orszak elfiej księżniczki z legend?). Widzi ich oczy śledzące go. Wygląda to jakby postaci próbowały uwolnić się spod wody, która więzi ich taflą lodu lub jakąś inną niewidzialną barierą. Nad jeziorem tym stoi uschnięte drzewo, które także rzuca się w oczy. Majak mija, gdy zaklęcie przenosi nas do destynacji.
-    - Pod przewodnictwem Gaetana docieramy w okolice obozu bandytów-kultystów. Przyczajamy się na skarpie, skąd rozciąga się idealny widok na obozowisko. Kultyści zabunkrowali się w dawnej drwalskiej sadybie i przerobili ją na swoją fortecę. Po obozie kręci się kilku pachołków, w tym czterech typków w długich szatach, których Kajetan rozpoznaje jako akolitów. Siedzą przy ognisku i odprawiają chyba jakieś modły. Co ciekawe, każdy z nich ma plamę na szatach wskazującą na niedawną ranę w okolicy serca.
-    - Debatujemy co robić. Ilana sugeruje, by miast bezmyślnie atakować obóz, wpierw zrobić rekonesans - trzeba zorientować się gdzie jest mówca i ile mamy czasu nim dotrą tu Nilfgaardczycy. Dzielimy się na dwie grupy i ustalamy plan:
+    - Pod przewodnictwem Gaetana docieramy w okolice obozu bandytów-kultystów. Przyczajamy się na skarpie, skąd rozciąga się idealny widok na obozowisko. Kultyści zabunkrowali się w dawnej drwalskiej sadybie i przerobili ją na swoją fortecę. Po obozie kręci się kilku pachołków, w tym czterech typków w długich szatach, których Kajetan rozpoznaje jako akolitów. Siedzą przy ognisku i odprawiają chyba jakieś modły. Co ciekawe, każdy z nich ma krwawą plamę na szatach wskazującą na niedawną ranę w okolicy serca.
+    - Debatujemy co robić. Ilana sugeruje, by miast bezmyślnie atakować obóz, wpierw zrobić rekonesans - trzeba zorientować się gdzie jest mówca i ile mamy czasu, nim dotrą tu Nilfgaardczycy. Dzielimy się na dwie grupy i ustalamy plan:
         - Ilana, Lars i Mozaik zejdą do fortu na przeszpiegi - policzą dokładnie ludzi i odszukają Usta
         - Kajetan zostanie tu z wiedźminami i pośle swoją sowę nad lasem
         - gdy sowa zauważy najemników, Kajetan powiadomi resztę i wówczas zdecydujemy co dalej
@@ -76,7 +76,7 @@
         - skończywszy przemowę, mówca bierze do ręki sierp i wkłada go w ogień, nie bacząc na to, że ogień pali mu dłoń
         - gdy ostrze aż goreje, wyjmuje je i wbija w serce nowicjusza
         - nowicjusz zastyga podtrzymywany za ręce przez akolitów; jego oczy zachodzą mgłą, gdy po chwili wraca do nich życie
-    - W tym czasie sowa Kajetana wraca z informacją, że zauważyła Nilfgaardczyków. Idą dość wolno ciężko obładowani ekwipunkiem. Dotrą tu za godzinę - dwie.
+    - W tym czasie sowa Kajetana wraca z informacją, że zauważyła Nilfgaardczyków. Idą dość wolno, ciężko obładowani ekwipunkiem. Dotrą tu za godzinę - dwie.
     - Kajetan przesyła wiadomość do Mozaik, która decyduje się działać. Przyczajona w wieżyczce przy wejściu do obozu, rzuca iluzję na ogień, który staje się zielony i przybiera kształt drzewa. Z drzewa tego spadają liście-iskry i układają się na ziemi w napis "Niebezpieczeństwo", wskazując na kierunek, z którego nadciągają najemnicy.
     - Fortel {czarodziejki}Mozaik powoduje chaos wśród kultystów - zaczynają biegać jak mrówki w mrowisku, ignorując Usta próbującego zapanować nad sytuacją. W tej samej chwili za jego plecami materializuje się Lars i przystawia mu sztylet do gardła.
 

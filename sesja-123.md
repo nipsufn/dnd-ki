@@ -20,7 +20,7 @@
     - Żeby zdobyć trochę czasu na rozmowę, Kajetan wysyła dzieci po kamyki, przykazując najstarszym unikać niebezpiecznych miejsc. Finarrin zaprasza nas do wioski, w drodze opowiada nieco, co tu się działo pod naszą nieobecność. 
     - Starszy pan wójt zwie się Diestal i jest jednym z ważnych filarów tutejszej społeczności.
     - Docieramy do drugiego, równie ważnego filaru społeczności - wielkiego budynku karczmy-jadłodajni o wdzięcznej nazwie "Gawra". Gawrę prowadzi Enid.
-    - Ilana wymienia wieści z Finarrinem. Posłaniec z Wysp, który zagości w wiosce {druid}Finarrin okazał się być uczniem Myszowora. Myszowór wypytywał o starą osadę w Mayenie, jako że nie ma pojęcia o losach swojej dawnej wioski. Może więc chcieć złożyć osobistą wizytę na kontynencie. Gdy tak się stanie, Finarrin proponuje, by Ilana się z nim spotkała.
+    - Ilana wymienia wieści z Finarrinem. Posłaniec z Wysp, który gościć ma{druid}Finarrin, okazał się być uczniem Myszowora. Myszowór wypytywał o starą osadę w Mayenie, jako że nie ma pojęcia o losach swojej dawnej wioski. Może więc chcieć złożyć osobistą wizytę na kontynencie. Gdy tak się stanie, Finarrin proponuje, by Ilana się z nim spotkała.
     - {Dziewczyna}Ilana na te rewelacje wspomina o ofercie Artisa, mentora Skovika. Przedstawia także prawdziwy powód naszej wizyty.
     - Finarrin zdradza nam, że ma posłanie do Eithne od księcia Kistrina. Może więc przekazać także i naszą wiadomość, jeśli królowa driad nie zechce wpuścić nas do swojego lasu. Albowiem kto nieproszony wejdzie w mgłę, może napytać sobie biedy i co najmniej zabłądzić.
     - Rozmowę przerywa zapłakana bliźniaczka - Mirra, która wpada do karczmy. Coś pochwyciło w lesie jej brata, Meika.
