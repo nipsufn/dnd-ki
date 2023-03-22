@@ -404,7 +404,7 @@
         - <a id='p_landosz' pattern='Landosz*'>Grododzierżca Landosz</a>
     - Zavada
         - <a id='p_lavalette' pattern='Baroness*,Baroness* Matyld* la Valette,Matyld* la Valette'>Baronessa Matylda la Valette</a>
-    - <a id='p_morgan' pattern='Morgan* Guus,Morgan*'>Morgan Guus</a>
+    - <a id='p_morgan' pattern='Morgan* Guus,Morgan*, Guus*'>Morgan Guus</a>
         - karczmarz
         - opuścił Novigrad przez coraz bardziej nieprzyjazną nieludziom atmosferę
         - buduje karczmę w pół drogi między Mariborem a Mayeną w zimę 1276PP, możliwe że zostanie nazwana _"W pół drogi"_

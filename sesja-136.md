@@ -4,39 +4,41 @@
     - Rankiem zwijamy nasz obóz. Finarrin, uświadomiwszy sobie jaki mamy dzień miesiąca, zaprasza nas do Wioski na obchody Velen, które to przypada za około tydzień.
     - Zostajemy zatrzymani na bramie wciąż rozbudowywanego fortu. Fosa jest w trakcie prac, rozpoczęto też przebudowę części drewnianych budynków na murowane.
     - Strażnicy wpuszczają nas, podejrzliwie patrząc na szpiczaste uszy Kajetana i Finarrina, dopiero gdy wezwana {komendantka}Ves zaprasza nas do środka. Wspomina, że później chciałaby się rozmówić z nami na osobności.
-    - Zostajemy oprowadzeni po forcie przez Duska. Szpieg został mianowany kwatermistrzem oddziału specjalnego.
-    - Obóz wojaków jest nieco odsunięty i odgrodzony od wykopalisk. Z wewnętrznego kręgu zostały tylko dwa menhiry, z zewnętrznego - właściwie ruiny. Jeden z menhirów zdaniem Oxenfurckiego bakalarza wygląda na rozsadzony wodą...
+    - Dusek bierze na siebie rolę włodarza i oprowadza nas po forcie. Szpieg został mianowany kwatermistrzem oddziału specjalnego.
+    - Obóz wojaków jest nieco odsunięty i odgrodzony od wykopalisk. Z wewnętrznego kręgu zostały tylko dwa menhiry, z zewnętrznego - właściwie ruiny. Jeden z menhirów zdaniem Oxenfurckiego bakalarza wygląda na rozsadzony wodą.
     - Punkt mocy jest stabilny, ale dryfuje w pewnym promieniu wokół pozostałych kamieni.
     - Kajetan wykorzystuje okazję i zleca naładowanie swojego amuletu magicznej sowie, którą czasem się wysługuje. Patrząc jednak na stan tego punktu, przyjdzie nam przez to zabawić tutaj co najmniej 2 dni.
-    - Dowiadujemy się, że budowę fortu rozpoczęto, gdy wyszło na jaw, że golem Floriana z Vicovaro zbudowany był w oparciu o resztki jednego z menhirów.
+    - Dowiadujemy się, że budowę fortu rozpoczęto, gdy wyszło na jaw, że golem Floriana z Vicovaro skonstruowany był w oparciu o fragment jednego z menhirów.
     - Zauważamy, że Niebieskie Pasy noszą technicznie zaawansowane kusze z osłoniętymi komorami na bełty, w których domyślamy się wynalazku Lukrecji.
     - Popołudnie spędzamy pomagając leczyć rannych po zasadzce komanda Yaevinna. Ilana w półelfce zajmującej się infirmerią rozpoznaje jedną z kobiet pracujących, które uciekły od Karoll. Ktoś zwraca się do niej mianem Velka.
+     - Kajetan wyjawia Ilanie, że rozważa przekazanie Niebieskim Pasom lokacji Yaevinna i jego komanda. {Dziewczyna}Ilana nie potępia pomysłu, ale sama nie chce być powiązana, jeśli wyda się, że to od nas wyszła ta informacja.
     - {Druidka}Ilana chowa swoją dumę do kieszeni i prosi Kristoffa o pomoc z poparzeniami. Otrzymuje oferowaną wcześniej maść, nie do końca pewna, czy na to właśnie liczyła.
     - Wieczorem zostajemy zaproszeni na wieczerzę u pani komendant. Po drodze Ilana i {uczeń Myszowora}Kristoff wyjaśniają sobie pewne animozje dnia poprzedniego. Padają przeprosiny za źle wymierzone intencje.
-    - Uczta jest suto zakrapiana mocnym winem. Przy stole zastajemy też bakalarza, który zostaje nam przedstawiony jako Edmund... z Denesle. Ilana, chcąc się dowiedzieć, czy ma jakiś związek z Zygfrydem, pyta o wyprawę słynnego Eycka z Denesle na złotego smoka. Bakalarz z bolesnym wyrazem twarzy przytacza obmierzłą mu już historię znaną i opowiadaną jak kontynent szeroki. Potwierdza, że jest o jego świętej pamięci ojcu.
+    - Uczta jest suto zakrapiana mocnym winem. Przy stole zastajemy też bakalarza, który zostaje nam przedstawiony jako Edmund... z Denesle. Ilana, chcąc się dowiedzieć, czy ma jakiś związek z Zygfrydem, pyta o wyprawę słynnego Eycka z Denesle na złotego smoka. Bakalarz z bolesnym wyrazem twarzy przytacza obmierzłą mu już historię znaną i opowiadaną jak kontynent szeroki, traktującą o jego świętej pamięci ojcu.
     - Ku zdziwieniu Kajetana, Ves wykorzystuje okazję i bierze bakalarza na spytki:
         - jest bratem Zygfryda, dostał oficjalny list potwierdzający jego zgon
         - podupadającym majątkiem rodzinnym w Redanii zarządza jego siostra, Zofia, wykazująca się polityczną smykałką i dobrze wydana - stara się poprawić status rodziny
         - rodzinę w pełną honoru biedę wpędził ojciec, Eyck, błędny rycerz mordujący za Lebioda zapłać potwory; swój altruizm i skromność przypłacił życiem żony
         - ojciec praktycznie samodzielnie doprowadził gryfy i mantikory na skraj wyginięcia
         - uczony awansował i zarządza wykopaliskami przez serię niefortunnych zdarzeń - po śmierci niejakiego profesora Szezloka, jego katedrę przejął Filip De Moire, który jednak po spożyciu zatrutej ryby (która zjadła inną, trującą rybę, nim ją złowiono... [wygląda na to że jego obawy nie były bezpodstawne](#sesja-100)), jest rektorem tylko z tytułu - ma sparaliżowane ręce i język
-        - Edmund specjalizuje się w przed-ludzkiej kulturze. O Wranach zaledwie słyszał, ponoć Est Hamlet miało by być postawione przez nich
+        - Edmund specjalizuje się w przed-ludzkiej kulturze
+        - o wranach zaledwie słyszał, ponoć Est Hamlet miało by być postawione przez nich
         - bakalarz brał udział w nieudanej wyprawie Filipa De Moire do Est Tayiar
         - uczony pyta Finarrina o przygodę z Kościejem, który udaje, że nie zna tej historii; nie udaje mu się jednak oszukać czujnej Ilany, które zna ojca jak zły szeląg
     - W czasie tej samej kolacji, zwyczajowo niepijąca Ilana drąży podchmielonego już Kristoffa, zafascynowanego historią o smoku:
         - proponuje mu udział w wyprawie na "naszego" jaszczura
         - młodzian nie jest zbyt pewien, czy chce się rzucać na smoka
-        - tłumaczy, że o ile sam jest odporny na ogień, nie kontroluje żywiołu na tyle, by "przy okazji" nie skrzywdzić nikogo w swoim otoczeniu
+        - tłumaczy, że o ile sam jest odporny na ogień, nie kontroluje żywiołu na tyle, by przy okazji nie skrzywdzić nikogo w swoim otoczeniu
         - konstatuje, że na coś takiego mógłby się porwać tylko Drummond; definitywnie pała do nich swoistą antypatią
         - rudobrody pochodzi z rodu An Craite
         - zapytany o czerwonowłosą flaminikę z Mayeny, niestety nie kojarzy takowej; najwyraźniej mentor mu o niej nie wspominał
-        - cytuje "mylisz niebo z gwiazdami odbitymi w jeziorze" jako powiedzonko Myszowora
-        - sam Myszowór jest nietypowym druidem, zdaje sie obserwować gwiazdy, miast dbać o lasy, dużo czasu poświęca też kontroli wiatrów na Wyspach
+        - cytuje _"mylisz niebo z gwiazdami odbitymi w jeziorze"_ jako powiedzonko Myszowora
+        - sam Myszowór jest nietypowym druidem - miast dbać o lasy, chętniej obserwuje gwiazdy, dużo czasu poświęca też kontroli wiatrów na Wyspach
         - {stary Druid}Myszowór zdaje się wierzyć, że lodowe giganty pojawiły się w rocznicę upadku meteoru i w niebiosach szuka rozwiązania ich problemu
         - od czasu upadku gwiazdy, na Wyspach przybywa potworów
         - uważa, że w Mayenie znajduje się coś, co rozwiąże problemy wyspiarzy spowodowane opisanymi wydarzeniami
         - co ciekawe, wzrok podpitego druida jest podobnie zamglony, jak po "wyładowaniu" po pożarze
-    - Pojadłszy i podpiwszy sobie, udajemy się na spoczynek. Spacerując przez obóz, Ilana zauważa, że mijane przez Kristoffa pochodnie lekko przygasają.
+    - Pojadłszy i popiwszy sobie, udajemy się na spoczynek. Spacerując przez obóz, Ilana zauważa, że mijane przez Kristoffa pochodnie lekko przygasają.
     - Pijany Kajetan upiera się, że wyczaruje swoje wygodne lokum. Niby sztuczka mu się udaje, ale tym razem domek jest jakiś dziwny - jakby ktoś go kopnął i obrócił do góry fundamentem. Przez przechodnią łazienkę, rozchodzimy się do swoich pokoi.
 2. Krzywa wieża w Mayenie
     - Rankiem budzi nas kac i zamieszanie. Okazuje się, że prowadząc wykopaliska, studenci podkopali podstawę jednego z zachowanych menhirów, który zaczyna się niebezpiecznie pochylać.
@@ -68,8 +70,8 @@
     - Przy kolacji Kristoff pyta Kajetana, czy potrafi wyczarować ogień. Elf prezentuje swój popisowy numer z "zapalniczką", ale druidowi chodzi o coś mocniejszego. Pytanie wynika po części z ciekawości, a po części z konieczności nakarmienia ognistego futrzaka wyspiarza. Jak dotąd częstował go tylko konwencjonalnym ogniem i zastanawia się, czy taki magiczny starczy mu na dłużej. Zapytany, jak często musi dokarmiać żywioł, odpowiada całkiem szczerze, że różnie to bywa - raz starczy woda ognista, raz kilka buchów z fajki, a czasem, jeśli go zaniedba, zwierzak sam "wychodzi", by się posilić czymkolwiek, co znajdzie w okolicy.
     - Kajetan, sam ciekawy eksperymentu, idzie z Kristoffem przed chatkę. Sceptycznie nastawiona do takiego igrania z ogniem Ilana wychodzi za nimi, by ubezpieczać i - w razie konieczności - leczyć.
     - Druid pozbywa się górnej części przyodziewy i odsłania resztę tatuażu, ciągnącego się od dłoni poprzez ramiona, plecy, tors i niknącego gdzieś w kalesonach. Skrzyżowawszy ramiona jak do obrony daje znak, by elf miotnął w niego ogniem. {Czarodziej}Kajetan zaczyna czymś lekkim. Zaklęcie pochłaniają tatuaże, z czarnych robiąc się rozżarzone, niczym pogrzebacz.
-    - Ilana obserwuje ich poczynania z bezpiecznej odległości, czerwona jak burak, bynajmniej od temperatury. Ku jej uldze, wyspiarz nie wydaje się być ani trochę przypalony i zbyt zaabsorbowany, by zauważyć pąs.
-    - Kristoff po pierwszym ładunku czuje się zadziwiająco dobrze, prosi więc elfa o coś mocniejszego. Kajetan, którego nie trzeba prosić dwa razy, serwuje mu salwę godną ogni z okazji obchodów Yule.
+    - Ilana obserwuje ich poczynania z bezpiecznej odległości, czerwona jak burak, bynajmniej nie od temperatury. Ku jej uldze, wyspiarz nie wydaje się być ani trochę przypalony i jest zbyt zaabsorbowany, by zauważyć pąs.
+    - Kristoff po pierwszym ładunku czuje się zadziwiająco dobrze i prosi o coś mocniejszego. Kajetan, któremu nie trzeba powtarzać dwa razy (chyba, że o trzymaniu języka za zębami, o tym jakoś nigdy nie pamięta), serwuje mu salwę godną ogni z okazji obchodów Yule.
     - Druid pada na klęczki, parując jakby dopiero co wyszedł z sauny na trzaskający mróz. Ilana, przekonana, że coś mogło mu się stać, rusza na pomoc. Kajetan także się zbliża, w samą porę, byśmy oboje oberwali ognistym wyładowaniem.
     - Tym razem Kristoff nie osuwa się, a jedynie przewraca na plecy, zmęczony jak po maratonie. U jego boku materializuje się lis. Chowaniec spacerując podpala ściółkę, którą przezorny Kajetan od razu traktuje wodą.
     - {Druidka}Ilana, powodowana niezdrową ciekawością, wyciąga rękę do zwierzaka, który łasi się, ale - ku jej zdziwieniu - nie parzy, a jedynie bije ciepłem.
