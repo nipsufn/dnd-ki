@@ -5,7 +5,7 @@
     - Kompleks świątynny jest na osobnej wysepce, jednej z wielu w delcie Pontaru. Widzimy łączący go most, który jest remontowany.
     - Wyruszamy w poszukiwaniu zapasów. W dzielnicy zwanej Zarzeczem znajdujemy mniejszy Targ Rybny, zdaje się nastawiony bardziej na wymiany między kupcami, udaje nam się jednak korzystnie zakupić jedzenie.
     - Na tablicy ogłoszeń zauważamy, że miasto przygotowuje się do obchodów Lammas, letniego święta. Okazuje się, że świątynia jest zamknięta, potrzebne są ręce do pracy, ktoś też szukał wiedźmina na jakiegoś potwora grasującego w lasach na południowym brzegu rzeki.
-    - W tłumie zauważamy znajomą rosłą [wyspiarkę]Reah głośno werbującą ludzi dla Roeggnera. Jak na złość wzrok Reah wyławia z tłumu Ilanę.
+    - W tłumie zauważamy znajomą rosłą {wyspiarkę}Reah głośno werbującą ludzi dla Roeggnera. Jak na złość wzrok Reah wyławia z tłumu Ilanę.
     - Reah zabiera nas na piwo do karczmy "Na Oxenfurt". Ku niezadowoleniu Ilany, Kajetan opowiada jej nieco o tym, co przytrafiło się Skovikowi, a i my poznajemy wieści:
         - Lödbroke nie podbił Kerack; pomógł natomiast, razem z Roeggnerem Czarnym, dokonać przewrotu - gdy Roeggner z załogą otwierali bramy siłom Egmunda, brata Króla Viraxasa, legendarny woj w widowiskowy sposób skupił na sobie uwagę znacznej części sił zbrojnych w mieście
         - Leiv zaręczył się z młodszą siostrą Roeggnera, Asliv; młody Drummond wydaje się być prawą ręką pirata

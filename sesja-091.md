@@ -27,7 +27,7 @@
         - Oxenfurt posiada katedrę magii teoretycznej, której ani Radowid, ani Łowcy nie gnębią - sama uczelnia jest apolityczna i dobrze się trzyma
     - Pożegnawszy Vigga udajemy się na spoczynek. Ilana znów śni dziwny sen o Skoviku. Tym razem ma jednak więcej kontroli. W jaskini, oprócz Skovika jest ona sama i trzecia postać: Lödbroke. Wszyscy troje są pobrużdżeni i w skrwawionych bandażach. Za nimi czają się niedźwiedzie. Ilana czuje szczęki zaciskające się na jej szyi. Potem ciemność, z której budzi się na powrót w jaskini. Słysząc maniakalny śmiech Lödbrokea w tle obserwuje, jak jej rany goją się w mgnieniu oka.
 2. Dzień by odetchnąć
-    - Ranem Ilana budzi się w poszarpanej pościeli. Tknięta przeczuciem prosi Kajetana o wysłanie wiadomości do Reahi. Dowiadujemy się, że:
+    - Ranem Ilana budzi się w poszarpanej pościeli. Tknięta przeczuciem prosi Kajetana o wysłanie wiadomości do Reah'i. Dowiadujemy się, że:
         - Lödbroke to skurwysyn
         - żeglował na "Postrachu Mórz"
         - z niejakim Morkvargiem napadli na Ogród Freyji

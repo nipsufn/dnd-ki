@@ -46,7 +46,7 @@
         - w jego żyłach płynie teraz trucizna najeżki i antidotum podane dożylnie przez {alchemika}Viggo
         - jego serce stoi, więc krążenie także jest wstrzymane i jest to efekt klątwy rzuconej na {wyspiarza}Skovika, najprawdopodobniej przez któregoś z łowców
         - jeżeli złamać lub odczynić teraz klątwę, Skovik może umrzeć jeśli trucizna dojdzie do serca szybciej niż antidotum
-        - Ilana, jako lykanotrop, także jest obarczona swego rodzaju klątwą; rytuał wywołał coś, co Viggo nazywa sprzężeniem zwrotnym, a więc zadziałał nie tylko na Skovika, ale też na stojącą obok {druidkę}Ilana
+        - Ilana, jako lykantrop, także jest obarczona swego rodzaju klątwą; rytuał wywołał coś, co Viggo nazywa sprzężeniem zwrotnym, a więc zadziałał nie tylko na Skovika, ale też na stojącą obok {druidkę}Ilana
     - Trójka obradująca w pokoju {Matki Przełożonej}Iola odkorkowuje wyciągniętą przez Kajetana zdobyczną butelkę wina. Viggo zwraca uwagę na nietypową etykietę, głoszącą nazwę "Biały Wilk". Wino jest przednie, dobrze koi nerwy.
     - Kajetan puszcza w ślad za Ilaną swoją sowę, aby sprawdzić co dzieje się z {druidką}Ilana. Relacjonuje jej poczynania.
     - W tym czasie Ilana biegnie na złamanie karku wprost przed siebie, w stronę gór. Wygląda jakby przemiana zatrzymała się w połowie - sam widok jest makabryczny i nie przypomina ani jednego konkretnego zwierzęcia, ani też człowieka.

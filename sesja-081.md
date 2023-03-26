@@ -1,12 +1,12 @@
 ### Sesja 81
 ##### [Sesja 80](#sesja-080) [Sesja 82](#sesja-082)
 1. W morze
-    - Rankiem Skovik i Ilana znowu się kłócą - {osiłek}Skovik powinien był się postawić Reahi. {Druidka}Ilana ma żal do niego, że wystawił jej cierpliwość na próbę. Czarę goryczy przelewa jednak fakt, że Skovik przedłożył przyjaźń z Reahą nad to, cokolwiek czuje do Ilany, tłumacząc się przy tym, że nie chciał ubliżyć wyspiarce odmową udziału w jej teatrzyku.
+    - Rankiem Skovik i Ilana znowu się kłócą - {osiłek}Skovik powinien był się postawić Reah'i. {Druidka}Ilana ma żal do niego, że wystawił jej cierpliwość na próbę. Czarę goryczy przelewa jednak fakt, że Skovik przedłożył przyjaźń z Reah'ą nad to, cokolwiek czuje do Ilany, tłumacząc się przy tym, że nie chciał ubliżyć wyspiarce odmową udziału w jej teatrzyku.
     - Spotykamy się wszyscy przy późnym śniadaniu. Kajetan i Mirna są w zdecydowanie lepszych humorach. Planujemy co dalej zrobić.
     - Mirna nie jest w stanie pomóc nam w połowie, więc pozwiedza miasto i zaczeka na nas w porcie.
     - Spotykamy się z wyspiarzami. {Osiłek}Skovik, ku osłupieniu Ilany, dostaje na dzień dobry w twarz od {wyspiarki}Reah, po czym dowiaduje się, że zostanie na brzegu razem z dwoma innymi marynarzami, kiedy reszta popłynie po skarb.
     - Piraci traktują Kajetana z jeszcze większą rezerwą i niedowierzaniem, niż {druidkę}Ilana. Dobijamy jednak targu - mamy dostać 1/4 z tego, co uda się odzyskać.
-    - Dopływamy w okolicę wraku. Ku uciesze oczu wilków morskich, Ilana, zasłaniana przez Reahę, przebiera się w pożyczony od Kajetana pancerz z foczych skór. Marynarze są wyraźnie niezadowoleni widząc magię, ale widok pierwszej skrzyni wyciągniętej z dna przez Ilanę, spomiędzy krabów (niektórych dziwnych, błyszczących jak perły) uspokaja nieco ich wątpliwości.
+    - Dopływamy w okolicę wraku. Ku uciesze oczu wilków morskich, Ilana, zasłaniana przez Reah'ę, przebiera się w pożyczony od Kajetana pancerz z foczych skór. Marynarze są wyraźnie niezadowoleni widząc magię, ale widok pierwszej skrzyni wyciągniętej z dna przez Ilanę, spomiędzy krabów (niektórych dziwnych, błyszczących jak perły) uspokaja nieco ich wątpliwości.
     - Wygląda na to, że drugą skrzynię - z półsłówek rzucanych przez wyspiarzy, zawierającą magiczne przedmioty - coś zabrało razem ze sporą częścią burty.
     - Wyruszamy pod dziób statku zawieszony na jednej z licznych skał w okolicy, w którym to powinna znajdować się ostatnia skrzynia.
     - {Mag}Kajetan wyciąga skrzynię z pomocą magii - niezbyt delikatnie, wrak osuwa się ze skały powodując wielką falę, która posyła łódź w morze.
@@ -42,13 +42,13 @@
         - podobno Cerys dowiodła, że winnym kaźni na uczcie był ich majordomus, który zatruł wino
         - jeśli będziemy go szukać, Roeggnera znajdziemy w najbliższym czasie w okolicach Cidaris i Bremervoord
     - {Druidka}Ilana także otrzymuje nietypową, charakterystyczną biżuterię w podzięce od Roeggnera. Udaje jej się wytargować dodatkowe 500GP dla Skovika za udział w przedsięwzięciu.
-    - Kiedy Kajetan czeka poirytowany na zewnątrz, Ilana żegna się z marynarzami. Leivowi przekazuje flet z rogu morvudda, dla Reahi, po czym - klasycznie - wymierza cios w brzuch (o dziwo juź nieco mniej miękki) za szopkę związaną z końskimi zalotami przyrzeczonej. {Wyspiarkę}Reah za to prosi o odprowadzenie.
-    - Ilanie udaje się ubłagać {elfa}Kajetan, by wyruszyli nieco później, tak aby mogła zająć się pijanym Skovikiem i rozmówić się z Reahą.
+    - Kiedy Kajetan czeka poirytowany na zewnątrz, Ilana żegna się z marynarzami. Leivowi przekazuje flet z rogu morvudda, dla Reah'i, po czym - klasycznie - wymierza cios w brzuch (o dziwo juź nieco mniej miękki) za szopkę związaną z końskimi zalotami przyrzeczonej. {Wyspiarkę}Reah za to prosi o odprowadzenie.
+    - Ilanie udaje się ubłagać {elfa}Kajetan, by wyruszyli nieco później, tak aby mogła zająć się pijanym Skovikiem i rozmówić się z Reah'ą.
     - {Mag}Kajetan i Mirna idą na obiad, rozmawiają o Bronie:
         - sytuacja jest teraz zupełnie polubowna, dług został spłacony
         - człowiek jest jej potrzebny, bo nieludziom i mieszańcom nie wolno prowadzić samodzielnie biznesu
         - w warsztacie są też asystenci zajmujący się codzienną pracą - dziewczyna skupia się nad opracowywaniem nowych receptur
-    - {Druidka}Ilana prosi Reahę na słowo. Dowiaduje się, że ona właściwie niczego od Skovika nie chce, a cały ten cyrk był tylko po to, aby zmusić Skovika do "zejścia z płotu" i podjęcia jak raz męskiej decyzji. Ilana chłodno oznajmia, że kolejne takie akcje skończą się mordobiciem i żegna się z {wyspiarką}Reah.
+    - {Druidka}Ilana prosi Reah'ę na słowo. Dowiaduje się, że ona właściwie niczego od Skovika nie chce, a cały ten cyrk był tylko po to, aby zmusić Skovika do "zejścia z płotu" i podjęcia jak raz męskiej decyzji. Ilana chłodno oznajmia, że kolejne takie akcje skończą się mordobiciem i żegna się z {wyspiarką}Reah.
 3. Nogi za pas
     - Wynajmujemy wóz i wyruszamy za miasto. Ponieważ w sprawę wmieszał się Formorian, z braku lepszych propozycji, Kajetan teleportuje całą drużynę pod wioskę druidów.
     - Na intencję wizyty u "tatka", Ilana otrzeźwia Skovika, który musi zmierzyć się z brutalną, pozbawioną kojących procentów rzeczywistością.

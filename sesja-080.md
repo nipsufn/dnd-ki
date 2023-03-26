@@ -52,8 +52,8 @@
     - Wyruszamy na molo, ku rozbawieniu pospólstwa i przerażeniu konia. Teleportujemy się, słysząc przeraźliwy krzyk. Już w okolicy Gors Velen, widzimy rękę zwisającą ze splamionej krwią torby Mirny - ktoś próbował okraść podróżującego maga nie wiedząc, czym ryzykuje.
 6. Nieco luksusu po ciężkim dniu
     - Kajetan z Mirną ruszają do miasta, by oddać straumatyzowanego konia. Na podgrodziu spotykają Ilanę, idącą gdzieś w towarzystwie, które zdaje się nie do końca jej odpowiada.
-    - Ilana idąc rozmawia z Leivem poza zasięgiem uszu gruchających gołąbków - Skovika i przyklejonej do niego Reahi, gdy ku swemu zaskoczeniu zauważa wjeżdżających na podgrodzie Kajetana z Mirną.
-    - {Druidka}Ilana podchodzi do konnej dwójki nie wierząc, że Kajetan faktycznie przywlókł tu Mirnę. Na pytanie o Reahę odpowiada tylko kąśliwym komentarzem. Zostawia jednak parę samym sobie i wraca do Leiva i reszty.
+    - Ilana idąc rozmawia z Leivem poza zasięgiem uszu gruchających gołąbków - Skovika i przyklejonej do niego Reah'i, gdy ku swemu zaskoczeniu zauważa wjeżdżających na podgrodzie Kajetana z Mirną.
+    - {Druidka}Ilana podchodzi do konnej dwójki nie wierząc, że Kajetan faktycznie przywlókł tu Mirnę. Na pytanie o Reah'ę odpowiada tylko kąśliwym komentarzem. Zostawia jednak parę samym sobie i wraca do Leiva i reszty.
     - W drodze na widowisko Ilana dowiaduje się kilku rzeczy od wziętego na spytki Leiva:
         - Reah jest córką słynnego skalda Draiga Bon-Duh i przełożonej kapłanek Freyji; po ojcu odziedziczyła umysł, talent już niekoniecznie
         - ze Skovikiem zna się od dziecka - kiedy on trenował, ona przerzucała kłody na równi z nim
@@ -69,7 +69,7 @@
     - Namiot zaczyna lewitować, wiwerna odlatuje wraz z wierzgającymi, ucapionymi lin krasnoludami. Na arenie zostają Rębacze i Yarpen, kłócący się z nimi nad zwłokami kikimory-wojowniczki. W dłoni krasnoluda błyska znajomy topór o czarnym ostrzu.
     - Całe widowisko z bezpiecznej odległości werandy w Czapli obserwuje Kajetan, zabawiąjąc Mirnę komentarzami na temat nietypowego pokazu.
     - W wielkim rozgardiaszu ludzie się rozpierzchają. Nasz grupa również opuszcza zrujnowany cyrk, zmierzając w stronę miasta.
-    - Ilana żegna się z Leivem i dobitnie daje Reahi do zrozumienia, że jej czas ze Skovikiem dobiegł końca. {Wyspiarka}Reah cmoka na odchodne {osiłka}Skovik w policzek i życzy nam dobrej nocy. Z Leivem umawiamy się nazajutrz rano.
+    - Ilana żegna się z Leivem i dobitnie daje Reah'i do zrozumienia, że jej czas ze Skovikiem dobiegł końca. {Wyspiarka}Reah cmoka na odchodne {osiłka}Skovik w policzek i życzy nam dobrej nocy. Z Leivem umawiamy się nazajutrz rano.
     - {Druidka}Ilana, pomna kosztu noclegu, obiecuje nie psuć sobie reszty wieczoru. Ewentualną awanturę zostawia więc na rano.
     - Przy kolacji mijamy się życząc sobie nawzajem stosunkowo udanego wieczoru. Tak obie pary spędzają wieczór zajęte sobą.
 
