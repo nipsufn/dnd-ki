@@ -4,25 +4,27 @@
     - Nasyciwszy apetyt lisa, zwijamy się całą trójką do chatki. Wkrótce zjawia się także Finarrin. Zarówno druida, jak i wojskowych zaniepokoił pokaz ogni Kajetana, ale klarujemy, że wszystko pod kontrolą i nie ma powodów do paniki.
     - Ilana, będąc po raz drugi w ciągu ostatnich kilku dni poparzoną przez igranie z ogniem, po raz wtóry przełyka dumę i prosi o pomoc w opatrzeniu się. Na szczęście, oprócz Kristoffa, swoją pomoc oferuje jej także Kajetan, któremu przy okazji wymyka się imię Skovika. Wszystko wskazuje jednak na to, że albo jest to popularne wyspiarskie miano, albo Kristoff go zwyczajnie nie kojarzy.
     - Na stronie, w swoim pokoju {druidka}Ilana prosi {elfa}Kajetan o kryształ z nowym zaklęciem ukierunkowanym na Gaetana - chce nabrać więcej obycia przed zbliżającą się schadzką, a i osobiście rozmówić się z wiedźminem, dać mu do zrozumienia, że kontrakt jest niebyły, więc winien się odczepić.
-    - Pechowym zrządzeniem losu, trafia akurat w sam środek jakiegoś walnego zebrania Dagomira z nilfgaardzkimi wojskowymi. Podnosi się krzyk i mimo tłumaczeń wodnej aparycji {dziewczyny}Ilana, żołdacy reagują nader żywiołowo. Wśród nich jest jakaś kobieta o niechybnie magicznych zdolnościach, która paraliżuje umysł druidki. Szczęściem, a raczej nadwyrężoną siłą woli udaje jej się wyzwolić spod zaklęcia - magiczce puszcza się krew z nosa.
+    - Pechowym zrządzeniem losu, trafia akurat w sam środek jakiegoś walnego zebrania Dagomira z nilfgaardzkimi wojskowymi. Wnętrze oddaje podupadający zdaje się charakter Angrenu. Podnosi się krzyk i mimo tłumaczeń wodnej aparycji {dziewczyny}Ilana, żołdacy reagują nader żywiołowo. Wśród nich jest jakaś kobieta o niechybnie magicznych zdolnościach, która paraliżuje umysł druidki. Szczęściem, czy raczej wytężoną siłą woli udaje jej się wyzwolić spod zaklęcia - magiczce puszcza się krew z nosa.
     - Nie chcąc się dłużej narzucać ani tym bardziej ryzykować trwałego uszczerbku na zdrowiu, w krótkich, żołnierskich słowach przekazuje Gaetanowi, co ma mu do powiedzenia i zrywa połączenie.
     - Wycierając krew spod własnego nosa, Ilana odwiedza pokój Kristoffa celem zwrócenia użyczonej maści. Zastaje go podczas jakiejś modlitwy lub rytuału, którą przerwał, by ją wpuścić. Chwilę rozmawiają:
         - tym razem to Ilana przeprasza wyspiarza, bo chyba zrozumiała skąd wzięły się jego kondolencje
-        - oferuje mu możliwość wizyty na Thanned i zasięgnięcia opinii i/lub pomocy magów względem jego predyspozycji
-        - druid jest zaskoczony i trochę onieśmielony jego zdaniem wielce chojną propozycją
+        - oferuje mu możliwość wizyty na Thanedd i zasięgnięcia opinii i/lub pomocy magów względem jego predyspozycji
+        - druid jest wyraźnie zakłopotany i zbywa propozycję stwierdzając, iż się nad nią zastanowi
         - namyślił się już co do wyprawy na smoka; jest skłonny nam towarzyszyć, ale tylko jeśli jesteśmy w pełni świadomi ryzyka i dalej chcemy jego pomocy
+        - wspomina że wyprawa na drewnianym okręcie była testem. W terminie u Myszowora spędził kilka lat.
     - W tym czasie Kajetan dobija się do Ilany. Spotykają się w korytarzu. Elfowi przypomniało się o zamku kultystów w okolicach Buiny i pyta, czy teraz, znając jego położenie, {dziewczyna}Ilana czuje potrzebę, by złożyć tam wizytę i "zrobić porządek". Sam ma wątpliwości względem tej wycieczki, a to z racji niebezpieczeństwa spotkania z Elatan, która także kręci się w tej okolicy. Druidka woli jednak trzymać się z dala od sekciarzy i ich pajęczego bóstwa. Informuje też {czarodzieja}Kajetan, że Kristoff zgodził się pójść z nami na Ivarowego smoka.
     - Rozmowa schodzi na krojące się polowanie. Dyskutujemy jak najlepiej przygotować się do wyprawy. Ilana wspomina Kajetanowi, że chciałaby aby w wolnej chwili, jeszcze przed polowaniem, wysłał wiadomość do Zangenisa - zapytać o sprawę rudej, kamiennej flaminiki i pierścień z rytualnej świecy, zaginiony po całym zajściu.
     - Elf upiera się, że pierścień wcale nie zaginął. Chcąc udowodnić swoją rację, wywraca na lewą stronę swoje kieszenie. Na łóżku Ilany ląduje cała masa najrozmaitszych bibelotów, jednak po pierścieniu ani śladu. Korzystając ze sposobności, {dziewczyna}Ilana przegląda dobytek Kajetana i sugeruje, by sprzedać niepotrzebne fanty żeby nieco podreperować topniejący budżet drużyny. Czarodziej reaguje co najmniej, jakby kazała mu zastawić własną matkę i pośpiesznie chowa swoje bezcenne graty z powrotem do torby. Wychodzi, tłumacząc się kilkoma ważnymi rozmowami przed snem.
     - Po wyjściu kompana, Ilana pisze krótką wiadomość do Skovika, w której docieka, czy podróż mija mu bez przygód i będzie nazajutrz w umówionym miejscu.
     - Przed udaniem się na spoczynek, Kajetan faktycznie wykonuje kilka rozmów zamiejscowych:
-        - __plz add your 3 grosze here__
+        - Morgan Guus wysłał swojego posłańca
+        - Yaevinn puścił rzeczonego posłańca, sprawdzając co niesie
 2. Komu w drogę
     - Spotykamy się przy śniadaniu. Kajetan przeszedł samego siebie i nagotował jak dla całego pułku. Wciska wszystkim dokładkę, bo to "zapłacone", a więc - jak zwykle - przyjął zbyt personalnie wczorajszy komentarz {druidki}Ilana. Między kęsami rozmawiamy co kto dalej zamiaruje:
         - Finarrin musi niebawem stawić się w Verden na jakimś spotkaniu; chciałby spędzić jeszcze jeden dzień wśród studentów, opowiadając im o Mayenie, a potem ruszy w drogę powrotną
-        - Kristoff nie pali się do powrotu na Wyspy - w Mayenie zdaje się znalazł to, po co wysłał go {mentor}Myszowór, a teraz z chęcią poprzesmradza się z nami i bliżej zimy zacznie rozglądać za statkiem na Skellige
+        - Kristoff nie pali się do powrotu na Wyspy - w Mayenie zdaje się znalazł to, po co wysłał go {mentor}Myszowór, a teraz z chęcią poprzesmradza się z nami i bliżej zimy, kiedy morze jest spokojniesze, zacznie rozglądać za statkiem na Skellige
     - Podczas śniadania Kajetan otrzymuje wiadomość od Mardina. Bibliotekarz ma dlań kilka ciekawostek związanych z przedmiotami, które {elf}Kajetan pozostawił mu do zbadania.
-    - Ilana idzie odprowadzić Finarrina. Chce zamienić z opiekunek kilka słów na osobności:
+    - Ilana idzie odprowadzić Finarrina. Chce zamienić z opiekunem kilka słów na osobności:
         - wypytuje o Kościeja, jednak druid nie jest skłonny zagłębiać się w tę historię
         - pyta o jego opinię na temat Kristoffa
         - zdaniem Finarrina młody druid jest trochę pogubiony i przytłoczony swoim nietypowym darem
@@ -36,18 +38,20 @@
         - życząc Lukrecji zdrowia, zagląda jeszcze na wykopaliska
         - widzi, jak dzięki jakiemuś zmyślnemu rozwiązaniu gnomki, wojacy samodwój, niemal bez większego wysiłku naprostowują wciąż lekko skrzywiony menhir
         - zastaje bakalarza nadzorującego pakowanie znalezisk - wykopaliska zostały zamknięte, a oni odesłani do domu w trybie natychmiastowym
-        - obiecuje Edmundowi, że pociągnie za sznurki koneksji i postara się załatwić mu grant pozwalający na dalsze prace
+        - obiecuje Edmundowi, że pociągnie za sznurki koneksji i postara się załatwić mu grant pozwalający na badania w czasie prac stabilizujących jakie ma wykonać brygada z Mahakamu
         - gdy ta dwójka rozmawia, Kristoff niemal niepostrzeżenie zabiera coś z jednej ze skrzyń, co nie uchodzi uwadze Kajetana
     - Spotykamy się przy bramie. Kajetan, niezbyt cicho, reprymenduje Kristoffa, ale w nieco inny sposób, niż Ilana - pyta, czy ma mu pomóc zwędzić coś nieco bardziej dyskretnie. Oferta dociera uszu Finarrina, który patrzy na nas z miną zmęczonego, ale rozbawionego opiekuna niesfornej gromadki.
-    - Żegnamy druida i ruszamy w swoją stronę. Debatujemy, gdzie udać się najpierw. Z racji potrzeby naładowania awaryjnego medalionu Kajetana, wybór pada na Thanned.
-    - {Czarodziej}Kajetan bierze się za rysowanie kręgu w rozmiękczonej deszczem ziemi. Korzystając ze sposobności Ilana prosi Kristoffa o wyjaśnienie, skąd animozje z Drummondami. Według An Craite, klan Drummond najechał ich wyspę i siłą wydarł im połowę ziemi. Od czasu do czasu konflikt zaognia się - okresowo któryś ród skróci jarla tego drugiego o głowę i tak sobie tam żyją. Rudobrody zarzeka się, że to nic personalnego i on sam nie pała szczególną wrogością do opozycyjnego klanu.
+    - Żegnamy druida i ruszamy w swoją stronę. Debatujemy, gdzie udać się najpierw. Z racji potrzeby naładowania awaryjnego medalionu Kajetana, wybór pada na Thanedd.
+    - {Czarodziej}Kajetan bierze się za rysowanie kręgu w rozmiękczonej deszczem ziemi. Korzystając ze sposobności Ilana prosi Kristoffa o wyjaśnienie, skąd animozje z Drummondami. Według An Craite, klan Drummond najechał ich wyspę i siłą wydarł im połowę ziemi, którą próbują odzyskać. Kajetan kwituje że tak samo swoje zachowanie usprawiedliwiają nieludzcy ekstremiści. Od czasu do czasu konflikt zaognia się - okresowo któryś ród skróci jarla tego drugiego o głowę i tak sobie tam żyją. Rudobrody zarzeka się, że to nic personalnego i on sam nie pała szczególną wrogością do opozycyjnego klanu.
     - Teleportacja jest trochę wyboista. Kajetan zauważa, że w okolicy Wyzimy coś próbuje zakłócić nasz kurs i ściągnąć ku sobie. Na szczęście docieramy do swej oryginalnej destynacji, choć niektórzy z nas trochę wyprani z zasobów Mocy. Kristoff, doświadczający tego typu podróży po raz pierwszy, aż przysiada z wrażenia.
 3. Międzylądowanie w Gors Velen
     - Pora jest wczesna, kiedy stajemy w Gors Velen. Kristoff przyznaje, że to jego pierwsza wizyta tutaj. Jest zachwycony miastem tak ludnym i tętniącym życiem, w odróżnieniu od Wysp. Ponoć nawet Kaer Trolde nie jest tak duże i ruchliwe, jak to.
     - Decydujemy rozdzielić się do wieczora - Kajetan ma pilne sprawy do załatwienia w akademii, a Ilana tymczasem wcieli się w rolę miejskiego przewodnika dla {kolegi-druida}Kristoff.
-    - Będąc na Thanned, Kajetan oddaje się obowiązkom i sprawunkom:
+    - Będąc na Thanedd, Kajetan oddaje się obowiązkom i sprawunkom:
         - odwiedza Mardina, jednak ten jest akurat w trakcie wykładu i obiecuje odnaleźć go później
         - w bibliotece zastaje Tizjanę, przeszukującą księgi i zwoje; rozmawiają o możliwości zlokalizowania Isilme
+            - dywinacja będzie czasochłonna i wymagała wielu prób, szczególnie jeśli {elf}Kajetan nie posiada nic należącego do towarzysza z przeszłości
+            - alternatywą jest onejromancja, czarodziejka poleca Korrin z Novigradu
         - Mardin wyjaśnia, czego dowiedział się o powiększonym szkiełku i błyszczącym kości-kamieniu z Brokilonu
             - szkiełko, teraz ciemnogranatowe, aktywnie opiera się wszelkim próbom poznania jego natury
             - próby te kosztowały go wiele czasu i sporo nakładów finansowych w postaci zużytych komponentów
@@ -55,18 +59,25 @@
             - może służyć, podobnie jak nasz kryształy z Craag An, za rezerwuar Mocy
             - mag prosi, by dostarczyć mu podobny kawałek, wówczas uzna dług za uregulowany
         - wieczorem, po zajęciach odnajduje go Daria; chwali się postępami, jakie zrobiła
-        - dziewczynka wymienia z matką listy, ponoć zobaczy ją na święta
+        - dziewczynka wymienia z matką listy, ponoć zobaczą się na {Yule}Midinváerne
+        - nauczyciele dostrzegają w adeptce talent do leczenia, chcą umieścić ją w terminie u Keiry jeśli ta wróci do zdrowia
         - {elf}Kajetan pomaga jej przy odrabianiu lekcji
-    - Na prośbę {druidki}Ilana, {elf}Kajetan kontaktuje się z Lambertem, który, dalej w Angrenie, czeka jak na szpilkach - Keira nie najlepiej zniosła podróż, a teraz wyczekują Velen, by przeprowadzić leczenie w noc jesiennego święta. Wiedźmin jest wdzięczny za to, co zrobiliśmy dla {jego czarodziejki}Keira. Bez marudzenia dzieli się wiedzą na temat potwora, na którego chcemy zapolować:
+    - Na prośbę {druidki}Ilana, {elf}Kajetan kontaktuje się z Lambertem, który, dalej w Angrenie, czeka jak na szpilkach - Keira nie najlepiej zniosła podróż, a teraz wyczekują (razem z Radcliffem, Mozaik, Triss i Dorregarayem) na Velen, by przeprowadzić leczenie w noc jesiennego święta. Wiedźmin jest wdzięczny za to, co zrobiliśmy dla {jego czarodziejki}Keira. Bez marudzenia dzieli się wiedzą na temat potwora, na którego chcemy zapolować:
         - to najprawdopodobniej raraszek, "przerośnięty, bardziej agresywny indyk", choć te zwykle są szarobure, a nie brązowo-rude
         - jego skóra to łuski poprzerastane piórami, niewrażliwymi na ogień (zniosą temperaturę wyższą od topnienia żelaza)
-        - jest czuły na trupi jad (meta: i inne obrażenia nekrotyczne)
-        - jest bardzo terytorialny, robi się nader agresywny, gdy coś zasiedli się w jego gnieździe
+        - jest czuły na trupi jad (mag domyśla się, że i inne obrażenia nekrotyczne)
+        - bestia ma lepszy wzrok niż słuch
+        - jest bardzo terytorialny, robi się nader agresywny, gdy coś zasiedli się w jego gnieździe, będzie próbował je odbić
         - żre na potęgę, gdy przygotowuje się do złożenia jaj
+    - Późnym wieczorem Kajetan widzi się z Mirną
+        - dziewczyna jest przestraszona i zaszokowana
+        - z jakiegoś zaułku obserwuje księżyc nad portem w Kerack, próbując się uspokoić
+        - z tuzina umyślnych wysłanych zajmować się grządkami mandragor wróciło czterech, ciężko poparzonych kwasem, ich ciała częściowo rozpuszczone
+        - {alchemiczka}Mirna pomagała ich opatrzyć, ale wygląda na to że tylko jeden przeżyje
     - Ilana zabiera Kristoffa na wycieczkę po mieście. W drodze mijamy tablice ogłoszeń:
         - nagroda za łeb smoka podskoczyła do 1500GP
-        - oprócz smoka, jest inny potwór, który naprzykrza się karawanom na trasie Gors Velen - Kerack (gdzieś w okolicy Cidaris); info u Thevada Heidmanna w Zaułku Złotników
-    - Zaciekawieni, idziemy wypytać o szczegóły. Po drodze zahaczamy o filię tutejszego banku, celem zrealizowania weksla z polowania na ghule. Procent jest zabójczy (20%+10GP), ale mniejszy byłby jedynie w docelowej filii w Verden (10%), dokąd obecnie całkowicie nam nie po drodze.
+        - oprócz smoka, jest inny potwór, który naprzykrza się karawanom na trasie Gors Velen - Kerack (gdzieś w okolicy Cidaris); informacji należy szukać u Thevada Heidmanna w Zaułku Złotników
+    - Zaciekawieni, idziemy wypytać o szczegóły. Po drodze zahaczamy o filię tutejszego banku, celem zrealizowania weksla z polowania na ghule. Prowizja jest zbójecka (piąta część plus dziesięć sztuk złota dodatkowo), ale mniejszy byłby jedynie w docelowej filii w Verden (dziesiąta część), dokąd obecnie całkowicie nam nie po drodze.
     - Docieramy do interesu rzeczonego Thevada, jak się okazuje, zamożnego kupca prowadzącego swój biznes w mieście. Ilana kojarzy czarnobrodego gnoma ze zlecenia, do którego szukał ludzi jakiś czas temu, jednak wtedy przedstawiał się jako Rondergold. Kupiec opowiada nam o potworze:
         - to ponoć krabopająk
         - atakuje wszystko w okolicy - zwierzęta dzikie i gospodarskie, a także ludzi z karawan
@@ -78,7 +89,7 @@
     - Na Targu Rybnym Kristoff rozgląda się za jakimś podarkiem dla Myszowora. Ilana oddaje mu dziennik polowy {druida}Myszowór, który zwędziła swego czasu z biblioteki w Brugge. Wyspiarz jest zaskoczony i ujęty gestem.
     - Podczas spaceru, na prośbę {młodzieńca}Kristoff Ilana opowiada co nieco o sobie: o tym jak została druidką i kiedy właściwie jej przypadłość dała o sobie znać. Pogrążona w opowieści, trochę nieświadomie, prezentuje rąbek swoich możliwości. Łapie się na tym, że bezwolnie bawi się zaciskając swoje przemienione pięści. Widząc reakcję Kristoffa, pacyfikuje go stwierdzeniem, że nie ma się czego bać - nie gryzie i nie drapie, no chyba, że ją o to poprosi.
     - Rozmawiając, przechadzamy się przez nabrzeże. Słysząc znajome, wyspiarskie głosy, Kristoff nalega, by wstąpić do którejś z okolicznych tawern. Ślepym zrządzeniem szyderczego losu, trafiamy akurat na Reah'ę i jej kompanię wyspiarzy - tym razem dla odmiany w barwach białego niedźwiedzia na niebieskim tle, a więc w klan Tuirseach. Podobnie jak poprzednio w Novigradzie, wyspiarka błyskawicznie dostrzega Ilanę i szczerząc się do towarzyszącego jej Kristoffa, zaprasza oboje do reszty towarzystwa.
-    - Wśród biesiadników jest niejaki Folan, człowiek z drużyny Hjalmara. Typ o jasnych, splecionych w warkocz włosach wyjątkowo imponuje Kristoffowi. Młodzian wypytuje go o ich wyprawę na lodowego giganta sprzed kilku laty.
+    - Wśród biesiadników jest niejaki Folan, Łowczy, łucznik z drużyny Hjalmara. Typ o jasnych, splecionych w warkocz włosach wyjątkowo imponuje Kristoffowi. Młodzian wypytuje go o ich wyprawę na lodowego giganta sprzed kilku laty.
     - Dowiadujemy się, że wyspiarze zostali wysłani tu przez samego Hjalmara żeby uzupełnić sprzęt i zapasy.
     - Za każdym razem, gdy pada wspomnienie o Drummondach, daje się odczuć pogardę, z jaką ci ludzie podchodzą do klanu Skovika.
     - Ilana i Reah rozmawiają o Skoviku. {Druidka}Ilana streszcza, co też aktualnie porabia jej kochanek. Przy okazji co i rusz sprawdza tabliczkę, licząc na odpowiedź. Niestety, kamień milczy jak zaklęty.
@@ -86,10 +97,10 @@
         - Reah dość bezpośrednio zagaja Kristoffa, czy na Wyspach czeka na niego jakaś panna; niestety młodzian nie ma już żadnych bliskich ani rodziny
         - zapytany przez kogoś o Kristoffa Młodszego, posmutniały {druid}Kristoff odpowiada, że już nie żyje
     - Widząc reakcję {młodzieńca}Kristoff, Ilana próbuje dodać mu trochę otuchy i oferuje swoje ucho, gdyby miał potrzebę wygadać się komuś obcemu, nieoceniającemu, opowiedzieć o swoich traumatycznych przejściach. W odpowiedzi Kristoff nazywa ją bratnią duszą, czym wprawia w zauważalne osłupienie.
-    - {Wyspiarka}Reah przez cały wieczór próbuje poderwać Kristoffa, racząc go swoimi dwuznacznymi, a momentami bardzo bezpośrednimi żartami. O ile początkowo mu to schlebia, tak wkrótce dociera do niego, że Reah poważnie chce go przelecieć, co owocuje nietęgą miną i lekką paniką w oczach. 
+    - {Wyspiarka}Reah przez cały wieczór próbuje poderwać Kristoffa, racząc go swoimi dwuznacznymi, a momentami bardzo bezpośrednimi żartami. O ile początkowo mu to schlebia, tak wkrótce dociera do niego, że Reah poważnie chce go zbałamucić, co owocuje nietęgą miną i lekką paniką w oczach. 
     - Gdy dudziarka staje się zbyt natarczywa, a godzina robi się niebezpiecznie późna, {druidka}Ilana ratuje kolegę z opresji. Biorąc {druida}Kristoff pod rękę, autorytatywnie żegna się z wyspiarzami, życząc dobrej nocy. Napotyka zazdrosne spojrzenie Reah'i, na które odpowiada złośliwym uśmiechem i wychodzi, zabierając {"rudego"}Kristoff sprzed nosa chutliwej wyspiarki.
     - Noc na dobre rozgościła się na niebie, a a wraz z nią - księżyc w pełni. W drodze powrotnej Kristoff wyjawia, że słyszał wiele opinii o dzieciach słynnego skalda-zawadiaki Draiga Bon-Dhu, ale nie sądził, że to wszystko prawda. Bał się, że Reah mu nie odpuści.
-    - Chcąc udać się już na nocleg, Ilana pyta Kristoffa, czy jest jeszcze jakaś atrakcja, którą chciałby koniecznie zaliczyć. Odpowiada jej swoiste, pytające spojrzenie. Nie bardzo rozumiejąc, o co chodzi {wyspiarzowi}Kristoff, {druidka}Ilana narzuca szybsze tempo marszu, znów zerkając na milczący kamień komunikacyjny.
+    - Chcąc udać się już na nocleg, Ilana pyta Kristoffa, czy jest jeszcze jakaś atrakcja, którą chciałby koniecznie zaliczyć. Odpowiada jej swoiste, pytające spojrzenie. Udając niezrozumienie, o co chodzi {wyspiarzowi}Kristoff, {druidka}Ilana narzuca szybsze tempo marszu, znów zerkając na milczący kamień komunikacyjny.
     - Dotarłszy na Thanned, Kristoffowi aż odbiera mowę z wrażenia. Jest w głębokim szoku, pierwszy raz widząc na własne oczy instytucję napędzaną magią i na magii zbudowaną.
     - Gdy docieramy do pokoju Kajetana, Ilana prosi go o wysłanie wiadomości do Skovika, by upewnić się, czy wszystko u niego w porządku i nie wpakował się w jakąś nieprzygodę. Wyspiarz jest w trakcie rozbijania obozu. Potrzebuje jeszcze chwili, a wiadomości druidki nawet nie zauważył, bo był mocno zajęty.
 4. Schadzka monitorowana
@@ -104,7 +115,7 @@
         - znalazł ją, gdy na postoju poszedł za potrzebą
         - przez świeże osuwisko otworzyło się wejście prowadzące do jaskini
         - jaskinia ta była naturalna tylko w początkowej części - dalej ściany były gładko wyciosane, definitywnie ludzką ręką
-        - w obrobionej części jaskini, pod czymś przypominającym łuk bramy, piętrzyły się zwłoki Skelligijczyków z różnych klanów
+        - w obrobionej części jaskini, pod czymś przypominającym łuk bramy, piętrzyły się dekapitowane zwłoki Skelligijczyków z różnych klanów
         - dalsze przejście blokował duży blok kamienia z odciśniętymi, krwawymi śladami; Skovikowi nie udało się go poruszyć, by zbadać, co jest za nim
         - Ilana przyznaje się, że odwiedzała jego sny i przeprasza za wścibstwo; pyta, czy kiedykolwiek zauważył jej obecność, gdy śnił o niej, na co mężczyzna reaguje bardzo jednoznaczną, sugestywną miną
         - pyta Skovika, czy chce znać dalszą część snu z jaskinią, który nie tak dawno spędzał mu sen z powiek
@@ -112,7 +123,7 @@
         - Lodbroke odłączył się od niego po dotarciu na Wyspy twierdząc, że _"w jego cieniu Skovik nie napisze własnej historii"_
         - jednego człowieka stracił po drodze, przez syreny
         - inni nieobecni zostali w poprzedniej osadzie
-        - podczas ataku wilków na szczęście nikt znacząco nie ucierpiał
+        - podczas ataku wilków na szczęście nikt znacząco nie ucierpiał, wspomina o wizycie Kajetana
         - bestie są ponoć pupilami lodowych gigantów
         - ostatnio są wyjątkowo zajadłe i agresywne
     - Przez uchylone poły namiotu {druidka}Ilana zauważa, jakie przygotowania Skovik poczynił względem ich spotkania: futra gęsto ścielące podłogę noclegu i niewielką balię z parującą wodą. Mając pewne wątpliwości co do stabilności nowego zaklęcia oraz panowania nad własną formą, proponuje alternatywę, to jest odwiedziny we śnie. Skovik zdaje się na nią, wybór pada więc na śnienie. Ilana kończy wodne zaklęcie i obiecuje odwiedzić go, jak tylko zaśnie. Prosi, by myślał o niej intensywnie.
@@ -126,11 +137,11 @@
         - krwi jest co raz więcej, zaczyna zalewać jaskinię
         - Ilana prosi Skovika, by skupił się na niej i na swoim obozie - by wyobraził sobie ich spotkanie tam
         - sztuczka się udaje, a {druidka}Ilana znów czuje, że ma kontrolę nad otoczeniem; dopieszcza więc scenerię i realizuje obietnicę miłej nocy
-        - w krótkiej przerwie od uciech zauważa księżyc odbijający się na wodzie w balii i swoje odbicie
+        - w krótkiej przerwie od uciech zauważa księżyc odbijający się na wodzie w balii i swoje własne odbicie
         - po chwili jej perspektywa zmienia się; teraz jak przez lustro patrzy na samą siebie, ale jakby spoza namiotu
-        - siedzi na jakimś krześle lub tronie, w zimnej komnacie, przy kamiennym stole, nad którym wisi srebrna pajęczyna
+        - siedzi na jakimś kamiennym tronie, w zimnej komnacie, przy kamiennym stole, nad którym wisi srebrna pajęczyna
         - ze ścian patrzą na nią lustra ukazujące różne obrazy, w tym jeden z nią samą uśmiechającą się złośliwie od ucha do ucha, dosiadającą Skovika
-        - zauważa swoje ręce, kruche i delikatne, obleczone w stare bandaże i łachmany, zauważa odbicie swojej twarzy, ale starszej i obciągniętej pergaminową, białą skórą
+        - zauważa swoje ręce, kruche i delikatne, obleczone w stare bandaże i łachmany, zauważa odbicie swojej twarzy, ale starszej i obciągniętej pergaminową, białą skórą - przywodzi na myśl kapłankę Lwiogłowego Pająka
         - rozeźlona nie na żarty, skupia całą swoją wolę, by zamienić się miejscem z intruzem i wrócić do swojego ja z namiotu
         - finalnie udaje jej się to z niemałym trudem
         - nie mając pewności, czy Skovik w ogóle zauważył, co się stało, kończy zabawę i przerywa sen, życząc mu dobrej nocy
