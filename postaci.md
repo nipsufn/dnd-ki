@@ -445,6 +445,7 @@
         - uczeń Myszowora
         - dłuższe, rude włosy i broda
         - wysoki, postawny, dobrze zbudowany
+        - trochę starszy od Ilany, ale młodszy niż Skovik
         - tatuaże przypominające strużki dymu lub ogień (widoczne głównie na rękach i torsie), jarzące się podczas kontaktu z ogniem
         - ma chowańca, ognistego lisa
     - <a id='p_lodborke' pattern='L.dbrok*'>Lödbroke</a> - człowiek, berserk
