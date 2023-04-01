@@ -14,7 +14,7 @@
         - Stregobor otworzył portal do swojej wieży w Blaviken; gdy jednak próbowali z niej wyjść, drzwi otworzyły się znów na Kwarcowej Górze
         - wówczas widzieli, jak żywiołak-piramida wylazł przez wyrwę
         - Radcliffe zjawił się posprzątać ten bałagan
-        - dwaj magowie spróbowali odesłać żywiołaka na jego płaszczyznę; żywiołak  w jakiś sposób zabrał Radcliffe'a ze sobą, po chwili wrócili, przy czym {mag}Radcliffe - już nieprzytomny i zamrożony
+        - dwaj magowie spróbowali odesłać żywiołaka na jego płaszczyznę; żywiołak w jakiś sposób zabrał Radcliffe'a ze sobą, po chwili wrócili, przy czym {mag}Radcliffe - już nieprzytomny i zamrożony
         - Stregoborowi udało się teleportować poszkodowanego do Kaer Seren, po czym wrócił do swojej wieży, w której ukryli się z Istreddem
         - nie mogąc pokonać żywiołaka, ani pozostałych potworów, czarodzieje utknęli w wieży na prawie miesiąc
     - Debatujemy co dalej. Yennefer, Stregobor i Istredd teleportują się na Thanedd. Nie zamierzają brać udziału w polowaniu na zrzuconego przez Ilanę żywiołaka, którego zbadanie może potencjalnie pomóc wyleczyć Radcliffe'a. Na nic zdają się Kajetanowe apele do lepszej natury i kamraterii.
@@ -22,7 +22,7 @@
     - Przed spoczynkiem rzucamy okiem na domek na szczycie góry. Wnętrze przypomina górską, myśliwską samotnię. No, prawie - stoi tu bowiem łóżko ze złota i kości, a ściany zdobią trofea pochodzące ze smoków.
     - Na jednej ze ścian wisi olejny obraz przedstawiający jakąś operację lub też eksperyment. Zavist rozpoznaje trójkę mężczyzn wyobrażonych na dobrej jakości płótnie.
       ![cosimo-malaspina](https://github.com/nipsufn/dnd-ki/raw/master/img/cosimo-malaspina.jpg?style=block-center "cosimo-malaspina")<a id="obraz"></a>
-    - Chata należała do maga Malaspiny, nauczyciela Alzura i Idarana, doświadczonego łowcy smoków. Znajdujemy w nim bogate, choć (po za złotym łóżkiem) nie ostentacyjne meble wykładane smoczą kością, kolekcje pazurów i trofea, oraz księgę zapisaną jakimś dialektem Starszej Mowy.
+    - Chata należała do maga Malaspiny, nauczyciela Alzura i Idarrana, doświadczonego łowcy smoków. Znajdujemy w nim bogate, choć (po za złotym łóżkiem) nie ostentacyjne meble wykładane smoczą kością, kolekcje pazurów i trofea, oraz księgę zapisaną jakimś dialektem Starszej Mowy.
     - Ilana, za zgodą Zavista, zabiera na pamiątkę dwie rzeczy: kościany grzebyk i pazur jednego ze smoków.
     - Następnie udajemy się na spoczynek w magicznej wieży Kajetana.
 2. W pogoń

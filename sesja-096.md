@@ -7,12 +7,12 @@
     - Na tablicy ogłoszeń zauważamy, że miasto przygotowuje się do obchodów Lammas, letniego święta. Okazuje się, że świątynia jest zamknięta, potrzebne są ręce do pracy, ktoś też szukał wiedźmina na jakiegoś potwora grasującego w lasach na południowym brzegu rzeki.
     - W tłumie zauważamy znajomą rosłą {wyspiarkę}Reah głośno werbującą ludzi dla Roeggnera. Jak na złość wzrok Reah wyławia z tłumu Ilanę.
     - Reah zabiera nas na piwo do karczmy "Na Oxenfurt". Ku niezadowoleniu Ilany, Kajetan opowiada jej nieco o tym, co przytrafiło się Skovikowi, a i my poznajemy wieści:
-        - Lödbroke nie podbił Kerack; pomógł natomiast, razem z Roeggnerem Czarnym, dokonać przewrotu - gdy Roeggner z załogą otwierali bramy siłom Egmunda, brata Króla Viraxasa, legendarny woj w widowiskowy sposób skupił na sobie uwagę znacznej części sił zbrojnych w mieście
+        - Lödbroke nie podbił Kerack; pomógł natomiast, razem z Roeggnerem Czarnym, dokonać przewrotu - gdy Roeggner z załogą otwierali bramy siłom Eggmunda, brata Króla Viraxasa, legendarny woj w widowiskowy sposób skupił na sobie uwagę znacznej części sił zbrojnych w mieście
         - Leiv zaręczył się z młodszą siostrą Roeggnera, Asliv; młody Drummond wydaje się być prawą ręką pirata
         - jest bardzo możliwe, że Roeggner zostanie Jarlem swojego rodu, gdy obecny, Holger Dimun, umrze
         - udział Dimunów i Drummondów w przewrocie w Kerack powiększył rozłam między frakcjami na wyspach, niektórzy barbarzyńcy nawołują do wojny domowej
         - Lödbroke nie słucha się nikogo; niejaki Morkvarg był jedyną osobą, którą uznawał jako zwierzchnika, a i to do czasu - odmówił ataku na świątynię Freyji, będąc od tamtego czasu sobie samemu sterem i okrętem
-        - Morkvarg za swój czyn został przeklęty przez kapłanki i grasował po wyspie Hindarsvjal jako wilkołak, wiecznie głodny - bogini zamieniała cokolwiek próbował zjeść w popiół; ponoć jego cierpienia rok temu ukrócił jakiś wiedźmin
+        - Morkvarg za swój czyn został przeklęty przez kapłanki i grasował po wyspie Hindarsfjall jako wilkołak, wiecznie głodny - bogini zamieniała cokolwiek próbował zjeść w popiół; ponoć jego cierpienia rok temu ukrócił jakiś wiedźmin
         - Reah wybiera się na występ mistrza Jaskra; Kajetan podarował jej odpis jednego z jego wierszy, namawiając, by poprosiła o autograf
         - w Novigradzie jest drugi, mniejszy port - rzeczny; barka jest najszybszą drogą do Oxenfurtu
     - Przy stoliku obok słyszymy grupkę bardzo pijanych studentów, którzy właśnie orientują się, że muszą wrócić na uczelnię:

@@ -225,7 +225,7 @@
         - największa wyspa na Skellige
     - <a id='l_undvik' pattern='Undvik'>Undvik</a>
         - jedna z wysp Skellige, dom lodowych gigantów
-    - <a id='l_hindarsvjal' pattern='Hindarsvjal'>Hindarsvjal</a>
+    - <a id='l_hindarsfjall' pattern='Hindarsfjall'>Hindarsfjall</a>
         - wyspa na Skellige
     - <a id='l_fornhala' pattern='Fornhal*'>Fornhala</a>
         - jedna z osad na Wyspach

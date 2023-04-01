@@ -23,7 +23,7 @@
         - Florian został zamknięty w dwimerytowej klatce w więzieniu o zaostrzonym rygorze; obcięto mu język, a jego oprawcy sondują mu umysł, by dociec powodów jego działań
         - na jednym z nilfgaardzkich statków, które widzieliśmy wpływające do portu, przybywa Henry Var Attre, ambasador Nilfgaardu
         - Złote Miasto wznawia stosunki dyplomatyczne z Królestwami Północy, a sam cesarz zamiaruje niebawem odwiedzić Północ
-    - Następnie Eskel i raport z Est Tayar:
+    - Następnie Eskel i raport z Est Tayiar:
         - pod Trupią Knieją ciągną się kilometry podziemnych budowli, połączonych tunelami, a gdzieniegdzie wciąż aktywnymi teleportami
         - wejście, które udało się wiedźminom znaleźć, było czyjąś dziurą do pozbywania się zwłok, w której zalągł się wypaczony troll górski zwany Kaczerbem; krzywej mordki dostał od jedzenia zwłok z pierwiastkiem magii
         - w tunelach znaleźli opuszczone tydzień - dwa wcześniej laboratorium

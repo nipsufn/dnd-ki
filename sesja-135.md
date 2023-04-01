@@ -27,7 +27,7 @@
     - Kajetan popisuje się swoją znajomością narzecza Wysp, po czym, nie przywiązując do informacji żadnej wagi, opowiada, że nauczyli go Drummondowie, oraz że Ilana się nawet z jednym spotyka, za co druidka wymierza mu kopniaka pod stołem.
     - Dziewczyna przypomina sobie o tabliczce. Zauważa wiadomość od Skovika:
         - przyłączyli się do wędrownego handlarza
-        - są w drodze do Kaer Muine, w jego rodzinne strony
+        - są w drodze do Kaer Muire, w jego rodzinne strony
     - Uzgadniamy, że Finarrin i {podopieczny Myszowora}Kristoff wyruszą sami do Mayeny. Spotkamy się w forcie, albo wcześniej, jeśli ich dogonimy załatwiwszy swoje sprawunki.
     - My tymczasem udajemy się do Cleves. Kajetan wysyła przodem swoją sowę, by mieć ogląd na drogę przed nami. Przekraczamy rzekę i jesteśmy już blisko celu, gdy naszych uszu dochodzi dźwięk jakby przetaczającego się po niebie gromu. Widzimy w oddali ziejącego ogniem smoko-podobnego potwora, zdaje się tego od Ivara i Zerrikanek. Gadzina jest w trakcie polowania na okoliczne ptactwo.
     - Naprzeciw wychodzi nam 3 Scoia'tael z łukami gotowymi do ataku. Dziwią się, że jesteśmy głośni, co Kajetan celnie ripostuje, że to nie za nami gania cała armia Królestw Północy.
@@ -53,7 +53,7 @@
         - tym razem senną komunikację druidka zakańcza samodzielnie
     - Kajetan tymczasem knuje za plecami Ilany i komunikuje się ze Skovikiem. Chce zorganizować kochankom schadzkę za pośrednictwem swoich magicznych sztuczek - odkąd kręci się przy nas {ognisty młodzian}Kristoff, {druidce}Ilana przedłużająca się rozłąka daje się we znaki na tyle, że nawet niezbyt rozgarnięty elf zauważył, że coś jest na rzeczy.
     - {Elf}Kajetan rozmawia z {osiłkiem}Skovik podczas ich postoju, po jakiejś jatce. W obozie leżą truchła wilków o srebrnobiałym futrze i czerwonych ślepiach, w sumie 6 rosłych bestii.
-    - Skovikowi towarzyszy już tylko 10 chłopa. Zabierają się za oprawianie zwierzyny, gdy Kajetan ustala szczegóły spotkania - w pół drogi do Caer Muine, w osadzie Arinbjorn, dokąd mają dotrzeć za jakieś 2-3 dni.
+    - Skovikowi towarzyszy już tylko 10 chłopa. Zabierają się za oprawianie zwierzyny, gdy Kajetan ustala szczegóły spotkania - w pół drogi do Kaer Muire, w osadzie Arinbjorn, dokąd mają dotrzeć za jakieś 2-3 dni.
     - Obecność dopplera czarodzieja nie uchodzi uwadze obozowiczów. Na odchodnym, korzystając ze sposobności, Kajetan przekazuje Otygowi pozdrowienia od dziadka i się rozpływa.
     - Nazajutrz ruszamy dalej. W drodze powiadamiamy Morgana o rezultacie pertraktacji. Szlak wypada nam przez pobojowisko, z którego ludzie wykopują co się da, grabiąc po żołdakach trupy poległych.
     - Doganiamy druidów wieczorem, niemal pod samą Mayeną. W drodze mijamy pomne miejsce wczorajszej rozprawy, znaczone przez zwłoki konia.

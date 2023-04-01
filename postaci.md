@@ -50,7 +50,7 @@
 - <a id='p_lambert' pattern='Lamber*'>Lambert</a> - człowiek, wiedźmin
 - <a id='p_lyssa' pattern='Lyss*,Firg Thearg'>Lyssa, Firg Thearg</a> - elf, dowodzi komandem Scoia'tael
 - <a id='p_malaspina' pattern='Malaspin*'>Cosimo Malaspina</a> - mag
-    - nauczyciel Alzura i Idarana
+    - nauczyciel Alzura i Idarrana
     - z uczniami stworzył wiedźminów szkoły gryfa
     - z pasji łowca smoków
 - <a id='p_margarita' pattern='Margari*,Margari* Laux-Antille'>Margarita Laux-Antille</a> - człowiek, mag, członek Nowej Kapituły
@@ -152,7 +152,7 @@
     - <a id='p_juniper' pattern='Juniper'>Juniper</a> - driada pochodzenia ludzkiego; poniżej 17 lat, jedyna ocalała z 3 driad przybyłych do wioski
     - <a id='p_elba' pattern='Elb*'>Juniper</a> - driada; uczyła Ilanę strzelać z łuku
     - <a id="p_sariel" pattern='Sariel*,Flamin* Sariel*,Flamin*'>Sariel</a> - elf;
-        Flaminka, poprzedniczka Finarrina
+        Flaminika, poprzedniczka Finarrina
     - <a id='p_verdanka' pattern='Verdan*'>Verdanka</a> - człowiek; skryba
     - <a id='p_yaevinn' pattern='Yaevinn*'>Yaevinn</a> - elf;
         Scoia'tael, nosi na sobie szarfę z przypiętymi do niej tarczami różnych królestw (trofea po zabitych?)

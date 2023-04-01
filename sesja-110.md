@@ -73,7 +73,7 @@
             - rzeź na pogórzu Tukajskim, 1244 PP
                 - dokonał jej człowiek, w którym za życia spróbowano osadzić esencję demona przy pomocy goecji
                 - na żądanie Tissai de Vries, po tym jak "wynalazek" zmasakrował kilka wsi, Ortolan musiał ukarać zespół badawczy:
-                    - Biruta wyjechała uczyć na Aretuze zanim nadszedł rozkaz
+                    - Biruta wyjechała uczyć na Aretuzie zanim nadszedł rozkaz
                     - Algernon sam złożył rezygnację jeszcze przed ogłoszonym wyrokiem, o dalszych losach nie ma notek
                     - Tarvix został nauczycielem fechtunku na Ban Ard
                     - Miles został wydalony, o dalszych losach nie ma notek

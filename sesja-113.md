@@ -36,7 +36,7 @@
     - Nocą Ilana próbuje odwiedzić we śnie Skovika, ale starania niweczy dwimeryt, przy którym kręciła się tego wieczora.
 3. Plany i zamiary
     - Nazajutrz na naradzie pada kwestia Zygfryda:
-        - jako kapłan Zakonu Róży był obecny podczas negocjacji w Loc Muine, między Radowidem, a Carduinem
+        - jako kapłan Zakonu Róży był obecny podczas negocjacji w Loc Muinne, między Radowidem, a Carduinem
         - spotkanie traktowało o założeniu nowej Kapituły pod przewodnictwem Carduina i absolutnym zwierzchnictwem (czytaj, podległością) Radowida
         - negocjacje przerwała III Wojna Północna
         - po śmierci Menge i przekształceniu przez Radowida Zakonu Róży w Łowców Czarownic, Zygfryd został głową nowej organizacji - miał pod sobą Myrtona

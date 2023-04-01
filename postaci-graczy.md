@@ -106,7 +106,7 @@
                 - 1 butelka bazy alchemicznej (12 użyć)
                 - 0 <sup>46</sup>/<sub>50</sub> porcji inkaustu
                 - 3 porcja kadzidła
-                - 6 porcji kredy
+                - 5 porcji kredy
             - Fundusze:
                 - 68.1.1 gp
                 - kamienie szlachetne warte 215gp

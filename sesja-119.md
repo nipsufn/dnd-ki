@@ -30,8 +30,8 @@
     - Ilana, znużona technicznymi dyskusjami magów, wyrusza w poszukiwaniu Stregobora i Zavista, którzy ponoć starają się rozpracować żywiołaka odpowiedzialnego za stan zmrożonego czarodzieja.
     - Po drodze natyka się na rozmawiającą przez zwierciadło z Lambertem Yennefer:
         - Lambert rozmawiał ze starym znajomym (meta: Zygfryd?)
-        - ponoć wśród Łowców miejsce miał rozłam - starcie stronnictwa po Himmelfarcie oraz członków wspierających zaginionego/martwego (zależy od wersji plotki) Zygfryda (meta: ciekawe jak się to ma do Myrtona)
-        - część Łowców została pod zwierzchnictwem {"papieża"}Himmelfart
+        - ponoć wśród Łowców miejsce miał rozłam - starcie stronnictwa po Hemmelfarcie oraz członków wspierających zaginionego/martwego (zależy od wersji plotki) Zygfryda (meta: ciekawe jak się to ma do Myrtona)
+        - część Łowców została pod zwierzchnictwem {"papieża"}Hemmelfart
         - ci wierni Zygfrydowi opuścili Novigrad
         - {wiedźmin}Lambert będzie szukał dalszych informacji; kontakty, jakie ma to głównie członkowie półświatka Novigradu: Tasak, "Skurwiel Junior" (jakiś znajomy Jaskra, ponoć został kupcem morskim) oraz "Król Żebraków"
     - {Druidka}Ilana znajduje magów w piwnicy, w sali żywiołów. Jest z nimi także Dorregaray.

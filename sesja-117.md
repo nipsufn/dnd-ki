@@ -20,7 +20,7 @@
     - Decydujemy się eksplorować Górny Zamek. Pierwsze pomieszczenie [(11)](#sesja-117#mapa) przypomina dormitorium z piętrowymi pryczami.
     - Dalej przechodzimy przez coś jakby składzik [(14)](#sesja-117#mapa) z zawalonym sufitem i zwłokami młodszego adepta pod przewróconą szafą.
     - Następnie jest główna hala [(13)](#sesja-117#mapa) z ławami i aulą edukacyjną. Jedyne drzwi prowadzą do kuchni.
-    - Kuchnia [(15)](#sesja-117#mapa), z zamarzniętymi paliskami i dwoma zamrożonymi Azerami nosi ślady pazurów, szczególnie przy drzwiach do spiżarni [(16)](#sesja-117#mapa).
+    - Kuchnia [(15)](#sesja-117#mapa), z zamarzniętymi paleniskami i dwoma zamrożonymi Azerami nosi ślady pazurów, szczególnie przy drzwiach do spiżarni [(16)](#sesja-117#mapa).
     - Spiżarnia [(16)](#sesja-117#mapa) jest prawie nienaruszona, za wyjątkiem jednej ściany - jakby ktoś lub coś z zewnątrz próbowało się tu dostać. Właściciel pazurów wszedł tu kominem, razem z lodem. Mogła być ich nawet dwójka. Rozstaw sugeruje dużego humanoida, możliwe, że trolla. 
     - Wychodzimy na korytarz [(17)](#sesja-117#mapa) prowadzący do klatki schodowej. Jest bardzo wąski - za wąski, by pomieścić większego humanoida.
     - Główna sala [(19)](#sesja-117#mapa) jest zrujnowana, hula w niej mrożący wiatr.

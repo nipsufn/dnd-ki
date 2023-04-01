@@ -11,7 +11,7 @@
         - staruszek jest zły na jej _gacha_
         - jego wnuk, Otyg (podobnie jak kilku innych młodzików), zaciągnął się na okręt Skovika szukać swojej sławy
         - w karczmie ludzie chwalą sobie nowe rządy - że teraz mają dużo pracy; psioczą też na panoszące się, przerośnięte szczury
-        - część statków jest budowanych dla Roeggnera, a inne - na zlecenie króla Egmunda, _księcia Piratów_
+        - część statków jest budowanych dla Roeggnera, a inne - na zlecenie króla Eggmunda, _księcia Piratów_
         - ponoć nowy król tak dobrze poczuł się na tronie, że planuje zlecić postawienie swojego pomnika obok posągu swego dziada, Osmyka
         - świątynię Freyji, przedstawianej jako ciężarna kobieta w niebieskiej sukni z naszyjnikiem, prowadzą kobiety z klan Heymaey na wyspie Hindarsfjall
         - atrybutami Freyji są także sokół i kot; bywa przedstawiana pod postacią tych zwierząt, gdy podróżuje po świecie
@@ -21,7 +21,7 @@
     - Ilana wraca do pustego domu pilnowanego przez dwóch ochroniarzy przycupniętych na murku naprzeciw warsztatu. Nie chcąc robić sceny, pod postacią biedronki wślizguje się do wnętrza przez dziurę w oknie. W oczekiwaniu na kompanów bazgroli wiadomość do Skovika.
 3. Na szczycie półświatka
     - Kajetan i Mirna są tymczasem w Natura Rerum, na spotkaniu z tajemniczym Nilfgaardczykiem.
-    - Mężczyzna dysponuje całym piętrem Natura Rerum, przedstawia się jako Konrad de Vette. Jego ochroniarz ma przy sobie tarczę z przekreślonym symbolem Nildgaardu i podobnie insygnia sugerujące wysoką rangę wojskową.
+    - Mężczyzna dysponuje całym piętrem Natura Rerum, przedstawia się jako Konrad de Vette. Jego ochroniarz ma przy sobie tarczę z przekreślonym symbolem Nilfgaardu i podobnie insygnia sugerujące wysoką rangę wojskową.
     - De Vette wydaje się spodziewać, że onieśmielona Mirna przychodzi z planem działania i przemyślanymi prośbami. Tymczasem ona spodziewa się tego samego po gangsterze - najwyraźniej Bron nie wytłumaczył sytuacji najlepiej żadnej ze stron.
     - Mirna jest zdenerwowana, i, przypominając Kajetanowi Ilanę podczas niedawnej rozmowy z Eithne, gubi wątek, niepewna co powiedzieć.
     - {Elf}Kajetan stara się w miarę możliwości ożywić rozmowę, dzieląc się "plotkami" z Angrenu. W odpowiedzi dowiaduje się kilku ciekawostek:

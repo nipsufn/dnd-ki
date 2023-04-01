@@ -24,7 +24,7 @@
 2. Komu w drogę
     - Spotykamy się przy śniadaniu. Kajetan przeszedł samego siebie i nagotował jak dla całego pułku. Wciska wszystkim dokładkę, bo to "zapłacone", a więc - jak zwykle - przyjął zbyt personalnie wczorajszy komentarz {druidki}Ilana. Między kęsami rozmawiamy, co kto dalej zamiaruje:
         - Finarrin musi niebawem stawić się w Verden na jakimś spotkaniu; chciałby spędzić jeszcze jeden dzień wśród studentów, opowiadając im o Mayenie, a potem ruszy w drogę powrotną
-        - Kristoff nie pali się do powrotu na Wyspy - w Mayenie zdaje się znalazł to, po co wysłał go {mentor}Myszowór, a teraz z chęcią poprzesmradza się z nami i bliżej zimy, kiedy morze jest spokojniesze, zacznie rozglądać za statkiem na Skellige
+        - Kristoff nie pali się do powrotu na Wyspy - w Mayenie zdaje się znalazł to, po co wysłał go {mentor}Myszowór, a teraz z chęcią poprzesmradza się z nami i bliżej zimy, kiedy morze jest spokojniejsze, zacznie rozglądać za statkiem na Skellige
     - Podczas śniadania Kajetan otrzymuje wiadomość od Mardina. Bibliotekarz ma dlań kilka ciekawostek związanych z przedmiotami, które {elf}Kajetan pozostawił mu do zbadania.
     - Ilana idzie odprowadzić Finarrina. Chce zamienić z opiekunem kilka słów na osobności:
         - wypytuje o Kościeja, jednak druid nie jest skłonny zagłębiać się w tę historię
@@ -103,7 +103,7 @@
     - Gdy dudziarka staje się zbyt natarczywa, a godzina robi niebezpiecznie późna, {druidka}Ilana ratuje kolegę z opresji. Biorąc Kristoffa pod rękę, autorytatywnie żegna się z wyspiarzami, życząc dobrej nocy. Napotyka zazdrosne spojrzenie Reah'i, na które odpowiada złośliwym uśmiechem i wychodzi, zabierając {"rudego"}Kristoff sprzed nosa chutliwej wyspiarki.
     - Noc na dobre rozgościła się na niebie, a a wraz z nią - księżyc w pełni. W drodze powrotnej Kristoff wyjawia, że słyszał wiele opinii o dzieciach słynnego skalda-zawadiaki, Draiga Bon-Dhu, ale nie sądził, że to wszystko prawda. Bał się, że Reah mu nie odpuści.
     - Chcąc udać się już na nocleg, Ilana pyta Kristoffa, czy jest jeszcze jakaś atrakcja, którą chciałby koniecznie zaliczyć. Odpowiada jej swoiste, pytające spojrzenie. Udając niezrozumienie, o co chodzi {wyspiarzowi}Kristoff, {druidka}Ilana narzuca szybsze tempo marszu, znów zerkając na milczący kamień komunikacyjny.
-    - Dotarłszy na Thanned, Kristoffowi aż odbiera mowę z wrażenia. Jest w głębokim szoku, pierwszy raz widząc na własne oczy instytucję napędzaną magią i na magii zbudowaną.
+    - Dotarłszy na Thanedd, Kristoffowi aż odbiera mowę z wrażenia. Jest w głębokim szoku, pierwszy raz widząc na własne oczy instytucję napędzaną magią i na magii zbudowaną.
     - Gdy docieramy do pokoju Kajetana, Ilana prosi go o wysłanie wiadomości do Skovika, by upewnić się, czy wszystko u niego w porządku i nie wpakował się w jakąś nieprzygodę. Wyspiarz jest w trakcie rozbijania obozu. Potrzebuje jeszcze chwili, a wiadomości druidki nawet nie zauważył, bo był mocno zajęty.
 4. Schadzka monitorowana
     - Odczekawszy swoje, Ilana wreszcie używa zaklęcia w krysztale. Z niemałym trudem udaje jej się sztuczka i staje na wzgórzu obok samotnego obozu z pojedynczym namiotem i grzejącym się nad ogniem kociołkiem z lodem. Z pagórka rozciąga się widok na osadę, skutą lodowym wałem od strony morza, oświetloną mrowiem ognisk i zapalonych pochodni.

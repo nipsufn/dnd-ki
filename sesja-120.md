@@ -18,7 +18,7 @@
             - Stregobor, obecnie dziwak od iluzji, dawniej - tytan klątw; ponoć fiasko na Risbergu zmusiło go do zmiany specjalizacji
     - Po dwóch dniach spędzonych na odpoczynku i regeneracji sił idziemy do Mardina po świeże wieści:
         - Yennefer wyruszyła za wiedźminami do Est Tayiar, jako że coraz trudniej było z nimi porozumiewać się środkami magicznymi
-        - Istredd bada jedno z miejsc mocy, w Tuzli, stolicy Księstwa Angren, obecnie lenna Nilfgardzkiego
+        - Istredd bada jedno z miejsc mocy, w Tuzli, stolicy Księstwa Angren, obecnie lenna Nilfgaardzkiego
     - Kajetan kontaktuje się z Istreddem:
         - punkt mocy znajduje się na bagnach Ysgith, w Caed Dhu (Czarnym Gaju), dawniej letniej siedzibie okolicznych druidów
         - ostatnio na bagnach pojawiają się dziwne twory (wielkie węże, ropuchy i pająki), ktoś smaruje ludziom na chatach napisy w nieznanych językach

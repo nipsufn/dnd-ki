@@ -77,7 +77,7 @@
             - Radcliffe jest w stabilnym stanie, magicznie zamrożony
             - problemy w Kaer Seren mógł spowodować niestabilny punkt mocy albo nieudana teleportacja, która miała by otworzyć okno do Białego Zimna
             - Zangenis potrzebuje odpoczynku, nic mu nie będzie
-    - Książę Stennis wydaje się szalenie podobny do pewnego dezertera z Aedirn, którego spotkaliśmy około roku temu w Ellander. Na wzmiankę o Yarrim reaguje jednak zdecydowanym chłodem. Ostrzega, by lepiej nie wspominać o tym nikomu, dla własnego dobra.
+    - Książę Stennis wydaje się szalenie podobny do pewnego dezertera z Aedirn, którego spotkaliśmy około roku temu w Ellander. Na wzmiankę o Yariim reaguje jednak zdecydowanym chłodem. Ostrzega, by lepiej nie wspominać o tym nikomu, dla własnego dobra.
     - Bal dobiega końca, nastaje ostatnia (nudna) formalna część, tj. dyskusja na temat kroków względem sytuacji politycznej. Gorącym tematem jest tron Kaedwen. Zostają wymienieni wszyscy 4 pretendenci:
         - Buskon z Ard Carraigh, syn zrobiony lokalnej kurwie, mnich zakonu Lebiody, wspierany przez lokalną szlachtę - prostaka łatwo będzie zmanipulować
         - Katarina, córka szlachcianki

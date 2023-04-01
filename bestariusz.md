@@ -96,6 +96,10 @@
         - są mięsożerne
     - <a id='b_peryton' pattern='[Pp]eryton*'>Peryton</a>
         - jeleń ze skrzydłami, ponoć lata
+    - <a id='b_raraszek' pattern='[Rr]arasz*'>Raraszek</a>
+        - ornitodragon z piórami odpornymi na temperatury większe niż w kowalskim palenisku
+        - podatny na Trupi Jad i obrażenia nekrotyczne
+        - najlepszym zmysłem jest węch, potem wzrok, na końcu słuch
     - <a id='b_szarak' pattern='[Ss]zarak*'>Szarak</a>
         - żywi się emocjami
         - widzą go dzieci, dorośli mogą go zauważyć w lustrze bądź po posypaniu potwora srebrnym pyłem(?)

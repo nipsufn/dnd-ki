@@ -40,13 +40,13 @@
             - Dol Blathanna będzie reprezentował Filavandrel Aen Fidhail ze Srebrnych Wież
             - Aedirn reprezentuje książę Stennis
             - Temerię - królowa Adda
-            - Wolne miasto Makaham - starosta Brouver Hogg
+            - Wolne miasto Mahakam - starosta Brouver Hogg
             - czy ktoś z Redanii zaszczyci Kapitułę swoją obecnością, nie wiadomo
             - Kaedwen jest pogrążone w wojnie domowej, w związku z zamknięciem Ban Ard dziedzictwo tronu nie jest jasne (magowie nie mogą dziedziczyć funkcji politycznych, najmłodszy i jedyny prawy syn Króla Henselta uczył się w szkole magów, jednak nigdy nie miał okazji jej ukończyć)
         - oddaje odpisy traktatów alchemicznych i zostawia wiadomość Margaricie
     - Po drodze Ilana próbuje sprzedać parę swoich gratów, w tym dowiedzieć się przybliżonej wartości rzekomo cennej czarnej perły. Przez nieostrożność ściąga na siebie uwagę szemranych typów łasych na cenny bibelot.
     - {Druidka}Ilana znajduje wyspiarzy w jakiejś spelunie, w towarzystwie drużyny Yarpena Zigrina, która znów zaanektowała knajpę na zamkniętą imprezę.
-        - krasnoludy ochraniają Brouvera Hogga, starostę Wolnego Miasta Makahamu, który wraz z resztą przybył do Gors Velen na przyjęcie na Thanedd jako delegacja z niezależnego królestwa Mahakamu.
+        - krasnoludy ochraniają Brouvera Hogga, starostę Wolnego Miasta Mahakamu, który wraz z resztą przybył do Gors Velen na przyjęcie na Thanedd jako delegacja z niezależnego królestwa Mahakamu.
         - problem żuków rdzewiaków został w sumie zażegnany
         - w mieście odkryto starożytną grotę z odwróconą piramidą z czarnego kamienia, gdy górnicy wyłamali wrota, "zaczęły się problemy", między innymi z żukami - chcą namówić magów do pomocy w zbadaniu znaleziska
         - Yarpen wszedł w posiadanie topora, którego Kajetan pozbył się jakiś rok temu, bardzo go sobie chwali
