@@ -4,6 +4,7 @@
 - [Lokacje](#l_)
 - [Ogłoszenia](#o_)
 - [Bestiariusz](#b_)
+- [Mapy](#m_)
 - [Heraldyka](#h_)
 - [Zadania](#z_)
 - [Różne](#r_)
