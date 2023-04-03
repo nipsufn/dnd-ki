@@ -1,33 +1,72 @@
 ### Sesja 138
 ##### [Sesja 137](#sesja-137) [Sesja 139](#sesja-139)
 1. Dzień na Thanedd
-    - Ilana budzi się o bladym świtaniu. Wybiera się do biblioteki w poszukiwaniu ksiąg o żywiole ognia i jego kontroli. Zagubiona wśród nieczytelnie oznaczonych regałów, natyka się na Zavista:
-        - {Dziewczyna}Ilana niezręcznie pyta o interesujące je księgi, za wszelką cenę próbując nie powiedzieć nic o Kristoffie czy jego umiejętnościach
-        - Dostaje grube tomisko pióra Tissai De Vries, _Wprowadzenie do teorii kontroli Mocy dla początkujących_. Ogólnikowe pytania o coś bardziej praktycznego {czarodziej}Zavist kwituje, że to najniebezpieczniejszy żywioł, a wszystko czego może potrzebować jest opisane w księdze którą właśnie dostała
-        - {druidka}Ilana przypadkiem dowiaduje się że Zavist i Stregobor wybierają się razem na jakąś wyprawę
-    - Przy śniadaniu Kristoff opowiada znów o wyspach
-        - onejromancja jest najpopularniejszą formą "magii" na wyspach, posługują się nią niektórzy druidzi i wiele kapłanek Freyii
-        - wśród druidów specjalistą w tym temacie jest Hiort
-    - Wyruszamy porozmawiać z Mardinem. Ilana i Kajetan zostają nieco w tyle by porozmawiać, gdy {ciekawski wyspiarz}Kristoff poznaje administratora Aretuzy
-        - {druidka}Ilana opowiada o swoich kontrolowanych snach. Dostrzegając intymność tematu, {czarodziej}Kajetan daruje sobie swoje typowe, spłycające, cyniczne i ekstremistyczne spojrzenie na problemy
-        - {elf}Kajetan dowiaduje się o problemach, jake Ilanie sprawiają byty nawiedzające jej sny. Dziwi się, że mimo tego {dziewczyna}Ilana dalej z nimi eksperymentuje.
-        - Kajetan dowiaduje się też o poczynaniach i koszmarach Skovika, łącznie z historią o jaskini pełnej martwych wyspiarzy z zakrwawioną kamienną płytą
+    - Ilana budzi się o bladym świtaniu. Nie chcąc budzić towarzyszy, zostawia kartkę na stole, że wybiera się do biblioteki.
+    - Mardin zdaje się chyba jeszcze śpi. Druidka przeczesuje księgozbiory w poszukiwaniu ksiąg o żywiole ognia i jego kontroli. Zagubiona wśród nieczytelnie oznaczonych regałów, natyka się na Zavista.
+    - {Dziewczyna}Ilana niezręcznie pyta o interesujące ją księgi, za wszelką cenę próbując nie powiedzieć nic o Kristoffie, czy jego umiejętnościach. Dostaje grube tomisko pióra Tissai De Vries, _Wprowadzenie do teorii kontroli Mocy dla początkujących_. Ogólnikowe pytania o coś bardziej praktycznego {czarodziej}Zavist kwituje, że to najniebezpieczniejszy żywioł, a wszystko, czego może potrzebować jest opisane w księdze, którą właśnie dostała. Przypadkiem dowiaduje się, że Zavist i Stregobor wybierają się razem na jakąś wyprawę.
+    - Spotykamy się na stołówce. Przy śniadaniu Ilana relacjonuje Kajetanowi, jak poszło z zaklęciem. Wspomina o tym, że musiała jednak skorzystać ze śnienia. 
+    - Kristoff, zaciekawiony tematem, opowiada znów nieco o Wyspach:
+        - onejromancja jest tam dość popularna, posługują się nią niektórzy druidzi i wiele kapłanek Freyji
+        - wśród druidów specjalistą w tym temacie jest niejaki Hiort, trzymający się z klanem Brokvar
+        - zauważywszy naszyjnik z kłów, którym bawi się Ilana, robi nietęgą minę, jakby kojarzył mu się z czymś niedobrym
+    - Posiliwszy się zamiarujemy porozmawiać z Mardinem. Odnajdujemy bibliotekarza na jednym z balkonów, konwersującego z Zavistem. Czekamy więc na sposobny moment, by przedłożyć swoją sprawę. Ilana wykorzystuje okazję i prosi Kajetana na stronę. Opowiada, co jej leży na wątrobie:
+        - {druidka}Ilana mówi o swoich kontrolowanych snach
+        - dostrzegając intymność tematu, {czarodziej}Kajetan daruje sobie swoje typowe, spłycające, cyniczne i ekstremistyczne spojrzenie na problemy
+        - {elf}Kajetan dowiaduje się o problemach, jake Ilanie sprawiają byty nawiedzające jej sny; dziwi się, że mimo tego {dziewczyna}Ilana dalej z nimi eksperymentuje
+        - dowiaduje się też o poczynaniach i koszmarach Skovika, łącznie z historią o jaskini pełnej martwych wyspiarzy z zakrwawioną kamienną płytą
+        - wspólnie rozważamy, czy nie byłoby dobrze wybrać się do tego znikającego zamku
+        - Ilana relacjonuje, czego dowiedziała się poprzedniego dnia na mieście
+        - wspomina o drugim potworze, krabopająku; Kajetan w odpowiedzi przebąkuje o problemie Mirny, który może mieć związek z tą paskudą
+    - Pożegnawszy rozmówcę, Mardin sposobi się do nabicia fajki. {Beztroski wyspiarz}Kristoff, pozostawiony chwilowo samemu sobie, częstuje administratora Aretuzy swoim tytoniem i wdaje się z nim w pogawędkę. Ilanie udaje się dosłyszeć fragment ich rozmowy: 
+        - Kristoff opowiada o jakiejś uczcie
+        - Cerys zaprosiła na nią Dorregaraya po tym, jak wyswobodzili go z jego utkniętej wieży
+        - czarodziej miał nietęgą minę, gdy zaserwowano na stół wyspiarskie specjały z podrobów
+    - Doczekawszy się na swoją kolej, pytamy Mardina o kilka spraw - Ilana chce się pozbyć kilku magicznych fantów, a Kajetan - coś zakupić. Niestety, Myrra, która zajmuje się artefaktorium i wyceną, jest chwilowo niedostępna, oddelegowana jako opiekunka uczniów podczas szkolnej wycieczki na miasto. Z tego tytułu reszta wykładowców ma dziś dzień wolny.
     - Mardin nie może sprzedać {elfowi}Kajetan zwoju z zaklęciem teleportacji. Odsyła go do Carduina, który, brzmiąc oficjalnie czy oschle, odmawia dostępu do takiej wiedzy powołując się na niską rangę petenta.
-    - Ilana sprzedaje Zavistowi lodowy miecz znaleziony w Kaer Seren Zavistowi za 700GP, zostawia też trochę rzeczy w artefaktorium Myrze do wyceny
-    - Kajetan rozmawia z Zangenisem:
-        - w kwestii spetryfikowanej flaminiki, niewątpliwie potrzebna będzie krew bestii która zaatakowała oraz żółć bazyliszka, pomocna była by krew samej ofiary (której raczej nie znajdziemy)
-        - czarodziej ma dwie poszlaki gdzie można by zdobyć rzeczoną żółć, nie chcąc nas rozpraszać, poinformuje nas gdy którąś potwierdzi jako prawdziwą
-        - znaczny upływ czasu - blisko ćwierć wieku - może znacząco wpłynąć na stan umysłu rudowłosej
-        - świeczka, którą ściągnęliśmy klątwę ze Skovika, powinna wystarczyć na cztery użycia. Zangenis spekuluje na temat jej zniknięcia:
+    - Czekając na korytarzu przed gabinetem Carduina, Ilana znów bierze Kristoffa na spytki:
+        - wyspiarscy druidzi to głównie mężczyźni
+        - nie kojarzy, by na Wyspach znajdowała się teraz jakakolwiek druidka, ale wie z historii, że takowe jak najbardziej istniały
+        - obecnie druidów jest zdecydowanie mniej, niż kapłanek Freyji
+        - zarówno druidzi, jak i kapłanki, gdy zostają mianowani, porzucają swój ród, przynajmniej według tradycji
+        - w praktyce wygląda to różnie - kapłanki Freyji są niemal wszystkie z jednego rodu
+        - Hiort, druid od snów, był mocno zżyty z klanem Brokvar; doradzał ich jarlowi, a gdy ten zmarł, oskarżono go o otrucie głowy rodu i gierki polityczne
+    - Spod pokoju Carduina zachodzimy do Zavista. Ilana otrzymała od bibliotekarza informację, jakoby {jego poprzednik}Zavist interesował się lodowym mieczem znalezionym w Kaer Seren. {Mag}Zavist oferuje zań 700GP lub handel wymienny. {Druidka}Ilana, upewniwszy się, że Kajetan niczego nie potrzebuje, wybiera złoto.
+    - Pozostałe graty, które Ilana ma na zbyciu, zanosimy do artefaktorium Myrze do wyceny. Wśród rzeczy są pozostałości dwóch strażników z Risbergu, ale nie do sprzedania, a w formie ciekawostki dla celów naukowych.
+    - Robimy listę sprawunków, chcąc pod wieczór zjawić się w Burdoff. Kajetan przypomina sobie, że na prośbę {dziewczyny}Ilana miał rozmówić  się z Zangenisem:
+        - w kwestii spetryfikowanej flaminiki, niewątpliwie potrzebna będzie krew bestii, która ją zaatakowała oraz krew samej ofiary (której raczej nie znajdziemy)
+        - alternatywą do odczynienia uroku może być żółć bazyliszka
+        - czarodziej ma dwie poszlaki, gdzie można by zdobyć rzeczoną żółć; nie chcąc nas rozpraszać, poinformuje nas, gdy którąś potwierdzi jako prawdziwą
+        - ostrzega, że znaczny upływ czasu - blisko ćwierć wieku - może znacząco wpłynąć na stan umysłu rudowłosej
+        - świeczka, którą ściągnęliśmy klątwę ze Skovika, powinna wystarczyć na cztery użycia; jej pochodzenie nie jest do końca znane, Zangenis spekuluje więc na temat jej zniknięcia:
             - mogło to być zupełnie normalne dla tego artefaktu
-            - mógł zniknąć i pojawić się gdzieś na północy, gotowy do kolejnych użyć
-            - w drugim przypadku, jeśli ktoś wykorzysta wszystkie użycia, klątwa może powrócić, lub nadmiarowe użycia przedmiotu wyspiarz może sponsorować własnymi siłami życiowymi. Może też nic się nie stać, w końcu są to spekulacje.
+            - mógł zniknąć i pojawić się gdzieś na Północy, gotowy do kolejnych użyć
+            - w drugim przypadku, jeśli ktoś wykorzysta wszystkie użycia, klątwa może powrócić lub nadmiarowe użycia przedmiotu {wyspiarz}Skovik może sponsorować własnymi siłami życiowymi
+            - może też nic się nie stać, w końcu są to spekulacje
+    - Czekając, aż mag skończy swoją rozmowę na odległość i podzieli się z nią rewelacjami, Ilana gawędzi z Kristoffem:
+        - pyta o rytuał, który odprawiał przedwczoraj, gdy mu przerwała
+        - młodzian modlił się do Freyji; wspomina zdawkowo, że za rodzinę, ale nie ma zamiaru zdradzać dokładnej intencji, a druidka - wpraszać się z buciorami w intymność
+        - dziewczyna zmienia temat na lżejszy, opowiada o polowaniu na gryfa i o innych dziwactwach, z którymi się zetknęliśmy
+        - w zamian słyszy nieco o skelligijskim folklorze: o syrenach (są ponoć 2 gatunki, z których bajki zrobiły jedność), trollach i osobliwej inicjacji łowców z Ferlund z udziałem wilków
+        - ponoć w tak zwanej _próbie lasu_, bestie przywlekają w pyskach tych młodzików, którzy oblali swój test
+    - Idziemy na miasto zrobić ostatnie zakupy na drogę. Kristoff, po porannej nieudanej próbie samodzielnego ochędożenia swego zarostu, rozgląda się za balwierzem. W tym czasie nasza dwójka odwiedza alchemika celem nabycia trupiego jadu. Sprzedawca oferuje nam towar "spod lady", niestety cena jest lekko zaporowa. W negocjacjach nie pomaga ani kajetanowe błyskanie medalionem Kapituły, ani pozornie przypadkowe świecenie dekoltem druidki. Wychodzimy z niczym, ale po drodze, u złotnika, Ilanie udaje się sprzedać za ładnych parę groszy mosiężny naszyjnik, który dawno temu dostała w gratisie do jakichś zakupów.
+    - Gdy tak czekamy, aż Kristoff zrobi się na (u)bóstwo, Kajetan skrobie krótką notkę do Ivara. Wyspiarz nie odpowiada, więc elf kontaktuje się z nim bardziej bezpośrednio, trochę zaniepokojony o nasze plany. Ivar nie jest niczym szczególnie zajęty, ale odpowiada z takim entuzjazmem, jakby chciał zapomnieć o sprawie i się wycofać.
+    - Nie bacząc na humory {Drummonda młodszego}Ivar, zbieramy się do kupy i dzięki uprzejmości Kajetana przenosimy do Burdoff magiczną metodą.
 2. Do Burdoff
-    - Kajetan teleportuje całą ferajnę do portu nad jeziorem. Znów trochę nie wycelował, wyrzucając towarzystwo kilka stóp nad wodą miast przed karczmą. Nie chcąc zmoczyć butów, rzuca zaklęcie lotu na skołowanych towarzyszy
-    - Brawurowe i krzykliwe przybycie do miasteczka bardzo irytuje Ilanę, która preferuje unikać uwagi ludzi
-    - W karczmie znajdujemy Ivara i Chidę. Spędzamy wieczór planując
-        - Kajetan opiernicza wyspiarzy gdy tylko zaczynają robić sobie przytyki ze względu na rody z jakich pochodzą
-        - Zamierzamy spróbować zwabić potwora na jakąś z okolicznych łąk barwną płachtą i smacznymi kąskami, to jest dużym ptactwem, przyzwanym przez Ilanę
+    - Kajetan teleportuje całą ferajnę do portu nad jeziorem. Znów trochę nie wycelował, wyrzucając towarzystwo kilka stóp nad wodą, miast przed karczmą. Nie chcąc zmoczyć butów, rzuca zaklęcie lotu na skołowanych towarzyszy.
+    - Brawurowe i krzykliwe przybycie do miasteczka bardzo irytuje Ilanę, która preferuje unikać uwagi ludzi. Druidka dostrzega w tłumie kilka twarzy szczególnie zaaferowanych naszym nietuzinkowym wejściem:
+        - żebraka ex-Łowca
+        - jakiegoś zaciekawionego, dostatnio odzianego typa w czerni
+        - grupkę zakonników lub mnichów
+    - Odprowadzani krzykami gapiów, zachodzimy do karczmy, gdzie przy jednym ze stołów znajdujemy Ivara i Chidę. Po ciepłych powitaniach i wymianie konwenansów, zamawiamy jadło i napitek do pokoju, chcąc omówić wszystko na osobności.
+    - Ivar wygląda zdrowo i wręcz rozkwita, jakby się tu zadomowił. Widać, że życie w mieście i praca w kuźni mu służą. Chwali się, że dzięki temu udało mu się zrobić nową zbroję, jako że z oryginalnej musieli go wydłubać po upadku z góry. Jego rogaty chełm - jedyna ocalała część poprzedniego rynsztunku - leży zagrzebany pod stertą rupieci, niczym natrętny wyrzut sumienia.
+    - Chidda też wygląda raczej dobrze, a już na pewno w porównaniu ze stanem, w jakim zastaliśmy ją ostatnio. Nadal ma widoczne ślady od ognia i zdecydowanie krótsze włosy. Swój dotychczasowy ubiór zmieniła na bardziej pospolity, identyczny jak lokalni.
+    - Spędzamy wieczór planując:
+        - zamierzamy spróbować zwabić potwora na jakąś z okolicznych łąk barwną płachtą i smacznymi kąskami, to jest dużym ptactwem, przyzwanym przez Ilanę
         - Kajetan oślepi i przykuje bestię do ziemi
-        - jeśli Raraszek umknie, ruszymy za nim, do jego leża, by dokończyć dzieła.
+        - jeśli raraszek umknie, ruszymy za nim, do jego leża, by dokończyć dzieła
+    - Jako że w Ellander nie mieliśmy nazbyt dużo przyjemności z Zerrikankami, przybliżamy Chiddzie, a i Ivarowi, w czym kto z nas się obecnie specjalizuje. Gdy przychodzi kolej Kristoffa do przedstawienia się, Ivar nie może sobie odmówić sobie kąśliwego komentarza na temat An Craite, co - z niewiadomych przyczyn - w momencie rozsierdza Kajetana. {Elf}Kajetan opiernicza wyspiarzy, gdy tylko zaczynają robić sobie przytyki. Obaj przebąkują coś o jakiejś niedawnej swadzie, ale nie wdają się w szczegóły, pomni ostrej reprymendy czarodzieja.
+    - Gdy Ilana wspomina o Skoviku, tym razem Kristoff marszczy brew na dźwięk jego imienia. Czyżby więc jednak go skądś kojarzył?
+    - Dopiąwszy planowanie, umawiamy się na rano i rozchodzimy na nocleg - Kajetan nie ma zamiaru płacić za spanie w tłocznej, głośnej karczmie, skoro może postawić swoją wieżę w tym samym zaułku, co ostatnio.
+    - Ivar wydaje się być zatroskany o Ilanę. Żegnając się z nią zauważa, że wygląda jakby ją coś gnębiło i pyta, czy wszystko w porządku. Nie chcąc się wdawać w szczegóły, {druidka}Ilana zbywa go krótkim stwierdzeniem, że to przez kłopoty ze snem i rozłąkę.
+
 ##### [Sesja 137](#sesja-137) [Sesja 139](#sesja-139)
