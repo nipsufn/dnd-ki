@@ -146,6 +146,7 @@
         - zauważa swoje ręce, kruche i delikatne, obleczone w stare bandaże i łachmany, zauważa odbicie swojej twarzy, ale starszej i obciągniętej pergaminową, białą skórą - przywodzi na myśl kapłankę Lwiogłowego Pająka
         - rozeźlona nie na żarty, skupia całą swoją wolę, by zamienić się miejscem z intruzem i wrócić do swojego "ja" z namiotu
         - finalnie udaje jej się to z niemałym trudem
-        - nie mając pewności, czy Skovik w ogóle zauważył, co się stało, kończy zabawę i przerywa sen, życząc mu dobrej nocy
+        - nie mając pewności, czy Skovik w ogóle zauważył, co się stało, kończy zabawę, życząc mu dobrej nocy
+        - ostatnim wysiłkiem intruza jest próba "strzaskania" snu, szczęściem Ilanie udaje się wyrwać ze snu i zaznać nocnego odpoczynku
 
 ##### [Sesja 136](#sesja-136) [Sesja 138](#sesja-138)
