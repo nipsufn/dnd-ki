@@ -129,6 +129,7 @@
                         - Empowered Magic. While holding the shard, you can use it as a spellcasting focus, and it gives you a +1 bonus to your spell attack rolls, and a +1 bonus to your Spell Saving DC.
                         - Enhanced Strength. Your Strength score increases by 4 while the shard is on your person. The shard can't raise your Strength score above 22.
                         - Curse. Attuning to this item extends its curse to you. You remain cursed until you are targeted by a remove curse spell or similar magic, or until the shard is reformed into a bigger fragment. It happens on natural 1 on attack roll, ability check and saving throw
+
                             | Nr. | Misfortune |
                             | :--- | :--- |
                             | 1 | You accidentally cut yourself with the shard and are poisoned until the next dawn. |
@@ -137,7 +138,7 @@
                             | 4 | The shard releases three glowing darts of magical force that target one random creature within 30 feet of you. If no such target exists, you become the target. Each dart hits automatically and deals 3 (1d4 + 1) force damage to the target. |
                             | 5 | Until the next dawn, Beasts with an Intelligence score of 3 or lower are hostile to you. |
                             | 6 | Nothing seems to go your way. Until the next dawn, you have disadvantage on ability checks. |
-                    Once you use any of this features, you can't use it again until you finish a long rest.
+
                 - Ⓐ2 odłamki Eluviaanu
                     - Attunement: Elf only
                     - A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
