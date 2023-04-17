@@ -52,7 +52,7 @@
     - Właścicielka [Pod Zieloną Świeczką](Zielona Świeczka); "Towarzystwo"
 - [x] Leśne igraszki<a id='z_q13'></a>
     - Kryształowy koralik dla Kajetana
-    - Pomóc odszukać druha [Yeavinna](Yaevinn) na wschodzie Brokilonu
+    - Pomóc odszukać druha [Yaevinna](Yaevinn) na wschodzie Brokilonu
 
 ---
 - Ekspedycja do Kaer Seren

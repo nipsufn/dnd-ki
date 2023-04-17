@@ -30,30 +30,13 @@
             - 1 Piersiówka z nalewką z mandragory, 1/2
             - naszyjnik kul ognia, 3 nieodnawialne użycia
             - ⒶPierścień ochrony +1 do rzutów obronnych
-            - ⒶBrosza Ucieczki - 2/2
-                - This broch has 2 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it.
-                - If you have the Arcane Recovery feature, you can also use 1 charge to recharge this ability if you have already used it.
-                - The broch regains 1 expended charge per 24h spend in a Place of Power.
-            - Ⓐ1 większy odłamek Eluviaanu
-                - Attunement: Elf only
-                - A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
-                - Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
-                - When attuned to an character possessing the Fey Ancestry trait gains the following features:
-                    - Can cast the spell [clairvoyance](https://5e.tools/spells.html#clairvoyance_phb) as a spell like ability
-                    - As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
-                    - Empowered Magic. While holding the shard, you can use it as a spellcasting focus, and it gives you a +1 bonus to your spell attack rolls, and a +1 bonus to your Spell Saving DC.
-                    - Enhanced Strength. Your Strength score increases by 4 while the shard is on your person. The shard can't raise your Strength score above 22.
-                    - Curse. Attuning to this item extends its curse to you. You remain cursed until you are targeted by a remove curse spell or similar magic, or until the shard is reformed into a bigger fragment. It happens on natural 1 on attack roll, ability check and saving throw
-
-                        | Nr. | Misfortune |
-                        | :--- | :--- |
-                        | 1 | You accidentally cut yourself with the shard and are poisoned until the next dawn. |
-                        | 2 | You experience a vision of an ancient calamity and are stunned until the end of your next turn. |
-                        | 3 | For a few seconds, the ground shakes under you. You and each creature within 10 feet of you must succeed on a DC 16 Dexterity saving throw or be knocked prone. |
-                        | 4 | The shard releases three glowing darts of magical force that target one random creature within 30 feet of you. If no such target exists, you become the target. Each dart hits automatically and deals 3 (1d4 + 1) force damage to the target. |
-                        | 5 | Until the next dawn, Beasts with an Intelligence score of 3 or lower are hostile to you. |
-                        | 6 | Nothing seems to go your way. Until the next dawn, you have disadvantage on ability checks. |
-
+            - ⒶAleksandryt Mocy
+                - Spell focus.
+                - When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
+                - You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                    - [Tsunami](https://5e.tools/spells.html#tsunami_phb)
+                    - [Maelstrom](https://5e.tools/spells.html#maelstrom_xge)
+                    - [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
             - [Księga z zaklęciami Aen Drisichean](https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce)
         - Schowany:
             - Odzież
@@ -119,11 +102,10 @@
                 - 1 butelka bazy alchemicznej (12 użyć)
                 - 0 <sup>46</sup>/<sub>50</sub> porcji inkaustu
                 - 3 porcja kadzidła
-                - 4 porcji kredy
+                - 6 porcji kredy
             - Fundusze:
-                - 125.1.1 gp
+                - 112.1.1 gp
                 - kamienie szlachetne warte 515gp
-                - 3 punktów frakcji
             - Magiczne różności:
                 - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
                 - 2 eliksiry [siły Lodowego Giganta](https://5e.tools/items.html#potion%20of%20frost%20giant%20strength_dmg)
@@ -132,13 +114,6 @@
                 - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
                 - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
                 - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-                - Aleksandryt Mocy
-                    - Spell focus.
-                    - When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
-                    - You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-                        - [Tsunami](https://5e.tools/spells.html#tsunami_phb)
-                        - [Maelstrom](https://5e.tools/spells.html#maelstrom_xge)
-                        - [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
                 - 2 odłamki Eluviaanu
                     - Attunement: Elf only
                     - A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
@@ -197,7 +172,10 @@
                 - INT do ataku zamiast STR/DEX
                 - 2d8 DMG
         - Na Thanedd:
-            - Wystawna skrzynka warta 5KGP i mały model warty 50GP
+            - Brosza Ucieczki - 2/2
+                - This broch has 2 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it.
+                - If you have the Arcane Recovery feature, you can also use 1 charge to recharge this ability if you have already used it.
+                - The broch regains 1 expended charge per 24h spend in a Place of Power.
             - Kotwice do innych płaszczyzn:
                 - Kula wyrzeźbiona w nieskończenie zapętlający się labirynt po którym ktoś zdaje się biegać - pustynny świat, martwy w wiecznym czerwonym świetle słońca, wielkie czerwie (?), porzucone metalowe miasto
                 - Mosiężna lampa olejowa, wiecznie gorąca w dotyku, z odręczną mapą jakiegoś miasta na boku - lodowy świat dysków, w którym można zobaczyć własne plecy, zamieszkały przez potwory
