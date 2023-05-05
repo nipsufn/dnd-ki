@@ -38,7 +38,7 @@
     - Ilana zagaja Grimmę o szczegóły na temat Vincenta - wilkołaka, kapitana straży. Dowiaduje się, że to zasłużony dla miasta człek. Nie cackał się z szumowinami, których prawo się nie imało - sam nocą wymierzał szponami sprawiedliwość tym, którzy zaszli mu za skórę. Został podobno odczarowany przez wiedźmina, zginął później w natarciu Czarnych na Wyzimę.
     - Napełniwszy brzuchy udajemy się na spoczynek. Ilana już śpi, kiedy Kajetan otrzymuje wiadomość od Keiry. Czarodziejka pyta, czy ma chwilę na rozmowę.
     - [Mag](Kajetan) odbywa krótką, ale treściwą wymianę zdań z Keirą. Z rozmowy wynika, że:
-        - niejaki Brass jest w Mariborze, pochwala jakość naprawy
+        - niejaki Bras jest w Mariborze, pochwala jakość naprawy
         - czeka na nas jakaś nagroda
         - pojawimy się w Mariborze za 3 dni
         - Kajetan prosi o audiencję Kapituły
@@ -47,7 +47,7 @@
         - agent z Kerack donosi, że Kistrin, władca Verden, ma nowego nadwornego maga
         - Lars był uczniem Doregaraia
         - Florian miał starszą siostrę, Assire, która została zamordowana w Loc Muinne w niewyjaśnionych okolicznościach kilka lat temu; informacje o jej śmierci mogą być dobrą zachętą do współpracy
-        - Brass jest mistrzem fechtunku
+        - Bras jest mistrzem fechtunku
         - informacje o Florianie mamy zachować dla siebie, nie opowiadać Kapitule
 4. Znów na łowy
     - Nazajutrz rano Kajetan dzieli się z Ilaną tym, czego dowiedział się od [czarodziejki](Keira). Po śniadaniu ruszamy z powrotem na bagna.

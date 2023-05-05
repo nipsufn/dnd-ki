@@ -3,7 +3,7 @@
 1. Przygotowania do obrad
     - Wygląda na to, że Bras załatwił swoje sprawy w Mayenie i teraz wybiera się do Carreras.
     - Przed zebraniem, z pomocą {elfa}Kajetan, Ilana wysyła wiadomość do Finarrina. {Druid}Finarrin prosi o księgi podatkowe, bo chyba podpisał jakąś umowę z księciem Kistrinem względem nadań ziemskich.
-    - Brass i Kajetan zaczynają prace remontowe w klatce schodowej, by nie marnować czasu do spotkania.
+    - Bras i Kajetan zaczynają prace remontowe w klatce schodowej, by nie marnować czasu do spotkania.
     - W międzyczasie udaje nam się dorobić zapasowy klucz do kanałów, tak by każde z nas miało po jednym.
     - Kiedy prace trwają, Ilana wychodzi załatwić sprawunki, o które prosił ją Finarrin. Od Brasa dowiaduje się, że na księgi podatków Verdeńskich w Redanii nie ma co liczyć - należy ich szukać na miejscu. 
     - {Dziewczyna}Ilana zaopatruje się więc na mieście w nieco przepłacony zestaw "małego księgowego" i trzy litrowe bukłaki krasnoludzkiego dwójniaka. Z podatkami na trzeźwo nie można.

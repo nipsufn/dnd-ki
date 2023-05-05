@@ -39,8 +39,8 @@
         - podczas bitwy na moście zniknęli de facto liderzy Łowców, Slyz Myrton i Zygfryd z Denesle; według oficjalnej wersji zdarzeń, obaj polegli i pochowano ich na tamtejszym żalniku
         - być może Myrton jest przetrzymywany w lochach przez głowę Zakonu Wiecznego Ognia, Hemmelfarta, a nie pochowany na wyspie świątynnej z Zygfrydem, jak głosi wieść gminna
         - co ciekawe, przed domniemaną śmiercią Zygfryd często podróżował na trasie Novigrad - Tretogor przez Trupią Knieję i Bronowice
-    - Brass i raport z Kaedwen:
-        - po zamachu na czarodziejki {mag}Brass udał się z Katariną do Kaedwen, a Kapituła wycofała się ze stronniczenia w tamtejszej sukcesji
+    - Bras i raport z Kaedwen:
+        - po zamachu na czarodziejki {mag}Bras udał się z Katariną do Kaedwen, a Kapituła wycofała się ze stronniczenia w tamtejszej sukcesji
         - pretendentów do tronu Kaedwen zostało dwoje - Buskona dziwnym trafem spotkał jakiś wypadek w czasie polowania
         - nie będąc finalnie pełnoprawnym magiem, Orest z Ban Aard został uznany za pretendenta do tronu i wzięty pod uwagę
         - po tych wydarzeniach lokalna szlachta samoistnie podzieliła się na dwa stronnictwa
@@ -61,7 +61,7 @@
     - Carduin zarządza krótką przerwę, po której ma nastąpić głosowanie.
     - Podchodzi do nas Lars. Dzieli się plotką, jakoby czarodziejki miały działać na własną rękę niezależnie od wyniku głosowania. {Mag}Lars optuje za opcją angreńską, tj. Ysgith.
     - Odbywa się głosowanie, a raczej jego pierwsza część poświęcona sprawie leczenia Keiry. Przewagą jednego głosu Kapituła decyduje się rozwiązać problem panoszący się w Ysgith i skorzystać z tamtejszego punktu mocy:
-        - trzy za Wyzimą (Yennefer, Mozaik, Brass)
+        - trzy za Wyzimą (Yennefer, Mozaik, Bras)
         - cztery za Angren (Lars, Kajetan, Zangenis, Myra)
         - trzy za Toussaint (Tizjana, Carduin, Mozaik)
         - wstrzymali się (Radcliffe, Zavist)

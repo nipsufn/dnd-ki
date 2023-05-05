@@ -16,7 +16,7 @@
     - Margarita opowiada, jak Keira zaczęła swoją przygodę z magią leczniczą pomagając samej sobie - odcięta od Mocy, chyli się ku grobowi.
     - Potwierdzają się słowa Mozaik. {Szanowny Pan Kaspar}Kaspar od dłuższego czasu cierpiał na bezsenność i słyszał głosy. Próbując temu zaradzić, przyjmował nieznanego pochodzenia specyfiki, jak się okazało, zawierające dwimeryt. Zalecił też ich zażywanie swoim ochroniarzom. Bliskość silnego punktu mocy doprowadziła całą trójkę kmiotków do spontanicznego wybuchu.
     - Niestety trudno powiedzieć, czy był to zbieg okoliczności, czy zaplanowany atak. Śledztwo trwa.
-    - Brass jest w Kaedwen. Bawi się w politykę związaną z problematyczną kwestią następcy tronu.
+    - Bras jest w Kaedwen. Bawi się w politykę związaną z problematyczną kwestią następcy tronu.
     - Margarita wydaje się być najmniej dotknięta utratą mocy i najbardziej zaangażowana w toczące się obrady.
     - W międzyczasie do leżących na ziemi papierów Mozaik dołącza mapę Ortolana.
     - Po krótkiej dyskusji z Kajetanem i wysłuchaniu teorii Keiry, Istredd, Triss i Margarita decydują się przełamać blokadę w podobny sposób, w jaki zrobił to Kajetan. O ile są w stanie powiedzieć, ich stan nieco się różni i nie powinny borykać się z przewlekłymi komplikacjami.

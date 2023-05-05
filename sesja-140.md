@@ -1,14 +1,12 @@
 ### Sesja 140
-
 ##### [Sesja 139](#sesja-139) [Sesja 141](#sesja-141)
-
 1. Chwila na krotochwile
    - Mając dwa dni na prywatę, rozchodzimy się każde w swoją stronę - Kajetan na {wyspę magów}Thanedd, a Ilana, w roli samozwańczej niańki-przewodnika, towarzyszy Kristoffowi w dalszym zwiedzaniu miasta. Na odchodne druidka prosi elfa, by ten wysłał w jej imieniu wiadomość do Zangenisa z prośbą o kontakt z nią, gdy tylko znajdzie na to dogodną chwilę.
    - W porcie naszych uszu docierają świeże plotki:
      - w najbliższych dniach odbędzie się koncert niezwykle uzdolnionej jasnowłosej bardki tworzącej na mandolinie
      - za sprawą podwyżek w Mahakamie, ceny żelaza poszły mocno do góry
      - wojna domowa w Kaedwen wkroczyła w nową fazę i chyba ma się ku końcowi - Orest połączył siły z Katariną, by rozprawić się z ostatnim z pretendentów, Zwoltem z Crinfrid, i przejąć kontrolę w kraju
-   - Kristoff uzupełnia na targu zapasy ziół, a Ilana, mając na uwadze zbliżające się święto, robi zakupy na Velen. {Druid} opowiada jak w jego stronach obchodzi się święto jesiennego przesilenia. Podobnie jak na północy, Velen to święto obfitości - czas dziękowania za zebrane plony, kosztowania ich i robienia przetworów, które uczynią zimę znośną.
+   - Kristoff uzupełnia na targu zapasy ziół, a Ilana, mając na uwadze zbliżające się święto, robi zakupy na Velen. {Druid}Kristoff opowiada jak w jego stronach obchodzi się święto jesiennego przesilenia. Podobnie jak na północy, Velen to święto obfitości - czas dziękowania za zebrane plony, kosztowania ich i robienia przetworów, które uczynią zimę znośną.
    - {Wyspiarz}Kristoff ma ochotę wybrać się na koncert bardki, z którą minęliśmy się niegdyś w Kerack. Zakupiwszy bilety, zmierzamy na Thanedd odstawić zakupy i zapytać Kajetana, czy nie miałby ochoty wybrać się z nami.
    - W międzyczasie {elf}Kajetan oddaje się swoim sprawunkom. Rozmawia chwilę ze stacjonującym w Ysgith Radcliffem o strażniku z Burdoff, którego raniono dwimerytowym sztyletem. Przy okazji dowiaduje się, że nilfgaardzki oddział, który przybył rozprawić się z Jedynym Prawdziwym Druidem, nieskory jest do powrotu na ojczyste ziemie i wygląda, że zostanie w Angrenie na dłużej.
    - Podłóg prośby Ilany, wysyła do Zangenisa wyproszoną notkę z zapytaniem o kontakt. Czarodziej obiecuje odezwać się po Velen.
@@ -35,17 +33,14 @@
    - Tego już Ilanie za wiele. Zła niczym szerszeń, bezpardonowo niweczy zakusy dziewoi, wyzywając od sukkubów. Pomna morderstw z Kerack, rzekomo z udziałem rudowłosych amantów płci obojga, grozi naganiaczce, że podkabluje ją miejscowym władzom, albo i samodzielnie porachuje jej kości, jeśli ta zaraz nie odczepi się od {wyspiarza}Kristoff.
    - Ruda niechętnie ustępuje, po chwili odnajdując na sali nową "ofiarę". Siedzimy do końca koncertu, przy czym Kristoff wyraźnie zawstydzony i zmieszany zajściem. Ilana z miejsca tłumaczy powody swojego zachowania, nie chcąc pozostawiać rzeczy fermentującej we własnym sosie.
    - Po koncercie idziemy na umówione spotkanie z {magiem}Mardin. Przed przeniesieniem do Świątyni Melitele, {druidka}Ilana opowiada Mardinowi o rudowłosej kobiecie, którą podejrzewa o morderstwa z Kerack, próbę kolejnego tej nocy oraz generalnie bycie sukkubem.
-
 3. Wszystkie wypadki prowadzą do Ellander
-
    - {Elf}Kajetan, za przyzwoleniem Matki Przełożonej, teleportuje się do Świątyni Melitele, gdzie niewiele później pojawia się Ilana i Kristoff.
    - {Dziewczyna}Ilana na dzień dobry naskakuje na czarodzieja, ubliżając mu od najdurniejszych. W sprzeczności ze swoją typową butą, Kajetan wylewa na rozgrzaną sytuację kubeł zimnej wody, dziękując za troskę i odchodząc na ubocze, by skonstruować schronienie na noc.
    - Zaskoczona reakcją {kompana}Kajetan, {druidka}Ilana od razu przeprasza za swój wyskok i postanawia nie drążyć tematu, póki zadra jest świeża. Prosi go jedynie, by skontaktował się z Ivarem i poinformował go, jak sprawy się mają, oraz że z planów na Velen raczej nici.
    - W czasie, gdy Kajetan i Ilana rozmawiają, Kristoff zwiedza świątynię, oprowadzany przez jedną ze starszych dziewcząt. Zaciekawiony wyspiarz pyta adeptkę, czy ich inicjacja wygląda podobnie, jak u kapłanek Freyji, za co obrywa w twarz od spąsowiałej dziewoi. Zajście zauważa szukająca go {druidka}Ilana, ale widząc nierozumiejącą minę młodzieńca, gryzie się w język przed rzucaniem kąśliwych uwag.
-   - Wieczorem Kajetan rozmawia z załogą z Ysgith. Ma nietęgą minę, nie owijając w bawełnę wykłada co i dlaczego zrobił. Dowiaduje się, że Carduin organizuje walne spotkanie organizacji celem osądzenia i wyciągnięcia konsekwencji. Może wrócić pieszo lub zabrać się po Velen z Brassem, jako że Ilanie nie wydano jego medalionu do teleportacji. {Elf}Kajetan ironizując dziękuje za troskę i pyta, czy nikt nie ucierpiał podczas wypadku, który spowodował - okazuje się że poza kilkoma siniakami nic poważniejszego się nie stało.
+   - Wieczorem Kajetan rozmawia z załogą z Ysgith. Ma nietęgą minę, nie owijając w bawełnę wykłada co i dlaczego zrobił. Dowiaduje się, że Carduin organizuje walne spotkanie organizacji celem osądzenia i wyciągnięcia konsekwencji. Może wrócić pieszo lub zabrać się po Velen z Brasem, jako że Ilanie nie wydano jego medalionu do teleportacji. {Elf}Kajetan ironizując dziękuje za troskę i pyta, czy nikt nie ucierpiał podczas wypadku, który spowodował - okazuje się że poza kilkoma siniakami nic poważniejszego się nie stało.
    - Po rozmowie z Kapitułą, {mag}Kajetan spędza chwilę przepraszając także Finarrina i Mirnę - mimo usilnych starań {towarzyszki}Ilany, nie ma nawet cienia szans, by z Ilaną pojawili się na Velen w Niedźwiedzicach.
    - Ilana, do granic zmęczona i poirytowana zajściami dnia dzisiejszego, postanawia dać upust emocjom i pyta Kristoffa, czy nadal ma ochotę spędzić z nią noc. {Wyspiarz}Kristoff jest zaskoczony i nieco rozdarty - nie wie jak rozumieć w jego odczuciu sprzeczne sygnały wysyłane przez {dziewczynę}Ilana, ale - po wyłożeniu przez nią kawę na ławę na temat Skovika - całkiem ochoczo się zgadza.
-
 4. Przymusowy urlop w świątyni
    - Spotykamy się przy późnym śniadaniu. Ilana pyta Kajetana, czy ma ochotę wybrać się z nią i Kristoffem do miasta, ale {elf}Kajetan zdaje się nie mieć na to nastroju i odmawia. Odwiedzają więc Ellander tylko w dwójkę.
    - Płomienna Różyczka zmieniła właścicieli - Maria i Walerian zdecydowali się skorzystać z "zaproszenia" do Dol Blathanna.
