@@ -20,7 +20,7 @@
     - Drugą poszkodowaną jest Myra, do której należy reszta rzeczy które Kajetan wziął ze sobą
     - W bibliotece łatwo udaje się odnaleźć annały odnotowujące debaty Rady Kapituły:
         - za przykrą sytuację z Kaer Seren ukarano Stregobora i Istredda:
-            - Stregobor miał zostać nadwornym magiem w Kovirze na pięć lat i uiścić karę 25 tysięcy sztuk złota. Okazuje się, że część kary wypłacił Zangenis, przymuszając {mistrza iluzji}Stregobor do wyprawy w Aed Gnawel, miejsca którego ten unika jak ognia - rządzi tam jedna z dam które próbował wybić do nogi powołując się na przekleństwo Czarnego Słońca
+            - Stregobor miał zostać nadwornym magiem w Kovirze na pięć lat i uiścić karę 25 tysięcy sztuk złota. Okazuje się, że część kary wypłacił Zavist, przymuszając {mistrza iluzji}Stregobor do wyprawy w Aedd Gynvael, miejsca którego ten unika jak ognia - rządzi tam jedna z dam które próbował wybić do nogi powołując się na przekleństwo Czarnego Słońca
             - Istredd został zobowiązany do spłaty takiej samej kwoty, oraz "na ochotnika" pomocy Krasnoludom z sytuacją w Mahakamie (dziwna budowla w jednej z odkrytych jaskiń)
             - władyka Koviru i Poviss zamierza udostępnić z powrotem Kaer Seren Kapitule, gdy tylko ta ureguluje koszta wyrządzonych szkód
         - za wpuszczenie na wyspę Kaspara odpowiedzialność wzięła na siebie cała Wysoka Rada; nikt nie poniósł żadnych realnych konsekwencji; postanowiono, że było to ostatni zjazd na który zaproszono gości z poza organizacji
