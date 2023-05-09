@@ -1,5 +1,7 @@
 ### Sesja 141
+
 ##### [Sesja 140](#sesja-140) [Sesja 142](#sesja-142)
+
 1. Velen ciąg dalszy i oczekiwanie na Brasa
     - Ilana próbuje odwiedzić w snach Kruczą Matkę. Śni jej się morze ognisk w ciemnościach. Przy najbliższym, pod rozłożystym dębem, trzy kobiety przędą gobelin, który ciągnie się do odległych obozowisk, w których półprzezroczyste postaci zdają się doplatać swoje wątki. Raszple, zapytane, nie przedstawiają się, a indagowane o Kruczą Matkę, wskazują na jedna z dziupli w drzewie. Gdy {dziewczyna}Ilana kieruje się ku niej, słyszy niemiły śmiech, po którym Trójca mówi jej, że swoje bóstwo musi odnaleźć na jawie. Dalej męczone, przyznają, że mówią o gaju Gedyneith. Smucą też coś o ciężkim wyborze z dużymi konsekwencjami, przywołując wizję łysego mężczyzny i ich gobelinu rozdwajającego się.
     - {Druidka}Ilana opowiada Kajetanowi:
@@ -26,6 +28,7 @@
         - za wpuszczenie na wyspę Kaspara odpowiedzialność wzięła na siebie cała Wysoka Rada; nikt nie poniósł żadnych realnych konsekwencji; postanowiono, że było to ostatni zjazd na który zaproszono gości z poza organizacji
     - sąd magów przypomina każde inne spotkanie; na początek Carduin złożył oskarżenie, sugerując że działania Kajetana mogły być umyślne i potencjalnie zaplanowane przez Filavandrela, a winnego należy wykluczyć z Kapituły. Dalej wypytano Kajetana, poszkodowanych Myrę i Brasa, oraz Ilanę (która maluje Kajetana jako niekompetentnego choleryka, ale na pewno nie kogoś kto szkodzi wedle jakiegokolwiek planu, a dalej rzuca oskarżenie o wykroczenie poza swoje kompetencje Carduina, który, odmawiając wydania broszy, efektywnie utrudniał oskarżonemu stawienie się na rozprawę). Po przydługiej naradzie, Wysoka Rada nałożyła na Kajetana karę wysokości 10 tysięcy sztuk złota, oraz zredukowała jego rangę w organizacji. Carduin, co dostrzec mogli nawet mało spostrzegawczy, nie był zadowolony, uważając że kara jest niedostateczna.
     - Do spotkania dołącza wciąż słaba, jednak samodzielna i żywa, Keira. Informuje, że w geście wdzięczności za pomoc bohaterów w przywróceniu jej zdrowia, pokryje grzywnę Kajetana, oraz że rezygnuje ze swojej pozycji w Wysokiej Radzie i Kapitule, nie chcąc narażać się na kolejne incydenty i wypadki
+    - Mozaik i Lars zostają awansowani o jedną rangę za pracę na rzecz organizacji, której ostatnim owocem jest poprawa stanu Keiry
     - Bras opowiada o sytuacji w Kaedwen: Zwolt będzie bronił Twierdzy Olvina; wygląda na to że jej oblężenie przez Katarinę i Ortesta będzie decydującym starciem tej wojny domowej
 
 ##### [Sesja 140](#sesja-140) [Sesja 142](#sesja-142)
