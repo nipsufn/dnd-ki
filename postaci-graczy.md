@@ -1,5 +1,9 @@
 ### Postaci Graczy
-
+<style type="text/css" media="screen">
+    p {
+        display: inline; /* bug workaround */
+    }
+</style>
 - <a id='g_ilana' pattern='Ilan*'>Ilana</a> - człowiek, druidka, krzepka, gęste włosy, potrafi zamieniać się w zwierzęta
   - Opis:
 
@@ -113,10 +117,10 @@
         - 2 butelki nalewki z mandragory (13 użyć)
         - 1 butelka bazy alchemicznej (12 użyć)
         - 0 <sup>46</sup>/<sub>50</sub> porcji inkaustu
-        - 3 porcja kadzidła
+        - 2 porcja kadzidła
         - 6 porcji kredy
       - Fundusze:
-        - 101.1.1 gp
+        - 91.1.1 gp
         - kamienie szlachetne warte 1015gp
       - Magiczne różności:
         - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
