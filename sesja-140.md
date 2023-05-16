@@ -1,5 +1,7 @@
 ### Sesja 140
+
 ##### [Sesja 139](#sesja-139) [Sesja 141](#sesja-141)
+
 1. Chwila na krotochwile
    - Mając dwa dni na prywatę, rozchodzimy się każde w swoją stronę - Kajetan na {wyspę magów}Thanedd, a Ilana, w roli samozwańczej niańki-przewodnika, towarzyszy Kristoffowi w dalszym zwiedzaniu miasta. Na odchodne druidka prosi elfa, by ten wysłał w jej imieniu wiadomość do Zangenisa z prośbą o kontakt z nią, gdy tylko znajdzie na to dogodną chwilę.
    - W porcie naszych uszu docierają świeże plotki:
@@ -33,6 +35,7 @@
    - Tego już Ilanie za wiele. Zła niczym szerszeń, bezpardonowo niweczy zakusy dziewoi, wyzywając od sukkubów. Pomna morderstw z Kerack, rzekomo z udziałem rudowłosych amantów płci obojga, grozi naganiaczce, że podkabluje ją miejscowym władzom, albo i samodzielnie porachuje jej kości, jeśli ta zaraz nie odczepi się od {wyspiarza}Kristoff.
    - Ruda niechętnie ustępuje, po chwili odnajdując na sali nową "ofiarę". Siedzimy do końca koncertu, przy czym Kristoff wyraźnie zawstydzony i zmieszany zajściem. Ilana z miejsca tłumaczy powody swojego zachowania, nie chcąc pozostawiać rzeczy fermentującej we własnym sosie.
    - Po koncercie idziemy na umówione spotkanie z {magiem}Mardin. Przed przeniesieniem do Świątyni Melitele, {druidka}Ilana opowiada Mardinowi o rudowłosej kobiecie, którą podejrzewa o morderstwa z Kerack, próbę kolejnego tej nocy oraz generalnie bycie sukkubem.
+
 3. Wszystkie wypadki prowadzą do Ellander
    - {Elf}Kajetan, za przyzwoleniem Matki Przełożonej, teleportuje się do Świątyni Melitele, gdzie niewiele później pojawia się Ilana i Kristoff.
    - {Dziewczyna}Ilana na dzień dobry naskakuje na czarodzieja, ubliżając mu od najdurniejszych. W sprzeczności ze swoją typową butą, Kajetan wylewa na rozgrzaną sytuację kubeł zimnej wody, dziękując za troskę i odchodząc na ubocze, by skonstruować schronienie na noc.
@@ -51,7 +54,7 @@
      - główną świątynię w pewnym momencie najechali jacyś bandyci czy najemnicy, a wierni w odwecie zaczęli stawać się coraz bardziej ekstremistyczni, co ostatecznie doprowadziło do tępienia wyznawców
      - Matka Kruków była starszym wierzeniem na Wyspach, Kristoff mówi się o niej jako o wypartej przez Freyję, lub jako jej matce czy siostrze
      - była bóstwem losu i przeznaczenia żywych, tkała gobelin przedstawiający żywoty z ludzkich włosów
-     - inni wierzą, że była pierwszą Flaminką druidów z wysp, z którymi związała się tak bardzo, że stała się pomniejszym bóstwem
+     - inni wierzą, że była pierwszą flaminiką druidów z wysp, z którymi związała się tak bardzo, że stała się pomniejszym bóstwem
 5. Velen
    - Noc przesilenia spędzamy w świątyni. Niebo, poza fajerwerkami z miasta, ponoć przygotowanymi przez pana Regnera, rozjaśnia kilka rozbłysków, z południowego wschodu, potem wschodu i jeszcze raz południowego wschodu.
 
