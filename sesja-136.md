@@ -11,7 +11,7 @@
     - Dowiadujemy się, że budowę fortu rozpoczęto, gdy wyszło na jaw, że golem Floriana z Vicovaro skonstruowany był w oparciu o fragment jednego z menhirów.
     - Zauważamy, że Niebieskie Pasy noszą technicznie zaawansowane kusze z osłoniętymi komorami na bełty, w których domyślamy się wynalazku Lukrecji.
     - Popołudnie spędzamy pomagając leczyć rannych po zasadzce komanda Yaevinna. Ilana w półelfce zajmującej się infirmerią rozpoznaje jedną z kobiet pracujących, które uciekły od Karoll. Ktoś zwraca się do niej mianem Velka.
-     - Kajetan wyjawia Ilanie, że rozważa przekazanie Niebieskim Pasom lokacji Yaevinna i jego komanda. {Dziewczyna}Ilana nie potępia pomysłu, ale sama nie chce być powiązana, jeśli wyda się, że to od nas wyszła ta informacja.
+    - Kajetan wyjawia Ilanie, że rozważa przekazanie Niebieskim Pasom lokacji Yaevinna i jego komanda. {Dziewczyna}Ilana nie potępia pomysłu, ale sama nie chce być powiązana, jeśli wyda się, że to od nas wyszła ta informacja.
     - {Druidka}Ilana chowa swoją dumę do kieszeni i prosi Kristoffa o pomoc z poparzeniami. Otrzymuje oferowaną wcześniej maść, nie do końca pewna, czy na to właśnie liczyła.
     - Wieczorem zostajemy zaproszeni na wieczerzę u pani komendant. Po drodze Ilana i {uczeń Myszowora}Kristoff wyjaśniają sobie pewne animozje dnia poprzedniego. Padają przeprosiny za źle wymierzone intencje.
     - Uczta jest suto zakrapiana mocnym winem. Przy stole zastajemy też bakalarza, który zostaje nam przedstawiony jako Edmund... z Denesle. Ilana, chcąc się dowiedzieć, czy ma jakiś związek z Zygfrydem, pyta o wyprawę słynnego Eycka z Denesle na złotego smoka. Bakalarz z bolesnym wyrazem twarzy przytacza obmierzłą mu już historię znaną i opowiadaną jak kontynent szeroki, traktującą o jego świętej pamięci ojcu.
@@ -55,7 +55,7 @@
     - Finarrin, najbardziej związany z tym miejscem sugeruje, by na pamiątkę druidów zasadzić w kręgu drzewo - magicznie wspomagane, w przyszłości spowije swoimi korzeniami miejsce Mocy i dawnego kultu. Aby tego dokonać, będzie jednak potrzebował pomocy pozostałej dwójki - Ilany i Kristoffa.
     - Kajetan udaje się na osobność, gdzie kontaktuje się z Mardinem. Z jego pomocą przygotowuje list rekomendujący dalsze kroki prowadzące do stabilizacji punktu mocy (między innymi, Kapituła rozwiąże kwestie fundowania operacji z Koroną Temerską oraz sprowadzi brygadę mahakamskich krasnoludów w celu wykonania kamiennego kręgu i fundamentu stabilizującego prastarą konstrukcję).
     - W tym czasie druidzi sadzą nowe drzewo i wzmacniają je, by z czasem oplotło korzeniami podstawy menhirów. Rytuałowi przewodzi Finarrin:
-        - druidzi klękają w kole i splatają ręce pod świeżo przeoraną ziemią
+        - klękają w kole i splatają ręce pod świeżo przeoraną ziemią
         - za sadzonki służą żołędzie, które Ilana wrzuciła do kieszeni będąc na bagnach Ysgith
         - poproszony o ogrzanie sadzonek, Kristoff, wyraźnie zagubiony nowością doświadczenia, przekazuje swój pierwiastek dość niepewnie i spontanicznie; spopiela kilka nasion, ale Finarrin uspokaja go mówiąc, że to przysłuży się nowemu życiu
         - Ilana także odczuwa trudności - wyczuwa wszelkie drobne żyjątka, ale nie potrafi nawiązać więzi z florą

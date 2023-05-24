@@ -12,7 +12,7 @@
     - Posiliwszy się zamiarujemy porozmawiać z Mardinem. Odnajdujemy bibliotekarza na jednym z balkonów, konwersującego z Zavistem. Czekamy więc na sposobny moment, by przedłożyć swoją sprawę. Ilana wykorzystuje okazję i prosi Kajetana na stronę. Opowiada, co jej leży na wątrobie:
         - {druidka}Ilana mówi o swoich kontrolowanych snach
         - dostrzegając intymność tematu, {czarodziej}Kajetan daruje sobie swoje typowe, spłycające, cyniczne i ekstremistyczne spojrzenie na problemy
-        - {elf}Kajetan dowiaduje się o problemach, jake Ilanie sprawiają byty nawiedzające jej sny; dziwi się, że mimo tego {dziewczyna}Ilana dalej z nimi eksperymentuje
+        - {elf}Kajetan dowiaduje się o problemach, jake Ilanie sprawiają byty nawiedzające jej sny; dziwi się, że mimo to {dziewczyna}Ilana dalej z nimi eksperymentuje
         - dowiaduje się też o poczynaniach i koszmarach Skovika, łącznie z historią o jaskini pełnej martwych wyspiarzy z zakrwawioną kamienną płytą
         - wspólnie rozważamy, czy nie byłoby dobrze wybrać się do tego znikającego zamku
         - Ilana relacjonuje, czego dowiedziała się poprzedniego dnia na mieście
@@ -21,7 +21,7 @@
         - Kristoff opowiada o jakiejś uczcie
         - Cerys zaprosiła na nią Dorregaraya po tym, jak wyswobodzili go z jego utkniętej wieży
         - czarodziej miał nietęgą minę, gdy zaserwowano na stół wyspiarskie specjały z podrobów
-    - Doczekawszy się na swoją kolej, pytamy Mardina o kilka spraw - Ilana chce się pozbyć kilku magicznych fantów, a Kajetan - coś zakupić. Niestety, Myrra, która zajmuje się artefaktorium i wyceną, jest chwilowo niedostępna, oddelegowana jako opiekunka uczniów podczas szkolnej wycieczki na miasto. Z tego tytułu reszta wykładowców ma dziś dzień wolny.
+    - Doczekawszy się na swoją kolej, pytamy Mardina o kilka spraw - Ilana chce się pozbyć paru magicznych fantów, a Kajetan - coś zakupić. Niestety, Myra, która zajmuje się artefaktorium i wyceną, jest chwilowo niedostępna, oddelegowana jako opiekunka uczniów podczas szkolnej wycieczki na miasto. Z tego tytułu reszta wykładowców ma dziś dzień wolny.
     - Mardin nie może sprzedać {elfowi}Kajetan zwoju z zaklęciem teleportacji. Odsyła go do Carduina, który, brzmiąc oficjalnie czy oschle, odmawia dostępu do takiej wiedzy powołując się na niską rangę petenta.
     - Czekając na korytarzu przed gabinetem Carduina, Ilana znów bierze Kristoffa na spytki:
         - wyspiarscy druidzi to głównie mężczyźni
@@ -64,7 +64,7 @@
         - zamierzamy spróbować zwabić potwora na jakąś z okolicznych łąk barwną płachtą i smacznymi kąskami, to jest dużym ptactwem, przyzwanym przez Ilanę
         - Kajetan oślepi i przykuje bestię do ziemi
         - jeśli raraszek umknie, ruszymy za nim, do jego leża, by dokończyć dzieła
-    - Jako że w Ellander nie mieliśmy nazbyt dużo przyjemności z Zerrikankami, przybliżamy Chidzie, a i Ivarowi, w czym kto z nas się obecnie specjalizuje. Gdy przychodzi kolej Kristoffa do przedstawienia się, Ivar nie może sobie odmówić sobie kąśliwego komentarza na temat An Craite, co - z niewiadomych przyczyn - w momencie rozsierdza Kajetana. {Elf}Kajetan opiernicza wyspiarzy, gdy tylko zaczynają robić sobie przytyki. Obaj przebąkują coś o jakiejś niedawnej swadzie, ale nie wdają się w szczegóły, pomni ostrej reprymendy czarodzieja.
+    - Jako że w Ellander nie mieliśmy nazbyt dużo przyjemności z Zerrikankami, przybliżamy Chidzie, a i Ivarowi, w czym kto z nas się obecnie specjalizuje. Gdy przychodzi kolej Kristoffa do przedstawienia się, Ivar nie może sobie odmówić kąśliwego komentarza pod adresem An Craite, co - z niewiadomych przyczyn - w momencie rozsierdza Kajetana. {Elf}Kajetan opiernicza wyspiarzy, jak tylko zaczynają robić sobie przytyki. Obaj przebąkują coś o jakiejś niedawnej swadzie, ale nie wdają się w szczegóły, pomni ostrej reprymendy czarodzieja.
     - Gdy Ilana wspomina o Skoviku, tym razem Kristoff marszczy brew na dźwięk jego imienia. Czyżby więc jednak go skądś kojarzył?
     - Dopiąwszy planowanie, umawiamy się na rano i rozchodzimy na nocleg - Kajetan nie ma zamiaru płacić za spanie w tłocznej, głośnej karczmie, skoro może postawić swoją wieżę w tym samym zaułku, co ostatnio.
     - Ivar wydaje się być zatroskany o Ilanę. Żegnając się z nią zauważa, że wygląda jakby ją coś gnębiło i pyta, czy wszystko w porządku. Nie chcąc się wdawać w szczegóły, {druidka}Ilana zbywa go krótkim stwierdzeniem, że to przez kłopoty ze snem i rozłąkę.
