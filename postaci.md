@@ -94,6 +94,9 @@
   - opiekun biblioteki na Thanedd
   - arcymistrz abjuracji
   - specjalista od elfich ruin, między innymi Ysgith
+- <a id='p_mardin' pattern='Mardin*'>Mardin - człowiek, mag
+  - administrator/woźny Aretuzy
+  - opiekun biblioteki na Thanedd (po Zaviście)
 - <a id='p_zygfryd' pattern='Zygfryd*,Zygfryd* z Denesle'>Zygfryd z Denesle</a> - człowiek, Łowca Czarownic
   - oponent Slyza Myrtona w wewnętrznej polityce Zakonu
 - <a id='p_wedrowna_banda_skovika'>Wędrowna Banda Skovika</a>
