@@ -1,23 +1,45 @@
-### Sesja 142
-
+### Sesja 143
 ##### [Sesja 142](#sesja-142) [Sesja 144](#sesja-144)
-
-1. W drogę
-    - nie mogąc znaleźć dalszych tropów w Burdoff, ruszamy w góry
-    - spotykamy Ivara i Chidę u podnóża interesującej nas góry. Spędzamy popołudnie na wspinaczce.
+1. W góry serca
+    - Kajetan próbuje zastregoborować do Eskela, bezskutecznie - wiedźmin jest ekranowany, albo ktoś umyślnie blokuje połączenie.
+    - W międzyczasie na patrol nad okolicą zostaje posłana sowa {elfa}Kajetan. Szybując nad lasem dostrzega głębokie koleiny od wozu, idące od północnego zachodu i przechodzące pod karczmą wiedźmina. Gdzieniegdzie widać stare ślady krwi.
+    - Nie mogąc znaleźć dalszych tropów w Burdoff, ruszamy w góry na spotkanie z Ivarem i Chidą. Rozbijamy obóz na noc, tym razem Kajetan, pomny na wyspiarskie lubienia, sponsoruje gościom w swych skromnych progach saunę i pokój z lodem.
+    - Wieczorem {elf}Kajetan kontaktuje się z Mirną. Dziewczyna dostała reprymendę od Nilfgaardczyka względem swej plantacji mandragory i przykaz, by przenieść ją dalej od miasta. Przy okazji wychodzi na jaw, że Wielebny nie pracuje dla Salamander, a należy do zaprzyjaźnionego gangu, z którym ogniste jaszczurki czasem współpracują. Ponad to prowadzi arenę w Ravelinie.
+    - Zagadnięty o postępy Morgan akurat rżnie w karty z Yaevinnem i paroma innymi nieludziami. Kurier wrócił, ale krasnolud dalej nie odzyskał swojej zguby.
+    - Ponoć bibelot to szkiełko podobne do Kajetanowych, przenikające przez skały i ukazujące różne złoża i rudy. Używał go jego kontrahent, niejaki Ksawier, do znajdowania kolejnych złóż, aż napatoczył się na dziwną piramidę, przez którą krasnoludy mają teraz kłopoty. Fant zarekwirował {mag}Istredd, który pojawił się w Mahakamie.
+    - {Krasnolud}Morgan pośle informacje do banku w Gors Velen w kwestii honorarium Kajetana.
+    - Przed snem oboje próbujemy ponownie skontaktować się z Eskelem, na próżno.
+    - Rano, zaraz po śniadaniu, ruszamy w góry. Na wspinaczce schodzi nam dobra część dnia, ale z pomocą magii Kajetana i różnych innych sztuczek idzie nam zdecydowanie szybciej, aniżeli konwencjonalnie. Po drodze mijamy inne, mniejsze jamy i otwory - w rzeczy samej, tutejsze góry przypominają ser z dziurami. Z góry widzimy w dali Brokilon - ciemny i zwarty, pocięty jedynie cieniutkimi wstęgami rzek - teraz otoczony magiczną mgłą.
 2. Niby zwykła jaskinia
-    - tułamy się po pustej jaskini, nic nie znajdując ani nie wyczuwając żadnej magii. Jedyne, co dowodzi, że to właściwe miejsce, to ukryty znak pozostawiony przez {Zerrikankę}Chida przy wejściu.
-    - w końcu Kajetan zauważa, że zrezygnowane, przesmradzające się po pomieszczeniu towarzystwo dziwnym trafem zawsze omija jego środek. Traci sowę, która uderza w niewidzialną barierę próbując się tam dostać
-    - domyślając się magii, {czarodziej}Kajetan rozprasza dwa czary ukrywające - maskowanie magicznej aury oraz iluzję. Jaskinia zmienia się nie do poznania - rozświetlona czerwoną łuną bijącą od strużek lawy, w środku ma obsydianowy obelisk z rdzawymi inkluzjami. Dookoła kamienia widać gniazdo raraszka, potłuczone jaja i samą bestię - martwą, wprawnie ubitą, większą od tej której my się pozbyliśmy. Chida znajduje szczątki swojej siostry oraz jej dwie bransoletki
-    - Fizyczna bariera broniąca wstępu na środek jest fizycznie namacalna. {Elf}Kajetan decyduje się skonsultować z konfratrami - ktoś włożył wiele wysiłku, by zabezpieczyć to miejsce. Wysyła notkę do Triss i Zangenisa
-    - na zewnątrz, na oddalonej nieco półce skalnej, Ilana odnajduje porzucone obozowisko, a w jukach - muszlę komunikacyjną, prawdopodobnie należącą do Eskela
-    - pojawia się Zangenis. Nazywa punkt mocy "swoim", przynależnym do Risbergu, i bez zbędnych wymówek informuje że pojmał {wiedźmina}Eskel, o czym możemy poinformować {czarodziejkę}Triss. Wyprasza nas z jaskini, po czym rozpoczyna pracę nad przywróceniem zabezpieczeń
-    - Wieczorem megaskopuje do nas Triss, z pomocą Mardina. Przekazujemy czarodziejce czego się dowiedzieliśmy, jest bardzo niezadowolona. Zdaje się nie wiedziała o związku punktu mocy i twierdzy pod górami.
-    - Kajetan w ncy rozmawia z Mirną i Morganem Guusem
-        - Mirna opowiada o Wielebnym - ma własny gang i prowadzi arenę w Ravelinie, czasem współpracuje z Salamandrami
-        - Morgan opowiada, że kurier wrócił. Przedmiot - szkiełko podobne do Kajetanowych, przenikające przez skały i ukazujące różne złoża i rudy - zarekwirował {mag}Istredd, który pojawił się w Mahakamie - przy użyciu szkiełka kontrahent Guusa mianem Ksawier odkrył dziwną piramidę, przez którą krasnoludy mają kłopoty. Krasnolud pośle informacje do banku w Gors Velen w kwestii honorarium Kajetana.
+    - Tułamy się po pustej jaskini, nic nie znajdując ani nie wyczuwając żadnej magii. Jedyne, co dowodzi, że to właściwe miejsce, to ukryty znak pozostawiony przez {Zerrikankę}Chida przy wejściu.
+    - W końcu Kajetan zauważa, że zrezygnowane, przesmradzające się po pomieszczeniu towarzystwo dziwnym trafem zawsze omija jego środek. Traci sowę, która uderza w niewidzialną barierę próbując się tam dostać.
+    - Domyślając się magii, {czarodziej}Kajetan rozprasza dwa czary ukrywające - maskowanie magicznej aury oraz iluzję. Jaskinia zmienia się nie do poznania - rozświetlona czerwoną łuną bijącą od strużek lawy, w środku ma obsydianowy obelisk z rdzawymi inkluzjami. Dookoła kamienia widać gniazdo raraszka, potłuczone jaja przypominające geody i samą bestię - martwą, wprawnie ubitą. Większą od tej, której my się pozbyliśmy, ani chybi samicę. 
+    - Chida znajduje szczątki swojej siostry oraz jej dwie złote bransoletki. Zabiera je, by pochować należycie, w ojczyźnie.
+    - Bariera broniąca wstępu na środek jest fizycznie namacalna. {Elf}Kajetan decyduje się skonsultować z konfratrami - ktoś włożył wiele wysiłku, by zabezpieczyć to miejsce. Wysyła notkę do Triss i Zangenisa. {Czarodziejka}Triss jest poza Thanedd, wróci dopiero wieczorem i wtedy się skontaktuje. Z kolei jej {kolega po fachu}Zangenis obiecuje "oddzwonić" za parę godzin.
+    - Nie mając nic szczególnego do roboty, sprawdzamy okolicę. Na zewnątrz, na oddalonej nieco półce skalnej, Ilana odnajduje porzucone obozowisko, a w jukach - muszlę komunikacyjną, prawdopodobnie należącą do Eskela. Pomaga jej Kristoff, który po odsłonięciu punktu mocy miał problem z opanowaniem swojego daru. Jego lis, zaciekawiony, zmaterializował się i usilnie próbował przedostać za barierę, do kamienia. Płoszy się dopiero, gdy w jaskini zjawia się {dozorca}Zangenis.
+    - Po jakimś czasie z Kajetanem kontaktuje się Zangenis. Ilana, obserwując minę pryncypała Risbergu, gdy jej kompan tłumaczy w czym rzecz, przeczuwa, że coś jest na rzeczy i nie myli się zanadto.
+    - Zangenis, początkowo pod postacią ognistego duplikatu, po chwili odwiedza nas osobiście. Nazywa punkt mocy "swoim", przynależnym do Risbergu i tenże zasilającym. Zabezpieczył go zaraz po tym, jak skończył się jego areszt domowy. To on rozpytywał o raraszka i rozmawiał z naszymi kompanami.
+    - {Wiedźmin}Eskel był tu, a teraz jest jego "gościem". {Mag}Zangenis bez ogródek przyznaje, że zrobił to, by utrzeć nosa Triss, aby nie wciskała go w nie swoje sprawy.
+    - Ilana, korzystając z okazji, pyta o sprawę kamiennej flaminiki. Zangenis proponuje, by spotkać się w Gors Velen i do odczyniania uroku rzeczywiście spróbować użyć krwi {dziewczyny}Ilana.
+    - {Dozorca Risbergu}Zangenis uprzejmie wyprasza nas z jaskini, po czym rozpoczyna pracę nad przywróceniem zabezpieczeń.
+    - Schodzimy z gór i udajemy się na nocleg. Wieczorem megaskopuje do nas Triss, z pomocą Mardina. Przekazujemy czarodziejce czego się dowiedzieliśmy, jest bardzo niezadowolona. Zdaje się nie wiedziała o związku punktu mocy i twierdzy pod górami. Prosi tylko, by pozbierać rzeczy Eskela, co też Ilana uskutecznia.
+    - Na kajetanową wzmiankę o złośliwych staruchach, Kristoff opowiada o Gremiście - starszym druidzie, specu od ziół i najbardziej zarozumiałym, wrednym i nieprzyjemnym starcem na całych Wyspach.
+    - Grzejąc się w cieple wieży Kajetana, dyskutujemy jak najlepiej pozbyć się krabopająka. Mardin, zapytany przez {elfa}Kajetan o to, czy na Thanedd mają specjalne miejsce na potwory, podsuwa pomysł, by miast bestię ubić, wypuścić ją w las, gdzie może znajdzie sobie miejsce wśród swoich pobratymców.
 3. W stronę Adalette
-    - w drodze do źródeł Adalette mijamy kilka wsi, między innymi do wsi Nowa Smolarnia i Jaworek
-    - w tej ostatniej spotykamy babuleńkę, która baja o drwalu co go wiedźmin z wilkołactwa odczarował. Ilana jest żywo zainteresowana i próbuje od staruszki wydębić kij na którym się opiera - ponoć rzeczony wagabunda wystrugał go, kiedy kobiecina była młodsza. Kajetan słysząc część rozmowy, bez zastanowienia wcina się w rozmowę, mówiąc Ilanie w krótkich, żołnierskich słowach by odstosunkowała się od kostura starszej pani
+    - Rano zwijamy obóz i zamiarujemy udać się na krabopająka. Zdaniem Ivara najlepiej będzie przejść przez góry i śladem innych dopływów dotrzeć do źródeł Adalette, gdzie bestia ponoć grasuje.
+    - Z pomocą zwabionego ptaka Ilana wysyła wiadomość do karczmarza, by zabrał i przechował rzeczy Eskela, w zamian oferuje pokryć koszt takowego depozytu.
+    - Ruszamy wzdłuż gór i rzek. W drodze mijamy pomniejsze osady i licznie pasącą się trzodę. Od napotkanych pastuchów otrzymujemy wskazówki jak dotrzeć do pobliskich wsi: Nowa Rogowizna, Nowa Smolarnia i Jaworki.
+    - Kajetan z typowym dla siebie przekąsem pyta, co też stało się ze Starą Rogowizną. Dowiadujemy się, że dawniej, gdy tatko naszego rozmówcy na chleb mówił bep, cała wieś została wymordowana przez wilkołaka.
+    - Późnym popołudniem docieramy do małej wioski liczącej niespełna tuzin chat. Od miejscowych dowiadujemy się, że to Jaworki. Jeden z chłopów, zapytany o drogę do Adalette, przestrzega przed endriagami panoszącymi się dalej na Południe.
+    - Na wspomnienie o endriagach Ivar przypomina sobie, że to właśnie te bestie zaatakowały powóz niepomnej smarkatej szlachcianki.
+    - Trochę ponad dzień drogi na północny-zachód jest Anchor - faktoria, najbliższe miasto w okolicy. Dalej, z biegiem Adalette można dotrzeć do Małego Bagna, wsi na rozlewiskach, a potem, już w Cidaris jest Caelf, kolejne dość duże miasto.
+    - Sporo ludzi w tych okolicach pamięta sławetną kaźń z wilkołakiem i wiedźminem. Między innymi siedząca pod chatką samotna babuleńka, która baja o przystojnym, młodym drwalu, co go wiedźmin z wilkołactwa odczarował:
+        - ponoć miał powodzenie u panien (drwal, nie wiedźmin), ale był samotnikiem i stronił od ludzi
+        - żył sam, na uboczu, jakieś 2 godziny drogi od wsi stała niegdyś jego chata (możliwe, że wciąż coś się z niej ostało)
+        - miał talent do robienia w drewnie - rzeźbił prawdziwe cuda
+        - gdy miejscowi dowiedzieli się o jego "przypadłości" i dali mu odczuć malejące zaufanie, wyniósł się gdzie diabeł mówi dobranoc
+    - Ilana jest żywo zainteresowana i próbuje od staruszki wydębić kij, na którym się opiera - ponoć rzeczony wagabunda wystrugał go, kiedy kobiecina była młodsza. Wskazują też na to inicjały wyryte w drewnie: O.D. Kajetan, słysząc część rozmowy, bez zastanowienia wcina się, mówiąc Ilanie w krótkich, żołnierskich słowach, by odstosunkowała się od kostura starszej pani.
+    - {Druidka}Ilana, nie chcąc robić sceny przy starowince, czeka aż się nieco oddalimy, by wygarnąć Kajetanowi, co myśli o jego "występie". Nie mając w pobliżu drzewa, na które może pójść gryźć się w język, rzuca w złości, że {czarodziej}Kajetan powinien stulić dziób i nie wtrącać się, gdy ona usiłuje potencjalnie dowiedzieć się czegoś o swoich korzeniach.
+    - W lekko nadpsutej atmosferze, docieramy do naszej destynacji - rozlewiska będącego źródłem Adalette, gdzie stajemy na nocleg.
 
 ##### [Sesja 142](#sesja-142) [Sesja 144](#sesja-144)
