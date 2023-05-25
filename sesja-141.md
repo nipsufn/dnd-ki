@@ -7,7 +7,7 @@
   - Ilana przysiada się do niego i opowiada:
     - o spotkaniu z bardką i jej ryżą, urokliwą asystentką w Gors Velen; {elf}Kajetan wydaje się zupełnie niezainteresowany
     - o starciu Roeggnera Czarnego z okrętem rodu An Craite w okolicach Smoczych Kłów - rafy z charakterystycznymi fragmentami wystającymi nad morze w czasie odpływu
-    - prosi o relację z wypadku na Thanedd, tym razem już na spokojnie, bez emocji i "dobrych rad""
+    - prosi o relację z wypadku na Thanedd, tym razem już na spokojnie, bez emocji i "dobrych rad"
   - Gdy tak rozmawiamy, do Świątyni kolejno przybywa dwóch kurierów. Pierwszy przynosi prośbę Vigga o wizytę domową u niesamowicie słabej i nie całkiem przytomnej małżonki. W drogę czym prędzej wyrusza Matka Iola z kilkoma akolitkami. Ilana chce złożyć {alchemikowi}Viggo grzecznościową wizytę. Apatyczny {czarodziej}Kajetan stwierdza, że {dziewczyna}Ilana może wyruszyć sama, jednak po namyśle i ona rezygnuje. Miast tego każde z nas wysyła list z wyrazami zdrowia i ofertą pomocy, Kajetan - magiczny, a Ilana - poprzez Matkę Przełożoną.
   - Drugim posłańcem jest nikt inny jak Zyvik, wołający pomocy dla jego karawany z rannymi. Ponoć szli od Flotsam, gdy zaatakował ich podjazd ludzi z Crinfrid i Żoliborza.
   - Niemal przemocą wyciągamy z Zyvika, jak rzeczywiście ma się sytuacja pochodu. Niechętnie przyznaje, że potrzebują nie tylko kapłanek, ale i kogoś, kto odeprze nieprzyjaciela.
