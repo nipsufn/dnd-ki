@@ -23,7 +23,7 @@
         - mężczyzna sprawdzał plotki o smoku, kilka dni temu był w Burdoff, gdzie trafił na obiecujący trop, po czym przepadł
         - nasz raraszek ponoć zaatakował jakiś konwój z Gors Velen, i przy okazji uwolnił potwora, którego przewożono; połowa ludzi została spalona a połowa - rozpuszczona
         - wiedźmin podejrzewał przewodnika o wciągnięcie karawany w zasadzkę w miejscu, gdzie Adalette wypływa z Brokilonu
-        - od Dijsktry czarodziejka dowiedziała si, że eksplozja Kaspara przypominała sytuację zaszłą przy pojmaniu Filippy, jednak napastników musiało być o wielu więcej
+        - od Dijsktry czarodziejka dowiedziała się, że eksplozja Kaspara przypominała sytuację zaszłą przy pojmaniu Filippy, jednak napastników musiało być o wielu więcej
         - tropem, który nam podrzucono jest podupadająca rodzina szlachecka z Denesle, która dziwnym trafem zdaje się otrzymała ostatnio zastrzyk gotówki i szuka najemników
         - Carduin konkurował z niejakim Vilgeforzem i Francescą, którzy okazali się być zamieszani w spisek, o którym miał wiedzieć Filavandrel - stąd niekryta antypatia do elfiego czarownika
     - Gdy wybija południe, stawiamy się w umówionym z Brasem miejscu, na jednym z dziedzińców parkowych Aretuzy. Ku uciesze adeptów i rozbawieniu kadry, rozpoczyna się sparing. Kajetanowi udaje się obronić honor kilkoma celnymi, jeśli nie mocnymi ciosami, jednak od samego początku nie ulega wątpliwości, że Bras jest znacząco lepszym szermierzem. Ilana, widząc ogólne rozweselenie kibicujących, zbiera zakłady - bardziej dla hecy, aniżeli dla zysku. Sama obstawia zwycięstwo {maga-wojaka}Bras.

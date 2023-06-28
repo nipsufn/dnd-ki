@@ -40,6 +40,6 @@
         - gdy miejscowi dowiedzieli się o jego "przypadłości" i dali mu odczuć malejące zaufanie, wyniósł się gdzie diabeł mówi dobranoc
     - Ilana jest żywo zainteresowana i próbuje od staruszki wydębić kij, na którym się opiera - ponoć rzeczony wagabunda wystrugał go, kiedy kobiecina była młodsza. Wskazują też na to inicjały wyryte w drewnie: O.D. Kajetan, słysząc część rozmowy, bez zastanowienia wcina się, mówiąc Ilanie w krótkich, żołnierskich słowach, by odstosunkowała się od kostura starszej pani.
     - {Druidka}Ilana, nie chcąc robić sceny przy starowince, czeka aż się nieco oddalimy, by wygarnąć Kajetanowi, co myśli o jego "występie". Nie mając w pobliżu drzewa, na które może pójść gryźć się w język, rzuca w złości, że {czarodziej}Kajetan powinien stulić dziób i nie wtrącać się, gdy ona usiłuje potencjalnie dowiedzieć się czegoś o swoich korzeniach.
-    - W lekko nadpsutej atmosferze, docieramy do naszej destynacji - rozlewiska będącego źródłem Adalette, gdzie stajemy na nocleg.
+    - W lekko nadpsutej atmosferze, docieramy do naszej destynacji - rozlewiska będącego źródłem Adalette, gdzie stajemy na nocleg. Tym razem Kajetan stylizuje lokum na stary młyn wodny.
 
 ##### [Sesja 142](#sesja-142) [Sesja 144](#sesja-144)
