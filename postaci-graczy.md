@@ -43,21 +43,27 @@
       - 1 Piersiówka z nalewką z mandragory, 1/2
       - naszyjnik kul ognia, 3 nieodnawialne użycia
       - ⒶPierścień ochrony +1 do rzutów obronnych
-      - ⒶAleksandryt Mocy
-        - Spell focus.
-        - When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
-        - You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-          - [Tsunami](https://5e.tools/spells.html#tsunami_phb)
-          - [Maelstrom](https://5e.tools/spells.html#maelstrom_xge)
-          - [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
+      - <details>
+          <summary>ⒶAleksandryt Mocy</summary>
+            - Spell focus.
+            - When attuned, increased Bludgeoning damage done by all spells by 1 per dice rolled
+            - You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+              - [Tsunami](https://5e.tools/spells.html#tsunami_phb)
+              - [Maelstrom](https://5e.tools/spells.html#maelstrom_xge)
+              - [Tidal Wave](https://5e.tools/spells.html#tidal%20wave_xge)
+        </details>
       - [Księga z zaklęciami Aen Drisichean](https://5e.tools/items.html#atlas%20of%20endless%20horizons_tce)
-      - ⒶPierścień Ucieczki - 1/1
-        - This ring has 1 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it.
-        - The ring regains 1 expended charge per 24h spend in a Place of Power.
+      - <details>
+          <summary>ⒶPierścień Ucieczki - 1/1</summary>
+            - This ring has 1 charges. While attuned and wearing it, you can use an action and expend 1 charge to cast the teleport spell from it.
+            - The ring regains 1 expended charge per 24h spend in a Place of Power.
+        </details>
     - Schowany:
       - Odzież
-        - [Szata wysokiego elfiego rodu](https://5e.tools/items.html#cloak%20of%20elvenkind_dmg)
-          - While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+        - <details>
+            <summary>[Szata wysokiego elfiego rodu](https://5e.tools/items.html#cloak%20of%20elvenkind_dmg)</summary>
+              - While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+          </details>
         - [Zimowe ubrania](https://5e.tools/items.html#clothing%2c%20cold%20weather_idrotf)
         - Eleganckie ubranie
       - Księgi:
@@ -120,7 +126,7 @@
         - 2 porcja kadzidła
         - 6 porcji kredy
       - Fundusze:
-        - 91.1.1 gp
+        - 82.1.1 gp
         - kamienie szlachetne warte 1015gp
       - Magiczne różności:
         - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
@@ -130,50 +136,58 @@
         - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
         - Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 * spalony spell slot)
         - zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
-        - 2 odłamki Eluviaanu
-          - Attunement: Elf only
-          - A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
-          - Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
-          - When attuned to an character possessing the Fey Ancestry trait gains the following features:
-            - Can cast the spell [clairvoyance](https://5e.tools/spells.html#clairvoyance_phb) as a spell like ability
-            - As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
-            Once you use any of this features, you can't use it again until you finish a long rest.
+        - <details>
+            <summary>2 odłamki Eluviaanu</summary>
+              - Attunement: Elf only
+              - A splinter of the Eluviaan, an ancient elven artifact said to hold the power of entering and traversing the Fade. Not dissimilar to a shard of cloudy glass.
+              - Anyone holding and looking though it can cast the spell Detect Magic at will. Additionally, items embedded with the essence of other planes are highlighted in an colourful aura.
+              - When attuned to an character possessing the Fey Ancestry trait gains the following features:
+                - Can cast the spell [clairvoyance](https://5e.tools/spells.html#clairvoyance_phb) as a spell like ability
+                - As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
+                Once you use any of this features, you can't use it again until you finish a long rest.
+          </details>
         - [Różdżka niewidzialności z Craag An](https://5e.tools/items.html#ring%20of%20invisibility_dmg)
         - 1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
         - 1 kryształy
-        - różdżka Zamku Niskiego Kaer Seren
-          - When attuned, you can select one cantrip from any Class Spell list. You can cast this cantrip using your Spellcasting ability modifier as if the spell would be in your Spell list.
-            Additionally, you can change the selected spell after finishing a long rest.
-        - różdżka maga
-          - type: Quarterstaff
-          - properties:
-            - Versatile
-            - Melee
-            - Simple
-            - Magic weapon: This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
-          - damage: 1d6 or 1d8 Bludgeoning
-          - attunement: true (Arcane Spellcaster)
-          - spellcasting:
-            - charges: 8
-            - recharge: false
-          - description:
-            - Has an empty gem socket.
-            - This staff can hold up to 8 charges. You can use the charges to power the following abilities:
-              - Enchanted Strikes: You can use your bonus action to expend a number of charges. The next time you hit with staff during the next minute,
-            the target takes and extra 1d6 Force damage per charge
-              - Recharge: You can use your action to spend a spell slot to refill the charges in your staff
+        - <details>
+            <summary>różdżka Zamku Niskiego Kaer Seren</summary>
+              - When attuned, you can select one cantrip from any Class Spell list. You can cast this cantrip using your Spellcasting ability modifier as if the spell would be in your Spell list.
+                Additionally, you can change the selected spell after finishing a long rest.
+          </details>
+        - <details>
+            <summary>różdżka maga</summary>
+              - type: Quarterstaff
+              - properties:
+                - Versatile
+                - Melee
+                - Simple
+                - Magic weapon: This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
+              - damage: 1d6 or 1d8 Bludgeoning
+              - attunement: true (Arcane Spellcaster)
+              - spellcasting:
+                - charges: 8
+                - recharge: false
+              - description:
+                - Has an empty gem socket.
+                - This staff can hold up to 8 charges. You can use the charges to power the following abilities:
+                  - Enchanted Strikes: You can use your bonus action to expend a number of charges. The next time you hit with staff during the next minute,
+                the target takes and extra 1d6 Force damage per charge
+                  - Recharge: You can use your action to spend a spell slot to refill the charges in your staff
+          </details>
         - pióro z Crag An, skraca czas pisania zaklęć o połowę
         - 2 krystaliczny kawałek dwimerytu, odbierający Moc
         - serce wykute w czarnym kamieniu, pozwala przyzwać i uwiązać byt z innej płaszczyzny
         - 2 żeliwne patelnie
         - 1 zestaw do wspinaczki
-        - Śnieżka Aurila
-          - When attuned, increased Cold damage done by all spells by 1 per dice rolled
-          - You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
-            - [Cone of Cold](https://5e.tools/spells.html#cone%20of%20cold_phb)
-            - [Ice Storm](https://5e.tools/spells.html#ice%20storm_phb)
-            - [Wall of Ice](https://5e.tools/spells.html#wall%20of%20ice_phb)
-          - While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+        - <details>
+            <summary>Śnieżka Aurila</summary>
+              - When attuned, increased Cold damage done by all spells by 1 per dice rolled
+              - You can use your Action to crush the gem destroying it. This releases its energy and produces the effect of one of the following spells. The spell is cast as a 8th level spell.
+                - [Cone of Cold](https://5e.tools/spells.html#cone%20of%20cold_phb)
+                - [Ice Storm](https://5e.tools/spells.html#ice%20storm_phb)
+                - [Wall of Ice](https://5e.tools/spells.html#wall%20of%20ice_phb)
+              - While this gem is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn
+          </details>
       - Thieves Tools
       - naszyjnik przyjaciela Roeggnera Czarnego - kotwica z kości wieloryba
       - Z Craag An:
