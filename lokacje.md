@@ -51,8 +51,11 @@
     - leży nad morzem, między ujściem Jarugi a Temerią, od wschodu graniczy z Verden
     - <a id='l_m_cidaris' pattern='Cidaris'>Cidaris</a>
     - <a id='l_bremervoord' pattern='Bremervoord'>Bremervoord</a>
+    - <a id='l_vartburg' pattern='Vartburg'>Vartburg</a>
     - <a id='l_ravelin' pattern='Ravelin'>Ravelin</a>
     - <a id='l_vole' pattern='Vole'>Vole</a>
+    - <a id='l_mosberg' pattern='Vole'>Mosberg</a>
+        - Największa wyspa wśród Agryli, znajduje się na niej latarnia i osada z małą załogą żeglarzy
 - <a id='l_cintra' pattern='Cintr*'>Cintra</a>
 - <a id='l_ellander' pattern='Ellander'>Ellander</a>
     - Lenno Temerii, a więc i [Redianii](Redania)
@@ -115,6 +118,8 @@
 - <a id='l_redania' pattern='Redani*'>Redania</a>
     - <a id='l_novigrad' pattern='Novigrad*'>Novigrad</a>
         - Stolica wyznawców wiecznego Ognia
+    - <a id='l_densle' pattern='Densle*'>Densle</a>
+        - Nadbrzeżna warownia, w pół drogi między Novigradem a Troy
     - <a id='l_trupia_knieja' pattern='Trupi* Knie*'>Trupia Knieja</a>
         - Nieprzejezdy las między Oxenfurtem a Bronowicami
         - <a id='l_est_tayiar' pattern='Est Tayiar'>Est Tayiar</a>

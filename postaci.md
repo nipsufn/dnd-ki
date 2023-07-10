@@ -217,6 +217,12 @@
     są podejrzenia, że była nią córka Carrerasów, Esme<a id='p_esme_carreras'></a>
   - <a id='p_trott' pattern='Trott*'>Trott</a> - krasnolud ; ?;
     - sprzedaje broń z ukrytymi wadami, zrobił na szaro Skovika i Ivara
+- Cidaris
+  - <a id='p_ethail' pattern='Ethail*'>Ethail</a> - człowiek ; ?;
+    - Król Cidaris
+  - <a id='p_fryderyk' pattern='Fryderyk*'>Fryderyk z Roggeveen</a> - człowiek ; ?;
+    - czwarty syn Hrabiego Roggeveen
+    - jeden z mało znanych szlachciców załatwiający sprawy, którymi Królowi zajmować się nie przystoi
 - Cintra
   - <a id='p_calanthe' pattern='Calanthe'>✝ Calanthe</a> - ; władczyni
     znała Myszowora
