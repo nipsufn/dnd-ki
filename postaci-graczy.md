@@ -24,14 +24,14 @@
 
   - Historia:
 
-    W kręgach magów wiadomo było o ruinach znalezionych w Dol Blathanna, mówiono także o wyprawie archeologicznej zorganizowanej przez elfy. O samej wyprawie niewiele było wiadomo, Starsza Krew nigdy nie dzieliła się chętnie swoją wiedzą. Co poniektórzy szeptali o immunitecie od dwimerytu, ale pewnikiem to pierdoły.
-    Po pół roku plotki zaczynały cichnąć, przymierając jak ognisko do którego nikt nie dokłada, a nawet najzarozumialsi elfi magowie udawali, jak gdyby ani ruin ani wyprawy nigdy nie było.
-    Do ruin wyruszyła spora drużyna - co najmniej z tuzin osób. Magów było czterech, kilku skautów, reszta silni wojacy. Nim oczyścili ruiny i zabezpieczyli laboratorium, stracili większość wojowników, a jeden z magów został ranny. Niemniej jednak zaczęli pracę aby odzyskać i skatalogować wiedzę zachowaną w tym miejscu, jak się okazało o dwimerycie i jego interakcjach z Mocą. Jak było zwyczajem, między innymi aby unikać dezinformacji i ślepych zaułków, opisane techniki i eksperymenty były powtarzane na miejscu.
-    Jeden z rzeczonych eksperymentów skończył się źle. Bardzo źle.
-    Kajetan i inny mag wracali do komnaty w której odbywały się prace gdy w ogromnym huku wszyscy znajdujący się w pomieszczeniu zginęli na miejscu, rozerwani na strzępy. Kajetan, będący akurat na progu, odniósł okropne rany po lewej stronie całego ciała. Drugi mag, pół kroku za nim, stracił bębenki.
-    Z ruin powróciły 4 osoby. Mag, skaut, wojak i nieprzytomny Kajetan. Poszkodowanego udało się elfom uratować, jednak został okropnie okaleczony - magia lecznicza ledwie dała radę naprawić szkody wyrządzone przez incydent, wyglądało też na to że nie będzie w stanie więcej czarować. W niewyjaśniony sposób, jedyne zaklęcie które miał aktywne w czasie incydentu, zdawało się być nietkniętym przez ten efekt.
-    Pozbawiony Mocy, definiującej całe jego dotychczasowe istnienie, zaczął trenować z wojownikami, pozwalając aby wściekłość na partaczy z którymi pracował, na nieudolność magów-lekarzy, na organizatorów wyprawy - z jednej strony napędzała jego nowy fach - z drugiej zaś czyniąc osobę której na Krańcu nikt nie chciał.
-    W końcu wyruszył w świat, szukając miejsca dla siebie, a może i lekarstwa na blokadę.
+      W kręgach magów wiadomo było o ruinach znalezionych w Dol Blathanna, mówiono także o wyprawie archeologicznej zorganizowanej przez elfy. O samej wyprawie niewiele było wiadomo, Starsza Krew nigdy nie dzieliła się chętnie swoją wiedzą. Co poniektórzy szeptali o immunitecie od dwimerytu, ale pewnikiem to pierdoły.
+      Po pół roku plotki zaczynały cichnąć, przymierając jak ognisko do którego nikt nie dokłada, a nawet najzarozumialsi elfi magowie udawali, jak gdyby ani ruin ani wyprawy nigdy nie było.
+      Do ruin wyruszyła spora drużyna - co najmniej z tuzin osób. Magów było czterech, kilku skautów, reszta silni wojacy. Nim oczyścili ruiny i zabezpieczyli laboratorium, stracili większość wojowników, a jeden z magów został ranny. Niemniej jednak zaczęli pracę aby odzyskać i skatalogować wiedzę zachowaną w tym miejscu, jak się okazało o dwimerycie i jego interakcjach z Mocą. Jak było zwyczajem, między innymi aby unikać dezinformacji i ślepych zaułków, opisane techniki i eksperymenty były powtarzane na miejscu.
+      Jeden z rzeczonych eksperymentów skończył się źle. Bardzo źle.
+      Kajetan i inny mag wracali do komnaty w której odbywały się prace gdy w ogromnym huku wszyscy znajdujący się w pomieszczeniu zginęli na miejscu, rozerwani na strzępy. Kajetan, będący akurat na progu, odniósł okropne rany po lewej stronie całego ciała. Drugi mag, pół kroku za nim, stracił bębenki.
+      Z ruin powróciły 4 osoby. Mag, skaut, wojak i nieprzytomny Kajetan. Poszkodowanego udało się elfom uratować, jednak został okropnie okaleczony - magia lecznicza ledwie dała radę naprawić szkody wyrządzone przez incydent, wyglądało też na to że nie będzie w stanie więcej czarować. W niewyjaśniony sposób, jedyne zaklęcie które miał aktywne w czasie incydentu, zdawało się być nietkniętym przez ten efekt.
+      Pozbawiony Mocy, definiującej całe jego dotychczasowe istnienie, zaczął trenować z wojownikami, pozwalając aby wściekłość na partaczy z którymi pracował, na nieudolność magów-lekarzy, na organizatorów wyprawy - z jednej strony napędzała jego nowy fach - z drugiej zaś czyniąc osobę której na Krańcu nikt nie chciał.
+      W końcu wyruszył w świat, szukając miejsca dla siebie, a może i lekarstwa na blokadę.
 
   - Ekwipunek:
     - Założony:
@@ -62,7 +62,7 @@
       - Odzież
         - <details>
             <summary>[Szata wysokiego elfiego rodu](https://5e.tools/items.html#cloak%20of%20elvenkind_dmg)</summary>
-              - While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+              - While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage, and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you.   Pulling the hood up or down requires an action.
           </details>
         - [Zimowe ubrania](https://5e.tools/items.html#clothing%2c%20cold%20weather_idrotf)
         - Eleganckie ubranie
@@ -126,7 +126,7 @@
         - 2 porcja kadzidła
         - 6 porcji kredy
       - Fundusze:
-        - 188.1.1 gp
+        - 183.1.1 gp
         - kamienie szlachetne warte 1015gp
       - Magiczne różności:
         - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
