@@ -23,7 +23,7 @@
     - Ilana, korzystając z okazji, pyta o sprawę kamiennej flaminiki. Zangenis proponuje, by spotkać się w Gors Velen i do odczyniania uroku rzeczywiście spróbować użyć krwi {dziewczyny}Ilana.
     - {Dozorca Risbergu}Zangenis uprzejmie wyprasza nas z jaskini, po czym rozpoczyna pracę nad przywróceniem zabezpieczeń.
     - Schodzimy z gór i udajemy się na nocleg. Wieczorem megaskopuje do nas Triss, z pomocą Mardina. Przekazujemy czarodziejce czego się dowiedzieliśmy, jest bardzo niezadowolona. Zdaje się nie wiedziała o związku punktu mocy i twierdzy pod górami. Prosi tylko, by pozbierać rzeczy Eskela, co też Ilana uskutecznia.
-    - Na kajetanową wzmiankę o złośliwych staruchach, Kristoff opowiada o Gremiście - starszym druidzie, specu od ziół i najbardziej zarozumiałym, wrednym i nieprzyjemnym starcem na całych Wyspach.
+    - Na kajetanową wzmiankę o złośliwych staruchach, Kristoff opowiada o Gremiście - starszym druidzie, specu od ziół i najbardziej zarozumiałym, wrednym i nieprzyjemnym starcu na całych Wyspach.
     - Grzejąc się w cieple wieży Kajetana, dyskutujemy jak najlepiej pozbyć się krabopająka. Mardin, zapytany przez {elfa}Kajetan o to, czy na Thanedd mają specjalne miejsce na potwory, podsuwa pomysł, by miast bestię ubić, wypuścić ją w las, gdzie może znajdzie sobie miejsce wśród swoich pobratymców.
 3. W stronę Adalette
     - Rano zwijamy obóz i zamiarujemy udać się na krabopająka. Zdaniem Ivara najlepiej będzie przejść przez góry i śladem innych dopływów dotrzeć do źródeł Adalette, gdzie bestia ponoć grasuje.
