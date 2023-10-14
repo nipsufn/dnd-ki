@@ -20,7 +20,7 @@
         - jest przypływ, który odsłonił jakąś ukrytą w zboczu jaskinię,
         - morze wpływa do jaskini bez przeszkód,
         - sowa zostaje porwana przez falę i pociągnięta wgłąb dziury; trafia do naturalnej jaskini,
-        - cuchnie tu śniętymi rybami i ogólnym rozkładem, na ścianach rośnie coś jakby ukwiał albo zielonobure glony.
+        - cuchnie tu śniętymi rybami i ogólnym rozkładem, na ścianach rośnie coś jakby ukwiał albo zielono-bure glony.
     - Sowa zostaje wyciągnięta z opałów. Do jaskini zapuszcza się Ilana, zmieniona w węgorza. Druidka znajduje tam człowieka dryfującego na wodzie, ledwo przytomnego. Delikwent mianem Veg, ucapiony skały broni się przed ratunkiem bredząc coś o potrzebie płynięcia dalej, w głąb wyspy. Po wyciągnięciu na brzeg amok mija, a mężczyzna jest mocno skołowany. Pokrywa go zielonkawy szlam.
     - Przełamując swoją niechęć, za namową {towarzyszki}Ilany Kajetan czyta jego myśli, gdy druidka, poczęstowawszy topielca wodą i kocem, przepytuje go o wydarzenia z minionych dni. Chłopina niewiele mówi, ale jego głębsze wspomnienia układają się w ciekawe obrazy:
         - przez okno latarni widzi stado delfinów podskakujące na falach,
