@@ -6,7 +6,7 @@
     - Idziemy poszukać innego zejścia do jaskini, bacznie obserwowani przez ryboludzi.
     - W kuchni w strażnicy znajdujemy mieszek z pokaźną sumą (90GP) jak na strażniczą kiesę, liścikiem i dwoma podejrzanymi zawiniątkami. W liście stoi:
 
-        >- Następny transport towaru przy zaopatrzeniu
+        > Następny transport towaru przy zaopatrzeniu
 
     - W samej latarni znajdujemy kolejny zwitek, a w jednej z beczek - trupa ostatniego z załogi, nieszczęśnika z uszami zatkanymi woskiem, oraz zejście do piwnicy.
     - Schodzimy do podziemi. Natykamy się na kufer z symbolem Thanedd. Bacząc na nasze towarzystwo nie przeszukujemy skrzynki... na razie. Na ścianie znajdujemy iluzję maskującą przejście. Za nią wisiało lustro - źródło iluzji, które strzaskało się pod wpływem zaklęcia rozpraszającego.
@@ -15,9 +15,9 @@
     - W tym samym czasie Kajetan otrzymuje porwaną wiadomość od Dorregaraya, więc składa mu "wizytę". Mag ślęczy nad mapami. Okazuje się, że syrena, która zaszyła się pod wyspą to księżniczka Bremervoord lub coś w tym guście. Dorregaray decyduje się osobiście odwiedzić Mosberg i pomóc nam w wyratowaniu nieszczęśniczki z opresji.
     - W trójkę zapuszczamy się w czeluście tunelu. Docieramy w samą porę, bo wściekłe bestie zdążyły się właśnie siłą przebić przez ścianę i przystępują do jatki.
     - Koniec końców udaje nam się rozprawić z Vodanoy, choć herszt napsuł nam sporo krwi i nerwów. Najgorzej ze wszystkich oberwał zdaje się {mag-ekolog}Dorregaray.
-    - Z syren ostała się jedna, chyba najstarsza, broniąca podrostka - na oko 14-letniej dziewczynki, córki książęcej pary, syreny Shenaz i Aglovala z Bremenvoord.
+    - Z syren ostała się jedna, chyba najstarsza, broniąca Efryj - na oko 14-letniej dziewczynki, córki książęcej pary, syreny Shenaz i Aglovala z Bremenvoord.
     - Przenosimy się na ląd, do domku Kajetana, gdzie gościmy także pozostałych uczestników ambarasu. Starsza syrena jest wymęczona, trzyma się ostatkiem sił. Zostaje więc z miejsca odstawiona do stworzonej dla niej sypialni z basenem i ogromną muszlą morską.
     - Tymczasem rozmawiamy z Vegiem i Dorregarayem o tym, co się tu wydarzyło. Latarnik - amator fisstechu - ponoć testował nowy olej do latarni, stąd też wzięła się dziwaczna mgła.
-    - Księżniczka ponoć wymknęła się z pałacu w poszukiwaniu innych syren. Dziewczyna ma nogi, ale nocą, w świetle księżyca zmieniają się one w rybi ogon. Na głębię wyruszyła szukając Morszczynki z opowieści rodziców. Na morzu zaatakowały ją Vodanoy i to właśnie syrenia czarownica ją uratowała.
+    - Księżniczka ponoć wymknęła się z pałacu w poszukiwaniu innych syren. Dziewczyna ma nogi, ale nocą, w świetle księżyca zmieniają się one w rybi ogon. Na głębię wyruszyła szukając Morszczynki z opowieści rodziców. Na morzu zaatakowały ją Vodanoy i to właśnie syrenia czarownica, Szeja, ją uratowała.
 
 ##### [Sesja 148](#sesja-148) [Sesja 150](#sesja-150)

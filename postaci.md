@@ -135,6 +135,13 @@
   - <a id='p_krol_demawend' pattern='Król* Demawend*,Demawend*'>✝ Król Demawend</a> - ; król, zabity przez Nilfgaardczyków
   - <a id='p_stennis' pattern='Ksi* Stennis*,Stennis*'>Stennis</a> - ; książę
     Demawend: ojciec
+- Bremervoord
+  - <a id='p_agloval' pattern='Agloval*'>Agloval</a> - człowiek; książę
+  - <a id='p_shenaz' pattern='Shenaz*'>Shenaz</a> - eks-syrena; księżna
+  - <a id='p_efryj' pattern='Efryj*'>Efryj</a> - pół-syrena; księżniczka
+  - <a id='p_szeja' pattern='Szej*'>Szeja</a> - syrena; Morszczynka
+  - <a id='p_ondre' pattern='Ondre*'>Ondre</a> - człowiek; kapłanka
+    Główna Kapłanka Freyji na kontynencie
 - Brokilon
   - <a id='p_cedrik' pattern='Cedrik*'>Cedrik</a> - elf; druid
     Mentor Mirny

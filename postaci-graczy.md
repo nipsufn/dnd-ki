@@ -126,8 +126,8 @@
         - 2 porcja kadzidła
         - 6 porcji kredy
       - Fundusze:
-        - 183.1.1 gp
-        - kamienie szlachetne warte 1015gp
+        - 218.3.1 gp
+        - kamienie szlachetne warte 1615gp
       - Magiczne różności:
         - 2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
         - 2 eliksiry [siły Lodowego Giganta](https://5e.tools/items.html#potion%20of%20frost%20giant%20strength_dmg)
