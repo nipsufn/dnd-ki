@@ -1,5 +1,7 @@
 ### Sesja 142
+
 ##### [Sesja 141](#sesja-141) [Sesja 143](#sesja-143)
+
 1. Panie czarowne
     - Po zebraniu rady odwiedzamy Keirę, u której siedzą już Triss, Margarita i Lambert. Kajetan dziękuje czarodziejce za pomoc finansową, bez której utknąłby w mieście na dłużej. Uzdrowicielka wspomina, że próbowała skontaktować się z Zangenisem, bezskutecznie.
     - Pozostałe czarodziejki zdaje się nie planują przywracać sobie mocy tym samym sposobem, co Keira, choć Triss zbywa pytanie wymownym milczeniem.
@@ -40,8 +42,8 @@
     - Umawiamy się z towarzyszami nazajutrz wieczorem w okolicy gór. Tymczasem {elf}Kajetan "rozbija" swoje lokum w ulubionym zaułku i zaprasza do środka także Brasa. Mag jest pod niemałym wrażeniem sztuczki.
     - Patrząc na umęczone, skacowane oblicze Kristoffa, Kajetan, w myśl zasady "czym się strułeś, tym się lecz", częstuje go wódką zmienioną w czysty spirytus, ku uciesze ognistego chowańca wyspiarza, zaciekawieniu Brasa i mocnej dezaprobacie Ilany.
 4. Wszystkie drogi prowadzą do Burdoff
-    - Nad ranem rozstajemy się z {magiem-wojakiem}Brasem i rozpytujemy w mieście o Eskela. 
-    - Trafiamy do zajazdu przed mieściną, "Króla Pontaru", którego łasy na złoto karczmarz mówi, że o smoka pytało wielu, ale tylko dwie osoby rozpytywały o kowala i Zerrikankę - typ o zakazanej mordzie awanturnika z paskudną szramą na obliczu i dziwny, nieprzyjemny jegomość, którego facjaty nie spamiętał. 
+    - Nad ranem rozstajemy się z {magiem-wojakiem}Brasem i rozpytujemy w mieście o Eskela.
+    - Trafiamy do zajazdu przed mieściną, "Króla Pontaru", którego łasy na złoto karczmarz mówi, że o smoka pytało wielu, ale tylko dwie osoby rozpytywały o kowala i Zerrikankę - typ o zakazanej mordzie awanturnika z paskudną szramą na obliczu i dziwny, nieprzyjemny jegomość, którego facjaty nie spamiętał.
     - Ten pierwszy, jak się domyślamy nasz wiedźmin, zjawił się po tym drugim i wynajął kwaterę na cały tydzień z góry. Karczmarz nie widział go jednak od jakichś 5 dni i straszy, że jeśli wiedźmin nie zjawi się w ciągu najbliższych 2 dni po swoje rzeczy, wywali je do rynsztoka.
     - W jego pokoju (do którego Ilana musi się wślizgnąć, karczmarz nie chciał nas wpuścić) panuje nieład. Podróżny zestaw alchemiczny wygląda jakby został porzucony w trakcie pracy, ogień wygasł, a cokolwiek się warzyło, aromatem sygnalizuje końcowe stadium rozkładu. Zdaje się, że wiedźmin opuścił pokój w dużym pośpiechu.
     - W tym czasie Kajetan rozmawia z Ivarem i Chidą. Zerrikanka skierowała i Eskela, i tego drugiego typa o dziwnej, bladej jak śmierć twarzy bez szczegółów do jaskini, w której zginęła Ebba. Ivar także nie ma pojęcia jak jegomość wyglądał, bo rozmawiał z nim przy pracy w kuźni, zwrócony plecami.
