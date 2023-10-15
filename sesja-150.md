@@ -1,5 +1,7 @@
 ### Sesja 150
+
 ##### [Sesja 149](#sesja-149) [Sesja 151](#sesja-151)
+
 1. Umykając na ląd
     - Rankiem zauważamy, że Dorregaray stracił kilka palców prawej ręki. Ilana próbuje mu pomóc, jednak bez widocznego - przynajmniej od razu - efektu
     - Księżniczka Efryj po odespaniu szoku szybko odzyskuje manieryzm władyków, ku irytacji Kajetana wydając rozkazy Vegowi w cudzej kuchni. Elf{Kajetan} dość uprzejmie (jak na swoją niewyparzoną buzię) zwraca jej uwagę.
@@ -19,20 +21,23 @@
         - wystawia dla nas weksel na 1200 sztuk złota, po czym zabiera ze sobą Vega i odchodzi
     - realizujemy weksel w banku w kamieniach.
 3. Na skraju świata
+
     - Kajetan rozmawia z Dorregarayem o wyprawie na wyspy Skellige, o której ekologowi wspomniała {druidka}Ilana
     - Ilana wybiera się natychmiast do świątyni Freyji:
+
         - nieco nieskładnie opisuje swój problem pierwszej z napotkanych kapłanek, zdaje się nie chce opowiedzieć wszystkiego, sama jednak nie wiedząc co chce zachować dla siebie
         - kapłanka szybko dochodzi do wniosku że sprawą powinna zająć się główna Kapłanka, Ondre, do której prowadzi {dziewczynę}Ilana
         - Ilana, dalej nieco meandrując, opowiada co jej się stało przez bliskość Morszczynki, postawnej wyspiarce w średnim wieku (po rysach domyślić się można powinowactwa z Nikolaiem i Otygiem).
         - Kapłanka dmucha {druidce}Ilana jakimś proszkiem w twarz. Ta znów zaczyna przeżywać swój koszmar, który w kulminacyjnym momencie przerywa inna wizja, Ondre wyciągająca z piersi {dziewczyny}Ilana jakąś ciemność, którą miażdży w dłoniach, promieniując nienaturalnym światłem
         - Ilana budzi się na jednej z świątynnych prycz, które wcześniej mijała w czasie rozmowy. Czuje się dużo lepiej. Szybko dociera do niej głos Reah, z którą chcąc-niechcąc rozmawia:
+
             - spała do popołudnia kolejnego dnia
             - parę drakkarów z towarami dla Hjalmara napadły dwa inne, pod czarną banderą (jeden z nich z tarczami ozdobionymi trzema krukami - Leiva). Wywiązała się bitka, szybko jednak zamieniająca się w kooperację - w okolicy podniosła się mgła, a marynarzy obu załóg zaczęły atakować rekiny
             - {bardka}Reah opowiada też o potężnym Vodanoy mianem Dagon
 
-                >Nie jest umarłym ten, który spoczywa wiekami, nawet śmierć może umrzeć wraz z dziwnymi eonami.
+                > Nie jest umarłym ten, który spoczywa wiekami, nawet śmierć może umrzeć wraz z dziwnymi eonami.
                 >
-                >W głębinach, gdzie nie dociera światło słońca, drzemią potęgi starsze niż ludzkość. Bogowie i demony śpią w podwodnych miastach, czekając na swój czas, albowiem powiedziane jest, że kiedy nadejdzie godzina, przebudzą się i przyniosą światu zagładę. Jedna z tych istot nosi imię Dagon.
+                > W głębinach, gdzie nie dociera światło słońca, drzemią potęgi starsze niż ludzkość. Bogowie i demony śpią w podwodnych miastach, czekając na swój czas, albowiem powiedziane jest, że kiedy nadejdzie godzina, przebudzą się i przyniosą światu zagładę. Jedna z tych istot nosi imię Dagon.
 
         - {druidka}Ilana żegna Reah, by odszukać główną Kapłankę. Znajduje ją na placu świątynnym, otoczoną akolitkami i grupą wiernych. Wygłasza kazanie między uderzeniami młotów kapłanek - na obrządek składa się rytualne odkuwanie łańcucha.
         - wysłuchawszy kazania które można sprowadzić do stwierdzenia "na pohybel lodowym gigantom", {dziewczyna}Ilana rozmawia z Ondre:
@@ -40,6 +45,5 @@
             - problem zaostrzył się kiedy, przez syrenie mącenie w głowie, umysł Ilany zaczął odrzucać obcą obecność
             - na podstawie rozmowy {druidka}Ilana dochodzi do wniosku, że źródłem przekleństwa musiał być artefakt Lwiogłowego Pająka który zaczęła nosić by zasłonić swoje umiejętności przed Myrtonem, i nosiła do całkiem niedawna
             - Kapłanka odradza też dalsze samodzielne eksperymenty z cudzymi snami - miedzy innymi, powrót do własnej głowy może okazać się problematyczny
-
 
 ##### [Sesja 149](#sesja-149) [Sesja 151](#sesja-151)

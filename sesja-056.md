@@ -1,10 +1,13 @@
 ### Sesja 56
+
 ##### [Sesja 55](#sesja-055) [Sesja 57](#sesja-057)
+
 <style type="text/css" media="screen">
     p {
         display: inline; /* bug workaround */
     }
 </style>
+
 1. Glejtologia stosowana
     - Mury przed główną bramą miasta zdobi nietypowy dekor w postaci 6 wisielców. W jednym z nich Ilana rozpoznaje sierżanta Skaagsa. Wygląda na to, że po potyczce nad Chotlą przeprowadzono tu małe porządki.
     - Próbujemy wejść do miasta. Ustawiamy się w niemiłosiernie długiej kolejce. Posuwając się wolno do przodu rozgłaszamy plotki, że przy drugiej bramie jest lepiej i mniej ludzi, skracając tym nieco ogonek.
@@ -29,28 +32,29 @@
     - Następnego dnia rano ruszamy na poszukiwania stolarza. W końcu znajdujemy fachowca, odbijając się wcześniej od wielu niziołczych drzwi - wredne karły są pamiętliwe na krzywdę im wyrządzoną (na tą, której same są winne, niekoniecznie), w związku z czym oferują usługi po zaporowych cenach.
     - Stolarz-zegarmistrz, starszy pan z nosem, który sugeruje, że w rodzinie mógł się przewinąć jakiś gnom, oferuje natomiast uczciwą cenę i przyjmuje zlecenie [elfa](Kajetan) na małą prasę do kredy.
     - Od stolarza trafiamy do zbrojmistrza pod szyldem głoszącym dźwięczną nazwę Słońce Jarugi. Ilana kupuje broń dla Skovika - solidny topór.
-    - Uwagę Kajetana przyciąga oręż wiszący na ścianie. Miecz wygląda na półtoraręczny, elfiej roboty, ale jego rękojeść wyszła raczej spod palców gnomiego mistrza i przypomina ptaka. 
+    - Uwagę Kajetana przyciąga oręż wiszący na ścianie. Miecz wygląda na półtoraręczny, elfiej roboty, ale jego rękojeść wyszła raczej spod palców gnomiego mistrza i przypomina ptaka.
     - Ostrze jest definitywnie magiczne, [elf](Kajetan) stwierdza to dotknąwszy miecza. Na ostrzu widnieje inskrypcja w Starszej Mowie: _Dubhenn haern am glândeal, morc'h am fhean aiesin_, co można przetłumaczyć jako "Mój błysk przebije ciemności, moja jasność mroki rozproszy". Cena niestety odstrasza i zdecydowanie wykracza poza nasz budżet.
     - Zakupiwszy oręż dla wyspiarza szukamy miejsca, gdzie Kajetan mógłby się zaopatrzyć w którąś z cieczy potrzebnych do zaklinania kryształów.
     - Znajdujemy Gildię Alchemików. Pracujący tam gnom przedstawia nam ceny Alkahestu oraz jego pochodnej, Azothu, jednak odmawia sprzedaży dowiedziawszy się, że jesteśmy niezrzeszonymi podróżnikami. Po chwili rozmowy o przepisach oferuje nam jeszcze inny specyfik, Izzotonik, który powinien sprawdzić się jako środek zastępczy. Zaprasza nas na zaplecze, do warsztatu.
     - Kajetan, widząc, że zaczynamy operować poza [nilfgaardzkimi](Nilfgaard) regulacjami, sprawdza przy gnomie, czy jego specyfik nada się do utrzymania zaklęć w kryształach. Roztwór nie jest całkiem przewidywalny, ale zdaje się być wystarczający. Kupujemy 5 miarek i polecamy się na przyszłość.
     - Wychodząc z warsztatu mijamy innego członka gildii. Kobieta łypie na nas podejrzliwym okiem, ale gnom, nazwany przez nią Wilpostem, szybko rozładowuje sytuację.
 3. Na kazanie w Towarzystwie
+
     - Po zakupach u alchemika Ilana upiera się aby udać się do kapłana po radę w sprawie upiora. Kierujemy swoje kroki do świątyni Proroka Lebiody.
     - W drodze, w opustoszałej uliczce zasadzają się na nas ludzie Larsa - albo raczej, jak się okazuje - Redańscy agenci z Towarzystwa, których [Verdeńczyk](Lars) porzucił jak stare rękawiczki. Nie rozumieją co się stało po nieudanym zamachu i żądają wyjaśnień.
     - Kajetanowi udaje się opanować wściekłość i wyjaśnia, że [łotrzyk](Lars) pracuje nad tym, co go interesuje, to jest usunięciem zarazy z Verden, a zabicie maga było jedynie jednym z jego pomysłów jak ten cel osiągnąć.
     - Zbiry mówią, że ckliwa historyjka o zemście za Verden była tylko pretekstem mającym skłonić nas do bardziej polubownej współpracy. Tak naprawdę chodziło tylko o to, by przez pozbycie się maga osłabić Czarnych i dać Redańczykom przewagę w potyczce nad Chotlą.
     - Ilanie wymyka się coś o Cintrze i, widząc minę [elfa](Kajetan) szybko wspomina o paru innych lokacjach, gdzie mogą szukać swojego byłego szefa. Nasi rozmówcy znikają równie szybko jak się pojawili.
     - W świątyni Proroka Lebiody Ilana rozmawia ze starszym, ślepym kapłanem, Burchardem. Dziewczyna otrzymuje niecodzienną poradę wprost z Dobrej Księgi:
-        <br/>
+
         > Zaprawdę powiadam wam, kto wierzy snom, jest jako chcący pojmać wiatr lubo cień uchwycić. Łudzi się obrazem zwodniczym, krzywym zwierciadłem, które łamie lub prawi niedorzeczności na wzór niewiasty rodzącej. Głupi zaiste, kto marom sennym wiarę daje i drogą złudy kroczy.
-        <br/>
+        >
         > Wszelako kto sny letce sobie waży i nie wierzy im nic a nic, ten także bezrozumnie czyni. Bo przecież gdyby sny całkiem znaczenia nie miały, to po cóż by bogowie, tworząc nas, zdolność śnienia nam dawali?[<sup>1</sup>](#ad1)
-    
+
     - W podzięce za otrzymaną "radę" wrzucamy kilka groszy "co łaska" do misy ofiarnej stojącej obok ołtarza. Nad paterą zamontowano tabliczkę z napisem głoszącym:
-        <br/>
+
         > Zaprawdę, ubogiego datkiem wesprzyj. Ale miast dać ubogiemu całego arbuza, daj mu pół arbuza, bo się gotowo ubogiemu we łbie przewrócić od szczęścia.
-    
+
 4. Z wizytą w szpitalu
     - Ilana przypomina sobie o obiecanych jej przez [miejskiego maga](Florian) zwojach komunikacyjnych. Idziemy do szpitala, aby zapytać o widzenie.
     - Pielęgniarka, z którą rozmawiamy jest zaskoczona, ale przekazuje naszą prośbę. [Czarodziej](Florian) nie ma teraz czasu, ale zaprasza nas na kolację do "Łba Dzika".
@@ -72,6 +76,7 @@
     - Kajetan, nim otrzeźwiony przez [druidkę](Ilana) zdążył cokolwiek zdziałać, zostaje zasypany gradem ciosów i osuwa się na podłogę nieprzytomny.
     - Ilanie i Gaetanowi udaje się ich odeprzeć. Jeden ze zbirów zostaje przez wiedźmina wyrzucony oknem. Florian pomaga, gdy odzyskuje przytomność, pacyfikując resztę napastników zaklęciem unieruchamiającym.
     - Udaje nam się spętać i wziąć żywcem jednego z ocalałych łotrów.
+
 <div align="right"><i><a id='ad1'></a><sup>1</sup>Mądrości proroka Lebiody, 34;1</i></div>
 
 ##### [Sesja 55](#sesja-055) [Sesja 57](#sesja-057)
