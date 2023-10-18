@@ -3,10 +3,10 @@
 ##### [Sesja 147](#sesja-147) [Sesja 149](#sesja-149)
 
 1. Przyspieszony kurs żeglugi
-    - Rano odprawiamy gości i decydujemy się skorzystać z oferty Roegnera względem podwózki do latarni.
+    - Rano odprawiamy gości i decydujemy się skorzystać z oferty Roeggnera względem podwózki do latarni.
     - Na progu znikającej włości Kajetana jakaś młodsza kapłanka Freyji przekazuje nam list od Kristoffa. Wyspiarz pisze, że trochę sobie przemyślał i chce się spotkać za kilka dni w Hirundum. Wspomina też, że wysłał już depeszę do Triss z prośbą o nauki.
-    - Z portu, na krypie Roegnera płyniemy na Mosberg. Po drodze przysłuchujemy się "ciekawym" plotkom na nasz temat, krążącym wśród pirackiej załogi.
-    - Statek Roegnera staje na kotwicy, a my lądujemy na wodzie w niewielkiej szalupie. Piraci będą na nas czekać przez kolejne 2 dni i świecić latarnie, byśmy trafili.
+    - Z portu, na krypie Roeggnera płyniemy na Mosberg. Po drodze przysłuchujemy się "ciekawym" plotkom na nasz temat, krążącym wśród pirackiej załogi.
+    - Statek Roeggnera staje na kotwicy, a my lądujemy na wodzie w niewielkiej szalupie. Piraci będą na nas czekać przez kolejne 2 dni i świecić latarnie, byśmy trafili.
     - Przy jednym z brzegów, z dala od mgły, widać sporo śniętych ryb. Wyspiarze zgodnie twierdzą, że to zły omen.
     - Wiosłowanie idzie nam nie najlepiej, subtelnie rzecz ujmując. {Mag}Kajetan rozprasza częściowo mgłę i odsłania widok na słynne Smocze Kły.
     - Mgła ma nieprzyjemny, kwasowy zapach, trochę jak palone włosy. Słyszymy skrzypienie, więc kierujemy się w stronę dźwięku. Wkrótce docieramy do opuszczonej łódki, nieco większej niż nasza, uwiązanej do skał. Z tego miejsca widać już masyw wyspy. Łajba obija się o kamienne schody prowadzące, niczym molo, w górę wyspy, po skarpie.
@@ -29,7 +29,7 @@
         - jeden z delfinów nagle zmienia się w piękną dziewoję i macha do niego,
         - delfiny są gonione przez jakieś drapieżniki, chyba rekiny,
         - mężczyzna czuje usilną potrzebę ruszenia na ratunek delfiniej piękności w opałach.
-    - Nie dowiadujemy się bezpośrednio niczego konkretnego, po za tym, że najwyraźniej jest jednym ze strażników, odpuszczamy więc dalsze przesłuchanie i udajemy się na spoczynek do wieży Kajetana. Veg zostaje zamknięty pod kluczem w osobnym pokoju. {Elf}Kajetan kontaktuje się z Roegnerem i informuje o postępach, na co pirat przestrzega nas przed syrenami.
+    - Nie dowiadujemy się bezpośrednio niczego konkretnego, po za tym, że najwyraźniej jest jednym ze strażników, odpuszczamy więc dalsze przesłuchanie i udajemy się na spoczynek do wieży Kajetana. Veg zostaje zamknięty pod kluczem w osobnym pokoju. {Elf}Kajetan kontaktuje się z Roeggnerem i informuje o postępach, na co pirat przestrzega nas przed syrenami.
     - W nocy Ilanie wydaje się, że coś słyszy. We śnie budzi się z nagłą potrzebą podejścia do okna. W zachodzącym słońcu widzi dwie grupy delfinów, lub innych dużych stworzeń morskich. Jedna z nich... macha. Druga grupa wygląda zdecydowanie mniej sympatycznie. Dziwną scenę przerywa uczucie chłodu i ból spowodowany czymś, co w mgnieniu oka rośnie jej w brzuchu i przegryza się na świat - chmara pająków. Nad ranem druidka budzi się zmęczona i jakby bez chęci do życia.
 3. Gdyby ryby miały nogi
 
@@ -53,7 +53,7 @@
 
     - Wracamy do wieży, gdzie Kajetan przedłuża swoje zaklęcie. Veg gorączkuje, więc Ilana - na ile to możliwe - stabilizuje go. Zostawiamy go w bezpiecznym lokum {elfa}Kajetan i kontynuujemy poszukiwania.
     - Na progu zauważamy, że ryboludzie próbują się do nas podkraść i okrążyć, jest ich w sumie 5. Wracamy do środka, gdy tamci przeczesują okolicę.
-    - Kajetan po raz wtóry kontaktuje się z Roegnerem i opowiada co odkryliśmy. Pyta o syreny i ryboludzi - ci drudzy to ponoć legendarny lud głębin z Ys, ale jego zdaniem są raczej mitem. Gdy {mag}Kajetan jest zajęty rozmową, ryboludzie-mity włamują się do strażnicy i wynoszą zwłoki. Układają je w stos na przyniesionej sieci i zabierają "zawiniątko" ze sobą, kierując się na południową plażę.
+    - Kajetan po raz wtóry kontaktuje się z Roeggnerem i opowiada co odkryliśmy. Pyta o syreny i ryboludzi - ci drudzy to ponoć legendarny lud głębin z Ys, ale jego zdaniem są raczej mitem. Gdy {mag}Kajetan jest zajęty rozmową, ryboludzie-mity włamują się do strażnicy i wynoszą zwłoki. Układają je w stos na przyniesionej sieci i zabierają "zawiniątko" ze sobą, kierując się na południową plażę.
     - Zaalarmowany i rozeźlony tym faktem Kajetan niewiele (lub własciwie wcale nie) myśląc wypowiada im wojnę.
 
 ##### [Sesja 147](#sesja-147) [Sesja 149](#sesja-149)

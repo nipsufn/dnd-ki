@@ -14,8 +14,8 @@
         - sugeruje, że mogłaby pomóc {druidce}Ilana, ale dopiero jak odzyska siły
         - wyjawia, że mgła wokół wyspy to sprawka Vodanoy - to ich taktyka na polowanie w danej okolicy
     - Pożegnawszy tę trójkę, Ilana, Kajetan i Veg zabierają magiczną skrzynkę z piwnicznej jaskini pod latarnią i zaczynają dyskutować co zrobić z zwłokami pozostałych strażników, gdy mgła zaczyna gęstnieć i robi się niemal atramentowa.
-    - Uciekamy, zabierając ze sobą drugą łódkę. Roegner wciąż na nas czeka, wiosłujemy więc co sił. Siedząca przodem do wyspy Ilana zauważa jak z morza wynurza się coś na kształt olbrzymiego, kolczastego małża albo innej maszkary wielkości połowy Mosbergu. Z muszli na skałę zeskakują jakieś postaci, najpewniej posiłki ryboludzi.
-    - Przepychając się z rekinami, od których nagle zaroiło się w wodzie, docieramy do drakkaru {pirata}Roegner. Gdy ładujemy się na pokład, bestie usiłują zatopić szalupy. Kajetan częstuje je magiczną błyskawicą, robiąc piorunujące wrażenie na obmierzłych mu rybach.
+    - Uciekamy, zabierając ze sobą drugą łódkę. Roeggner wciąż na nas czeka, wiosłujemy więc co sił. Siedząca przodem do wyspy Ilana zauważa jak z morza wynurza się coś na kształt olbrzymiego, kolczastego małża albo innej maszkary wielkości połowy Mosbergu. Z muszli na skałę zeskakują jakieś postaci, najpewniej posiłki ryboludzi.
+    - Przepychając się z rekinami, od których nagle zaroiło się w wodzie, docieramy do drakkaru {pirata}Roeggner. Gdy ładujemy się na pokład, bestie usiłują zatopić szalupy. Kajetan częstuje je magiczną błyskawicą, robiąc piorunujące wrażenie na obmierzłych mu rybach.
     - W miarę jak płyniemy, widzimy sztorm zbliżający się od Północy. Szczęśliwie drakkar jest szybszy i tylko moczy nas deszcz. Podczas rejsu Kajetan żywiołowo opowiada załodze o Vodanoy. Słuchają z uwagą, choć nie wszystkiemu dają wiarę. Zbliża się wieczór, gdy wreszcie docieramy do portu.
 2. Reorganizacja Cidaryjska
     - Wspólnie decydujemy, że Veg zostanie z nami do czasu spotkania z władzami i złożenia sprawozdania. Kajetan wybiera na nocleg ten sam przyświątynny zaułek, co ostatnio.
