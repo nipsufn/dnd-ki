@@ -139,7 +139,7 @@
     -   <a id='p_agloval' pattern='Agloval*'>Agloval</a> - człowiek; książę
     -   <a id='p_shenaz' pattern='Shenaz*'>Shenaz</a> - eks-syrena; księżna
     -   <a id='p_efri' pattern='Efri*'>Efri</a> - pół-syrena; księżniczka
-    -   <a id='p_scir' pattern='Szej*'>Scir</a> - syrena; Morszczynka
+    -   <a id='p_scir' pattern='Scir*'>Scir</a> - syrena; Morszczynka
     -   <a id='p_ondra' pattern='Ondra*'>Ondra</a> - człowiek; kapłanka
         Główna Kapłanka Freyji na kontynencie
 -   Brokilon
