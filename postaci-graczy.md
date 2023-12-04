@@ -139,7 +139,7 @@
                 -   6 porcji kredy
             -   Fundusze:
                 -   218.3.1 gp
-                -   kamienie szlachetne warte 1615gp
+                -   kamienie szlachetne warte 2215gp
             -   Magiczne różności:
 
                 -   2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)

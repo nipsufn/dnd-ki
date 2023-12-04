@@ -22,7 +22,7 @@
     - Budzimy się dopiero koło południa, przesypiając porę śniadania.
     - Odwiedzamy [zielarkę](Esme), która:
         - przyznaje, że zioła sprzedawane ludziom, którzy mieli nieszczęście iść przez mgłę to placebo - pomaga im dobry, długi sen
-        - opowiada, że niebezpieczna mgła na bagnach panuje od dawna, zaczęła pokrywać coraz większy teren po Dwójksiężycowej Nocy
+        - opowiada, że niebezpieczna mgła na bagnach panuje od dawna, zaczęła pokrywać coraz większy teren po Dwuksiężycowej Nocy
         - w samych widłach rzek znajdują się ruiny - druidzki menhir, punkt Mocy
         - dawniej od czasu do czasu Carreras odwiedzał [zielarz z Dillingen](Regis), destylował nalewkę z Mandragory
     - Strażnicy nie wiedzą aby była jakaś nagroda za rozwiązanie problemu z Mgłą.

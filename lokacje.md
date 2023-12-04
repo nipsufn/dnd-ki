@@ -11,7 +11,7 @@
     - las kawałek na południe od środkowego biegu Jarugi, od północy ograniczony pasmem górskim
     - dom Driad i w mniejszym stopniu Druidów
     - w stanie wojny z Brugge
-    - rozrósł się po Dwójksiężycowej Nocy
+    - rozrósł się po Dwuksiężycowej Nocy
     - <a id='l_craag_an' pattern='Craag An'>Craag An</a>
         - nietknięte ruiny dużego elfiego miasta
     - <a id='l_duen_canell' pattern='Duen Canell'>Duen Canell</a>
@@ -191,7 +191,7 @@
             - luksusowa karczma, kawałek za murami miasta
     - <a id='l_rdestowa_laka' pattern='Rdestow* Łą*,Rdestow*'>Rdestowa Łąka</a>
     - <a id='l_maribor' pattern='Maribor*'>Maribor</a>
-        - zniknął się po Dwójksiężycowej Nocy
+        - zniknął się po Dwuksiężycowej Nocy
         - szybko rozpoczęto odbudowę
         - <a id='l_nowy_zrab' pattern='Now* Zr*'>Nowy Zrąb</a> - karczma
     - <a id='l_mayena' pattern='Mayen*'>Mayena</a>

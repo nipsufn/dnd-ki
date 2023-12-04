@@ -1,7 +1,7 @@
 ### Sesja 0
 ##### [Sesja 1](#sesja-001)
 ##### Przed Aequinoctium jesiennym
-1. Dwójksiężycowa Noc
+1. Dwuksiężycowa Noc
     - Ilana i Kajetan budzą się w wozie Łowców Czarownic, skuci, w samych gaciach, gdy wóz zatrzymuje się na nocny postój.
     - Plany ucieczki przerywa dziwne zjawisko obserwowane przez zakratowane okno wozu. 
     - W lesie zapada niepokojąca cisza. Moment później na niebie widać dwa księżyce zamiast jednego, gwiazdozbiory także są inne. Trwa to chwilę, po czym wszystko wraca (pozornie) do normy.

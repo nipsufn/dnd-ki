@@ -16,7 +16,7 @@
     - Idziemy ze szczurem do Vigga
     - Widzimy Ignę wychodzącą z jakimiś papierami.
     - Dowiadujemy się o Dijkstrze.
-    - Novigrad został puszczony prawie cały z dymem przez magów z miesiąc - dwa przed Dwójksiężycową Nocą. W pożarze umarł przywódca Łowców, Menge.
+    - Novigrad został puszczony prawie cały z dymem przez magów z miesiąc - dwa przed Dwuksiężycową Nocą. W pożarze umarł przywódca Łowców, Menge.
     - Menge odesłał Lorda Myrtona, swoją prawą rękę, z bliżej niewyjaśnianych powodów (ambicja?) do Ellander jakiś czas temu.
     - Typowe trasy do portów, z których można dopłynąć na Skellige (**[Gdzie jest Myszowór?](#z_q10)**):
         Carreras → Maribor → Brugge → Verden

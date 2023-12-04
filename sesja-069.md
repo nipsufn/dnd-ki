@@ -32,7 +32,7 @@
         - wiedźmini szkoły Gryfa (stworzonej przez Malaspinę, nauczyciela Alzura) znani byli z najbardziej umiejętnego wykorzystania Mocy, oraz wielkiego zbioru ksiąg
         - Kapituła planuje zrobić z {twierdzy gryfów}Kaer Seren swoją nową siedzibę
     - Następnym mówcą jest Stucco Zangenis:
-        - opowiada o swoich odkryciach związanych z, zdaje się, losowymi mutacjami u zwierząt przebywających w okolicach punktów mocy od czasu "Zapaści" (jakiś kwartał przed Dwójksiężycową Nocą), która wzięła początek na wyspach Skellige
+        - opowiada o swoich odkryciach związanych z, zdaje się, losowymi mutacjami u zwierząt przebywających w okolicach punktów mocy od czasu "Zapaści" (jakiś kwartał przed Dwuksiężycową Nocą), która wzięła początek na wyspach Skellige
         - zwyrodniałe bestie nie są agresywne i szybko umierają; jak to hybrydy nie mogą się naturalnie rozmnażać - są sterylne
         - jeśli to czyjeś umyślne działanie, {mag}Zangenis "nie widział takiej fuszerki od {Risbergu}Góra Cremora"
     - Dorregaray i kwestia Skellige:

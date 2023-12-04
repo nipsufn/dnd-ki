@@ -15,7 +15,7 @@
         - Brokilon rozrósł się, drzewa chodzą, Driady mają się świetnie atakując przypadkowych ludzi i tocząc otwartą, krwawą wojnę
         - Maribor zniknął jakby ścięty nożem na wysokości gruntu
         - trakty są niebezpieczne
-        - wieś na południe od miasta, którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwójksiężycową Noc
+        - wieś na południe od miasta, którą zauważyliśmy wchodząc do kanałów została zdziesiątkowana przez krzyżówkę dziecka i bazyliszka urodzonego w Dwuksiężycową Noc
         - Łowcy skupiają się teraz na **Potworach**, nie **Czarownicach** - i stąd też przemianowali się na *Łowców Potworów*
         - w mieście znaleziono i spalono kryjówkę leśnych zbójów (czyżby wrogiej kontrabandy Temerskiej?) - odkryto też tunel prowadzący z kryjówki do jaskini w lesie
     - Kajetan prosi alchemika o zidentyfikowanie dziwnego topora znalezionego w jaskini, co nie udaje się całkowicie.

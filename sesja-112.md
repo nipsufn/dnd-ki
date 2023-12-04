@@ -31,7 +31,7 @@
         - mówi, że w ostatnim czasie znów przybyło lodowych gigantów
         - ponoć poprzedni władca z An Craite, ojciec Cerys, chciał układać się z Nilfgaardem i próbował nawiązać stosunki dyplomatyczne
         - Cerys jest władcą jedynie z tytułu - nie cieszy się zbyt dużym posłuchem na Wyspach, a jej działania dodatkowo osłabiają jej i tak nikły autorytet
-        - zdaniem maga to na Skellige miała początek feralna dwójksiężycowa noc
+        - zdaniem maga to na Skellige miała początek feralna dwuksiężycowa noc
     - Dorregaray nie kryje znużenia tematem. Oddala się nonszalancko w stronę zastawionych stołów.
     - Niezbyt zadowolona z przebiegu rozmowy z {magiem}Dorregaray, Ilana wyławia z tłumu facjatę Lamberta. Wiedźmin obraca się w towarzystwie dwóch innych mężczyzn: jednego, którego {druidka}Ilana nie rozpoznaje, charakteryzującego się białymi włosami i drugiego, nieco bardziej znajomego - to wiedźmin z blizną od Hatoriego. Porzucona przez Dorregaraya na rzecz rozmowy z Kajetanem, próbuje dołączyć do towarzystwa i poprosić Lamberta o zwrot drugiego kamienia komunikacyjnego, jeśli ten już go nie potrzebuje.
     - Białowłosy także nosi wiedźmiński medalion szkoły wilka i - jak się zdaje - strasznie ciasny kabat. Obaj wiedźmini wydają się być rozbawieni przywołaną historią o Lambercie rozmawiającym z koniem, wymieniają sakiewki - widać się zakładali. {Wiedźmin}Lambert obiecuje poszukać tabliczki, jeśli Ilana przypomni mu po balu.

@@ -68,6 +68,6 @@
         - ślad, znak czy klątwę musiała w sobie nosić już od kilku miesięcy - problem zaostrzył się kiedy, przez syrenie mącenie w głowie, umysł Ilany zaczął odrzucać obcą obecność
         - na podstawie rozmowy {druidka}Ilana dochodzi do wniosku, że źródłem przekleństwa musiał być artefakt Lwiogłowego Pająka, który zaczęła nosić by zasłonić swoje umiejętności przed Myrtonem, i nosiła do całkiem niedawna
         - kapłanka odradza też dalsze samodzielne eksperymenty z cudzymi snami, gdyż powrót do własnej głowy może okazać się problematyczny
-        - na pożegnanie Ondra rzuca, by pozdrowiła od niej Nikolaja; zaskoczona Ilana odpowiada tylko, że Otyg także ma się nie najgorzej i wychodzi
+        - na pożegnanie Ondra rzuca, by pozdrowiła od niej Nikolaia; zaskoczona Ilana odpowiada tylko, że Otyg także ma się nie najgorzej i wychodzi
 
 ##### [Sesja 149](#sesja-149) [Sesja 151](#sesja-151)

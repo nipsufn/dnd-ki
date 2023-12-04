@@ -13,7 +13,7 @@
         - wypytuje Finarrina czego spodziewa się po naszej wyprawie do Medownej
         - uwadze Finarrina nie umknęła brakująca butelka mioduli
     - Ilana z Mirną wybierają się na polowanie:
-        - Mirna wspomina, że Verenestra pojawiła się pierwszy raz w Wiosce jakieś 3 miesiące po Dwójksiężycowej nocy
+        - Mirna wspomina, że Verenestra pojawiła się pierwszy raz w Wiosce jakieś 3 miesiące po Dwuksiężycowej nocy
         - idą w dół pobliskiego strumyka, szukając zwierzyny łownej i zwierząt wodnych, w które potencjalnie mogła się zmienić jedna ze starszych, Doreein
         - Ilanie udaje się upolować jednego z jeleni z drewnianymi rogami
         - przy bagnistym oczku wodnym w widłach dwóch rzeczek znajdują ogromnego aligatora, Ilana jest przekonana, że to Doreein

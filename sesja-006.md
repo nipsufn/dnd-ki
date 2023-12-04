@@ -16,7 +16,7 @@
     - Wieczorem rozbijamy obóz. Nocujemy w stosunkowo niewidocznym miejscu blisko drogi.
     - W czasie próby zepchnięcia wozu na postój, jedna z osi wozu pęka.
     - Ilana poleca żeby Tom, Eliza i Daria nocowali na wozie lub zaraz obok niego - dla bezpieczeństwa.
-    - Po Dwójksiężycowej Nocy konstelacje na niebie są te same, jednak nieco poprzesuwane.
+    - Po Dwuksiężycowej Nocy konstelacje na niebie są te same, jednak nieco poprzesuwane.
     - Podczas warty Ilany:
         - obóz odwiedzają Scoia'tel w towarzystwie nietypowego zwierza - pół sowy, pół niedźwiedzia 
         - Ilana rozmawia z sowiołakiem - elfy są pod wrażeniem 
@@ -36,7 +36,7 @@
     - Poznajemy źródło problemów kapłanek, przez które świątynia odcięła się od świata. W szklarni jakieś złe pnącza obrosły prastary dąb rosnący w Punkcie Mocy.
     - Jeśli usuniemy pnącze, kapłanki obiecują w zamian pomóc nie tylko nam, ale także i miastu.
     - Na czas walki Eliza z Darią zostają wzięte pod opiekę kapłanek. Tomowi też zostaje udzielona pomoc.
-    - Pnącza zdają się pasożytować na kapłankach, które próbowały się go pozbyć i teraz leżą jak martwe, spowite roślinami. Narośl pojawiła się po feralnej dwójksiężycowej nocy.
+    - Pnącza zdają się pasożytować na kapłankach, które próbowały się go pozbyć i teraz leżą jak martwe, spowite roślinami. Narośl pojawiła się po feralnej dwuksiężycowej nocy.
     - Pnącza zostają usunięte. Początkowo obawiamy się używać magii w obecności Łowcy, ale Kasimir zdaje się nie przejmować zasadami - przynajmniej tak długo jak jego możliwość awansu na tym korzysta (niemniej powinniśmy być ostrożni jeśli wrócimy do Ellander).
     - W czasie walki Dąb traci kawałek jednej z gałęzi. Ilana pyta, czy może go zatrzymać, aby z niego zrobić sobie nowy kostur, na co wdzięczna Matka Iola zgadza się niemal bez namysłu.
 ##### [Sesja 5](#sesja-005) [Sesja 7](#sesja-007)
