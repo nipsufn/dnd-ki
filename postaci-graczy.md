@@ -138,7 +138,7 @@
                 -   2 porcja kadzidła
                 -   6 porcji kredy
             -   Fundusze:
-                -   218.3.1 gp
+                -   212.3.1 gp
                 -   kamienie szlachetne warte 2215gp
             -   Magiczne różności:
 
@@ -147,6 +147,7 @@
                 -   [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
                 -   [dekokt Alarunowy](https://5e.tools/items.html#potion%20of%20longevity_dmg)
                 -   [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
+                -   próbka źródła zanieczyszczenia wody w Hirundum
                 -   Zwieńczenie Elfiego drogowskazu (Arcane Eye, aby rzucić: d20 + INT vs 20 - 5 \* spalony spell slot)
                 -   zielony sześcian pozwalający rzucić "Private Sanctum" (4lvl)
                 -   <details>

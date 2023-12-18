@@ -147,6 +147,7 @@
         "Demawenda",
         "Denesle",
         "Desana",
+        "Detmold",
         "dh'oine",
         "Diestal",
         "Diestalem",
@@ -215,8 +216,8 @@
         "dwimerytowym",
         "dwimerytowymi",
         "dwimerytu",
-        "dwuksiężycową",
         "dwuksiężycowa",
+        "dwuksiężycową",
         "Dwuksiężycowej",
         "dybuga",
         "Dyjin",
@@ -359,6 +360,7 @@
         "Hemmelfarcie",
         "Hemmelfart",
         "Hemmelfarta",
+        "Hemmelfartem",
         "Hengfors",
         "Henselt",
         "Henselta",
@@ -510,6 +512,8 @@
         "Lwiogłowego",
         "Lwiogłowemu",
         "Lwiogłowy",
+        "lykantrop",
+        "lykantropami",
         "mackowatych",
         "Mahakam",
         "Mahakamem",
@@ -876,6 +880,7 @@
         "Vime",
         "Viraxas",
         "Viraxasa",
+        "Vires",
         "Vodanoy",
         "Voorhis",
         "Voorhisowi",
@@ -946,7 +951,5 @@
         "żywiołaka",
         "żywiołaki",
         "żywiołakiem"
-    ],
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    ]
 }
