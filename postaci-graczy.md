@@ -138,13 +138,13 @@
                 -   2 porcja kadzidła
                 -   6 porcji kredy
             -   Fundusze:
-                -   206.2.1 gp
+                -   551.1.3 gp
                 -   kamienie szlachetne warte 2215gp
             -   Magiczne różności:
 
                 -   2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
                 -   2 eliksiry [siły Lodowego Giganta](https://5e.tools/items.html#potion%20of%20frost%20giant%20strength_dmg)
-                -   [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
+                -   eliksir [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
                 -   [dekokt Alarunowy](https://5e.tools/items.html#potion%20of%20longevity_dmg)
                 -   [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
                 -   próbka źródła zanieczyszczenia wody w Hirundum
@@ -162,7 +162,7 @@
 
                 -   [Różdżka niewidzialności z Craag An](https://5e.tools/items.html#ring%20of%20invisibility_dmg)
                 -   1 kryształ na zaklęcia ([Haste](https://5e.tools/spells.html#haste_phb))
-                -   1 kryształy
+                -   1 kryształ na zaklęcia (Healing Word - 6d4+5HP)
                 -   <details>
                       <summary>różdżka Zamku Niskiego Kaer Seren</summary>
 
