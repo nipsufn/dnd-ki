@@ -132,17 +132,17 @@
                     -   Księga Malaspiny w nieznanym dialekcie Starszej Mowy
 
             -   Komponenty:
-                -   2 butelki nalewki z mandragory (13 użyć)
+                -   2 butelki nalewki z mandragory (12 użyć)
                 -   1 butelka bazy alchemicznej (12 użyć)
                 -   0 <sup>44</sup>/<sub>50</sub> porcji inkaustu
-                -   2 porcja kadzidła
+                -   5 porcja kadzidła
                 -   6 porcji kredy
             -   Fundusze:
-                -   551.1.3 gp
+                -   486.1.3 gp
                 -   kamienie szlachetne warte 2215gp
             -   Magiczne różności:
 
-                -   2 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
+                -   3 eliksiry [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
                 -   2 eliksiry [siły Lodowego Giganta](https://5e.tools/items.html#potion%20of%20frost%20giant%20strength_dmg)
                 -   eliksir [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
                 -   [dekokt Alarunowy](https://5e.tools/items.html#potion%20of%20longevity_dmg)
