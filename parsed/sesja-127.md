@@ -1,0 +1,86 @@
+### Sesja 127
+##### [Sesja 126](#sesja-126) [Sesja 128](#sesja-128)
+1. Jeszcze chwileczkę
+    - [Kajetan](#g_kajetan), po rozmowie z [Zangenisem](#p_zangenis), udaje się do biblioteki. Chce rozejrzeć się za dziełami traktującymi o rozdwojeniu jaźni.
+    - W księgozbiorach [elf](#g_kajetan) znajduje abstrakt pracy Ireneusza Var Steingarda, mający związek z wymieszanymi wspomnieniami:
+        - mag wspomina o wiedźminie szkoły Kota, Kiyanie, którego badał
+        - prace prowadził jakieś 100 - 150 lat temu
+        - mag miał siedzibę na wyspie w [Novigradzie](#l_novigrad), prawie pewnikiem jest to obecna "Wyspa Świątynna"
+    - Na [Ilanę](#g_ilana) czeka odpowiedź z domu aukcyjnego Borsodych. Są skłonni wystawić miecz na następnej aukcji z ceną wywoławczą 1000GP. Jeśli artefakt znajdzie szczęśliwego nabywcę, wówczas liczą sobie 20% prowizji od ceny końcowej tytułem kosztów manipulacyjnych.
+    - Spotykamy się w celi [Kajetana](#g_kajetan). Wieczorem dzwony ogłaszają, że oto nastała pora zebrania w Garnstangu.
+2. Narada Rady
+    - Zostajemy poprowadzeni na jedno z wyższych, starszych pięter pozbawionych dobudowy. Całe pomieszczenie ledwo zauważalnie wibruje, miarkując po wodzie wypełniającej płytką nieckę na środku sali obrad. W wodzie odbijają się "gwiazdy" - światła na suficie ułożone na wzór konstelacji, to one zdają się wibrować. Dokoła zbiornika ustawiono krzesła.
+    - Do sali powoli wlewają się wszyscy zainteresowani: najwyżsi magowie oraz inni goście, w tym wiedźmini [Eskel](#p_eskel) i [Lambert](#p_lambert).
+    - Spotkanie moderuje jak zwykle [Carduin](#p_carduin), w roli głowy Nowej [Kapituły](#r_kapitula) występuje, wciąż widocznie zesztywniały, [Radcliffe](#p_radcliffe).
+    - Krzeseł jest mniej niżeli gości. Są przeznaczone tylko dla oficjalnych członków [Kapituły](#r_kapitula). [Carduin](#p_carduin) ogłasza początek zebrania. Inkantuje zaklęcie komunikacyjne, którego mały fragment przypomina zwykle stosowaną Starszą Mowę: "_Powołując się na pamięć Architektów, przyzywam was, gdziekolwiek jesteście_". W ten sposób do spotkania dołączają pozostali, nieobecni tu fizycznie magowie.
+    - Kamień zdobiący jego kostur przypomina ten znad masztu rozbitego okrętu po drugiej stronie portalu do Białego Zimna.
+    - [Carduin](#p_carduin) przedstawia [Radcliffe'a](#p_radcliffe) jako tymczasowego przywódcę organizacji. Informuje też o rezygnacji [Idy Emean](#p_ida) aep Sivney ze swojej pozycji w [Kapitule](#r_kapitula). Próżna(?) elfka zabrała ze sobą obrazy, które niegdyś zdobiły ściany [Thanedd](#l_wyspa_thanedd).
+    - Przemawiają kolejno wszyscy zaangażowani ostatnio w pracę w terenie, zdając raporty ze swoich dokonań.
+    - Pierwszy odpytany zostaje [Lars](#p_lars) z misji w Złotym Mieście:
+        - nowy Cesarz, [Morvran Voorhis](#p_morvran) uważa działania [Floriana](#p_florian_z_vicovaro) za samowolkę podżegającą do wojny, co sam wykorzystuje, by implementować dokładniejszy dozór sztuk magicznych w [Nilfgaardzie](#l_nilfgaard)
+        - pod względem poglądów (tych co do magów też) niebezpiecznie blisko [Voorhisowi](#p_morvran) do [Radowida](#p_krol_radowid)
+        - zasady ustalone przez władcę implementuje "magiczna policja", organizacja złożona z osób o predyspozycjach w tym kierunku, choć nie magach per se; zwą ich psionikami
+        - [Florian](#p_florian_z_vicovaro) został zamknięty w [dwimerytowej](#r_dwimeryt) klatce w więzieniu o zaostrzonym rygorze; obcięto mu język, a jego oprawcy sondują mu umysł, by dociec powodów jego działań
+        - na jednym z nilfgaardzkich statków, które widzieliśmy wpływające do portu, przybywa Henry Var Attre, ambasador [Nilfgaardu](#l_nilfgaard)
+        - Złote Miasto wznawia stosunki dyplomatyczne z Królestwami Północy, a sam cesarz zamiaruje niebawem odwiedzić Północ
+    - Następnie [Eskel](#p_eskel) i raport z [Est Tayiar](#l_est_tayiar):
+        - pod [Trupią Knieją](#l_trupia_knieja) ciągną się kilometry podziemnych budowli, połączonych tunelami, a gdzieniegdzie wciąż aktywnymi teleportami
+        - wejście, które udało się wiedźminom znaleźć, było czyjąś dziurą do pozbywania się zwłok, w której zalągł się wypaczony [troll](#b_troll) górski zwany Kaczerbem; krzywej mordki dostał od jedzenia zwłok z pierwiastkiem magii
+        - w tunelach znaleźli opuszczone tydzień - dwa wcześniej laboratorium
+        - w sali wciąż tkwiło dwóch [Łowców](#r_lowca), okrutnie zniekształconych wyrastającymi z nich [dwimerytowymi](#r_dwimeryt) kryształami; na zaklęcia towarzyszącej wiedźminom [Yennefer](#p_yennefer) byli niewrażliwi, niektóre odbijali, a jeszcze inne zdawali się wykorzystywać dla własnego pokrzepienia
+        - "na pamiątkę" [Eskel](#p_eskel) przywiózł głowę jednego z [Łowców](#r_lowca); należała do Browna, znanego nam upierdliwego służbisty z [Mariboru](#l_maribor)
+        - wśród śladów po makabrycznych eksperymentach znajdowała się klatka, którą od środka porastały te same kryształy, jakby pochodziły z miejsca, w którym tkwił jej okupant
+        - trop "badaczy" jest zimny, nie ma sposobu, by odszukać ich drogę w podziemnym labiryncie
+        - [Zangenis](#p_zangenis) podsumowuje, stwierdzając, że prace i potencjalny sukces [Łowców](#r_lowca) nad "zabójcą magów" należy traktować jako kwestię priorytetową, niejako "wypowiedzenie wojny"
+    - [Lambert](#p_lambert) i raport z [Wyzimy](#l_wyzima):
+        - most na wyspę świątynną został uszkodzony podczas konfrontacji [Filippy Eilhart](#p_filippa_eilhart) i [Radowida](#p_krol_radowid), który poległ podczas tego starcia
+        - wybuch był podobno spowodowany orężem, którym jakiś Łowca ugodził [wiedźmę](#p_filippa_eilhart)
+        - zadana rana uniemożliwiła [czarodziejce](#p_filippa_eilhart) rzucanie kolejnych zaklęć; została pojmana, by spotkać swój koniec na stosie w [Wyzimie](#l_wyzima), na mocy wyroku wydanego przez [Addę](#p_adda)
+        - podczas bitwy na moście zniknęli de facto liderzy [Łowców](#r_lowca), Slyz [Myrton](#p_lord_myrton) i [Zygfryd z Denesle](#p_zygfryd); według oficjalnej wersji zdarzeń, obaj polegli i pochowano ich na tamtejszym żalniku
+        - być może [Myrton](#p_lord_myrton) jest przetrzymywany w lochach przez głowę Zakonu Wiecznego Ognia, Hemmelfarta, a nie pochowany na wyspie świątynnej z [Zygfrydem](#p_zygfryd), jak głosi wieść gminna
+        - co ciekawe, przed domniemaną śmiercią [Zygfryd](#p_zygfryd) często podróżował na trasie [Novigrad](#l_novigrad) - Tretogor przez [Trupią Knieję](#l_trupia_knieja) i [Bronowice](#p_bron)
+    - [Bras](#p_bras) i raport z [Kaedwen](#l_kaedwen):
+        - po zamachu na czarodziejki [mag](#p_bras) udał się z Katariną do [Kaedwen](#l_kaedwen), a [Kapituła](#r_kapitula) wycofała się ze stronniczenia w tamtejszej sukcesji
+        - pretendentów do tronu [Kaedwen](#l_kaedwen) zostało dwoje - Buskona dziwnym trafem spotkał jakiś wypadek w czasie polowania
+        - nie będąc finalnie pełnoprawnym magiem, Orest z Ban Aard został uznany za pretendenta do tronu i wzięty pod uwagę
+        - po tych wydarzeniach lokalna szlachta samoistnie podzieliła się na dwa stronnictwa
+        - [Ban Ard](#l_ban_ard) jest dalej zabezpieczone, chociaż po śladach można wnioskować, że ktoś próbował się do szkoły dostać
+        - po [Kaedwen](#l_kaedwen) tułają się potwory, ciągnące od naruszonych elfich nekropolii
+        - pada sugestia, by skoligacić ze sobą pretendentów i położyć kres wojnie domowej
+        - debatę na ten temat ucina [Triss](#p_triss_merigold) stwierdzeniem, że ze wszystkich poruszonych kwestii sprawa [Kaedwen](#l_kaedwen) jest obecnie najmniej istotna, na co oburzają się [Zavist](#p_zavist) i [Stregobor](#p_stregobor)
+    - [Istredd](#p_istredd):
+        - mag wygląda na wymęczonego i przebranego w nie swoje ubrania, co nie uchodzi uwadze [Yennefer](#p_yennefer) i [Triss](#p_triss_merigold); czarodziejki teatralnie plotkują
+        - za jego ramieniem można zauważyć [Geralta](#p_geralt), zdaje się właściciela nowych szat maga
+        - opowiada o punktach mocy, z których mogłaby skorzystać [Keira](#p_keira_metz); pada nazwa lokacji w [Toussaint](#l_toussaint): Caed Myrkvid (Czarne Dąbrowy/Czarny Las)
+        - punkt pod [Wyzimą](#l_wyzima) okupowany jest przez Archespora, a bliskość miasta powoduje, że konsekwencje nieudanego rytuału mogą być poważne
+        - w Angrenie trzeba by się pozbyć "Jedynego Prawdziwego Druida"
+        - [czarodziej](#p_istredd) zdaje się unikać tej opcji choć między wierszami można domyślić się, że ułożenie sytuacji z Druidem mogło by pomóc w relacjach z [Nilfgaardem](#l_nilfgaard) czy bezpośrednim zarządcą, Dagomirem Caldwellem
+        - okazuje się, że drewniane potwory, którymi Druid przegania intruzów są napędzane siłami życiowymi (duszami?) ludzi zamordowanych przez jego sługusów-kultystów
+        - w [Toussaint](#l_toussaint) tamtejszy krąg druidzki - opiekunowie punktu mocy - nie widzą przeciwwskazań (chociaż aportującego się bez zaproszenia maga trzymali w wiklinowym koszu, do czasu, gdy [Geralt](#p_geralt) nie przybył za niego poręczyć), jednak do próby żądają przyzwolenia księżnej zarządzającej "niepodległym" księstwem; ta zaś, będąc pod wpływami Złotego Miasta, na pewno zażąda czegoś w zamian - jest to potencjalna rozgrywka polityczna
+        - Druidom z Caed Myrkvid przewodzi flaminika Olena
+    - [Carduin](#p_carduin) zarządza krótką przerwę, po której ma nastąpić głosowanie.
+    - Podchodzi do nas [Lars](#p_lars). Dzieli się plotką, jakoby czarodziejki miały działać na własną rękę niezależnie od wyniku głosowania. [Mag](#p_lars) optuje za opcją angreńską, tj. [Ysgith](#l_ysgith).
+    - Odbywa się głosowanie, a raczej jego pierwsza część poświęcona sprawie leczenia [Keiry](#p_keira_metz). Przewagą jednego głosu [Kapituła](#r_kapitula) decyduje się rozwiązać problem panoszący się w [Ysgith](#l_ysgith) i skorzystać z tamtejszego punktu mocy:
+        - trzy za [Wyzimą](#l_wyzima) ([Yennefer](#p_yennefer), [Mozaik](#p_mozaik), [Bras](#p_bras))
+        - cztery za [Angren](#l_angren) ([Lars](#p_lars), [Kajetan](#g_kajetan), [Zangenis](#p_zangenis), Myra)
+        - trzy za [Toussaint](#l_toussaint) ([Tizjana](#p_tizjana), [Carduin](#p_carduin), [Mozaik](#p_mozaik))
+        - wstrzymali się ([Radcliffe](#p_radcliffe), [Zavist](#p_zavist))
+    - Do drugiego głosowania, w sprawie leczenia [Margarity](#p_margarita) i [Triss](#p_triss_merigold) ([Ida](#p_ida), opuszczając [Kapitułę](#r_kapitula), może zrobić, co jest w stanie i uzna za stosowne) finalnie nie dochodzi. Plotki są powtarzane na tyle głośno, że prowadzący nie mogą ich zignorować. Potwierdzają, że czarodziejki z czyjąś pomocą wydywinowały już odpowiednie dla siebie lokacje ([Triss](#p_triss_merigold) - ogień - [góra Cremora](#l_gora_cremora), góra Carbon, Tir Tohair (gdzieś w [Nilfgaardzie](#l_nilfgaard)); [Margaria](#p_margarita) - powietrze - góra An Skellig, góry Amel w Erlenwaldzie, oraz jakiś punkt gdzieś w północno wschodnich [Górach Sinych](#l_gory_sine); [Yennefer](#p_yennefer) może coś wiedzieć o tym miejscu).
+    - [Radcliffe](#p_radcliffe) wywołuje je na środek. Żąda od konfraterek deklaracji, iż dostosują się do decyzji [Kapituły](#r_kapitula). O ile [Margarita](#p_margarita) składa takową w raczej szczery sposób, [Triss](#p_triss_merigold) rzuca w [Radcliffe'a](#p_radcliffe) i [Carduina](#p_carduin) oskarżeniem o zagrywki polityczne. Sala wybucha dyskusjami przekrzykujących się magów.
+    - [Radcliffe](#p_radcliffe) ze sporym wysiłkiem uspokaja zgraję nieokrzesanych czarodziejów, próbując zadeklarować przełożenie drugiego głosowania na późniejszy termin. Zgrupowanie gotowe jest się rozejść, każden jeden pełen podejrzeń o knucie i zarazem gotów do knucia.
+    - Za zgodą [Ilany](#g_ilana), [Kajetan](#g_kajetan) przywołuje uwagę uczestników zebrania, nie pozwalając im się rozejść i żądając przywrócenia pozycji [Triss](#p_triss_merigold) jako głowy [Kapituły](#r_kapitula) we wszystkich sprawach z wyjątkiem tych związanym z leczeniem siebie, [Margarity](#p_margarita) i [Keiry](#p_keira_metz).
+    - [Radcliffe](#p_radcliffe) próbuje go zbyć najpierw zasłaniając się statutem Organizacji, nie jest w stanie jednak obronić tej pozycji - [elf](#g_kajetan), jako niedawno przyjęty członek, ma pisany dokument - na elfią modłę z mnogimi niedomówieniami - na świeżo. Potem naciska, że ten temat, w przeciwieństwie do generalnego leczenia poszkodowanych czarodziejek, jest wewnętrzną sprawą samej Wysokiej Rady, nie szerszego zgromadzenia.
+    - Niespodziewanie [Kajetana](#g_kajetan) wspiera [Yennefer](#p_yennefer), nie przebierając przy tym w słowach. Pod naciskiem [Radcliffe](#p_radcliffe) zgadza się, aby [Triss](#p_triss_merigold) wznowiła swoje obowiązki jako głowa organizacji, jednak głosowanie jak dalej leczyć czarodziejki zostanie podjęte dopiero po wyleczeniu [Keiry](#p_keira_metz).
+    - [Ilana](#g_ilana) zauważa, że [Zavist](#p_zavist), który nawiasem przed udaniem się na urlop przekazał pieczę nad biblioteką [Mardinowi](#p_mardin), przez całe spotkanie zdaje się być znudzony i trochę zdystansowany, jakby nie pokładał w tej organizacji zbyt dużych nadziei.
+    - Osiągnąwszy jako-taki consensus, rozchodzimy się każdy w swoją stronę.
+3. Wspomnienionauta
+    - [Kajetan](#g_kajetan) odwiedza [Zangenisa](#p_zangenis) celem rozpoczęcia leczenia z dualnych wspomnień.
+    - W przeprowadzeniu transu pomoże mu [Radcliffe](#p_radcliffe). Biorąc pod uwagę niedawne zebranie, sytuacja jest nieco niezręczna.
+    - Po krótkiej dyskusji o tym jak przebiegnie proces, [elf](#g_kajetan) ładuje się do ciemnej wanny, mającej wytłumić jego zmysły.
+    - Instruowany prze kolegów po fachu, zanurza się w rzece własnych wspomnień. Wyłania się na drugim brzegu, nieco skonfundowany, ale:
+        - całkiem pewien, że do manipulacji jego pamięcią wykorzystano jakiś artefakt, przypominający nieco kule zdobiące drogowskazy do Crag An
+        - jego wspomnienia zostały nie tyle zmodyfikowane co zręcznie i wybiórczo wytłumione czy ocenzurowane, tak by te pozostałe zbudowały zniekształcony obraz rzeczywistości
+        - wypadek spotkał go, gdy wraz z grupą wysłaną przez Króla [Filavandrela](#p_filavandrel) z Białych Wież poszukiwali jakiegoś artefaktu - skrzyni wypełnionej mlecznobiałymi kryształami
+        - wybuch, przed którym [elf](#g_kajetan) zasłonił częściowo [Elatan](#p_elatan), zabił trójkę ich towarzyszy: Crilama, Vridannisa i Veedę; co ciekawe, we wspomnieniach ciężko doszukać się [Isilme](#p_isilme)
+
+##### [Sesja 126](#sesja-126) [Sesja 128](#sesja-128)

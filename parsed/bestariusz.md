@@ -1,0 +1,133 @@
+## Bestariusz
+- Rośliny
+    - <a id='b_archespor' pattern='[Aa]rcheospor*'>Archespor</a>
+        - wielka muchołapka czy rosiczka
+        - jego pyłek otłumania, kusi
+        - rośnie w miejscach splamionych krwią, najchętniej niewinną
+        - by rosnąć musi żywić się stworzeniami na których krwi wyrósł
+    - <a id='b_bluszcz' pattern='Pnącz* Bluszczopodobn*,[Ee]chinops*'>Echinops</a>
+        - jako pnącze stosunkowo słabe, strzela kolcami
+        - jako bulwa próbuje opleść trującymi pnączami
+        - dziecięca forma Archespora
+    - <a id='b_orchidea' pattern='Pnącz* Orchideopodobn*'>Pnącze Orchideopodobne</a>
+        - Jest w stanie zasiać zarodniki w żywym organizmie i kontrolować go jak długo jest z nim połączony cienkimi kłączami
+        - Kwiaty wybuchają pyłem który zadaje znaczne obrażenia
+        - Szybko goi odniesione rany
+- Bestie
+    - <a id='b_banshee' pattern='Banshee'>Banshee</a>
+        - niespokojny duch elfa
+        - wysysa życie ze wszystkiego w pewnym promieniu od miejsca zamordowania/pochówku
+        - może zabić wzrokiem
+        - można spróbować go uspokoić/odpędzić przepraszając w Starszej Mowie
+    - <a id='b_barghest' pattern='[Bb]arghest*'>Barghest</a>
+        - nocny
+        - wielki pies-zombie
+        - w ciemności nie da się go dotknąć/zaatakować/spętać niemagicznymi przedmiotami
+        - jest w stanie przerazić skowytem
+        - potrafi przeskakiwać, teleportować się pomiędzy nieoświetlonymi miejscami
+    - <a id='b_bizoktor' pattern='[Mm]orvudd*'>Morvudd</a>
+        - "Bizoktor", "Leszek", "Leszy"; jedna z personifikacji Protektora
+        - pół jeleń pół bizon, giczały ma szponiaste i poniekąd chwytne
+        - rozumie starszą mowę, w jego trzech oczach czasem przebłyskuje niemal "ludzka" inteligencja
+        - jest olbrzymi, wysokości przeciętnego drzewa w [Brokilonie](#l_brokilon)
+    - <a id='b_djinni' pattern='[Dd]jinni'>Djinni</a>
+        - personifikacja siły natury, np ognia
+        - może zostać zmuszony do spełnienia życzenia
+        - też: anortach, żywiołak, dżinn
+    - <a id='b_dybuk' pattern='[Dd]ybuk*'>Dybuk</a>
+        - stworzony przez klątwę
+        - potrafi nadawać zwłokom karykaturę życia
+    - <a id='b_garkain' pattern='[Gg]arkain*'>Garkain</a>
+        - wampir niższy
+        - wszelkie trucizny i choroby jakie napotyka kolekcjonuje, jako składnik swojego jadu
+    - <a id='b_ghul' pattern='[Gg]hul*'>Ghul</a>
+        - przypomina wychudzonego, częściowo obdartego ze skóry człowieka ze zniekształconą twarzą
+        - żywi się zwłokami
+        - kopie w ziemi głębokie tunele i tak się porusza
+        - często występuje na pobojowiskach
+        - zazwyczaj nie wychodzi za dnia po za swoje leże
+    - <a id='b_gryf' pattern='[Gg]ryf*'>Gryf</a>
+        - lata i jest [gryfnym](#b_gryf)
+    - <a id='b_hienolak' pattern='[Hh]ienołak*'>Hienołak</a>
+        - bizon z głową hieny
+        - wabi ofiary wołając ludzkim głosem "Pomocy!"
+    - <a id='b_kikimora' pattern='[Kk]ikimor*'>Kikimora</a>
+        - insektoidy zachowaniem przypominające mrówki
+        - żyją na powierzchni
+        - nie atakują o ile nie sprowokowane/w stanie wojny
+        - "wojna" zwykle wewnętrzna gdy kilka królowych lub gdy natkną się na [Krabopająki](#b_krabopajak)
+    - <a id='b_krabopajak' pattern='[Kk]rabopająk*'>Krabopająk</a>
+        - insektoidy żyjące w kolinii
+        - większe, klasa rozmiarowa od niedźwiedzia do słonia
+        - żyją pod ziemią
+        - agresywne, terytorialne
+        - mogą się stać (prawie?) niewidzialne
+        - czasem walczą z [Kikimorami](#b_kikimora)
+    - <a id='b_krzaczak' pattern='[Kk]rzaczak*'>Krzaczak</a>
+        - przypominający człowieka zwój korzeni, krzaków i pnączy
+        - przyzwany w grupach przez [Formorianem](#p_formorian)
+        - [Kto to taki? To [krzaczaki](#b_krzaczak)!](https://www.youtube.com/watch?v=PHnEKSFy3cU)
+    - <a id='b_kuroliszek' pattern='[Kk]urolisz*'>Kuroliszek</a>
+        - pół kura pół jaszczura
+        - kąsa jadem który paraliżuje i szarzy cerę (z tąd legendy o zamienianiu w kamień?)
+    - <a id='b_galareta' pattern='[Kk]was-galareta'>Kwas-galareta</a>
+        - poszatkowana traci konsystencję
+        - żrąca
+    - <a id='b_lodowy_gigant' pattern='[Ll]odowy* [Gg]igan*'>Lodowy Gigant</a>
+        - potrafią skuć morze lodem
+    - <a id='b_mglak' pattern='[Mm]glak*'>Mglak</a>
+        - ognik, trupojad, nie wzgardzi żywym
+        - zadaje obrażenia które leczy tylko dłuższy odpoczynek
+        - zwykle porusza się we mgle
+        - bardzo unikają światła dziennego i latarni
+        - możliwe że ignorują żywych którzy w ogóle się nie ruszają
+        - ponoć są wstanie nadać zwłokom _"parodię życia"_[<sup>1</sup>](#ad1)
+        - niektóre odmiany mogą czerpać siłę z błyskawic
+    - <a id='b_migot' pattern='[Kk]o* [Mm]igo*'>Kot Migot</a>
+        - 6 łap, dwa ogony zakończone czymś jak pyski pijawki
+        - jest bardzo szybki dopóki nie zada mu się pierwszej rany
+        - jest w stanie teleportować się na małe odległości w czasie walki
+    - <a id='b_nekker' pattern='[Nn]ekker*'>Nekker</a>
+        - małe humanoidalne stwory o ostrych szponach
+        - żyją pod ziemią w kretowiskach
+        - polują w grupach
+        - reagują na magię (wyczuwają ją)
+        - maskują się malując twarze gliną w "wojenne barwy"
+        - są mięsożerne
+    - <a id='b_peryton' pattern='[Pp]eryton*'>Peryton</a>
+        - jeleń ze skrzydłami, ponoć lata
+    - <a id='b_raraszek' pattern='[Rr]arasz*'>Raraszek</a>
+        - ornitodragon z piórami odpornymi na temperatury większe niż w kowalskim palenisku
+        - podatny na Trupi Jad i obrażenia nekrotyczne
+        - najlepszym zmysłem jest węch, potem wzrok, na końcu słuch
+    - <a id='b_szarak' pattern='[Ss]zarak*'>Szarak</a>
+        - żywi się emocjami
+        - widzą go dzieci, dorośli mogą go zauważyć w lustrze bądź po posypaniu potwora srebrnym pyłem(?)
+        - nie jest w stanie znieść sporo obrażeń, ale zadaje bolesne ciosy
+        - atakuje (również martwe obiekty) wydłużając swoje szpony; zostawia charakterystyczne 5 punktów jako ślad
+    - <a id='b_sowiolak' pattern='[Ss]owiołak*'>Sowiołak</a> (red. Owlbear)
+        - Centaur, ale zrobiony z sowy i niedźwiedzia, cały w piórach
+        - Rozumie ogólne znaczenie Starszej Mowy
+        - jest jeszcze młody, szuka swojej rodziny
+    - <a id='b_stonoga' pattern='[Ss]kolopendr*'>Skolopendr</a>
+        - reaguje na ruch
+        - atakuje jadem paraliżującym
+    - <a id='b_slimok' pattern='[Śś]limok*'>Ślimok</a>
+        - zostawia za sobą ślad z czarnego śluzu zawierającego opiłki jakiegoś metalu
+    - <a id='b_troll' pattern='[Tt]roll*'>Troll</a>
+        - szybko się regeneruje, dużo większy od człowieka
+        - zwykle postrzega się je jako pożyteczne - budują i naprawiają mosty, żądając od podróżnych "myta" - upominku, niekoniecznie złota
+    - <a id='b_utopiec' pattern='[Uu]top*'>Utopiec</a>
+        - [utopiony](#b_utopiec)
+    - <a id='b_zeulg' pattern='[Zz]eulg*'>Zeulg</a>
+        - wielki robak podobny do stonogi
+        - żyje w wodzie, w kanałach - nie widzieliśmy żeby z niej wyszedł
+        - przy gębie ma macki z igłami na końcu - ukłucie może sparaliżować - którymi unieruchamia ofiarę/przeciwnika pomagając sobie w posiłku
+    - <a id='b_zababa' pattern='[Żż]abab*'>Żababa</a>
+        - pół żaba pół baba
+        - ma torbę z ludkich skór z których rzuca przeklętymi rzeczami, np. czaszkami zamieniającymi się w odporne na błyskawice ogniki
+        - dookoła niej lata cień, który bierze na siebie część obrażeń i rozrywa kogokolwiek kto próbuje się zbliżyć
+        - oblizuje się obrzydliwie na myśl, widok dzieci
+<div align="right"><i><a id='ad1'></a><sup>1</sup>
+<a href="https://nipsufn.github.io/journal.htmlFinarrin">Druid Finarrin</a>, 1276 <a href="https://translate.google.com/#view=home&op=translate&sl=en&tl=la&text=after%20landing">PP</a>
+</i></div>

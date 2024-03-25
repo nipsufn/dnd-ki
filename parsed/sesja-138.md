@@ -1,0 +1,72 @@
+### Sesja 138
+##### [Sesja 137](#sesja-137) [Sesja 139](#sesja-139)
+1. Dzień na [Thanedd](#l_wyspa_thanedd)
+    - [Ilana](#g_ilana) budzi się o bladym świtaniu. Nie chcąc budzić towarzyszy, zostawia kartkę na stole, że wybiera się do biblioteki.
+    - [Mardin](#p_mardin) zdaje się chyba jeszcze śpi. Druidka przeczesuje księgozbiory w poszukiwaniu ksiąg o żywiole ognia i jego kontroli. Zagubiona wśród nieczytelnie oznaczonych regałów, natyka się na [Zavista](#p_zavist).
+    - [Dziewczyna](#g_ilana) niezręcznie pyta o interesujące ją księgi, za wszelką cenę próbując nie powiedzieć nic o [Kristoffie](#p_kristoff), czy jego umiejętnościach. Dostaje grube tomisko pióra Tissai De Vries, _Wprowadzenie do teorii kontroli Mocy dla początkujących_. Ogólnikowe pytania o coś bardziej praktycznego [czarodziej](#p_zavist) kwituje, że to najniebezpieczniejszy żywioł, a wszystko, czego może potrzebować jest opisane w księdze, którą właśnie dostała. Przypadkiem dowiaduje się, że [Zavist](#p_zavist) i [Stregobor](#p_stregobor) wybierają się razem na jakąś wyprawę.
+    - Spotykamy się na stołówce. Przy śniadaniu [Ilana](#g_ilana) relacjonuje [Kajetanowi](#g_kajetan), jak poszło z zaklęciem. Wspomina o tym, że musiała jednak skorzystać ze śnienia. 
+    - [Kristoff](#p_kristoff), zaciekawiony tematem, opowiada znów nieco o Wyspach:
+        - onejromancja jest tam dość popularna, posługują się nią niektórzy druidzi i wiele kapłanek [Freyji](#r_freyja)
+        - wśród druidów specjalistą w tym temacie jest niejaki Hiort, trzymający się z klanem Brokvar
+        - zauważywszy naszyjnik z kłów, którym bawi się [Ilana](#g_ilana), robi nietęgą minę, jakby kojarzył mu się z czymś niedobrym
+    - Posiliwszy się zamiarujemy porozmawiać z [Mardinem](#p_mardin). Odnajdujemy bibliotekarza na jednym z balkonów, konwersującego z [Zavistem](#p_zavist). Czekamy więc na sposobny moment, by przedłożyć swoją sprawę. [Ilana](#g_ilana) wykorzystuje okazję i prosi [Kajetana](#g_kajetan) na stronę. Opowiada, co jej leży na wątrobie:
+        - [druidka](#g_ilana) mówi o swoich kontrolowanych snach
+        - dostrzegając intymność tematu, [czarodziej](#g_kajetan) daruje sobie swoje typowe, spłycające, cyniczne i ekstremistyczne spojrzenie na problemy
+        - [elf](#g_kajetan) dowiaduje się o problemach, jake [Ilanie](#g_ilana) sprawiają byty nawiedzające jej sny; dziwi się, że mimo to [dziewczyna](#g_ilana) dalej z nimi eksperymentuje
+        - dowiaduje się też o poczynaniach i koszmarach [Skovika](#p_skovik), łącznie z historią o jaskini pełnej martwych wyspiarzy z zakrwawioną kamienną płytą
+        - wspólnie rozważamy, czy nie byłoby dobrze wybrać się do tego znikającego zamku
+        - [Ilana](#g_ilana) relacjonuje, czego dowiedziała się poprzedniego dnia na mieście
+        - wspomina o drugim potworze, [krabopająku](#b_krabopajak); [Kajetan](#g_kajetan) w odpowiedzi przebąkuje o problemie [Mirny](#p_mirna), który może mieć związek z tą paskudą
+    - Pożegnawszy rozmówcę, [Mardin](#p_mardin) sposobi się do nabicia fajki. [Beztroski wyspiarz](#p_kristoff), pozostawiony chwilowo samemu sobie, częstuje administratora [Aretuzy](#l_aretuza) swoim tytoniem i wdaje się z nim w pogawędkę. [Ilanie](#g_ilana) udaje się dosłyszeć fragment ich rozmowy: 
+        - [Kristoff](#p_kristoff) opowiada o jakiejś uczcie
+        - [Cerys](#p_cerys) zaprosiła na nią [Dorregaraya](#p_dorregaray) po tym, jak wyswobodzili go z jego utkniętej wieży
+        - czarodziej miał nietęgą minę, gdy zaserwowano na stół wyspiarskie specjały z podrobów
+    - Doczekawszy się na swoją kolej, pytamy [Mardina](#p_mardin) o kilka spraw - [Ilana](#g_ilana) chce się pozbyć paru magicznych fantów, a [Kajetan](#g_kajetan) - coś zakupić. Niestety, Myra, która zajmuje się artefaktorium i wyceną, jest chwilowo niedostępna, oddelegowana jako opiekunka uczniów podczas szkolnej wycieczki na miasto. Z tego tytułu reszta wykładowców ma dziś dzień wolny.
+    - [Mardin](#p_mardin) nie może sprzedać [elfowi](#g_kajetan) zwoju z zaklęciem teleportacji. Odsyła go do [Carduina](#p_carduin), który, brzmiąc oficjalnie czy oschle, odmawia dostępu do takiej wiedzy powołując się na niską rangę petenta.
+    - Czekając na korytarzu przed gabinetem [Carduina](#p_carduin), [Ilana](#g_ilana) znów bierze [Kristoffa](#p_kristoff) na spytki:
+        - wyspiarscy druidzi to głównie mężczyźni
+        - nie kojarzy, by na Wyspach znajdowała się teraz jakakolwiek druidka, ale wie z historii, że takowe jak najbardziej istniały
+        - obecnie druidów jest zdecydowanie mniej, niż kapłanek [Freyji](#r_freyja)
+        - zarówno druidzi, jak i kapłanki, gdy zostają mianowani, porzucają swój ród, przynajmniej według tradycji
+        - w praktyce wygląda to różnie - kapłanki [Freyji](#r_freyja) są niemal wszystkie z jednego rodu
+        - Hiort, druid od snów, był mocno zżyty z klanem Brokvar; doradzał ich jarlowi, a gdy ten zmarł, oskarżono go o otrucie głowy rodu i gierki polityczne
+    - Spod pokoju [Carduina](#p_carduin) zachodzimy do [Zavista](#p_zavist). [Ilana](#g_ilana) otrzymała od bibliotekarza informację, jakoby [jego poprzednik](#p_zavist) interesował się lodowym mieczem znalezionym w [Kaer Seren](#l_kaer_seren). [Mag](#p_zavist) oferuje zań 700GP lub handel wymienny. [Druidka](#g_ilana), upewniwszy się, że [Kajetan](#g_kajetan) niczego nie potrzebuje, wybiera złoto.
+    - Pozostałe graty, które [Ilana](#g_ilana) ma na zbyciu, zanosimy do artefaktorium Myrze do wyceny. Wśród rzeczy są pozostałości dwóch strażników z [Risbergu](#l_gora_cremora), ale nie do sprzedania, a w formie ciekawostki dla celów naukowych.
+    - Robimy listę sprawunków, chcąc pod wieczór zjawić się w [Burdoff](#l_burdoff). [Kajetan](#g_kajetan) przypomina sobie, że na prośbę [dziewczyny](#g_ilana) miał rozmówić  się z [Zangenisem](#p_zangenis):
+        - w kwestii spetryfikowanej flaminiki, niewątpliwie potrzebna będzie krew bestii, która ją zaatakowała oraz krew samej ofiary (której raczej nie znajdziemy)
+        - alternatywą do odczynienia uroku może być żółć bazyliszka
+        - czarodziej ma dwie poszlaki, gdzie można by zdobyć rzeczoną żółć; nie chcąc nas rozpraszać, poinformuje nas, gdy którąś potwierdzi jako prawdziwą
+        - ostrzega, że znaczny upływ czasu - blisko ćwierć wieku - może znacząco wpłynąć na stan umysłu rudowłosej
+        - świeczka, którą ściągnęliśmy klątwę ze [Skovika](#p_skovik), powinna wystarczyć na cztery użycia; jej pochodzenie nie jest do końca znane, [Zangenis](#p_zangenis) spekuluje więc na temat jej zniknięcia:
+            - mogło to być zupełnie normalne dla tego artefaktu
+            - mógł zniknąć i pojawić się gdzieś na Północy, gotowy do kolejnych użyć
+            - w drugim przypadku, jeśli ktoś wykorzysta wszystkie użycia, klątwa może powrócić lub nadmiarowe użycia przedmiotu [wyspiarz](#p_skovik) może sponsorować własnymi siłami życiowymi
+            - może też nic się nie stać, w końcu są to spekulacje
+    - Czekając, aż mag skończy swoją rozmowę na odległość i podzieli się z nią rewelacjami, [Ilana](#g_ilana) gawędzi z [Kristoffem](#p_kristoff):
+        - pyta o rytuał, który odprawiał przedwczoraj, gdy mu przerwała
+        - młodzian modlił się do [Freyji](#r_freyja); wspomina zdawkowo, że za rodzinę, ale nie ma zamiaru zdradzać dokładnej intencji, a druidka - wpraszać się z buciorami w intymność
+        - dziewczyna zmienia temat na lżejszy, opowiada o polowaniu na [gryfa](#b_gryf) i o innych dziwactwach, z którymi się zetknęliśmy
+        - w zamian słyszy nieco o skelligijskim folklorze: o syrenach (są ponoć 2 gatunki, z których bajki zrobiły jedność), [trollach](#b_troll) i osobliwej inicjacji łowców z Ferlund z udziałem wilków
+        - ponoć w tak zwanej _próbie lasu_, bestie przywlekają w pyskach tych młodzików, którzy oblali swój test
+    - Idziemy na miasto zrobić ostatnie zakupy na drogę. [Kristoff](#p_kristoff), po porannej nieudanej próbie samodzielnego ochędożenia swego zarostu, rozgląda się za balwierzem. W tym czasie nasza dwójka odwiedza alchemika celem nabycia trupiego jadu. Sprzedawca oferuje nam towar "spod lady", niestety cena jest lekko zaporowa. W negocjacjach nie pomaga ani kajetanowe błyskanie medalionem [Kapituły](#r_kapitula), ani pozornie przypadkowe świecenie dekoltem druidki. Wychodzimy z niczym, ale po drodze, u złotnika, [Ilanie](#g_ilana) udaje się sprzedać za ładnych parę groszy mosiężny naszyjnik, który dawno temu dostała w gratisie do jakichś zakupów.
+    - Gdy tak czekamy, aż [Kristoff](#p_kristoff) zrobi się na (u)bóstwo, [Kajetan](#g_kajetan) skrobie krótką notkę do [Ivara](#p_ivar). Wyspiarz nie odpowiada, więc elf kontaktuje się z nim bardziej bezpośrednio, trochę zaniepokojony o nasze plany. [Ivar](#p_ivar) nie jest niczym szczególnie zajęty, ale odpowiada z takim entuzjazmem, jakby chciał zapomnieć o sprawie i się wycofać.
+    - Nie bacząc na humory [Drummonda młodszego](#p_ivar), zbieramy się do kupy i dzięki uprzejmości [Kajetana](#g_kajetan) przenosimy do [Burdoff](#l_burdoff) magiczną metodą.
+2. Do [Burdoff](#l_burdoff)
+    - [Kajetan](#g_kajetan) teleportuje całą ferajnę do portu nad jeziorem. Znów trochę nie wycelował, wyrzucając towarzystwo kilka stóp nad wodą, miast przed karczmą. Nie chcąc zmoczyć butów, rzuca zaklęcie lotu na skołowanych towarzyszy.
+    - Brawurowe i krzykliwe przybycie do miasteczka bardzo irytuje [Ilanę](#g_ilana), która preferuje unikać uwagi ludzi. Druidka dostrzega w tłumie kilka twarzy szczególnie zaaferowanych naszym nietuzinkowym wejściem:
+        - żebraka ex-Łowca
+        - jakiegoś zaciekawionego, dostatnio odzianego typa w czerni
+        - grupkę zakonników lub mnichów
+    - Odprowadzani krzykami gapiów, zachodzimy do karczmy, gdzie przy jednym ze stołów znajdujemy [Ivara](#p_ivar) i [Chidę](#p_chida). Po ciepłych powitaniach i wymianie konwenansów, zamawiamy jadło i napitek do pokoju, chcąc omówić wszystko na osobności.
+    - [Ivar](#p_ivar) wygląda zdrowo i wręcz rozkwita, jakby się tu zadomowił. Widać, że życie w mieście i praca w kuźni mu służą. Chwali się, że dzięki temu udało mu się zrobić nową zbroję, jako że z oryginalnej musieli go wydłubać po upadku z góry. Jego rogaty chełm - jedyna ocalała część poprzedniego rynsztunku - leży zagrzebany pod stertą rupieci, niczym natrętny wyrzut sumienia.
+    - [Chida](#p_chida) też wygląda raczej dobrze, a już na pewno w porównaniu ze stanem, w jakim zastaliśmy ją ostatnio. Nadal ma widoczne ślady od ognia i zdecydowanie krótsze włosy. Swój dotychczasowy ubiór zmieniła na bardziej pospolity, identyczny jak lokalni.
+    - Spędzamy wieczór planując:
+        - zamierzamy spróbować zwabić potwora na jakąś z okolicznych łąk barwną płachtą i smacznymi kąskami, to jest dużym ptactwem, przyzwanym przez [Ilanę](#g_ilana)
+        - [Kajetan](#g_kajetan) oślepi i przykuje bestię do ziemi
+        - jeśli [raraszek](#b_raraszek) umknie, ruszymy za nim, do jego leża, by dokończyć dzieła
+    - Jako że w [Ellander](#l_ellander) nie mieliśmy nazbyt dużo przyjemności z Zerrikankami, przybliżamy [Chidzie](#p_chida), a i [Ivarowi](#p_ivar), w czym kto z nas się obecnie specjalizuje. Gdy przychodzi kolej [Kristoffa](#p_kristoff) do przedstawienia się, [Ivar](#p_ivar) nie może sobie odmówić kąśliwego komentarza pod adresem An Craite, co - z niewiadomych przyczyn - w momencie rozsierdza [Kajetana](#g_kajetan). [Elf](#g_kajetan) opiernicza wyspiarzy, jak tylko zaczynają robić sobie przytyki. Obaj przebąkują coś o jakiejś niedawnej swadzie, ale nie wdają się w szczegóły, pomni ostrej reprymendy czarodzieja.
+    - Gdy [Ilana](#g_ilana) wspomina o [Skoviku](#p_skovik), tym razem [Kristoff](#p_kristoff) marszczy brew na dźwięk jego imienia. Czyżby więc jednak go skądś kojarzył?
+    - Dopiąwszy planowanie, umawiamy się na rano i rozchodzimy na nocleg - [Kajetan](#g_kajetan) nie ma zamiaru płacić za spanie w tłocznej, głośnej karczmie, skoro może postawić swoją wieżę w tym samym zaułku, co ostatnio.
+    - [Ivar](#p_ivar) wydaje się być zatroskany o [Ilanę](#g_ilana). Żegnając się z nią zauważa, że wygląda jakby ją coś gnębiło i pyta, czy wszystko w porządku. Nie chcąc się wdawać w szczegóły, [druidka](#g_ilana) zbywa go krótkim stwierdzeniem, że to przez kłopoty ze snem i rozłąkę.
+
+##### [Sesja 137](#sesja-137) [Sesja 139](#sesja-139)

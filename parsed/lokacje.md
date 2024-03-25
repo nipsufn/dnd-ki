@@ -1,0 +1,254 @@
+## Lokacje
+- <a id='l_aedirn' pattern='Aedirn'>Aedirn</a>
+- <a id='l_angren' pattern='Angren'>Angren</a>
+    - <a id='l_tuzla' pattern='Tuzl*'>Tuzla</a> - stolica
+    - <a id='l_ysgith' pattern='Ysgith'>Ysgith</a>
+        - rozległe moczary w Angrenie, na północnym brzegu Jarugi; znajdują się tam elfie ruiny obłożone klątwami
+        - <a id='l_caed_dhu' pattern='Caed Dhu'>Caed Dhu</a> - las na bagnach
+- <a id='l_dol_blathanna' pattern='Dol Blathanna'>Dol Blathanna</a>
+    - <a id='l_srebrne_wieze' pattern='Miast* Srebrnych Wież'>Miasto Srebrnych Wież</a>
+- <a id='l_brokilon' pattern='Brokilon*'>Brokilon</a>
+    - las kawałek na południe od środkowego biegu Jarugi, od północy ograniczony pasmem górskim
+    - dom Driad i w mniejszym stopniu Druidów
+    - w stanie wojny z [Brugge](#l_m_brugge)
+    - rozrósł się po Dwuksiężycowej Nocy
+    - <a id='l_craag_an' pattern='Craag An'>Craag An</a>
+        - nietknięte ruiny dużego elfiego miasta
+    - <a id='l_duen_canell' pattern='Duen Canell'>Duen Canell</a>
+        - osada/miasto/stolica Driad
+        - _"Serce [Brokilonu](#l_brokilon)"_
+    - <a id='l_col_serrai' pattern='Col Serrai'>Col Serrai</a>
+        - naturalne źródła; miejsce leczenia
+    - <a id='l_wioska' regex='Wios[ck]\w{0,3}' comment='Wiosna...'>Wioska</a>
+        - [Wioska](#l_wioska) Druidów, nie ma nazwy
+- <a id='l_brugge'>Brugge</a>
+    - Granicę wyznaczają od wschodu rzeki <a id='l_chotla' pattern='Chotl*'>Chotla</a> i Ina, od południa Jaruga, od zachodu Wstążka, od północy las [Brokilon](#l_brokilon)
+    - Jako lenno [Nilfgaardu](#l_nilfgaard) nie toleruje rasizmu wśród poddanych
+    - W stanie wojny z [Brokilonem](#l_brokilon)
+    - <a id='l_m_brugge' pattern='Brugge'>Brugge</a>
+        - <a id='l_glowa_dzika' pattern='Głow* Dzika,Ł* Dzika'>Karczma Pod Głową Dzika</a>
+        - <a id='l_zielona_swieczka' pattern='Zielon* Świeczk*'>Karczma Pod Zieloną Świeczką</a>
+        - <a id='l_ostoja' pattern='Osto*'>Karczma Ostoja</a>
+        - <a id='l_biblioteka' pattern='Bibliote*'>Biblioteka</a>
+        - <a id='l_rezydencja_czarodzieja' pattern='Rezydencj* Czarodzieja'>Rezydencja Czarodzieja</a>
+        - <a id='l_u_haliny' pattern='U Haliny'>U Haliny</a>
+            Karczma opodal murów miasta
+        - <a id='l_slonce_jarugi' pattern='Słońc* Jarugi'>Słońce Jarugi</a>
+            Sklep z orężem
+    - <a id='l_dillingen' pattern='Dillingen'>Dillingen</a>
+        - miasto portowe, w którym rządzi [Nilfgaard](#l_nilfgaard)
+        - <a id="l_perelka" pattern='Pereł*'>Karczma (bordel) "Perełka"</a>
+    - <a id='l_miechunowe_uroczyska' pattern='Miechunow* Uroczysk*'>Miechunowe Uroczyska</a>
+        - <a id='l_brychna' pattern='Brychn*'>Brychna</a>
+        - <a id='l_prochnowa' pattern='Próchn*'>Próchnowa</a>
+        - <a id='l_fen_carn' pattern='Fen Carn'>Fen Carn</a>
+            jedno z najstarszych istniejących elfich nekropolii, po drugiej stronie [Chotli](#l_chotla), na przeciwko [Próchnowej](#l_prochnowa)
+    - <a id='l_medowna' pattern='Medown*'>Medowna</a>
+    - <a id='l_sowie_wzgorza' pattern='Sowi* Wzgórza*'>Sowie Wzgórza</a>
+         - kopalnie węgla
+        - <a id='l_swiatynia_kreve' pattern='Świątyni* Kreve'>Świątynia Kreve</a>
+- <a id='l_cidaris' pattern='Cidaris'>Cidaris</a>
+    - leży nad morzem, między ujściem Jarugi a [Temerią](#l_temeria), od wschodu graniczy z [Verden](#l_verden)
+    - <a id='l_m_cidaris' pattern='Cidaris'>Cidaris</a>
+    - <a id='l_bremervoord' pattern='Bremervoord'>Bremervoord</a>
+    - <a id='l_vartburg' pattern='Vartburg'>Vartburg</a>
+    - <a id='l_ravelin' pattern='Ravelin'>Ravelin</a>
+    - <a id='l_vole' pattern='Vole'>Vole</a>
+    - <a id='l_mosberg' pattern='Vole'>Mosberg</a>
+        - Największa wyspa wśród Agryli, znajduje się na niej latarnia i osada z małą załogą żeglarzy
+    - <a id='l_jaworki' pattern='Vole'>Jaworki</a>
+        - wieś położona w górnym biegu rzeki Adalette, powyżej Verty
+    - <a id='l_nowa_rogowizna' pattern='Vole'>Nowa Rogowizna</a>
+        - wieś położona w górnym biegu rzeki Adalette, powyżej Verty
+    - <a id='l_nowa_smolarnia' pattern='Vole'>Nowa Smolarnia</a>
+        - wieś położona w górnym biegu rzeki Adalette, powyżej Verty
+- <a id='l_cintra' pattern='Cintr*'>Cintra</a>
+- <a id='l_ellander' pattern='Ellander'>Ellander</a>
+    - Lenno [Temerii](#l_temeria), a więc i [Redianii](#l_redania)
+    - <a id='l_m_ellander' pattern='Ellander'>Ellander</a>
+        - Karczmy
+            - <a id='l_kuropatwa' pattern='Kuropatw*'>Kuropatwa</a> - smacznie ale drogo
+            - <a id='l_ziolowy_kufelek' pattern='Ziołow* kufelek*'>Ziołowy kufelek</a> - nieco wyższe ceny dla nieludzi
+            - <a id='l_rozyczka' pattern='Różycz*'>Różyczka</a> - prowadzona przez i przychylna nieludziom
+            - <a id='l_zielony_kufelekzielony' pattern='Zielon* kufelek*'>Zielony kufelek</a> - bar w alejce; bez jedzenia i noclegu
+            - <a id='l_speluna' pattern='Spelun* na Południu'>Speluna na Południu</a> - bar w alejce; podły; strach pić co podają
+        - Sklepy
+            - <a id='l_fiolka_zdrowia' pattern='Fiol* Zdrowia'>Fiolka Zdrowia</a> - alchemik; [Viggo](#p_viggo_regner) [Regner](#p_viggo_regner)
+            - Krawcowa - ; [Eliza](#p_eliza)
+            - Bank [Cianfanelli](#p_cianfanelli) - ;
+            - <a id='l_jubiler'>Jubiler</a> - ; R. [Ruprecht](#p_ruprecht)
+            - <a id='l_prawa_tarcza' pattern='Praw* Tarcz*'>Prawa Tarcza</a>; handlarz bronią i pancerzem, ma spory ale w granicach rozsądku narzut (~33%);
+        - Lokacje
+    - <a id='l_smelitele' pattern='Świątyni* Melitele'>Świątynia Melitele</a>
+        - Obóz Redańczyków
+        - Świątynia
+    - <a id='l_carreras' pattern='Carreras'>Carreras</a>
+        - Leży na osuszonym fragmencie bagna przy widłach Ismeny i Iny, ostanie miasto [Temerii](#l_temeria) i [Ellander](#l_ellander) na szlakach kupieckich do [Mahakamu](#l_mahakam)
+- <a id='l_gory_sine' pattern='Gór* Sin*'>Góry Sine</a>
+    - <a id='l_loc_muinne' pattern='Loc Muinne'>Loc Muinne</a>
+- <a id='l_kaedwen' pattern='Kaedwen'>Kaedwen</a>
+    - <a id='l_ban_ard' pattern='Ban Ard'>Ban Ard</a>
+        siedziba szkoły magów zniszczonej(?) przez Redańczyków
+- <a id='l_kerack' pattern='Kerack,Kerack'>Kerack</a>
+    - niepodległe księstwo między [Verden](#l_verden) a [Temerią](#l_temeria)
+    - <a id='l_m_kerack' pattern='Kerack'>Kerack</a>
+        - [Mirna](#p_mirna) otworzyła tam sklepik i warsztat
+        - <a id='l_palmera' pattern='Palmer*'>Palmera</a>
+            - gorsza część miasta
+            - <a id='l_krab_i_belona' pattern='Pod Krabem i Beloną'>Pod Krabem i Beloną</a>   
+        - <a id='l_cyklamen' pattern='Cyklamen*'>Cyklamen</a>
+            - ekskluzywny hotel
+            - część budynku pochodzenia elfiego, może nawet [Aen Drisichean](#r_aen_drisichean)
+            - oferuje też "przyjemności cielesne"
+            - zarządzany przez [Brona](#p_bron), własność [Konrada de Vett](#p_vett)
+        - <a id='l_pod_szubienica' pattern='Pod Szubienicą'>Pod Szubienicą</a>
+        - <a id='l_baszta_mordercow' pattern='Basz* Morderców'>Baszta Morderców</a>
+            - służy jako budynek urzędowy
+    - <a id='l_ansegis' pattern='Ansegis'>Ansegis</a>
+    - <a id='l_cizmar' pattern='Cizmar'>Cizmar</a>
+    - <a id='l_sotonin' pattern='Sotonin*'>Sotonin</a>
+        - przygraniczna (od strony [Verden](#l_verden)) osada
+- <a id='l_kovir' pattern='Kovir*'>Kovir</a>
+    - <a id='l_port_vanis' pattern='Port Vanis'>Port Vanis</a>
+- <a id='l_mahakam' pattern='Mahakam*'>Mahakam</a>
+    - <a id='l_gora_carbon' pattern='Gór* Carbon'>Góra Carbon</a>
+- <a id='l_nilfgaard' pattern='Nilfgaard*'>Nilfgaard</a>
+    - <a id='l_loc_grim' pattern='Loc Grim'>Loc Grim</a>
+    - <a id='l_vicovaro' pattern='Vicovaro'>Vicovaro</a>
+        mieści się tam jedna z trzech szkół magii cesarstwa
+- <a id='l_poviss' pattern='Poviss'>Poviss</a>
+    - <a id='l_kaer_seren' pattern='Kaer Seren'>Kaer Seren</a>
+        - opuszczona warownia Wiedźminów szkoły [Gryfa](#b_gryf),
+        - prawdopodobnie skonstruowana przez [Aen Drisichean](#r_aen_drisichean),
+        - tymczasowa siedziba [Kapituły](#r_kapitula) przed powrotem na [Thanedd](#l_wyspa_thanedd)
+- <a id='l_redania' pattern='Redani*'>Redania</a>
+    - <a id='l_novigrad' pattern='Novigrad*'>Novigrad</a>
+        - Stolica wyznawców wiecznego Ognia
+    - <a id='l_densle' pattern='Densle*'>Densle</a>
+        - Nadbrzeżna warownia, w pół drogi między [Novigradem](#l_novigrad) a Troy
+    - <a id='l_trupia_knieja' pattern='Trupi* Knie*'>Trupia Knieja</a>
+        - Nieprzejezdy las między [Oxenfurtem](#l_oxenfurt) a [Bronowicami](#p_bron)
+        - <a id='l_est_tayiar' pattern='Est Tayiar'>Est Tayiar</a>
+            - Stolica elfów z przed lądowania ludzi, wyniszczona jakąś zarazą, ostatnim władcą był Maeglor, który umierając ukrył miasto przed zbezczeszczeniem i splądrowaniem
+        - <a id='l_erde' pattern='Erde'>Erde</a>
+            - porzucona drwalska wioska, należała do rodziny Von Everec, opodal porzucony dworek
+        - <a id='l_arn_skrone' pattern='Arn Skrone'>Arn Skrone</a>
+        - <a id='l_Heddel' pattern='Heddel'>Heddel</a>
+    - <a id='l_bronowice' pattern='Bronowic*'>Bronowice</a>
+        - Wieś Jawunta i Aldony, popularny cel wycieczek studentów z [Oxenfurtu](#l_oxenfurt)
+    - <a id='l_oxenfurt' pattern='Oxenfur*'>Oxenfurt</a>
+        [Viggo](#p_viggo_regner) [Regner](#p_viggo_regner) - miejsce nauki
+        - <a id='l_dom_borsodych' pattern='Dom* Aukcyjn* Braci Borsodych'>Dom Aukcyjny Braci Borsodych</a>
+        - <a id='l_klinika' pattern='[Kk]lini*, [Ss]zpital*'>Szpital im. Milo Vanderberg</a>
+            - [klinika](#l_klinika) prowadzona przez [Shani](#p_shani)
+    - <a id='l_rinbe' pattern='Rinbe'>Rinbe</a>
+        - Położone nad północnym brzegiem Pontaru
+        - Lokacja jednego z laboratoriów [Vilgefortza](#p_vilgefortz)
+- <a id='l_temeria' pattern='Temer*'>Temeria</a>
+    - <a id='l_wyzima' pattern='Wyzim*'>Wyzima</a>
+        - stolica [Temerii](#l_temeria)
+        - <a id='l_narakort' pattern='Now* Narakor*,Narakor*'>Nowy Narakort</a>
+            - karczma
+        - <a id='l_kudlacz' pattern='Mi* Kudłacz*'>Miś Kudłacz</a>
+            - karczma
+        - <a id='l_uda' pattern='Chętn* Ud*'>Chętne Uda</a>
+            - zamtuz
+    - <a id='l_bagna' pattern='Bang*'>Bagna</a>
+        - <a id='l_brzoza' pattern='Brzoza*'>Pustelnia Lentinusa przy Brzozie</a>
+            - drzewo zasadził podobno jakiś elfi król zwany [Oberonem](#p_oberon) (na pewno nie król Aen Seidhe)
+        - zatopiona wieża [Alzura](#p_alzur)
+        - zrujnowana wieża [Alzura](#p_alzur)
+        - ukryta wieża [Alzura](#p_alzur)
+        - wyczerpany krąg mocy
+        - chatka, jaskinia i krąg żywiołu ziemi
+            - zamieszkują go [Echinopsy](#b_bluszcz) i Archespor
+    - <a id='l_gors_velen' pattern='Gors Velen'>Gors Velen</a>
+        - <a id='l_wyspa_thanedd' pattern='Wysp* Thanedd,Thanedd'>Wyspa Thanedd</a>
+            - <a id='l_loxia' pattern='Loxi*'>Loxia</a>
+                pałacowa część twierdzy czarodziejek, gościnna
+            - <a id='l_aretuza' pattern='Aretuz*'>Aretuza</a>
+                właściwa szkoła czarodziejek
+                - [Mardin](#p_mardin) jest głównym intendentem, sprawy administracyjne załatwia się u niego
+                - [Zavist](#p_zavist) z [Koviru](#l_kovir), mistrz abjuracji, jest głową biblioteki
+                - [Tizjana](#p_tizjana) Frevi, Dwimveandra, zajmuje się Artefaktorium
+            - <a id='l_garstang' pattern='Garstang*'>Garstang</a>
+                wewnętrzna część twierdzy, pracownie i gabinety najpotężniejszych czarodziejek na Północy
+            - <a id='l_pod_gorsetem' pattern='Pod Rozpiętym Gorsetem, Pod Gorsetem'>Pod Rozpiętym Gorsetem</a>
+            - <a id='l_szafran_i_pieprz' pattern='Szafran* i Pieprz*'>Szafran i Pieprz</a>
+            - <a id='l_srebrna_czapla' pattern='Srebrn* Czapl*'>Srebrna Czapla</a>
+    - <a id='l_gora_cremora' pattern='[Gg]ór* [CK]remor*,Risberg*,Cytadel*'>Góra Cremora</a>
+        - była tam jakaś rzeź, trzy wsie w okolicy wyrżnięte do nogi
+        - magowie nazywają zajście "fuszerką"
+        - związane z pochodzeniem [Ilany](#g_ilana)
+        - kompleks składał się z twierdzy postawionej przez [Ortolana](#p_ortolan) oraz odrestaurowanych przez niego lochów, prawdopodobnie zbudowanych przez Aen Drisichen i służących Zielonym Rycerzom jako "Twierdza na Północy"
+        - obecnie bezpieczeństwem i zapieczętowaniem kompleksu zajmuje się [Stucco Zangenis](#p_zangenis)
+        - pracowano nad "zabójcą magów", w projekcie brali udział:
+            - [Stucco Zangenis](#p_zangenis),
+            - [Ortolan](#p_ortolan),
+            - nieznany uczeń [Ortolana](#p_ortolan)
+            - [Filavandrel Aen Fidhail](#p_filavandrel)
+        - pilnowany przez ostatniego Strażnika
+    - <a id='l_dorian' pattern='Dorian'>Dorian</a>
+        - <a id='l_pod_mantikora' pattern='Mantikor*,Pod Mantikor*'>Pod Mantikorą</a>
+            - lokalne centrum walk na pięści
+        - <a id='l_ogryzek' pattern='Pod Ogryz*,Ogryz*'>Ogryzek</a>
+            - karczma, mało brakuje by nazwać ją podłą
+        - <a id='l_zloty_sad' pattern='Złoty* Sad*'>Złoty sad</a>
+            - luksusowa karczma, kawałek za murami miasta
+    - <a id='l_rdestowa_laka' pattern='Rdestow* Łą*,Rdestow*'>Rdestowa Łąka</a>
+    - <a id='l_maribor' pattern='Maribor*'>Maribor</a>
+        - zniknął się po Dwuksiężycowej Nocy
+        - szybko rozpoczęto odbudowę
+        - <a id='l_nowy_zrab' pattern='Now* Zr*'>Nowy Zrąb</a> - karczma
+    - <a id='l_mayena' pattern='Mayen*'>Mayena</a>
+        - <a id='l_pol_drogi' pattern='W Pół Drogi'>W Pół Drogi</a> karczma, dobry kawałek za miastem w stronę [Mariboru](#l_maribor) (__w pół drogi__)
+    - <a id='l_lysa_gora' pattern='Łys* Gór*'>Łysa Góra</a>
+        - Znajduje się nieopodal [Mayeny](#l_mayena)
+        - Stoi na nim samotne drzewo - dobry punkt do teleportacji
+    - <a id='l_cleves' pattern='Cleves'>Cleves</a>
+        - fort wojskowy, niedaleko [Mariboru](#l_maribor)
+    - <a id='l_burdoff' pattern='Burdoff'>Burdoff</a>
+        - <a id='l_baba_wodna' pattern='Bab* Wodn*'>Baba Wodna</a> - karczma
+    - <a id='l_zavada' pattern='Zavada*'>Zavada</a>
+    - <a id='l_jawornik' pattern='Jawornik*'>Jawornik</a>
+        - Punkt mocy pod Drzewem Wisielców, niedaleko cmentarza
+- <a id='l_sodden' pattern='Sodden'>Sodden</a>
+- <a id='l_toussaint' pattern='Toussaint'>Toussaint</a>
+    - <a id='l_beauclair' pattern='Beauclair'>Beauclair</a>
+        - robią tu jedno z najlepszych win
+        - podobno tu wyprowadził się bimbrownik od [nalewki z mandragory](#r_nalewka), [Regis](#p_regis)
+- <a id='l_verden' pattern='Verden'>Verden</a>
+    - nad Jarugą; od zachodu graniczy z [Cidaris](#l_cidaris), od północy z [Brokilonem](#l_brokilon), od wschodu z [Brugge](#l_m_brugge) na wysokości Wstążki (miasto [Dillingen](#l_dillingen))
+    - toczyły się tu liczne bitwy z [Nilfgaardem](#l_nilfgaard), kraj jest rozbity i nie stawia oporu rozrastającemu się [Brokilonowi](#l_brokilon)
+    - <a id='l_bodrog' pattern='Bodrog*'>Bodrog</a>
+    - <a id='l_rozrog' pattern='Rozrog*'>Rozrog</a>
+    - <a id='l_nastrog' pattern='Nastrog*'>Nastrog</a>
+    - <a id='l_lokij' pattern='Lokij'>Lokij</a>
+        - wieś pod [Brokilonem](#l_brokilon)
+        - nazwa wywodzi się z narzecza [Skellige](#l_wyspy_skellige)
+    - <a id='l_siestrzen' pattern='Siestrze*'>Siestrzeń</a>
+    - <a id='l_skalnica' pattern='Skalnic*'>Skalnica</a>
+        - Wymordowana przez [ghule](#b_ghul)
+        - Pod kaplicą [Kreve](#r_kreve) miejsce kultu [Lwiogłowego Pająka](#r_lwioglowy_pajak)
+    - <a id='l_lendawa' pattern='Lendaw*'>Lendawa</a>
+- <a id='l_wyspy_skellige' pattern='Wysp* Skellige,Skellige'>Wyspy Skellige</a>
+    - <a id='l_ard_skellig' pattern='Ard Skellig'>Ard Skellig</a>
+        - największa wyspa na [Skellige](#l_wyspy_skellige)
+    - <a id='l_undvik' pattern='Undvik'>Undvik</a>
+        - jedna z wysp [Skellige](#l_wyspy_skellige), dom [lodowych gigantów](#b_lodowy_gigant)
+    - <a id='l_hindarsfjall' pattern='Hindarsfjall'>Hindarsfjall</a>
+        - wyspa na [Skellige](#l_wyspy_skellige)
+    - <a id='l_fornhala' pattern='Fornhal*'>Fornhala</a>
+        - jedna z osad na Wyspach
+        - siedziba Vildkaarlów
+    - <a id='l_holmstein' pattern='Holmstein'>Holmstein</a>
+        - port na jednej z Wysp
+    - <a id='l_kaer_trolde' pattern='Kaer Trolde'>Kaer Trolde</a>
+        - siedziba rodu An Craite
+    - <a id='l_kaer_dhu' pattern='Kaer Dhu'>Kaer Dhu</a>
+        - legendarna siedziba rodu [Drummond](#p_drummond), zniknęła ponoć po panowaniu Knuta Okrutnego
+        - da się do niej dostać po kataklizmie spowodowanym przez działania [Dorregaraya](#p_dorregaray)
+    - <a id='l_tor_gvalchca' pattern='Tor Gvalch'>Tor Gvalch'ca</a>
+        jedna z elfich wież
+- <a id='l_zerrikania' pattern='Zerrikania'>Zerrikania</a>
+    - daleko
