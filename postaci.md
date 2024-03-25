@@ -230,6 +230,9 @@
     -   <a id='p_fryderyk' pattern='Fryderyk*'>Fryderyk z Roggeveen</a> - człowiek ; ?;
         -   czwarty syn Hrabiego Roggeveen
         -   jeden z mało znanych szlachciców załatwiający sprawy, którymi Królowi zajmować się nie przystoi
+    -   Jaworki
+        -   <a id='p_jadzia' pattern='Jadz*'>Jadzia</a> - człowiek ; ?;
+            wredna, prastara jędza, uprzykrzająca życie wszystkim w około
 -   Cintra
     -   <a id='p_calanthe' pattern='Calanthe'>✝ Calanthe</a> - ; władczyni
         znała Myszowora

@@ -56,6 +56,12 @@
     - <a id='l_vole' pattern='Vole'>Vole</a>
     - <a id='l_mosberg' pattern='Vole'>Mosberg</a>
         - Największa wyspa wśród Agryli, znajduje się na niej latarnia i osada z małą załogą żeglarzy
+    - <a id='l_jaworki' pattern='Vole'>Jaworki</a>
+        - wieś położona w górnym biegu rzeki Adalette, powyżej Verty
+    - <a id='l_nowa_rogowizna' pattern='Vole'>Nowa Rogowizna</a>
+        - wieś położona w górnym biegu rzeki Adalette, powyżej Verty
+    - <a id='l_nowa_smolarnia' pattern='Vole'>Nowa Smolarnia</a>
+        - wieś położona w górnym biegu rzeki Adalette, powyżej Verty
 - <a id='l_cintra' pattern='Cintr*'>Cintra</a>
 - <a id='l_ellander' pattern='Ellander'>Ellander</a>
     - Lenno Temerii, a więc i [Redianii](Redania)

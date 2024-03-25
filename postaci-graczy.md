@@ -138,7 +138,7 @@
                 -   5 porcja kadzidła
                 -   6 porcji kredy
             -   Fundusze:
-                -   483.1.3 gp
+                -   482.4.3 gp
                 -   kamienie szlachetne warte 2215gp
             -   Magiczne różności:
 
