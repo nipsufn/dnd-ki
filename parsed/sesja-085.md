@@ -1,0 +1,42 @@
+### Sesja 85
+##### [Sesja 84](#sesja-084) [Sesja 86](#sesja-086)
+1. W dalszą drogę
+    - Budzimy się koło południa w wyśmienitych humorach, niezwykle wypoczęci i o dziwo bez kaca. Do [Kerack](#l_kerack) zostały nam jeszcze ze 4 dni drogi. Sama droga jest wyboista, zaczyna się powoli robić górzysta.
+    - W drodze mijamy wiele opustoszałych, popalonych wsi. Drugiego dnia drogi natykamy się na skupisko ludzi w trakcie czegoś, co przypomina masowy pogrzeb.
+    - [Ilana](#g_ilana), zmieniona w lisa, podkrada się bliżej, aby sprawdzić co dokładnie ma miejsce. Kilku kapłanów w bieli prowadzi obrządek, podczas którego w palące się snopy składają zawinięte w prześcieradła ciała. Wnioskujemy, że są to ofiary niedawnej zarazy.
+    - Nie chcąc ściągać na siebie uwagi ruszamy dalej. Trzeciego dnia mija nas karawana 3 wozów. Starszy, dobrze odziany jegomość pyta nas o drogę do Starego Olsy.
+2. Na odsiecz wojakom
+    - Czwartego dnia, zaraz po wyruszeniu, napotykamy lekko ponad tuzin zbrojnych w barwach [Verden](#l_verden). Trójka z nich jest ranna. [Kapitan Aleksander Wehr](#p_wehr) przywołuje nas do obozu, więc aby uniknąć zbędnych nieprzyjemności, posłusznie podchodzimy.
+    - Wojacy są z ekspedycji karnej posłanej do tępienia trupojadów w pobliskiej wsi. [Kapitan](#p_wehr) oferuje nam pieniądze za wszelką pomoc, czy tą w walce, czy choćby w rekonesansie i opatrywaniu rannych.
+    - Druidki łatają pokiereszowanych zwiadowców wysłanych na przeszpiegi do leża [ghuli](#b_ghul), którym wdało się już zakażenie od trupiego jadu. Dostajemy za to trochę grosza, a [Ilana](#g_ilana) dodatkowo - przyrównanie do anioła wywołane chwilowym zamroczeniem pacjenta. Przyłączamy się do obozu i snujemy plan jak skutecznie zrobić zwiad.
+    - Idziemy sprawdzić wioskę. [Kajetan](#g_kajetan) wysyła na przeszpiegi sowę. Chaty są zrujnowane wewnątrz. Kapliczka, która była w wiosce także ma się nie najlepiej - drzewo przygniotło jej dach.
+    - [Kajetan](#g_kajetan), posługując się swoimi przyzwańcami, przeczesuje okolicę i znajduje w studni ujście do podziemnej jaskini. W jaskini jedna ze ścian jest wyrobiona i kiedyś miała drzwi, które teraz leżą wyłamane tuż obok. Zabudowanie wydaje się znajdować wprost pod kapliczką.
+    - W jaskini, oprócz zabudowania, jest strumyk, a w nim ogromna góra kości. Kiedy chochliki się zbliżają, kości eksplodują, a spod nich wyskakuje [ghul](#b_ghul) - wielki niczym goryl, pozbawiony skóry, z kolczystymi wyrostkami. Całą jaskinię wypełnia mdlący, wwiercający się w nozdrza odór rozkładu.
+    - Zdajemy [kapitanowi](#p_wehr) szczegółowy raport. Zostajemy z wojakami do rana i pomagamy w realizacji ich planu wykurzenia i/lub ubicia [ghuli](#b_ghul).
+    - Dowiadujemy się też, że kapliczka została wzniesiona ku czci [Kreve](#r_kreve).
+3. Polowanie na [ghule](#b_ghul)
+    - Z odzyskanej z chat gorzałki i innych substancji łatwopalnych oraz szmat, smoły i słomy majstrujemy spory pakunek. Wojacy wrzucają go do studni, a [Kajetan](#g_kajetan), używając jednego z koralików ognistego naszyjnika, podpala bombę.
+    - Przez moment nic się nie dzieje, lecz po chwili koralik ciśnięty wgłąb studni eksploduje, detonując prowizoryczną bombę, wstrząsając całą okolicą. Część [ghuli](#b_ghul) dosłownie wylatuje studnią, tarzając się, próbując ugasić płomienie na grzbiecie. Pozostałe trupojady wypadają z kaplicy, a zaraz za nimi największy z nich, ten z kupy kości.
+    - [Ilana](#g_ilana) i część wojaków zasadzili się na dachu i szyją z odległości do trupojadów. [Kajetan](#g_kajetan) także trzyma się na dystans posiłkując się magią. [Mirna](#p_mirna) zdecydowała się obserwować całe zajście z bezpiecznej odległości pobliskiego wzgórza.
+    - Kilku wojaków zostało na ziemi i walczy w zwarciu, podobnie jak [Skovik](#p_skovik). [Ghule](#b_ghul) rozerwały już paru ludzi na strzępy i teraz obskoczyły [wyspiarza](#p_skovik), stanowiąc poważny problem. [Ilana](#g_ilana) nie chcąc ryzykować przemiany przy świadkach rzuca się tylko na pomoc [Skovikowi](#p_skovik).
+    - Używając telekinezy [Kajetan](#g_kajetan) próbuje zrzucić ghula-goryla z dachu, na który ten wskoczył by dosięgnąć kuszników. Bestia jest niestety uparta, ale kruchy dach zapada się pod nią i [ghul](#b_ghul) ląduje z gruchotem we wnętrzu chaty. 
+    - [Ilana](#g_ilana) widząc to wskakuje do środka, gdzie w postaci niedźwiedzia, bezpieczna przed widownią, wykańcza dużego trupojada. Stwór miał na szyi omotany na wzór obroży łańcuch, a na nim zawieszone coś na kształt wisiorka. Wygląda to jakby ktoś go... hodował?
+4. Ciekawe znaleziska
+    - Udaje nam się załatwić wszystkie [ghule](#b_ghul) bez znacznych strat w ludziach. Wraz z [kapitanem](#p_wehr) i paroma jego ludźmi przeczesujemy podziemną jaskinię, gdzie w budynku odkrywamy symbole [Lwiogłowego Pająka](#r_lwioglowy_pajak). Drzwi faktycznie zostały wyważone od środka, jakby coś próbowało się stamtąd wydostać. Znajdujemy też ślady dawno zaschniętej krwi i resztki białej szaty, najwyraźniej kapłańskiej.
+    - Opowiadamy [kapitanowi](#p_wehr) co nieco o kulcie pajęczej bogini i uświadamiamy, że sprawą powinien zająć się ktoś umyślny. [Kapitan](#p_wehr) zarządza wartę i obóz do nadejścia posiłków. Otrzymujemy niemałą zapłatę za swój udział - weksel na 350 GP na okaziciela w banku [Cianfanellich](#p_cianfanelli).
+    - Za przyzwoleniem [kapitana](#p_wehr) przeszukujemy też świątynię, która należała niegdyś do bogini [Kreve](#r_kreve). Pod jednym z sarkofagów stojących w kapliczce znajdujemy przejście z drabinką prowadzące do podziemi, wprost do kryjówki kultystów.
+    - [Ilana](#g_ilana) przygląda się zawieszce z "obroży" [ghula](#b_ghul). Przypomina ni to krzyż, ni to miecz i definitywnie jest w znacznej mierze z czystego srebra, bo pali [druidkę](#g_ilana) w dłonie. Bibelot otrzymuje więc na przechowanie [Kajetan](#g_kajetan).
+    - [Elf](#g_kajetan) wysyła do [Larsa](#p_lars) wiadomość o tym, co znaleźliśmy pod świątynią [Kreve](#r_kreve). [Nadworny mag Verden](#p_lars) obiecuje przekazać wieści komu trzeba i zaprasza do stolicy na kolację na jego koszt.
+5. U progu [Kerack](#l_kerack)
+    - Okazuje się, że na bombę zeszła o dziwo tylko niewielka część wyszabrowanej gorzałki, tak więc resztę wieczoru spędzamy w towarzystwie świętujących zwycięstwo wojaków, a rano żegnamy się i ruszamy dalej do [Kerack](#l_kerack).
+    - Zatrzymujemy się na noc w osadzie [Sotonin](#l_sotonin) należącej już do włości [Kerack](#l_kerack). Trafiamy do jedynej karczmy w okolicy. [Kajetan](#g_kajetan) dąsa się na żarcie, piwo i nocleg wątpliwej jakości.
+    - W karczmie spotykamy znajomego gnoma z rodziną. Mówi, że do miasta póki co wpuszczają tylko mieszkańców, ma to niby związek z dziwnymi zajściami w okolicy. Kilku zamożnych i poważanych ludzi albo zaginęło, albo zostało wyłowionych martwych z kanału.
+    - Nad kuflem dyskutujemy na temat dalszego planu działania. [Mirna](#p_mirna) jest mieszkańcem, może więc spróbować załatwić nam wejściówkę do miasta. Stamtąd moglibyśmy złapać statek na wyspy, jednak [Kajetan](#g_kajetan) upiera się, że na żadną łajbę nie wejdzie, woli teleportować nas prosto na [Skellige](#l_wyspy_skellige), co z kolei spotyka się z silnym sprzeciwem [Ilany](#g_ilana).
+    - Noc spędzamy na wspólnej hali śpiąc w hamakach z rybich sieci - zupełnie jak na statku. [Kajetan](#g_kajetan) demonstruje swoje niezadowolenie wszem i wobec, nie mogąc doczekać się bardziej cywilizowanych warunków.
+6. W ogródku, witając się z gąską
+    - Rezygnując z i tak wątpliwej jakości śniadania, nazajutrz ruszamy do głównej (i chyba jedynej) bramy miasta [Kerack](#l_kerack). Brama jest faktycznie zamknięta, a przed nią rozstawił się mały oddział ze stołem do papierologii stosowanej. Zatrzymują nas strażnicy i proszą [Mirnę](#p_mirna) o wyjaśnienie.
+    - [Mirna](#p_mirna) tłumaczy, że jest z miasta i prowadzi tu warsztat, a my jesteśmy jej rodziną (obecną i przyszłą), ale i tak stróże prawa żądają świadka-rezydenta, który by to potwierdził.
+    - [Kajetan](#g_kajetan) wysyła więc wiadomość do [Brona](#p_bron). Ten odpowiada bardzo szybko. Instruuje, by [elf](#g_kajetan) ogłosił się oficjalnie magiem i pod żadnym pozorem nie prowokował ludzi [De Santisa](#p_de_santis). Wszelkie poniesione koszta [lichwiarz](#p_bron) zwróci, jak tylko się zobaczą.
+    - Idąc za radą [Brona](#p_bron), [Kajetan](#g_kajetan) wyrabia oficjalny dokument i tak wchodzimy do miasta.
+    
+##### [Sesja 84](#sesja-084) [Sesja 86](#sesja-086)

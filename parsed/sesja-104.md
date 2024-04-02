@@ -1,0 +1,72 @@
+### Sesja 104
+##### [Sesja 103](#sesja-103) [Sesja 105](#sesja-105)
+1. Rodzinne spotkanie
+    - Jako pierwsza na miejsce spotkania dociera [Ilana](#g_ilana). Zaraz po niej, na magicznym rumaku zjawia się umorusany [Leiv](#p_leiv). Rumak rozpływa się w powietrzu (sztuczka pożyczona od [Larsa](#p_lars)?), więc [wyspiarz](#p_leiv) zostawia juki z [druidką](#g_ilana) i wchodzi do austerii coś załatwić.
+    - Do [Ilany](#g_ilana) wkrótce dołącza [Kajetan](#g_kajetan) z [Mirną](#p_mirna), oraz odświeżony [Skovik](#p_skovik) - chwali się nową fryzurą, która znów w pełni odsłania tatuaż na potylicy. Widać, że symbol jest przerwany na środku po nieprzygodzie w [Brokilonie](#l_brokilon) i leczeniu w [Col Serrai](#l_col_serrai).
+    - Jako ostatni na swym latającym rogaczu przybywa [Ivar](#p_ivar). W jego zachowaniu czuć chłód i dystans, w szczególności w stosunku do [Skovika](#p_skovik). 
+    - [Leiv](#p_leiv) wytacza się ze środka z wielkim pakunkiem. Widząc [Skovika](#p_skovik) kwituje, że teraz wygląda praktycznie jak [Lugos](#p_lugos), tylko młodszy. Młodzian rozdaje do targania swoje bagaże i zaprasza nas do portu, na statek. Impreza, wbrew naszemu domniemaniu, odbywa się w bardziej kameralnym miejscu, godzinę rejsu stąd.
+    - Płyniemy na odosobnioną plażę nowym drakkarem na tuzin załogi. Krypa ma na żaglu symbol rodziny [Leiva](#p_leiv): trzy mewy w kręgu, z dodatkowym czarnym ptakiem wewnątrz - to od Sroki, przezwiska [Leiva](#p_leiv).
+    - Na brzegu czeka na nas obóz i drobna kobieta o mysich blond włosach i jasnym, przyjemnym spojrzeniu. Poznajemy [Asliv](#p_asliv), nazywaną też Łezką.
+    - [Leiv](#p_leiv) odprawia braci do wypakunku bagaży. [Kajetan](#g_kajetan) proponuje swoją pomoc, ale dostaje inne zajęcie. [Leiv](#p_leiv) chce nakłonić braci do współpracy i dać im szansę na pogodzenie się.
+    - Wypakowujemy tobołki. Są w nich wino i inne dobrodziejstwa. W tajemniczej skrzyni odebranej z Natura Rerum znajduje się wielki upieczony prosiak z jabłkiem w pysku, gotowy do zawieszenia nad ogniem.
+    - Gdy wszystko jest już przygotowane, a odebrany z austerii rożen ze świniakiem kręci się nad ogniem, [Leiv](#p_leiv) obwieszcza braciom nowinę o zaręczynach, prosząc przy tym [Skovika](#p_skovik) o błogosławieństwo. Wszyscy trzej padają sobie w ramiona.
+    - Dzień upływa nam na jedzeniu, toastach za zdrowie młodej pary, śmiechach, zabawach, oraz wymianie nowin ze świata:
+        - [Leiv](#p_leiv) był na Wyspach, matka braci żyje i ma się całkiem dobrze
+        - [Wysypy](#l_wyspy_skellige) dzieli co raz to mocniejszy podział
+        - wykopaliska maga obudziły [lodowych gigantów](#b_lodowy_gigant), [Cerys](#p_cerys) nie jest w stanie zjednoczyć przeciwko nim klanów, demonstrując swoją słabość - 4 z 7 klanów nie uznają jej zwierzchnictwa, efektywnie jej tytuł nic nie znaczy (Dimun, [Drummond](#p_drummond), Tuirseach - Jarl wini An Craite za to, co stało się z jego potomkiem na walnym spotkaniu, nie wierzy w "oficjalną" wersję; oraz Tordarroch - kolejny raz musieli uciekać z wyspy [Undvik](#l_undvik) przed [lodowymi gigantami](#b_lodowy_gigant))
+        - okręty rodu an Craite utknęły w skutym lodem porcie macierzystym
+        - klanem [Drummond](#p_drummond) "zarządza" fajtłapa [Örm](#p_orm), siostrzeniec [Lugosa](#p_lugos), jednak kontroluje go [Hjalmar](#p_hjalmar) (z jednej strony [Cerys](#p_cerys) upokarza wrogów an Craite, z drugiej - odsyła z dworu brata, o którym szepcze się, że byłby lepszym władcą)
+        - An Craite wzięli "pod opiekę" także kilka wiosek, w tym jedną z latarnią morską, którą Drummondzi zniszczyli, byle by nie wpadła w łapy opozycji
+        - [Ivar](#p_ivar) i [Skovik](#p_skovik) zdają się, przynajmniej częściowo, wypracować swoje problemy w zapasach i przy flaszce
+        - Od [Ivara](#p_ivar) dowiadujemy się, że:
+            - pod [górą Cremora](#l_gora_cremora) obudził się jakiś mrok, przez co bestie w okolicy zrobiły się dużo agresywniejsze, a część nawet zaczęła migrować z dala od okolicy
+            - [Wioska](#l_wioska) rośnie - nazywają ją Niedźwiedzim Kasztelem, a [Enid](#p_enid) otworzyła nawet małą karczmę dla przyjezdnych
+        - [Leiv](#p_leiv) opowiada jak właściwie poznali się z [Asliv](#p_asliv): jako szmugler chciał buchnąć mapy z nilfgaardzkimi szlakami handlowymi; płynął na nilfgaardzkim statku, kiedy zaatakowali ich piraci pod wodzą [Roeggnera](#p_roeggner); [Asliv](#p_asliv) towarzyszyła bratu
+        - na zakończenie wieczoru [Leiv](#p_leiv), ku zdumieniu ogółu, wyciąga lutnię i wykonuje całkiem ładną, wzruszającą balladę
+    - W nocy [Ilanie](#g_ilana) śni się dziwny sen:
+        - znajduje się na dziobie niewielkiego drakkara, którego pokład aż trzeszczy
+        - na żaglu widnieje symbol: trzy czarne drakkary na czerwonym tle, ale nie potrafi skojarzyć go z żadnym klanem
+        - oprócz niej na statku znajduje się przywiązany do masztu niedźwiedź
+        - łódka dusi linami zwierzę, co jakby dodaje jej wiatru w żagiel
+        - całemu zajściu przyglądają się z masztu 3 kruki: szary, ślepy na jedno oko, biały ślepy i czarny, z 3 oczami
+        - w hałasie słyszy nakładające się na siebie szepty: _"ratuj niedźwiedzia"_, _"nie, ratuj łódź, zabij niedźwiedzia"_, _"on zniszczy łódź, przez niego świat spłynie czerwoną falą krwi"_, _"podejmij wybór kogo ratować"_, _"wybierz dobrze"_ i tym podobne
+        - niewiele myśląc, próbuje uspokoić zwierzę, z pozytywnym skutkiem; rozmawia z niedźwiedziem i uwalnia go z więzów, co wzmaga trzeszczenie statku
+        - padając na czworaka niedźwiedź wybija w pokładzie dwie dziury, więc [Ilana](#g_ilana) nakazuje mu spokój; wiatr wzmaga się, a na horyzoncie widać zamglony brzeg
+        - po chwili niedźwiedź zmienia się w [Skovika](#p_skovik), a sen się urywa
+    - [Druidka](#g_ilana) budzi się zziębnięta. Po jakimś czasie budzą się też pozostali imprezowicze.
+    - Przed południem wracamy do [Kerack](#l_kerack). W drodze [Skovik](#p_skovik) opowiada [Ilanie](#g_ilana) o swoim dziwnym śnie, w którym była z nim na łodzi pod banderą An Craite. Wygląda na to, że [Ilana](#g_ilana), tym razem nieświadomie, znów odwiedziła sen [Skovika](#p_skovik).
+    - W porcie żegnamy się z [Ivarem](#p_ivar), któremu wyraźnie poprawił się humor.
+    - [Kajetan](#g_kajetan) zaszywa się pod [Cyklamenem](#l_cyklamen) celem naładowania pierścienia. Obiecuje [Mirnie](#p_mirna), że następnego dnia będzie miała jego niepodzieloną uwagę.
+2. To było nieuniknione
+    - [Ilana](#g_ilana) i [Skovik](#p_skovik) szukają [Lödbroke](#p_lodborke). Od [Leiva](#p_leiv) dowiadują się, że wariata nie ma w mieście od tygodnia. Ponoć siedzi na jednej z plaż na południe. [Młody Drummond](#p_leiv) zabiera tam parę swoim drakkarem.
+    - [Lödbroke](#p_lodborke) zbudował na plaży, z której notabene odbiliśmy [Skovika](#p_skovik), coś na kształt kaplicy, która stroszy włosy na karku [Ilany](#g_ilana). Na ołtarzykach z otoczaków leżą rozmaite dary: od plonów, po mięso i zwierzęta. Gdy [druidka](#g_ilana) próbuje wejść w krąg, czuje znajomy zapach krwi i ziół (jak totem [Skovika](#p_skovik)), co budzi w niej przemianę, którą na szczęście udaje jej się niepostrzeżenie opanować.
+    - [Skovik](#p_skovik) i [Lödbroke](#p_lodborke) witają się. Legendarny woj opowiada o bogach i przeznaczeniach. Na swój sposób cieszy się ze spotkania, choć nie wie, czy czekał na nas, czy na kogoś jeszcze.
+    - [Skovik](#p_skovik) wyjawia, że [Lödbroke](#p_lodborke) także trenował pod okiem [Artisa](#p_druid_artis) - jest Vildkaarlem
+    - Berserk wita się z [Ilaną](#g_ilana). Po podaniu sobie rąk [dziewczyna](#g_ilana) znów czuje, jakby traciła kontrolę nad sobą. Wydaje jej się, że podana dłoń zaczęła się lekko przemieniać, więc szybko chowa ją za plecami.
+    - Podobno [Artis](#p_druid_artis) wysłał go, by dał Drummondowi __możliwość__ powrotu na wyspy. By go odnaleźć, [Lödbroke](#p_lodborke) sprzymierzył się z łowcą głów od strzałek - [Dyjinem Ognajem](#p_ognaj).
+    - W międzyczasie, gdy [Skovik](#p_skovik) wypytuje przyjaciela o detale "porwania", do jaskini wlatuje wielka sowa, która po chwili zamienia się w [Artisa](#p_druid_artis).
+    - [Artis](#p_druid_artis) opowiada:
+        - zaczyna od stwierdzenia, że w świecie potrzebny jest konflikt, który zapobiega marazmowi i pozwala zachować balans w naturze
+        - pociągnięty przez [Skovika](#p_skovik) za język sugeruje, że nic nie dzieje się bez przyczyny i że być może gdyby nie droga, jaką obrał [Skovik](#p_skovik), nie spotkał by na niej [Ilany](#g_ilana)
+        - [Druid](#p_druid_artis) dał [Skovikowi](#p_skovik) na [Cerys](#p_cerys) sztylet, który pomógłby mu w walce - ale tylko honorowej; jako że próbował dokonać niehonorowego zamachu, ostrze zawiodło go w kluczowej chwili
+        - [Drummond](#p_drummond) był tak zaślepiony żądzą zemsty, że chciał jedynie siły Vildkaarlów, zupełnie zapominając o ich "mądrości" (czyli zasadach, wartościach)
+        - miała to być twarda lekcja, podobna, jaką ptaki fundują swoim latoroślom wykopując je z gniazda
+        - informuje [Lödbrokea](#p_lodborke), że przez działania maga, [Kaer Dhu](#l_kaer_dhu), starodawna siedziba rodu [Drummond](#p_drummond) i miejsce spoczynku Knuta Okrutnego jest znów dostępna; ujawniła się po nasilających się trzęsieniach ziemi
+        - Knut chciał scalić rozbitych w tamtych czasach wyspiarzy - albo pod swoim przywództwem, albo zmuszając ich do zjednoczenia się przeciw niemu; to zjednoczenie nadało kształt współczesnej polityce Wysp
+        - [Skovik](#p_skovik) nie powinien iść do [Kaer Dhu](#l_kaer_dhu), próbować odzyskać artefaktów po Knucie, jeśli nie jest gotów wrócić z wygnania (na które sam się notabene wypędził) i zająć "swojego miejsca" na Wyspach (wśród Vildkaarlów, jeśli odzyska honor? jako głowa swojego rodu? co poeta miał na myśli?)
+        - [Ilana](#g_ilana) nazywa [Artisa](#p_druid_artis) okrutnym sadystą, starzec nie odpiera zarzutu, on tylko daje [Skovikowi](#p_skovik) możliwość wyboru - wyboru, by powrócić, jeśli tego chce
+        - Druid widzi w [dziewczynie](#g_ilana) spore podobieństwo do siebie, nazywa ją czymś więcej niż druidem (implikując, że sam nie jest druidem...)
+        - [Lödbroke](#p_lodborke) przyznaje, że zawiódł z sytuacją w alejce - gdyby łowczy strzelał bełtami, wziąłby je na siebie, a co do planu z oszukaniem [Cerys](#p_cerys) "zwłokami" Drummonda - _wierzył_ że się uda; [Ilana](#g_ilana) kwituje, że gdyby to ona była na miejscu [Lödbrokea](#p_lodborke), nie pozwoliłaby, aby choć jedna strzałka łowcy głów trafiła [Skovika](#p_skovik)
+        - Dlaczego zupełnie olał towarzyszy wyspiarza i jakie może być ich zdanie na temat planu / porwania / "możliwości powrotu", [Lödbroke](#p_lodborke) nie był łaskaw wyjaśnić
+        - [Artis](#p_druid_artis), oskarżony o pozorowanie możliwości wyboru (sztylet, który zawiódł w kluczowym momencie), zmienia temat opowiadając, że nie mógł mu dać siły Vildkaarlów, jeśli ten nie stosował ich mądrości
+        - stwierdza, że jego nauka jest bolesna, ale ból to dobry nauczyciel; ma nadzieję, że [Skovik](#p_skovik) wyniósł mądrość z tego, co się stało, a jeśli będzie chciał, znajdzie [druida](#p_druid_artis) na Wyspach
+        - na pożegnanie stwierdza <a id='matkakrokow'></a>_"Jeśli los pozwoli, spotkamy się znów. Tymczasem strzeż się Matki [Kruków](#r_kruk)"_
+        - zamienia się na powrót w sowę i odlatuje
+3. Czarujące ploteczki
+    - Do pilnującego swojego pierścienia pod [Cyklamenem](#l_cyklamen) [Kajetana](#g_kajetan) dzwoni [Keira](#p_keira_metz):
+        - z okazji odbicia [Mariboru](#l_maribor) [Kapituła](#r_kapitula) organizuje bal, trzy dni po nim planowane jest rozpoczęcie ekspedycji na północ, do [Kaer Seren](#l_kaer_seren)
+        - [Myrton](#p_lord_myrton) albo jest w [Novigradzie](#l_novigrad) albo podróżuje - stara się zebrać rozbity zakon pod swoim przywództwem,
+        - Zakon [Łowców](#r_lowca) po śmierci [Radowida](#p_krol_radowid) nie ma wsparcia politycznego, jest zdany na siebie
+        - [Elatan](#p_elatan) jest dalej nieprzytomna, śpi w posiadłości [Keiry](#p_keira_metz)
+
+##### [Sesja 103](#sesja-103) [Sesja 105](#sesja-105)

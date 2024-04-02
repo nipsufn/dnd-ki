@@ -1,0 +1,106 @@
+### Sesja 110
+##### [Sesja 109](#sesja-109) [Sesja 111](#sesja-111)
+1. Ku chwale [Svalbloda](#r_svalblod)
+    - [Lodbroke](#p_lodborke), [Skovik](#p_skovik) i [Ilana](#g_ilana) wychodzą z [Cytadeli](#l_gora_cremora) zaczerpnąć świeżego powietrza. Wyspiarz zabiera ze sobą szczątki trzeciego strażnika.
+    - [Vildkaarl](#p_lodborke) rozpala ognisko, w którym spala mieszankę ziół i serce strażnika zero w ofierze swojemu bogowi. Zaprasza do rytuału [Skovika](#p_skovik) i [Ilanę](#g_ilana).
+    - [Ilana](#g_ilana) w transie obserwuje zwierzęce formy mężczyzn, a także swoją własną, jakby dwoiły jej się w oczach różne, nałożone na siebie obrazy.
+    - Po fakcie [Lodbroke](#p_lodborke) oddala się w sobie tylko znanym kierunku. Zostawszy sam na sam ze [Skovikiem](#p_skovik), [Ilana](#g_ilana) próbuje przyśnić się [Finarrinowi](#p_druid_finarrin): 
+        - zastaje [mentora](#p_druid_finarrin) w jakiejś izbie w baszcie, za oknem szumi morze; z parapetu zerwał się kruk
+        - [druid](#p_druid_finarrin) zasnął przy biurku zawalonym stertą papierów
+        - "obudzony", nie do końca zdaje sobie sprawę, że to tylko sen i myśli, że [Ilana](#g_ilana) faktycznie złożyła mu wizytę
+        - jest w [Nastrogu](#l_nastrog), na zaproszenie księcia
+        - książę [Kistrin](#p_ksiaze_kistrin) wyruszył na jakieś ważne spotkanie na północy (bal na [Thanedd](#l_wyspa_thanedd)?)
+        - [stary druid](#p_druid_finarrin) pełni jakieś obowiązki pod jego nieobecność
+        - generalnie jest doradcą, stara się temperować zapały porywczego nadwornego maga, [Larsa](#p_lars)
+        - swój czas dzieli między obowiązkami w [Nastrogu](#l_nastrog) a [Wioską](#l_wioska)
+        - pod koniec miesiąca do [Verden](#l_verden) ma przypłynąć emisariusz z [Wysp Skellige](#l_wyspy_skellige), [Cerys](#p_cerys) chce wznowić stosunki dyplomatyczne
+        - ostatnimi czasy zwierzęta w [Brokilonie](#l_brokilon) są bardziej agresywne, niż zwykle - czyżby związek z tym, o czym opowiadał [Ivar](#p_ivar) albo z tym, co sprzątamy w [Risbergu](#l_gora_cremora)?
+        - [Ilana](#g_ilana) zaczyna na poważnie myśleć o [Artisie](#p_druid_artis) jako dobrym kandydacie na nauczyciela, [ojczym](#p_druid_finarrin) ostrzega ją przed "ludźmi, którzy zasłaniają się bogami"
+        - [Finarrin](#p_druid_finarrin) dowiedział się o istnieniu drugiego kręgu druidzkiego, w okolicach [Ysgith](#l_ysgith) - podobno osiedli tam niektórzy druidzi, którzy odeszli z [Mayeny](#l_mayena)
+        - [dziewczyna](#g_ilana) przyznaje się, że zaczyna odczuwać paraliż wyboru
+    - Rozmowę przerywa krakanie trójokiego kruka. Gdy [Ilana](#g_ilana) budzi się z transu, widzi nad sobą przelatujący cień sporego ptaka.
+    - Para wraca na noc do podziemi, gdzie [Kajetan](#g_kajetan) postanowił powołać do życia swoją wieżę. [Skovikowi](#p_skovik) nie podoba się to miejsce, chce się stąd jak najszybciej zwinąć.
+2. Co można znaleźć w opuszczonej twierdzy magów
+    - [Kajetan](#g_kajetan) rozbija obóz w przedsionku z kręgiem. Następnie kolejnych kilka dni spędza na rekonesansie:
+        - odkrywa, jak działa księga, którą [Ivar](#p_ivar) pozwolił mu zatrzymać
+        - [Filavandrel](#p_filavandrel) nie brał bezpośredniego udziału w badaniach, sponsorował je jednak jako swego rodzaju inwestor - był przyjacielem [Ortolana](#p_ortolan)
+        - Sorel i Biruta byli faworytami [Ortolana](#p_ortolan)
+        - eliksir [Mirny](#p_mirna), o ile potężny, uniemożliwił mu praktycznie jakiekolwiek czarowanie dnia kolejnego
+        - znajduje przepis na dekokt Alarunowy
+        - identyfikuje znalezione eliksiry:
+            - 2 [większego leczenia](https://5e.tools/items.html#potion%20of%20greater%20healing_dmg)
+            - [nietykalności](https://5e.tools/items.html#potion%20of%20invulnerability_dmg)
+            - [dekokt Alarunowy](https://5e.tools/items.html#potion%20of%20longevity_dmg)
+            - [maksymalnej mocy](https://5e.tools/items.html#potion%20of%20maximum%20power_egw)
+        - Aep Daerhenna opisuje nieco o [Wranach](#r_wran):
+            - pojawili się na wschód od gór sinych w czasie pierwszej koniunkcji sfer - albo są oryginalnymi mieszkańcami kontynentu, tak jak gnomy
+            - [Loc Muinne](#l_loc_muinne) było oryginalnie ich miastem
+            - według elfich podań, [jaszczuroludzi](#r_wran) wykończył spadek temperatur, jednak ślady znalezione na szkieletach w czasie wykopalisk sugerują ludobójstwo
+            - sugeruje, że na Czarnej Akademii opracowano zarazę, która wyjątkowo zjadliwie atakowała [Wranów](#r_wran), pracował nad nią ponoć Goe Veth
+            - wykopaliska w [Loc Muinne](#l_loc_muinne) - albo przynajmniej czaszkę [Wrana](#r_wran) - zorganizował dla [Cytadeli](#l_gora_cremora) [Filavandrel](#p_filavandrel)
+            - rasa ta była odporna na działanie magii, z której to rzadko który przedstawiciel potrafił korzystać, wybitne jednostki odbijały zaklęcia lub przejmowały te już rzucone na własny użytek
+        - [Risberg](#l_gora_cremora)
+            - składa się z Twierdzy i [Cytadeli](#l_gora_cremora) (w której się znajdujemy)
+            - zgadujemy, że sama Twierdza znajduje się za współcześnie zapieczętowanymi drzwiami, obłożonymi zaklęciem krwi co najmniej ósmego poziomu
+            - [Cytadela](#l_gora_cremora) była prywatnymi komnatami [Ortolana](#p_ortolan), [Idarrana](#p_idarran) lub Sorela
+            - załoga:
+                - [Ortolan](#p_ortolan)
+                - Axel Raby
+                - Biruta Icarti
+                - Algernon Guingamp
+                - Harlan Tzara
+                - Sorel Degerlund
+                - Tarvix Sandoval
+                - Myles Trethevey
+                - [Stucco Zangenis](#p_zangenis)
+                - [Stregobor](#p_stregobor)
+                - [Idarran](#p_idarran) z Ulivo
+            - Oryginalnie pracowano tu nad stworzeniem "żołnierza idealnego":
+                - ciało miało być krzyżówką ogra i krasnoluda
+                - napędzany miał być duchem przyzwanym z innej płaszczyzny z pomocą [goecji](#r_goecja)
+            - Stworzono tu potwory nękające północ, takie jak:
+                - Idry - stworzone przez [Idarrana](#p_idarran), miały zapewnić, iż nie dojdzie do przeludnienia; proces tworzenia, eksperymentów i testów przetrwały co najmniej dwa osobniki rozlokowane gdzieś wśród królestw Północy
+                - Wilgozaury
+                - [Skolopendromorfy](#b_stonoga)
+                - Para-zeulgi
+                - Para-dzięcioły (odnotowano zamówienie druidów z [Mayeny](#l_mayena))
+                - Gębuzje (odnotowano zamówienie druidów z [Mayeny](#l_mayena))
+            - [Goecja](#r_goecja):
+                - naturalna ewolucja technik tworzenia golemów
+                - techniki zostały [Ortolanowi](#p_ortolan) zdradzone przez jakiś byt podczas podróży, jakie odbywał po innych płaszczyznach
+                - zbliżona do demonologii, jednak unika ryzyka przyzwania demona, który jest zupełnie nieprzystosowany do funkcjonowania na naszej płaszczyźnie, umieszczając jego "duszę" w ciele
+                - cała wiedza została spisana w skutej łańcuchami księdze _Liber Goete_
+            - rzeź na pogórzu Tukajskim, 1244 PP
+                - dokonał jej człowiek, w którym za życia spróbowano osadzić esencję demona przy pomocy [goecji](#r_goecja)
+                - na żądanie Tissai de Vries, po tym jak "wynalazek" zmasakrował kilka wsi, [Ortolan](#p_ortolan) musiał ukarać zespół badawczy:
+                    - Biruta wyjechała uczyć na [Aretuzie](#l_aretuza) zanim nadszedł rozkaz
+                    - Algernon sam złożył rezygnację jeszcze przed ogłoszonym wyrokiem, o dalszych losach nie ma notek
+                    - Tarvix został nauczycielem fechtunku na [Ban Ard](#l_ban_ard)
+                    - Miles został wydalony, o dalszych losach nie ma notek
+                    - Sorel został w [Cytadeli](#l_gora_cremora) w areszcie domowym
+            - ojcowie wiedźminów
+                - [Idarran](#p_idarran), twórca wielu potworów, mieszkał na [Risbergu](#l_gora_cremora)
+                - [Alzur](#p_alzur), kilka wież, ta w [Mariborze](#l_maribor) i te na bagnach pod [Wyzimą](#l_wyzima)
+                - [Malaspina](#p_malaspina), [Kaer Seren](#l_kaer_seren)
+            - krąg teleportacyjny
+                - składa się z dwóch, nachodzących na siebie; jeden wygląda na starszy, możliwe, że skonstruowany jeszcze przez [Aen Drisichean](#r_aen_drisichean), drugi jest bardziej współczesny
+    - Mając trochę czasu do zmarnowania, nim wymyślimy co zrobić z [Zangenisem](#p_zangenis), [Ilana](#g_ilana) także myszkuje po podziemiach:
+        - przy kręgu znajduje szczątki co najmniej 5 wiedźminów; grzebie je na powierzchni wraz z prawie całym dobytkiem, zabiera jedynie fragmenty srebrnych mieczy (do przekucia na jeden cały)
+        - odwiedza ogród z "posągami" i fontanną
+        - zwłoki wężowej damy, podobnie jak te na zewnątrz, również zostały powołane do życia i niemrawo podążają w kierunku drzwi
+        - druidka próbuje wycisnąć z nich choć kroplę krwi, ale są już lekko zmumifikowane; odcina niewielki kawałek do dalszych badań, a [Ivar](#p_ivar) rozprawia się z resztą zombie
+        - zabiera nienaruszony posąg kobiety do obozu
+    - [Ivar](#p_ivar), akompaniowany przez [Ilanę](#g_ilana), także nieco eksploruje:
+        - jego zdaniem mroczna, zła aura w okolicy pochodzi od [Zangenisa](#p_zangenis)
+        - przypłacając wiedzę strasznym bólem głowy, opisuje lico wiszącego, marmurowego posągu królowej [Aen Drisichean](#r_aen_drisichean) - wygląda łudząco podobnie do [Eithne](#p_eithne), a w oczy ma wprawione srebrne płytki, które odbijają i skupiają magiczne światło unoszące się przed posągiem
+        - z pomocą [Ilany](#g_ilana) odkopuje kolejne pomieszczenie za zbrojownią [Aen Drisichean](#r_aen_drisichean) - kaplicę z czterema zbrojami (animowanymi, domyślamy się) i sarkofagiem
+        - zabiera [Skovika](#p_skovik) na przeszpiegi, podczas gdy [Ilana](#g_ilana) i [Kajetan](#g_kajetan) próbują uwolnić [Zangenisa](#p_zangenis); [Lodbroke](#p_lodborke) wietrzy gacie na zewnątrz
+3. W pułapce z [Zangenisem](#p_zangenis)
+    - Mag ma w rękach swój sztylet i wypaloną świecę, podobną do tej, której użyliśmy, by ściągnąć klątwę ze [Skovika](#p_skovik).
+    - Obsydianowa czaszka leżąca na stole odpowiada elfiej anatomii, konkretnie [Aen Drisichean](#r_aen_drisichean)
+    - Księgi, które [Kajetan](#g_kajetan) jest w stanie odszyfrować pomagając sobie magią, traktują o pograniczu nekromancji i [goecji](#r_goecja), sugerując, że [Zangenis](#p_zangenis) mógł próbować przywrócić do "prawdziwego" życia kogoś, kto umarł.
+    - Czaszka, sondowana zaklęciem wykrycia myśli, wciąga lub wprawia w niekontrolowany trans [Ilanę](#g_ilana) i [Kajetana](#g_kajetan).
+    - Znajdujemy się w labiryncie. Orientując się z niemałym trudem i pomocą sowy [Kajetana](#g_kajetan) jak się po nim poruszać, znajdujemy komnatę z dwoma zwierciadłami, w jednym z nich widać zakrwawionego [Zangenisa](#p_zangenis).
+    - Z lustra wychodzi nam naprzeciw agresywny minotaur.
+
+##### [Sesja 109](#sesja-109) [Sesja 111](#sesja-111)

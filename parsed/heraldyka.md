@@ -1,0 +1,16 @@
+## Heraldyka
+- Orzeł biały w polu czerwonym - [Redania](#l_redania)
+- Lilie złote w polu niebieskim - [Temeria](#l_temeria)
+- Lilia złota w polu w pasy biało-niebieskie - Specjalne Siły [Temerskie](#l_temeria)
+- Pół pola orzeł czerwony w polu białym, pół pola miecz biały z płomieniem czerwonym - [Łowcy](#r_lowca) Czarownic/Potworów / Zakon Wiecznego Ognia
+- trzy głowy przecięte mieczem - (?); symbol na opasce jednego z zabitych przez nas [Łowców](#r_lowca)
+- Dwa groty, górny żółty, dolny czerwony - [Aedirn](#l_aedirn)
+- Czarny niedźwiedź - [Wyspy Skellige](#l_wyspy_skellige)
+- Linia trzech okręgów nad dwiema liniami czerwonymi w polu żółtym - [Ellander](#l_ellander)
+- Krzyż biały w polu zielonym - [Brugge](#l_m_brugge)
+- Słońce złote w polu czarnym - [Nilfgaard](#l_nilfgaard)
+- Lew złoty w polu niebieskim - [Cintra](#l_cintra)
+- Szachownica pól złotych i czarnych - [Verden](#l_verden)
+- łeb niedźwiedzia z profilu w polu niebieskim - ród Türseach
+- trzy mewie łby w kręgu - herb rodziny [Drummond](#p_drummond)
+- Fioletowe U z przedłużonymi ramionami - symbol klanu [Drummond](#p_drummond) (Wyspiarze ze [Skellige](#l_wyspy_skellige))

@@ -1,0 +1,23 @@
+### Sesja 95
+##### [Sesja 94](#sesja-094) [Sesja 96](#sesja-096)
+1. Przez [Garstang](#l_garstang)
+    - Twierdza magów kryje w sobie wiele śmiertelnych ciekawostek - od przenikającej do kości lodowatej ciemności otaczającej niemal każde schody, poprzez standardowe mechanizmy obronne jak strzelające pociski i ruchome ściany, po osobliwe pokoje: czytelnię z agresywnymi, latającymi książkami, magiczną kuźnię zasilaną przez żywiołaki, laboratorium anatomii istot wszelakich, czy w końcu sale treningowe dla adeptów.
+    - Niemal wszystko, co tu się znajduje, przypomina nam to, co widzieliśmy już w [Craag An](#l_craag_an). Szczególnie znajome wydają się sale treningowe z wysypanymi białym piaskiem kręgami.
+    - Przeprawiając się przez kolejne przeciwności, w zrujnowanym laboratorium natykamy się na wychudzonego złodzieja, który w przeciwieństwie do towarzyszy przetrwał jakiś czas w zakamarkach twierdzy. 
+    - Mężczyzna zdaje się być człowiekiem. Ma na imię Willy i przybył tu przez most ze swoją bandą, zagrabić co ostało się po magach. Nie ma pojęcia ile czasu minęło odkąd tu jest.
+    - Jako że pomógł nam wyjść cało z nieciekawego spotkania z metalowymi wężami-łańcuchami, pozwalamy mu iść za sobą.
+    - W końcu udaje nam się dotrzeć na szczyt, gdzie [Kajetan](#g_kajetan) sprawnie dezaktywuje zabezpieczenia.
+    - Żegnamy się z naszym dziwnym towarzyszem. Willie ucieka po linie, którą pozostawiła po sobie jego drużyna. Dopiero gdy zniknął za barierką, zwróciliśmy uwagę, że jedną rękę cały czas trzymał przy sobie, jakby chciał ją przed nami ukryć.
+    - [Margarita](#p_margarita) spotyka nas w parku pałacowym. Zaprasza nas do środka wieży, ale [Ilana](#g_ilana) woli dla odmiany posiedzieć na świeżym powietrzu.
+    - [Czarodziejka](#p_margarita) opowiada [Kajetanowi](#g_kajetan) nieco o [Garstangu](#l_garstang), prowadząc go do głównej sali, w której wcześniej udało nam się przemknąć obok czegoś przypominającego bursztynową rzeźbę smoka. Nasze przypuszczenia się potwierdzają - to jeden ze strażników, teraz poskromiony przez [Margaritę](#p_margarita) przy użyciu jej sygnetu.
+    - W nagrodę za jego poświęcenie [Margarita](#p_margarita) oddaje [Kajetanowi](#g_kajetan) swój sygnet [Kapituły](#r_kapitula), czyniąc go tym samym jej oficjalnym członkiem ([Kapituły](#r_kapitula) nie czarodziejki). Pierścień ma dodatkową właściwość - naładowany energią, potrafi awaryjnie przenieść posiadacza i jego towarzyszy w dowolne miejsce na świecie.
+    - [Elf](#g_kajetan) pyta przy okazji o sposób na przełamanie klątwy [Skovika](#p_skovik). Otrzymuje świecę pozwalającą przenieść dowolną klątwę na inne stworzenie o podobnej masie, co obarczony nią delikwent.
+    - Zdaje się, że [Margarita](#p_margarita) znalazła to, czego szukała - dużą, całkiem dokładną mapę niemal całego kontynentu, niechybnie magiczną. [Kajetan](#g_kajetan) widzi, jak [czarodziejka](#p_margarita) sprawdza, gdzie są dzieci z [Wyzimy](#l_wyzima) - wygląda na to, że jedno zmarło, a drugie dotarło do [Ellander](#l_ellander) i tam się zatrzymało.
+    - Rozchodzimy się w dobrych stosunkach i idziemy za miasto, bo [Kajetan](#g_kajetan) chce posłać gońca do [Kerack](#l_kerack). Słysząc cenę oraz czas jaki to zajmie, rezygnuje.
+2. W drogę
+    - Robimy zakupy na drogę - te magiczne i bardziej przyziemne. Na odchodnym jesteśmy świadkiem burdy straży miejskiej z jakimś handlarzem futer na bramie.
+    - Czekając na barkę [Ilana](#g_ilana) wyłapuje plotki o burdzie - ludzie gadają, że dwóch strażników wyglądało jakby ich sam wilk pokąsał.
+    - Ładujemy się na barkę i ruszamy do [Novigradu](#l_novigrad). Podróż przebiega bez większych zakłóceń, przed wieczorem docieramy do brzegu miasta.
+    - W czasie podróży [Kajetan](#g_kajetan) wysyła jeszcze zapytanie do [Merigold](#p_triss_merigold) o list polecający do Rektorki Katedry Medycyny w [Oxenfurcie](#l_oxenfurt). [Czarodziejka](#p_triss_merigold)  nie ma jednak na to czasu - musi uporać się z golemem w ruinach wieży w [Mariborze](#l_maribor).
+
+##### [Sesja 94](#sesja-094) [Sesja 96](#sesja-096)

@@ -1,0 +1,154 @@
+## Zadania
+- [x] Zlecenie na [Kota Migota](#b_migot) (aka Drwalskie Bebechy)<a id='z_q1'></a>
+    - 40GP za pozbycie się potwora atakującego drwali lub 5GP/noc za ochronę drwali bez polowania
+    - [Otto](#p_otto_kranmer) [Kranmer](#p_otto_kranmer); [Hans](#p_hans_kranmer) [Kranmer](#p_hans_kranmer)
+- [x] Punkt Mocy pod Ellander<a id='z_q2'></a>
+    - 100GP za dowód działania Mocy w kanałach
+    - 3 wejścia
+        - przy parku miejskim; strzeżone
+        - na prywatnej posesji
+        - za miastem
+- [ ] Rasiści w Ellander<a id='z_q3'></a>
+    - Ulubionym celem rasistów podburzanych przez kapłanów zdaje się być karczma “Różyczka”
+- [ ] Bandyci wokół Ellander<a id='z_q3a'></a>
+    - Dowiedzieć się szczegółów u Wójta Podgrodzia [Ellander](#l_ellander) i/lub w Ratuszu [Ellander](#l_ellander)
+- [x] Tato wrócił z wojny<a id='z_q4'></a>
+    - Charytatywnie/ubrania
+    - Córka krawcowej [Elizy](#p_eliza) widzi zmarłego ojca
+    - “Ojciec” to potwór żywiący się tęsknotą dziecka, widoczny dla dorosłych tylko w lustrach, został zabity przez PC
+    - Dziecko przejawia predyspozycje do użycia Mocy; nie ma kontroli; potrzebuje nauk zanim podpadnie Łowcom Czarownic
+    - Krawcowa [Eliza](#p_eliza)
+- [ ] Dziedzic rodu Harevard<a id='z_q5'></a>
+    - Czy ktoś przetrwał najazd Niilfgaardczyków?
+- [x] Szczury uciekające z kanałów<a id='z_q6'></a>
+    - 500GP
+    - Są duże, niektóre większe nawet od psa
+    - Mają żółte ślepia przypominające bardziej gada niż ssaka
+    - Wychodzą na ulice i są agresywne, odpowiadają za kilka śmierci
+    - Podczas polowania na szczury okazuje się, że te są kontrolowane przez osobę grającą konkretną melodią na flecie(?)
+    - Jest opcja, że ta osoba "użycza" sobie zmysłów szczurów
+    - [x] pomoc ze strony [Skovika](#p_skovik) i jego braci w złapaniu/zabiciu grajka
+    - Rada Miejska
+- [x] Ku Świątyni!<a id='z_q7'></a>
+    - Glejt do miasta, 100GP
+    - Zabierzcie ze sobą [Kasimira](#g_kasimir)
+    - [x] Zabierzcie ze sobą [Elizę](#p_eliza) i [Darię](#p_daria)
+    - [x] Zabierzcie ze sobą strażnika [Toma](#p_tom) pogryzionego przez chorego szczura
+    - Zdobądźcie zapas leków / wsparcie kapłanek Melitele dla miasta [Ellander](#l_ellander)
+    - [Lord Myrton](#p_lord_myrton)
+- [x] Szczurołapa zatrudnię od zaraz<a id='z_q8'></a>
+    - 60GP
+    - złapać żywego szczura z kanałów
+    - [Viggo Regner](#p_viggo_regner)
+- [ ] Śladami Vilgefortza<a id='z_q9'></a>
+- [ ] Gdzie jest [Myszowór](#p_myszowor)?<a id='z_q10'></a>
+- [x] Paczki "Towarzystwa"<a id='z_q11'></a>
+    - 600GP płatne przy dostarczeniu obydwóch
+    - Odnaleźć i sprowadzić dwie paczki, jedną z [Próchnowa](#l_prochnowa), drugą z [Medownej](#l_medowna).
+    - Właścicielka [Pod Zieloną Świeczką](#l_zielona_swieczka); "Towarzystwo"
+- [ ] Raport z Frontu<a id='z_q12'></a>
+    - 150GP
+    - Znaleźć jakiegoś sierżanta na froncie pod [Brokilonem](#l_brokilon) i dostarczyć jego raport.
+    - Właścicielka [Pod Zieloną Świeczką](#l_zielona_swieczka); "Towarzystwo"
+- [x] Leśne igraszki<a id='z_q13'></a>
+    - Kryształowy koralik dla [Kajetana](#g_kajetan)
+    - Pomóc odszukać druha [Yaevinna](#p_yaevinn) na wschodzie [Brokilonu](#l_brokilon)
+
+---
+- Ekspedycja do [Kaer Seren](#l_kaer_seren)
+    - dawny dom wiedźminów szkoły [gryfa](#b_gryf)
+    - duża biblioteka, dom [Malaspiny](#p_malaspina)
+    - to samo już kiedyś się wydarzyło, [Stregobor](#p_stregobor) i [Istredd](#p_istredd) znaleźli ludzi zamarzniętych w pełnym rynsztunku ([Sesja 69](#sesja-069))
+    - była tam jakaś ekspedycja, częściowo odkopała twierdzę
+    - [Stregobor](#p_stregobor) rozpływał się nad "iluzją idealną" którą tam znalazł
+    - twierdza używana jako tymczasowa siedziba [Kapituły](#r_kapitula)
+    - prace archeologiczne były prowadzone przez [Stregobora](#p_stregobor) i [Istredda](#p_istredd), prawdopodobnie uruchomili jakiś mechanizm ochronny, powodując lawinę / wypełnienie twierdzy śniegiem, magowie musieli się ewakuować, co [Radcliffe](#p_radcliffe) przypłacił zdrowiem
+- Przeszpiegi w [Risbergu](#l_gora_cremora)
+    - sesje:
+        - [Sesja 76](#sesja-076)
+            - pierwsze wejście do [Risbergu](#l_gora_cremora)
+            - [Skovik](#p_skovik) obrócony w kamień
+            - pierwsze spotkanie z [Stucco Zangenisem](#p_zangenis)
+            - pierwsze spotkanie z strażnikiem A
+            - pierwsze spotkanie z strażnikiem B
+        - [Sesja 77](#sesja-077)
+            - eksploracja [Risbergu](#l_gora_cremora)
+            - pierwsze spotkanie z strażnikiem C
+            - pierwsze spotkanie z strażnikiem 0
+            - strażnik 0 konsumuje strażnika B
+            - statua kobiety, dla [Ilany](#g_ilana) znajoma twarz
+            - wyciągamy skamieniałego [Skovika](#p_skovik)
+        - [Sesja 86](#sesja-086)
+            - rozmowa z [Zangenisem](#p_zangenis)
+            - tajemniczy twórca strażnika 0
+            - [Zangenis](#p_zangenis) macza palce w nekromancji
+            - eksperymenty z [Wranami](#r_wran)
+            - [Kajetan](#g_kajetan) powinien zrobić swoje zadanie domowe jeśli chce dowiedzieć się więcej
+        - [Sesja 88](#sesja-088)
+            - rozmowa ze [Stregoborem](#p_stregobor)
+            - [Ortolan](#p_ortolan) i [Filavandrel](#p_filavandrel) sponsorowali projekt zabójcy magów niewrażliwego na Moc dzięki [Wranom](#r_wran)
+            - Wykonawcą był tajemniczy uczeń [Ortolana](#p_ortolan), [Zangenis](#p_zangenis) pomagał w jakimś stopniu
+        - [Sesja 89](#sesja-089)
+            - rozmowa z [Zangenisem](#p_zangenis)
+            - mag kręci nosem że [Kajetan](#g_kajetan) po prostu pytał
+            - statua kobiety z [Risbergu](#l_gora_cremora) była [Flaminką](#p_sariel) kręgu Mayeńskiego
+            - [Ilana](#g_ilana) efektem jakiegoś jej eksperymentu
+        - [Sesja 108](#sesja-108), [Sesja 109](#sesja-109)
+            - Eksploracja twierdzy
+            - zabicie strażników A, C, 0
+    - historia / kontekst:
+        - [Risberg](#l_gora_cremora) to północna twierdza Zielonych Rycerzy
+        - [Ortolan](#p_ortolan) i [Filavandrel](#p_filavandrel) byli sponsorami projektu, którego efektem miał być zabójca magów, niewrażliwy na Moc - wykonawcą był tajemniczy uczeń [Ortolana](#p_ortolan)
+        - elfka z rzeźby na fontannie to żona [Galawaina](#p_galawain) objęta klątwą zapomnienia, została zniszczona, jej głowa - podarowana [Stregoborowi](#p_stregobor) razem z kawałkami rzeźb z Crag An - jeśli odebrał na czas z [Mariboru](#l_maribor)
+        - cytadelę próbowali wyczyścić najęci przez magów wiedźmini szkoły kota, bez powodzenia
+        - projekt mógł być prawdziwą przyczyną jatki pod [Sodden](#l_sodden)
+        - [Kapituła](#r_kapitula) zakopała coś związanego na pogórzu Tukajskim
+    - potwory:
+        - strażnik 0 humanoid o żółto-fioletowej skórze. ciało zdeformowane twarzami wykrzywionymi w przedśmiertnym grymasie
+        - strażnik 1 łysy niedźwiedź regenerował się od rzucanych nań zaklęć
+        - strażnik 2 wężobaba zamieniała ukąszeniem w kamień - zjedzona przez strażnika 0, który potencjalnie przyswoił sobie jej umiejętności, potrafi zniszczyć Bąbelek Leomunda
+        - strażnik 3 wilkoskorp wilk ze skorpionim ogonem zakończonym okiem
+    - układ/lokacja:
+        - wejście przez szyb kopalniany w skalnym kominie, jego góra zapieczętowana stopionym kamieniem, ściany - kruche, w fatalnym stanie
+        - w kopalnianych chodnikach porzucone obozowisko, dalej mnóstwo pułapek - różnych run i magicznych linek alarmujących
+        - zaraz przed wyłomem do samej cytadeli właściwy obóz z zaszyfrowanym dziennikiem na ścianach, łóżkiem, zwykłą skrzynką z narzędziami, magiczną skrzynką i magicznym źródłem światła, ślady jakiejś przepychanki
+        - pomieszczenia są z magiczną ciemnością, rozproszyć może mocne zaklęcie albo artefakt w posiadaniu [Ilany](#g_ilana). Efekt można znieść za pomocą czarno-białego kandelabra
+        - wystawa rozumnych ras północy
+        - pokój z dziurawą podłogą ukrytą pod iluzją - znamy układ iluzji, kładka do korytarza zrobiona, odgruzowane przejście do biblioteki
+        - biblioteka z zepsutym światłem i skutą księgą
+        - pracownia alchemiczna
+        - pokoje, oryginalnie połączone teleportami jak [Thanedd](#l_wyspa_thanedd), obecnie są złączone wykutymi w skale korytarzami
+        - pokój z fontanną: kamienne posągi kolekcjonowane przez strażnika b, fioletowa trawa, gablota ze złamanym mieczem. Na fontanie była rzeźba elfki, z twarzy której wzrok sam się zsuwa, próba przyjrzenia kończy się krwotokiem z nosa
+        - gdzieś tam znajduje się szkielet [Wrana](#r_wran)
+- Na ratunek [Isilme](#p_isilme)
+    - prawdopodobnie pojmany przez [Łowców](#r_lowca) Czarownic podobnie jak [Kajetan](#g_kajetan)
+    - podobnie jak my miał okazję próby ucieczki z wozu więziennego - w [Trupiej Knieji](#l_trupia_knieja), bez powodzenia
+    - jest przetrzymywany w [Est Tayiar](#l_est_tayiar)
+    - W jego ciele hodowany jest [dwimeryt](#r_dwimeryt)
+    - [Est Tayiar](#l_est_tayiar) prawdopodobnie znajduje się w okolicy lub pod kopcem na wschodnim krańcu [Trupiej Kniei](#l_trupia_knieja), [Oxenfurcka](#l_oxenfurt) szkoła zorganizowała trzy ekspedycje w tamte strony ale żadna nie wróciła
+- W pogoni za honorem [Skovika](#p_skovik)
+    - opinię [Kajetana](#g_kajetan), że [Artis](#p_druid_artis) zmanipulował i namówił [Skovika](#p_skovik) do zamachu, nieumyślnie i pośrednio wykreował [Roeggner](#p_roeggner), karmiąc bujną wyobraźnię elfa wyspiarskimi domysłami (sesja 81)
+    - po rodach można się spodziewać:
+        - [Drummond](#p_drummond), Dimun - przychylne [Skovikowi](#p_skovik)
+        - An Craite, An Hindar, Brokvar - nieprzychylne osiłkowi, popierają [Cerys](#p_cerys)
+        - Tuirseach  - przeciw [Cerys](#p_cerys), niekoniecznie z [Drummond](#p_drummond) i Dimun ([Svanrige](#p_svanrige))
+    - [Skovik](#p_skovik) pomoże nam przy jeszcze jednej przygodzie w [Risbergu](#l_gora_cremora), po czym wyrusza na wyspy, odbudować ród i stworzyć dom dla siebie i [Ilany](#g_ilana)
+- [Mistrz](#r_mis) i [Ilana](#g_ilana)
+    - Znaleźć i porozmawiać z [Myszoworem](#p_myszowor)
+    - Dać się wyćwiczyć [Artisowi](#p_druid_artis) w zamian za własną krew - jeśli znajdzie [Fornhalę](#l_fornhala)
+- Powrót do Crag An:
+    - [Stregobor](#p_stregobor) wyraził zainteresowanie (sesja 88)
+    - historia wg Starego Olsy:
+        - [Aen Drisichean](#r_aen_drisichean) przybyli z innej płaszczyzny przez portal, pierwszy w [Brokilonie](#l_brokilon), w miejscu którego wybudowali wieżę
+        - w sercu lasu powstało miasto, które znamy jako [Craag An](#l_craag_an)
+        - stworzenia, które nie posługiwały się Mocą [Aen Drisichean](#r_aen_drisichean) uważały za zwierzęta
+        - o [Wranach](#r_wran) mało kto wiedział, ich istnienie próbowano zatuszować - jak zwierzęta mogły by być w stanie odebrać dumnym elfom panowanie nad Mocą albo nawet i życie
+        - [Aen Drisichean](#r_aen_drisichean) straciły możliwość czerpania Mocy z portalu, przez który przybyły; okazało się, że jak z za często pitą gorzałką - jej brak niesie ze sobą delirium, czym więcej ktoś pił - tym mocniejsze
+        - rozpoczęła się wojna domowa; [Galawain](#p_galawain) próbował za wszelką cenę przywrócić stary porządek i naprawić źródło mocy, natomiast jego żona, przeklęta, bezimienna królowa, próbowała skrzyżować swój lud ze stworzeniami natywnymi naszej płaszczyźnie, z różnymi skutkami
+        - "Olsa" jest jednym z tych udanych eksperymentów królowej
+    - od [Galawaina](#p_galawain):
+        - wyrywając włócznię [Ivryna](#p_arcydruid_ivryn) obudził coś, co drzemało od wieków
+		- [Ivryn](#p_arcydruid_ivryn) zabezpieczył [Craag An](#l_craag_an) w ramach jakiejś umowy z [Galawainem](#p_galawain)
+		- jeśli chce się dostać bezpiecznie do [Craag An](#l_craag_an), [Eithne](#p_eithne) jest potencjalnym sprzymierzeńcem, którego jednak [strażnik](#p_galawain) odradza
+		- jeśli chce porozmawiać normalnie, powinien odwiedzić [króla lasu](#p_galawain) w jego więzieniu pod [Duen Canell](#l_duen_canell)
+        - by wyrwać [Galawaina](#p_galawain) z Duen Canel można spróbować użyć czarnego serca od [Zangenisa](#p_zangenis), [Finarrinowi](#p_druid_finarrin) nie podoba się taki koncept

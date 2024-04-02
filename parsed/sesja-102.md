@@ -1,0 +1,93 @@
+### Sesja 102
+##### [Sesja 101](#sesja-101) [Sesja 103](#sesja-103)
+1. Kuj żelazo póki gorące
+    - Budzimy się o świtaniu. [Kajetan](#g_kajetan) przez noc obmyślił plan działania na to, co jego zdaniem grasuje na polach, tj. południcę.
+    - Śniadanie przynosi nam chłopak na posyłki, Adelbert. Mówi, że Bris - chłop, którego brat zmarł w polu - zwykle jest w okolicy jeziora, łowi ryby. Był z resztą sąsiadem Yorwiego, młynarza.
+    - Interesujący nas rybak wypłynął już na jezioro, więc kierujemy się do młyna. Po drodze atakują nas zdziczałe gospodarskie psy, od których [Ilana](#g_ilana) dowiaduje się, że na polach jest gorąco, a w młynie zimno - zwierzęta noszą ślady zarówno poparzeń, jak i odmrożeń. W wiatraku są też szczury.
+    - Młyn wygląda na porzucony w pośpiechu, widać kilka rozerwanych worków mąki i ślady butów. W budynku rzeczywiście panuje nieprzyjemny chłód, a posłana na zwiad sowa [maga](#g_kajetan) marznie tak bardzo, że nie może wlecieć wyżej, jak na pierwsze piętro. W około walają się truchła zamarzniętych szczurów.
+    - Nie bez trudu ściągamy okiennice i drzwi. [Elf](#g_kajetan) myśli, że może słońce ogrzeje budynek. Nie chcąc jednak tracić nazbyt dużo czasu, wyruszamy na pola.
+    - Na polach widać ślady porzuconej na wiosnę pracy. Oprócz martwych, wysuszonych gryzoni znajdujemy też zakrwawioną motykę. [Kajetan](#g_kajetan), zgodnie ze swym planem, konstruuje swój bąbelek i medytuje, by rozumieć języki, których nie zna.
+    - Koło południa do naszego schronienia zbliża się tuman kurzu, jakby małe tornado. [Ilana](#g_ilana) wychodzi z kopuły, by zobaczyć cóż to takiego i zwabić zjawisko bliżej.
+    - W środku zawieruchy widzimy pląsającą, nucącą dziewczynę. [Druidka](#g_ilana) i [Skovik](#p_skovik) wpadają w dziwny trans kołysząc się w rytm przyśpiewki, a [Kajetan](#g_kajetan), widząc, że póki co nic im się nie dzieje, zadaje postaci pytania. Co prawda nie słyszy odpowiedzi, ale sondując myśli istoty dowiaduje się, że:
+        - południca stroiła się na swój ślub
+        - zgubiła gdzieś swój ślubny wianek
+        - przezywa się głupią, oddała swój wianek jakiemuś paniczowi przedstawiającemu się jako Edmund z Blaviken
+        - spotykali się na strychu młyna
+        - szlachetka naobiecywał niestworzonych rzeczy, po czym zniknął, zostawiając dziewczynę z dzieckiem w drodze
+        - dziewczyna bez wianka nie może iść do ołtarza
+    - Demon swe ostatnie myśli przekazuje wchodząc do naszego schronienia. [Kajetan](#g_kajetan) szykuje się do walki, gdy widziadło rozpływa się w powietrzu.
+    - [Ilana](#g_ilana) i [Skovik](#p_skovik) są wyczerpani swoim transem, ale nic poważnego im się nie stało. [Kajetan](#g_kajetan), wiedziony przeczuciem, nakłania resztę do ponownych odwiedzin w młynie.
+    - W Młynie [mag](#g_kajetan) wprasza się do środka i rozgląda za duchem młynarza. Znalazłszy go, znów próbuje sztuczki z zadawaniem pytań i sondowaniem myśli:
+        - młynarz miał plan wydać córkę za syna piekarza z sąsiedztwa
+        - wściekł się, gdy odkrył mezalians i ciążę
+        - pijany, w kłótni spoliczkował dziewczynę, która w rezultacie bez słowa uciekła z domu
+        - prośba o pomoc w znalezieniu wianka młynarzówny doprowadza ducha do białej furii - wyzywa córkę od ladacznic
+    - Po nieudanych negocjacjach z duchem [Kajetan](#g_kajetan) teleportuje się na strych, obiecując towarzyszom, że zaraz wróci.
+    - Duch młynarza, jawiący się jako cień na ścianie, atakuje [intruza](#g_kajetan). Nim [Kajetan](#g_kajetan) pada nieprzytomny, znajduje wianek pod jednym z sienników, o dziwo ciepłym i niepokrytym szronem.
+    - Przeczuwając, co może się wydarzyć, [druidka](#g_ilana) i [wyspiarz](#p_skovik) biegną na górę młyna, wyciągając nieprzytomnego [maga](#g_kajetan). [Ilana](#g_ilana) prawie przypłaca to własnym zdrowiem.
+    - Uciekamy z młyna i odpoczywamy nieco w bezpiecznej odległości. W czasie odpoczynku [Ilana](#g_ilana) konwersuje z psami. Próbuje namówić je do powrotu do ludzi po drugiej stronie rzeki, co częściowo jej się udaje.
+    - Wianek zdaje się nas ciągnąć głębiej w wieś po tej stronie rzeki. Dajemy się prowadzić fantowi do wiejskiej studni, mętnej i definitywnie nie nadającej się do czerpania wody.
+    - Używając różnych sztuczek, stwierdzamy, że na dnie studni spoczywa ciało córki młynarza - najwyraźniej się [utopiła](#b_utopiec), nie wiedząc, co począć.
+    - Wrzucamy wianek do studni, zwracając go duszy umęczonej. Woda wygotowuje się, a dalej szczątki obracają się w popiół.
+    - Odnosimy wrażenie, że postać odeszła w pokoju, jednak wyruszymy na pola kolejnego dnia, aby się upewnić, zanim uznamy sprawę za załatwioną.
+2. Gość w dom, bogowie w dom
+    - Wracamy do wsi ze sforą psów na ogonie. Wśród przybyłych czworonogów Adelbert rozpoznaje swojego pupila.
+    - Czeka na nas Bris. Dowiadujemy się, że wraz z bratem pracował w polu, gdy nawiedziła ich południca. Ma przypalone pół twarzy i niesprawne oko, jakby kto przyłożył mu gorejącą patelnią. Jego brata znaleźli wysuszonego niczym śliwka.
+    - Żegnamy rybaka i udajemy się na spoczynek. Jawunt zdaje się tęsknić za częstymi wizytami z miasta, spędza więc z nami popołudnie pod stodołą, opowiadając:
+        - córkę młynarza wołali Desana
+        - w okolicy dworku [Arn Skrone](#l_arn_skrone) zrobiły się moczary
+        - posiadłość należała niegdyś do rodziny Romili, której dziedzic wpadł w długi
+        - podobno rzeczony szlachcic zdecydował się porywać ludzi dla okupów
+        - [Erde](#l_erde) - wieś, którą mijaliśmy w lesie, należała do tej rodziny, żyła z drwalstwa
+    - Do towarzystwa wkrótce dołącza Aldona z koszem z kolacją. [Kajetan](#g_kajetan) zabawia gospodarzy magicznymi sztuczkami, gdy tak snują opowieści. Jawunt posyła nawet po książkę, w której wspomniane są południce.
+    - [Kajetan](#g_kajetan) czyta na głos opis, który wypisz wymaluj pasuje do przypadku młynarzówny: porzucona panna młoda tuż przed lub zaraz po zaślubinach. [Ilana](#g_ilana) rzuca tematycznym żartem, na który [Skovik](#p_skovik) reaguje dziwnym zmieszaniem. 
+    - [Wyspiarz](#p_skovik) w pewnym momencie opuszcza "imprezę" udając się na stronę i długo nie wraca. Zaniepokojona [Ilana](#g_ilana) idzie go poszukać. Znajduje go nad jeziorem, rzucającego kamieniami w jezioro. Wywiązuje się rozmowa na stronie:
+        - [Skovik](#p_skovik) jest mimo wszystko wdzięczny losowi twierdząc, że to dzięki konieczności ucieczki z Wysp miał szansę poznać [Ilanę](#g_ilana)
+        - chciałby móc zaprosić [druidkę](#g_ilana) do siebie, do Kaer Muire (dwór rodu [Drummond](#p_drummond)), ale boli go, że jego ród jest podupadły, a ich dom - obrócony w ruinę
+        - chce wrócić na Wyspy, całkiem możliwe, że z [Lödbrokiem](#p_lodborke)
+        - nie wie, jak wygląda sytuacja na [Wyspach](#l_wyspy_skellige) od kiedy je opuścił
+        - [dziewczyna](#g_ilana) mówi o działaniach [Roeggnera](#p_roeggner), które zaogniły sytuację na [Skellige](#l_wyspy_skellige) - o ile wie, może wybuchnąć wojna domowa
+        - zdaniem [osiłka](#p_skovik) to nie jest żadna nowość, pytanie tylko kiedy się to wydarzy; on sam zamierza wziąć w nich udział w imieniu swojego rodu - rodu, do którego chciałby, aby i ona za jego sprawą w przyszłości dołączyła
+        - [Ilana](#g_ilana), nie myśląc o swoim przeznaczeniu, obiecuje, że cokolwiek [Skovik](#p_skovik) postanowi, ona się dostosuje
+        - [Skovik](#p_skovik) przypomina o legendzie swojego rodu i sugeruje, że [dziewczyna](#g_ilana) ze swoim usposobieniem idealnie wpisuje się w jego charakter - klan, którego potomkowie rzucają wyzwanie każdej nawet najbardziej szalonej przygodzie, szukając swojego ja
+        - na potwierdzenie tych słów, z inicjatywy [Ilany](#g_ilana) wieczór kończą niebyt rozsądną nocną kąpielą w jeziorze
+    - Następnego dnia wyruszamy na powrót na pola. Spędzamy południe tułając się po zaniedbanych uprawach i wracamy całkiem przekonani, że problem został rozwiązany - na polach, bo od młyna dalej trzeba trzymać się z daleka. Duch zabarykadował się w środku skuwając lodem wszystkie okiennice i drzwi.
+    - Gospodarze dziękują nam, proszą o rozwieszenie kilku ogłoszeń w najbliższym mieście, w jakim będziemy oraz przekazują kilka butelek wina własnej produkcji z prośbą o reklamę wśród magów.
+    - Na odchodne wpisujemy się do pamiątkowej księgi gości. [Kajetan](#g_kajetan), oprócz podpisu, zostawia specjalną, magiczną dedykację.
+    - Wraz z winem otrzymujemy mały pakunek na drogę, do którego z grzeczności i pośpiechu nie zaglądamy. 
+    - Okazuje się, że znaleziony w stodole grzebyk, podobnie jak zatopiony w oczku wodnym, błyskający broszką bucik należą do koleżanek Aldony i są pozostałościami po imprezie weselnej. [Ilana](#g_ilana) zwraca więc błyskotkę i tak, za pośrednictwem kręgu [Kajetana](#g_kajetan), przenosimy się do [Gors Velen](#l_gors_velen).
+3. Do [Gors Velen](#l_gors_velen)
+    - Pod tamtejszym kręgiem motłoch protestuje przeciwko magom. Dziwi nas to - podczas rządów redańskich, bez magów, miasto podupadało, a sytuacja wyraźnie poprawiła się, gdy byliśmy tu ostatni raz, gdy magia nie była już nielegalna.
+    - Krąg jest strzeżony przez strażników miejskich, którzy oferują nam eskortę, jednak radzimy sobie sami - na widok [Skovika](#p_skovik) dobywającego topór, motłoch sam się rozstępuje robiąc nam przejście.
+    - Niektóre sklepy noszą ślady aktów wandalizmu - napisy *"precz z czarodziejami"*, *"wiedźm nie obsługuje się"* nie należą do rzadkości...
+    - Rozdzielamy się. [Kajetan](#g_kajetan) zabiera wino, przekazuje swoją sowę do komunikacji i idze w odwiedziny do magów, a [Skovik](#p_skovik) z [Ilaną](#g_ilana) poszukają statku do [Kerack](#l_kerack). Okazuje się, że oprócz wina i prowiantu, gospodarze - wbrew naszemu sprzeciwowi wobec zapłaty w złocie - dorzucili do paczki brzęczący mieszek (150GP).
+    - W ogrodzie na [Thanedd](#l_wyspa_thanedd) [mag](#g_kajetan) spotyka [Margaritę](#p_margarita). Dowiaduje się, że:
+        - część mieszczan zawsze była niezadowolona z obecności magów, protesty to nic nowego
+        - [Kaer Seren](#l_kaer_seren) dalej jest niedostępna, szaleje nad nią potężna burza śnieżna
+        - [Radcliffe](#p_radcliffe) jest w stabilnym stanie, teraz na [Thanedd](#l_wyspa_thanedd), dalej nieprzytomny
+        - świeczkę, której użyliśmy, by pomóc [wyspiarzowi](#p_skovik), [Zangenis](#p_zangenis) odzyskał spod [Góry Cremora](#l_gora_cremora); czy wszystkie jej części powinny zniknąć - nie wiadomo
+        - do [Kaer Seren](#l_kaer_seren) organizowana będzie ekspedycja pod wodzą [Carduina](#p_carduin) - [Kajetan](#g_kajetan), jeśli chce, może się zapisać; wyprawa zostanie zaplanowana, gdy zbierze się dość chętnych
+        - [Ban Ard](#l_ban_ard) póki co jest porzucone i nie ma jak go odbić nie mieszając się politycznie w sytuację w [Kaedwen](#l_kaedwen) - w [Kapitule](#r_kapitula) toczy się debata czy i co zrobić
+        - póki co [Thanedd](#l_wyspa_thanedd) uczy zarówno dziewczęta, jak i chłopców
+        - na [Thanedd](#l_wyspa_thanedd) wszelkimi inicjatywami i administracją kapituły zajmuje się [Mardin](#p_mardin), biblioteką [Zavist](#p_zavist) a artefaktorium - [Tizjana](#p_tizjana)
+        - szajka, która ma odpisy alchemiczne, których [Kajetan](#g_kajetan) nie zamierzał upubliczniać, kojarzy się [czarodziejce](#p_margarita) z bandą, którą kilka lat temu, ponoć zupełnie, rozbiła [Triss](#p_triss_merigold); jeden z kierujących bandytami był magiem z Zerrikanii
+        - specjalistą od nekropolii, w tym [Ysgith](#l_ysgith), jest [Zavist](#p_zavist) - vide żona [Viggo](#p_viggo_regner)
+        - [Margarita](#p_margarita) może pomóc zlokalizować [Isilme](#p_isilme) przy artefakcie w [Kerack](#l_kerack), jednak nie może obiecać, kiedy będzie miała czas
+    - [Kajetan](#g_kajetan) razem z pierścieniem otrzymał rangę [Wolnego Maga](#r_wcz); daje mu to pewne przywileje:
+        - dostęp do biblioteki na wyspie
+        - możliwość kupna zwojów zawierających zaklęcia do trzeciego poziomu włącznie
+        - prywatną kwaterę na zewnętrznym pierścieniu
+        - może brać udział w otwartych inicjatywach:
+            - ustabilizować punkt mocy w [Carreras](#l_carreras)
+            - sprawdzić rozbłysk mocy w [Ysgith](#l_ysgith)
+            - sprawdzić fluktuacje Mocy między [Carreras](#l_carreras) a [Mariborem](#l_maribor)
+            - ekspedycja do [Kaer Seren](#l_kaer_seren) (za zaproszeniem)
+    - W porcie cumuje wiele statków, głównie są to okazałe galery z [Poviss](#l_poviss). Niestety żaden nie odchodzi bezpośrednio do [Kerack](#l_kerack).
+    - [Ilana](#g_ilana) i [Skovik](#p_skovik) znajdują kilka statków, głównie transportowych, które mogą przepływać przez [Kerack](#l_kerack). Jeden z nich, płynący do [Nastrogu](#l_nastrog), wydaje się być obiecujący:
+        - jest to "Rzeźnik" pod banderą [Novigradu](#l_novigrad), z symbolem [Bosaka](#p_bosak) i [Tasaka](#p_tasak)
+        - załoga, krasnoludy, niechętnie zgadzają się rozważyć prośbę o transport, jednak ani myślą zawijać do [Kerack](#l_kerack)
+        - [Skovik](#p_skovik) pociąga za sznurki swoich znajomości i negocjuje z kapitanem wspominając o [Roeggnerze](#p_roeggner) i jego piratach
+        - jeśli stawimy się w porcie nazajutrz wieczór, zanim odbiją, może pozwolą nam się zabrać i odłączyć w odpowiednim momencie na szalupie, oczywiście za opłatą
+    - Dwójka rusza na dalsze poszukiwania. Schodząc z Rzeźnika [Ilana](#g_ilana) czuje się odprowadzana nieprzyjaznymi spojrzeniami, niczym kot spacerujący przez wybieg dla psów.
+
+##### [Sesja 101](#sesja-101) [Sesja 103](#sesja-103)

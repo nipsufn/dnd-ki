@@ -1,0 +1,152 @@
+### Sesja 137
+##### [Sesja 136](#sesja-136) [Sesja 138](#sesja-138)
+1. Wieczorową porą
+    - Nasyciwszy apetyt lisa, zwijamy się całą trójką do chatki. Wkrótce zjawia się także [Finarrin](#p_druid_finarrin). Zarówno druida, jak i wojskowych zaniepokoił pokaz ogni [Kajetana](#g_kajetan), ale klarujemy, że wszystko pod kontrolą i nie ma powodów do paniki.
+    - [Ilana](#g_ilana), będąc po raz drugi w ciągu ostatnich kilku dni poparzoną przez igranie z ogniem, po raz wtóry przełyka dumę i prosi o pomoc w opatrzeniu się. Na szczęście, oprócz [Kristoffa](#p_kristoff), swoją pomoc oferuje jej także [Kajetan](#g_kajetan), któremu przy okazji wymyka się imię [Skovika](#p_skovik). Wszystko wskazuje jednak na to, że albo jest to popularne wyspiarskie miano, albo [Kristoff](#p_kristoff) go zwyczajnie nie kojarzy.
+    - Na stronie, w swoim pokoju [druidka](#g_ilana) prosi [elfa](#g_kajetan) o kryształ z nowym zaklęciem ukierunkowanym na [Gaetana](#p_gaetan) - chce nabrać więcej obycia przed zbliżającą się schadzką, a i osobiście rozmówić się z wiedźminem, dać mu do zrozumienia, że kontrakt jest niebyły, więc winien się odczepić.
+    - Pechowym zrządzeniem losu trafia akurat w sam środek jakiegoś walnego zebrania Dagomira z nilfgaardzkimi wojskowymi. Wnętrze oddaje podupadający zdaje się charakter Angrenu. Podnosi się krzyk i mimo tłumaczeń wodnej aparycji [dziewczyny](#g_ilana), żołdacy reagują nader żywiołowo. Wśród nich jest jakaś kobieta o niechybnie magicznych zdolnościach, która paraliżuje umysł druidki. Szczęściem, czy raczej wytężoną siłą woli udaje jej się wyzwolić spod zaklęcia - magiczce puszcza się krew z nosa.
+    - Nie chcąc się dłużej narzucać, ani tym bardziej ryzykować trwałego uszczerbku na zdrowiu, w krótkich, żołnierskich słowach przekazuje [Gaetanowi](#p_gaetan), co ma mu do powiedzenia i zrywa połączenie.
+    - Wycierając krew spod własnego nosa, [Ilana](#g_ilana) odwiedza pokój [Kristoffa](#p_kristoff) celem zwrócenia użyczonej maści. Zastaje go podczas jakiejś modlitwy lub rytuału, które przerwał, by ją wpuścić. Chwilę rozmawiają:
+        - tym razem to [Ilana](#g_ilana) przeprasza wyspiarza, bo chyba zrozumiała skąd wzięły się jego kondolencje
+        - oferuje mu możliwość wizyty na [Thanedd](#l_wyspa_thanedd) i zasięgnięcia opinii i/lub pomocy magów względem jego predyspozycji
+        - druid jest wyraźnie zakłopotany i zbywa propozycję stwierdzając, iż się nad nią zastanowi
+        - namyślił się już co do wyprawy na smoka; jest skłonny nam towarzyszyć, ale tylko jeśli jesteśmy w pełni świadomi ryzyka i dalej chcemy jego pomocy
+        - wspomina, że wyprawa na drewnianym okręcie była testem zaserwowanym mu przez [mentora](#p_myszowor)
+        - w terminie u [Myszowora](#p_myszowor) spędził kilka lat
+        - chciał iść pomóc w walce z [lodowymi gigantami](#b_lodowy_gigant), ale zamiast tego druid wysłał go na kontynent
+    - W tym czasie [Kajetan](#g_kajetan) dobija się do [Ilany](#g_ilana). Spotykają się w korytarzu. Elfowi przypomniało się o zamku kultystów w okolicach Buiny i pyta, czy teraz, znając jego położenie, [dziewczyna](#g_ilana) czuje potrzebę, by złożyć tam wizytę i "zrobić porządek". Sam ma wątpliwości względem takowej wycieczki, a to z racji niebezpieczeństwa spotkania z [Elatan](#p_elatan), która także kręci się w tej okolicy. Druidka woli jednak trzymać się z dala od sekciarzy i ich pajęczego bóstwa. Informuje też [czarodzieja](#g_kajetan), że [Kristoff](#p_kristoff) zgodził się pójść z nami na [Ivarowego](#p_ivar) smoka.
+    - Rozmowa schodzi na krojące się polowanie. Dyskutujemy, jak najlepiej przygotować się do wyprawy. [Ilana](#g_ilana) wspomina [Kajetanowi](#g_kajetan), że chciałaby, aby w wolnej chwili, jeszcze przed polowaniem, wysłał wiadomość do [Zangenisa](#p_zangenis) - zapytać o sprawę rudej, kamiennej flaminiki i pierścień z rytualnej świecy, zaginiony po całym zajściu.
+    - Elf upiera się, że pierścień wcale nie zaginął. Chcąc udowodnić swoją rację, wywraca na lewą stronę swoje kieszenie. Na łóżku [Ilany](#g_ilana) ląduje cała masa najrozmaitszych bibelotów, jednak po pierścieniu ani śladu. Korzystając ze sposobności, [dziewczyna](#g_ilana) przegląda dobytek [Kajetana](#g_kajetan) i sugeruje, by sprzedać niepotrzebne fanty, żeby nieco podreperować topniejący budżet drużyny. Czarodziej reaguje co najmniej, jakby kazała mu zastawić własną matkę i pośpiesznie chowa swoje bezcenne graty z powrotem do torby. Wychodzi, tłumacząc się kilkoma ważnymi rozmowami przed snem.
+    - Po wyjściu kompana, [Ilana](#g_ilana) pisze krótką wiadomość do [Skovika](#p_skovik), w której docieka, czy podróż mija mu bez przygód i będzie nazajutrz w umówionym miejscu.
+    - Przed udaniem się na spoczynek, [Kajetan](#g_kajetan) faktycznie wykonuje kilka rozmów zamiejscowych:
+        - [Morgan Guus](#p_morgan) wysłał swojego posłańca
+        - [Yaevinn](#p_yaevinn) puścił rzeczonego posłańca, sprawdzając, co niesie
+2. Komu w drogę
+    - Spotykamy się przy śniadaniu. [Kajetan](#g_kajetan) przeszedł samego siebie i nagotował jak dla całego pułku. Wciska wszystkim dokładkę, bo to "zapłacone", a więc - jak zwykle - przyjął zbyt personalnie wczorajszy komentarz [druidki](#g_ilana). Między kęsami rozmawiamy, co kto dalej zamiaruje:
+        - [Finarrin](#p_druid_finarrin) musi niebawem stawić się w [Verden](#l_verden) na jakimś spotkaniu; chciałby spędzić jeszcze jeden dzień wśród studentów, opowiadając im o [Mayenie](#l_mayena), a potem ruszy w drogę powrotną
+        - [Kristoff](#p_kristoff) nie pali się do powrotu na Wyspy - w [Mayenie](#l_mayena) zdaje się znalazł to, po co wysłał go [mentor](#p_myszowor), a teraz z chęcią poprzesmradza się z nami i bliżej zimy, kiedy morze jest spokojniejsze, zacznie rozglądać za statkiem na [Skellige](#l_wyspy_skellige)
+    - Podczas śniadania [Kajetan](#g_kajetan) otrzymuje wiadomość od [Mardina](#p_mardin). [Bibliotekarz](#l_biblioteka) ma dlań kilka ciekawostek związanych z przedmiotami, które [elf](#g_kajetan) pozostawił mu do zbadania.
+    - [Ilana](#g_ilana) idzie odprowadzić [Finarrina](#p_druid_finarrin). Chce zamienić z opiekunem kilka słów na osobności:
+        - wypytuje o Kościeja, jednak druid nie jest skłonny zagłębiać się w tę historię
+        - pyta o jego opinię na temat [Kristoffa](#p_kristoff)
+        - zdaniem [Finarrina](#p_druid_finarrin) młody druid jest trochę pogubiony i przytłoczony swoim nietypowym darem
+        - przyznaje, że gdyby wiedział o tym od początku, zastanowił by się dwa razy, czy wpuścić go do lasu
+        - druid zdaje się z pierwszej ręki znać częściowo jego przeszłość, ale nie ma zamiaru się nią dzielić
+        - [Ilana](#g_ilana) oznajmia, że chce [Kristoffowi](#p_kristoff) pomóc w miarę swoich możliwości, oraz że ułożyła się już sama ze sobą i tego samego chciałaby dla chłopaka
+        - wspomina o błogosławieństwie, o które prosił go [Skovik](#p_skovik); druid obiecuje, że dotrzyma słowa i otrzymają je, jeśli jej wybranek także pogodzi się ze swoją przeszłością
+    - W tym czasie [Kajetan](#g_kajetan) zabiera [Kristoffa](#p_kristoff) i idą do fortu pożegnać się z bakalarzem i [Lukrecją](#p_lukrecja_schattenwort):
+        - gnomka siedzi nad papierami i coś projektuje
+        - [Kajetan](#g_kajetan) zagaja ją o [Myrtona](#p_lord_myrton) i [Ignę](#p_igna); wysyła do nich swą magiczną, mentalną wiadomość, jednak bezskutecznie - efekt jest podobny, jak wtedy, gdy próbował skontaktować się z ekranowaną [Mirną](#p_mirna)
+        - życząc [Lukrecji](#p_lukrecja_schattenwort) zdrowia, zagląda jeszcze na wykopaliska
+        - widzi, jak dzięki jakiemuś zmyślnemu rozwiązaniu gnomki, wojacy samodwój, niemal bez większego wysiłku naprostowują wciąż lekko skrzywiony menhir
+        - zastaje bakalarza nadzorującego pakowanie znalezisk - wykopaliska zostały zamknięte, a oni odesłani do domu w trybie natychmiastowym
+        - obiecuje Edmundowi, że pociągnie za sznurki koneksji i postara się załatwić mu grant pozwalający na badania w czasie prac stabilizujących, jakie ma wykonać brygada z [Mahakamu](#l_mahakam)
+        - gdy ta dwójka rozmawia, [Kristoff](#p_kristoff) niemal cichaczem zabiera coś z jednej ze skrzyń, co nie uchodzi uwadze [Kajetana](#g_kajetan)
+    - Spotykamy się przy bramie. [Kajetan](#g_kajetan), niezbyt cicho, reprymenduje [Kristoffa](#p_kristoff), ale w nieco inny niż [Ilana](#g_ilana) sposób - pyta, czy ma mu pomóc zwędzić coś nieco bardziej dyskretnie. Oferta dociera uszu [Finarrina](#p_druid_finarrin), który patrzy na nas z miną zmęczonego, ale rozbawionego opiekuna niesfornej gromadki.
+    - Żegnamy druida i ruszamy w swoją stronę. Debatujemy, gdzie udać się najpierw. Z racji potrzeby naładowania awaryjnego medalionu [Kajetana](#g_kajetan), wybór pada na [Thanedd](#l_wyspa_thanedd).
+    - [Czarodziej](#g_kajetan) bierze się za rysowanie kręgu w rozmiękczonej deszczem ziemi. Korzystając ze sposobności [Ilana](#g_ilana) prosi [Kristoffa](#p_kristoff) o wyjaśnienie, skąd animozje z Drummondami. Według An Craite, klan [Drummond](#p_drummond) najechał ich wyspę i siłą wydarł im połowę ziemi, którą próbują odzyskać. [Kajetan](#g_kajetan) kwituje że tak samo swoje zachowanie usprawiedliwiają nieludzcy ekstremiści. Od czasu do czasu konflikt zaognia się - okresowo któryś ród skróci jarla tego drugiego o głowę i tak sobie tam żyją. Rudobrody zarzeka się, że to nic personalnego i on sam nie pała szczególną wrogością do opozycyjnego klanu.
+    - Teleportacja jest trochę wyboista. [Kajetan](#g_kajetan) zauważa, że w okolicy [Wyzimy](#l_wyzima) coś próbuje zakłócić nasz kurs i ściągnąć ku sobie. Na szczęście docieramy do swej oryginalnej destynacji, choć niektórzy z nas trochę wyprani z zasobów Mocy. [Kristoff](#p_kristoff), doświadczający tego typu podróży po raz pierwszy, aż przysiada z wrażenia.
+3. Międzylądowanie w [Gors Velen](#l_gors_velen)
+    - Pora jest wczesna, kiedy stajemy w [Gors Velen](#l_gors_velen). [Kristoff](#p_kristoff) przyznaje, że to jego pierwsza wizyta tutaj. Jest zachwycony miastem tak ludnym i tętniącym życiem, w odróżnieniu od Wysp. Ponoć nawet [Kaer Trolde](#l_kaer_trolde), stolica [Ard Skellig](#l_ard_skellig), nie jest tak duże i ruchliwe.
+    - Decydujemy rozdzielić się do wieczora - [Kajetan](#g_kajetan) ma pilne sprawy do załatwienia w akademii, a [Ilana](#g_ilana) tymczasem wcieli się w rolę miejskiego przewodnika dla [kolegi-druida](#p_kristoff).
+    - Będąc na [Thanedd](#l_wyspa_thanedd), [Kajetan](#g_kajetan) oddaje się obowiązkom i sprawunkom:
+        - odwiedza [Mardina](#p_mardin), jednak ten jest akurat w trakcie wykładu i obiecuje odnaleźć go później
+        - w bibliotece zastaje [Tizjanę](#p_tizjana), przeszukującą księgi i zwoje; rozmawiają o możliwości zlokalizowania [Isilme](#p_isilme)
+            - dywinacja będzie czasochłonna i wymagająca wielu prób, szczególnie jeśli [elf](#g_kajetan) nie posiada nic należącego do towarzysza z przeszłości
+            - alternatywą jest onejromancja, czarodziejka poleca Korrin z [Novigradu](#l_novigrad)
+        - [Mardin](#p_mardin) wyjaśnia, czego dowiedział się o powiększonym szkiełku i błyszczącej kości-kamieniu z [Brokilonu](#l_brokilon)
+            - szkiełko, teraz ciemnogranatowe, aktywnie opiera się wszelkim próbom poznania jego natury; w jakiś sposób sprawdza, czy użytkownik jest elfiego pochodzenia
+            - próby te kosztowały go wiele czasu i sporo nakładów finansowych w postaci zużytych komponentów
+            - kamień to fragment kości jednorożca, w tej chwili naładowanej magią
+            - może służyć, podobnie jak nasze kryształy z [Craag An](#l_craag_an), za rezerwuar Mocy
+            - mag prosi, by dostarczyć mu podobny kawałek, wówczas uzna dług za uregulowany
+        - wieczorem, po zajęciach odnajduje go [Daria](#p_daria); chwali się postępami, jakie zrobiła
+        - dziewczynka wymienia z matką listy, ponoć zobaczą się na [Yule](#r_midinvaerne)
+        - nauczyciele dostrzegają w adeptce talent do leczenia, chcą umieścić ją w terminie u [Keiry](#p_keira_metz), jeśli ta wróci do zdrowia
+        - [Kajetan](#g_kajetan) pomaga jej przy odrabianiu lekcji
+    - Na prośbę [druidki](#g_ilana), [elf](#g_kajetan) kontaktuje się z [Lambertem](#p_lambert), który dalej przebywa w Angrenie i czeka jak na szpilkach - [Keira](#p_keira_metz) nie najlepiej zniosła podróż, a teraz, razem z Radcliffem, [Mozaik](#p_mozaik), [Triss](#p_triss_merigold) i [Dorregarayem](#p_dorregaray) wyczekują na [Velen](#r_velen), by przeprowadzić leczenie w noc jesiennego święta. Wiedźmin jest wdzięczny za to, co zrobiliśmy dla [jego czarodziejki](#p_keira_metz). Bez marudzenia dzieli się wiedzą na temat potwora, na którego chcemy zapolować:
+        - to najprawdopodobniej [raraszek](#b_raraszek), "przerośnięty, bardziej agresywny indyk", choć te zwykle są szarobure, a nie brązowo-rude
+        - jego skóra to łuski poprzerastane piórami, niewrażliwymi na ogień (zniosą temperaturę wyższą od topnienia żelaza)
+        - jest czuły na trupi jad (mag domyśla się, że i inne obrażenia nekrotyczne)
+        - bestia ma lepszy wzrok niż słuch
+        - jest bardzo terytorialny, robi się nader agresywny, gdy coś zasiedli się w jego gnieździe, będzie próbował je odbić
+        - żre na potęgę, gdy przygotowuje się do złożenia jaj
+    - Późnym wieczorem [Kajetan](#g_kajetan) widzi się z [Mirną](#p_mirna):
+        - dziewczyna jest przestraszona i zaszokowana
+        - z jakiegoś zaułku obserwuje księżyc nad portem w [Kerack](#l_kerack), próbując się uspokoić
+        - z tuzina umyślnych wysłanych zajmować się grządkami mandragory wróciło czterech, ciężko poparzonych kwasem, ich ciała częściowo rozpuszczone
+        - [alchemiczka](#p_mirna) pomagała ich opatrzyć, ale wygląda na to, że tylko jeden przeżyje
+    - [Ilana](#g_ilana) zabiera [Kristoffa](#p_kristoff) na wycieczkę po mieście. W drodze mijamy tablice ogłoszeń:
+        - nagroda za łeb smoka podskoczyła do 1500GP
+        - oprócz smoka, jest inny potwór, który naprzykrza się karawanom na trasie [Gors Velen](#l_gors_velen) - [Kerack](#l_kerack) (gdzieś w okolicy [Cidaris](#l_cidaris)); informacji należy szukać u Thevada Heidmanna w Zaułku Złotników
+    - Zaciekawieni, idziemy wypytać o szczegóły. Po drodze zahaczamy o filię tutejszego banku, celem zrealizowania weksla z polowania na [ghule](#b_ghul). Prowizja jest zbójecka (piąta część plus dziesięć sztuk złota dodatkowo), ale mniejszy byłby jedynie w docelowej filii w [Verden](#l_verden) (dziesiąta część), dokąd obecnie całkowicie nam nie po drodze.
+    - Docieramy do interesu rzeczonego Thevada, jak się okazuje, zamożnego kupca prowadzącego swój biznes w mieście. [Ilana](#g_ilana) kojarzy czarnobrodego gnoma ze zlecenia, do którego szukał ludzi jakiś czas temu, jednak wtedy przedstawiał się jako Rondergold. Kupiec opowiada o potworze:
+        - to ponoć [krabopająk](#b_krabopajak)
+        - atakuje wszystko w okolicy - zwierzęta dzikie i gospodarskie, a także ludzi z karawan
+        - trwa to od kilku tygodni
+        - ataki zaczęły się od [niepomnej karawany w górę Adalette](#sesja-103), do której to szukał eskorty
+        - płaci z własnej kieszeni 500GP za pozbycie się maszkary
+        - któreś z dotkniętych miast [Cidaris](#l_cidaris) zdaje się też oferuje jakąś nagrodę - mamy rozpytać sami
+        - o ile mu wiadomo, za smoka nagrodę wystawiło [Gors Velen](#l_gors_velen), [Burdoff](#l_burdoff), [Dorian](#l_dorian) i chyba jeszcze inne; wszyscy chcą jednak łba bestii
+    - Na Targu Rybnym [Kristoff](#p_kristoff) rozgląda się za jakimś podarkiem dla [Myszowora](#p_myszowor). [Ilana](#g_ilana) oddaje mu dziennik polowy [druida](#p_myszowor), który zwędziła swego czasu z biblioteki w [Brugge](#l_m_brugge). Wyspiarz jest zaskoczony i ujęty gestem.
+    - Podczas spaceru, na prośbę [młodzieńca](#p_kristoff) [Ilana](#g_ilana) opowiada co nieco o sobie: jak została druidką i kiedy właściwie jej przypadłość dała o sobie znać. Pogrążona w opowieści, trochę nieświadomie, prezentuje rąbek swoich możliwości. Łapie się na tym, że bezwolnie zaciska swoje przemienione pięści. Widząc reakcję [Kristoffa](#p_kristoff), z błyskiem w oku rzuca, że nie ma się czego bać - nie gryzie i nie drapie, no chyba, że ją o to poprosi.
+    - Rozmawiając, przechadzamy się przez nabrzeże. Słysząc znajome, wyspiarskie głosy, [Kristoff](#p_kristoff) nalega, by wstąpić do którejś z okolicznych tawern. Ślepym zrządzeniem szyderczego losu, trafiamy akurat na [Reah](#p_reah)'ę i jej kompanię wyspiarzy - tym razem dla odmiany w barwach białego niedźwiedzia na niebieskim tle, a więc klan Tuirseach. Podobnie jak poprzednio w [Novigradzie](#l_novigrad), wyspiarka błyskawicznie dostrzega [Ilanę](#g_ilana) i szczerząc się do towarzyszącego jej [ryżego brodacza](#p_kristoff), zaprasza oboje do reszty towarzystwa.
+    - Wśród biesiadników jest niejaki Folan, łowczy, łucznik z drużyny Hjalmara. Typ o jasnych, splecionych w warkocz włosach wyjątkowo imponuje [Kristoffowi](#p_kristoff). Młodzian wypytuje go o ich wyprawę na lodowego giganta sprzed kilku laty.
+    - Dowiadujemy się, że wyspiarze zostali wysłani tu przez samego Hjalmara, żeby uzupełnić sprzęt i zapasy.
+    - Za każdym razem, gdy pada wspomnienie o Drummondach, daje się odczuć pogardę, z jaką ci ludzie podchodzą do klanu [Skovika](#p_skovik).
+    - [Ilana](#g_ilana) i [Reah](#p_reah) rozmawiają o [Skoviku](#p_skovik). [Druidka](#g_ilana) streszcza, co też aktualnie porabia jej kochanek. Przy okazji co i rusz sprawdza tabliczkę, licząc na odpowiedź. Niestety, kamień milczy jak zaklęty.
+    - Piwo i inne trunki wyskokowe leją się gęsto. Sprzyja to snutym opowieściom i rozwiązującym się językom:
+        - [Reah](#p_reah) dość bezpośrednio zagaja [Kristoffa](#p_kristoff), czy na Wyspach czeka na niego jakaś panna; niestety młodzian nie ma już żadnych bliskich ani rodziny
+        - zapytany przez kogoś o [Kristoffa](#p_kristoff) Młodszego, posmutniały [druid](#p_kristoff) odpowiada, że już nie żyje
+    - Widząc reakcję [młodzieńca](#p_kristoff), [Ilana](#g_ilana) próbuje dodać mu trochę otuchy i oferuje swoje ucho, gdyby miał potrzebę wygadać się komuś obcemu, nieoceniającemu, opowiedzieć o swoich traumatycznych przejściach. W odpowiedzi [Kristoff](#p_kristoff) nazywa ją bratnią duszą, czym wprawia w wyraźne osłupienie.
+    - [Wyspiarka](#p_reah) przez cały wieczór próbuje poderwać [Kristoffa](#p_kristoff), racząc go swoimi dwuznacznymi, a momentami bardzo bezpośrednimi żartami. O ile początkowo mu to schlebia, tak wkrótce dociera do niego, że [Reah](#p_reah) poważnie chce go zbałamucić, co owocuje nietęgą miną i lekką paniką w oczach. 
+    - Gdy dudziarka staje się zbyt natarczywa, a godzina robi niebezpiecznie późna, [druidka](#g_ilana) ratuje kolegę z opresji. Biorąc [Kristoffa](#p_kristoff) pod rękę, autorytatywnie żegna się z wyspiarzami, życząc dobrej nocy. Napotyka zazdrosne spojrzenie [Reah](#p_reah)'i, na które odpowiada złośliwym uśmiechem i wychodzi, zabierając ["rudego"](#p_kristoff) sprzed nosa chutliwej wyspiarki.
+    - Noc na dobre rozgościła się na niebie, a wraz z nią - księżyc w pełni. W drodze powrotnej [Kristoff](#p_kristoff) wyjawia, że słyszał wiele opinii o dzieciach słynnego skalda-zawadiaki, Draiga Bon-Dhu, ale nie sądził, że to wszystko prawda. Bał się, że [Reah](#p_reah) mu nie odpuści.
+    - Chcąc udać się już na nocleg, [Ilana](#g_ilana) pyta [Kristoffa](#p_kristoff), czy jest jeszcze jakaś atrakcja, którą chciałby koniecznie zaliczyć. Odpowiada jej swoiste, pytające spojrzenie. Udając niezrozumienie, o co chodzi [wyspiarzowi](#p_kristoff), [druidka](#g_ilana) ucina temat i narzuca szybsze tempo marszu, co chwila zerkając na kamień komunikacyjny. Drogę pokonują w niezręcznym milczeniu, które przerywa szczere wyznanie druida - tłumaczy, że nie chciał nadużywać gościnności [Finarrina](#p_druid_finarrin) bałamucąc jego podopieczną.
+    - Dotarłszy na [Thanedd](#l_wyspa_thanedd), [Kristoffowi](#p_kristoff) aż odbiera mowę z wrażenia. Jest w głębokim szoku, pierwszy raz widząc na własne oczy instytucję napędzaną magią i na magii zbudowaną.
+    - Gdy docieramy do pokoju [Kajetana](#g_kajetan), [Ilana](#g_ilana) prosi go o wysłanie wiadomości do [Skovika](#p_skovik), by upewnić się, czy wszystko u niego w porządku i czy nie wpakował się w jakąś nieprzygodę. Wyspiarz jest w trakcie rozbijania obozu. Potrzebuje jeszcze chwili, a wiadomości druidki nawet nie zauważył, bo był mocno zajęty.
+4. Schadzka monitorowana
+    - Odczekawszy swoje, [Ilana](#g_ilana) wreszcie używa zaklęcia w krysztale. Sztuczka udaje jej się z niemałym trudem, ale w końcu staje na wzgórzu obok samotnego obozu z pojedynczym namiotem i grzejącym się nad ogniem kociołkiem z lodem. Z pagórka rozciąga się widok na osadę, skutą lodowym wałem od strony morza, oświetloną mrowiem ognisk i zapalonych pochodni.
+    - [Skovik](#p_skovik) cieszy się, że ją widzi, choć forma ta jest dla niego tak samo dziwna i niecodzienna, jak i dla niej. Rozmawiają przy ognisku:
+        - Arinbjorn zmieniło się ze spokojnej osady w prawdziwy obóz wojskowy, w którym stacjonują An Craite
+        - w obozie tym przebywa także [Cerys](#p_cerys)
+        - w związku z tym nie było mowy o zatrzymaniu się w tawernie; musieli cichaczem przekraść się bokiem
+        - tym razem [Skovik](#p_skovik) nie ma zamiaru biec mordować władczyni, ma nieco inne plany
+        - chce dotrzeć do swej rodzinnej osady i odwiedzić matkę, a później uda się do [Artisa](#p_druid_artis)
+        - opowiada o wizycie w dziwnej jaskini, którą [Ilana](#g_ilana) widziała we śnie
+        - znalazł ją, gdy na postoju poszedł za potrzebą
+        - przez świeże osuwisko otworzyło się wejście prowadzące do jaskini
+        - jaskinia ta była naturalna tylko w początkowej części - dalej ściany były gładko wyciosane, definitywnie ludzką ręką
+        - w obrobionej części jaskini, pod czymś przypominającym łuk bramy, piętrzyły się dekapitowane zwłoki Skelligijczyków z różnych klanów
+        - dalsze przejście blokował duży blok kamienia z odciśniętymi, krwawymi śladami; [Skovikowi](#p_skovik) nie udało się go poruszyć, by zbadać, co jest za nim
+        - [Ilana](#g_ilana) przyznaje się, że odwiedzała jego sny i przeprasza za wścibstwo; pyta, czy kiedykolwiek zauważył jej obecność, gdy śnił o niej, na co mężczyzna reaguje bardzo jednoznaczną, sugestywną miną
+        - pyta [Skovika](#p_skovik), czy chce znać dalszą część snu z jaskinią, który nie tak dawno spędzał mu sen z powiek
+        - wyspiarz wybiera niewiedzę
+        - [Lodbroke](#p_lodborke) odłączył się od niego po dotarciu na Wyspy twierdząc, że _"w jego cieniu [Skovik](#p_skovik) nie napisze własnej historii"_
+        - jednego człowieka stracił po drodze, przez syreny
+        - inni nieobecni zostali w poprzedniej osadzie
+        - podczas ataku wilków na szczęście nikt znacząco nie ucierpiał; wspomina o wizycie [Kajetana](#g_kajetan)
+        - bestie są ponoć pupilami [lodowych gigantów](#b_lodowy_gigant)
+        - ostatnio są wyjątkowo zajadłe i agresywne
+    - Przez uchylone poły namiotu [druidka](#g_ilana) zauważa, jakie przygotowania [Skovik](#p_skovik) poczynił względem ich spotkania: futra gęsto ścielące podłogę noclegu i niewielką balię z parującą wodą. Mając pewne wątpliwości co do stabilności nowego zaklęcia oraz panowania nad własną formą, proponuje alternatywę, to jest odwiedziny we śnie. [Skovik](#p_skovik) zdaje się na nią, wybór pada więc na śnienie. [Ilana](#g_ilana) kończy wodne zaklęcie i obiecuje odwiedzić go, jak tylko zaśnie. Prosi, by myślał o niej intensywnie.
+    - Odczekawszy swoje, próbuje przyśnić się [Skovikowi](#p_skovik):
+        - z ciemności wyłania się wnętrze jaskini i stojący w niej [Skovik](#p_skovik), zastygły w bezruchu z pochodnią w ręku
+        - mężczyzna stoi przed kamieniem z obcymi napisami i śladem krwi
+        - dookoła leżą zwłoki - świeższe i starsze, wszystkie pozbawione głów
+        - głowy są ułożone w dwa stosy pod drzwiami z kamienia
+        - [Ilana](#g_ilana) upewnia się, że [Skovik](#p_skovik) ma normalny puls; gdy go dotyka, czas nagle rusza, a zza kamienia słychać chlupot wody
+        - to nie woda, a krew; wypływa spod kamienia, po chwili sam kamień zaczyna się przechylać
+        - krwi jest co raz więcej, zaczyna zalewać jaskinię
+        - [Ilana](#g_ilana) prosi [Skovika](#p_skovik), by skupił się na niej i na swoim obozie - by wyobraził sobie ich spotkanie tam
+        - sztuczka się udaje, a [druidka](#g_ilana) znów czuje, że ma kontrolę nad otoczeniem; dopieszcza więc scenerię i realizuje obietnicę miłej nocy
+        - w krótkiej przerwie od uciech zauważa księżyc odbijający się na wodzie w balii i swoje własne odbicie
+        - po chwili jej perspektywa zmienia się; teraz jak przez lustro patrzy na samą siebie, ale jakby spoza namiotu
+        - siedzi na jakimś kamiennym tronie, w zimnej komnacie, przy kamiennym stole, nad którym wisi srebrna pajęczyna
+        - ze ścian patrzą na nią lustra ukazujące różne obrazy, w tym jeden z nią samą uśmiechającą się złośliwie od ucha do ucha, dosiadającą [Skovika](#p_skovik)
+        - zauważa swoje ręce, kruche i delikatne, obleczone w stare bandaże i łachmany, zauważa odbicie swojej twarzy, ale starszej i obciągniętej pergaminową, białą skórą - przywodzi na myśl kapłankę [Lwiogłowego Pająka](#r_lwioglowy_pajak)
+        - rozeźlona nie na żarty, skupia całą swoją wolę, by zamienić się miejscem z intruzem i wrócić do swojego "ja" z namiotu
+        - finalnie udaje jej się to z niemałym trudem
+        - nie mając pewności, czy [Skovik](#p_skovik) w ogóle zauważył, co się stało, kończy zabawę, życząc mu dobrej nocy
+        - ostatnim wysiłkiem intruza jest próba "strzaskania" snu, szczęściem [Ilanie](#g_ilana) udaje się wyrwać ze snu i zaznać nocnego odpoczynku
+
+##### [Sesja 136](#sesja-136) [Sesja 138](#sesja-138)
